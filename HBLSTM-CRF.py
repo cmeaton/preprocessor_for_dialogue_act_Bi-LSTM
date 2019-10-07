@@ -106,7 +106,7 @@ word_dim = 300
 proj1 = 200 # still unsure about this hyperparameter
 proj2 = 100 # still unsure about this hyperparameter
 words = 1620912
-batchSize = 1
+batchSize = 32
 drop = 0.2
 
 log_dir = "train"
@@ -259,9 +259,8 @@ def main():
     mapping, val, lab = flatten(values)
     data = replace(values,lab)
 
-    according to paper...conversation number per set: train - 1003, val - 112, test - 19
-    train_data = data[:(int(len(data)*.8))]
-    train_labels = labels[:(int(len(labels)*.8))]
+    train_data = data[:(int(len(data)*.7))]
+    train_labels = labels[:(int(len(labels)*.7))]
     dev_data = data[(int(len(data)*.2)):]
     dev_labels = labels[(int(len(labels)*.2)):]
 
@@ -276,7 +275,7 @@ def main():
         #writer = tf.summary.FileWriter("D:\\Experimemts\\tensorflow\\DA\\train", sess.graph)
         writer = tf.summary.FileWriter("train", sess.graph)
         counter = 0
-        for epoch in range(1):
+        for epoch in range(10):
             
             
             for dialogues, labels in minibatches(train_data, train_labels, batchSize):
@@ -299,7 +298,7 @@ def main():
                     tag='train_loss', simple_value=train_loss)
                 writer.add_summary(train_loss_summ, counter)
                 
-                if counter % 4 == 0:
+                if counter % 1000 == 0:
                     loss_dev = []
                     acc_dev = []
                     for dev_dialogues, dev_labels in minibatches(dev_data, dev_labels, batchSize):
@@ -324,7 +323,7 @@ def main():
                         tag='dev_loss', simple_value=valid_loss)
                     writer.add_summary(dev_loss_summ, counter)
                     print("counter = {}, dev_loss = {}, dev_accuacy = {}".format(counter, valid_loss, valid_accuracy))
-                    # saver.save(sess, 'my-model', global_step=counter)
+                    saver.save(sess, 'my-model', global_step=counter)
                 
 if __name__ == "__main__":
     main()
