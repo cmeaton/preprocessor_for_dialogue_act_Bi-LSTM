@@ -10,7 +10,7 @@ The model used is from the paper ['Dialogue Act Sequence Labeling using Hierarch
 ### Preprocessing scripts
 The source code did not include a script to preprocess SWBD data so that it could be fed into the model. To solve this problem, I wrote two scripts, *swbd_utterance_parser.py* and *swbd_preprocessor.py*.
 
-**swbd_utterance_parser.py:** This code inputs the raw transcript files from the SWBD corpus, cleans text data, numerically categorizes DA labels, and saves a clean csv file for each transcript, named by transcript id. To run this code, download the SWBD corpus from the link above. Depending on how many transcripts you would like to process at once, see lines 12 and 14. Call with:
+**swbd_utterance_parser.py:** This code inputs the raw transcript files from the SWBD corpus, cleans text data, numerically categorizes DA labels, and saves a clean csv file for each transcript, named by transcript id. This has already been run and the parsed data can be found in '/swda_paresed'. To run this code, download the SWBD corpus from the link above. Depending on how many transcripts you would like to process at once, see lines 12 and 14. Call with:
 
 $ python swbd_utterance_parser.py .
 
