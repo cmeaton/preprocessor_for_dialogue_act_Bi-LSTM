@@ -1,0 +1,252 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['all right. /'],all right ,"fo_o_fw_""_by_bc",MALE,0
+['all right.  /'],all right  ,"fo_o_fw_""_by_bc",FEMALE,0
+['what are some of your favorite foods? /'],what are some of your favorite foods ,qw,FEMALE,12
+"['mine,  {d well, } -/']",mine  d well  ,%,MALE,5
+"[""i imagine in argentina you've got some great foods. /""]",i imagine in argentina youve got some great foods ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{d well, } we got, {f um, } a lot of, {f uh, } european dishes. /']",d well  we got f um  a lot of f uh  european dishes ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ we got, + we got ] what some people call the best beef in the world. /']", we got  we got  what some people call the best beef in the world ,sd,MALE,1
+['yes. /'],yes ,b,FEMALE,2
+"[""{c so } it's, {f uh, } bishu <<foreign word>>,  /""]",c so  its f uh  bishu foreign word  ,sd,MALE,1
+"['{d like } every sunday you go out,  /']",d like  every sunday you go out  ,sd,MALE,1
+"['{c and } you buy all these parts of the cow,  /']",c and  you buy all these parts of the cow  ,sd,MALE,1
+['{c and then } you just cook them over a grill.  /'],c and then  you just cook them over a grill  ,sd,MALE,1
+"[""that's, - /""]",thats  ,%,MALE,5
+"[""{d like, }  in our house,  it's already built in.   /""]",d like   in our house  its already built in   ,sd,MALE,1
+"[""there's this whole special place in the back #  /""]",theres this whole special place in the back   ,sd,MALE,1
+['{c so } you can make a barbecue. # /'],c so  you can make a barbecue  ,sd,MALE,1
+"[""# [ i've had, + i've had ] that meal # in new york, {f uh, } where they bring you a plank, sort of, with all this wonderful beef --""]",  ive had  ive had  that meal  in new york f uh  where they bring you a plank sort of with all this wonderful beef ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- parts of beef, cooked and barbecued -- /']", parts of beef cooked and barbecued  ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""-- {c and } it's marvelous  ((   )) . /""]", c and  its marvelous       ,sd,FEMALE,1
+['{c and then. } -/'],c and then  ,%,MALE,5
+['i have to find a place around here that has that. /'],i have to find a place around here that has that ,sd,FEMALE,1
+"['{d well, } [ they have one in, + {f uh, } they have an ] argentinean place down in georgetown.  /']",d well   they have one in  f uh  they have an  argentinean place down in georgetown  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['okay,  /']",okay  ,bk,FEMALE,14
+"[""i'll keep that in mind, {d yeah. } /""]",ill keep that in mind d yeah  ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,MALE,5
+"['you serve that yourself, or [ the, + for ] a family? /']",you serve that yourself or  the  for  a family ,qy,FEMALE,7
+['excuse me? /'],excuse me ,br,MALE,30
+['you ever serve that yourself when you have company? /'],you ever serve that yourself when you have company ,qy,FEMALE,7
+"['{f oh, } no,  /']",f oh  no  ,nn,MALE,13
+"[""{d well, } {d see, } the problem is, i'm only twenty-two -- /""]",d well  d see  the problem is im only twentytwo  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c but } [ {d like, } + {d like } ] when i'm down at home -- /""]", c but   d like   d like   when im down at home  ,%,MALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- and {d like } somebody says okay, [ when are, + when are ] we having this, {d you know, }  /']", and d like  somebody says okay  when are  when are  we having this d you know   ,sd,MALE,1
+"[""{c and } i'll cook it. /""]",c and  ill cook it ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{d you know, } {d like } you have to prepare the fire,  and then put the sausages on,  /']",d you know  d like  you have to prepare the fire  and then put the sausages on  ,sd,MALE,1
+"['{c and then, } {d you  know, } you put all these different meats which take different times. /']",c and then  d you  know  you put all these different meats which take different times ,sd,MALE,1
+"['do you buy them, {f um, } separately at, {d you know, } an american grocery store now,  /']",do you buy them f um  separately at d you know  an american grocery store now  ,qy,FEMALE,7
+"['{c or } do you have to, - /']",c or  do you have to  ,qrr,FEMALE,33
+"[""[ you don't, + you don't ] go buy it from a wholesaler. /""]", you dont  you dont  go buy it from a wholesaler ,qy^d,FEMALE,16
+"['no,  /']",no  ,nn,MALE,13
+['{c but } what happens is in argentina they have {d like } all these little places --'],c but  what happens is in argentina they have d like  all these little places ,sd,MALE,1
+"['little butcher shops, yeah. /  *[[two utts]]']",little butcher shops yeah   two utts,bf,FEMALE,20
+"['-- like the fruit stand, and, {d you know, } the dairy, and products and  whatever,  /']", like the fruit stand and d you know  the dairy and products and  whatever  ,+,MALE,0
+['{c and so. } -/'],c and so  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i've lived in mexico,  /""]",ive lived in mexico  ,sd,FEMALE,1
+['{c so } i know. /'],c so  i know ,sd,FEMALE,1
+"['{c and so } [ they got, + they got ] the meat place. /']",c and so   they got  they got  the meat place ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['{c and so } you just go there  /'],c and so  you just go there  ,sd,MALE,1
+"[""{c and, }  you can't find chicken there,  /""]",c and   you cant find chicken there  ,sd,MALE,1
+['you got to go to another place to find the chicken. /'],you got to go to another place to find the chicken ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ you have to, + you have ] poultry place.  /']", you have to  you have  poultry place  ,sd,FEMALE,1
+"['[   what do you, + [ what other,  + what dishes ] do you ] serve with it? /']",   what do you   what other   what dishes  do you  serve with it ,qw,FEMALE,12
+"[""{d well, } basically, it's, what we call it impenadas <<foreign word>> --""]",d well  basically its what we call it impenadas foreign word ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- [   which   is, + which is, ] like, -/']",    which   is  which is  like ,+,MALE,0
+"['the turnover,  /']",the turnover  ,^2,FEMALE,23
+['the stuffed turnover. /'],the stuffed turnover ,^2,FEMALE,23
+"['right,  /']",right  ,aa,MALE,4
+['meat turnovers. /'],meat turnovers ,sd,MALE,1
+"['{f oh, } i love those,  /']",f oh  i love those  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,%,FEMALE,5
+"['{c and, then } we also put sausages on a bun,  /']",c and then  we also put sausages on a bun  ,sd,MALE,1
+"[""{c and then } [  that's, +  that's ] to start out with. /""]",c and then    thats   thats  to start out with ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and then } what you have is also [ {d like, } + {d you know, } {d like } ] three different kinds of salad. /']",c and then  what you have is also  d like   d you know  d like   three different kinds of salad ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } {f uh, } that's about it. /""]",c and  f uh  thats about it ,sd,MALE,1
+"['do you remember when you were in washington, sam the argentine baker? /']",do you remember when you were in washington sam the argentine baker ,qy,FEMALE,7
+"['{f uh, } no. /']",f uh  no ,nn,MALE,13
+"['it used to be in georgetown, years ago.  /']",it used to be in georgetown years ago  ,sd,FEMALE,1
+"['he moved,  /']",he moved  ,sd,FEMALE,1
+"['i guess [ he, + he ] retired and went back to argentina,  /']",i guess  he  he  retired and went back to argentina  ,sd,FEMALE,1
+"['i guess, in [ nine-, + ] the early seventies. /']",i guess in  nine   the early seventies ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{c so } [ that mus-, + that's ] before your time. /""]",c so   that mus  thats  before your time ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['your parents might remember if they were here then. /'],your parents might remember if they were here then ,sv,FEMALE,3
+"['no,  /']",no  ,ar,MALE,28
+['we were only there for two years. /'],we were only there for two years ,sd,MALE,1
+['okay.  /'],okay  ,bk,FEMALE,14
+"['{e i mean, } he was wonderful.  /']",e i mean  he was wonderful  ,sd,FEMALE,1
+['we used to get the most marvelous impenadas <<foreign word>>  and other --'],we used to get the most marvelous impenadas foreign word  and other ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- argentine things. /'], argentine things ,+,FEMALE,0
+"['{c and, }  {f uh, } [ what i, + what i ] also eat now, since i graduate, - /']",c and   f uh   what i  what i  also eat now since i graduate  ,sd,MALE,1
+"['i have an italian roommate,  /']",i have an italian roommate  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i'm italian. /""]",im italian ,sd,FEMALE,1
+['are you? /'],are you ,qy,MALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['{c and } [ since + being  ] argentinean we also have a lot of pasta. /'],c and   since  being   argentinean we also have a lot of pasta ,sd,MALE,1
+"['yeah,  {d well, } /']",yeah  d well  ,b,FEMALE,2
+"['{c and, } {d you know, } /']",c and  d you know  ,%,MALE,5
+"[""{c because } there're many italians in argentina. /""]",c because  therere many italians in argentina ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c and } my mom, {d you know, } {d like } makes --']",c and  my mom d you know  d like  makes ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {d like } what we call niokes <<foreign word>>,  and --   *[[sp:gnocchis]]']", d like  what we call niokes foreign word  and    spgnocchis,+,MALE,0
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- all this stuff,  that it's [ just, {d you know, } everything + like lasagna and  everything.  ] /""]", all this stuff  that its  just d you know  everything  like lasagna and  everything   ,+,MALE,0
+"['[  my grandparents, + my grandfather ] came to the united states through argentina. /']",  my grandparents  my grandfather  came to the united states through argentina ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,MALE,2
+['this was around the turn of the century.'],this was around the turn of the century,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['[ actually, + actually ] a little bit later, like [ [ nineteen thirteen, + nineteen twelve, ] + nineteen thirteen. ] /']", actually  actually  a little bit later like   nineteen thirteen  nineteen twelve   nineteen thirteen  ,+,FEMALE,0
+"['at one point, one third of the population of argentina was italian.']",at one point one third of the population of argentina was italian,sd,MALE,1
+['{d like } pure italians. /'],d like  pure italians ,+,MALE,0
+"[""{d well, } i'll tell you,  /""]",d well  ill tell you  ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""it's interesting, because when we cook here, - /""]",its interesting because when we cook here  ,%,FEMALE,5
+"[""i'm of italian descent.  /""]",im of italian descent  ,sd,FEMALE,1
+['my husband is chinese. /'],my husband is chinese ,sd,FEMALE,1
+['okay. /'],okay ,b,MALE,2
+"['[ {c so } we, + {c and } we ] both love continental cooking, french cooking. /']", c so  we  c and  we  both love continental cooking french cooking ,sd,FEMALE,1
+['okay. /'],okay ,b,MALE,2
+"['{c so } we cook, {f uh, } - /']",c so  we cook f uh   ,%,FEMALE,5
+"['our meals  are, {d well, } - /']",our meals  are d well   ,%,FEMALE,5
+"[""[ we don't, + we don't ] usually mix.  /""]", we dont  we dont  usually mix  ,sd,FEMALE,1
+"['i mean, that sometimes -- -/']",i mean that sometimes  ,%,FEMALE,5
+['right. /'],right ,b,MALE,2
+"[""-- {d well, } if we're entertaining we'll do a chinese recipe -- /""]", d well  if were entertaining well do a chinese recipe  ,sd,FEMALE,1
+"['-- {c and, }  {f um, } there are really easy recipe  /']", c and   f um  there are really easy recipe  ,sd,FEMALE,1
+"['{e that is, } {d you know, } with chinese you always have several dishes <talking>. /']",e that is  d you know  with chinese you always have several dishes talking ,sd,FEMALE,1
+"[""yeah. /   *[[slash error should be 'b']]""]",yeah    slash error should be b,+,MALE,0
+"['{c and } nowadays with microwaves, - /']",c and  nowadays with microwaves  ,sd,FEMALE,1
+['you can steam many of the things in a microwave. /'],you can steam many of the things in a microwave ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""i don't know if you have one. /""]",i dont know if you have one ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,MALE,9
+"['{c and } if you like chinese food, you can take filet of fish --']",c and  if you like chinese food you can take filet of fish ,sd,FEMALE,1
+['okay. /'],okay ,b,MALE,2
+['-- and put a little bit of soy sauce and a little bit of sesame oil on top of it  --'], and put a little bit of soy sauce and a little bit of sesame oil on top of it  ,+,FEMALE,0
+['okay. /'],okay ,b,MALE,2
+['-- and chop some scallions and a little ginger --'], and chop some scallions and a little ginger ,+,FEMALE,0
+['okay. /'],okay ,b,MALE,2
+"['-- and just cover it with some, {f uh, } waxed paper and steam it just until the fish is done,  /']", and just cover it with some f uh  waxed paper and steam it just until the fish is done  ,+,FEMALE,0
+"[""{c and } it's a wonderful  --""]",c and  its a wonderful  ,sd,FEMALE,1
+['is it? /'],is it ,qy,MALE,7
+"['-- {f um, } flavorful piece of fish.  /']", f um  flavorful piece of fish  ,+,FEMALE,0
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{c because } i was at, {d you know, } - /']",c because  i was at d you know   ,%,MALE,5
+"[""it's like, [ when you, + when you  ] go buy fish, {d you know } -- /""]",its like  when you  when you   go buy fish d you know   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {d well } {d like } i buy {d like } the fish  /'], d well  d like  i buy d like  the fish  ,sd,MALE,1
+['{c so } you can do it in the microwave --'],c so  you can do it in the microwave ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- the breaded fish,  /']", the breaded fish  ,+,MALE,0
+"['{c and } yeah,  /']",c and  yeah  ,%,MALE,5
+"[""i've seen, {d you know, } the filet. /""]",ive seen d you know  the filet ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['buy a fresh filet of fish, a nice one at [ the fish mar-, + the fish counter. ] /']",buy a fresh filet of fish a nice one at  the fish mar  the fish counter  ,ad,FEMALE,22
+['what kind of fish? /'],what kind of fish ,qw,MALE,12
+"['{f um, } any white fish.  /']",f um  any white fish  ,sd,FEMALE,1
+"['sole is good, {f uh, } {f um, } flounder -- /']",sole is good f uh  f um  flounder  ,sd,FEMALE,1
+['okay. /'],okay ,b,MALE,2
+['-- sole or flounder is real good.  and even grouper. /'], sole or flounder is real good  and even grouper ,sd,FEMALE,1
+['{c so } we put soy sauce and sesame. /'],c so  we put soy sauce and sesame ,sd,MALE,1
+"['little bit of soy sauce and [ sesa-, + sesame ] seed oil. /']",little bit of soy sauce and  sesa  sesame  seed oil ,sd,FEMALE,1
+['okay. /'],okay ,b,MALE,2
+"['{c and, }  not too much soy sauce.  /']",c and   not too much soy sauce  ,sd,FEMALE,1
+"['{f uh, } some chopped up [ scall-, + ] {f um, } {d you know, } slivers of scallions.']",f uh  some chopped up  scall   f um  d you know  slivers of scallions,sd,FEMALE,1
+['okay. /'],okay ,b,MALE,2
+"['and slivers of ginger.   and then just cover it and put it in the microwave for [ just, + just ] [ two, + say two ] minutes,  check it after two minutes to see if the fish flakes.  /']",and slivers of ginger   and then just cover it and put it in the microwave for  just  just   two  say two  minutes  check it after two minutes to see if the fish flakes  ,+,FEMALE,0
+"[""{c and } if the fish flakes, it's done.  /""]",c and  if the fish flakes its done  ,sd,FEMALE,1
+"[""don't overcook it though. /""]",dont overcook it though ,ad,FEMALE,22
+"['okay,  /']",okay  ,b,MALE,2
+"['{c because } [ i got, + i got, ] {f um, } one of those little, {f uh, } microwaves,  /']",c because   i got  i got  f um  one of those little f uh  microwaves  ,sd,MALE,1
+['the ones that take forever to boil a cup of water. /'],the ones that take forever to boil a cup of water ,sd,MALE,1
+"['{d well, } you see, just check it, {d you know, } during, -/']",d well  you see just check it d you know  during ,ad,FEMALE,22
+['yeah. /'],yeah ,b,MALE,2
+"['{c and } another quick dish if you like, {f um, } do you know what hoi sin sauce is,  /  *[[two utts?]]']",c and  another quick dish if you like f um  do you know what hoi sin sauce is    two utts,sd,FEMALE,1
+"[""it's that sweet chinese sauce? /""]",its that sweet chinese sauce ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+"[""i don't. /""]",i dont ,sd,MALE,1
+"['{d well } if you go in a chinese store ask for hoi sin, h o i s i n. /']",d well  if you go in a chinese store ask for hoi sin h o i s i n ,sd,FEMALE,1
+"['wait, wait, wait, h, /  *[[three?]]']",wait wait wait h   three,ad,MALE,22
+"['h o i , /']",h o i  ,sd,FEMALE,1
+"['h o i, /']",h o i ,b^m,MALE,24
+"['s i n, or s e n -- /']",s i n or s e n  ,sd,FEMALE,1
+"['s i n, /']",s i n ,b^m,MALE,24
+"[""-- either way they'll spell it.   hoi sin sauce.  /""]", either way theyll spell it   hoi sin sauce  ,sd,FEMALE,1
+"[""it's a very sweet dark, sort of a purplish plum sauce, purplish brown.  /""]",its a very sweet dark sort of a purplish plum sauce purplish brown  ,sd,FEMALE,1
+"['{c and } if you take, {f uh, } little pieces of pork  and you fry them, like little cubes of pork.']",c and  if you take f uh  little pieces of pork  and you fry them like little cubes of pork,sd,FEMALE,1
+['okay. /'],okay ,b,MALE,2
+"['and you fry them with garlic and a [ little bit of, + couple dashes of ] hot pepper  --']",and you fry them with garlic and a  little bit of  couple dashes of  hot pepper  ,+,FEMALE,0
+['okay. /'],okay ,b,MALE,2
+"['-- and then mix some hoi sin sauce with sherry, just a little sherry  --']", and then mix some hoi sin sauce with sherry just a little sherry  ,+,FEMALE,0
+['okay. /'],okay ,b,MALE,2
+"['-- to thin it, and stir that in.  you can even put a spoon of ketchup in,  /']", to thin it and stir that in  you can even put a spoon of ketchup in  ,+,FEMALE,0
+"['{c and } that makes a great pork dish with a sort of a spicy sweet sauce, that you can serve over rice. /']",c and  that makes a great pork dish with a sort of a spicy sweet sauce that you can serve over rice ,sd,FEMALE,1
+"['<noise>  {f uh, } [ how much, + {f uh, } how much ] pork do you buy --']",noise  f uh   how much  f uh  how much  pork do you buy ,qw,MALE,12
+"['{f um, } {d well, } -/']",f um  d well  ,%,FEMALE,5
+['-- for two people. /'], for two people ,+,MALE,0
+"[""for two people, {f um, } [ amer-, + ] if it's american style, i buy a half a pound.  [ if, {d you know, } we, + if  you're ] just serving that,  /""]",for two people f um   amer   if its american style i buy a half a pound   if d you know  we  if  youre  just serving that  ,sd,FEMALE,1
+"[""{c but } if you're serving another dish  with it, say the rice dish  --""]",c but  if youre serving another dish  with it say the rice dish  ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""-- {f um, } {d well, } with guys pretty healthy appetites, i'd probably go a third of a pound  /""]", f um  d well  with guys pretty healthy appetites id probably go a third of a pound  ,+,FEMALE,0
+"['{c and then, } {d you know, }  you could, -/']",c and then  d you know   you could ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+['i could probably go half a pound <laughter>. /'],i could probably go half a pound laughter ,bf,MALE,20
+"['and [ you can  always, + you can always ] heat it up again, and save, {d you know. } /']",and  you can  always  you can always  heat it up again and save d you know  ,sd,FEMALE,1
+"[""{c so, } [ it's just, + it's just, ] since i'm from argentina, i just love meat. /""]",c so   its just  its just  since im from argentina i just love meat ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } we, -/']",c and  we ,%,MALE,5
+"['you can also do the same thing [ using, + ] {f um, }  if you have ground beef. /']",you can also do the same thing  using   f um   if you have ground beef ,sd,FEMALE,1
+['okay. /'],okay ,b,MALE,2
+['just stir fry the ground beef.  /'],just stir fry the ground beef  ,sd,FEMALE,1
+['drain off the oil.  /'],drain off the oil  ,sd,FEMALE,1
+['use the same hoi sin sauce and some of the frozen mixed vegetables. /'],use the same hoi sin sauce and some of the frozen mixed vegetables ,sd,FEMALE,1
+['okay. /'],okay ,b,MALE,2
+['just stir that in  /'],just stir that in  ,sd,FEMALE,1
+"[""{c and } you've got a very colorful side, another dish. /""]",c and  youve got a very colorful side another dish ,sd,FEMALE,1
+['{c and } how much does it cost? /'],c and  how much does it cost ,qw,MALE,12
+"['{f um, } the hoi sin sauce? /']",f um  the hoi sin sauce ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+"['{f oh, } a dollar twenty-nine a can. /']",f oh  a dollar twentynine a can ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,MALE,2
+"['a can would serve you [ [ for, + for, ] + {d you know, } for ] quite a few, {f um, } meals, {d you know. } /']",a can would serve you   for  for   d you know  for  quite a few f um  meals d you know  ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"['okay,  /']",okay  ,b,MALE,2
+"['i thought it was maybe [ {d like, } + {d you know, } {d like } ] five fifty  or  something. /']",i thought it was maybe  d like   d you know  d like   five fifty  or  something ,sv,MALE,3
+"['{f oh, } no,  /']",f oh  no  ,ar,FEMALE,28
+"['no,  /']",no  ,ar,FEMALE,28
+"['no,  /']",no  ,ar,FEMALE,28
+"['no,  /']",no  ,ar,FEMALE,28
+['no  /'],no  ,ar,FEMALE,28
+"[""it's not expensive at all.  /""]",its not expensive at all  ,sd,FEMALE,1
+"[""it's one of the chinese cooking basics. /""]",its one of the chinese cooking basics ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,MALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well } listen,  it was good talking with you. /']",d well  listen  it was good talking with you ,fc,FEMALE,10
+['same here. /'],same here ,fc,MALE,10
+['hope you enjoy your recipe. /'],hope you enjoy your recipe ,fc,FEMALE,10
+['all right.  /'],all right  ,fc,MALE,10
+['thank you. /'],thank you ,fc,MALE,10
+['okay.  /'],okay  ,fc,FEMALE,10
+['# bye-bye. # /'], byebye  ,fc,FEMALE,10
+['# bye-bye. # /'], byebye  ,fc,MALE,10

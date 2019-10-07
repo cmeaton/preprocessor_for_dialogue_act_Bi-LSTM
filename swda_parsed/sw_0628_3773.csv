@@ -1,0 +1,180 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['did you hear our topic?  /'],did you hear our topic  ,qy,MALE,7
+"[""it's in regards to discussing homes. /""]",its in regards to discussing homes ,sd,MALE,1
+"['homes,  /']",homes  ,b^m,MALE,24
+"['yes, sir,  /']",yes sir  ,ny,MALE,9
+['uh-huh.  /'],uhhuh  ,%,MALE,5
+"['[ what are, +  are ] you settled in a place? /']", what are   are  you settled in a place ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""i'm settled in a place.  /""]",im settled in a place  ,sd,MALE,1
+"[""i've been in it for [ twelve years, since  nineteen, +  {f uh, } {d actually } thirteen  years,  since nineteen ] seventy-eight  /""]",ive been in it for  twelve years since  nineteen   f uh  d actually  thirteen  years  since nineteen  seventyeight  ,sd,MALE,1
+"[""{c and } it's in richardson, texas, which is [ north texas -- +""]",c and  its in richardson texas which is  north texas  ,sd,MALE,1
+['(( right ))  <<faint>>. /'], right   faint ,b,MALE,2
+['-- {e or } north dallas. ] /'], e or  north dallas  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } we've lived in two houses in richardson.  /""]",c and  weve lived in two houses in richardson  ,sd,MALE,1
+"['we moved here in seventy-four <throat_clearing>   and, {f uh, } changed locations in seventy-eight. /']",we moved here in seventyfour throatclearing   and f uh  changed locations in seventyeight ,sd,MALE,1
+['okay. /'],okay ,bk,MALE,14
+['how about yourself? /'],how about yourself ,qo,MALE,25
+"['{d well, } we, {f uh, } left here in  seventy-six.  /']",d well  we f uh  left here in  seventysix  ,sd,MALE,1
+"['{f uh, } we were here for a few years,  /']",f uh  we were here for a few years  ,sd,MALE,1
+"['then we, {f uh, } have come back just this summer.  /']",then we f uh  have come back just this summer  ,sd,MALE,1
+"[""right now we're looking for housing, {f uh, } somewhere down in the  duncanville and cedar hill area.  /""]",right now were looking for housing f uh  somewhere down in the  duncanville and cedar hill area  ,sd,MALE,1
+['are you familiar with that? /'],are you familiar with that ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""it's a nice area. /""]",its a nice area ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['it is.  /'],it is  ,aa,MALE,4
+['the kids are in  school here in duncanville.  /'],the kids are in  school here in duncanville  ,sd,MALE,1
+"[""we're in a temporary place right now  /""]",were in a temporary place right now  ,sd,MALE,1
+"[""[ {c and, } + {f uh, }  {c so } ] they've enjoyed the school,  /""]", c and   f uh   c so   theyve enjoyed the school  ,sd,MALE,1
+"[""{c so } we're kind of trying to stay here  /""]",c so  were kind of trying to stay here  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+['are you finding it tough trying  to find what you want  /'],are you finding it tough trying  to find what you want  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"[""{d well, } [ what, + ] the problem we  got is that we've got five children -- /""]",d well   what   the problem we  got is that weve got five children  ,sd,MALE,1
+"['{f oh, } boy. /']",f oh  boy ,ba,MALE,6
+"['-- <laughter> {c and so, } {f uh, }  we really want <noise> four or five bedroom house  /']", laughter c and so  f uh   we really want noise four or five bedroom house  ,sd,MALE,1
+"['{c and, } {f uh, } {d you know, } everybody says,  {d you know, } how many houses are on the market  and --']",c and  f uh  d you know  everybody says  d you know  how many houses are on the market  and ,sd,MALE,1
+"['[ r-, + right. ] /']", r  right  ,b,MALE,2
+['-- all that kind of thing  /'], all that kind of thing  ,+,MALE,0
+"['{c so } [ we, +   {f uh, } we ] look at the paper,  /']",c so   we    f uh  we  look at the paper  ,sd,MALE,1
+"['we [ look at our, +  talk to our ] realtor  /']",we  look at our   talk to our  realtor  ,sd,MALE,1
+"['{c and } you can cut,  {d you know, } the listings, {f uh, } in about a third when you go from three to four bedrooms --']",c and  you can cut  d you know  the listings f uh  in about a third when you go from three to four bedrooms ,sd,MALE,1
+['sure. /'],sure ,b,MALE,2
+"['-- {d you know, } or five.  /']", d you know  or five  ,+,MALE,0
+['are you looking  /'],are you looking  ,qy,MALE,7
+"['or you settled,  /']",or you settled  ,qrr,MALE,33
+"['{e i mean, } -/']",e i mean  ,%,MALE,5
+"['no,  /']",no  ,nn,MALE,13
+"[""we're settled  /""]",were settled  ,sd,MALE,1
+"['{c and, } {f uh } --']",c and  f uh  ,sd,MALE,1
+"['[ h-, +  having, ] -/']", h   having  ,%,MALE,5
+"[""-- we're, {f uh, } - /""]", were f uh   ,+,MALE,0
+"[""i'm probably older  than you,  /""]",im probably older  than you  ,sv,MALE,3
+"[""i'm fifty-two,  /""]",im fiftytwo  ,sd,MALE,1
+"['{c but } {d anyway, } [ i, +  my ] youngest is getting married this year --']",c but  d anyway   i   my  youngest is getting married this year ,sd,MALE,1
+"['{f oh, } great. /']",f oh  great ,ba,MALE,6
+"['-- graduating college,  /']", graduating college  ,+,MALE,0
+"['{c so } i can board up their rooms,']",c so  i can board up their rooms,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+['and <laughter> look forward to retirement maybe. /'],and laughter look forward to retirement maybe ,+,MALE,0
+"['that empty nest syndrome is going to set in, i guess. /']",that empty nest syndrome is going to set in i guess ,sv,MALE,3
+"['{f oh, } gosh,  /']",f oh  gosh  ,ba,MALE,6
+"[""{d so, } we're looking  forward to retiring in about three years and --""]",d so  were looking  forward to retiring in about three years and ,sd,MALE,1
+['great. /'],great ,ba,MALE,6
+['-- maybe relocating to florida or somewhere.'], maybe relocating to florida or somewhere,+,MALE,0
+['okay. /'],okay ,b,MALE,2
+"['[ closer, +  closer ] to our families. /']", closer   closer  to our families ,+,MALE,0
+"['okay,  /']",okay  ,b,MALE,2
+"['[ you, +  are you ] from florida originally? /']", you   are you  from florida originally ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+['from west virginia  /'],from west virginia  ,sd,MALE,1
+"[""{c but } [ everyone's, + {f uh, } my wife's ]  parents are from the new york, new jersey area -- /""]",c but   everyones  f uh  my wifes   parents are from the new york new jersey area  ,sd,MALE,1
+['yeah <<faint>>. /'],yeah faint ,b,MALE,2
+"['-- [ {c so, } +  {c but } ]  everyone [ seems, + {f uh, } has seem   to ] relocated down that area. /']",  c so    c but    everyone  seems  f uh  has seem   to  relocated down that area ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['seems like a nice place to go <laughter>. /'],seems like a nice place to go laughter ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"[""we've got five  /""]",weve got five  ,sd,MALE,1
+"['{c and } the oldest is, {f uh, } ninth grade  /']",c and  the oldest is f uh  ninth grade  ,sd,MALE,1
+['{c and } the youngest is second grade  /'],c and  the youngest is second grade  ,sd,MALE,1
+"[""{c and } i think  they're going to be, {f uh, } with us forever. /""]",c and  i think  theyre going to be f uh  with us forever ,sv,MALE,3
+['<laughter>.'],laughter,x,MALE,8
+"[""i don't know if that's true,  /""]",i dont know if thats true  ,sv,MALE,3
+"[""{c but } it's sure, {d you know, } we're not anywhere near looking to, {f uh, } {f uh, } cut down in size.  /""]",c but  its sure d you know  were not anywhere near looking to f uh  f uh  cut down in size  ,sd,MALE,1
+"[""[ we're, +  we're -- ]""]", were   were  ,sd,MALE,1
+"['{f oh, } i --']",f oh  i ,b,MALE,2
+['-- trying to --'], trying to ,+,MALE,0
+['-- understand. /'], understand ,+,MALE,0
+"['-- find, -/']", find ,+,MALE,0
+['you need very minimum four and probably five. /'],you need very minimum four and probably five ,bf,MALE,20
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,MALE,4
+"['in fact, six would be real good. /']",in fact six would be real good ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+['my wife and i can share a bedroom <laughter>. /'],my wife and i can share a bedroom laughter ,sd,MALE,1
+"[""it's tough --""]",its tough ,qy,MALE,7
+"['{c either, } -/']",c either  ,%,MALE,5
+"[""-- to find a five and six [ room, +   bedroom ] house, isn't it? /""]", to find a five and six  room    bedroom  house isnt it ,+,MALE,0
+"[""{f oh, } i don't think it's possible  unless you, {d you know, } multimillionaire, something like that. /""]",f oh  i dont think its possible  unless you d you know  multimillionaire something like that ,sv,MALE,3
+"['{f oh, } i know. /']",f oh  i know ,aa,MALE,4
+"['{f uh, } /']",f uh  ,%,MALE,5
+"[""seems like you get in that category,  you're in the three hundred thousand dollar homes  or whatever  /""]",seems like you get in that category  youre in the three hundred thousand dollar homes  or whatever  ,sv,MALE,3
+"[""{c and } [ it's -- +""]",c and   its  ,sv,MALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,aa,MALE,4
+"[""-- that's ] an awful lot, {d you know } <laughter>. /""]", thats  an awful lot d you know  laughter ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['it is,  /']",it is  ,sv,MALE,3
+['yeah. /'],yeah ,%,MALE,5
+['((   )) .'],    ,x,MALE,8
+"[""{f uh, } we're having, - /""]",f uh  were having  ,sd,MALE,1
+"[""{d actually, }  if we find something for, {f uh, } i'd say less than a hundred and twenty thousand, we'll be  doing all right, # {d you know. } # /""]",d actually   if we find something for f uh  id say less than a hundred and twenty thousand well be  doing all right  d you know   ,sv,MALE,3
+['# right. # /'], right  ,b,MALE,2
+"[""that's, {f uh, } - /""]",thats f uh   ,%,MALE,5
+"[""{c but } i think the  thing's out there,  /""]",c but  i think the  things out there  ,sv,MALE,3
+"[""it's just a matter of, {f uh } --""]",its just a matter of f uh  ,sv,MALE,3
+"['just,']",just,^2,MALE,23
+"['-- {d you know, } [ looking -- +']", d you know   looking  ,+,MALE,0
+['matter --'],matter ,+,MALE,0
+['--  (( {d you know } ))  --'],   d you know    ,+,MALE,0
+"['-- of looking,  /']", of looking  ,+,MALE,0
+['right. /'],right ,aa,MALE,4
+"['-- finding ]  the right place, {f uh, } /']", finding   the right place f uh  ,+,MALE,0
+"['lot of people [ will buy, +  in your situation  will buy ] a four bedroom house and  convert maybe the garage or something [ or the, +  or do ] something.  /']",lot of people  will buy   in your situation  will buy  a four bedroom house and  convert maybe the garage or something  or the   or do  something  ,sv,MALE,3
+['i had a young lady used to work for me at my office from  the high school  /'],i had a young lady used to work for me at my office from  the high school  ,sd,MALE,1
+"['{c and } [ she had, + {f uh, }  there were seven kids in her ] family. /']",c and   she had  f uh   there were seven kids in her  family ,sd,MALE,1
+['wow. /'],wow ,ba,MALE,6
+"['{c and } they converted the dining room and,']",c and  they converted the dining room and,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['<laughter> did this and  that,  /']",laughter did this and  that  ,+,MALE,0
+"['{c but } they always seemed to get along fine, {d you know. } /']",c but  they always seemed to get along fine d you know  ,sd,MALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"['i think once  we get into a place, it will be just fine,  /']",i think once  we get into a place it will be just fine  ,sd,MALE,1
+['{c but } --'],c but  ,sd,MALE,1
+"['{f oh, } sure. /']",f oh  sure ,ba,MALE,6
+"[""-- {d you know, } [ it's + until then,   it's, ] {f uh, } {f oh, } a little stressful, {d you know, } just looking all the time and that sort of thing. /""]", d you know   its  until then   its  f uh  f oh  a little stressful d you know  just looking all the time and that sort of thing ,+,MALE,0
+"['{f oh, } i know  /']",f oh  i know  ,aa,MALE,4
+"[""{c and } [ it's, +  there's ]  nothing harder than that.  /""]",c and   its   theres   nothing harder than that  ,sv,MALE,3
+"['i always just sort of [ a, +  assign ] my wife that chore,  /']",i always just sort of  a   assign  my wife that chore  ,sd,MALE,1
+"['then i would let her narrow it down to three or four,  /']",then i would let her narrow it down to three or four  ,sd,MALE,1
+"[""then i'd go look because women seem to  like to look a lot more than men do. /""]",then id go look because women seem to  like to look a lot more than men do ,sv,MALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,aa,MALE,4
+['<laughter>.'],laughter,x,MALE,8
+"[""maybe that's the case.  /""]",maybe thats the case  ,aap_am,MALE,39
+"[""at least she's   got more opinions, {d you know, }  /""]",at least shes   got more opinions d you know   ,sv,MALE,3
+"[""[ there's, +  {f uh, } seems like there's ]  more constraints --""]", theres   f uh  seems like theres   more constraints ,sv,MALE,3
+['yes.  /'],yes  ,aa,MALE,4
+"['-- more things that she thinks about.   {d you know, } openness, {f uh, } the size of the kitchen and all this kind of stuff that i would --']", more things that she thinks about   d you know  openness f uh  the size of the kitchen and all this kind of stuff that i would ,+,MALE,0
+"['why, certainly. /']",why certainly ,aa,MALE,4
+"['-- probably gloss over and,']", probably gloss over and,+,MALE,0
+['<laughter>.'],laughter,x,MALE,8
+"['maybe even ignore, {d you know. } /']",maybe even ignore d you know  ,+,MALE,0
+['# i # --'], i  ,b,MALE,2
+['# {d so. } #'], d so  ,qw,MALE,12
+['-- understand that. /'], understand that ,+,MALE,0
+['what kind of business are you in? /'],what kind of business are you in ,+,MALE,0
+"[""i'm in the, {f uh, } sporting goods business.  /""]",im in the f uh  sporting goods business  ,sd,MALE,1
+"[""i'm a manufacturer's rep.  /""]",im a manufacturers rep  ,sd,MALE,1
+['i represent fourteen different hunting and shooting type companies. /'],i represent fourteen different hunting and shooting type companies ,sd,MALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,MALE,2
+['great. /'],great ,ba,MALE,6
+"['[ what, +  who ] are you with? /']", what   who  are you with ,qw,MALE,12
+"[""{f uh, } we're with an organization  called, {f uh, } wycliff bible translators. /""]",f uh  were with an organization  called f uh  wycliff bible translators ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""it's [ a, +  a ] missions organization  and, {f uh, } doing, {f uh, } translation, linguistics, that sort of thing. /""]",its  a   a  missions organization  and f uh  doing f uh  translation linguistics that sort of thing ,sd,MALE,1
+"['{d well, } great. /']",d well  great ,ba,MALE,6
+"[""{f uh, } it's got an office down here [ [ in, +   {f uh, } in, ] +  near ] duncanville  /""]",f uh  its got an office down here   in    f uh  in    near  duncanville  ,sd,MALE,1
+['{c and } we just moved down to be on staff down here  /'],c and  we just moved down to be on staff down here  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['[ how, +  how ] was the, {f uh, } - /']", how   how  was the f uh   ,qw,MALE,12
+"['[ s-, +  you say ] you lived in the denver area before? /']", s   you say  you lived in the denver area before ,qy^d,MALE,16
+['right. /'],right ,na,MALE,21
+"['how did that compare with this   area as far as [ house-, +  housing ] prices? /']",how did that compare with this   area as far as  house   housing  prices ,qw,MALE,12
+"[""{f uh, } we were, {f uh, } really  surprised to  find that they're higher here.  # {f uh, } # /""]",f uh  we were f uh  really  surprised to  find that theyre higher here   f uh   ,sd,MALE,1
+['# no kidding. # /'], no kidding  ,ba,MALE,6
+"[""when we moved from louisiana to denver,  it was astounding, {d you know, } to find that prices were, {f oh, } i guess almost  two or three times as high as we'd expected.  /""]",when we moved from louisiana to denver  it was astounding d you know  to find that prices were f oh  i guess almost  two or three times as high as wed expected  ,sd,MALE,1
+"['{c and then, } {f uh, } to come  down here, we thought things would be lower,  /']",c and then  f uh  to come  down here we thought things would be lower  ,sd,MALE,1
+"[""{c and } they're not.  /""]",c and  theyre not  ,sd,MALE,1
+"['i guess, {f uh, } really,  prices for housing are just, -/']",i guess f uh  really  prices for housing are just ,sv,MALE,3

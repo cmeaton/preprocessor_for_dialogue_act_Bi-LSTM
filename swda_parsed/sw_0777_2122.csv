@@ -1,0 +1,267 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+"['{d so, } {f uh, } do you own a p c? /']",d so  f uh  do you own a p c ,qy,MALE,7
+"['{f um, } no,  /']",f um  no  ,nn,FEMALE,13
+['not personally  /'],not personally  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['{c but } you have one at work. /'],c but  you have one at work ,qy^d,MALE,16
+"['yes,  /']",yes  ,ny,FEMALE,9
+"['uh-huh,  /']",uhhuh  ,ny,FEMALE,9
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['several <laughter>. /'],several laughter ,sd,FEMALE,1
+"['okay,  /']",okay  ,b,MALE,2
+"['{c and, } now because, {f um, } - /']",c and  now because f um   ,sd,MALE,1
+"[""{d see } [ i'm, + i'm ]  doing my, {f uh, } master's in computer science and computer engineering. /""]",d see   im  im   doing my f uh  masters in computer science and computer engineering ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ {c and, } + {f um, } {c and } ] [ i, + i ]  don't have one,  /""]", c and   f um  c and    i  i   dont have one  ,sd,MALE,1
+"['{c but } i have to use them,']",c but  i have to use them,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['{d like } [ during, + especially during ] my undergrad. /']",d like   during  especially during  my undergrad ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ you, + you ]  use, {f um, } - /']", you  you   use f um   ,%,MALE,5
+"['{d like } your first couple of years  you use personal computers because, {f uh, } {d you know, } the software.  /']",d like  your first couple of years  you use personal computers because f uh  d you know  the software  ,sv,MALE,3
+"[""{d you know, } {d like } it's easier for you to go to and run a program,""]",d you know  d like  its easier for you to go to and run a program,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } through the disk,']",d you know  through the disk,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['because, {f um, } the grader can do it at home. /']",because f um  the grader can do it at home ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""then, [ as the, + {d you know, } as you ]  go up higher, {d like } in your senior level, you're doing projects which [ are, + are ] so big,  /""]",then  as the  d you know  as you   go up higher d like  in your senior level youre doing projects which  are  are  so big  ,sv,MALE,3
+"['{c and } you have to have so many people sharing the same data,']",c and  you have to have so many people sharing the same data,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""that you can't use personal computers,  so you have to use, {d you know, } a main frame. /""]",that you cant use personal computers  so you have to use d you know  a main frame ,+,MALE,0
+"['right,  /']",right  ,aa,FEMALE,4
+['right.  /'],right  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"['i know [ i, + {f uh, } i ]  do have [ a, + {f uh, } {d you know, } a ] computer at home,  /']",i know  i  f uh  i   do have  a  f uh  d you know  a  computer at home  ,sd,FEMALE,1
+"[""{c but } it's one that the company has loaned me. /""]",c but  its one that the company has loaned me ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"[""{c and, } [ that, + that's ] been my situation,  is that, {f uh, } that way i can get in, access our, {f uh, } computers that i have up  here and, {d you know, } do work from home. /""]",c and   that  thats  been my situation  is that f uh  that way i can get in access our f uh  computers that i have up  here and d you know  do work from home ,sd,FEMALE,1
+"['{c but } does it have, {f uh, } {d like, } a disk drive? /']",c but  does it have f uh  d like  a disk drive ,qy,MALE,7
+['{f oh } yeah.  /'],f oh  yeah  ,ny,FEMALE,9
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['yeah, /']",yeah ,ny,FEMALE,9
+"['{f oh, } okay,  /']",f oh  okay  ,bk,MALE,14
+"['{c because, } {f uh, } the ones that  we use, [ yo-, + ] {d you know, } are like unix base systems. /']",c because  f uh  the ones that  we use  yo   d you know  are like unix base systems ,sd,MALE,1
+['right.  /'],right  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, so } they don't have a disk drive. /""]",c and so  they dont have a disk drive ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{d you know, } {c so } you can't, - /""]",d you know  c so  you cant  ,sd,MALE,1
+['the only way that  you can do it is through a modem. /'],the only way that  you can do it is through a modem ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['{c and, } [ you, + {d you know, } you ] just do it that way. /']",c and   you  d you know  you  just do it that way ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but, } [ that's, + {f uh, } that's ]  the only way that you can get [ to, + through to ] the system,  /""]",c but   thats  f uh  thats   the only way that you can get  to  through to  the system  ,sd,MALE,1
+"[""you can't store it anywhere. /""]",you cant store it anywhere ,sd,MALE,1
+['right.  /'],right  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['no  /'],no  ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""[ [ i, + {f um, } i, ] + i ]  have both, because [ that, + that's ] what i use all the time is unix systems.  {f um, } versus the dos.  /""]",  i  f um  i   i   have both because  that  thats  what i use all the time is unix systems  f um  versus the dos  ,sd,FEMALE,1
+"['{c but } then i teach dos classes, {f uh, } at night. /']",c but  then i teach dos classes f uh  at night ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['part time.  /'],part time  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['{c and then } you also have to do all your  grading on the p  c. /'],c and then  you also have to do all your  grading on the p  c ,bf,MALE,20
+"[""{d well, } [ that, + that's ]  the really neat thing, i teach in the continuing education classes, so [ i don't, + {f uh, } i don't ]  have to have [ grad-, + any grades, ] no grade books, so that's great <laughter>. /""]",d well   that  thats   the really neat thing i teach in the continuing education classes so  i dont  f uh  i dont   have to have  grad  any grades  no grade books so thats great laughter ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"['{c but, } no,  /']",c but  no  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['i find that i use [ the, + the ]  personal computer a lot though for my wordperfect,']",i find that i use  the  the   personal computer a lot though for my wordperfect,sd,FEMALE,1
+['okay. /'],okay ,b,MALE,2
+['and also for my spread sheets. /'],and also for my spread sheets ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""{f um, } {c so } i think it's extremely helpful and  very useful. /""]",f um  c so  i think its extremely helpful and  very useful ,sd,FEMALE,1
+"[""{d well, } {f uh, } for us [ it's, + {f uh, }  {f uh, } {d you know, } it's ] like for doing {d like, } {d you know, }  {d like } resumes,""]",d well  f uh  for us  its  f uh   f uh  d you know  its  like for doing d like  d you know   d like  resumes,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['and, presentations. /']",and presentations ,+,MALE,0
+"['{f um, } {f um. } uh-huh. /']",f um  f um  uhhuh ,b,FEMALE,2
+"['we use {d like } for example, a mackintosh,  which is a lot easier for graphics,']",we use d like  for example a mackintosh  which is a lot easier for graphics,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""[ than the p-, + than ] {d you know, }  the i b m p c's or anything compatible with that. /""]", than the p  than  d you know   the i b m p cs or anything compatible with that ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"[""[ due, + due ] to the fact that,  {d well, } {d you know, } [ i, + i ] haven't tested [ the, + the ] p s two yet. /""]", due  due  to the fact that  d well  d you know   i  i  havent tested  the  the  p s two yet ,sd,MALE,1
+"['{f um, } {f um. } uh-huh. /']",f um  f um  uhhuh ,b,FEMALE,2
+"[""{c but } i don't know if the software is as  easily, {d you know, } like you can manage it a lot easier [ than, + than ] the old one. /""]",c but  i dont know if the software is as  easily d you know  like you can manage it a lot easier  than  than  the old one ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['the old one you had to go pick a line,  use little arrows to go onto the screen and check where you wanted to start, and where,']",the old one you had to go pick a line  use little arrows to go onto the screen and check where you wanted to start and where,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['you know, with the mouse you do it, {d you know, } {d like, } a hundred times  faster. /']",you know with the mouse you do it d you know  d like  a hundred times  faster ,+,MALE,0
+"[""that's true.  /""]",thats true  ,aa,FEMALE,4
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"['{c and, } {f uh, } you also get, {d you know, } - /']",c and  f uh  you also get d you know   ,sd,MALE,1
+"['when you see it on the mackintosh with, {d you know, } the one i have, - /']",when you see it on the mackintosh with d you know  the one i have  ,sd,MALE,1
+"[""that doesn't have any color,  /""]",that doesnt have any color  ,sd,MALE,1
+['you can look at it  /'],you can look at it  ,sd,MALE,1
+"[""{c and } that's the way it's going to print out. /""]",c and  thats the way its going to print out ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, } especially if you have a laser printer,  it's going to print out the same way as it's on the screen. /""]",c and  especially if you have a laser printer  its going to print out the same way as its on the screen ,sd,MALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"['{c and, so, } [ with, + {d you know, } with ]  the i b m what would happen is, {f uh, } since the software that i had was, it was basically, {d you know, }  you only see part of the page. /']",c and so   with  d you know  with   the i b m what would happen is f uh  since the software that i had was it was basically d you know   you only see part of the page ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, so, } the whole page [ you, + you ]  never can actually see it, /']",c and so  the whole page  you  you   never can actually see it ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+['you just draw it  /'],you just draw it  ,sd,MALE,1
+['{c and } they have to zoom  out and zoom in  /'],c and  they have to zoom  out and zoom in  ,sd,MALE,1
+"[""{c and, } {d you know, } it's like, every time that you have to do  something [ is, + ] it's really a pain. /""]",c and  d you know  its like every time that you have to do  something  is   its really a pain ,sd,MALE,1
+"['what a hassle,  /']",what a hassle  ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and, } also, {d  you know, } it's like  [ for, + for ] presentations,  /""]",c and  also d  you know  its like   for  for  presentations  ,sd,MALE,1
+"[""it's like if you have to do any statistical data it can be easily  represented [ on a, + on a ] p c. /""]",its like if you have to do any statistical data it can be easily  represented  on a  on a  p c ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['it can be easily represented [ on a, + on a ] p c.  /']",it can be easily represented  on a  on a  p c  ,sd,MALE,1
+"[""{d you know, } {d like } years back when you didn't have that you would have to map  out [ all this, + all these ] numbers. /""]",d you know  d like  years back when you didnt have that you would have to map  out  all this  all these  numbers ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""and get a graph which you weren't sure if it  was okay or not, {d you know. } /""]",and get a graph which you werent sure if it  was okay or not d you know  ,sd,MALE,1
+['right.  /'],right  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but, } [ with a, + with a ]  new system i can calculate everything so fast,']",c but   with a  with a   new system i can calculate everything so fast,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } like for spread sheets. /']",d you know  like for spread sheets ,+,MALE,0
+['right.  /'],right  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+['you can see what the trend is over the years. /'],you can see what the trend is over the years ,sv,MALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{c and, } i love all the windows that  they have out now too, /']",c and  i love all the windows that  they have out now too ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ [ that, +']",  that ,%,MALE,5
+['they have really simplified things. /'],they have really simplified things ,sv,FEMALE,3
+['that ] - /'],that   ,+,MALE,0
+"['[ [ [ i, + i ] had a, + i had a ]  program due  /']",   i  i  had a  i had a   program due  ,sd,MALE,1
+"['{c and } {f uh, } [ one, + one ] window i had the  program  /']",c and  f uh   one  one  window i had the  program  ,sd,MALE,1
+['{c and } the other one i had the program running.'],c and  the other one i had the program running,sd,MALE,1
+['right.  /'],right  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+"['so if there was ever a mistake,  i could easily check, {d you know, }  /']",so if there was ever a mistake  i could easily check d you know   ,+,MALE,0
+"['i could look at the program and say, this is where i made the error. /']",i could look at the program and say this is where i made the error ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['instead of saying, where did i make the error? /']",instead of saying where did i make the error ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } go back and forth  /']",d you know  go back and forth  ,sd,MALE,1
+"['[ {c and, } + {c and, } ] {d you know, } you always, {d you know, } - /']", c and   c and   d you know  you always d you know   ,sd,MALE,1
+"['the old ones you had to go out of your program,  [ load up, + {f um, } {f uh, } {d well } load up ] the program again,']",the old ones you had to go out of your program   load up  f um  f uh  d well  load up  the program again,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['in this case.  /'],in this case  ,+,MALE,0
+"[""after you load it up change it,  hope that's right,""]",after you load it up change it  hope thats right,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['get out of that, run the program,']",get out of that run the program,+,MALE,0
+['yes. /'],yes ,b,FEMALE,2
+"['run, {d uh-huh, }   as long as it took,']",run d uhhuh    as long as it took,+,MALE,0
+['yes. /'],yes ,b,FEMALE,2
+['and then go back and see if that worked or not. /'],and then go back and see if that worked or not ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['{c but } with windows you can have the  program  /'],c but  with windows you can have the  program  ,sd,MALE,1
+['{c and } {d say } it messed up in line fifty-four. /'],c and  d say  it messed up in line fiftyfour ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c so, } you take a look at line fifty-four,  /']",c so  you take a look at line fiftyfour  ,sd,MALE,1
+"['you take a look at the output at the same time,  /']",you take a look at the output at the same time  ,sd,MALE,1
+"[""{c and } you can see [ that, + ]  where it messed up, because, {d you know } it's like in the old computers, the ones that, {f uh, }  we're using here a couple of years ago, you would always have to have a printout,""]",c and  you can see  that    where it messed up because d you know  its like in the old computers the ones that f uh   were using here a couple of years ago you would always have to have a printout,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['right,  /']",right  ,aa,FEMALE,4
+['right.  /'],right  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"['i know, [ i, + {f uh, } i ]  remember my college days <laughter>.  and having to do that too. /']",i know  i  f uh  i   remember my college days laughter  and having to do that too ,sd,FEMALE,1
+"['[ [ di-, + did, ] + did ]  you learn it in computer science? /']",  di  did   did   you learn it in computer science ,qy,MALE,7
+"['{f oh, } yeah,  /']",f oh  yeah  ,ny,FEMALE,9
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+['i sure did. /'],i sure did ,sd,FEMALE,1
+"['{c and, } when was this. /']",c and  when was this ,qw,MALE,12
+"['{f uh, } i graduated in eighty-six. /']",f uh  i graduated in eightysix ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{c so } it's been fairly recent. /""]",c so  its been fairly recent ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i know because, {f uh, } all i know is  that when i came here in eighty-seven, [ they still had, + ] {f uh, }']",i know because f uh  all i know is  that when i came here in eightyseven  they still had   f uh ,sd,MALE,1
+['the cards. /'],the cards ,^2,FEMALE,23
+"['it was the last year [ to, + to ] put all your punch cards in. /']",it was the last year  to  to  put all your punch cards in ,+,MALE,0
+"['{f oh, } {f oh } dear.  /']",f oh  f oh  dear  ,ba,FEMALE,6
+"[""i didn't have to bother  with that at all, thank goodness.  /""]",i didnt have to bother  with that at all thank goodness  ,sd,FEMALE,1
+['yeah. /'],yeah ,%,FEMALE,5
+"['{c so, } yeah.  /']",c so  yeah  ,b,MALE,2
+"['no,  /']",no  ,"fo_o_fw_""_by_bc",MALE,0
+"['{c but } [ it, + it ]  was just sensational because i walked in  /']",c but   it  it   was just sensational because i walked in  ,sd,MALE,1
+"[""{c and } they go, {f oh, } my god, they're still using this. /""]",c and  they go f oh  my god theyre still using this ,sd,MALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['it was like, this is the last year you can put  your punch cards in and get your program out  /']",it was like this is the last year you can put  your punch cards in and get your program out  ,sd,MALE,1
+"['{c and, } {d you know } <laughter>,']",c and  d you know  laughter,sd,MALE,1
+"['wow,  /']",wow  ,ba,FEMALE,6
+['wow. /'],wow ,ba,FEMALE,6
+"['you can get a hard copy of it,  /']",you can get a hard copy of it  ,+,MALE,0
+"[""{c and } that's about it. /""]",c and  thats about it ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['wow. /'],wow ,ba,FEMALE,6
+"['{c so. } {c but, } {e i mean, } the price of  computers has gone down.  /']",c so  c but  e i mean  the price of  computers has gone down  ,sd,MALE,1
+"['they said that, {f um, } if the auto industry would have kept the  same trend as the computer industry has ever since, {d you know, } it started,']",they said that f um  if the auto industry would have kept the  same trend as the computer industry has ever since d you know  it started,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['they said that, {f uh, } cars would cost  two dollars  /']",they said that f uh  cars would cost  two dollars  ,+,MALE,0
+['{c and } they would run forever. /'],c and  they would run forever ,sd,MALE,1
+"['{f oh, } that would be great. /']",f oh  that would be great ,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c so, } {e i mean } it's like, {d you know, } [ the, + the ]  joke with the yugo, {d you know, }  /""]",c so  e i mean  its like d you know   the  the   joke with the yugo d you know   ,sd,MALE,1
+"[""it's like,  {d yeah, }  [ yo-, + ] {d you know, } [ like + ]  when your, {f uh, } car runs out of gas just throw it away. /""]",its like  d yeah    yo   d you know   like    when your f uh  car runs out of gas just throw it away ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, } [ that, + that's ] the way it would be. /""]",c and   that  thats  the way it would be ,sv,MALE,3
+['wow. /'],wow ,ba,FEMALE,6
+"[""it's like {d yeah, }  i think i'll buy a new car  today, {d you know, }  /""]",its like d yeah   i think ill buy a new car  today d you know   ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+['<laughter>.'],laughter,x,FEMALE,8
+"['yeah,  /']",yeah  ,b,MALE,2
+['{c but } {e i mean } the price has  really gone down.  /'],c but  e i mean  the price has  really gone down  ,sd,MALE,1
+"['{e i mean, } i b m which, {f uh, } - /']",e i mean  i b m which f uh   ,sd,MALE,1
+"['an i b m p c in {d like } in nineteen eighty-one  it would cost you five thousand dollars, /']",an i b m p c in d like  in nineteen eightyone  it would cost you five thousand dollars ,sd,MALE,1
+"['{f oh, } sure,  /']",f oh  sure  ,aa,FEMALE,4
+"['{f oh, } sure. /']",f oh  sure ,aa,FEMALE,4
+"['{c and } now you can get it, {d you know, }  {d like } for, one thousand dollars, [ because, + {d you know, } because ] of the parts basically. /']",c and  now you can get it d you know   d like  for one thousand dollars  because  d you know  because  of the parts basically ,sd,MALE,1
+['right.  /'],right  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{c and } the two eighty-six  too,  /']",c and  the two eightysix  too  ,sd,FEMALE,1
+"['{c so, } yeah. /']",c so  yeah ,%,FEMALE,5
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""the parts and the labor is what  they're charging you,  /""]",the parts and the labor is what  theyre charging you  ,sd,MALE,1
+"[""they're not charging you, {d you know, } over pricing,""]",theyre not charging you d you know  over pricing,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it because it's like, if we sell it for  less, {d you know, } it's like we're losing money, {d you know. } /""]",it because its like if we sell it for  less d you know  its like were losing money d you know  ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"[""it's like we want to sell it to break even at least. /""]",its like we want to sell it to break even at least ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } i think they stopped producing the i b m p c. /']",c and  i think they stopped producing the i b m p c ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ {c and, } + {f uh, } {c and } ]  the, {f uh, } p c junior  was a total failure,']", c and   f uh  c and    the f uh  p c junior  was a total failure,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+['to them. /'],to them ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['they had, {f uh, } - /']",they had f uh   ,sd,MALE,1
+"[""they're trying to get out small computers,  /""]",theyre trying to get out small computers  ,sd,MALE,1
+"['{c but, } the only problem was that when they took that one out,  the small computer was the i b m p c <laughter>. /']",c but  the only problem was that when they took that one out  the small computer was the i b m p c laughter ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c and, so, } you couldn't, {d you know, } - /""]",c and so  you couldnt d you know   ,sd,MALE,1
+"[""it's like, sure bring out.  n-, into the market something that's smaller when [ no-, + nobody ]  uses anything that's smaller than, {d you know, } this, {d you know. } /""]",its like sure bring out  n into the market something thats smaller when  no  nobody   uses anything thats smaller than d you know  this d you know  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, so. } -/']",c and so  ,%,MALE,5
+['oh.'],oh,b,FEMALE,2
+"[""{c but, } over the past years it's like  i b m has been producing {d like } - /""]",c but  over the past years its like  i b m has been producing d like   ,sd,MALE,1
+['every two years they bring out a whole new system.'],every two years they bring out a whole new system,sd,MALE,1
+['uh-huh. /'],uhhuh ,+,FEMALE,0
+"['{d you know, } like the p c x t, a t, and  the p s one, p s two things, {d you know, }  /']",d you know  like the p c x t a t and  the p s one p s two things d you know   ,+,MALE,0
+"[""{c and so. } it's just that you have to always  compete  /""]",c and so  its just that you have to always  compete  ,sv,MALE,3
+"['{c and, } {f uh, } mackintosh took a lot of the market from a lot of schools. /']",c and  f uh  mackintosh took a lot of the market from a lot of schools ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c because } [ of, + of ]  their, {d you know, } - /']",c because   of  of   their d you know   ,sd,MALE,1
+['you can work with it a lot easier. /'],you can work with it a lot easier ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"[""{c so, } that's what they're trying to do.  /""]",c so  thats what theyre trying to do  ,sd,MALE,1
+"['{f oh, } {d well, }']",f oh  d well ,ad,MALE,22
+['{d well. } -/'],d well  ,%,FEMALE,5
+"[""i'll leave you back to your work. /""]",ill leave you back to your work ,+,MALE,0
+['okay. /'],okay ,aa,FEMALE,4
+"['{c and, } {f uh, } have a good lunch. /']",c and  f uh  have a good lunch ,sv,MALE,3
+['thanks.  /'],thanks  ,ft,FEMALE,43
+['bye. /'],bye ,fc,FEMALE,10
+"['all right,  /']",all right  ,fc,MALE,10
+"['bye, bye. /']",bye bye ,fc,MALE,10

@@ -1,0 +1,243 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['there you go. /'],there you go ,"fo_o_fw_""_by_bc",MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d well, } jean, the subject is jury trials  /']",d well  jean the subject is jury trials  ,sd,MALE,1
+"['{c and } should the jury recommend, {f uh, } sentencing. /']",c and  should the jury recommend f uh  sentencing ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d now } my personal opinion, - /']",d now  my personal opinion  ,sd,MALE,1
+"[""i don't know.  /""]",i dont know  ,h,MALE,15
+"['{f uh, } {f uh, } here lately it seems, - /']",f uh  f uh  here lately it seems  ,sv,MALE,3
+"['{d well } up until a few years ago, i guess, there just too many liberals about and  permitting too many, {f oh, } - /']",d well  up until a few years ago i guess there just too many liberals about and  permitting too many f oh   ,sv,MALE,3
+"[""they just broaden the human rights [ to, + to ] cover just about [ ev-, + everybody, ] {c and } i don't think those guilty of committing capital crimes should be permitted to go spend a few years in jail and be turned lose on parole. /""]",they just broaden the human rights  to  to  cover just about  ev  everybody  c and  i dont think those guilty of committing capital crimes should be permitted to go spend a few years in jail and be turned lose on parole ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's just not right. /""]",its just not right ,sv,MALE,3
+['i think i agree with that very much. /'],i think i agree with that very much ,sv,FEMALE,3
+['{c and } therefore --'],c and  therefore ,sv,MALE,3
+"['i, - /']",i  ,%,FEMALE,5
+"['do you, -/']",do you ,qy,FEMALE,7
+['-- i think juries should be able to recommend sentencing. /'], i think juries should be able to recommend sentencing ,+,MALE,0
+"['do you think a lot of people, when they are listening to a trial, put themselves in a position like that and say, i would never do something like  that,  /']",do you think a lot of people when they are listening to a trial put themselves in a position like that and say i would never do something like  that  ,qy,FEMALE,7
+"[""{c and } it's for them to believe that somebody else could do the things that have been done? /""]",c and  its for them to believe that somebody else could do the things that have been done ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+['very possibly.  /'],very possibly  ,sd,MALE,1
+['so many of us have led sheltered lives --'],so many of us have led sheltered lives ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- that, {f uh, } when we  [ go into a, + ] sit in on, a jury, - /']", that f uh  when we   go into a   sit in on a jury  ,+,MALE,0
+"[""i've never done it myself --""]",ive never done it myself ,sd,MALE,1
+['i never have either. /'],i never have either ,sd,FEMALE,1
+"['-- unfortunately,  /']", unfortunately  ,+,MALE,0
+['i wish i could have. /'],i wish i could have ,sd,MALE,1
+"[""i've just never been called up. /""]",ive just never been called up ,sd,MALE,1
+"['my husband works as a police man,  /']",my husband works as a police man  ,sd,FEMALE,1
+['{c so } i always assumed that that was why i was never called. /'],c so  i always assumed that that was why i was never called ,sd,FEMALE,1
+"[""{d well } {d now, } that's possible. /""]",d well  d now  thats possible ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } {f uh, } i was called up as an alternate once,  /']",c but  f uh  i was called up as an alternate once  ,sd,MALE,1
+['{c but } i --'],c but  i ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- never made it to the jury. /'], never made it to the jury ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{f uh, } do they have such a thing now as a six man jury? /']",f uh  do they have such a thing now as a six man jury ,qy,FEMALE,7
+['not that i know of. /'],not that i know of ,ng,MALE,29
+"['somebody told me the other day that there is,  ((   ))  what they call a six man jury,  /']",somebody told me the other day that there is       what they call a six man jury  ,sd,FEMALE,1
+"['{c and } i had never heard of such thing,  /']",c and  i had never heard of such thing  ,sd,FEMALE,1
+['{c and } i wondered if it was true. /'],c and  i wondered if it was true ,sd,FEMALE,1
+['uh-huh  /'],uhhuh  ,b,MALE,2
+"[""<<pause>>. {f uh, } i've never heard of it. /""]",pause f uh  ive never heard of it ,sd,MALE,1
+"['i never had either,  /']",i never had either  ,sd,FEMALE,1
+"['{c but } i just wondered.  {f uh, } - /']",c but  i just wondered  f uh   ,sd,FEMALE,1
+"['another question was, [ should +  a criminal case, should ] the jury be unanimous on their decision,  /']",another question was  should   a criminal case should  the jury be unanimous on their decision  ,sd,FEMALE,1
+"[""{c and } that i wasn't sure on either, whether it should be unanimous or not. /""]",c and  that i wasnt sure on either whether it should be unanimous or not ,sd,FEMALE,1
+"['<throat_clearing>  <cough>  {f uh, } {d well, } there again, {f uh, } i suppose it should be. /']",throatclearing  cough  f uh  d well  there again f uh  i suppose it should be ,sv,MALE,3
+['that would mean they all would have to decide --'],that would mean they all would have to decide ,qy^d,FEMALE,16
+['exactly. /'],exactly ,na,MALE,21
+['-- one way or the other. /'], one way or the other ,+,FEMALE,0
+['is it guilt or innocence.  /'],is it guilt or innocence  ,^2,MALE,23
+"['{c but } then again, so many times you get one or two holdouts,  /']",c but  then again so many times you get one or two holdouts  ,sv,MALE,3
+"['[ {c and, } + {c and } ] --']", c and   c and   ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- it permits the criminal to get a retrial. /'], it permits the criminal to get a retrial ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } there, - /']",c and  there  ,%,MALE,5
+"[""that's not too bad in this sense, because you might get someone in their that's a victim of circumstances -- /""]",thats not too bad in this sense because you might get someone in their thats a victim of circumstances  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {e i mean, } that's happened --""]", e i mean  thats happened ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and giving them another trial might give them additional time to, {f uh, } prove their innocence. /']", and giving them another trial might give them additional time to f uh  prove their innocence ,+,MALE,0
+['bring some of these things out. /'],bring some of these things out ,^2,FEMALE,23
+['yes. /'],yes ,aa,MALE,4
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""we can't overlook the fact that there are innocent people that do get involved in jury trials. /""]",we cant overlook the fact that there are innocent people that do get involved in jury trials ,sv,MALE,3
+"['{f un, } apparently there are.  /']",f un  apparently there are  ,sv,FEMALE,3
+"['[ [  i, + i, ] + i, ] - /']",   i  i   i   ,%,FEMALE,5
+"[""since my husband worked as a policeman, i can't believe there are very many people that come to trial that [ have, + ] are not guilty of [ something + ] --""]",since my husband worked as a policeman i cant believe there are very many people that come to trial that  have   are not guilty of  something   ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- some part of whatever they're accused of. /""]", some part of whatever theyre accused of ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ i have, + i still have ] a little bit of a problem with that.  /']", i have  i still have  a little bit of a problem with that  ,sd,FEMALE,1
+"[""{f uh, } {c but, } i would suppose there are circumstances, you're in the wrong place at the right time, or know the wrong person at the right time. /""]",f uh  c but  i would suppose there are circumstances youre in the wrong place at the right time or know the wrong person at the right time ,sv,FEMALE,3
+"[""{f oh, } that's it,  /""]",f oh  thats it  ,ba,MALE,6
+['{c and } you just might resemble somebody. /'],c and  you just might resemble somebody ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } out here in texas we had [ [ a, + a, ] + a, ] great miscarriage of  justice.  /']",f uh  out here in texas we had   a  a   a  great miscarriage of  justice  ,sd,MALE,1
+"['[ it was finally, + after nine years, it was finally, ] {f uh, } taken care of. /']", it was finally  after nine years it was finally  f uh  taken care of ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['we had, - /']",we had  ,%,MALE,5
+['a black man was accused simply because he resembled --'],a black man was accused simply because he resembled ,sd,MALE,1
+['oh.'],oh,b,FEMALE,2
+"['-- {f uh, } someone [ who stuc-, + who held ] up, a, seven eleven, i think it was. /']", f uh  someone  who stuc  who held  up a seven eleven i think it was ,+,MALE,0
+"['uh-huh,  /']",uhhuh  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } even though he had witnesses that said that, {f uh, } he was at work,  /']",c and  even though he had witnesses that said that f uh  he was at work  ,sd,MALE,1
+"['{c and } he had all sorts of character witnesses and what not, /']",c and  he had all sorts of character witnesses and what not ,sd,MALE,1
+['they still found him guilty? /'],they still found him guilty ,qy^d,FEMALE,16
+['they found him guilty. /'],they found him guilty ,na,MALE,21
+['when people said he was at work? /'],when people said he was at work ,qy^d,FEMALE,16
+"['{d well, } they said [ it w-, + ] [ this, + this ] happened during lunch time. /']",d well  they said  it w    this  this  happened during lunch time ,na,MALE,21
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } he could have [ disap-, + ] gotten away at lunch time --']",c and  he could have  disap   gotten away at lunch time ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and committed the robbery. /'], and committed the robbery ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but } after nine years, - /']",c but  after nine years  ,sd,MALE,1
+"['{d well } as a matter of fact they made a t v show about it, after nine years, they finally came up with evidence [ and proved, + ] to prove that he was innocent. /']",d well  as a matter of fact they made a t v show about it after nine years they finally came up with evidence  and proved   to prove that he was innocent ,sd,MALE,1
+"[""{f oh, } for heaven's sake.  /""]",f oh  for heavens sake  ,ba,FEMALE,6
+"[""{c so } there's nine years of that man's life gone. /""]",c so  theres nine years of that mans life gone ,sd,FEMALE,1
+['exactly. /'],exactly ,ba,MALE,6
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{d now } that just was not fair. /'],d now  that just was not fair ,sv,MALE,3
+"['no,  /']",no  ,aa,FEMALE,4
+['huh-uh. /'],huhuh ,b,FEMALE,2
+['{d so. } -/'],d so  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i guess that's where a lot of the problem lies,  /""]",i guess thats where a lot of the problem lies  ,sv,FEMALE,3
+"[""[ we're, + we ] bend over backwards protecting the guilty people, the one's that are on trial. /""]", were  we  bend over backwards protecting the guilty people the ones that are on trial ,sv,FEMALE,3
+['yes. /'],yes ,b,MALE,2
+"['[ {c and, } +']", c and  ,sv,FEMALE,3
+"[""unfortunately, that's what happens. /""]",unfortunately thats what happens ,sv,MALE,3
+"['{c and } ] we often forget about the one the injustice has been done [ to, + ] because i [ bet, + ] they still say our system is the best in the world. /']",c and   we often forget about the one the injustice has been done  to   because i  bet   they still say our system is the best in the world ,+,FEMALE,0
+"[""{d well, } [ it's not, the, + {f uh, } {f uh, } it's not the ] best system,  /""]",d well   its not the  f uh  f uh  its not the  best system  ,sv,MALE,3
+"[""{c but } it's the best one in the world. /""]",c but  its the best one in the world ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""it's the best one that exists, i guess. /""]",its the best one that exists i guess ,sv,FEMALE,3
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['{c and } unfortunately, we just have to put up with a lot of things,  /']",c and  unfortunately we just have to put up with a lot of things  ,sv,MALE,3
+"['{c and } they try to solve them and everything,  /']",c and  they try to solve them and everything  ,sv,MALE,3
+"[""{c but, } {f uh, } i don't know,  /""]",c but  f uh  i dont know  ,h,MALE,15
+"['the supreme court, - /']",the supreme court  ,%,MALE,5
+"[""{d well, } [ [ i'm, + i'm, ] + i'm ] still rancled about their decision to permit burning of the flag. /""]",d well    im  im   im  still rancled about their decision to permit burning of the flag ,sd,MALE,1
+"['{f oh, } i think a lot of people are.  /']",f oh  i think a lot of people are  ,sv,FEMALE,3
+"[""i think they've lost sight of some things that are very important to our country. /""]",i think theyve lost sight of some things that are very important to our country ,sv,FEMALE,3
+"['{d well, } it, - /']",d well  it  ,%,MALE,5
+"['[ [ the, + the, ] + the ] first amendment definitely says freedom of speech --']",  the  the   the  first amendment definitely says freedom of speech ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- not freedom of action. /'], not freedom of action ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, } {f uh, } {f uh, } {d well } that just rancles me  /']",c and  f uh  f uh  d well  that just rancles me  ,sd,MALE,1
+"['no,  /']",no  ,%,MALE,5
+"[""i swear, if i ever saw somebody [ to, + ] {f uh, } burning a flag, [ i'd, + i'd ] try to kill them, i would. /""]",i swear if i ever saw somebody  to   f uh  burning a flag  id  id  try to kill them i would ,sd,MALE,1
+"['<laughter>  that bad, {f huh. }  /']",laughter  that bad f huh   ,b,FEMALE,2
+"[""i wouldn't like it,  /""]",i wouldnt like it  ,sd,FEMALE,1
+"[""{c but } i don't know if i'd go that far. /""]",c but  i dont know if id go that far ,sv,FEMALE,3
+"['{d well, } i happen to be a flag freak.  /']",d well  i happen to be a flag freak  ,sd,MALE,1
+"['[  i served, + i ] was in the service -- /']",  i served  i  was in the service  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- i was in korea -- /'], i was in korea  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {f uh, } {d well, } i saw what the red in the flag represents. /']", c and  f uh  d well  i saw what the red in the flag represents ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } i think pride in our country and our flag is so important.  /']",d well  i think pride in our country and our flag is so important  ,sv,FEMALE,3
+"[""it's important in so many facets of our lives. /""]",its important in so many facets of our lives ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and, } {f uh, } [ i, + i ] feel like if [ they don't, + people don't ] like what our flag stands for, they're welcome to go some place else. /""]",c and  f uh   i  i  feel like if  they dont  people dont  like what our flag stands for theyre welcome to go some place else ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{d see } what they, -/']",d see  what they ,%,MALE,5
+"[""there's nobody holding them here. /""]",theres nobody holding them here ,sv,FEMALE,3
+"[""{d see } how they'd like it under another flag. /""]",d see  how theyd like it under another flag ,sv,MALE,3
+['right.  /'],right  ,b,FEMALE,2
+"[""they'd soon be back,  /""]",theyd soon be back  ,sv,FEMALE,3
+"[""i'm sure. /""]",im sure ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d well, } jean, we seem to be of the same opinions here. /']",d well  jean we seem to be of the same opinions here ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['i hope they get something out of this. /'],i hope they get something out of this ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i don't know about the judge making the decision, if that's, - /""]",i dont know about the judge making the decision if thats  ,sv,FEMALE,3
+"[""do you think that's good --""]",do you think thats good ,qy,FEMALE,7
+['{f oh } --'],f oh  ,qy,MALE,7
+"['-- {d you know, } like if a jury, -/']", d you know  like if a jury ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{c but } i think the jury should be able to recommend, /']",c but  i think the jury should be able to recommend ,sv,MALE,3
+['make a recommendation? /'],make a recommendation ,qy^d,FEMALE,16
+['yes. /'],yes ,ny,MALE,9
+['do they sometimes make a recommendation? /'],do they sometimes make a recommendation ,qy,FEMALE,7
+"['{f oh, } yes,  /']",f oh  yes  ,ny,MALE,9
+['yes. /'],yes ,ny,MALE,9
+"[""that's what i was thinking [ they, + they ] sometimes do. /""]",thats what i was thinking  they  they  sometimes do ,sd,FEMALE,1
+"[""i don't know if that's a regular procedure or what.  /""]",i dont know if thats a regular procedure or what  ,sd,MALE,1
+"[""{c but } i know i'm always hearing that, {f uh, }  /""]",c but  i know im always hearing that f uh   ,sd,MALE,1
+"['{d well, } the jury came in with a guilty verdict  /']",d well  the jury came in with a guilty verdict  ,sd,MALE,1
+"['{c and } they recommended,']",c and  they recommended,sd,MALE,1
+['# {c and } they recommend.  # /'], c and  they recommend   ,^2,FEMALE,23
+['# twenty years or # something. /'], twenty years or  something ,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+['{c and then } the judge has the final decision --'],c and then  the judge has the final decision ,sd,FEMALE,1
+['yes. /'],yes ,b,MALE,2
+['-- on what does really happen.  yeah. /'], on what does really happen  yeah ,+,FEMALE,0
+"['of course, {d now, } the jury may not be completely aware of all the ramifications of a sentence. /']",of course d now  the jury may not be completely aware of all the ramifications of a sentence ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['they may not know that if you give him twenty years he can get out in five. /'],they may not know that if you give him twenty years he can get out in five ,sd,MALE,1
+"[""{d well, } i think that's where a lot of people think, boy they're getting put away for a long time,  /""]",d well  i think thats where a lot of people think boy theyre getting put away for a long time  ,sv,FEMALE,3
+"['{c but } actually, their chance, course, when, - /']",c but  actually their chance course when  ,sv,FEMALE,3
+"[""a lot of times when they come up for parole, they're denied.  /""]",a lot of times when they come up for parole theyre denied  ,sv,FEMALE,3
+['it depends on --'],it depends on ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {d you know, } [ what they're, + what they'd ] been guilty of, and a lot of different things, i guess. /""]", d you know   what theyre  what theyd  been guilty of and a lot of different things i guess ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c but } too many times [ they, + they ] are permitted to go out on parole  /']",c but  too many times  they  they  are permitted to go out on parole  ,sv,MALE,3
+"['{c and, } -/']",c and  ,%,MALE,5
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['a lot slip through the protective whatever they have to do.  /'],a lot slip through the protective whatever they have to do  ,sv,FEMALE,3
+['{c and } there are bad ones that do slip back out and end up hurting somebody again. /'],c and  there are bad ones that do slip back out and end up hurting somebody again ,sv,FEMALE,3
+['yes.  /'],yes  ,b,MALE,2
+['they just go out and repeat their crimes. /'],they just go out and repeat their crimes ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d well } there, - /']",d well  there  ,%,MALE,5
+"['{d well, } they say after three offenses its automatically life in prison,  /']",d well  they say after three offenses its automatically life in prison  ,sd,MALE,1
+['{c but } i think they ought to make it two offenses. /'],c but  i think they ought to make it two offenses ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['i always thought [ there was, + there was ] wrong, - /']",i always thought  there was  there was  wrong  ,sv,FEMALE,3
+['it seems sometimes that like somebody who is stealing a loaf of bread to feed his family got more jail sentence than somebody maybe that killed  somebody. /'],it seems sometimes that like somebody who is stealing a loaf of bread to feed his family got more jail sentence than somebody maybe that killed  somebody ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""it seemed like [ there, + sometimes there's ] not a good, - /""]",it seemed like  there  sometimes theres  not a good  ,sv,FEMALE,3
+"[""the balance isn't right.  /""]",the balance isnt right  ,sv,FEMALE,3
+"[""it doesn't make sense. /""]",it doesnt make sense ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+['very true.  /'],very true  ,ba,MALE,6
+"['{d well, } here again now, there is where race seems to rear its ugly head so frequently. /']",d well  here again now there is where race seems to rear its ugly head so frequently ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['race or nationality even. /'],race or nationality even ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""<<pause>> {c but, } {f uh, } like you said, [ it's, + it's ] not the best system,  /""]",pause c but  f uh  like you said  its  its  not the best system  ,sv,MALE,3
+"[""{c but } it's the best one we've got. /""]",c but  its the best one weve got ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['right.  /'],right  ,b,FEMALE,2
+"[""{c so, } let's put up with it, i guess. /""]",c so  lets put up with it i guess ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['improve it if we can, if we ever get a chance. /']",improve it if we can if we ever get a chance ,sv,FEMALE,3
+['sure enough. /'],sure enough ,ba,MALE,6
+['{d so. } -/'],d so  ,%,FEMALE,5
+"[""jean, it's been awful nice talking to you. /""]",jean its been awful nice talking to you ,fc,MALE,10
+"[""{d well, } it's been nice talking to you, jack,  /""]",d well  its been nice talking to you jack  ,fc,FEMALE,10
+['{c and } i hope you have a real good day and week. /'],c and  i hope you have a real good day and week ,fc,FEMALE,10
+"[""{d well } let's hope neither one of us ever has to run into this subject we were discussing. /""]",d well  lets hope neither one of us ever has to run into this subject we were discussing ,fc,MALE,10
+['<laughter>  i hope not. /'],laughter  i hope not ,fc,FEMALE,10
+['take care now. /'],take care now ,fc,MALE,10
+"['you, too. /']",you too ,fc,FEMALE,10
+['bye. /'],bye ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

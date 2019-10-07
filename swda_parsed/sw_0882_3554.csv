@@ -1,0 +1,205 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } {f um, } <throat_clearing> i have [ [ a, + a, ] + a ] former exercise program.  /']",d well  f um  throatclearing i have   a  a   a  former exercise program  ,sd,MALE,1
+"[""i'm a graduate student,  /""]",im a graduate student  ,sd,MALE,1
+"[""{c and } this semester, i'll tell you what, [ i, + ] it's been almost impossible for me to get, {d you know, } back to regular exercise. /""]",c and  this semester ill tell you what  i   its been almost impossible for me to get d you know  back to regular exercise ,sd,MALE,1
+"['{f um, } <throat_clearing> last summer i was [ a, + a ] swim instructor all summer [ and, + and ] life guard,  /']",f um  throatclearing last summer i was  a  a  swim instructor all summer  and  and  life guard  ,sd,MALE,1
+['{c so } it was really easy for me to get quite a bit of exercise swimming  /'],c so  it was really easy for me to get quite a bit of exercise swimming  ,sd,MALE,1
+"['[ {c and, } + {f um, }  {c and } ] since i worked at a recreation center i could, {f uh, } {d you know, } use those facilities quite often.  /']", c and   f um   c and   since i worked at a recreation center i could f uh  d you know  use those facilities quite often  ,sd,MALE,1
+"['{c but, } {f um. } -/']",c but  f um  ,b,MALE,2
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['-- as far as for, {f uh, } cardiovascular  /']", as far as for f uh  cardiovascular  ,+,FEMALE,0
+['[ {c and } -- +'], c and   ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"[""[ {c and } there's -- +""]", c and  theres  ,sd,MALE,1
+"[""-- {c and } ] it's --""]", c and   its ,+,FEMALE,0
+"[""-- {c and } there's ] no jarring on the. -/""]", c and  theres  no jarring on the ,+,MALE,0
+"['-- least hard on your body,  /']", least hard on your body  ,+,FEMALE,0
+"['i, -/']",i ,%,FEMALE,5
+['pardon? /'],pardon ,br,MALE,30
+"[""it's the least hard on your body --""]",its the least hard on your body ,sd,FEMALE,1
+"['exactly, yeah,  /']",exactly yeah  ,aa,MALE,4
+"['{f um, } flu-, -- -/']",f um  flu  ,%,MALE,5
+"['-- as far as, {f uh, } impact  /']", as far as f uh  impact  ,+,FEMALE,0
+['{c and } -/'],c and  ,%,FEMALE,5
+"['-- yeah,  /']", yeah  ,b,MALE,2
+['fluid resistance. /'],fluid resistance ,bf,MALE,20
+"['right,  /']",right  ,aa,FEMALE,4
+['right. /'],right ,aa,FEMALE,4
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['how about you? /'],how about you ,qo,MALE,25
+"['{d well, } i do, {f uh, } little aerobics, {f oh, } three or four times a week,  /']",d well  i do f uh  little aerobics f oh  three or four times a week  ,sd,FEMALE,1
+"[""{c but } it's not enough to, - /""]",c but  its not enough to  ,%,FEMALE,5
+"['boy if i go, in the summer time i try to [ jog, + jog ] a couple of miles -- /']",boy if i go in the summer time i try to  jog  jog  a couple of miles  ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"[""-- {c and, } {f uh, } {d well, } {d you know, } even doing that three or four times a week, when summer hits, that's a hard thing to go out [ and -- +""]", c and  f uh  d well  d you know  even doing that three or four times a week when summer hits thats a hard thing to go out  and  ,sd,FEMALE,1
+['<laughter>  yeah. /'],laughter  yeah ,b,MALE,2
+"['-- and ] go jogging for, {f uh } --']", and  go jogging for f uh  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- half hour or so,  /']", half hour or so  ,+,FEMALE,0
+['[ {c but } -- +'], c but   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c so, } ] i'm not quite getting the level that i need to. /""]", c so   im not quite getting the level that i need to ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"[""[ do you, + do you ] kind of think it's a chore,  /""]", do you  do you  kind of think its a chore  ,qy,MALE,7
+['{c or } do you enjoy it? /'],c or  do you enjoy it ,qrr,MALE,33
+['i like it. /'],i like it ,na,FEMALE,21
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['i like it, {f uh, }  /']",i like it f uh   ,sd,FEMALE,1
+"['part of my problem is i have small children,  /']",part of my problem is i have small children  ,sd,FEMALE,1
+"['{c so, } {f uh, } to do a whole lot just requires a lot of, {f oh, } coordination as far as --']",c so  f uh  to do a whole lot just requires a lot of f oh  coordination as far as ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- scheduling and --'], scheduling and ,+,FEMALE,0
+"['sure,  /']",sure  ,b,MALE,2
+['yeah. /'],yeah ,%,MALE,5
+"['-- that type of, {f uh, } deal, {d you know, } {f uh, }  /']", that type of f uh  deal d you know  f uh   ,+,FEMALE,0
+['<laughter>.'],laughter,x,MALE,8
+"['of course, you got a little different direction going,  /']",of course you got a little different direction going  ,sv,FEMALE,3
+"['{c but, } {f uh. } -/']",c but  f uh  ,%,FEMALE,5
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['yeah.  /'],yeah  ,%,MALE,5
+"['{f uh, } [ [ i, + {f um, } i  used to, ] + {f uh, } i used to ] weigh, {f uh, } two hundred fifteen pounds,  /']",f uh    i  f um  i  used to   f uh  i used to  weigh f uh  two hundred fifteen pounds  ,sd,MALE,1
+"['{c and } now i weigh only [ about one, + about one ] seventy-five.  {f um, }  /']",c and  now i weigh only  about one  about one  seventyfive  f um   ,sd,MALE,1
+"['<throat_clearing> {c so } i drastically had to change the way i ate [ when i, + when i ] first moved to college,  /']",throatclearing c so  i drastically had to change the way i ate  when i  when i  first moved to college  ,sd,MALE,1
+"['{c and, } {f uh, } i had started weight lifting quite regularly,  /']",c and  f uh  i had started weight lifting quite regularly  ,sd,MALE,1
+"['{c and so } i got my weight down,  /']",c and so  i got my weight down  ,sd,MALE,1
+"[""{c and } it's kind of easy for me to forget about it now, because, {f uh, } {d you know, } when i'm not fat like i used to be --""]",c and  its kind of easy for me to forget about it now because f uh  d you know  when im not fat like i used to be ,sd,MALE,1
+"['# right,  /']", right  ,b,FEMALE,2
+"[""you don't notice it # --""]",you dont notice it  ,^2,FEMALE,23
+"[""-- # i don't worry about it #  /""]",  i dont worry about it   ,+,MALE,0
+"[', yeah. /']", yeah ,%,MALE,5
+"['-- as much,  /']", as much  ,+,FEMALE,0
+['yeah. /'],yeah ,%,FEMALE,5
+['uh-huh.  /'],uhhuh  ,aa,MALE,4
+"['although lately i have noticed, {d you know, } even if i gain, like two pounds, [ i start, + i start ] feeling it  /']",although lately i have noticed d you know  even if i gain like two pounds  i start  i start  feeling it  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"[""you feel it, don't you? /""]",you feel it dont you ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,MALE,9
+"[""it's amazing [ how, + {f uh, } how ] much, {f uh, } it changes,  /""]",its amazing  how  f uh  how  much f uh  it changes  ,sd,FEMALE,1
+"[""{c and } i weigh probably about the same i weighed for, {f oh, } i don't know how many years,  /""]",c and  i weigh probably about the same i weighed for f oh  i dont know how many years  ,sd,FEMALE,1
+"[""{c but, } {f uh, } it's changed places <laughter>. /""]",c but  f uh  its changed places laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""{c and } things don't fit just quite exactly --""]",c and  things dont fit just quite exactly ,sd,FEMALE,1
+['<laughter> yeah. /'],laughter yeah ,b,MALE,2
+['-- fit the same. /'], fit the same ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ {c but, } + {f uh, } {c so, } ] do you do, {f uh, } - /']", c but   f uh  c so   do you do f uh   ,qy,FEMALE,7
+"['in texas, {f uh, } does - /']",in texas f uh  does  ,%,FEMALE,5
+"['there, probably quite a few facilities. /']",there probably quite a few facilities ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+['there are.  /'],there are  ,sd,MALE,1
+"[""{f um, } i'm living in a dorm right now,  /""]",f um  im living in a dorm right now  ,sd,MALE,1
+"[""{c and so } right downstairs there's a facility.  /""]",c and so  right downstairs theres a facility  ,sd,MALE,1
+"[""{c and } i really feel kind of guilty for not working out more than i do because there's a facility right downstairs where [ all, + {d you know, } all ] we have to do [ is, + is, ] {f uh, } run down there  /""]",c and  i really feel kind of guilty for not working out more than i do because theres a facility right downstairs where  all  d you know  all  we have to do  is  is  f uh  run down there  ,sd,MALE,1
+"['do you enjoy it,  /']",do you enjoy it  ,qy,FEMALE,7
+"['{c or } is it, {f uh. } -/']",c or  is it f uh  ,qrr,FEMALE,33
+"['if you can [ have, + find ] the time --']",if you can  have  find  the time ,^2,FEMALE,23
+['uh-huh -- /'],uhhuh  ,b,MALE,2
+"[""-- it's just the. -/""]", its just the ,+,FEMALE,0
+"['-- yeah,  /']", yeah  ,aa,MALE,4
+"['i really do, because i like to [ get, + {d you know, } get ] off alone and  just do that for a while,  /']",i really do because i like to  get  d you know  get  off alone and  just do that for a while  ,sd,MALE,1
+"[""{c but } that's hard, <laughter> {d you know. } /""]",c but  thats hard laughter d you know  ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['it is hard -- /'],it is hard  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- it is hard.  /'], it is hard  ,sd,FEMALE,1
+"[""it's, {f uh, } like anything else whether or not you want to --""]",its f uh  like anything else whether or not you want to ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- sacrifice another half hour.  /'], sacrifice another half hour  ,+,FEMALE,0
+"[""my problem is i don't want to wake up another half hour earlier --""]",my problem is i dont want to wake up another half hour earlier ,sd,FEMALE,1
+['exactly. /'],exactly ,aa,MALE,4
+['-- and do more <laughter>. /'], and do more laughter ,+,FEMALE,0
+['<laughter>.'],laughter,x,MALE,8
+"[""don't get enough sleep as it is,  /""]",dont get enough sleep as it is  ,sd,FEMALE,1
+['right -- /'],right  ,^g,FEMALE,40
+"['uh-huh,  /']",uhhuh  ,ny,MALE,9
+"['yeah,  /']",yeah  ,ny,MALE,9
+['yeah. /'],yeah ,ny,MALE,9
+"['-- {c and, } {f uh, } kind of have, - /']", c and  f uh  kind of have  ,%,FEMALE,5
+"[""if you're having the pressures of school and, {f uh, } everything else, it's kind of, - /""]",if youre having the pressures of school and f uh  everything else its kind of  ,sv,FEMALE,3
+"[""course it's really, {d you know, } - /""]",course its really d you know   ,sv,FEMALE,3
+"[""as soon as you do it, it's really a release. /""]",as soon as you do it its really a release ,sv,FEMALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['you feel invigorated  /'],you feel invigorated  ,sv,FEMALE,3
+['{c and } [ you feel + --'],c and   you feel  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- <inhaling> {f oh, } you feel ] in a lot better shape --']", inhaling f oh  you feel  in a lot better shape ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+['ready to go another twelve hours. /'],ready to go another twelve hours ,^2,MALE,23
+['-- just like eating right foods. /'], just like eating right foods ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['if i eat very much sugar, boy, just does something. /']",if i eat very much sugar boy just does something ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['do you have to watch what you eat pretty regularly? /'],do you have to watch what you eat pretty regularly ,qy,MALE,7
+['i do.  /'],i do  ,na,FEMALE,21
+['i have to be real careful. /'],i have to be real careful ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['i stopped eating meat about, {f oh, } {f uh, } must have been eight months ago. /']",i stopped eating meat about f oh  f uh  must have been eight months ago ,sd,MALE,1
+['did you? /'],did you ,^g,FEMALE,40
+"['uh-huh,  /']",uhhuh  ,ny,MALE,9
+['completely.  /'],completely  ,sd,MALE,1
+"['{e i mean, } any kind of meat - /']",e i mean  any kind of meat  ,sd,MALE,1
+"['[ {c or, } + {c and } ] [ i, + {c and } i ] really feel a lot better <throat_clearing> now. /']", c or   c and    i  c and  i  really feel a lot better throatclearing now ,sd,MALE,1
+['makes a lot of difference. /'],makes a lot of difference ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+['it really does. /'],it really does ,sd,MALE,1
+"[""{d well, } there's a lot of fat in meat. /""]",d well  theres a lot of fat in meat ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,%,MALE,5
+"[""[ that's it, + {e i mean, } that's ] about where almost all of the fat comes from -- /""]", thats it  e i mean  thats  about where almost all of the fat comes from  ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['-- {c and so. } i found that really helps. /'], c and so  i found that really helps ,sd,MALE,1
+"['{c and } unless you really like, {f uh, } fish. /']",c and  unless you really like f uh  fish ,sd,FEMALE,1
+['((   )) .'],    ,x,MALE,8
+"['fish is pretty good for you,  /']",fish is pretty good for you  ,sd,FEMALE,1
+"['{c but, } {f uh. } -/']",c but  f uh  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i eat that,  /']",i eat that  ,sd,MALE,1
+"[""i think i've eaten fish like twice since. - /""]",i think ive eaten fish like twice since  ,sd,MALE,1
+"['i used to eat a lot of fish, too,  /']",i used to eat a lot of fish too  ,sd,MALE,1
+['{c but } <throat_clearing> i just tried to cut it all out for a while and see what happens. /'],c but  throatclearing i just tried to cut it all out for a while and see what happens ,sd,MALE,1
+['kind of see what happens. /'],kind of see what happens ,^2,FEMALE,23
+"['yeah,  /']",yeah  ,aa,MALE,4
+['{c and } i like it. /'],c and  i like it ,sd,MALE,1
+"[""i've tried to do that with sugar  /""]",ive tried to do that with sugar  ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""<laughter> # i don't know if i'm that brave yet # . /""]",laughter  i dont know if im that brave yet   ,sd,MALE,1
+['-- # everything has sugar in it # . /'],  everything has sugar in it   ,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+"['{e i mean, } if you go, - /']",e i mean  if you go  ,sv,FEMALE,3
+['your ketchup has sugar in it. /'],your ketchup has sugar in it ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['course, - /']",course  ,%,FEMALE,5
+"['{c and } i like sugar, too,  /']",c and  i like sugar too  ,sd,FEMALE,1
+"[""[ that's -- +""]", thats  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- that's ] a problem,  /""]", thats  a problem  ,+,FEMALE,0
+['{c but. } -/'],c but  ,%,FEMALE,5
+['<laughter>.'],laughter,x,MALE,8
+"[""{d anyway, } {d well, } it's, {f uh, } nice talking to you.  /""]",d anyway  d well  its f uh  nice talking to you  ,fc,FEMALE,10
+"[""think we've, {f uh, } covered all the subject. /""]",think weve f uh  covered all the subject ,fc,FEMALE,10
+"['okay,  /']",okay  ,fc,MALE,10
+"['yeah,  /']",yeah  ,fc,MALE,10
+['it sounds good. /'],it sounds good ,fc,MALE,10
+['okay. /'],okay ,fc,FEMALE,10
+"['{d well, } good luck to you there in idaho. /']",d well  good luck to you there in idaho ,fc,MALE,10
+"['{d well, } you, too.  /']",d well  you too  ,fc,FEMALE,10
+"['good luck, {f uh, }  /']",good luck f uh   ,fc,FEMALE,10
+['enjoy college while you can.  /'],enjoy college while you can  ,fc,FEMALE,10
+"[""let me tell you it's, {f uh. } -/""]",let me tell you its f uh  ,fc,FEMALE,10
+"[""{d well, } i'm in graduate school now.  /""]",d well  im in graduate school now  ,fc,MALE,10
+"['[ [  i, + <throat_clearing> i, ] + i ] kind of feel like i wish i could have gone back to undergraduate now <laughter>. /']",   i  throatclearing i   i  kind of feel like i wish i could have gone back to undergraduate now laughter ,fc,MALE,10
+"[""it's a little different, {f uh } --""]",its a little different f uh  ,fc,FEMALE,10
+['yeah. /'],yeah ,fc,MALE,10
+"[""-- challenge, isn't it? /""]", challenge isnt it ,+,FEMALE,0
+"['yeah,  /']",yeah  ,fc,MALE,10
+['it is.  /'],it is  ,fc,MALE,10
+"[""{d well, } it's good talking, /""]",d well  its good talking ,fc,MALE,10
+['where are you [ going +  --'],where are you  going   ,fc,FEMALE,10
+['pardon? /'],pardon ,fc,MALE,10
+['-- studying? ] /'], studying  ,+,FEMALE,0
+"[""i'm studying speech pathology. /""]",im studying speech pathology ,fc,MALE,10
+['right. /'],right ,fc,FEMALE,10

@@ -1,0 +1,156 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay, {f uh, }  /']",okay f uh   ,"fo_o_fw_""_by_bc",MALE,0
+['what kind of hobbies do you have lori? /'],what kind of hobbies do you have lori ,qo,MALE,25
+"['{f uh, } i guess, [ i, + {f uh, } i ] like to play golf. /']",f uh  i guess  i  f uh  i  like to play golf ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, } {f uh, } i also like to plant flowers and [ do + do ] some gardening and do arts and crafts. /']",c and  f uh  i also like to plant flowers and  do  do  some gardening and do arts and crafts ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['where do you play golf in this area? /'],where do you play golf in this area ,qw,MALE,12
+"['{d well, } <inhaling> we live, {f uh, } pretty close,']",d well  inhaling we live f uh  pretty close,sd,FEMALE,1
+['<sneezing>.'],sneezing,x,MALE,8
+['to the mesquite golf course. /'],to the mesquite golf course ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d so, } we will play either out there or at firewheel.  /']",d so  we will play either out there or at firewheel  ,sd,FEMALE,1
+"['that is usually where we play,  /']",that is usually where we play  ,sd,FEMALE,1
+['{c but } i have played {d you know } different courses in in the dallas area. /'],c but  i have played d you know  different courses in in the dallas area ,sd,FEMALE,1
+"['[ do you, + {f uh, } do you ] ride or do you pull a cart when you play golf? /']", do you  f uh  do you  ride or do you pull a cart when you play golf ,qy,MALE,7
+"['{f uh, } both <laughter>. /']",f uh  both laughter ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+['not at the same time. /'],not at the same time ,sd,FEMALE,1
+"['i was going to say, that could be difficult <laughter>. /']",i was going to say that could be difficult laughter ,sd,MALE,1
+"['<laughter> {d no, }  sometimes we ride  /']",laughter d no   sometimes we ride  ,sd,FEMALE,1
+"['{c and } sometimes, {f uh, } we, pull,  /']",c and  sometimes f uh  we pull  ,sd,FEMALE,1
+"['we like to, to, {f uh, } a lot of the times just walk, {f uh, } for the exercise.  /']",we like to to f uh  a lot of the times just walk f uh  for the exercise  ,sd,FEMALE,1
+['# {c but } # -- -/'], c but    ,%,FEMALE,5
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['-- i find that when i ride in a cart, i play better  /']", i find that when i ride in a cart i play better  ,sd,FEMALE,1
+"[""{c and } i think it is cause i don't get as tired <laughter>. /""]",c and  i think it is cause i dont get as tired laughter ,sv,FEMALE,3
+['i think that might be true. /'],i think that might be true ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i don't like pulling a cart on firewell golf course because they want you to pull the cart on the path. /""]",i dont like pulling a cart on firewell golf course because they want you to pull the cart on the path ,sd,MALE,1
+"['i know,  /']",i know  ,aa,FEMALE,4
+['{c and } that makes me so mad <<louder>>. /'],c and  that makes me so mad louder ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{d you know, } [ it is + {d like } it is ] not going to do that much damage to the course, but apparently they think differently <laughter>. /']",d you know   it is  d like  it is  not going to do that much damage to the course but apparently they think differently laughter ,sv,FEMALE,3
+"[""that is the reason, i don't play over there. /""]",that is the reason i dont play over there ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i like the course,  but i don't play over there because, [ you, + they ] don't, {f uh, } {d you know } don't allow you to pull a cart. /""]",i like the course  but i dont play over there because  you  they  dont f uh  d you know  dont allow you to pull a cart ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c and, } i don't think a cart damages the turf. /""]",c and  i dont think a cart damages the turf ,sv,MALE,3
+['right.  /'],right  ,b,FEMALE,2
+"['{d well, } the reason why we play over there is because its where, since we are a garland resident, they gave us a special deal where you can get, {f uh, } ten rounds of golf for a hundred dollars,  /']",d well  the reason why we play over there is because its where since we are a garland resident they gave us a special deal where you can get f uh  ten rounds of golf for a hundred dollars  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,%,FEMALE,5
+['a hundred dollars  /'],a hundred dollars  ,sd,FEMALE,1
+['{c cause } it is half price what the normal green fees are. /'],c cause  it is half price what the normal green fees are ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c so } that is <noise> why we <noise> {d you know } play over there  /'],c so  that is noise why we noise d you know  play over there  ,sd,FEMALE,1
+['{c cause } we have got our card <laughter>. /'],c cause  we have got our card laughter ,sd,FEMALE,1
+"['{d well, } i guess i could use a card too.  /']",d well  i guess i could use a card too  ,sv,MALE,3
+"['i live, {f uh, } [ very near, + {f uh, } very close ] to the firewheel golf course. /']",i live f uh   very near  f uh  very close  to the firewheel golf course ,sd,MALE,1
+"['{f oh, } do you?  /']",f oh  do you  ,bh,FEMALE,18
+['{c so } you live in garland then. /'],c so  you live in garland then ,qy^d,FEMALE,16
+"['yes,  /']",yes  ,ny,MALE,9
+['i live in northwest garland.  /'],i live in northwest garland  ,sd,MALE,1
+['right up there near the golf course. /'],right up there near the golf course ,sd,MALE,1
+"['okay,  /']",okay  ,bk,FEMALE,14
+"['{d well } we are in south garland,  /']",d well  we are in south garland  ,sd,FEMALE,1
+"['{c but } {d yeah, }  next time you go, {f uh, } {d you know, } check into it,  /']",c but  d yeah   next time you go f uh  d you know  check into it  ,ad,FEMALE,22
+"['they have, {f uh, } - /']",they have f uh   ,%,FEMALE,5
+"['it is just like, {f uh, } a bus card  /']",it is just like f uh  a bus card  ,sd,FEMALE,1
+"['{c and } they just punch it.  {d you know, }  /']",c and  they just punch it  d you know   ,sd,FEMALE,1
+['it has got one through ten on it  /'],it has got one through ten on it  ,sd,FEMALE,1
+['{c and } every time you go they just punch it for you. /'],c and  every time you go they just punch it for you ,sd,FEMALE,1
+"['{d well, } in the last two years, i have not played very much golf because i am involved in boy scouts. /']",d well  in the last two years i have not played very much golf because i am involved in boy scouts ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"['{c so, } [ [ i have, + {f uh, } i have, ] + # {f uh, } i have ] children # --']",c so    i have  f uh  i have    f uh  i have  children  ,sd,MALE,1
+"['# you must have [ a, + a ] son. # /']", you must have  a  a  son  ,qy^d,FEMALE,16
+['-- boy scout age.  /'], boy scout age  ,+,MALE,0
+"['i have two boys that are boy scout age,  /']",i have two boys that are boy scout age  ,na,MALE,21
+"['{c and, } {f uh, } {c so } --']",c and  f uh  c so  ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+['-- i am very active in boy scouts  /'], i am very active in boy scouts  ,+,MALE,0
+['{c so } i would have to say that camping and  hiking and canoeing and boy scouts is my hobby. /'],c so  i would have to say that camping and  hiking and canoeing and boy scouts is my hobby ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['# {c but } i # -- -/'], c but  i   ,%,MALE,5
+['# {f oh } # {d well } that sounds like fun too <laughter>. /'], f oh   d well  that sounds like fun too laughter ,ba,FEMALE,6
+['-- {c but } my golf clubs will probably rust before i get to use them again  /'], c but  my golf clubs will probably rust before i get to use them again  ,sd,MALE,1
+['{c because } my boys are still right at the beginning age  /'],c because  my boys are still right at the beginning age  ,sd,MALE,1
+['{c and } it is probably going to be six to eight years before they go to college. /'],c and  it is probably going to be six to eight years before they go to college ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{d well, } you need to, {f uh, } teach them how to play and take them out on the course with you <laughter>. /']",d well  you need to f uh  teach them how to play and take them out on the course with you laughter ,sv,FEMALE,3
+"[""that's right.  /""]",thats right  ,aa,MALE,4
+['lessons are expensive though. /'],lessons are expensive though ,sv,MALE,3
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,FEMALE,4
+['well you can teach them <laughter>. /'],well you can teach them laughter ,sv,FEMALE,3
+"['{d well, } they would probably never make it then  /']",d well  they would probably never make it then  ,ar,MALE,28
+"[""{c because } i don't think, {f uh, } - /""]",c because  i dont think f uh   ,sd,MALE,1
+['i only took lessons for golf when i was in college. /'],i only took lessons for golf when i was in college ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } as a course for p e you know <laughter> --']",f uh  as a course for p e you know laughter ,sd,MALE,1
+"['right,  /']",right  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+['-- so i could graduate. /'], so i could graduate ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } {f uh, } that is the only time i think i have ever really taken golf lessons  /']",c but  f uh  that is the only time i think i have ever really taken golf lessons  ,sd,MALE,1
+['{c and } that was kind of a group --'],c and  that was kind of a group ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- scenario --'], scenario ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+['-- and not individual. /'], and not individual ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+['i took one lesson one other time.  /'],i took one lesson one other time  ,sd,MALE,1
+"['besides that, {f uh, } i just, {f uh, } try to make the club hit the ball. /']",besides that f uh  i just f uh  try to make the club hit the ball ,sd,MALE,1
+['right. /'],right ,aa,FEMALE,4
+['<laughter>.'],laughter,x,MALE,8
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['i know what you mean <laughter>. /'],i know what you mean laughter ,sd,FEMALE,1
+"[""i don't want to play strike out, {d you know. } /""]",i dont want to play strike out d you know  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } i have fun doing it,  /']",c but  i have fun doing it  ,sd,MALE,1
+"['[ some, + {f uh, } {d you know, } i have some ] good shots and  some bad shots. /']", some  f uh  d you know  i have some  good shots and  some bad shots ,sd,MALE,1
+['{d oh } yeah.  /'],d oh  yeah  ,b,FEMALE,2
+"['[ it, + it ] is just nice to get outdoors and do something. /']", it  it  is just nice to get outdoors and do something ,sv,FEMALE,3
+"['{c so } you said you work, {f uh, } in the gardens too.  /']",c so  you said you work f uh  in the gardens too  ,sd,MALE,1
+"['do you have, {f uh, } [ a + ] special # flowers? # /']",do you have f uh   a   special  flowers  ,qy,MALE,7
+['# {d well } # flower gardens.  /'], d well   flower gardens  ,no,FEMALE,31
+"['i like to have, - /']",i like to have  ,sd,FEMALE,1
+['matter of fact this past weekend i just got finished planting a bunch of tulips and daffodil bulbs.  /'],matter of fact this past weekend i just got finished planting a bunch of tulips and daffodil bulbs  ,sd,FEMALE,1
+"['{c so, } those ought to be coming up around spring time <laughter>. /']",c so  those ought to be coming up around spring time laughter ,sd,FEMALE,1
+"['my wife had, {f uh, } just put in a bunch of, i want to say,  they are pansies. /']",my wife had f uh  just put in a bunch of i want to say  they are pansies ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['she put them in like two months ago cause they are winter plants. /'],she put them in like two months ago cause they are winter plants ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['{c and } they have been, - /']",c and  they have been  ,sd,MALE,1
+['we thought even with all the cold weather weather we have had they have been blooming just fine. /'],we thought even with all the cold weather weather we have had they have been blooming just fine ,sv,MALE,3
+"['{f oh, } they do great.  /']",f oh  they do great  ,sd,FEMALE,1
+['i put mine in probably in november. /'],i put mine in probably in november ,sd,FEMALE,1
+"['that is when she did, i think. /']",that is when she did i think ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i think it was november  /'],i think it was november  ,sd,FEMALE,1
+"[""{c and } i don't do anything to mine, water them or anything <laughter>.  /""]",c and  i dont do anything to mine water them or anything laughter  ,sd,FEMALE,1
+"['{c and } they just, - /']",c and  they just  ,sd,FEMALE,1
+['they do really good  /'],they do really good  ,sd,FEMALE,1
+"['{c and } i even had, {f uh, } i guess it was last year or the year before, i had some out  /']",c and  i even had f uh  i guess it was last year or the year before i had some out  ,sd,FEMALE,1
+['{c and } it froze  /'],c and  it froze  ,sd,FEMALE,1
+"['{c and } the pansies looked terrible,  but they came back later.  /']",c and  the pansies looked terrible  but they came back later  ,sd,FEMALE,1
+"[""i didn't do anything to them  /""]",i didnt do anything to them  ,sd,FEMALE,1
+"['{c so } [ they are, + {f uh, } they are ] good to plant in the winter time.  /']",c so   they are  f uh  they are  good to plant in the winter time  ,sd,FEMALE,1
+['they last for a long time then.  /'],they last for a long time then  ,sd,FEMALE,1
+"['{c so, } if you start putting them, {d you know, } you can put them out in the spring too,  /']",c so  if you start putting them d you know  you can put them out in the spring too  ,sd,FEMALE,1
+['{c but } once it starts getting real hot --'],c but  once it starts getting real hot ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- then it just kills them cause they can't stand the hot weather. /""]", then it just kills them cause they cant stand the hot weather ,+,FEMALE,0
+['do they survive longer if you plant them in the winter time?  /'],do they survive longer if you plant them in the winter time  ,qy,MALE,7
+['will they make it through the summer sun? /'],will they make it through the summer sun ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""they won't make it through the summer because it gets too hot,  /""]",they wont make it through the summer because it gets too hot  ,sd,FEMALE,1
+['{c but } they make it through probably winter and spring.  /'],c but  they make it through probably winter and spring  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['{d well. } /'],d well  ,%,MALE,5
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"['i have got some of those too,  /']",i have got some of those too  ,sd,FEMALE,1
+['{c cause } i love flowers <laughter>. /'],c cause  i love flowers laughter ,sd,FEMALE,1
+"['{d well, } that is good.  /']",d well  that is good  ,ba,MALE,6
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{c and } [ i do, + i try to do ] some arts and crafts  /']",c and   i do  i try to do  some arts and crafts  ,sd,FEMALE,1
+"['{c and } i love to go, -/']",c and  i love to go ,sd,FEMALE,1

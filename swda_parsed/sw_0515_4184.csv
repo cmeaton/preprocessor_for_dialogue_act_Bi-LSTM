@@ -1,0 +1,189 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['# you have any pets? # /'], you have any pets  ,qy,MALE,7
+['# do i have pets? # /'], do i have pets  ,br,FEMALE,30
+['yeah. /'],yeah ,ny,MALE,9
+"['yes,  /']",yes  ,ny,FEMALE,9
+['i have a cat  /'],i have a cat  ,sd,FEMALE,1
+['{c and } i have two dogs. /'],c and  i have two dogs ,sd,FEMALE,1
+"['two dogs,  /']",two dogs  ,b^m,MALE,24
+['what kind? /'],what kind ,qw,MALE,12
+['i have a schnauzer  /'],i have a schnauzer  ,sd,FEMALE,1
+['{c and } i have a sheltie. /'],c and  i have a sheltie ,sd,FEMALE,1
+['schnauzers.  /'],schnauzers  ,b^m,MALE,24
+['is it a miniature or a standard schnauzer? /'],is it a miniature or a standard schnauzer ,qy,MALE,7
+"[""[ it, + it's ] a miniature. /""]", it  its  a miniature ,sd,FEMALE,1
+['{f uh. }'],f uh ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""i'm going into all this because [ i used to w-, +   i just got done <laughter> working ] at a pet shop actually. /""]",im going into all this because  i used to w    i just got done laughter working  at a pet shop actually ,+,MALE,0
+"['{f oh, } okay. /']",f oh  okay ,b,FEMALE,2
+['yeah. /'],yeah ,b,MALE,2
+"[""{d well, } the schnauzer [ i'm, + i'm   ] watching for one of, {f uh, } the managers where i work  /""]",d well  the schnauzer  im  im    watching for one of f uh  the managers where i work  ,sd,FEMALE,1
+"[""{c and } he's been transferred to germany for a while -- /""]",c and  hes been transferred to germany for a while  ,sd,FEMALE,1
+['{f uh. } /'],f uh  ,b,MALE,2
+"[""-- {c and } i'm taking care of his dog  /""]", c and  im taking care of his dog  ,sd,FEMALE,1
+"['[ {c and, } +  {f uh, } {c and } ] i had just got the kitten when he asked me that  /']", c and    f uh  c and   i had just got the kitten when he asked me that  ,sd,FEMALE,1
+"[""{c and } he says, {d well, } my dog doesn't like cats, /""]",c and  he says d well  my dog doesnt like cats ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""{c and } i said, {d well, } [ we won't tell him it's a c-, + we won't tell her it's a cat,  ]""]",c and  i said d well   we wont tell him its a c  we wont tell her its a cat  ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['because it was a kitten,  /']",because it was a kitten  ,+,FEMALE,0
+"['{c and, } {d you know, } [ they just, + they just ] love kittens. /']",c and  d you know   they just  they just  love kittens ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['they just are fascinated. /'],they just are fascinated ,sv,FEMALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"[""{c so } she doesn't know that this is a cat yet. /""]",c so  she doesnt know that this is a cat yet ,sd,FEMALE,1
+"[""that's good. /""]",thats good ,ba,MALE,6
+['<laughter>.'],laughter,x,FEMALE,8
+"['they  (( say )) , -/']",they   say   ,sv,MALE,3
+['{c and } they get along real good.  /'],c and  they get along real good  ,sd,FEMALE,1
+"[""i said if tom could see dog lick this kitty, he'd flip. /  *[[listen]]""]",i said if tom could see dog lick this kitty hed flip   listen,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['<laughter> # {c so } that was interesting. # /'],laughter  c so  that was interesting  ,sd,FEMALE,1
+"[""# didn't expect that would happen. #  /""]", didnt expect that would happen   ,bf,MALE,20
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""that's cool,  /""]",thats cool  ,ba,MALE,6
+"[""that's nice.  /""]",thats nice  ,ba,MALE,6
+"[""{f uh, }  let's see,  /""]",f uh   lets see  ,^h,MALE,27
+['what was the other dog you had? /'],what was the other dog you had ,qw,MALE,12
+"[""it's a sheltie. /""]",its a sheltie ,sd,FEMALE,1
+"['{f oh, } a sheltie. /']",f oh  a sheltie ,b^m,MALE,24
+"[""she's real [ s-, + sweet ] little dog.  /""]",shes real  s  sweet  little dog  ,sd,FEMALE,1
+"[""she's got a very nice temperament.   /""]",shes got a very nice temperament   ,sd,FEMALE,1
+"[""{f uh, }  they're not as aggressive as a schnauzer. /""]",f uh   theyre not as aggressive as a schnauzer ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['{d you know, } the schnauzers are a little aggressive. /']",d you know  the schnauzers are a little aggressive ,sv,FEMALE,3
+['<laughter> they can be nippy. /'],laughter they can be nippy ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+['shelties are nice.  /'],shelties are nice  ,sv,MALE,3
+['everybody seems to be really happy with them.  /'],everybody seems to be really happy with them  ,sv,MALE,3
+"[""they're good  temperament. /""]",theyre good  temperament ,sv,MALE,3
+"[""they're a good temperament -- /""]",theyre a good temperament  ,sv,FEMALE,3
+['# they put up with a lot. # /'], they put up with a lot  ,sv,MALE,3
+"['-- # [ {c and } they, # + {c and } they ] just, {f uh, } - /']",   c and  they   c and  they  just f uh   ,sv,FEMALE,3
+"['they, - /']",they  ,%,FEMALE,5
+['i think they have a good head on their shoulders.  /'],i think they have a good head on their shoulders  ,sv,FEMALE,3
+"['i think they have [ a, + a ] higher level of intelligence than other, {f uh, } dogs that i have encountered. /']",i think they have  a  a  higher level of intelligence than other f uh  dogs that i have encountered ,sv,FEMALE,3
+"['<laughter> schnauzers, in particular probably. /']",laughter schnauzers in particular probably ,sv,MALE,3
+"['{d well, }']",d well ,aa,FEMALE,4
+['<laughter>.'],laughter,x,MALE,8
+"['yeah,  /']",yeah  ,+,FEMALE,0
+"['{c but } also some poodles, {f uh } -- /']",c but  also some poodles f uh   ,sv,FEMALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"[""-- they're kind of, - /""]", theyre kind of  ,sv,FEMALE,3
+"['there are some smart ones out there,  /']",there are some smart ones out there  ,sv,FEMALE,3
+"[""{c but } there's [ some + also  some, ] {f uh, } not so smart ones <laughter>. /""]",c but  theres  some  also  some  f uh  not so smart ones laughter ,sv,FEMALE,3
+"['<laughter> yeah,  /']",laughter yeah  ,b,MALE,2
+"['i g-, - /']",i g  ,%,MALE,5
+"['it seems the smaller the are, [ the, + the ] worse off they are <laughter>. /']",it seems the smaller the are  the  the  worse off they are laughter ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""[ [ that's, + that's, ] +  maybe [ that's, + there's, ] ] {f uh, } some credence in that statement. /""]",  thats  thats    maybe  thats  theres   f uh  some credence in that statement ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ the-, + they're ] bred down so much.  /""]", the  theyre  bred down so much  ,sv,MALE,3
+"[""it's, -/""]",its ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""they aren't the best pets. /""]",they arent the best pets ,sv,MALE,3
+"[""[ [ i, + i'd, ] + i ] really don't know --""]",  i  id   i  really dont know ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- what the best pet is.  /'], what the best pet is  ,+,FEMALE,0
+"[""i guess it's up to the individual and how they relate to their animal. /""]",i guess its up to the individual and how they relate to their animal ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{e i mean, } some people seem fairly well suited [ for -- +']",e i mean  some people seem fairly well suited  for  ,sv,MALE,3
+"['-- for, ] {f uh, } miniature poodles and such. /']", for  f uh  miniature poodles and such ,+,MALE,0
+['and bull dogs <laughter>. /'],and bull dogs laughter ,+,FEMALE,0
+['<laughter>.'],laughter,x,MALE,8
+"[""{c but } i don't know about [ [ [ these, + {f uh, } these, ] + {f uh, } {f uh, } these  ] pincers, +  these,  now,  what are they called. [ pit bulls, + pit bulls ] ] --""]",c but  i dont know about    these  f uh  these   f uh  f uh  these   pincers   these  now  what are they called  pit bulls  pit bulls   ,sd,FEMALE,1
+['pit bull. /'],pit bull ,^2,MALE,23
+['-- that are so vicious. /'], that are so vicious ,+,FEMALE,0
+"['they might, - /']",they might  ,%,MALE,5
+"[""they're actually very friendly dogs. /""]",theyre actually very friendly dogs ,sv,MALE,3
+['are they really?  /'],are they really  ,bh,FEMALE,18
+"[""# i don't think i've ever # --""]", i dont think ive ever  ,sd,FEMALE,1
+"[""# {f uh, } they're # # really nice. # /""]", f uh  theyre   really nice  ,sv,MALE,3
+['-- # seen one. # /'],  seen one  ,+,FEMALE,0
+"[""[ i, + i've  ] dealt with quite a few of them.  /""]", i  ive   dealt with quite a few of them  ,sd,MALE,1
+"['[ people, {f uh, } +  customers ] that bring them into the shop and ask me {d like, } they, {f uh, } fit collars and stuff on them  /']", people f uh    customers  that bring them into the shop and ask me d like  they f uh  fit collars and stuff on them  ,sd,MALE,1
+"['{c and } [ they are, + they are ] just really nice, really friendly, {f uh, } kind of like  medium intelligence.  {f uh, } /']",c and   they are  they are  just really nice really friendly f uh  kind of like  medium intelligence  f uh  ,sd,MALE,1
+"['{d well, } how do they become s-, - /']",d well  how do they become s  ,qw,FEMALE,12
+"['w-, - /']",w  ,%,FEMALE,5
+"['how did they get their reputation, then? /']",how did they get their reputation then ,qw,FEMALE,12
+"['{d well, } because some people, {f uh, } want to train them as, -/']",d well  because some people f uh  want to train them as ,sd,MALE,1
+"['{f oh, } they train them to be that way, then. /']",f oh  they train them to be that way then ,bf,FEMALE,20
+['yeah. /'],yeah ,aa,MALE,4
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"[""you really can't get a pit bull from birth that's that way. /""]",you really cant get a pit bull from birth thats that way ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"['yeah,  /']",yeah  ,b,MALE,2
+['it takes a lot of training and a lot of abuse to get a dog to really --'],it takes a lot of training and a lot of abuse to get a dog to really ,sd,MALE,1
+"['# {f oh, } dear,  /']", f oh  dear  ,ba,FEMALE,6
+['{c so } [ the # -- +'],c so   the   ,bf,FEMALE,20
+['-- # respond. # /'],  respond  ,+,MALE,0
+['-- the ] poor animal is doing it in self protection. /'], the  poor animal is doing it in self protection ,+,FEMALE,0
+['right. /'],right ,aa,MALE,4
+"['{f oh, } dear. /']",f oh  dear ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""[ they aren't, + they aren't ] by nature really nasty critters.  /""]", they arent  they arent  by nature really nasty critters  ,sd,MALE,1
+['they are very determined critters -- /'],they are very determined critters  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and so } once you get them going, it's not good [ to + <laughter>, to ] deal with, but, [ they, + ] [ i, + i ] really like them.  /  *[[two utts?]]""]", c and so  once you get them going its not good  to  laughter to  deal with but  they    i  i  really like them    two utts,sv,MALE,3
+"['[ i was, + i was ] impressed by them.  /']", i was  i was  impressed by them  ,sd,MALE,1
+"[""[ they're, + they're ] real sturdy little critters  /""]", theyre  theyre  real sturdy little critters  ,sd,MALE,1
+"[""{c and } they aren't that big.""]",c and  they arent that big,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['and, {f uh, } just really friendly. /']",and f uh  just really friendly ,+,MALE,0
+"[""# {d well, } that's unusual. # /""]", d well  thats unusual  ,ba,FEMALE,6
+"['# [ i was, + i was  ] # --']",  i was  i was    ,sd,MALE,1
+"['i, -/']",i ,%,FEMALE,5
+['-- overwhelmed. /'], overwhelmed ,+,MALE,0
+"['{f huh, } {d well, } i suppose you were surprised. /']",f huh  d well  i suppose you were surprised ,bf,FEMALE,20
+['<laughter>.'],laughter,x,MALE,8
+['<laughter>.'],laughter,x,FEMALE,8
+['yeah. /'],yeah ,b,MALE,2
+['after --'],after ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['right now, -/']",right now ,%,MALE,5
+"['-- the reputation that,  {d you know } - /']", the reputation that  d you know   ,+,FEMALE,0
+"['they have quite an, {f uh, } {f uh, } notable reputation as far as, {d you know, } -/']",they have quite an f uh  f uh  notable reputation as far as d you know  ,sd,FEMALE,1
+['they picked up a lot of bad press lately. /'],they picked up a lot of bad press lately ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""they're banned [ from, + in ] some areas i understand. /""]",theyre banned  from  in  some areas i understand ,sd,FEMALE,1
+"['{d well, } yeah. /']",d well  yeah ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c but, } [ [ any, + any, ] + any ] pet's  [ going to, + [ can, + can ] ] be bad if you train it to be that way. /""]",c but    any  any   any  pets   going to   can  can   be bad if you train it to be that way ,sv,MALE,3
+"['{d you know, } that, - /']",d you know  that  ,%,FEMALE,5
+"[""they must have just targeted that breed and said, boy, we're going <laughter>, /""]",they must have just targeted that breed and said boy were going laughter ,sv,FEMALE,3
+"['{d well, } yeah,  /']",d well  yeah  ,b,MALE,2
+"[""it's,  when, - /""]",its  when  ,%,MALE,5
+"['in my hometown, they just outlawed ferrets --']",in my hometown they just outlawed ferrets ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,FEMALE,2
+"['-- because they had one incident of a ferret, {f uh, } attacking [ a k-, + a child ] --']", because they had one incident of a ferret f uh  attacking  a k  a child  ,+,MALE,0
+"['{f oh, } okay. /']",f oh  okay ,b,FEMALE,2
+['-- in a house. /'], in a house ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{e i mean, } these people had left this infant in the same room with this loose ferret.  /']",e i mean  these people had left this infant in the same room with this loose ferret  ,sd,MALE,1
+"['[ the, + the ] ferret is used to running the house and was kind of wild -- /']", the  the  ferret is used to running the house and was kind of wild  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {d you know, } they should expect something like that to happen.  /']", c and  d you know  they should expect something like that to happen  ,sv,MALE,3
+"['{c and so }  bas-, - /']",c and so   bas  ,%,MALE,5
+"[""now it's like ferrets are outlawed in the town. /""]",now its like ferrets are outlawed in the town ,sd,MALE,1
+"['{f oh, } did it attack the child, then? /']",f oh  did it attack the child then ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['[ it, + it ] bit him. /']", it  it  bit him ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } [ that was, + that was ] not a good thing,  /']",c and   that was  that was  not a good thing  ,sv,MALE,3
+"['{c but } i think it was probably [ a, + an ] individual ferret thing,  because  [ it was f-, + it was a fairly ] wild ferret. /']",c but  i think it was probably  a  an  individual ferret thing  because   it was f  it was a fairly  wild ferret ,sv,MALE,3
+"['{d well, } [ the -- +']",d well   the  ,sv,FEMALE,3
+"[""[ hadn't, + they hadn't, ] -/""]", hadnt  they hadnt  ,%,MALE,5
+['-- the ] people that owned him should have been on the --'], the  people that owned him should have been on the ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+['# {e i mean } # --'], e i mean   ,%,MALE,5
+['-- # lookout for that. # /'],  lookout for that  ,+,FEMALE,0
+"['-- they really [ should have, + should have  ] expected it.']", they really  should have  should have   expected it,+,MALE,0
+['{c and } taken the precautions.  /'],c and  taken the precautions  ,+,MALE,0
+"[""they didn't. /""]",they didnt ,sd,MALE,1
+"['sure,  /']",sure  ,+,FEMALE,0
+['yeah. /'],yeah ,aa,FEMALE,4
+"[""it's too bad it happened, though. /""]",its too bad it happened though ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""{c because } then [ the, + the  ] animal's in trouble, and not the person. /""]",c because  then  the  the   animals in trouble and not the person ,sd,FEMALE,1
+['right. /'],right ,aa,MALE,4

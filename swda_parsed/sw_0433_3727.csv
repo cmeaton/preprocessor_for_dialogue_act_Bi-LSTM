@@ -1,0 +1,192 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['do you have kids? /'],do you have kids ,qy,FEMALE,7
+['{f oh } yeah.  /'],f oh  yeah  ,ny,MALE,9
+['i got three.  /'],i got three  ,sd,MALE,1
+['how about yourself? /'],how about yourself ,qo,MALE,25
+"['{f uh, } we have two and another one on the way. /']",f uh  we have two and another one on the way ,sd,FEMALE,1
+"['{f oh, } you have got, {f uh, } young children then. /']",f oh  you have got f uh  young children then ,qy^d,MALE,16
+"['{d well, } yeah,  /']",d well  yeah  ,ny,FEMALE,9
+"['{f uh, } we do,  /']",f uh  we do  ,sd,FEMALE,1
+"['we have, {f uh, } a six year old.  /']",we have f uh  a six year old  ,sd,FEMALE,1
+['he is oldest  /'],he is oldest  ,sd,FEMALE,1
+"['{c and then, } {f uh, } our baby will be a year on monday. /']",c and then  f uh  our baby will be a year on monday ,sd,FEMALE,1
+['{f oh } my goodness.  /'],f oh  my goodness  ,ba,MALE,6
+['that is great. /'],that is great ,ba,MALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+['what kind of mix do you have?  /'],what kind of mix do you have  ,qw,MALE,12
+['a boy and a girl? /'],a boy and a girl ,qy,MALE,7
+['two boys. /'],two boys ,ng,FEMALE,29
+['two boys. /'],two boys ,b^m,MALE,24
+['two boys <inhaling>.  /'],two boys inhaling  ,sd,FEMALE,1
+['yeah. /'],yeah ,%,FEMALE,5
+['do you know what is on the way yet?  /'],do you know what is on the way yet  ,qy,MALE,7
+['are you -- -/'],are you  ,%,MALE,5
+['no.   /'],no   ,nn,FEMALE,13
+"['i am just about three months,  /']",i am just about three months  ,sd,FEMALE,1
+"[""{c and, }  {f uh, } i don't think we really even want to find out. /""]",c and   f uh  i dont think we really even want to find out ,sd,FEMALE,1
+['-- i do not blame you <laughter>. /'], i do not blame you laughter ,ba,MALE,6
+['we like surprises.  /'],we like surprises  ,sd,FEMALE,1
+['{c so } <laughter>.  we will take either. /'],c so  laughter  we will take either ,sd,FEMALE,1
+"['{d well, } we have got two boys  and a girl also.  /']",d well  we have got two boys  and a girl also  ,sd,MALE,1
+"['{d well, } we have got two boys and  a girl <laughter>. /']",d well  we have got two boys and  a girl laughter ,sd,MALE,1
+"['{c and, }  {f uh, }  does it, - /']",c and   f uh   does it  ,%,FEMALE,5
+['are the two boys first? /'],are the two boys first ,qy,FEMALE,7
+['yes. /'],yes ,ny,MALE,9
+['{f oh. } /'],f oh  ,bk,FEMALE,14
+"['[ maybe, + maybe ] you will get lucky and get a girl this time. /']", maybe  maybe  you will get lucky and get a girl this time ,sv,MALE,3
+"['maybe, {f huh. } /']",maybe f huh  ,aa,FEMALE,4
+['<laughter>.'],laughter,x,MALE,8
+"['[ we, + we ] kind of like our boys though too,  /']", we  we  kind of like our boys though too  ,sd,FEMALE,1
+['{c so } <laughter>. -/'],c so  laughter ,%,FEMALE,5
+"['{d well, }  our boys, [ one, is, + {f uh, } he is ] in graduate school at a and m, {f uh,  }  /']",d well   our boys  one is  f uh  he is  in graduate school at a and m f uh    ,sd,MALE,1
+['he is in the navy.  /'],he is in the navy  ,sd,MALE,1
+['he is a lieutenant in the navy  /'],he is a lieutenant in the navy  ,sd,MALE,1
+['{c and } the navy is sending him for his masters in ocean engineering -- /'],c and  the navy is sending him for his masters in ocean engineering  ,sd,MALE,1
+['{f oh } my goodness. /'],f oh  my goodness ,ba,FEMALE,6
+"['-- {c and } we have got another boy that is, [ us, + ] out in maryland.  /']", c and  we have got another boy that is  us   out in maryland  ,sd,MALE,1
+"['he is a wildlife biologist, {f uh, }  /']",he is a wildlife biologist f uh   ,sd,MALE,1
+['{c and } our girl is thirteen.  /'],c and  our girl is thirteen  ,sd,MALE,1
+['she is in the seventh grade.   /'],she is in the seventh grade   ,sd,MALE,1
+"['{c so, }  we have got, still, all sorts of good activities since, -/']",c so   we have got still all sorts of good activities since ,sd,MALE,1
+['{f oh } yeah.  /'],f oh  yeah  ,aa,FEMALE,4
+"['you kind of got, {f uh, } a span there, {f huh? } /']",you kind of got f uh  a span there f huh  ,qy,FEMALE,7
+['<laughter>.'],laughter,x,MALE,8
+"['{f oh, } {d well } what do you do with your seventh grader? /']",f oh  d well  what do you do with your seventh grader ,qw,FEMALE,12
+"['{d well, } she is into a little bit of everything.  /']",d well  she is into a little bit of everything  ,sd,MALE,1
+"['she [ is, + {f uh, } loves ] riding horses  /']",she  is  f uh  loves  riding horses  ,sd,MALE,1
+['{c so } she goes out riding as much <bird_squawk> as she can. /'],c so  she goes out riding as much birdsquawk as she can ,sd,MALE,1
+['do you have horses? /'],do you have horses ,qy,FEMALE,7
+['no <laughter>. /'],no laughter ,nn,MALE,13
+"['[ she, + just, she ] knows people that does, {f huh? } /']", she  just she  knows people that does f huh  ,qy,FEMALE,7
+"['{d well, } that, - /']",d well  that  ,%,MALE,5
+['yeah  /'],yeah  ,ny,MALE,9
+['{c but } <bird_squawk> maybe that riding place that is north of town that she goes to. - /'],c but  birdsquawk maybe that riding place that is north of town that she goes to  ,sd,MALE,1
+"['she rides english, and does jumping, takes lesson and  all that kind of stuff. /']",she rides english and does jumping takes lesson and  all that kind of stuff ,sd,MALE,1
+"['{f oh, } does she?  /']",f oh  does she  ,bh,FEMALE,18
+['oh.  /'],oh  ,bk,FEMALE,14
+['she must really like them. /'],she must really like them ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['she is into, {f uh, } - /']",she is into f uh   ,%,MALE,5
+"['{d well } she plays the flute in the band, and,  <inhaling> the piccolo,  /']",d well  she plays the flute in the band and  inhaling the piccolo  ,sd,MALE,1
+"['{c and } she is into this, {f uh, } odyssey of the mind thing, which [  is, + {f uh, } takes ] a lot of time, for, {f uh, } - /']",c and  she is into this f uh  odyssey of the mind thing which   is  f uh  takes  a lot of time for f uh   ,sd,MALE,1
+['it - /'],it  ,%,MALE,5
+['a - /'],a  ,%,MALE,5
+['what they call peace group. - /'],what they call peace group  ,sd,MALE,1
+"[""i don't know if you have gotten into that with your kids,  /""]",i dont know if you have gotten into that with your kids  ,qy^d,MALE,16
+"['{c but } that is where the, kind of, - /']",c but  that is where the kind of  ,sd,MALE,1
+['{d well } it is a program for --'],d well  it is a program for ,sd,MALE,1
+['advanced. /'],advanced ,^2,FEMALE,23
+['-- advanced kids. /'], advanced kids ,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+['i have heard about it.  /'],i have heard about it  ,sd,FEMALE,1
+['our little boy is in the first grade  /'],our little boy is in the first grade  ,sd,FEMALE,1
+"['{c and } [ i, + i ] taught school for six years. /']",c and   i  i  taught school for six years ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,MALE,2
+"['{c so, }  i do know about that program  /']",c so   i do know about that program  ,sd,FEMALE,1
+['{c and } -- -/'],c and   ,%,FEMALE,5
+"['{d well, } my wife is involved  /']",d well  my wife is involved  ,sd,MALE,1
+"['{c and } she kind of heads that up for these kids,  /']",c and  she kind of heads that up for these kids  ,sd,MALE,1
+"['{c and } last year [ they, + they, ] got, {f uh, } the state level.  /']",c and  last year  they  they  got f uh  the state level  ,sd,MALE,1
+"['they did not win that,  /']",they did not win that  ,sd,MALE,1
+"['{c but } they, {f uh, } got one local and, {f uh, } one region,  /']",c but  they f uh  got one local and f uh  one region  ,sd,MALE,1
+['{c and } they got a new mix of kids this time.  /'],c and  they got a new mix of kids this time  ,sd,MALE,1
+"['{c so, }  it keeps them busy. /']",c so   it keeps them busy ,sd,MALE,1
+"['-- {f oh, } uh-huh. /']", f oh  uhhuh ,b,FEMALE,2
+['it keeps them busy. /'],it keeps them busy ,sd,MALE,1
+"['{f oh, } yeah  /']",f oh  yeah  ,aa,FEMALE,4
+['<talking> i bet.  /'],talking i bet  ,ba,FEMALE,6
+"['{f huh, }  {d well } {c so } does she go actually out into a different classroom [ with, + with, ] {f uh, } other kids that are involved in this? /']",f huh   d well  c so  does she go actually out into a different classroom  with  with  f uh  other kids that are involved in this ,qy,FEMALE,7
+"['{d well, } {f uh, } yes,  /']",d well  f uh  yes  ,ny,MALE,9
+"['{c but } [ they, + {d well } they ]  have, - /']",c but   they  d well  they   have  ,%,MALE,5
+"['{d well } you probably know a peace group [ that, + {f uh, } <door> <squeak> that ] [ they + ] are advanced type.  that they are special,  {d well, } {f uh, } classes for peace classes. - /']",d well  you probably know a peace group  that  f uh  door squeak that   they   are advanced type  that they are special  d well  f uh  classes for peace classes  ,sd,MALE,1
+"['i think that, {f uh } --']",i think that f uh  ,%,MALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- this happens to be, {f uh, } {f uh, } - /']", this happens to be f uh  f uh   ,+,MALE,0
+['history is what their peace class is this year.  /'],history is what their peace class is this year  ,sd,MALE,1
+"['{c but, }  {f uh, } {c so. } -/']",c but   f uh  c so  ,%,MALE,5
+['{f oh. }  uh-huh. /'],f oh   uhhuh ,b,FEMALE,2
+"['[ they, + {f uh, } <clanging> she ] enjoys that kind of stuff --']", they  f uh  clanging she  enjoys that kind of stuff ,sd,MALE,1
+"['{f oh, } how neat. /']",f oh  how neat ,ba,FEMALE,6
+"['-- and, {f uh, } does well with it.  /']", and f uh  does well with it  ,+,MALE,0
+['{c so } yeah. /'],c so  yeah ,%,MALE,5
+"['<baby_talking>  challenging, {f huh? } /']",babytalking  challenging f huh  ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['oh. /'],oh ,bk,FEMALE,14
+['always something to do <laughter>. /'],always something to do laughter ,sd,MALE,1
+"['{d well, } {f uh, } as </baby_talking> far as our activities, we are kind of on a different level here. /']",d well  f uh  as babytalking far as our activities we are kind of on a different level here ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{c but, }  my <laughter> -- -/']",c but   my laughter  ,%,FEMALE,5
+"['{d well, } you will get to different levels.  /']",d well  you will get to different levels  ,sv,MALE,3
+['i guarantee it. /'],i guarantee it ,sv,MALE,3
+"['-- yeah,  /']", yeah  ,aa,FEMALE,4
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['my husband is going to take our six year old to the monster truck show tonight. /'],my husband is going to take our six year old to the monster truck show tonight ,sd,FEMALE,1
+"['{f uh, } okay. /']",f uh  okay ,b,MALE,2
+"['they like to, {f uh } -- -/']",they like to f uh   ,sd,FEMALE,1
+['that will be fun. /'],that will be fun ,ba,MALE,6
+['-- both boy things <laughter>. -/'], both boy things laughter ,sv,FEMALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,MALE,4
+['yeah. /'],yeah ,aa,MALE,4
+"['yeah,  /']",yeah  ,b^m,FEMALE,24
+"['{c but } [ we, + we, ] do not have any real, {f uh, } - /']",c but   we  we  do not have any real f uh   ,sd,FEMALE,1
+"[""{d like } we don't really ski.  /""]",d like  we dont really ski  ,sd,FEMALE,1
+['we have not taken our kids skiing or anything.  /'],we have not taken our kids skiing or anything  ,sd,FEMALE,1
+"['of course, the baby is young,  /']",of course the baby is young  ,sd,FEMALE,1
+['{c but } -- -/'],c but   ,%,FEMALE,5
+['got to wait a couple years. /'],got to wait a couple years ,ad,MALE,22
+"['-- yeah,  /']", yeah  ,aa,FEMALE,4
+['yeah. /'],yeah ,aa,FEMALE,4
+"['sledding, that is what you have got to do.  /']",sledding that is what you have got to do  ,ad,MALE,22
+['tobogganing. /'],tobogganing ,ad,MALE,22
+['the what? /'],the what ,br,FEMALE,30
+['you have got to go tobogganing and sledding with them. /'],you have got to go tobogganing and sledding with them ,ad,MALE,22
+"['{f oh, } {d well } yeah,  /']",f oh  d well  yeah  ,aa,FEMALE,4
+"['[ we, +  we ] have done that.  /']", we   we  have done that  ,sd,FEMALE,1
+"['[  he, + in fact,    he ] just goes right out here.  /']",  he  in fact    he  just goes right out here  ,sd,FEMALE,1
+"['we have got quite a bit of snow, {f uh, }  /']",we have got quite a bit of snow f uh   ,sd,FEMALE,1
+['last week we got a lot. /'],last week we got a lot ,sd,FEMALE,1
+['{d well } you are welcome to keep that <laughter>. /'],d well  you are welcome to keep that laughter ,sd,MALE,1
+['<laughter> yeah <laughter>.  /'],laughter yeah laughter  ,b,FEMALE,2
+"['you would like that, huh? /']",you would like that huh ,qy,FEMALE,7
+"['{d well, } i grew up in wisconsin,  /']",d well  i grew up in wisconsin  ,arp_nd,MALE,34
+"['[ i, + ] i had plenty of snow,  /']", i   i had plenty of snow  ,sd,MALE,1
+['{c and } --'],c and  ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"['-- when i was a kid, - /']", when i was a kid  ,+,MALE,0
+"['{c and } we have lived here about seventeen years,  /']",c and  we have lived here about seventeen years  ,sd,MALE,1
+"['{c but } we use to take all of the kids tobogganing and ice skating, and all of that kind of stuff -- /']",c but  we use to take all of the kids tobogganing and ice skating and all of that kind of stuff  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- it is fun really. /'], it is fun really ,sv,MALE,3
+['it is fun. /'],it is fun ,aa,FEMALE,4
+['as long as you do not have to drive in it. /'],as long as you do not have to drive in it ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['i, - /']",i  ,%,FEMALE,5
+"['no,  /']",no  ,aa,FEMALE,4
+['i do not like that. /'],i do not like that ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['i, - /']",i  ,%,FEMALE,5
+"['really, it makes me nervous.  /']",really it makes me nervous  ,sd,FEMALE,1
+['yeah <<faintly>>. /'],yeah faintly ,%,FEMALE,5
+['i had plenty of snow to last me forever.  /'],i had plenty of snow to last me forever  ,sd,MALE,1
+"[""[ i, + i ] don't care if i ever see any,  /""]", i  i  dont care if i ever see any  ,sd,MALE,1
+"[""{d well, } i don't care if i ever see it,   /""]",d well  i dont care if i ever see it   ,sd,MALE,1
+['{c but } keep it off of here <laughter>. /'],c but  keep it off of here laughter ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['yeah  <laughter>.  /'],yeah  laughter  ,aa,FEMALE,4
+"[""{d well, } {f uh, } i don't mind it,  /""]",d well  f uh  i dont mind it  ,sd,FEMALE,1
+"['{c but, }  {f uh, } {f uh, } the winter gets long. /']",c but   f uh  f uh  the winter gets long ,sv,FEMALE,3
+['yes. /'],yes ,aa,MALE,4
+"['{d you know, } i get ready, that, - /']",d you know  i get ready that  ,%,FEMALE,5
+"['come about this time of year i am kind of ready for it to start getting spring,  /']",come about this time of year i am kind of ready for it to start getting spring  ,sd,FEMALE,1
+"['{c and, }  it is too early yet. /']",c and   it is too early yet ,sd,FEMALE,1
+"['<laughter>  {d well, } [ you have got, +']",laughter  d well   you have got ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['you have got ] five months before you will see that <laughter>. /'],you have got  five months before you will see that laughter ,+,MALE,0
+"['<laughter> yeah,  /']",laughter yeah  ,aa,FEMALE,4
+"['[ we do, + we do. ]  /']", we do  we do   ,aa,FEMALE,4
+['we have had a few early springs though in the last few years.  /'],we have had a few early springs though in the last few years  ,sd,FEMALE,1
+['they have not been too bad.  /'],they have not been too bad  ,sd,FEMALE,1
+"['come about march, it gets,  {d you know, } a lot nicer. /']",come about march it gets  d you know  a lot nicer ,sd,FEMALE,1
+['{f oh } yeah.  /'],f oh  yeah  ,aa,MALE,4
+"['out oldest son.  when, {f uh, } -/']",out oldest son  when f uh  ,sd,MALE,1

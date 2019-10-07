@@ -1,0 +1,109 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay, {d well, } {f um, } -/']",okay d well  f um  ,"fo_o_fw_""_by_bc",MALE,0
+['what kind of music do you like? /'],what kind of music do you like ,qw,FEMALE,12
+"['[ i, {f um, } + i ] was thinking about it for a long time,  /']", i f um   i  was thinking about it for a long time  ,^h,MALE,27
+['{c and } i like basically almost every form of music and type of music.  /'],c and  i like basically almost every form of music and type of music  ,sd,MALE,1
+"[""{f um, } i don't have a whole lot of dislikes.  /""]",f um  i dont have a whole lot of dislikes  ,sd,MALE,1
+"['i, {f um, } like jazz, {f um, } especially the blues,  /']",i f um  like jazz f um  especially the blues  ,sd,MALE,1
+"['{c and, } {f uh, } i like, {f uh, } a lot of [ the, +  {f uh, } of course the ] classics, {f um, } everything back from bach [ and, + and ] beethoven and chopin and, {f um, } just in general everything. /']",c and  f uh  i like f uh  a lot of  the   f uh  of course the  classics f um  everything back from bach  and  and  beethoven and chopin and f um  just in general everything ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } i enjoy, {f uh, } a lot of [ the, + the ] modern forms, {f um, } {f uh, } /']",f um  i enjoy f uh  a lot of  the  the  modern forms f um  f uh  ,sd,MALE,1
+"['do you like, {d like } rock and those kind of things --']",do you like d like  rock and those kind of things ,qy,FEMALE,7
+"['right,  /']",right  ,b,MALE,2
+['right. /'],right ,b,MALE,2
+['-- punk even. /'], punk even ,+,FEMALE,0
+"['{f uh, } {d well, }']",f uh  d well ,^h,MALE,27
+['<laughter>.'],laughter,x,FEMALE,8
+"['that gets, - /']",that gets  ,+,MALE,0
+"['some of the punk, {f um, } when i was in high school, that was, {f uh, } one of the big things, was punk music,  /']",some of the punk f um  when i was in high school that was f uh  one of the big things was punk music  ,sd,MALE,1
+"['{c and, } {f uh, } [ a lot of it [ is, + has ] a lot to say, + {e or } some of it has a lot to say, ] [ the music does, + the lyrics do, ]  /']",c and  f uh   a lot of it  is  has  a lot to say  e or  some of it has a lot to say   the music does  the lyrics do   ,sv,MALE,3
+"['{c but } [ the, + the ] actual, -/']",c but   the  the  actual ,%,MALE,5
+"[""i don't think they have a whole lot to say, even <laughter>. /""]",i dont think they have a whole lot to say even laughter ,ar,FEMALE,28
+"[""{f uh, } {d well, } [ [ [ it, + it's, ] + it's, ] + it ] really expresses some of the opinions [ of, + of ] the people who enjoy the music -- /""]",f uh  d well     it  its   its   it  really expresses some of the opinions  of  of  the people who enjoy the music  ,sv,MALE,3
+"['yeah,  /']",yeah  ,aap_am,FEMALE,39
+['i guess. /'],i guess ,aap_am,FEMALE,39
+"[""-- {f um, } {c but } as far as a musical art form, i just don't see a whole lot of art to it <laughter>. /""]", f um  c but  as far as a musical art form i just dont see a whole lot of art to it laughter ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{f um. } /'],f um  ,%,MALE,5
+['do you like rap? /'],do you like rap ,qy,FEMALE,7
+"['{f um, } some of it, {f um, }  /']",f um  some of it f um   ,no,MALE,31
+['it depends.  /'],it depends  ,h,MALE,15
+"['[ i like, {f uh, } the rap, + the two types of rap [ i like, + {e or } i enjoy ] ] to listen to, and one is [ the, + the ] rap that is just funny, {f um, }  /']", i like f uh  the rap  the two types of rap  i like  e or  i enjoy   to listen to and one is  the  the  rap that is just funny f um   ,sd,MALE,1
+['{c and } they usually do a lot of satire -- /'],c and  they usually do a lot of satire  ,sd,MALE,1
+['yeah -- /'],yeah  ,b,FEMALE,2
+['-- {f um. } /'], f um  ,%,MALE,5
+['-- that kind i kind of like. /'], that kind i kind of like ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['some of it is kind of --'],some of it is kind of ,sv,FEMALE,3
+"['right,  /']",right  ,b,MALE,2
+['[ the monotonous -- +'], the monotonous  ,^2,MALE,23
+"['-- pointless,  /']", pointless  ,+,FEMALE,0
+['yeah. /'],yeah ,aa,FEMALE,4
+"['-- the monotonous, ] - /']", the monotonous   ,+,MALE,0
+['no  /'],no  ,aa,MALE,4
+"[""that's not, - /""]",thats not  ,sv,MALE,3
+"[""i don't enjoy that at all --""]",i dont enjoy that at all ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- when they're just talking about, {d well, } i'm better than you, and blah, blah, blah.  /""]", when theyre just talking about d well  im better than you and blah blah blah  ,+,MALE,0
+"[""i don't like --""]",i dont like ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['-- that.  /'], that  ,+,MALE,0
+"['i like the funny, satire,  /']",i like the funny satire  ,sd,MALE,1
+"['{c and then } [ some of it is, + some of it actually gets ] into some serious discussions of problems [ in our, + in --']",c and then   some of it is  some of it actually gets  into some serious discussions of problems  in our  in ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- urban society. ]  /'], urban society   ,+,MALE,0
+['it really does.  /'],it really does  ,sv,MALE,3
+"['it talks about, {f um, } race relations and police relations  /']",it talks about f um  race relations and police relations  ,sd,MALE,1
+"['{c and, } {f um, } [ that, + that ] -- -/']",c and  f um   that  that   ,%,MALE,5
+"[""-- i guess i don't really care to listen to rap that much except for once in a while some of the funny --""]", i guess i dont really care to listen to rap that much except for once in a while some of the funny ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- more satire kind some times.  /'], more satire kind some times  ,+,FEMALE,0
+"[""{f um, } i'm, with you though,  /""]",f um  im with you though  ,sd,FEMALE,1
+['i like classical -- /'],i like classical  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {f um, } i don't like to listen to it all the time, but, {f um, } some of the time, anyway.  /""]", f um  i dont like to listen to it all the time but f um  some of the time anyway  ,sd,FEMALE,1
+"['i like easy listening, just kind of, {d you know, } - /']",i like easy listening just kind of d you know   ,sd,FEMALE,1
+"[""i guess i don't care much for rock and roll any more.  /""]",i guess i dont care much for rock and roll any more  ,sd,FEMALE,1
+"['i used to like it all right,  /']",i used to like it all right  ,sd,FEMALE,1
+"[""{c but } i don't really care to listen to it any more for some reason.  /""]",c but  i dont really care to listen to it any more for some reason  ,sd,FEMALE,1
+"[""{f um, } let's see.  /""]",f um  lets see  ,^h,FEMALE,27
+"[""country western, {f uh, } i'm not quite as big on that.  /""]",country western f uh  im not quite as big on that  ,sd,FEMALE,1
+"[""some of it's okay, {f uh } -- /""]",some of its okay f uh   ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""[ that's, + that's ] about my opinion of that <laughter>. /""]", thats  thats  about my opinion of that laughter ,sd,MALE,1
+['-- yeah <laughter>. /'], yeah laughter ,b,FEMALE,2
+"[""[ it's, + it's ] okay, {f um, } /""]", its  its  okay f um  ,sv,MALE,3
+"['some of it kind of falls in the rap category i guess,  /']",some of it kind of falls in the rap category i guess  ,sd,FEMALE,1
+['{d so } <laughter>. -/'],d so  laughter ,%,FEMALE,5
+"[""{f um. } the thing about country western that i don't enjoy [ is + is, ] doesn't seem to be any imagination behind it -- /""]",f um  the thing about country western that i dont enjoy  is  is  doesnt seem to be any imagination behind it  ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- [ the, + ] one country and western song sounds like every other,']",  the   one country and western song sounds like every other,sv,MALE,3
+"['a lot of them,']",a lot of them,sv,FEMALE,3
+['country and western -- /'],country and western  ,+,MALE,0
+"['sound, {f uh, } really similar,  /']",sound f uh  really similar  ,+,FEMALE,0
+['yeah. /'],yeah ,aa,FEMALE,4
+"[""-- {c and so } [ the, + the ] musicians don't get to really get into their music.  /""]", c and so   the  the  musicians dont get to really get into their music  ,sv,MALE,3
+['they just play a certain number of chords -- /'],they just play a certain number of chords  ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- the drummer plays a certain beat,  /']", the drummer plays a certain beat  ,sv,MALE,3
+['{c and } you have a country and western song -- /'],c and  you have a country and western song  ,sv,MALE,3
+['{f um. } /'],f um  ,%,FEMALE,5
+"['-- {c and, } -/']", c and  ,%,MALE,5
+"[""{d well, } that's kind of the way i feel about rock and roll sometimes, too, i guess.  /""]",d well  thats kind of the way i feel about rock and roll sometimes too i guess  ,sv,FEMALE,3
+"[""they don't really, - /""]",they dont really  ,sv,FEMALE,3
+"['has kind of the same sound over and over,  /']",has kind of the same sound over and over  ,sv,FEMALE,3
+"[""{c and } the other thing i don't like about it is they have a tendency to play the instrumental so loud that you can't understand what the lyrics are -- /""]",c and  the other thing i dont like about it is they have a tendency to play the instrumental so loud that you cant understand what the lyrics are  ,sv,FEMALE,3
+['{f um. }'],f um ,b,MALE,2
+"[""-- you can't understand what they're saying on some of those songs --""]", you cant understand what theyre saying on some of those songs ,sv,FEMALE,3
+['right. /'],right ,+,MALE,0
+"['-- which probably is just as well on some <laughter> of them, too. /']", which probably is just as well on some laughter of them too ,+,FEMALE,0
+['<laughter> yeah.  /'],laughter yeah  ,b,MALE,2
+"[""{c and } i can't say that i like a lot of [ the modern, + the [ very, + very ] --""]",c and  i cant say that i like a lot of  the modern  the  very  very  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- modern, ] {f uh, } rock and roll,  /']", modern  f uh  rock and roll  ,+,MALE,0
+"['{c but } [ [ i, + i definitely, ] + i really ] enjoy the fifties, the sixties and [ a lot, + some ] of the seventies --']",c but    i  i definitely   i really  enjoy the fifties the sixties and  a lot  some  of the seventies ,sd,MALE,1
+['yeah -- /'],yeah  ,b,FEMALE,2
+['-- rock and roll -- /'], rock and roll  ,+,MALE,0
+['-- earlier things. /'], earlier things ,bf,FEMALE,20
+"['-- {c and, } {f uh, } i really enjoy, especially the sixties ... /']", c and  f uh  i really enjoy especially the sixties  ,sd,MALE,1

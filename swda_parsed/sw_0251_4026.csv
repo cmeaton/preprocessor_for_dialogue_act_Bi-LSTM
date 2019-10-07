@@ -1,0 +1,127 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""{d so. }   how's your products been? /""]",d so    hows your products been ,qo,MALE,25
+"[""{f um, } i really haven't had, {f uh, } too many problems.  /""]",f um  i really havent had f uh  too many problems  ,sd,MALE,1
+"['{f uh, } seems to me that everything that i buy goes bad just after the warranty runs out. /']",f uh  seems to me that everything that i buy goes bad just after the warranty runs out ,sd,MALE,1
+['<laughter>  i hear that one.  /'],laughter  i hear that one  ,ba,MALE,6
+['have you had any lately go out? /'],have you had any lately go out ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""i've had a dryer, an ice maker, a microwave, all three,  /""]",ive had a dryer an ice maker a microwave all three  ,sd,MALE,1
+"['{c and } they, - /']",c and  they  ,%,MALE,5
+"['unfortunately i bought them all three at the same time, when i bought my new house,  /']",unfortunately i bought them all three at the same time when i bought my new house  ,sd,MALE,1
+"[""{c and, }  {f uh, } i really don't have any recourse,  /""]",c and   f uh  i really dont have any recourse  ,sd,MALE,1
+['{c so } i had to call and have them all repaired and that. /'],c so  i had to call and have them all repaired and that ,sd,MALE,1
+"['{f oh, } wow. /']",f oh  wow ,ba,MALE,6
+"['yeah,  /']",yeah  ,b,MALE,2
+['it was a hassle. /'],it was a hassle ,sd,MALE,1
+"[""{c so } you didn't get anything,  /""]",c so  you didnt get anything  ,qy^d,MALE,16
+"['even, [ all the, + all the ] warranties were out? /']",even  all the  all the  warranties were out ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['the warranty on the refrigerator, {f uh, } - /']",the warranty on the refrigerator f uh   ,sd,MALE,1
+"['the i-, - /']",the i  ,%,MALE,5
+"[""the refrigerator warranty's still good,  /""]",the refrigerator warrantys still good  ,sd,MALE,1
+"['{c but } the ice maker itself, passed its three years,  /']",c but  the ice maker itself passed its three years  ,sd,MALE,1
+['{c and } it was three years and two months. /'],c and  it was three years and two months ,sd,MALE,1
+"[""<laughter> you're kidding. /""]",laughter youre kidding ,ba,MALE,6
+['no. /'],no ,nn,MALE,13
+"['yeah,  /']",yeah  ,b,MALE,2
+"['we just moved into a new house, too,  /']",we just moved into a new house too  ,sd,MALE,1
+"['{c so } we had to buy all those, too. /']",c so  we had to buy all those too ,sd,MALE,1
+"['{f uh, } watch out. /']",f uh  watch out ,ad,MALE,22
+"['<laughter> yeah,  /']",laughter yeah  ,aa,MALE,4
+"[""the only thing i've had problems with is,  {f um, } - /""]",the only thing ive had problems with is  f um   ,sd,MALE,1
+['i buy a lot of wood working equipment through the mail -- /'],i buy a lot of wood working equipment through the mail  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } i bought this paint stripper where they advertise <throat_clearing> that it's nontoxic and such,  /""]", c and  i bought this paint stripper where they advertise throatclearing that its nontoxic and such  ,sd,MALE,1
+['{c and } when you get the product it ends up being toxic and all these warnings.  /'],c and  when you get the product it ends up being toxic and all these warnings  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+['{f um. } /'],f um  ,%,MALE,5
+"[""i didn't return it because it'd probably cost me more than, - /""]",i didnt return it because itd probably cost me more than  ,sd,MALE,1
+['i just ended up using it.  /'],i just ended up using it  ,sd,MALE,1
+"[""{c but, }  that's about the only thing i've had gone wrong.  /""]",c but   thats about the only thing ive had gone wrong  ,sd,MALE,1
+['{c but. } -/'],c but  ,%,MALE,5
+"['i usually have pretty good luck with appliances,  /']",i usually have pretty good luck with appliances  ,sd,MALE,1
+"['{c but } i just, {f uh, } - /']",c but  i just f uh   ,%,MALE,5
+"['it was within two days that all three of these stopped working,  /']",it was within two days that all three of these stopped working  ,sd,MALE,1
+['{c and } [ the +  --'],c and   the   ,sd,MALE,1
+"[""that's incredible. /""]",thats incredible ,ba,MALE,6
+"['-- the ] ice maker [ was, + {f uh, } had ] to have a new pump,  /']", the  ice maker  was  f uh  had  to have a new pump  ,+,MALE,0
+"[""{c and } the, {f uh, } microwave had to have, {f uh, } some kind of something i can't even pronounce, /""]",c and  the f uh  microwave had to have f uh  some kind of something i cant even pronounce ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{c and } they, {f uh, } - /']",c and  they f uh   ,%,MALE,5
+"['the dryer had to have a new heating element,  /']",the dryer had to have a new heating element  ,sd,MALE,1
+"['{c so } it was [ about, + almost  ] three hundred dollars for all three of them. /']",c so  it was  about  almost   three hundred dollars for all three of them ,sd,MALE,1
+['{c and } they all went out at the same time? /'],c and  they all went out at the same time ,qy^d,MALE,16
+"['{f uh, } within # two days of each other. # /']",f uh  within  two days of each other  ,na,MALE,21
+['# {c or } two days.  /'], c or  two days  ,b^m,MALE,24
+['#  wow. /'],  wow ,ba,MALE,6
+"['i was, - /']",i was  ,%,MALE,5
+"[""it wasn't a good week.  /""]",it wasnt a good week  ,sd,MALE,1
+['i was pretty mad. /'],i was pretty mad ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""[ {c and + {c plus } ] the place that i'd bought them all had gone out of business,  /""]", c and  c plus   the place that id bought them all had gone out of business  ,sd,MALE,1
+"['{c so } [ even if i, + i think even if i  ] [ had, + {f uh, } had ] kept the warranty, the service agreements were with the companies [ that, + that ] manufactured,  /']",c so   even if i  i think even if i    had  f uh  had  kept the warranty the service agreements were with the companies  that  that  manufactured  ,sd,MALE,1
+"['{c but } still they were through that retailer,  /']",c but  still they were through that retailer  ,sd,MALE,1
+"[""{c so } i don't know if i could have taken it to another retailer or not. /""]",c so  i dont know if i could have taken it to another retailer or not ,sd,MALE,1
+"['wow,  /']",wow  ,ba,MALE,6
+"[""it's frustrating. /""]",its frustrating ,sd,MALE,1
+"[""{c but } i didn't have to worry about all that, because they weren't under warranty. /""]",c but  i didnt have to worry about all that because they werent under warranty ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+['{c so. }   it was a call to the local appliance dealer --'],c so    it was a call to the local appliance dealer ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- who came out and fixed them all,  /']", who came out and fixed them all  ,+,MALE,0
+"['{c but, }  i, - /']",c but   i  ,%,MALE,5
+"[""the only other things that i've ever had trouble with, {f uh, } - /""]",the only other things that ive ever had trouble with f uh   ,sd,MALE,1
+"['i seem to have a real bad trouble with electric hair dryers, blow dryers. /']",i seem to have a real bad trouble with electric hair dryers blow dryers ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['they go out a lot? /'],they go out a lot ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""i've had two or three of those go out.  /""]",ive had two or three of those go out  ,sd,MALE,1
+"['one was under warranty,  /']",one was under warranty  ,sd,MALE,1
+"[""{c and } the other two weren't,  /""]",c and  the other two werent  ,sd,MALE,1
+"['{c but, }  i just, - /']",c but   i just  ,%,MALE,5
+"[""other than that, {d you know, } t v -s and  things like that, i haven't ever had any trouble with.  /""]",other than that d you know  t v s and  things like that i havent ever had any trouble with  ,sd,MALE,1
+"[""i don't think products are getting much better though. /""]",i dont think products are getting much better though ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""{d see } i'm in the manufacturing  ((   )) - /""]",d see  im in the manufacturing       ,sd,MALE,1
+['home from  work - /'],home from  work  ,sd,MALE,1
+"['{c and } make, {f um, } automotive air bags, the safety air bags. -/']",c and  make f um  automotive air bags the safety air bags ,sd,MALE,1
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+['yeah. /'],yeah ,ny,MALE,9
+"[""that's interesting. /""]",thats interesting ,ba,MALE,6
+"['at morton international, - /']",at morton international  ,sd,MALE,1
+"['{c and, }  i thin-, - /']",c and   i thin  ,%,MALE,5
+"[""{d well, } [ it's, + it's ] changed a lot with the manufacturing environment.  /""]",d well   its  its  changed a lot with the manufacturing environment  ,sd,MALE,1
+"['we test everything after each assembly process,  /']",we test everything after each assembly process  ,sd,MALE,1
+"['{c and so } our testing is pretty thorough,  /']",c and so  our testing is pretty thorough  ,sd,MALE,1
+['{c but. } -/'],c but  ,%,MALE,5
+"['[ do you, + do you ] test each individual one -- /']", do you  do you  test each individual one  ,qy,MALE,7
+['{f um. } /'],f um  ,%,MALE,5
+"['-- {c or } do you just test, - /']", c or  do you just test  ,qrr,MALE,33
+"[""{d like } if you've got ten, you test one,  /""]",d like  if youve got ten you test one  ,qy^d,MALE,16
+['{c and } by the test results of the one you assume that the other nine are okay? /'],c and  by the test results of the one you assume that the other nine are okay ,qy^d,MALE,16
+"['{f um, } the tests that, - /']",f um  the tests that  ,no,MALE,31
+"['{d well, } we test every one electrically.  /']",d well  we test every one electrically  ,na,MALE,21
+"[""we don't, - /""]",we dont  ,%,MALE,5
+"['i think they test four or five a day, actually exploding the air bags -- /']",i think they test four or five a day actually exploding the air bags  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- [ {c and, } +  {c but } ] we do test [ after, + ] during the assembly [ project, +  product, ] {f um, } after we assemble each part of the inflator or what explodes the bag, we check to make sure it's there after we install it,  /""]",  c and    c but   we do test  after   during the assembly  project   product  f um  after we assemble each part of the inflator or what explodes the bag we check to make sure its there after we install it  ,sd,MALE,1
+"[""{c so, }  each assembly process has an inspection right after it's done,  /""]",c so   each assembly process has an inspection right after its done  ,sd,MALE,1
+"['{c and then } we do electrical tests on them during the process,  /']",c and then  we do electrical tests on them during the process  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"[""{d well, } that's something i've never had to use,  /""]",d well  thats something ive never had to use  ,sd,MALE,1
+"[""[ it's never, + i've never  ] been involved in an automobile accident,  /""]", its never  ive never   been involved in an automobile accident  ,sd,MALE,1
+"[""{c so, }  luckily that's a product that i haven't had to test. /""]",c so   luckily thats a product that i havent had to test ,sd,MALE,1
+['<laughter>  yeah. /'],laughter  yeah ,b,MALE,2
+"[""{c but } i think it's a great idea.  /""]",c but  i think its a great idea  ,sd,MALE,1
+"[""[  i'm, + i'm, ] - /""]",  im  im   ,%,MALE,5
+['seems like all the good logical ideas take forever to come about  /'],seems like all the good logical ideas take forever to come about  ,sd,MALE,1
+['{c but } that. -/'],c but  that ,%,MALE,5
+"['{d well, } they do [ the,  + all the  ] testing that we have to do through the government,  /']",d well  they do  the   all the   testing that we have to do through the government  ,sd,MALE,1
+"[""it's incredible how much testing they have to do. /""]",its incredible how much testing they have to do ,sd,MALE,1
+"[""{f oh, } i'm sure they want to be thorough before they. - /""]",f oh  im sure they want to be thorough before they  ,sv,MALE,3
+"['{c but, }  {f uh, } even, - /']",c but   f uh  even  ,%,MALE,5
+"[""{d you know, }  i don't mind spending the extra money on the car --""]",d you know   i dont mind spending the extra money on the car ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- [ if, + {d you know, } even if ] they pass [ the savings, + the cost ] onto the consumer, because it just seems like a real worthwhile thing.  /']",  if  d you know  even if  they pass  the savings  the cost  onto the consumer because it just seems like a real worthwhile thing  ,+,MALE,0
+"[""i'm not a real big seat belt, - /""]",im not a real big seat belt  ,sd,MALE,1
+"['my, {f uh, } -/']",my f uh  ,%,MALE,5

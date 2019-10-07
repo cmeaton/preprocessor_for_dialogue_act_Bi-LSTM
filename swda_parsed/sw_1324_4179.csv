@@ -1,0 +1,176 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['a, {f uh, } golden retriever.   /']",a f uh  golden retriever   ,sd,MALE,1
+"[""{f ooh, } that's --""]",f ooh  thats ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['-- one of my favorite kinds of dogs.   /'], one of my favorite kinds of dogs   ,+,FEMALE,0
+['is it really?  /'],is it really  ,bh,MALE,18
+['how long have you had it?  /'],how long have you had it  ,qw,FEMALE,12
+"[""we've had him for, - /""]",weve had him for  ,sd,MALE,1
+"[""{d let's see, } he just had his fourth birthday.  /""]",d lets see  he just had his fourth birthday  ,sd,MALE,1
+['fourth birthday.  /'],fourth birthday  ,b^m,FEMALE,24
+"['yeah,  /']",yeah  ,b,MALE,2
+['{c and } we got him when he was about eight weeks old  /'],c and  we got him when he was about eight weeks old  ,sd,MALE,1
+"[""{c and, } {f uh, } he's pretty okay,  /""]",c and  f uh  hes pretty okay  ,sd,MALE,1
+['we like him. /'],we like him ,sd,MALE,1
+['<laughter> does he shed a lot?   /'],laughter does he shed a lot   ,qy,FEMALE,7
+['he does.   /'],he does   ,na,MALE,21
+"[""that's the one thing we don't like about him.   /""]",thats the one thing we dont like about him   ,sd,MALE,1
+"['in fact, we threaten him in the summertime that we might just shave all of his hair off. /']",in fact we threaten him in the summertime that we might just shave all of his hair off ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""he'd probably look pretty funny if we did that.  /""]",hed probably look pretty funny if we did that  ,sv,MALE,3
+['how much does he weigh now?   /'],how much does he weigh now   ,qw,FEMALE,12
+"['[ he, + {d actually, } he ] just went to the vet yesterday to get his shots and everything,  /']", he  d actually  he  just went to the vet yesterday to get his shots and everything  ,sd,MALE,1
+['{c and } they put him on the scale  /'],c and  they put him on the scale  ,sd,MALE,1
+"[""{c and } he's up to ninety four now. /""]",c and  hes up to ninety four now ,sd,MALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+"[""{c but } [ he's not a real, + he's not a real ] tall, {f uh, } dog for a golden retriever.  /""]",c but   hes not a real  hes not a real  tall f uh  dog for a golden retriever  ,sd,MALE,1
+"[""he's kind of stocky, shorter and stockier. /""]",hes kind of stocky shorter and stockier ,sd,MALE,1
+['{f um. }  /'],f um   ,b,FEMALE,2
+"['<lipsmack> {c but, } -/']",lipsmack c but  ,%,MALE,5
+['is he good with family?   /'],is he good with family   ,qy,FEMALE,7
+['he is.   /'],he is   ,na,MALE,21
+"[""it's, {f uh, } just me and my wife  /""]",its f uh  just me and my wife  ,sd,MALE,1
+"[""{c and, } {f uh, } he's kind of our temporary substitute for having kids. /""]",c and  f uh  hes kind of our temporary substitute for having kids ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""we treat him like our kid right now so he's spoiled rotten.  /""]",we treat him like our kid right now so hes spoiled rotten  ,sd,MALE,1
+"['yeah,   /']",yeah   ,b,FEMALE,2
+['i can --'],i can ,sd,FEMALE,1
+"['{c because } i, -/']",c because  i ,%,MALE,5
+['-- understand that   /'], understand that   ,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+['get away with that a little bit more with pets than you can with kids  <laughter>. /'],get away with that a little bit more with pets than you can with kids  laughter ,sv,MALE,3
+['uh-huh.   /'],uhhuh   ,b,FEMALE,2
+['how about you?   /'],how about you   ,qo,MALE,25
+"[""{d well, } we have a cat who's also about four years old.   /""]",d well  we have a cat whos also about four years old   ,sd,FEMALE,1
+['oh.  /'],oh  ,b,MALE,2
+"[""{c and } <throat_clearing> he's our spoiled child right now, too <laughter>. /""]",c and  throatclearing hes our spoiled child right now too laughter ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['{c and } he also sheds a lot.   /'],c and  he also sheds a lot   ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"['{c but, } [ we, + {f uh, } we ] hope to get a golden retriever someday.   /']",c but   we  f uh  we  hope to get a golden retriever someday   ,sd,FEMALE,1
+"[""{c but } we figure we'll get the kids and then [ the, + the ] dog <laughter>. /""]",c but  we figure well get the kids and then  the  the  dog laughter ,sd,FEMALE,1
+"[""that's probably a good idea.   /""]",thats probably a good idea   ,sv,MALE,3
+"[""they're good though.   /""]",theyre good though   ,sv,MALE,3
+"['{f uh, } have you ever had a retriever before? /']",f uh  have you ever had a retriever before ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['{c but } my husband had one when he was growing up. /'],c but  my husband had one when he was growing up ,sd,FEMALE,1
+"[""{c because } [ i, + i ] find that they're good around other animals like cats and other dogs.   /""]",c because   i  i  find that theyre good around other animals like cats and other dogs   ,sv,MALE,3
+"[""they don't tend to get real jealous or territorial.   /""]",they dont tend to get real jealous or territorial   ,sv,MALE,3
+['they like to play. /'],they like to play ,sv,MALE,3
+['{f um. }  /'],f um   ,b,FEMALE,2
+['especially with the kids.   /'],especially with the kids   ,sv,MALE,3
+['they love to play with kids. /'],they love to play with kids ,sv,MALE,3
+"['[ is, + is ] your dog an inside and outdoors?  /']", is  is  your dog an inside and outdoors  ,qy,FEMALE,7
+"['no,   /']",no   ,nn,MALE,13
+"[""he's pretty much an inside dog.  /""]",hes pretty much an inside dog  ,sd,MALE,1
+['{f um. }  /'],f um   ,b,FEMALE,2
+['he stays in.   /'],he stays in   ,sd,MALE,1
+"[""[ we, + we're ] kind of in [ a, + not a ] real busy neighborhood, but more so than i'd want him to be out too much  /""]", we  were  kind of in  a  not a  real busy neighborhood but more so than id want him to be out too much  ,sv,MALE,3
+"[""{c and } he doesn't like it if we tie him outside. /""]",c and  he doesnt like it if we tie him outside ,sd,MALE,1
+"['{f oh, } really?  /']",f oh  really  ,bh,FEMALE,18
+"[""he's really a wimp.   /""]",hes really a wimp   ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c and } when it comes to being alone, - /']",c and  when it comes to being alone  ,sd,MALE,1
+"['{f uh, } {d now } if you give him the freedom to walk around and go wherever he wants, he likes that,  /']",f uh  d now  if you give him the freedom to walk around and go wherever he wants he likes that  ,sd,MALE,1
+['{c but } he does not like to be tied outside.   /'],c but  he does not like to be tied outside   ,sd,MALE,1
+"[""[ he'll, + he'll ] just bark and bark and bark. /""]", hell  hell  just bark and bark and bark ,sd,MALE,1
+"['{f um, } when he gets outside, [ does, in, + does ] he run away and then eventually come back? /']",f um  when he gets outside  does in  does  he run away and then eventually come back ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+"[""he's, {f uh, } taken to the training pretty well  /""]",hes f uh  taken to the training pretty well  ,sd,MALE,1
+"['{c and, } {f uh, } he knows where our yard is  /']",c and  f uh  he knows where our yard is  ,sd,MALE,1
+"['{c and } we have a pretty small yard,  /']",c and  we have a pretty small yard  ,sd,MALE,1
+['{c but } he seems to know the boundaries. /'],c but  he seems to know the boundaries ,sv,MALE,3
+['{f um. }  /'],f um   ,b,FEMALE,2
+"['{c and } he usually is good about staying within them,  /']",c and  he usually is good about staying within them  ,sd,MALE,1
+"['{c although } our next door neighbors have a dog, too  /']",c although  our next door neighbors have a dog too  ,sd,MALE,1
+"['{c and, } {f uh, } [ she, + she ] is good friends with my dog. /']",c and  f uh   she  she  is good friends with my dog ,sd,MALE,1
+"['{f oh, } yeah?   /']",f oh  yeah   ,bh,FEMALE,18
+['{c and so } he often gets to smelling her scent and will go over there to sniff around and stuff  /'],c and so  he often gets to smelling her scent and will go over there to sniff around and stuff  ,sd,MALE,1
+"['{c but, }']",c but ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""he's pretty good.   /""]",hes pretty good   ,+,MALE,0
+['he stays out of the street  /'],he stays out of the street  ,sd,MALE,1
+"['{c and, } {f uh, } if i catch him i call him  /']",c and  f uh  if i catch him i call him  ,sd,MALE,1
+['{c and } he comes back.   /'],c and  he comes back   ,sd,MALE,1
+"[""{c so } [ he, + he's ] pretty good about taking to commands [ and + --""]",c so   he  hes  pretty good about taking to commands  and  ,sd,MALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+['-- and ] things. /'], and  things ,+,MALE,0
+['did you bring him to a doggy obedience school or --'],did you bring him to a doggy obedience school or ,qy,FEMALE,7
+['no --  /'],no   ,nn,MALE,13
+['-- just --'], just ,+,FEMALE,0
+['-- we never did. /'], we never did ,sd,MALE,1
+['-- train him on your own   /'], train him on your own   ,+,FEMALE,0
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['[ i, + i ] trained him on my own  /']", i  i  trained him on my own  ,sd,MALE,1
+"[""{c and, } {f uh, } this is the first dog i've had all my own as an adult. /""]",c and  f uh  this is the first dog ive had all my own as an adult ,sd,MALE,1
+['uh-huh.   /'],uhhuh   ,b,FEMALE,2
+"[""[ we've had kid, + {e or } we've had dogs ] when i was a kid,  /""]", weve had kid  e or  weve had dogs  when i was a kid  ,sd,MALE,1
+"['{c but } [ this, + this ] is the first one that i, {f uh, } took in,  /']",c but   this  this  is the first one that i f uh  took in  ,sd,MALE,1
+"[""{c so } i wasn't sure if i'd be able to get it all right the first time,  /""]",c so  i wasnt sure if id be able to get it all right the first time  ,sd,MALE,1
+"['{c but, } {f uh, } [ he, + he ] seems to have picked it up pretty well.  /']",c but  f uh   he  he  seems to have picked it up pretty well  ,sv,MALE,3
+['i --'],i ,sd,MALE,1
+['uh-huh.   /'],uhhuh   ,b,FEMALE,2
+['-- never really to hit him or anything.   /'], never really to hit him or anything   ,+,MALE,0
+"['just, {d you know } --']",just d you know  ,sd,MALE,1
+['{f huh. } /'],f huh  ,b,FEMALE,2
+['-- firm tone of voice and those --'], firm tone of voice and those ,+,MALE,0
+['really?  /'],really  ,bh,FEMALE,18
+['-- sorts of things.   /'], sorts of things   ,+,MALE,0
+"['[ i, + i ] see other people out there  /']", i  i  see other people out there  ,sd,MALE,1
+"['{c and } they hit their dogs and try to, - /']",c and  they hit their dogs and try to  ,sd,MALE,1
+"['[ {c and, } + {c and } ] those horrible collars that they put on them with [ invinc-, + invisible ] fencing,  /']", c and   c and   those horrible collars that they put on them with  invinc  invisible  fencing  ,sd,MALE,1
+"['least i, -/']",least i ,%,MALE,5
+['invisible what?   /'],invisible what   ,br,FEMALE,30
+"['invisible fencing,   /']",invisible fencing   ,sd,MALE,1
+['have you heard of that?  /'],have you heard of that  ,qy,MALE,7
+"['no,   /']",no   ,nn,FEMALE,13
+['what is that?   /'],what is that   ,qw,FEMALE,12
+"[""[ it's, + {f uh, } it's ] a system you can put in your yard where you bury these little, {f uh, } transducers or emitters in your yard --""]", its  f uh  its  a system you can put in your yard where you bury these little f uh  transducers or emitters in your yard ,sd,MALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+['-- at the perimeter  /'], at the perimeter  ,+,MALE,0
+['{c and then } they wear a collar with a special little attachment on it  /'],c and then  they wear a collar with a special little attachment on it  ,sd,MALE,1
+"['{c and } if they get too close to that perimeter, [ it + --']",c and  if they get too close to that perimeter  it  ,sd,MALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+['-- it ] zaps them.   /'], it  zaps them   ,+,MALE,0
+['boy.   /'],boy   ,ba,FEMALE,6
+['yeah <laughter>.  /'],yeah laughter  ,b,MALE,2
+"[""i'd be afraid to walk around if i was that dog  <laughter>. /""]",id be afraid to walk around if i was that dog  laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{d well, } a friend of mine at work here said that he tried it with his dog  /']",d well  a friend of mine at work here said that he tried it with his dog  ,sd,MALE,1
+['{c and } he wanted to see what he was subjecting his dog to  /'],c and  he wanted to see what he was subjecting his dog to  ,sd,MALE,1
+['{c so } he held on to the collar  /'],c so  he held on to the collar  ,sd,MALE,1
+['{c and } he walked out to the perimeter.  /'],c and  he walked out to the perimeter  ,sd,MALE,1
+['he said it was a good jolt. /'],he said it was a good jolt ,sd,MALE,1
+"['{f oh, } really?   /']",f oh  really   ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""{c and } {d so, } [ i, + i ] don't take too well [ to, + to ] those --""]",c and  d so   i  i  dont take too well  to  to  those ,sv,MALE,3
+['{f um. }  /'],f um   ,b,FEMALE,2
+['-- sorts of training techniques.   /'], sorts of training techniques   ,+,MALE,0
+"[""i don't think they're always necessary.  /""]",i dont think theyre always necessary  ,sv,MALE,3
+"['if you put enough patience into, -/']",if you put enough patience into ,sv,MALE,3
+"['yeah,   /']",yeah   ,aa,FEMALE,4
+['just be consistent and diligent --'],just be consistent and diligent ,bf,FEMALE,20
+['uh-huh.   /'],uhhuh   ,aa,MALE,4
+['-- with it   /'], with it   ,+,FEMALE,0
+"['{c and, } {f um, } -/']",c and  f um  ,%,FEMALE,5
+"[""[ it's, + {f uh, } is ] your cat an indoor cat or an --""]", its  f uh  is  your cat an indoor cat or an ,qy,MALE,7
+['yeah --  /'],yeah   ,ny,FEMALE,9
+['-- outdoor cat?  /'], outdoor cat  ,+,MALE,0
+"[""-- he's indoor and all declawed because i know the, {f uh, } average life span of an outdoor cat is eighteen months. /""]", hes indoor and all declawed because i know the f uh  average life span of an outdoor cat is eighteen months ,sd,FEMALE,1
+['somebody just told me that --  /'],somebody just told me that   ,sd,MALE,1
+['yeah.   /'],yeah   ,b,FEMALE,2
+['-- because of the leukemia?  /'], because of the leukemia  ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['that and also just, {f uh, } getting hit, i guess, or getting beat up.  /']",that and also just f uh  getting hit i guess or getting beat up  ,sv,FEMALE,3
+['{c and } the average life span of an indoor cat is eighteen years <laughter>. /'],c and  the average life span of an indoor cat is eighteen years laughter ,sd,FEMALE,1
+['wow.  /'],wow  ,ba,MALE,6
+"['{d so, } -/']",d so  ,%,FEMALE,5
+['quite a difference.   /'],quite a difference   ,bf,MALE,20
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['[ what, + {f uh, } what ] kind of climate do you have?  /']", what  f uh  what  kind of climate do you have  ,qw,MALE,12
+"[""{d well, } {f uh, } [ it's, + we ] just moved recently <laughter>  /""]",d well  f uh   its  we  just moved recently laughter  ,sd,FEMALE,1
+"[""{c so } now we're in the, {f uh, } dallas area  /""]",c so  now were in the f uh  dallas area  ,sd,FEMALE,1
+"[""{c and } it's [ very + --""]",c and  its  very  ,sd,FEMALE,1
+['oh.  /'],oh  ,b,MALE,2
+['-- very ] nice  /'], very  nice  ,+,FEMALE,0
+"['{c and, } -/']",c and  ,%,FEMALE,5

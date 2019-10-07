@@ -1,0 +1,138 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<talking> <<radio>> okay.  /'],talking radio okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['how do you get your news mostly? /'],how do you get your news mostly ,qw,FEMALE,12
+"['<breathing> generally, i get most  of my news from, {f uh, } the radio.  /']",breathing generally i get most  of my news from f uh  the radio  ,sd,MALE,1
+"[""{c and } then sometimes, {f uh, } if i've got time,  i'll be reading the front page of the newspaper --""]",c and  then sometimes f uh  if ive got time  ill be reading the front page of the newspaper ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- # {c and } # just fall off on  the articles that i like. /'],  c and   just fall off on  the articles that i like ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } also, since my wife likes  to watch t v, sometimes, {f uh, } <laughter> [ ju-, having b-, + just being ] there [ i get, +  {f uh, }  {d you know, } i have to watch ] the news late at night --']",f uh  also since my wife likes  to watch t v sometimes f uh  laughter  ju having b  just being  there  i get   f uh   d you know  i have to watch  the news late at night ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- with t v. /'], with t v ,+,MALE,0
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['how about you? /'],how about you ,qo,MALE,25
+"['{d well, } i can hardly wait for  my morning paper to come. /']",d well  i can hardly wait for  my morning paper to come ,sd,FEMALE,1
+['uh-huh  /'],uhhuh  ,b,MALE,2
+['<laughter>.'],laughter,x,MALE,8
+"[""{c so } that's the first thing i want  is the headlines.  /""]",c so  thats the first thing i want  is the headlines  ,sd,FEMALE,1
+"[""it's really funny [ because +  because, ] {f uh, } {f uh, }  my sister grabs the sports and i grab the headlines <laughter>. /""]",its really funny  because   because  f uh  f uh   my sister grabs the sports and i grab the headlines laughter ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ {c but, } + {f uh, } {c and then } ]  when five o'clock comes around i just want to get in the house and turn the t v on to watch the news. /""]", c but   f uh  c and then    when five oclock comes around i just want to get in the house and turn the t v on to watch the news ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,MALE,5
+"[""it's really weird.  /""]",its really weird  ,sv,FEMALE,3
+"[""{f uh, } i don't  stay up late to watch late news because my eyes won't stay up that long.   /""]",f uh  i dont  stay up late to watch late news because my eyes wont stay up that long   ,sd,FEMALE,1
+"[""{c but, }  {f uh, } i love to watch the five o'clock news  /""]",c but   f uh  i love to watch the five oclock news  ,sd,FEMALE,1
+"[""{c and } [ i, + ] makes me angry when my paper  boy's not there on time where i can read my paper <laughter>. /""]",c and   i   makes me angry when my paper  boys not there on time where i can read my paper laughter ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,MALE,5
+"['{f uh, } i do have my radio going  most of the day though,  /']",f uh  i do have my radio going  most of the day though  ,sd,FEMALE,1
+"['{c so } about every hour it breaks in and gives me news too, {d you know. } /']",c so  about every hour it breaks in and gives me news too d you know  ,sd,FEMALE,1
+['okay.  /'],okay  ,b,MALE,2
+['# do you # --'], do you  ,qy,MALE,7
+"['# {c but, } # -/']", c but   ,%,FEMALE,5
+"['-- get [ wh-, + ] {d like } one of  [ the talk stations, +  the news stations? ] /']", get  wh   d like  one of   the talk stations   the news stations  ,+,MALE,0
+['no.  /'],no  ,nn,FEMALE,13
+"[""uh-huh.   /*[[listen; mistranscribed 'uh-uh']]""]",uhhuh   listen mistranscribed uhuh,nn,FEMALE,13
+"[""[ jus-, +  i just ]  have a channel that has music except for, {d like } every hour, {d you know, } say eight o'clock, # nine # --""]", jus   i just   have a channel that has music except for d like  every hour d you know  say eight oclock  nine  ,sd,FEMALE,1
+['# sure. # /'], sure  ,b,MALE,2
+"[""-- o'clock, they come on for just a little bit of the news. /""]", oclock they come on for just a little bit of the news ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"['{c but } as far as the actual news,  i get that [ from +  <clicking> <<sounds like a call waiting>> from ] the, - /']",c but  as far as the actual news  i get that  from   clicking sounds like a call waiting from  the  ,sd,FEMALE,1
+['can you hold on just for a second? /'],can you hold on just for a second ,qy,FEMALE,7
+['sure. /'],sure ,na,MALE,21
+['just a minute.  /'],just a minute  ,ad,FEMALE,22
+['<<a answers the other line>>  <<long pause>>.  hello sir <clicking>.  <<a comes back to speaker b>> /'],a answers the other line  long pause  hello sir clicking  a comes back to speaker b ,fp,FEMALE,32
+['yes. /'],yes ,fp,MALE,32
+"['yes,  /']",yes  ,fp,FEMALE,32
+"[""i'm sorry to keep you waiting # <laughter>. # /""]",im sorry to keep you waiting  laughter  ,fa,FEMALE,42
+['# okay # <laughter>. /'], okay  laughter ,bd,MALE,38
+"['{f uh, } i was calling from work  /']",f uh  i was calling from work  ,sd,FEMALE,1
+['[ {c so } +  {c and } ] that was a call waiting. /'], c so    c and   that was a call waiting ,sd,FEMALE,1
+['right.  /'],right  ,b,MALE,2
+"['[ s-, +  it sounds ] like  you, {f uh, } like the news a lot more than i do.  /']", s   it sounds  like  you f uh  like the news a lot more than i do  ,sv,MALE,3
+"[""[ me, +  i ] figure if it's something really  important, somebody will tell me about it.  /""]", me   i  figure if its something really  important somebody will tell me about it  ,sv,MALE,3
+"['{c but, } {f uh, } {d you know, } [ i, +  the thing is [ if, +  if ] i ] catch the news all the time, it just makes me depressed because they tend to produce a lot of bad news.  /']",c but  f uh  d you know   i   the thing is  if   if  i  catch the news all the time it just makes me depressed because they tend to produce a lot of bad news  ,sd,MALE,1
+"[""# {c or } that's what # --""]", c or  thats what  ,sd,MALE,1
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+"['yo-, # -/']",yo  ,%,FEMALE,5
+['-- comes on first. /'], comes on first ,+,MALE,0
+"[""that's true too. /""]",thats true too ,aa,FEMALE,4
+"[""{c and, } {f uh, } {d you know, }  also late at night, {d you know, } i don't  [ wa-, +  like watching ] the news late at night  /""]",c and  f uh  d you know   also late at night d you know  i dont   wa   like watching  the news late at night  ,sd,MALE,1
+['{c but } my wife is usually up then #  /'],c but  my wife is usually up then   ,sd,MALE,1
+['{c and so # -- }'],c and so   ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""-- i can't go to sleep with the t v on. /""]", i cant go to sleep with the t v on ,+,MALE,0
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i, {f uh, } - /']",i f uh   ,%,MALE,5
+"['{c but, } {d you know, }  [ i, +  i ] wish i had, {f uh, } more news  on things like, that i consider long range.  things like  science and medicine -- /']",c but  d you know    i   i  wish i had f uh  more news  on things like that i consider long range  things like  science and medicine  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {f uh, } [ i'm more, +   i guess i'm more ] into science and  science fiction  /""]", f uh   im more    i guess im more  into science and  science fiction  ,sd,MALE,1
+"[""{c and, } {f uh, } there's, {d you know, } - /""]",c and  f uh  theres d you know   ,%,MALE,5
+"['not that the news  is science fiction,  /']",not that the news  is science fiction  ,h,MALE,15
+"[""{c but, } {f uh, } {f uh, } i'm more interested in that.  /""]",c but  f uh  f uh  im more interested in that  ,sd,MALE,1
+"['things like, {f uh, }  is nasa ready for another space shot.  {f uh, } {d you know, } how hot are they  on the trail of a cure for such and such cancer -- /']",things like f uh   is nasa ready for another space shot  f uh  d you know  how hot are they  on the trail of a cure for such and such cancer  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, } {f uh, } {f uh, }  {d you know, } a lot of the news isn't that interesting to me. /""]", c and  f uh  f uh   d you know  a lot of the news isnt that interesting to me ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{d well, } you're right.  /""]",d well  youre right  ,sv,FEMALE,3
+"[""there is a lot of it [ that's, +  that's ] just garbage, as far as i'm concerned, {d you know. } /""]",there is a lot of it  thats   thats  just garbage as far as im concerned d you know  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but } i just like [ [ the, +   more or less, the, ] +  the ] daily news, {d you know. }']",c but  i just like   the    more or less the    the  daily news d you know ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['just, {f uh, } especially the weather.  /']",just f uh  especially the weather  ,+,FEMALE,0
+['i like that # <laughter>. # /'],i like that  laughter  ,sd,FEMALE,1
+"['# me, too. # /']", me too  ,sd,MALE,1
+"[""although they're usually wrong # <laughter>. # /""]",although theyre usually wrong  laughter  ,sv,FEMALE,3
+"['# <laughter> # yeah,  /']", laughter  yeah  ,aa,MALE,4
+"[""georgia here,  they're usually wrong too.  /""]",georgia here  theyre usually wrong too  ,sv,MALE,3
+['we have weird weather systems. /'],we have weird weather systems ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{c but, } {f uh, } like  i say, as far as,  [ (( as )) + ]  actually listening to the news, it's mostly t v, five o'clock to six thirty.  /""]",c but  f uh  like  i say as far as    as     actually listening to the news its mostly t v five oclock to six thirty  ,sd,FEMALE,1
+"['{f uh, } that seems like a long time for news  /']",f uh  that seems like a long time for news  ,sv,FEMALE,3
+"[""{c but } that's how long it is. /""]",c but  thats how long it is ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c and, } {f uh, } seems like  they have the local news  and they have the world news. /']",c and  f uh  seems like  they have the local news  and they have the world news ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and then, } {f uh, } my morning paper.   i can hardly wait for it to come. /']",c and then  f uh  my morning paper   i can hardly wait for it to come ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""# i'm # --""]", im  ,%,MALE,5
+"['# {c and, } {f uh, } # -/']", c and  f uh   ,%,FEMALE,5
+"['-- {d you know, } [ [ i, +  i  just, ] +   {f uh, } i ] would, - /']", d you know    i   i  just     f uh  i  would  ,+,MALE,0
+"[""[ [ i, +  i, ] +  i'm ]  not a morning person  /""]",  i   i    im   not a morning person  ,sd,MALE,1
+['{c so } i would begrudge the time it takes me  in the morning to catch my # morning news. # /'],c so  i would begrudge the time it takes me  in the morning to catch my  morning news  ,sd,MALE,1
+['# <laughter>. #'], laughter ,x,FEMALE,8
+"['i get up just barely in time to  get up, get ready and get off to work  /']",i get up just barely in time to  get up get ready and get off to work  ,sd,MALE,1
+['{c and  then } # at work # --'],c and  then   at work  ,sd,MALE,1
+['# oh. # /'], oh  ,b,FEMALE,2
+['-- i have no time to read the news. /'], i have no time to read the news ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['right.  /'],right  ,aa,FEMALE,4
+"[""once you get to work,  i wouldn't either,  /""]",once you get to work  i wouldnt either  ,sd,FEMALE,1
+['huh-uh. /'],huhuh ,aa,FEMALE,4
+['no <<very faint>>. /'],no very faint ,b,MALE,2
+"[""{c but } i've always been a morning  person to get up, {d you know. } /""]",c but  ive always been a morning  person to get up d you know  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ {c an-, } + {c but } ] i can't  stay up late at night to watch the late news  /""]", c an   c but   i cant  stay up late at night to watch the late news  ,sd,FEMALE,1
+"[""{c so } <laughter>.  i guess that's why i watch  it at five o'clock <laughter>. /""]",c so  laughter  i guess thats why i watch  it at five oclock laughter ,sd,FEMALE,1
+['<laughter> yeah. /'],laughter yeah ,b,MALE,2
+"[""{c but } anyhow.  {d well, } listen,  i guess that's about it then. /""]",c but  anyhow  d well  listen  i guess thats about it then ,fc,FEMALE,10
+['okay. /'],okay ,fc,MALE,10
+"[""it's been nice talking to you tony. /""]",its been nice talking to you tony ,fc,FEMALE,10
+['nice talking to you.  /'],nice talking to you  ,fc,MALE,10
+"[""i'll probably talk to you again.  /""]",ill probably talk to you again  ,sv,MALE,3
+['i had a friend who was in this  /'],i had a friend who was in this  ,sd,MALE,1
+['{c and } he said that  he got calls from the same caller sometimes. /'],c and  he said that  he got calls from the same caller sometimes ,sd,MALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,MALE,9
+"[""{f oh, } {d well } that hasn't  happened to me yet.  /""]",f oh  d well  that hasnt  happened to me yet  ,sd,FEMALE,1
+"['{c so, } you never know,  /']",c so  you never know  ,h,FEMALE,15
+['it might this time. /'],it might this time ,sv,FEMALE,3
+"[""that's right. /""]",thats right ,aa,MALE,4
+"['<laughter> okay, tony. /']",laughter okay tony ,fc,FEMALE,10
+['take it easy. /'],take it easy ,fc,MALE,10
+['uh-huh.  /'],uhhuh  ,fc,FEMALE,10
+['# bye-bye. # /'], byebye  ,fc,FEMALE,10
+['# bye-bye <clicking>. # /'], byebye clicking  ,fc,MALE,10
+['<clicking> </talking>.'],clicking talking,x,FEMALE,8

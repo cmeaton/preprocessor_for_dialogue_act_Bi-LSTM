@@ -1,0 +1,137 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  bill,  /']",okay  bill  ,"fo_o_fw_""_by_bc",FEMALE,0
+['right? /'],right ,qy,FEMALE,7
+['yes. /'],yes ,ny,MALE,9
+"['okay,  bill,  /']",okay  bill  ,bk,FEMALE,14
+['have you done much camping? /'],have you done much camping ,qy,FEMALE,7
+"['{f uh, } yes.  /']",f uh  yes  ,ny,MALE,9
+"[""i'm a scoutmaster in boy scouts. /""]",im a scoutmaster in boy scouts ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } i [ camp, {f uh, } every month, {f uh, } + camp at least one weekend ]  /']",c and  i  camp f uh  every month f uh   camp at least one weekend   ,sd,MALE,1
+"['{c and } during the summer we camp, {f uh, } two or three weeks a year <laughter>. /']",c and  during the summer we camp f uh  two or three weeks a year laughter ,sd,MALE,1
+"['{f oh, } {d well, } [ that, + that ] sounds good. /']",f oh  d well   that  that  sounds good ,ba,FEMALE,6
+"[""i'd say i camp quite a bit. /""]",id say i camp quite a bit ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['you do.  /'],you do  ,aa,FEMALE,4
+"['{f um, }  {d now } do you have a lot mountains,  /']",f um   d now  do you have a lot mountains  ,qy,FEMALE,7
+"[""{d well, } you don't have mountains in texas, do you.  /""]",d well  you dont have mountains in texas do you  ,qy,FEMALE,7
+['where do you find places to camp? /'],where do you find places to camp ,qw,FEMALE,12
+"['{d well, } {f uh, } [ we, + we ]  do a lot of canoeing when we go camping -- /']",d well  f uh   we  we   do a lot of canoeing when we go camping  ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"['-- {c and } [ we, + {f uh, } we ] also, {f uh, } carry all our equipment with us -- /']", c and   we  f uh  we  also f uh  carry all our equipment with us  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and so } we canoe down the river and then,']", c and so  we canoe down the river and then,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+"['sleep on the river on one of the, {f um, } sand bars and then --']",sleep on the river on one of the f um  sand bars and then ,+,MALE,0
+['oh. /'],oh ,bk,FEMALE,14
+"['-- get up the next morning, cook our breakfast, and go down the river again. /']", get up the next morning cook our breakfast and go down the river again ,+,MALE,0
+"['{f oh, } my word.  /']",f oh  my word  ,ba,FEMALE,6
+['{d well } that sounds adventuresome # <laughter>. # /'],d well  that sounds adventuresome  laughter  ,ba,FEMALE,6
+['# <laughter> #  how about yourself? /'], laughter   how about yourself ,qo,MALE,25
+"[""{d well, } {f um, } i've done, {f oh, } i would say quite a bit of camping, mostly with my husband and i.  /""]",d well  f um  ive done f oh  i would say quite a bit of camping mostly with my husband and i  ,sd,FEMALE,1
+"['{f um, }  we have five children,  /']",f um   we have five children  ,sd,FEMALE,1
+"[""{c and so } we have found that camping with the little ones isn't as enjoyable as just when we go ourselves.   /""]",c and so  we have found that camping with the little ones isnt as enjoyable as just when we go ourselves   ,sd,FEMALE,1
+"[""{c so } we've tried to get out once a year and go on a anniversary camp out,  /""]",c so  weve tried to get out once a year and go on a anniversary camp out  ,sd,FEMALE,1
+"['{c and } we have gone up into the mountains and, {f uh, } not necessarily roughed it,  /']",c and  we have gone up into the mountains and f uh  not necessarily roughed it  ,sd,FEMALE,1
+['{c but } we have just found it just real enjoyable to be alone up in the mountains. /'],c but  we have just found it just real enjoyable to be alone up in the mountains ,sd,FEMALE,1
+"[""{d well, } that's good. /""]",d well  thats good ,ba,MALE,6
+"['{c and, then } [ the boys are, + our boys are ]  old enough now,  /']",c and then   the boys are  our boys are   old enough now  ,sd,FEMALE,1
+"[""they're twelve and  eleven,  /""]",theyre twelve and  eleven  ,sd,FEMALE,1
+"[""{c and so, } they're involved in the scouting  /""]",c and so  theyre involved in the scouting  ,sd,FEMALE,1
+['{c and } they do a lot of camping with the scouts -- /'],c and  they do a lot of camping with the scouts  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- <throat_clearing> {c and } last time our one twelve year old went to the scout camp for a week,  /']", throatclearing c and  last time our one twelve year old went to the scout camp for a week  ,sd,FEMALE,1
+"[""{c and so } this year they'll both be going,  /""]",c and so  this year theyll both be going  ,sd,FEMALE,1
+"[""{c and so } that's been real enjoyable for them. /""]",c and so  thats been real enjoyable for them ,sd,FEMALE,1
+['great. /'],great ,ba,MALE,6
+['{d so. } -/'],d so  ,%,FEMALE,5
+"['[  what, + {f uh, } what ] kind of camping do they like best?  /']",  what  f uh  what  kind of camping do they like best  ,qw,MALE,12
+['do they like it where they have tents  /'],do they like it where they have tents  ,qy,MALE,7
+"['{c and, }  {f uh, } do they cook on stoves? /']",c and   f uh  do they cook on stoves ,qy,MALE,7
+"['{f um, } yes,  /']",f um  yes  ,ny,FEMALE,9
+"[""they've,  {d well, } - /""]",theyve  d well   ,%,FEMALE,5
+"['no,  /']",no  ,nn,FEMALE,13
+"[""actually [ they've, + i remember, they have  ] taken [ [ the, +  the ] du-, + the heavy ] cast iron dutch ovens and done their cooking there over the fire,  /""]",actually  theyve  i remember they have   taken   the   the  du  the heavy  cast iron dutch ovens and done their cooking there over the fire  ,sd,FEMALE,1
+"[""{c and } i don't think they've taken the stoves.  /""]",c and  i dont think theyve taken the stoves  ,sd,FEMALE,1
+"['{f um, }  last year they camped in tents,  /']",f um   last year they camped in tents  ,sd,FEMALE,1
+['{c and } this year i believe they will be in tents also. /'],c and  this year i believe they will be in tents also ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['course i imagine it gets cold in parts of utah. /'],course i imagine it gets cold in parts of utah ,qy^d,MALE,16
+"['uh-huh,  /']",uhhuh  ,ny,FEMALE,9
+['yeah. /'],yeah ,ny,FEMALE,9
+"[""it doesn't get very cold in texas, /""]",it doesnt get very cold in texas ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c so } lots of times we don't even take tents. /""]",c so  lots of times we dont even take tents ,sd,MALE,1
+"['{f oh, } is that right? /']",f oh  is that right ,bh,FEMALE,18
+['we just use trail tarps. /'],we just use trail tarps ,sd,MALE,1
+"['{f oh, } {c and } what does that consist of? /']",f oh  c and  what does that consist of ,qw,FEMALE,12
+"[""{f uh, } it's just a piece of material  [ that has, + {f uh, } that has ] a lot of places where you can tie off to it --""]",f uh  its just a piece of material   that has  f uh  that has  a lot of places where you can tie off to it ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+['-- and make it into a tent --'], and make it into a tent ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } like a, {f uh, } - /']", f uh  like a f uh   ,+,MALE,0
+"[""they're very light weight  /""]",theyre very light weight  ,sd,MALE,1
+['{c and } we use them when we go backpacking.  /'],c and  we use them when we go backpacking  ,sd,MALE,1
+"['{c so } we go backpacking fifteen or twenty miles, then, {f uh, } - /']",c so  we go backpacking fifteen or twenty miles then f uh   ,sd,MALE,1
+"[""they're not very heavy, {d see } -- /""]",theyre not very heavy d see   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c so } you carry them with you,  /']", c so  you carry them with you  ,sd,MALE,1
+['{c and } --'],c and  ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"[""-- they'll keep you dry or whatever. /""]", theyll keep you dry or whatever ,+,MALE,0
+"['yes,  /']",yes  ,b,FEMALE,2
+"['{d well, } {d see, }  [ when, + when ] we go camping here,  /']",d well  d see    when  when  we go camping here  ,sd,FEMALE,1
+"['we have to take our big huge, heavy sleeping bags,  and <laughter> lots of tents  /']",we have to take our big huge heavy sleeping bags  and laughter lots of tents  ,sd,FEMALE,1
+"['{c and, }  i like to sleep on the air matresses.   /']",c and   i like to sleep on the air matresses   ,sd,FEMALE,1
+"[""i'm not, <laughter> - /""]",im not laughter  ,%,FEMALE,5
+"['my bones are getting so old,  /']",my bones are getting so old  ,sd,FEMALE,1
+"['{c so } [ i like to, + i like to ] sleep on the matresses. /']",c so   i like to  i like to  sleep on the matresses ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f um, } {c so, }  have you had any [ adventures on your camping trips, with, + encounters with  ] wild animals or anything like that? /']",f um  c so   have you had any  adventures on your camping trips with  encounters with   wild animals or anything like that ,qy,FEMALE,7
+"['[ ye-, +  yes, ]  /']", ye   yes   ,ny,MALE,9
+"['in fact, {f uh, } {f um, } last month we went camping,  /']",in fact f uh  f um  last month we went camping  ,sd,MALE,1
+['we saw a lot of deer --'],we saw a lot of deer ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"['-- {f uh, } in the morning and the afternoon --']", f uh  in the morning and the afternoon ,+,MALE,0
+['my word. /'],my word ,ba,FEMALE,6
+['-- just deer everywhere. /'], just deer everywhere ,+,MALE,0
+['gee. /'],gee ,ba,FEMALE,6
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"[""[ {c so, } + {f uh, } {c but, }  ] [ it, + even though,  {f uh, } it ] wasn't hunting season, - /""]", c so   f uh  c but     it  even though  f uh  it  wasnt hunting season  ,sd,MALE,1
+"['{c and } we were with boy scouts,  /']",c and  we were with boy scouts  ,sd,MALE,1
+['{c so } --'],c so  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- of course we don't, {f uh, } want to go # hunting. # /""]", of course we dont f uh  want to go  hunting  ,+,MALE,0
+['# <laughter>. #'], laughter ,x,FEMALE,8
+['{c but } we got to see a lot of deer --'],c but  we got to see a lot of deer ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"['-- {f um, } out and about  /']", f um  out and about  ,+,MALE,0
+"[""{c and }  there's, - /""]",c and   theres  ,%,MALE,5
+"['of course, we see  smaller animals all the time,  /']",of course we see  smaller animals all the time  ,sd,MALE,1
+"[""{c and, }  {f uh, } one thing that is a big concern in the evening, at night, {f uh, } is, {f uh, } make sure that all the food's put away and so forth --""]",c and   f uh  one thing that is a big concern in the evening at night f uh  is f uh  make sure that all the foods put away and so forth ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- because, {f uh, } we have, {f uh, } armadillos.  /']", because f uh  we have f uh  armadillos  ,+,MALE,0
+['# do you know what # --'], do you know what  ,qy,MALE,7
+['# oh. # /'], oh  ,b,FEMALE,2
+['-- armadillo is? /'], armadillo is ,+,MALE,0
+"[""{f uh, } they're covered {d like } with a heavy armor --""]",f uh  theyre covered d like  with a heavy armor ,na,FEMALE,21
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- type stuff,  /']", type stuff  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['and possums, and, {f uh, } raccoons. /']",and possums and f uh  raccoons ,sd,MALE,1
+['my word. /'],my word ,ba,FEMALE,6
+"['{c and } we have those creatures down here that [ they like to, + {f uh, }  they like to ] go hunting for a midnight snack. /']",c and  we have those creatures down here that  they like to  f uh   they like to  go hunting for a midnight snack ,sd,MALE,1
+['<laughter>  uh-huh <laughter>. /'],laughter  uhhuh laughter ,b,FEMALE,2
+"[""{c and so } [ [ that, + that, ] + {f uh, } that ] can be a problem if you don't put all your equipment away. /""]",c and so    that  that   f uh  that  can be a problem if you dont put all your equipment away ,sd,MALE,1
+"[""{c but } they won't necessarily attack a human or bite you or anything. /""]",c but  they wont necessarily attack a human or bite you or anything ,qy,FEMALE,7
+['they will if you attack them. /'],they will if you attack them ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+['{c but } most time they run away from you --'],c but  most time they run away from you ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- [ if they, + if they ] see you're up, {d you know } -- -/""]",  if they  if they  see youre up d you know   ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- <sniffing> {c but } they don't have any problem walking right by you if you're asleep. /""]", sniffing c but  they dont have any problem walking right by you if youre asleep ,sd,MALE,1
+"['{f oh, } my word <laughter>. /']",f oh  my word laughter ,ba,FEMALE,6
+['{d so. } -/'],d so  ,%,MALE,5
+"['{d well, } that sounds a little less fierce than bears.  /']",d well  that sounds a little less fierce than bears  ,sv,FEMALE,3
+"['[  we, + we ] want  to, -/']",  we  we  want  to ,%,FEMALE,5

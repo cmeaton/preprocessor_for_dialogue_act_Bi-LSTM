@@ -1,0 +1,133 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{d well, } {f um, } i used to work in a day care center. /']",d well  f um  i used to work in a day care center ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['i worked [ in, + {f um, } in ] all the different areas of the day care center  /']",i worked  in  f um  in  all the different areas of the day care center  ,sd,FEMALE,1
+"['{c and } <breathing> [ it is, + they can ] be deceiving to people.  /']",c and  breathing  it is  they can  be deceiving to people  ,sv,FEMALE,3
+"[""i did not work there long because i couldn't handle [ the, + the ] treatment that the children got,  /""]",i did not work there long because i couldnt handle  the  the  treatment that the children got  ,sd,FEMALE,1
+"['{c and } this is supposed to be a very well-known center here in tyler who had two or three, {f um, } centers,']",c and  this is supposed to be a very wellknown center here in tyler who had two or three f um  centers,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# all over, # {d you know, } the, {f um, } city  /']", all over  d you know  the f um  city  ,+,FEMALE,0
+"['{c and } they would, {f um, } be one way when the parents were there and be another way when the parents left. /']",c and  they would f um  be one way when the parents were there and be another way when the parents left ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{d so, } {f um, } i think [ you need to make, + {d you know, } if you [ do, + do ] day care centers, {d you know } you should make ] frequent checks [ and, + ] {f um, } to check in on them when <laughter> they're not expecting it. /""]",d so  f um  i think  you need to make  d you know  if you  do  do  day care centers d you know  you should make  frequent checks  and   f um  to check in on them when laughter theyre not expecting it ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""because they [ do, + do ] things differently when you're not around,  /""]",because they  do  do  things differently when youre not around  ,sv,FEMALE,3
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['{d well } that, - /']",d well  that  ,%,MALE,5
+"['i know wh-, - /']",i know wh  ,%,MALE,5
+"['the things that we kind of looked at [ is, + is ] you want to see how many teachers you have.']",the things that we kind of looked at  is  is  you want to see how many teachers you have,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ and, + and ] how many kids they have and how they break it up. /']", and  and  how many kids they have and how they break it up ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"['{c because } [ we had, + <throat_clearing> we had ] one that sounds kind of like what you were in. /']",c because   we had  throatclearing we had  one that sounds kind of like what you were in ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ it, + it ] was a really good one,  /']", it  it  was a really good one  ,sv,MALE,3
+"['{c and } in fact, it worked out for us because [ my wife, + we ] kind of bartered.  /']",c and  in fact it worked out for us because  my wife  we  kind of bartered  ,sd,MALE,1
+['my wife did artwork for them  /'],my wife did artwork for them  ,sd,MALE,1
+"['[ {c and then, } + {d you know, } {c so } ] we got our day care free. /']", c and then   d you know  c so   we got our day care free ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c but } they didn't have enough teachers #  /""]",c but  they didnt have enough teachers   ,sd,MALE,1
+"['{c and, } # -/']",c and   ,%,MALE,5
+"['# {d well, } # this one was set up good.  /']", d well   this one was set up good  ,sv,FEMALE,3
+['{e i mean } they had two teachers --'],e i mean  they had two teachers ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- to every room.  {f um, } sometimes three.  /']", to every room  f um  sometimes three  ,+,FEMALE,0
+"['{c and } they had a good system {d like } so when you walked in, everything looks cool. /']",c and  they had a good system d like  so when you walked in everything looks cool ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['the problem i had was that they did not show affection to the children enough.  /'],the problem i had was that they did not show affection to the children enough  ,sd,FEMALE,1
+['they did not show them care to these small children who are being left. /'],they did not show them care to these small children who are being left ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f um, } they, - /']",f um  they  ,%,FEMALE,5
+['one time i picked up this little boy who was crying  /'],one time i picked up this little boy who was crying  ,sd,FEMALE,1
+['{c and } the owner came and just chewed me up one side down the other.'],c and  the owner came and just chewed me up one side down the other,sd,FEMALE,1
+['{f huh. }  /'],f huh   ,%,MALE,5
+"['{d you know, }  /']",d you know   ,+,FEMALE,0
+['he said you are going to have every child in here wanting you to pick them up. /'],he said you are going to have every child in here wanting you to pick them up ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{c and } i said, no,  /']",c and  i said no  ,sd,FEMALE,1
+"['this child was crying and needed some comfort, {d you know, } /']",this child was crying and needed some comfort d you know  ,^q,FEMALE,19
+['# yeah. # /'], yeah  ,b,MALE,2
+['# what # is your problem.  /'], what  is your problem  ,^q,FEMALE,19
+"['{d so, } {f um, } -/']",d so  f um  ,%,FEMALE,5
+"['[ did, + did ] they separate them by age group? /']", did  did  they separate them by age group ,qy,MALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"[""{c because } [ i'd think, + {d you know, } i think ] that's one thing that was important. /""]",c because   id think  d you know  i think  thats one thing that was important ,sv,MALE,3
+['right.  /'],right  ,aa,FEMALE,4
+"[""[ they did, + they had ] {d like, } {f um, } [ [ the, + the crawlers, ] + the babies ] that didn't walk in one room.""]", they did  they had  d like  f um    the  the crawlers   the babies  that didnt walk in one room,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['the ones that were starting to walk in one room.  /'],the ones that were starting to walk in one room  ,+,FEMALE,0
+"['then they had {d like } the, {f um, } [ three, + three ] year olds, upper fours, lower fours, upper fives, lower fives.  {d you know, } just like that. /']",then they had d like  the f um   three  three  year olds upper fours lower fours upper fives lower fives  d you know  just like that ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d you know, } they really did separate them well. /']",d you know  they really did separate them well ,sd,FEMALE,1
+"['# [ i-, + it ] sound, - /']",  i  it  sound  ,sv,MALE,3
+"['yeah, # /']",yeah  ,%,MALE,5
+['# it was just # the teachers themselves. /'], it was just  the teachers themselves ,sd,FEMALE,1
+['right. /'],right ,aa,FEMALE,4
+"['{c but, } - /']",c but   ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""# that they're not, # -/""]", that theyre not  ,sd,FEMALE,1
+"[""# affectionate people #  that [ they're, + they're [ kind of par-, +""]", affectionate people   that  theyre  theyre  kind of par ,sv,MALE,3
+['# yeah.  /'], yeah  ,aa,FEMALE,4
+"['their system, # -/']",their system  ,%,FEMALE,5
+['# may be parents ] ] # themselves or something. /'], may be parents    themselves or something ,+,MALE,0
+['right.  /'],right  ,aa,FEMALE,4
+"['[ {c but } their, + {c but } their ] system [ was, + was ] great  /']", c but  their  c but  their  system  was  was  great  ,sv,FEMALE,3
+"[""{c but, } {f um, } [ the, + {d you know, } <breathing> the ] caring just wasn't there. /""]",c but  f um   the  d you know  breathing the  caring just wasnt there ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['the one woman [ that taught + that did ] the babies. i worked with her  /'],the one woman  that taught  that did  the babies i worked with her  ,sd,FEMALE,1
+['{c and } she was fabulous. /'],c and  she was fabulous ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['she loved them babies,  /']",she loved them babies  ,sd,FEMALE,1
+['{c and } she loved them and cared for them.  /'],c and  she loved them and cared for them  ,sd,FEMALE,1
+"['{c but, } {f um, } every one of the others that i saw was just screaming and yelling and, {f um, } {d you know, } would make me a nervous wreck, <laughter>  /']",c but  f um  every one of the others that i saw was just screaming and yelling and f um  d you know  would make me a nervous wreck laughter  ,sd,FEMALE,1
+"['{d so, } {d you know. } -/']",d so  d you know  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+"[""[ [ i, + i, ] + i ] think that's probably a really important thing because you can have doctorates and p h d's and all that kind of thing and, {d you know, } know all the technical stuff,  /""]",  i  i   i  think thats probably a really important thing because you can have doctorates and p h ds and all that kind of thing and d you know  know all the technical stuff  ,sv,MALE,3
+"[""{c but } if they don't reach out and touch the kids, then that doesn't do any good. /""]",c but  if they dont reach out and touch the kids then that doesnt do any good ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['these kids are just in a day care center all day --'],these kids are just in a day care center all day ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- and, {f uh, } with [ no, +  any ] type of emotional, {d you know, } [ getting love, + getting care, ]  /']", and f uh  with  no   any  type of emotional d you know   getting love  getting care   ,+,FEMALE,0
+"[""they're just there.""]",theyre just there,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['{d you know. } going through this routine,']",d you know  going through this routine,+,FEMALE,0
+"['# an-, # -/']", an  ,%,MALE,5
+['# which # is lousy. /'], which  is lousy ,+,FEMALE,0
+"['[ the other, + the other ] group that we had was kind of interesting.  /']", the other  the other  group that we had was kind of interesting  ,sd,MALE,1
+"['the other one we went to [ the, + ] it was a husband and wife team -- /']",the other one we went to  the   it was a husband and wife team  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } we knew them from other associations  /'], c and  we knew them from other associations  ,sd,MALE,1
+"['{c but, } {f uh, } it was kind of interesting because she was kind of the strict one,  /']",c but  f uh  it was kind of interesting because she was kind of the strict one  ,sv,MALE,3
+"[""{c and } i think, {d you know, } [ she would, + she'd ] put her arm around the kids and talk to them and stuff, {d you know, }  /""]",c and  i think d you know   she would  shed  put her arm around the kids and talk to them and stuff d you know   ,sd,MALE,1
+"['{c but } he was actually [ the more, + {f um, } the more, ] {f uh, } {d what, } demonstrative type.']",c but  he was actually  the more  f um  the more  f uh  d what  demonstrative type,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['the more loving  /'],the more loving  ,+,MALE,0
+"['he would, {d you know, } laugh with the kids and play with the kids  /']",he would d you know  laugh with the kids and play with the kids  ,sd,MALE,1
+['[ {c and } -- +'], c and   ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } ] [ i-, + it ] was kind of interesting to see [ that, + that ] it was actually the man in the group [ that, + that ] did that side of it.  /']", c and    i  it  was kind of interesting to see  that  that  it was actually the man in the group  that  that  did that side of it  ,+,MALE,0
+"['an-, -/']",an ,%,MALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""you don't see that much. /""]",you dont see that much ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+['{c so } they had a really nice balance.  /'],c so  they had a really nice balance  ,sd,MALE,1
+['we liked that one.  /'],we liked that one  ,sd,MALE,1
+"['in fact, it was called humpty dumpty play school or something, /']",in fact it was called humpty dumpty play school or something ,sd,MALE,1
+"[""# that's cute. # /""]", thats cute  ,ba,FEMALE,6
+"['# {c but } [ they also # did, + they also did ] some of the teaching things  /']", c but   they also  did  they also did  some of the teaching things  ,sd,MALE,1
+"['{c and then } they had, {f um, } {d you know, } - /']",c and then  they had f um  d you know   ,sd,MALE,1
+"['[ obedience, + obedience ] was important. /']", obedience  obedience  was important ,sd,MALE,1
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+['that has to be with a day care center. # /'],that has to be with a day care center  ,sv,FEMALE,3
+"['# [ {c and } + {d you know } {c so } ] [ [ they, + # {d you know, } they used, ] + {f uh, } {f oh, } i think they used ] the, - /']",  c and   d you know  c so     they   d you know  they used   f uh  f oh  i think they used  the  ,sd,MALE,1
+"['you probably heard [ where, + {d you know, } where ] you stand in front of the clock and get your power back to control yourself. /']",you probably heard  where  d you know  where  you stand in front of the clock and get your power back to control yourself ,qy^d,MALE,16
+"[""i've never heard of that.  /""]",ive never heard of that  ,ng,FEMALE,29
+"[""# [ that's, + that's ] a new one, #""]",  thats  thats  a new one ,sd,FEMALE,1
+"[""# {c and } [ it's, + it's ] one, # -/""]", c and   its  its  one  ,%,MALE,5
+['on me. /'],on me ,+,FEMALE,0
+"[""{f uh, } i can't remember what they call it actually  /""]",f uh  i cant remember what they call it actually  ,sd,MALE,1
+"['{c but } [ y-, + you ] just stand them in front of a clock  /']",c but   y  you  just stand them in front of a clock  ,sd,MALE,1
+"['{c and, } {d you know, } it has a second-hand that goes around. /']",c and  d you know  it has a secondhand that goes around ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } they have to stand there, /']",c and  they have to stand there ,sd,MALE,1

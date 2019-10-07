@@ -1,0 +1,136 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['laurie? /'],laurie ,qy,MALE,7
+['yes. /'],yes ,ny,FEMALE,9
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",MALE,0
+"[""i'm supposed to ask you, how do you make use of your credit cards  /""]",im supposed to ask you how do you make use of your credit cards  ,sd,MALE,1
+"[""{c and } i'm supposed to compare those with [ my, + my ] habits. /""]",c and  im supposed to compare those with  my  my  habits ,sd,MALE,1
+['okay.  /'],okay  ,b,FEMALE,2
+['how do i make use of credit cards? /'],how do i make use of credit cards ,b^m,FEMALE,24
+['yes. /'],yes ,ny,MALE,9
+"[""{f um, } let's see.  /""]",f um  lets see  ,^h,FEMALE,27
+"[""i carry a lot of credit cards with me mostly because i don't ever have cash. /""]",i carry a lot of credit cards with me mostly because i dont ever have cash ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{c and } [ i don-, + i, ] - /']",c and   i don  i   ,%,FEMALE,5
+['do you work for texas instruments? /'],do you work for texas instruments ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+['i do not. /'],i do not ,sd,MALE,1
+['okay.  /'],okay  ,bk,FEMALE,14
+"[""{d well, } at t i we have to use what's called a (( tex teller ))  --""]",d well  at t i we have to use whats called a  tex teller   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- if we want to get cash out  /'], if we want to get cash out  ,+,FEMALE,0
+['{c and } those are only available at t i. /'],c and  those are only available at t i ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,MALE,2
+"[""{c so } if i'm in a mall or something i can't get cash out without paying extra money  /""]",c so  if im in a mall or something i cant get cash out without paying extra money  ,sd,FEMALE,1
+"[""{c so } i'm always using credit cards. /""]",c so  im always using credit cards ,sd,FEMALE,1
+['sure.   /'],sure   ,b,MALE,2
+"['{d well, } myself i always, tr-, - /']",d well  myself i always tr  ,%,MALE,5
+"[""[ i'm, + i'm ] a traveling person -- /""]", im  im  a traveling person  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } i'm out of town quite a bit  /""]", c and  im out of town quite a bit  ,sd,MALE,1
+"['{c so } i use credit cards quite a lot also as far as everything from service work {c and } gasoline in my car to my lounging, entertainment and for everything. /']",c so  i use credit cards quite a lot also as far as everything from service work c and  gasoline in my car to my lounging entertainment and for everything ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['me too. /'],me too ,aa,FEMALE,4
+"[""{c so } that's, {f uh, } - /""]",c so  thats f uh   ,%,MALE,5
+"[""as far as using them outside that [ i'm not, + i ] don't use them too much  /""]",as far as using them outside that  im not  i  dont use them too much  ,sd,MALE,1
+"['{c but }  ((   )) [ i, + i ] think my wife is sort of like you  /']",c but        i  i  think my wife is sort of like you  ,sd,MALE,1
+"['she uses a credit card,']",she uses a credit card,sd,MALE,1
+['# <laughter>. #'], laughter ,x,FEMALE,8
+['# most # of the time. /'], most  of the time ,+,MALE,0
+['yeah  /'],yeah  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['{c so } she does most of the shopping for our household  /'],c so  she does most of the shopping for our household  ,sd,MALE,1
+"[""{c so } she'll use them more than i will. /""]",c so  shell use them more than i will ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['{c but } do you get to pay the bills? /'],c but  do you get to pay the bills ,qy,FEMALE,7
+['yes. /'],yes ,ny,MALE,9
+['<laughter> same at my house <laughter>. /'],laughter same at my house laughter ,sd,FEMALE,1
+"[""{c so } it's me [ i'm always, + i'm ] the guy <laughter> that always goes to like dillard's  /""]",c so  its me  im always  im  the guy laughter that always goes to like dillards  ,sd,MALE,1
+"[""{c and } i'll go in and charge something  /""]",c and  ill go in and charge something  ,sd,MALE,1
+"[""{c and } i'll have to give them my driver's license.  /""]",c and  ill have to give them my drivers license  ,sd,MALE,1
+"[""they'll have to look up the number because i'm never carrying a credit card. /""]",theyll have to look up the number because im never carrying a credit card ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but } i do carry {d like } my american express and my visa which i use for, {d you know, } primarily work type things. /']",c but  i do carry d like  my american express and my visa which i use for d you know  primarily work type things ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['this is my first call by the way,  /']",this is my first call by the way  ,sd,MALE,1
+['{c so } <laughter>. -/'],c so  laughter ,%,MALE,5
+"[""{f oh, } it's mine too. /""]",f oh  its mine too ,sd,FEMALE,1
+"['{f oh, } is it really? /']",f oh  is it really ,bh,MALE,18
+['<laughter> yes. /'],laughter yes ,ny,FEMALE,9
+['all right  /'],all right  ,ba,MALE,6
+"[""{c so } we're both beginners then. /""]",c so  were both beginners then ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i've had this for a couple weeks  /""]",ive had this for a couple weeks  ,sd,MALE,1
+"[""{c and } i've been out of town  /""]",c and  ive been out of town  ,sd,MALE,1
+"['{c so } this is my first time [ to, +']",c so  this is my first time  to ,sd,MALE,1
+"['# {f oh, } okay. # /']", f oh  okay  ,b,FEMALE,2
+['# to ] use it. # /'], to  use it  ,+,MALE,0
+['# okay. # /'], okay  ,b,FEMALE,2
+"['# {d so, } # -/']", d so   ,%,MALE,5
+"['{d now, } did you pick this topic  /']",d now  did you pick this topic  ,qy,FEMALE,7
+['{c or } were you given? -/'],c or  were you given ,qrr,FEMALE,33
+"['no,  /']",no  ,nn,MALE,13
+['i was given this topic. /'],i was given this topic ,sd,MALE,1
+['i see.  /'],i see  ,bk,FEMALE,14
+['okay. /'],okay ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ they give you, + they assign you ] a topic,  /']", they give you  they assign you  a topic  ,sd,MALE,1
+"['you call the eight hundred number, /']",you call the eight hundred number ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['have you tried it yet? /'],have you tried it yet ,qy,MALE,7
+['no <laughter>. /'],no laughter ,nn,FEMALE,13
+['okay.  /'],okay  ,b,MALE,2
+"['when you call the eight hundred number, they assign you a topic and, {f uh, } pretty, {f uh, } cut and dried <laughter>. /']",when you call the eight hundred number they assign you a topic and f uh  pretty f uh  cut and dried laughter ,sd,MALE,1
+"['huh,  /']",huh  ,b,FEMALE,2
+['okay.  /'],okay  ,b,FEMALE,2
+"[""{f um, } let's see.  /""]",f um  lets see  ,^h,FEMALE,27
+['{c so } how long are we supposed to talk for? /'],c so  how long are we supposed to talk for ,qw,FEMALE,12
+"[""i'm not sure.  /""]",im not sure  ,h,MALE,15
+"['a couple, - /']",a couple  ,sv,MALE,3
+"['about two [ minu-, +  three minutes ] i think. /']",about two  minu   three minutes  i think ,sv,MALE,3
+['okay. /'],okay ,bk,FEMALE,14
+"[""{c but } i really don't have too much more to say in regards to credit cards.  /""]",c but  i really dont have too much more to say in regards to credit cards  ,sd,MALE,1
+"['i, - /']",i  ,%,MALE,5
+"[""one thing i've always tried to do is when i get my credit cards, i always try to pay them off because i just sort of detest paying interest. /""]",one thing ive always tried to do is when i get my credit cards i always try to pay them off because i just sort of detest paying interest ,sd,MALE,1
+"['{f oh, } yes. /']",f oh  yes ,ba,FEMALE,6
+"['# {c and, } {f uh, } # -/']", c and  f uh   ,%,MALE,5
+['# definitely. # /'], definitely  ,aa,FEMALE,4
+['{d like } years ago my wife and i got married -- /'],d like  years ago my wife and i got married  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- she was the one with a little bit  ((   ))  than i was because i had my credit cards, i think, up to the limit  /']", she was the one with a little bit       than i was because i had my credit cards i think up to the limit  ,sd,MALE,1
+['{c and } i was giving <laughter> everyone ten dollars a month and everything like that. /'],c and  i was giving laughter everyone ten dollars a month and everything like that ,sd,MALE,1
+['<laughter> oh.  /'],laughter oh  ,b,FEMALE,2
+['that will cost you a fortune. /'],that will cost you a fortune ,sv,FEMALE,3
+['that was like thirty years ago  /'],that was like thirty years ago  ,sd,MALE,1
+"[""{c so } now it's a little different.  /""]",c so  now its a little different  ,sd,MALE,1
+"['we, - /']",we  ,%,MALE,5
+['i get a bill  /'],i get a bill  ,sd,MALE,1
+"[""{c and } i'll pay it the same day it comes  /""]",c and  ill pay it the same day it comes  ,sd,MALE,1
+"['yes,  /']",yes  ,b,FEMALE,2
+['yes. /'],yes ,b,FEMALE,2
+['{c and } i just kind of tell my kids how much i hate paying interest  /'],c and  i just kind of tell my kids how much i hate paying interest  ,sd,MALE,1
+['{c so } they should follow the same rule. /'],c so  they should follow the same rule ,sd,MALE,1
+"[""that's right.  /""]",thats right  ,b,FEMALE,2
+"['{d well, } yeah,  /']",d well  yeah  ,b,FEMALE,2
+"[""{f oh, } you bet it's ju-, -/""]",f oh  you bet its ju ,ba,MALE,6
+"[""it's an absolute savings. /""]",its an absolute savings ,sd,MALE,1
+"['{c or } if you travel for work and you get your reimbursement before the bill comes in,']",c or  if you travel for work and you get your reimbursement before the bill comes in,sd,FEMALE,1
+['# you bet. # /'], you bet  ,ba,MALE,6
+['# you get to # <laughter> keep the money. /'], you get to  laughter keep the money ,+,FEMALE,0
+"[""[ that's, + that's ] very handy. /""]", thats  thats  very handy ,sd,MALE,1
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['it works great. /'],it works great ,aa,FEMALE,4
+"[""{d well, } i think that's all i have. /""]",d well  i think thats all i have ,sd,MALE,1
+['okay.  /'],okay  ,b,FEMALE,2
+"['{d well, } it was nice to meet you. /']",d well  it was nice to meet you ,fc,FEMALE,10
+['nice to meet you  /'],nice to meet you  ,fc,MALE,10
+"['{c and, } {f uh, } give it a try.  /']",c and  f uh  give it a try  ,fc,MALE,10
+"[""i think you'll enjoy it. /""]",i think youll enjoy it ,fc,MALE,10
+['okay. /'],okay ,fc,FEMALE,10
+['# okay. # /'], okay  ,fc,MALE,10
+['# thanks. # /'], thanks  ,fc,FEMALE,10
+['thank you. /'],thank you ,fc,MALE,10
+['# bye-bye. # /'], byebye  ,fc,FEMALE,10
+['# bye. # /'], bye  ,fc,MALE,10

@@ -1,0 +1,110 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""{d well, } i don't know if there's going to be solutions to the <laughter> u s budget. /""]",d well  i dont know if theres going to be solutions to the laughter u s budget ,sv,FEMALE,3
+"[""{d well, } now it's in pretty disastrous shape for sure. /""]",d well  now its in pretty disastrous shape for sure ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's only getting worse exponentially --""]",its only getting worse exponentially ,sv,MALE,3
+['yes. /'],yes ,b,FEMALE,2
+['-- it seems. /'], it seems ,+,MALE,0
+['exactly. /'],exactly ,ba,FEMALE,6
+"['{f um, } /']",f um  ,%,MALE,5
+"[""there's, {f uh, } maybe some short-term things  that they can do  /""]",theres f uh  maybe some shortterm things  that they can do  ,sv,FEMALE,3
+"[""{c and } it hurts everybody's pocket, of course,  /""]",c and  it hurts everybodys pocket of course  ,sv,FEMALE,3
+"['{c but, } {f um, } i know that state has, {f uh, } cutback, {f uh, } raises for a  year to help, {f uh, } the, {f uh, } state financial or whatever you might want to say to get better --']",c but  f um  i know that state has f uh  cutback f uh  raises for a  year to help f uh  the f uh  state financial or whatever you might want to say to get better ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- in a better condition.  /'], in a better condition  ,+,FEMALE,0
+"['that, -/']",that ,%,FEMALE,5
+"['{f oh, } which state is that? /']",f oh  which state is that ,qw,MALE,12
+"['{f uh, } state of minnesota. /']",f uh  state of minnesota ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so } there's the potential that perhaps,  {d you know, } the u s budget might want to take a look at  it's, {f uh, } federal employees  [ or, +  and ] take a look at saying, {d well, } let's freeze wages.  /""]",c so  theres the potential that perhaps  d you know  the u s budget might want to take a look at  its f uh  federal employees   or   and  take a look at saying d well  lets freeze wages  ,sv,FEMALE,3
+"[""{e i mean } everybody's doing it so it isn't --""]",e i mean  everybodys doing it so it isnt ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- like, {f uh, } private business has  had to do it  /']", like f uh  private business has  had to do it  ,+,FEMALE,0
+['{c so } --'],c so  ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"[""-- it might have to be something that  they might consider doing [ as a shir-, + that's got to be very short ] term. /""]", it might have to be something that  they might consider doing  as a shir  thats got to be very short  term ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"[""{c and } the only other avenue that i can  think of is, {f uh, } looking at where they're spending the money and not so much as saying, {d well, } we're spending too much in that area as perhaps looking at what is costing them the money.  /""]",c and  the only other avenue that i can  think of is f uh  looking at where theyre spending the money and not so much as saying d well  were spending too much in that area as perhaps looking at what is costing them the money  ,sv,FEMALE,3
+['as --'],as ,sd,FEMALE,1
+['yep. /'],yep ,b,MALE,2
+"['-- [ for, + for ] instance, i think you  probably remember the military getting caught, {f um, } with toilet seats  that cost them four hundred, five hundred dollars. /']",  for  for  instance i think you  probably remember the military getting caught f um  with toilet seats  that cost them four hundred five hundred dollars ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"['{c and } it was just, -/']",c and  it was just ,%,FEMALE,5
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"['<laughter> {e i mean } you can go to k-mart and  buy them for, {f uh, } eight dollars  or i think --']",laughter e i mean  you can go to kmart and  buy them for f uh  eight dollars  or i think ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- six dollars or whatever for toilet seats,  /']", six dollars or whatever for toilet seats  ,+,FEMALE,0
+['[ {c so. } +'], c so  ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+['definitely -- /'],definitely  ,ba,MALE,6
+"['{c so } ] it gives you a-, --']",c so   it gives you a ,+,FEMALE,0
+"[""-- i think that there's --""]", i think that theres ,sv,MALE,3
+"['-- idea that, -/']", idea that ,+,FEMALE,0
+['-- probably a lot of waste in defense and in government funded research in the first place. /'], probably a lot of waste in defense and in government funded research in the first place ,+,MALE,0
+"['sure,  /']",sure  ,b,FEMALE,2
+['sure.  /'],sure  ,b,FEMALE,2
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['{e i mean } there was, {f um, }  people at stanford who were soaking the government, {d you know, } using millions of  dollars of research money --']",e i mean  there was f um   people at stanford who were soaking the government d you know  using millions of  dollars of research money ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ to, + {f uh, } for ] the president to buy  beach homes or whatever it was. /']",  to  f uh  for  the president to buy  beach homes or whatever it was ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } i think [ that, + that ] maybe more widespread --']",c and  i think  that  that  maybe more widespread ,sv,MALE,3
+['than we think. /'],than we think ,^2,FEMALE,23
+['-- [ than + --'],  than  ,+,MALE,0
+['sure. /'],sure ,b,FEMALE,2
+"[""-- {d well, } than ] we'd like to have think. /""]", d well  than  wed like to have think ,+,MALE,0
+['sure. /'],sure ,b,FEMALE,2
+"[""[ {c but, } + <throat_clearing> {c but } ]  then it's something that's hard to enforce too i'm sure. /""]", c but   throatclearing c but    then its something thats hard to enforce too im sure ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['it sure is.  /'],it sure is  ,aa,FEMALE,4
+"['the, {d you know, }   as far as, - /']",the d you know    as far as  ,%,FEMALE,5
+['i think there was something with the government official that went on conferences for two days  /'],i think there was something with the government official that went on conferences for two days  ,sv,FEMALE,3
+"['{c and } {d actually, } {f uh, }  the conferences were nothing  /']",c and  d actually  f uh   the conferences were nothing  ,sv,FEMALE,3
+"[""{c but, } {f uh, } {d you know, } they're getting paid for this,  /""]",c but  f uh  d you know  theyre getting paid for this  ,sd,FEMALE,1
+['{c and } it was something more than just the conferences.  /'],c and  it was something more than just the conferences  ,sd,FEMALE,1
+"['they were using it as eating out, {f uh, }  /']",they were using it as eating out f uh   ,sd,FEMALE,1
+"['when you think about people, {f uh, } taking vacations these big government officials taking  (( descendants ))  in <laughter> congress. -/']",when you think about people f uh  taking vacations these big government officials taking   descendants   in laughter congress ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""the rest of them taking these vacations and using the taxpayers' money for that. /""]",the rest of them taking these vacations and using the taxpayers money for that ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"[""{c and } it's a real big crunch, {f uh } -- /""]",c and  its a real big crunch f uh   ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- of course, when they get caught then [ they're, + {d you know, } they're ] guilty of course,  /""]", of course when they get caught then  theyre  d you know  theyre  guilty of course  ,sv,FEMALE,3
+"[""{c but, } {f uh, } during that time i'm sure there's hundreds of, {f uh, } thousands of people that are, {f uh, } spending money that does not belong to them.  /""]",c but  f uh  during that time im sure theres hundreds of f uh  thousands of people that are f uh  spending money that does not belong to them  ,sv,FEMALE,3
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"[""{d well, } that's right.  /""]",d well  thats right  ,ba,MALE,6
+"['{f uh, } i think that, {f oh, }  politicians talk a lot about waste -- /']",f uh  i think that f oh   politicians talk a lot about waste  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c but } i'm not sure that that's  really that much of the problem. /""]", c but  im not sure that thats  really that much of the problem ,sv,MALE,3
+['sure. /'],sure ,b,FEMALE,2
+['{e i mean } when you look at something like the gulf war --'],e i mean  when you look at something like the gulf war ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- it cost us god knows how much.   {d you know, } at a million dollars,']", it cost us god knows how much   d you know  at a million dollars,+,MALE,0
+['<noise>.'],noise,x,FEMALE,8
+['a pop for patriot missiles. /'],a pop for patriot missiles ,+,MALE,0
+['exactly.  /'],exactly  ,ba,FEMALE,6
+"[""{c and } i don't think, {f uh, }  it's ended up being, - /""]",c and  i dont think f uh   its ended up being  ,sv,FEMALE,3
+['{e i mean } it gave people jobs -- /'],e i mean  it gave people jobs  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- {c but } i think it also cost, {f um, }  quite a bit as far as because after they're done with the war, a lot of things were no longer put to use.  /""]", c but  i think it also cost f um   quite a bit as far as because after theyre done with the war a lot of things were no longer put to use  ,sv,FEMALE,3
+"[""{e i mean } it was kind of like, {d okay, }  we'll do this during this point and time  /""]",e i mean  it was kind of like d okay   well do this during this point and time  ,sv,FEMALE,3
+"[""{c but } after that  [ that's, + ] {d you know, } {f uh } --""]",c but  after that   thats   d you know  f uh  ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"[""-- they didn't want to do it anymore. /""]", they didnt want to do it anymore ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so, } a lot of things that are saying that they're no longer going to be doing for next wars that are coming up that they did for this one in getting rid of a lot of things.  /""]",c so  a lot of things that are saying that theyre no longer going to be doing for next wars that are coming up that they did for this one in getting rid of a lot of things  ,sd,FEMALE,1
+['{c so } --'],c so  ,h,FEMALE,15
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- i don't know. /""]", i dont know ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"['<lipsmack> okay,  /']",lipsmack okay  ,fc,FEMALE,10
+"['{d well, } it was good  talking to you  /']",d well  it was good  talking to you  ,fc,FEMALE,10
+['{c and } --'],c and  ,fc,FEMALE,10
+['okay <laughter>. /'],okay laughter ,fc,MALE,10
+['-- have a good evening. /'], have a good evening ,+,FEMALE,0
+['all right.  /'],all right  ,fc,MALE,10
+['you too. /'],you too ,fc,MALE,10
+"['uh-huh,  /']",uhhuh  ,fc,FEMALE,10
+['thanks. /'],thanks ,fc,FEMALE,10
+['# bye-bye. # /'], byebye  ,fc,MALE,10
+['# bye now. # /'], bye now  ,fc,FEMALE,10

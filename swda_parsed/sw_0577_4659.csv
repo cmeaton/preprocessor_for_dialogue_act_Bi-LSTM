@@ -1,0 +1,123 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['what do you think?  <noise>. /'],what do you think  noise ,qo,FEMALE,25
+"[""{d well, } {f uh, } i can't be terribly authoritative on what life was like thirty years ago, {f uh, } <swallowing> because i'm not that old yet. /""]",d well  f uh  i cant be terribly authoritative on what life was like thirty years ago f uh  swallowing because im not that old yet ,sd,MALE,1
+['</noise> uh-huh. /'],noise uhhuh ,b,FEMALE,2
+['{f um } # <laughter>. # /'],f um   laughter  ,%,MALE,5
+"['# i can be, #  /']", i can be   ,%,FEMALE,5
+['{c but } go ahead # <laughter>. # /'],c but  go ahead  laughter  ,ad,FEMALE,22
+"['# <laughter> # {f uh, } i know that, {f uh, } - /']", laughter  f uh  i know that f uh   ,%,MALE,5
+"['{e i mean } obviously you look [ at, + at  ] [ technologic-, + the technological  ] aspect [ of, + of  ] social change.  /']",e i mean  obviously you look  at  at    technologic  the technological   aspect  of  of   social change  ,%,MALE,5
+"[""{e i mean }  [ you didn't have, + {f uh, } you didn't have  ] video games.  /""]",e i mean    you didnt have  f uh  you didnt have   video games  ,sd,MALE,1
+"[""you didn't have home computers.  /""]",you didnt have home computers  ,sd,MALE,1
+"[""you didn't have xerox machines. /""]",you didnt have xerox machines ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['{e i mean, } {f uh, }   [ you, +  you ] try to, - /']",e i mean  f uh     you   you  try to  ,%,MALE,5
+"['you go into [ a, + a  ] business today  /']",you go into  a  a   business today  ,sd,MALE,1
+"['{c and, } [ you, + you  ] try to   imagine the whole thing except running off of carbon paper  /']",c and   you  you   try to   imagine the whole thing except running off of carbon paper  ,sd,MALE,1
+"[""{c and } it's almost inconceivable now because the xerox machines [ and, + and  ] everything have become  [ [ such, +  {d you know, }  su-, ] +  such ] [ [ a, + a  par-, ] + a part  ] of the way we live. /""]",c and  its almost inconceivable now because the xerox machines  and  and   everything have become    such   d you know   su    such    a  a  par   a part   of the way we live ,sv,MALE,3
+['right.  /'],right  ,aa,FEMALE,4
+['# we fax # --'], we fax  ,sd,FEMALE,1
+"['# {c and }  ((   )) , # -/']", c and         ,%,MALE,5
+['-- everything. /'], everything ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""we don't even wait for the mail anymore. /""]",we dont even wait for the mail anymore ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['right. /'],right ,b,FEMALE,2
+"['yeah, {f uh, }  /']",yeah f uh   ,b,MALE,2
+"['a business associate of mine [ was, + was  ] talking about how it used to be where you would send things through the mail  /']",a business associate of mine  was  was   talking about how it used to be where you would send things through the mail  ,sd,MALE,1
+"['{c and } you had to do something,  /']",c and  you had to do something  ,sd,MALE,1
+"['this was concerning the s e c,  /']",this was concerning the s e c  ,sd,MALE,1
+"['{c and so } if they had business to do, they had to finish it, {d you know, } three days in advance so they could get it through the mail. /']",c and so  if they had business to do they had to finish it d you know  three days in advance so they could get it through the mail ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['because you can get it there, {d you know } --  *[[""because"" as connector; sd]]']",because you can get it there d you know    because as connector sd,+,MALE,0
+['uh-huh <<very faint>>. /'],uhhuh very faint ,b,FEMALE,2
+"['-- [ in, + in  ] a matter of minutes --']",  in  in   a matter of minutes ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"['-- {d you know, } through a fax machine  /']", d you know  through a fax machine  ,+,MALE,0
+"['{c and } because of that, these quote, unquote convenience type items have made work that much more intense and that much harder. /']",c and  because of that these quote unquote convenience type items have made work that much more intense and that much harder ,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+"[""{c because } you're expected to work on # stuff up until the last minute. # /""]",c because  youre expected to work on  stuff up until the last minute  ,sv,MALE,3
+"[""# you're expected to, - /""]", youre expected to  ,aa,FEMALE,4
+['# exactly.  /'], exactly  ,aa,FEMALE,4
+"['{c and } i recently read an article on just this, that said stress today is so much worse <talking>.  /']",c and  i recently read an article on just this that said stress today is so much worse talking  ,sd,FEMALE,1
+['it should be less because <noise> we have a microwave  /'],it should be less because noise we have a microwave  ,sd,FEMALE,1
+['{c and } our grandmothers had to bake brownies  /'],c and  our grandmothers had to bake brownies  ,sd,FEMALE,1
+['{c and } we can throw them in a microwave for </talking> two minutes  /'],c and  we can throw them in a microwave for talking two minutes  ,sd,FEMALE,1
+"[""{c but } the more conveniences we have, the more that's expected of us -- /""]",c but  the more conveniences we have the more thats expected of us  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } we have no down time.  /'], c and  we have no down time  ,sv,FEMALE,3
+"[""{d like } we don't stop and wait for things to happen because we don't have to. /""]",d like  we dont stop and wait for things to happen because we dont have to ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['{c so } we keep moving.  /'],c so  we keep moving  ,sv,FEMALE,3
+"[""we don't stop and wait for the things to bake and this to happen and that to happen.  /""]",we dont stop and wait for the things to bake and this to happen and that to happen  ,sv,FEMALE,3
+['we just hit buttons and keep going to the next thing.   /'],we just hit buttons and keep going to the next thing   ,sv,FEMALE,3
+['{c so } we have no <talking> relaxation time in between -- /'],c so  we have no talking relaxation time in between  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c so } they say that's really a bad thing.  that you need to learn a lot of ways [ to, + to  ] deal with that and get [ your, + <noise> your  ] time in between things. /""]", c so  they say thats really a bad thing  that you need to learn a lot of ways  to  to   deal with that and get  your  noise your   time in between things ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so } that's good.  /""]",c so  thats good  ,sv,FEMALE,3
+"[""that's an interesting point.   /""]",thats an interesting point   ,sv,FEMALE,3
+"['{c but } i just think [ our, + our  ] family lives have changed <noise> drastically. /']",c but  i just think  our  our   family lives have changed noise drastically ,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+"[""{c and } i think that's ju-, - /""]",c and  i think thats ju  ,%,FEMALE,5
+['of course a part of it is technology.  /'],of course a part of it is technology  ,sv,FEMALE,3
+"['{e i mean } our kids, where would they be without nintendo and, {d you know, } their t v shows - /']",e i mean  our kids where would they be without nintendo and d you know  their t v shows  ,qh,FEMALE,26
+"['{c and } no-, - /']",c and  no  ,%,FEMALE,5
+['some of that is really bad i think.  /'],some of that is really bad i think  ,sv,FEMALE,3
+"['{c but, } we have all single families.  /']",c but  we have all single families  ,sv,FEMALE,3
+['so many single families now.  /'],so many single families now  ,sd,FEMALE,1
+"['{f uh, } a lot of working,  /']",f uh  a lot of working  ,sd,FEMALE,1
+['both parents are working.  /'],both parents are working  ,sd,FEMALE,1
+"[""{c so } there's a whole big effect on our kids  /""]",c so  theres a whole big effect on our kids  ,sv,FEMALE,3
+"[""{c and } not very many of my daughter's friends really are on their original mother and father.  /""]",c and  not very many of my daughters friends really are on their original mother and father  ,sd,FEMALE,1
+"[""{d you know, } i'm wondering what this is going to do in ten and twenty years. /""]",d you know  im wondering what this is going to do in ten and twenty years ,sd,FEMALE,1
+"[""{d well, } there's that  /""]",d well  theres that  ,aa,MALE,4
+"[""{c and } there's the fact that, {d you know, } nowadays fewer and  fewer couples are deciding to have kids which generally tends to happen.  /""]",c and  theres the fact that d you know  nowadays fewer and  fewer couples are deciding to have kids which generally tends to happen  ,sd,MALE,1
+"[""{e i mean } the u s would be actually declining in population slightly if it weren't for the fact that we,""]",e i mean  the u s would be actually declining in population slightly if it werent for the fact that we,sd,MALE,1
+['<talking>.'],talking,x,FEMALE,8
+"['have continuation, large scale immigration into the country. /']",have continuation large scale immigration into the country ,+,MALE,0
+"[""you're probably right </talking>.  /""]",youre probably right talking  ,aap_am,FEMALE,39
+"[""{c and } i'm an o b nurse  /""]",c and  im an o b nurse  ,sd,FEMALE,1
+"[""{c and } that's never really occurred to me but [ that's, + that's ] interesting.  /""]",c and  thats never really occurred to me but  thats  thats  interesting  ,sd,FEMALE,1
+['i never really thought about it that way. /'],i never really thought about it that way ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"['i saw [ that, + the numbers on that  ] awhile back  /']",i saw  that  the numbers on that   awhile back  ,sd,MALE,1
+"['{c and } i was {d like, } uh-huh  /']",c and  i was d like  uhhuh  ,sd,MALE,1
+['<laughter> {c so } <<very faint>>. -/'],laughter c so  very faint ,%,MALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""that's true.    /""]",thats true    ,aa,FEMALE,4
+['(( when ))  is this good or not good. /  *[[listen]]'], when   is this good or not good   listen,%,FEMALE,5
+"['{d well, } {f uh, }']",d well  f uh ,sd,MALE,1
+"[""we don't know that yet <laughter>. /""]",we dont know that yet laughter ,sv,FEMALE,3
+"[""in terms of the long term [ effect, + effect  ] [ on, + on  ] america, in terms of the culture and everything, i don't know.  #  /""]",in terms of the long term  effect  effect    on  on   america in terms of the culture and everything i dont know    ,+,MALE,0
+"['{f uh, } #']",f uh  ,sv,MALE,3
+['# yeah.  /'], yeah  ,aa,FEMALE,4
+"[""#  i don't know either. /""]",  i dont know either ,sd,FEMALE,1
+"['[ most [ of the, + of the ] next generation is going to be + [ in, + [ {e or, } + {e or } ] an, ]  [ [ ex-, +']", most  of the  of the  next generation is going to be   in   e or   e or   an     ex ,+,MALE,0
+['<noise>.'],noise,x,FEMALE,8
+"['ex-, ] + extremely ] large [ par-, + part  ] of the next generation is going to be,  ]  {d you know, } second generation, [ f-, + {f uh, } from ] immigrant parents. /']",ex   extremely  large  par  part   of the next generation is going to be    d you know  second generation  f  f uh  from  immigrant parents ,+,MALE,0
+"[""# that's true. # /""]", thats true  ,aa,FEMALE,4
+"[""# {c and } they're # going to be really struggling  /""]", c and  theyre  going to be really struggling  ,sv,MALE,3
+"[""{c and } i don't think that america is currently the type of environment where struggling up from the bottom is necessarily considered to be good # <laughter>. # /""]",c and  i dont think that america is currently the type of environment where struggling up from the bottom is necessarily considered to be good  laughter  ,sv,MALE,3
+"['# right,  /']", right  ,aa,FEMALE,4
+['# right. /'], right ,aa,FEMALE,4
+"[""{e i mean, } it's no longer [ [ the, + the,  ] + {f uh, } the  ] accomplishment [ that it, + that it  ] once was  /""]",e i mean  its no longer   the  the    f uh  the   accomplishment  that it  that it   once was  ,sd,MALE,1
+"[""{c and } not that many people are really trying i don't think <swallowing>. /""]",c and  not that many people are really trying i dont think swallowing ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""that's kind of scary.  /""]",thats kind of scary  ,sv,FEMALE,3
+"[""{f huh. } {d well } that's true.  /""]",f huh  d well  thats true  ,aa,FEMALE,4
+"['{c but, } i, - /']",c but  i  ,%,FEMALE,5
+"[""it's just [ very, + very ] different  /""]",its just  very  very  different  ,sv,FEMALE,3
+"[""{c and } i guess every ten years it's just been very different. /""]",c and  i guess every ten years its just been very different ,sv,FEMALE,3
+['yeah <<very faint>>. /'],yeah very faint ,b,MALE,2
+"[""{d so. }  {c and } i don't know what's going to happen.  /""]",d so   c and  i dont know whats going to happen  ,sd,FEMALE,1
+"[""{f uh, } i know what i'm seeing here at [ m-, +  my ] job <talking> is that people are having their children much later in life --""]",f uh  i know what im seeing here at  m   my  job talking is that people are having their children much later in life ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['# tha-, # -/']", tha  ,%,MALE,5
+"[""-- # so # that they're establishing careers  /""]",  so  that theyre establishing careers  ,+,FEMALE,0
+"[""{c and } they've got their homes  /""]",c and  theyve got their homes  ,sd,FEMALE,1
+"[""{c and } they've got, -/""]",c and  theyve got ,%,FEMALE,5

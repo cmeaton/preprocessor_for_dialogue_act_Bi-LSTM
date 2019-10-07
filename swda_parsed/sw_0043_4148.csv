@@ -1,0 +1,75 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hi. /'],hi ,fp,MALE,32
+['okay.  /'],okay  ,b,MALE,2
+"['{d so, } {f uh, } with the issue of trial by jury, {f uh, } i actually found the whole question about whether you need [ [ a, + a unan-, ] + a unanimous ] verdict in a criminal case to be somewhat interesting. /']",d so  f uh  with the issue of trial by jury f uh  i actually found the whole question about whether you need   a  a unan   a unanimous  verdict in a criminal case to be somewhat interesting ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""{d actually, } [ i, + i ] agree that <laughter> that's an interesting thing.  /""]",d actually   i  i  agree that laughter thats an interesting thing  ,sd,MALE,1
+"[""[ i, + i ] believe [ that's a, + ] [ for, + for ] civil suits it's not unanimous, {d right, }  /""]", i  i  believe  thats a    for  for  civil suits its not unanimous d right   ,qy,MALE,7
+"[""{c but } [ for, + for ] criminal suits it's unanimous by federal law? /""]",c but   for  for  criminal suits its unanimous by federal law ,qy^d,MALE,16
+"[""i don't know if it's even true that it's always unanimous because i thought there were cases [ where, + {f uh, } {a i don't know if it's the difference between felonies and misdemeanors, but } where ] it was okay for a state to have it {d like } eleven out of twelve.  /""]",i dont know if its even true that its always unanimous because i thought there were cases  where  f uh  a i dont know if its the difference between felonies and misdemeanors but  where  it was okay for a state to have it d like  eleven out of twelve  ,no,MALE,31
+['<+ messy kind of inaccurate bracketing +>'], messy kind of inaccurate bracketing ,x,MALE,8
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""i actually thought i'd read that, too  /""]",i actually thought id read that too  ,sd,MALE,1
+"[""{c and } that's why i phrased it that way. /""]",c and  thats why i phrased it that way ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['i wonder,  /']",i wonder  ,sd,MALE,1
+"['[ the difference, + {d yeah, } the difference ] could be that for, {f uh, } [ state, + {a if there is such a thing, } state ] felonies versus federal felonies that [ federal, + things that are under federal ] jurisdiction require the unanimous <inhaling> vote,  /']", the difference  d yeah  the difference  could be that for f uh   state  a if there is such a thing  state  felonies versus federal felonies that  federal  things that are under federal  jurisdiction require the unanimous inhaling vote  ,sv,MALE,3
+"[""{c and } things that are under state jurisdiction, even criminal don't require, - /""]",c and  things that are under state jurisdiction even criminal dont require  ,sv,MALE,3
+"[""{c but } i don't know what [ the, + <inhaling> the ] laws, - /""]",c but  i dont know what  the  inhaling the  laws  ,h,MALE,15
+"[""do you think that that's an unreasonable, {f uh, } requirement that they be unanimous? /""]",do you think that thats an unreasonable f uh  requirement that they be unanimous ,qy,MALE,7
+"[""{d well, } i'd be curious as to what the, {f uh, } requirement for [ a, + an ] acquittal is.  /""]",d well  id be curious as to what the f uh  requirement for  a  an  acquittal is  ,^h,MALE,27
+"[""{c and } [ i, + i ] don't think it would be wrong to say that eleven out of twelve can convict if there were something corresponding saying that if, {d you know, } six or seven voted not guilty, then instead of it being a hung jury, that was an acquittal.  /""]",c and   i  i  dont think it would be wrong to say that eleven out of twelve can convict if there were something corresponding saying that if d you know  six or seven voted not guilty then instead of it being a hung jury that was an acquittal  ,sv,MALE,3
+"[""{c but } i don't know whether you need [ an, + a ] unanimous, {f uh, } vote of not guilty to acquit. /""]",c but  i dont know whether you need  an  a  unanimous f uh  vote of not guilty to acquit ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ that, + that ] would be an interesting change.  /']", that  that  would be an interesting change  ,sv,MALE,3
+"[""it was also allow the, {f uh, } idea that if you had one person who was, {f uh, } very disagreeable that, {e i mean, } [ it, + it ] fundamentally changes the way the processing occurs because, {f uh, } <inhaling> [ the fact that it's <breathing> w-, + [ the, + the ] principle is that the fact that it's ] unanimous insures the beyond a reasonable doubt, {f uh, } criterion that it, {f uh, } <lipsmack> increases [ the, + the ] likelihood of getting the proper judgment.  /""]",it was also allow the f uh  idea that if you had one person who was f uh  very disagreeable that e i mean   it  it  fundamentally changes the way the processing occurs because f uh  inhaling  the fact that its breathing w   the  the  principle is that the fact that its  unanimous insures the beyond a reasonable doubt f uh  criterion that it f uh  lipsmack increases  the  the  likelihood of getting the proper judgment  ,sv,MALE,3
+"['{c so, } [ i, + i ] think, if anything, it would have to be a very close to unanimous decision. /']",c so   i  i  think if anything it would have to be a very close to unanimous decision ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""i'd agree with that.  /""]",id agree with that  ,sd,MALE,1
+"[""{c but } i've never had [ the, + the ] opportunity to serve on a jury, although i've been out here and registered for, i guess, about five years. /""]",c but  ive never had  the  the  opportunity to serve on a jury although ive been out here and registered for i guess about five years ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['{d actually } --'],d actually  ,sv,MALE,3
+"['{c but, } -/']",c but  ,%,MALE,5
+"['-- [ i, + i ] thought that that would be very interesting thing to do.  /']",  i  i  thought that that would be very interesting thing to do  ,+,MALE,0
+['i would like to do that.  /'],i would like to do that  ,sd,MALE,1
+"[""i've been out here twenty some years  /""]",ive been out here twenty some years  ,sd,MALE,1
+"[""{c and } i've been called, {f uh, } three different times,  /""]",c and  ive been called f uh  three different times  ,sd,MALE,1
+"[""{c but } i've never actually even made it into [ the, + the ] jury box.""]",c but  ive never actually even made it into  the  the  jury box,sd,MALE,1
+['oh. /'],oh ,b,MALE,2
+"['[ and, + ] because there have always been a number of people  /']", and   because there have always been a number of people  ,+,MALE,0
+"[""[ {c and, } + {c and } ] i've never gotten up there to answer any of the questions.  /""]", c and   c and   ive never gotten up there to answer any of the questions  ,sd,MALE,1
+"['{f uh, } i, - /']",f uh  i  ,%,MALE,5
+"['yeah,  /']",yeah  ,aa,MALE,4
+['i also think that would be really good.  /'],i also think that would be really good  ,sv,MALE,3
+"['i, -/']",i ,%,MALE,5
+"[""{d ((well)), } the people i know who have served have said that usually what ends up happening is that, {d you know, } after initially finding out where people stand, that the whole deliberation usually results, if there is [ a, + {d you know, } something like a ] nine, three [ or, + or ] more severe [ and, + and ] the people in the majority trying to convince the minority that they're right -- /""]",d well  the people i know who have served have said that usually what ends up happening is that d you know  after initially finding out where people stand that the whole deliberation usually results if there is  a  d you know  something like a  nine three  or  or  more severe  and  and  the people in the majority trying to convince the minority that theyre right  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } in fact, i'm not sure that that's any more, {f uh, } liable to get rid of the reasonable doubt [ than, + than ] anything else. /""]", c and  in fact im not sure that thats any more f uh  liable to get rid of the reasonable doubt  than  than  anything else ,sv,MALE,3
+"[""<lipsmack> {d well, } [ the, + the ] one thing that i know does seem to happen from people i've talked to on this, is that in the situation you just said where it's nine to three, or some such number, [ that there's, an effect starts being + that there's starts being ] a lot of peer pressure --""]",lipsmack d well   the  the  one thing that i know does seem to happen from people ive talked to on this is that in the situation you just said where its nine to three or some such number  that theres an effect starts being  that theres starts being  a lot of peer pressure ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- going on  /'], going on  ,+,MALE,0
+"['{c and } [ that + that, ] {f uh, } peer pressure, - /']",c and   that  that  f uh  peer pressure  ,sd,MALE,1
+"[""{c and } in some cases if it's a long trial, the desire of people to get out of there and not be stuck in there for a very long time, that people are changing their minds for the wrong reasons. /""]",c and  in some cases if its a long trial the desire of people to get out of there and not be stuck in there for a very long time that people are changing their minds for the wrong reasons ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i'd --""]",id ,sd,MALE,1
+"['{f uh, }  /']",f uh   ,%,MALE,5
+"['-- read one book, {a i think it was calls trial by jury <laughter> of all things, } that, {f uh } --']", read one book a i think it was calls trial by jury laughter of all things  that f uh  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- went through and interviewed a bunch of jurors in some of the big cases, and in many cases looking [ at what had, + ] at the evidence  afterwards as to whether the decision was right, went back to the jurors, {f uh, } based on the deliberations.  /']", went through and interviewed a bunch of jurors in some of the big cases and in many cases looking  at what had   at the evidence  afterwards as to whether the decision was right went back to the jurors f uh  based on the deliberations  ,+,MALE,0
+"[""some of them did say that, {d you know, } when they were the only one left opposing the verdict, {f uh, } {d you know, } everyone was getting on them [ so, + so ] heavily that eventually they just gave in knowing that nothing they could do could stop it from either being the verdict everyone else was trying for or a hung jury because the one vote doesn't mean anything except the ability to not have a verdict. /""]",some of them did say that d you know  when they were the only one left opposing the verdict f uh  d you know  everyone was getting on them  so  so  heavily that eventually they just gave in knowing that nothing they could do could stop it from either being the verdict everyone else was trying for or a hung jury because the one vote doesnt mean anything except the ability to not have a verdict ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ i, + i ] understand.  /']", i  i  understand  ,sd,MALE,1
+"[""[ you, + you ] would hope that if you were in that situation that you'd have the moral fortitude, {f uh, } to hold out if you believed that that was really the proper response.  /""]", you  you  would hope that if you were in that situation that youd have the moral fortitude f uh  to hold out if you believed that that was really the proper response  ,sv,MALE,3
+"['i think of the movie, {f uh, } twelve angry men. /']",i think of the movie f uh  twelve angry men ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['you ever seen that movie? /'],you ever seen that movie ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+['once. /'],once ,sd,MALE,1
+"['{f uh, } <<faint>>, yeah,  /']",f uh  faint yeah  ,b,MALE,2
+"[""[ [ it's, + it's, ] + it's ] exactly that situation where, {f uh, } - /""]",  its  its   its  exactly that situation where f uh   ,sd,MALE,1
+"[""it's henry fonda  /""]",its henry fonda  ,sd,MALE,1
+"[""{c and } it's eleven to one  /""]",c and  its eleven to one  ,sd,MALE,1
+"[""{c and } he's the one,  /""]",c and  hes the one  ,sd,MALE,1
+"['[ i, + i ] believe he was opposed to the conviction  /']", i  i  believe he was opposed to the conviction  ,sd,MALE,1
+"['[ {c and, } + {f uh, } {c and } ] he held on  /']", c and   f uh  c and   he held on  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5

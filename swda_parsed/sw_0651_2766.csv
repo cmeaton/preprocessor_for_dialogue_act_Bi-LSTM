@@ -1,0 +1,219 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""we're supposed to talk about the  middle east crisis,""]",were supposed to talk about the  middle east crisis,sd,MALE,1
+"['# {f oh, } okay.  # /']", f oh  okay   ,b,FEMALE,2
+"[""# and should # we be involved  and, uh, what's it going to cost us in the long run. /""]", and should  we be involved  and uh whats it going to cost us in the long run ,+,MALE,0
+['okay. /'],okay ,b,FEMALE,2
+['are you ready? /'],are you ready ,qy,MALE,7
+['i guess so. /'],i guess so ,na,FEMALE,21
+['the middle east crisis should we be there? /'],the middle east crisis should we be there ,qy,MALE,7
+"[""{f oh, } dear that's a hard one.  /""]",f oh  dear thats a hard one  ,^h,FEMALE,27
+"[""that's really hard for me because, {f uh, } {d you know, } [ i really, +  i ] have a son that's  sixteen  /""]",thats really hard for me because f uh  d you know   i really   i  have a son thats  sixteen  ,sd,FEMALE,1
+"[""{c and } i think, {d you know, } eventually, {d you know, } he'll be [ of, +  of ] drafting age.  /""]",c and  i think d you know  eventually d you know  hell be  of   of  drafting age  ,sd,FEMALE,1
+"['{c and } i think gosh, do i want him to go  /']",c and  i think gosh do i want him to go  ,sd,FEMALE,1
+"[""{c and } yet i'm proud to be an american  /""]",c and  yet im proud to be an american  ,sd,FEMALE,1
+"[""{c and } i know that we have a country that, {d you know, } people would give anything to  live in, a lot of people anyway because we have so many wonderful things that  they don't have.  /""]",c and  i know that we have a country that d you know  people would give anything to  live in a lot of people anyway because we have so many wonderful things that  they dont have  ,sv,FEMALE,3
+"[""{c and } yet, i don't know whether i'd be willing to give  his life [ for, +  for ] this country  /""]",c and  yet i dont know whether id be willing to give  his life  for   for  this country  ,sd,FEMALE,1
+"['[ {c and } yet, + {c and } yet, ] i know [ that i, +   that, - /']", c and  yet  c and  yet  i know  that i    that  ,h,FEMALE,15
+"['{c and } [ [ i, +  i, ] +  when i ] was in school it was always [ the tired, +  the tired ] excuse  that we went to war to save us against communism  /']",c and    i   i    when i  was in school it was always  the tired   the tired  excuse  that we went to war to save us against communism  ,sd,FEMALE,1
+"[""{c but } i'm not sure that  that's the reason anymore. {e i mean, } not sure that communism [ is, +  is ] as strong as it once was.  /""]",c but  im not sure that  thats the reason anymore e i mean  not sure that communism  is   is  as strong as it once was  ,sv,FEMALE,3
+"[""{c and } i'm not sure [ that, +  that ] that's the reason why [ we're, +  {d like } we were ]  in vietnam supposedly so. /""]",c and  im not sure  that   that  thats the reason why  were   d like  we were   in vietnam supposedly so ,sv,FEMALE,3
+"['{d well, } you realize why we were  in the middle east.  why we invaded iraq, why we were --']",d well  you realize why we were  in the middle east  why we invaded iraq why we were ,qy^d,MALE,16
+"['{d well, } with the, -/']",d well  with the ,%,FEMALE,5
+"[""-- in saudi, why we attacked kuwait  and [ we we're, +  why we are ] still fighting iraq. /""]", in saudi why we attacked kuwait  and  we were   why we are  still fighting iraq ,+,MALE,0
+"[""{d well, } it's because of oil isn't it? /""]",d well  its because of oil isnt it ,qy,FEMALE,7
+['no.  /'],no  ,nn,MALE,13
+"[""i really believe it's because, - /""]",i really believe its because  ,sd,MALE,1
+"[""i think it has something to do with oil, don't get me wrong. /""]",i think it has something to do with oil dont get me wrong ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } [ saddam is, +  saddam is ] a madman. /']",c but   saddam is   saddam is  a madman ,sv,MALE,3
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,FEMALE,4
+['i agree with that. /'],i agree with that ,sd,FEMALE,1
+"['anyone that would use chemical  weapons to fight his own people, -/']",anyone that would use chemical  weapons to fight his own people ,sv,MALE,3
+"['{f oh, } yeah.  /']",f oh  yeah  ,b,FEMALE,2
+"['{d well, } yeah,  /']",d well  yeah  ,b,FEMALE,2
+"[""he's, {f uh, } a bad person, very definitely, /""]",hes f uh  a bad person very definitely ,sv,FEMALE,3
+"['# {c and, } #']", c and  ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['obviously, that has something to do with it. /']",obviously that has something to do with it ,+,MALE,0
+"['{f oh, } sure. /']",f oh  sure ,aa,FEMALE,4
+"['[ {c and, } +  {c and } ] if, {d you know, } - /']", c and    c and   if d you know   ,%,MALE,5
+['i can see that he was in kuwait -- /'],i can see that he was in kuwait  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- kuwait was the nonaggressor -- /'], kuwait was the nonaggressor  ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } the saudis are our allies.  /'], c and  the saudis are our allies  ,sd,MALE,1
+['we have several treaties and several alliances with the saudis that range back for probably forty years. /'],we have several treaties and several alliances with the saudis that range back for probably forty years ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['many years. /'],many years ,bf,FEMALE,20
+"[""{d you know } they've been our  [ friends + ] through thick and thin. /""]",d you know  theyve been our   friends   through thick and thin ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['they,']",they,sd,MALE,1
+"['# {d well, } # /']", d well   ,%,FEMALE,5
+['# were # at the saudi border.'], were  at the saudi border,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['and ready to storm into saudi.  /'],and ready to storm into saudi  ,+,MALE,0
+"[""shouldn't we try and help our friends? /""]",shouldnt we try and help our friends ,qy,MALE,7
+"['certainly,  /']",certainly  ,na,FEMALE,21
+"['{c but } [ what at, +  at what ]  cost, {d you know, }  /']",c but   what at   at what   cost d you know   ,qh,FEMALE,26
+"[""that's [ the, +  {f uh, } the ] thing, [ it came out, +  it came out ]  wonderfully supposedly  /""]",thats  the   f uh  the  thing  it came out   it came out   wonderfully supposedly  ,sv,FEMALE,3
+['{e i mean } everything is -- -/'],e i mean  everything is  ,%,FEMALE,5
+"['what did we lose,']",what did we lose,qh,MALE,26
+['-- # {c and } we won. # /'],  c and  we won  ,sd,FEMALE,1
+"['# forty-one americans, #']", fortyone americans ,+,MALE,0
+"['# yeah, # /']", yeah  ,b,FEMALE,2
+['# lives.  # /'], lives   ,+,MALE,0
+"[""{c and } [ that, +  that's ] wonderful  /""]",c and   that   thats  wonderful  ,sv,FEMALE,3
+"[""{c but } what [ if, +  if ] that wasn't the case.  /""]",c but  what  if   if  that wasnt the case  ,qh,FEMALE,26
+['what if we would have lost thousands of young men.  /'],what if we would have lost thousands of young men  ,qh,FEMALE,26
+"['[ would that, +  would it ] have been too much of a price to pay for that?  /']", would that   would it  have been too much of a price to pay for that  ,qh,FEMALE,26
+"[""i don't know.  /""]",i dont know  ,sd,FEMALE,1
+"[""{d see, } {c and } i think there are a lot of things that we don't know  /""]",d see  c and  i think there are a lot of things that we dont know  ,sv,FEMALE,3
+"['{c but, }']",c but ,%,FEMALE,5
+"['# {f oh, } # /']", f oh   ,b,MALE,2
+"['# that, # -/']", that  ,+,FEMALE,0
+"['of course,']",of course,sv,MALE,3
+"['the american people, -/']",the american people ,%,FEMALE,5
+"['our government is full of liars, thieves, and crooks. /']",our government is full of liars thieves and crooks ,+,MALE,0
+"['{f oh, } sure.  /']",f oh  sure  ,aa,FEMALE,4
+"[""{d well, } {c and } there's a lot,""]",d well  c and  theres a lot,sv,FEMALE,3
+"[""# {c and } that's, #""]", c and  thats ,sv,MALE,3
+"['# that we, # -/']", that we  ,+,FEMALE,0
+['our own fault because we elected them. /'],our own fault because we elected them ,+,MALE,0
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""i think that's true  /""]",i think thats true  ,sv,FEMALE,3
+"[""{c but } i think there's a lot that [ we, +  the public ] doesn't need to know.  /""]",c but  i think theres a lot that  we   the public  doesnt need to know  ,sv,FEMALE,3
+"[""i think there's some   things we shouldn't know just for [ nation-, +  national ] security sake.  /""]",i think theres some   things we shouldnt know just for  nation   national  security sake  ,sv,FEMALE,3
+"[""{c and } [ i, +  {d you know, } i ] think if we did know i think there would be a lot more chaos than  there is because [ i don't, +  i don't ]  think people could handle it.  /""]",c and   i   d you know  i  think if we did know i think there would be a lot more chaos than  there is because  i dont   i dont   think people could handle it  ,sv,FEMALE,3
+"[""{c so }  i think there are things that [ we should not know, +  the masses shouldn't know ]  /""]",c so   i think there are things that  we should not know   the masses shouldnt know   ,sv,FEMALE,3
+['{c but } i also agree that there are a lot of crooks and liars too. /'],c but  i also agree that there are a lot of crooks and liars too ,sd,FEMALE,1
+"[""{d you know, } it's, {f uh, } - /""]",d you know  its f uh   ,%,MALE,5
+['i went on jury duty here not long back. /'],i went on jury duty here not long back ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } {f uh, } one of the guys  that was on the jury they were asking him [ if, +  if ] you could believe a lawyer or if a,']",c and  f uh  one of the guys  that was on the jury they were asking him  if   if  you could believe a lawyer or if a,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""# lawyer's # reputation was so  tainted that he couldn't be believed  /""]", lawyers  reputation was so  tainted that he couldnt be believed  ,+,MALE,0
+"[""{c and } one guy being selected snickered and  couldn't keep his head up, {d you know, } /""]",c and  one guy being selected snickered and  couldnt keep his head up d you know  ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# {c and } # the guy said, {d well, }  can you share it with us [ what you, +  what you ] find so funny?  /']", c and   the guy said d well   can you share it with us  what you   what you  find so funny  ,sd,MALE,1
+"['he says, {d well, } i already  told you my sons a lawyer.  /']",he says d well  i already  told you my sons a lawyer  ,sd,MALE,1
+"['he said that when he graduated, the day after his bar examine --']",he said that when he graduated the day after his bar examine ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- there in houston. /'], there in houston ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['he told him, dad, {d you know } how to  tell when a lawyers lying to you?  /']",he told him dad d you know  how to  tell when a lawyers lying to you  ,sd,MALE,1
+['his lips are moving. /'],his lips are moving ,^q,MALE,19
+"['{f oh, } my gosh <laughter>.  /']",f oh  my gosh laughter  ,ba,FEMALE,6
+['oh. /'],oh ,b,FEMALE,2
+"['{c and } ninety percent of all politicians,']",c and  ninety percent of all politicians,sv,MALE,3
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# and # lawyers, -/']", and  lawyers ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"['have a lawyer background,  /']",have a lawyer background  ,bf,FEMALE,20
+['yeah.  /'],yeah  ,%,FEMALE,5
+"['have a law background,  /']",have a law background  ,bf,FEMALE,20
+"[""you're right. /""]",youre right ,sv,FEMALE,3
+['{c so } by definition all lawyers and  politicians are liars.  /'],c so  by definition all lawyers and  politicians are liars  ,sv,MALE,3
+"[""the fact that they take our money and don't do what we think  is right makes them thieves. /""]",the fact that they take our money and dont do what we think  is right makes them thieves ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's true.  /""]",thats true  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"[""that's true. /""]",thats true ,sv,FEMALE,3
+"[""{c so } what's it going to cost us in  the long run there in saudi?  /""]",c so  whats it going to cost us in  the long run there in saudi  ,qw,MALE,12
+['are we going to lose more lives there? /'],are we going to lose more lives there ,qy,MALE,7
+"[""{d see, } {c and } [ i don't know, +   i don't know ] i can't tell the future that's what scares me so much about it.  /""]",d see  c and   i dont know    i dont know  i cant tell the future thats what scares me so much about it  ,sd,FEMALE,1
+['{e i mean }  i thought the war was going to go on and  on.  /'],e i mean   i thought the war was going to go on and  on  ,sv,FEMALE,3
+['i really was surprised when it ended so  quickly  /'],i really was surprised when it ended so  quickly  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['{d well, } we hit them with more in  one month than we used in [ three years, +  the last three years ] of vietnam. /']",d well  we hit them with more in  one month than we used in  three years   the last three years  of vietnam ,sd,MALE,1
+['i know.  /'],i know  ,sd,FEMALE,1
+['yeah. /'],yeah ,aa,FEMALE,4
+['{c and } whenever you strike on  open terrain with that sheer volume --'],c and  whenever you strike on  open terrain with that sheer volume ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- there's nothing they can do about it. /""]", theres nothing they can do about it ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"[""{d you know } it's not like we <breathing>   threw eight aircraft over there all by ourselves and said this is wrong. /""]",d you know  its not like we breathing   threw eight aircraft over there all by ourselves and said this is wrong ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['we were there,  /']",we were there  ,sd,MALE,1
+['the brits were there. /'],the brits were there ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['the french were there.  /'],the french were there  ,sd,MALE,1
+['this is with u n backing -- /'],this is with u n backing  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- <breathing>  {c and } to some level even russia was behind. /'], breathing  c and  to some level even russia was behind ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"['right,  /']",right  ,aa,FEMALE,4
+['they were. /'],they were ,sd,FEMALE,1
+"['{c so } honestly if there [ is, +  was ]  a well perceived war, world wide this was it. /']",c so  honestly if there  is   was   a well perceived war world wide this was it ,sv,MALE,3
+"['{f oh, } sure.  /']",f oh  sure  ,aa,FEMALE,4
+['sure. /'],sure ,aa,FEMALE,4
+"[""{c but } what i can't understand is  then many of the kuwaiti youth [ didn't fight, +  wouldn't fight. ] /""]",c but  what i cant understand is  then many of the kuwaiti youth  didnt fight   wouldnt fight  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's okay for us to go extend our youth's  lives like so much water in the desert. /""]",its okay for us to go extend our youths  lives like so much water in the desert ,sv,MALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } it's not their job to fight for their own land. /""]",c and  its not their job to fight for their own land ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""[ that is very +  <laughter> it's very ]  strange.  /""]", that is very   laughter its very   strange  ,sv,FEMALE,3
+"[""{f uh, } {c and } yet, {d you know, } see that's another thing [ that, +  that's ]  difficult for americans,  /""]",f uh  c and  yet d you know  see thats another thing  that   thats   difficult for americans  ,sv,FEMALE,3
+"['their culture is so much different than ours, {d you know, }  /']",their culture is so much different than ours d you know   ,sd,FEMALE,1
+"[""i've heard from many people that we could not even [ begi-, +  begin ] to understand  how they feel about things because their values and their perceptions are so  much different than ours  /""]",ive heard from many people that we could not even  begi   begin  to understand  how they feel about things because their values and their perceptions are so  much different than ours  ,sd,FEMALE,1
+"[""{c and, } {f um, } they just don't think the same way we do.  /""]",c and  f um  they just dont think the same way we do  ,sv,FEMALE,3
+['their culture is completely different and almost opposite. /'],their culture is completely different and almost opposite ,sv,FEMALE,3
+"['{c and } really [ from all i can indica-, +   from all indications ] the iraqi beliefs, if you will, are more similar to our own. /']",c and  really  from all i can indica    from all indications  the iraqi beliefs if you will are more similar to our own ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['<laughter>.'],laughter,x,MALE,8
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"[""{c and } the kuwaitis aren't even  helping rebuild their own country.  /""]",c and  the kuwaitis arent even  helping rebuild their own country  ,sd,MALE,1
+"[""the kuwaiti young won't rebuild anything.  /""]",the kuwaiti young wont rebuild anything  ,sv,MALE,3
+"[""they won't work. /""]",they wont work ,sv,MALE,3
+"[""{f uh, } i didn't realize that. /""]",f uh  i didnt realize that ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['it was on the news last night. /'],it was on the news last night ,sd,MALE,1
+"['{f oh, } my word. /']",f oh  my word ,ba,FEMALE,6
+"['the, {f uh, } u s army is doing it all. /']",the f uh  u s army is doing it all ,sd,MALE,1
+"['{f uh, } yeah.  /']",f uh  yeah  ,b,FEMALE,2
+"[""{d see } {c and }  that's another question you have to ask, is this our job?  /""]",d see  c and   thats another question you have to ask is this our job  ,sv,FEMALE,3
+"['[ [ is, +  are we, ] +  should we ]  still be there even, {d you know? }  /']",  is   are we    should we   still be there even d you know   ,qy,FEMALE,7
+"[""i don't know the answers to those questions.  /""]",i dont know the answers to those questions  ,sd,FEMALE,1
+"[""i think they're tough  /""]",i think theyre tough  ,sv,FEMALE,3
+"[""{c and } i think, {d you know, } it's, - /""]",c and  i think d you know  its  ,sv,FEMALE,3
+"[""i don't know that anybody knows the answers.  /""]",i dont know that anybody knows the answers  ,sv,FEMALE,3
+['i think they know what they believe  /'],i think they know what they believe  ,sv,FEMALE,3
+"[""{c but } i'm not sure they  really are one hundred percent sure. /""]",c but  im not sure they  really are one hundred percent sure ,sd,FEMALE,1
+"['{d well, } they talked to one kuwaiti woman yesterday. /']",d well  they talked to one kuwaiti woman yesterday ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } her biggest concern in life  was that she couldn't get a housekeeper. /""]",c and  her biggest concern in life  was that she couldnt get a housekeeper ,sd,MALE,1
+"[""you're kidding.  /""]",youre kidding  ,ba,FEMALE,6
+"[""that's unreal. /""]",thats unreal ,sv,FEMALE,3
+"['{c and, } do you have a housekeeper? /']",c and  do you have a housekeeper ,qy,MALE,7
+['no <laughter>.  /'],no laughter  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"[""{c and } don't plan on having one either, ever. /""]",c and  dont plan on having one either ever ,sd,FEMALE,1
+"[""{d well, } i wouldn't mind having one. /""]",d well  i wouldnt mind having one ,sd,MALE,1
+"[""{f oh, } i'd love to have one  /""]",f oh  id love to have one  ,sd,FEMALE,1
+"['{c but, } {d you know. } -/']",c but  d you know  ,%,FEMALE,5
+"[""{c but, } {d you know, } i'd like  to make sure that i have a job tomorrow first. /""]",c but  d you know  id like  to make sure that i have a job tomorrow first ,sd,MALE,1
+['sure.  /'],sure  ,aa,FEMALE,4
+['sure.  /'],sure  ,aa,FEMALE,4
+"[""that's right.  /""]",thats right  ,sv,FEMALE,3
+"[""that's right. /""]",thats right ,sv,FEMALE,3
+"['[ it, +  it ] astound,  /']", it   it  astound  ,sv,MALE,3
+"['you realize that the kuwaiti government gives every kuwaiti man, woman, and child money. /']",you realize that the kuwaiti government gives every kuwaiti man woman and child money ,qy^d,MALE,16
+"['{f uh, } no.  /']",f uh  no  ,nn,FEMALE,13
+"[""[ i wasn't, +  i [ didn't,  +  wasn't ] ] aware of that,  /""]", i wasnt   i  didnt    wasnt   aware of that  ,sd,FEMALE,1
+['no. /'],no ,nn,FEMALE,13
+['for nothing. /'],for nothing ,sd,MALE,1
+"['for doing nothing,  /']",for doing nothing  ,b,FEMALE,2
+['yeah. /'],yeah ,%,FEMALE,5
+"['[ for noth-, +  [ for, +  for ] doing nothing. ]  /']", for noth    for   for  doing nothing   ,sd,MALE,1
+['for sitting on there kiesters. /'],for sitting on there kiesters ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f oh, } that ought to give their  programming trouble shouldn't it? /""]",f oh  that ought to give their  programming trouble shouldnt it ,qy,MALE,7
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f uh, } they do nothing.  /']",f uh  they do nothing  ,sd,MALE,1
+['they hand them money each year  /'],they hand them money each year  ,sd,MALE,1
+"[""{c and } they're part of, -/""]",c and  theyre part of ,%,MALE,5

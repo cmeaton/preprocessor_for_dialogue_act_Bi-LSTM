@@ -1,0 +1,196 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['what, {f um, } - /']",what f um   ,%,FEMALE,5
+['do you watch much t v  /'],do you watch much t v  ,qy,FEMALE,7
+"['{c or, } {d you know. } -/']",c or  d you know  ,%,FEMALE,5
+"['{f um, } no,  /']",f um  no  ,nn,FEMALE,13
+"[""i don't watch much t v.  /""]",i dont watch much t v  ,sd,FEMALE,1
+"['[ sometimes, + {f um, }  usually  ] the reason i will turn it on is to hear the news. /']", sometimes  f um   usually   the reason i will turn it on is to hear the news ,sd,FEMALE,1
+"['the news,  /']",the news  ,b^m,FEMALE,24
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but } i don't think of that every day, # even. # /""]",c but  i dont think of that every day  even  ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['{f um, } i think i get most of my current events, - /']",f um  i think i get most of my current events  ,sd,FEMALE,1
+"['{d well, } i get them from everywhere.  /']",d well  i get them from everywhere  ,sd,FEMALE,1
+"['i sometimes watch t v if i, - /']",i sometimes watch t v if i  ,sd,FEMALE,1
+"[""i guess i watch t v if i haven't read the paper that day.  /""]",i guess i watch t v if i havent read the paper that day  ,sd,FEMALE,1
+"[""we don't get a paper  /""]",we dont get a paper  ,sd,FEMALE,1
+"['{c but } i work, {f um, } at a, - /']",c but  i work f um  at a  ,sd,FEMALE,1
+['i teach a college class  /'],i teach a college class  ,sd,FEMALE,1
+"['{c and, }  {f uh } -- -/']",c and   f uh   ,%,FEMALE,5
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"[""-- there's a, - /""]", theres a  ,%,FEMALE,5
+['the library has a paper.  /'],the library has a paper  ,sd,FEMALE,1
+['{c and so } i often drop in on a break  [ and -- +'],c and so  i often drop in on a break   and  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- and ] read it.  /'], and  read it  ,+,FEMALE,0
+"[""{c and } i keep the radio on quite a bit when i'm home. /""]",c and  i keep the radio on quite a bit when im home ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and then } [ i, + i ] figure if there's [ big, + big ] news, i'll hear it from my husband when he gets home  or,""]",c and then   i  i  figure if theres  big  big  news ill hear it from my husband when he gets home  or,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['someone else, {d you know. } /']",someone else d you know  ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d now } i also, - /']",d now  i also  ,sd,FEMALE,1
+['i get it from all over.  /'],i get it from all over  ,sd,FEMALE,1
+"['i watch the news every day,  /']",i watch the news every day  ,sd,FEMALE,1
+"['{c and } [ i ha-, + we have  ] a news, - /']",c and   i ha  we have   a news  ,sd,FEMALE,1
+"['{d you know, } we get the newspaper,  and, {f uh } --']",d you know  we get the newspaper  and f uh  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f um, } magazines,  [ an-, + anything.  ]  /']", f um  magazines   an  anything    ,+,FEMALE,0
+"[""{d you know, } i'm, - /""]",d you know  im  ,%,FEMALE,5
+"['i read a lot,  /']",i read a lot  ,sd,FEMALE,1
+"['{c so } i get, - /']",c so  i get  ,%,FEMALE,5
+"[""{f um, } {d you know, } [ i'm, + i'm ] really up on, {f uh, } current affairs.  /""]",f um  d you know   im  im  really up on f uh  current affairs  ,sd,FEMALE,1
+"['i get, {d you know } --']",i get d you know  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- the news [ and, + and ] everything. /']", the news  and  and  everything ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""what's your favorite news,  /""]",whats your favorite news  ,qw,FEMALE,12
+['do you get a news magazine  /'],do you get a news magazine  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"[""{f um, } {d well, } i'm not getting an-, - /""]",f um  d well  im not getting an  ,ng,FEMALE,29
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i'm not getting any news magazines -- /""]",im not getting any news magazines  ,ng,FEMALE,29
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but, }  {f um, } {d you know, } [ as, + as ] i said, i do, - /']", c but   f um  d you know   as  as  i said i do  ,sd,FEMALE,1
+"[""[ it's, + {f uh, } it's ] easy to keep up on current event-,  {d you know } --""]", its  f uh  its  easy to keep up on current event  d you know  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- [ on cert-, + ] --']",  on cert   ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""we've got. -/""]",weve got ,%,FEMALE,5
+"['-- {d you know, } especially when [ you, + {f um } --']", d you know  especially when  you  f um  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {d you know, } you ] get a paper every day. /']", d you know  you  get a paper every day ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['exactly. /'],exactly ,aa,FEMALE,4
+"['{c and, }  {f uh. } -/']",c and   f uh  ,%,FEMALE,5
+['are you satisfied with the quality of coverage? /'],are you satisfied with the quality of coverage ,qy,FEMALE,7
+"[""{f uh, } i don't know <laughter>.  /""]",f uh  i dont know laughter  ,no,FEMALE,31
+['is there anything missing?  /'],is there anything missing  ,bh,FEMALE,18
+"['i, {d you know, } <laughter>. -/']",i d you know  laughter ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""it's kind of hard to know. /""]",its kind of hard to know ,sv,FEMALE,3
+"[""{c and } i don't know, {d you know, } [ [ what, + what's, ] + {e i mean, } what ] are we supposed to, {f uh, } compare it to <laughter> --""]",c and  i dont know d you know    what  whats   e i mean  what  are we supposed to f uh  compare it to laughter ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {d you know, } {e i mean, } the quality, {f uh, } - /']", d you know  e i mean  the quality f uh   ,+,FEMALE,0
+"['whatever they tell you, - /']",whatever they tell you  ,sv,FEMALE,3
+"[""{d you know, } [ i, + {f uh, } <inhaling> i ] guess [ [ i, + i, ] + {d you know, } i'm ] satisfied.  /""]",d you know   i  f uh  inhaling i  guess   i  i   d you know  im  satisfied  ,sd,FEMALE,1
+"['{e i mean, } i, - /']",e i mean  i  ,%,FEMALE,5
+"[""{f uh, } {d you  know, } [ they, + they're ] supposedly covering everything that happens,  /""]",f uh  d you  know   they  theyre  supposedly covering everything that happens  ,sd,FEMALE,1
+['{c so } <laughter> -- -/'],c so  laughter  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['-- {d you know. } -/'], d you know  ,%,FEMALE,5
+"['{d well, } i do feel [ like, + a little bit like, ] - /']",d well  i do feel  like  a little bit like   ,sv,FEMALE,3
+['being from california and wanting to hear {d like } - /'],being from california and wanting to hear d like   ,sd,FEMALE,1
+"[""i've heard through the grapevine sometimes that there's been an earthquake or sliding or something,  /""]",ive heard through the grapevine sometimes that theres been an earthquake or sliding or something  ,sd,FEMALE,1
+['{c and } -- -/'],c and   ,%,FEMALE,5
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+"[""-- i don't ever hear it in the news here. /""]", i dont ever hear it in the news here ,sd,FEMALE,1
+['# oh. # /'], oh  ,b,FEMALE,2
+['#  ((   ))  # {f um. } /'],        f um  ,%,FEMALE,5
+"[""{d well, } {f uh, } sometimes it's such a, - /""]",d well  f uh  sometimes its such a  ,%,FEMALE,5
+"[""{d you know, } [ [ it's, + it's  so, {f um, } slight, ] + {d you know } {d like } --""]",d you know    its  its  so f um  slight   d you know  d like  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- the tremors are so slight ] that they don't even bother putting it in the --""]", the tremors are so slight  that they dont even bother putting it in the ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['-- paper.  /'], paper  ,+,FEMALE,0
+"[""{c but } most of [ the ti-, + the times ] i find that even if  [ there are, + {d you know, } they do have  ] {d like } tremors out there, {d you know, } there'll be a small article in the paper about it. /""]",c but  most of  the ti  the times  i find that even if   there are  d you know  they do have   d like  tremors out there d you know  therell be a small article in the paper about it ,sd,FEMALE,1
+['yeah  -- /'],yeah   ,b,FEMALE,2
+"['{c but, }  {f uh. } -/']",c but   f uh  ,%,FEMALE,5
+"['-- yeah,  /']", yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['i sometimes feel like, {f um, } the dallas paper and the dallas news, {f um, } the top headlines are always a murder, {d you know. } /']",i sometimes feel like f um  the dallas paper and the dallas news f um  the top headlines are always a murder d you know  ,sv,FEMALE,3
+"['{f oh, } {d well. }']",f oh  d well ,sv,FEMALE,3
+['[ that -- +'], that  ,sv,FEMALE,3
+"[""# that's what sells papers. # /""]", thats what sells papers  ,+,FEMALE,0
+"[""-- # that's ] because there's a high # crime rate.  /""]",  thats  because theres a high  crime rate  ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['yeah. /'],yeah ,b,FEMALE,2
+"[""[ that's, + {f um, } that's ] been like that since [ they, + ]   the first newspaper, {d you know } <laughter>. /""]", thats  f um  thats  been like that since  they     the first newspaper d you know  laughter ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i'm sure. /""]",im sure ,ba,FEMALE,6
+"[""{d you know, }  {c but, } {f um, } i don't know.  /""]",d you know   c but  f um  i dont know  ,h,FEMALE,15
+"[""[ i, + i ] guess i'm satisfied,  /""]", i  i  guess im satisfied  ,sv,FEMALE,3
+"[""i don't, {f uh. } -/""]",i dont f uh  ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{e i mean, } what basis, {d you know, } of comparison do we have really? /']",e i mean  what basis d you know  of comparison do we have really ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['really. /'],really ,b,FEMALE,2
+"[""we don't get a, {d you know. } -/""]",we dont get a d you know  ,%,FEMALE,5
+"[""that's true.  /""]",thats true  ,ba,FEMALE,6
+['we certainly get enough coverage.  /'],we certainly get enough coverage  ,sv,FEMALE,3
+"['{e i mean, } [ we, + we ] can get news,  /']",e i mean   we  we  can get news  ,sd,FEMALE,1
+"[""{d you know, } {e i mean, } there's  even the c n n channel --""]",d you know  e i mean  theres  even the c n n channel ,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+['i was going to. -/'],i was going to ,%,FEMALE,5
+['-- where we can get world news twenty-four hours a day. /'], where we can get world news twentyfour hours a day ,+,FEMALE,0
+"['sure,  /']",sure  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""sometimes you don't even want to be bothered with the news because it's all so bad <laughter>. /""]",sometimes you dont even want to be bothered with the news because its all so bad laughter ,sv,FEMALE,3
+['yeah <laughter>. /'],yeah laughter ,b,FEMALE,2
+"[""it's all so negative, {d you know. } /""]",its all so negative d you know  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['# often times. # /'], often times  ,sv,FEMALE,3
+['# {c but. }  # -/'], c but    ,%,FEMALE,5
+['{c so. }   yeah. /'],c so    yeah ,b,FEMALE,2
+"['{d well, } we have to keep talking, i guess <laughter>. /']",d well  we have to keep talking i guess laughter ,sv,FEMALE,3
+"['{d well, } no,  /']",d well  no  ,ar,FEMALE,28
+['i guess we can end. /'],i guess we can end ,sv,FEMALE,3
+['# oh. # /'], oh  ,b,FEMALE,2
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+"[""# it's just whenever we're, {f um. } -/""]", its just whenever were f um  ,sv,FEMALE,3
+"['{f oh, } is it really? /']",f oh  is it really ,bh,FEMALE,18
+['yeah.  /'],yeah  ,ny,FEMALE,9
+['have you always gone until the recording? /'],have you always gone until the recording ,qy,FEMALE,7
+"['{d well, } yeah,  /']",d well  yeah  ,ny,FEMALE,9
+"[""[ i don't, + i don't, ] {f uh, } <laughter>. -/""]", i dont  i dont  f uh  laughter ,%,FEMALE,5
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""i guess we're not supposed to <laughter>. /""]",i guess were not supposed to laughter ,sv,FEMALE,3
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+"[""[ we're sup-, -- +""]", were sup  ,sv,FEMALE,3
+"[""-- i guess we're supposed ] to wait  /""]", i guess were supposed  to wait  ,+,FEMALE,0
+['{c or } <laughter> --'],c or  laughter ,h,FEMALE,15
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- i don't know. /""]", i dont know ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c becau-, }  i, - /']",c becau   i  ,%,FEMALE,5
+"['{d you know, } {d like } one, {f uh, }  {d well, } - /']",d you know  d like  one f uh   d well   ,%,FEMALE,5
+"['was it last week, we were supposed to talk about gardening -- /']",was it last week we were supposed to talk about gardening  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } <laughter> {c and } it was really funny,  /']", f uh  laughter c and  it was really funny  ,sd,FEMALE,1
+"['[ [ i, + i, ] + i ] mixed it, made the call,  /']",  i  i   i  mixed it made the call  ,sd,FEMALE,1
+['{c and } it happened to be my friend who lives <laughter> a few blocks away. /'],c and  it happened to be my friend who lives laughter a few blocks away ,sd,FEMALE,1
+"['{f oh, } really. /']",f oh  really ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['{c and } it was really. - /'],c and  it was really  ,%,FEMALE,5
+"['we were laughing,  /']",we were laughing  ,sd,FEMALE,1
+"[""{e i mean. }  {c but, } {d you know, } we don't really do any gardening,  /""]",e i mean   c but  d you know  we dont really do any gardening  ,sd,FEMALE,1
+"['{c so } {d like, }  that took like a minute -- /']",c so  d like   that took like a minute  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and then } we just talked about, {d you know, } whatever, {e i mean. } /']", c and then  we just talked about d you know  whatever e i mean  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['interesting.  /'],interesting  ,ba,FEMALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, } {e i mean, } some topics, - /']",d you know  e i mean  some topics  ,%,FEMALE,5
+"['really [ now, + {d you know, } now, ] this topic, this is, {e i mean, } - /']",really  now  d you know  now  this topic this is e i mean   ,%,FEMALE,5
+"[""there really isn't much to say after <laughter> --""]",there really isnt much to say after laughter ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {d you know, } [ [ you, + {f uh, } {d you know, } you, ] + you ] tell the person  [ what, {f uh, } news   there, +  {f uh, } {d you know, } [ where their, + where they ] find their sources of information from -- ] /']", d you know    you  f uh  d you know  you   you  tell the person   what f uh  news   there   f uh  d you know   where their  where they  find their sources of information from   ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- {c and then, } {d you know, } [ if it's, + {f uh, } if ] they're satisfied, - /""]", c and then  d you know   if its  f uh  if  theyre satisfied  ,sv,FEMALE,3
+"[""{c and } that's about it, really. /""]",c and  thats about it really ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's hard to talk for five minutes on this <laughter>. /""]",its hard to talk for five minutes on this laughter ,sv,FEMALE,3
+['yeah <laughter>. /'],yeah laughter ,b,FEMALE,2
+"['{d so, }  {f um. } -/']",d so   f um  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } i guess i can just say [ i, + ] it bothers me that i hear a lot [ about, + ] {f um, } {d you know, } on the news that, - /']",d well  i guess i can just say  i   it bothers me that i hear a lot  about   f um  d you know  on the news that  ,sv,FEMALE,3
+"[""{d well, } it seems like, {a i don't know, } some things are sensationalized  or some things are, {f um, }  /""]",d well  it seems like a i dont know  some things are sensationalized  or some things are f um   ,sv,FEMALE,3
+"[""{d you know, } you'll hear one report  /""]",d you know  youll hear one report  ,sd,FEMALE,1
+"[""{c and then } you'll hear that [ it, + ] {d you know, } they didn't, {f um. } -/""]",c and then  youll hear that  it   d you know  they didnt f um  ,sd,FEMALE,1

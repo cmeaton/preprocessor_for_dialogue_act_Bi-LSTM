@@ -1,0 +1,95 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['<click> {c and } you say you have some strong feelings  about, {f uh, } the issue? /']",click c and  you say you have some strong feelings  about f uh  the issue ,qy,MALE,7
+"['<tv> {f uh, } yes  /']",tv f uh  yes  ,ny,FEMALE,9
+"['i do [ [ as far as, + {f uh, } as far as, ] +  {f uh, } as far as ] immigration as a whole goes. /']",i do   as far as  f uh  as far as    f uh  as far as  immigration as a whole goes ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['i think that, {f uh, } we simply must start accepting  everybody in the world. /']",i think that f uh  we simply must start accepting  everybody in the world ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, }  i, - /']",f uh   i  ,%,FEMALE,5
+['there just is not going to be  room for all of us.  /'],there just is not going to be  room for all of us  ,sv,FEMALE,3
+"[""we don't have jobs now.  /""]",we dont have jobs now  ,sv,FEMALE,3
+"[""[ [ i, + i ]  think, + {f uh, } i think ] when we  come to a time of recession that it's particularly important that we shut our doors at that time.  /""]",  i  i   think  f uh  i think  when we  come to a time of recession that its particularly important that we shut our doors at that time  ,sv,FEMALE,3
+"[""{f uh, } i hope you're one of the employed right now. /""]",f uh  i hope youre one of the employed right now ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,ny,MALE,9
+['i am one of the unemployed right now. /'],i am one of the unemployed right now ,sd,FEMALE,1
+['<throat_clearing>.'],throatclearing,x,MALE,8
+['i was a systems analysis and programmer  for an oil company  /'],i was a systems analysis and programmer  for an oil company  ,sd,FEMALE,1
+"['{c and, }  {f uh, } i applied for one set of jobs with a company here in dallas that they had two hundred openings  /']",c and   f uh  i applied for one set of jobs with a company here in dallas that they had two hundred openings  ,sd,FEMALE,1
+['{c but } they had two thousand applications. /'],c but  they had two thousand applications ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c and } i know that there are a lot of  foreigners, {f uh, } here, {d you know, } doing my line of work. /']",c and  i know that there are a lot of  foreigners f uh  here d you know  doing my line of work ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and, }  of course, i'm not perfectly happy about not having a job. /""]",c and   of course im not perfectly happy about not having a job ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{d so, } how do you feel? /']",d so  how do you feel ,qo,FEMALE,25
+"[""{d well, } i'm a little bit ambivalent.  /""]",d well  im a little bit ambivalent  ,sd,MALE,1
+"['[ the problem  with, + {f uh, } {c and } i think one of the problems with ] immigration policy is like any other  political problem is that people are not willing to discuss it, {f uh, } [ in, + in ]   terms of what, {f uh, }  really is driving it.  /']", the problem  with  f uh  c and  i think one of the problems with  immigration policy is like any other  political problem is that people are not willing to discuss it f uh   in  in    terms of what f uh   really is driving it  ,sv,MALE,3
+"[""they're not willing to tell the truth.    the same way with, {f uh, } issues of, {f uh, } race and things like that  <throat_clearing>.  /""]",theyre not willing to tell the truth    the same way with f uh  issues of f uh  race and things like that  throatclearing  ,sv,MALE,3
+"['{e i mean } right now, {f uh, } i believe there are two  policies [ that, + {f uh, } that ] the government uses to modulate immigration. three actually.  /']",e i mean  right now f uh  i believe there are two  policies  that  f uh  that  the government uses to modulate immigration three actually  ,sv,MALE,3
+"['one is at the high end, {f uh, }  /']",one is at the high end f uh   ,sv,MALE,3
+"['they always want to be able to, {f uh, }  do some brain draining.  /']",they always want to be able to f uh   do some brain draining  ,sv,MALE,3
+"['they always like  to be able to attract the, {f uh, } einsteins or  the professor chou  /']",they always like  to be able to attract the f uh  einsteins or  the professor chou  ,sv,MALE,3
+"['{c or, } {d you know. } -/']",c or  d you know  ,%,MALE,5
+['right </tv>. /'],right tv ,b,FEMALE,2
+"[""they'd like to be able to get the top people  in any field  /""]",theyd like to be able to get the top people  in any field  ,sv,MALE,3
+['{c and so } they can almost always find room for someone like that.  /'],c and so  they can almost always find room for someone like that  ,sv,MALE,3
+"['at the bottom end, they, {f uh, }']",at the bottom end they f uh ,sv,MALE,3
+['<rustling>.'],rustling,x,FEMALE,8
+"['are always willing to, {f uh, }  let in cheap labor <throat_clearing> if it lowers the cost of doing business in some particular area and has strong support from the,']",are always willing to f uh   let in cheap labor throatclearing if it lowers the cost of doing business in some particular area and has strong support from the,+,MALE,0
+['<clicking>.'],clicking,x,FEMALE,8
+['powerful people in that area.  /'],powerful people in that area  ,+,MALE,0
+"[""those are  two things that i think are going on. although [ they, + [ i, + i ] ] don't think the politicians  would tell you that. /""]",those are  two things that i think are going on although  they   i  i   dont think the politicians  would tell you that ,sv,MALE,3
+['okay  /'],okay  ,b,FEMALE,2
+"[""{c and } i think you're right in both cases. /""]",c and  i think youre right in both cases ,aa,FEMALE,4
+"['{c and then } the,']",c and then  the,sv,MALE,3
+['</clicking>.'],clicking,x,FEMALE,8
+"['third thing is, {f uh, } the political aspect of,  {f uh, } {f uh, } letting steam come out from under the lid in mexico <throat_clearing>.  /']",third thing is f uh  the political aspect of  f uh  f uh  letting steam come out from under the lid in mexico throatclearing  ,+,MALE,0
+"[""they cannot close off the mexican border.  not because it's physically impossible  but because the explosion that would take place in mexico [ would be, + {f uh, } {f uh, }""]",they cannot close off the mexican border  not because its physically impossible  but because the explosion that would take place in mexico  would be  f uh  f uh ,sv,MALE,3
+['<noise> <<sounds like water running>>.'],noise sounds like water running,x,FEMALE,8
+['would spill ] over to this country  /'],would spill  over to this country  ,+,MALE,0
+"['{c so } they keep   allowing, {f uh, } the pressure cooker to let off steam. /']",c so  they keep   allowing f uh  the pressure cooker to let off steam ,sv,MALE,3
+"[""</noise> {c and } i think probably it's  pretty important right there.  /""]",noise c and  i think probably its  pretty important right there  ,sv,FEMALE,3
+['how do you feel about haitian immigration? /'],how do you feel about haitian immigration ,qo,FEMALE,25
+"[""{f uh, } <throat_clearing> that's one of the few  things i guess <laughter> i found myself in agreement with pat buchanan <throat_clearing>.  /""]",f uh  throatclearing thats one of the few  things i guess laughter i found myself in agreement with pat buchanan throatclearing  ,sd,MALE,1
+"[""i think they're a very difficult group to integrate into, {f uh, }  society.  /""]",i think theyre a very difficult group to integrate into f uh   society  ,sv,MALE,3
+"[""they're very difficult, {f uh, } group to find jobs  [ and, + {f uh, }  and, ] {f uh, } places for.  /""]",theyre very difficult f uh  group to find jobs   and  f uh   and  f uh  places for  ,sv,MALE,3
+"[""{c and so, } {f uh, } {f uh, } i don't deny that we may have been involved in  causing the problem [ that, + {f uh, } in that ] they're pretty miserable where  they are.  /""]",c and so  f uh  f uh  i dont deny that we may have been involved in  causing the problem  that  f uh  in that  theyre pretty miserable where  they are  ,sv,MALE,3
+"[""{c but } i'm not to sympathetic about, {f uh, } letting large numbers of haitians in. /""]",c but  im not to sympathetic about f uh  letting large numbers of haitians in ,sd,MALE,1
+"['{d actually, } {d actually } i feel that if we accepted  these people that we would eventually have almost the total population here. /']",d actually  d actually  i feel that if we accepted  these people that we would eventually have almost the total population here ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['{c and } it would have nothing to do with political  situations.  /'],c and  it would have nothing to do with political  situations  ,sv,FEMALE,3
+['it would have to do with poverty. /'],it would have to do with poverty ,sv,FEMALE,3
+['right.  /'],right  ,aa,MALE,4
+"[""{c but } [ if you let them,  + {d yeah. }   if you let them ] in a million at a time, [ it wouldn't make that, + {d you know, } it wouldn't make that ]  big a bulge in the population. but --""]",c but   if you let them   d yeah    if you let them  in a million at a time  it wouldnt make that  d you know  it wouldnt make that   big a bulge in the population but ,sv,MALE,3
+"['{f oh, } my gosh. /']",f oh  my gosh ,ba,FEMALE,6
+"['-- [ po-, + politically ] # and economically. # /']",  po  politically   and economically  ,+,MALE,0
+"['# [ have you been, +  # have you been ] to southern florida? /']",  have you been    have you been  to southern florida ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+['{d well } i know about it.  /'],d well  i know about it  ,sd,MALE,1
+"[""{f uh, } {e i mean }  [ it's, + it is ] now with haitians the way it was with cubans, {f uh, } # twenty years ago. # /""]",f uh  e i mean    its  it is  now with haitians the way it was with cubans f uh   twenty years ago  ,sv,MALE,3
+"['# {d well, } {e i mean } # {c and } the two of them together.  /']", d well  e i mean   c and  the two of them together  ,sv,FEMALE,3
+"['{e i mean } we can, - /']",e i mean  we can  ,%,FEMALE,5
+"[""it's just as well <laughter> {d you know, }  /""]",its just as well laughter d you know   ,sv,FEMALE,3
+"[""it's hardly america anymore. /""]",its hardly america anymore ,sv,FEMALE,3
+"[""on the other hand, {d you know, } <sigh>  the ironic thing about this is that there's nobody more full of the <laughter>  entrepreneurial american spirit than our first generation immigrant </laughter>.  /""]",on the other hand d you know  sigh  the ironic thing about this is that theres nobody more full of the laughter  entrepreneurial american spirit than our first generation immigrant laughter  ,sv,MALE,3
+"[""{c so }  [ there's, + {f uh, } there's ] a lot to be said for having a steady stream of people who know how it is someplace else coming in. /""]",c so    theres  f uh  theres  a lot to be said for having a steady stream of people who know how it is someplace else coming in ,sv,MALE,3
+"[""{c but } there's some differences in the immigrants,""]",c but  theres some differences in the immigrants,sv,FEMALE,3
+['<noise>.'],noise,x,MALE,8
+"[""[ that, + that ] we're getting now.  /""]", that  that  were getting now  ,+,FEMALE,0
+['# {d well } # --'], d well   ,sd,FEMALE,1
+['# right. # /'], right  ,b,MALE,2
+['-- i particularly have a problem with the illegal immigration. /'], i particularly have a problem with the illegal immigration ,+,FEMALE,0
+['sure. /'],sure ,aa,MALE,4
+"['i think,']",i think,aa,FEMALE,4
+['<noise>.'],noise,x,MALE,8
+"['probably [ your, +  a great deal of what you ] say  is true about the legals. /']",probably  your   a great deal of what you  say  is true about the legals ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"['{c but, }  {f uh, }']",c but   f uh ,sv,FEMALE,3
+['<noise>.'],noise,x,MALE,8
+"[""the majority of the illegal immigration  we're getting now, they do not come here to blend into america.  /""]",the majority of the illegal immigration  were getting now they do not come here to blend into america  ,+,FEMALE,0
+"[""{f uh, } [ they, + they ] don't  bother to learn our language  /""]",f uh   they  they  dont  bother to learn our language  ,sv,FEMALE,3
+"['{c and, }  {f uh, } first of all, [ th-, + they, ] - /']",c and   f uh  first of all  th  they   ,%,FEMALE,5
+"[""{e i'm sorry, }   [ this, +   i really feel strongly about this. ] /""]",e im sorry     this    i really feel strongly about this  ,fa,FEMALE,42
+['uh-huh. /'],uhhuh ,b,MALE,2
+['we send a lot of money to mexico. /'],we send a lot of money to mexico ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2

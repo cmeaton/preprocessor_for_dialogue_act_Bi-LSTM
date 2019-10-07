@@ -1,0 +1,214 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{f uh, } kate, [ what kind of, + ] {f uh, } where do you like to eat out? /']",f uh  kate  what kind of   f uh  where do you like to eat out ,qw,FEMALE,12
+"['{d well, } [ we, + {f uh, } we ] really like the mexican food, {d you know, } here in texas -- /']",d well   we  f uh  we  really like the mexican food d you know  here in texas  ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['-- [ {c and, } + {f uh, } {c so } ] we try and go around to different mexican restaurants trying them out,  /']",  c and   f uh  c so   we try and go around to different mexican restaurants trying them out  ,sd,FEMALE,1
+"[""{c and so, } {f uh, } tia's is probably our favorite, {f uh, } restaurant there,  /""]",c and so  f uh  tias is probably our favorite f uh  restaurant there  ,sd,FEMALE,1
+"['{c and } i think they have one of the best services [ that, + {f uh, } that ] we really like  it. /']",c and  i think they have one of the best services  that  f uh  that  we really like  it ,sd,FEMALE,1
+['do you?  /'],do you  ,bh,FEMALE,18
+['have you tried mother mesquites? /'],have you tried mother mesquites ,qy,FEMALE,7
+['no.  /'],no  ,nn,FEMALE,13
+"[""where's that at? /""]",wheres that at ,qw,FEMALE,12
+"[""that's at skillman and l b j -- /""]",thats at skillman and l b j  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- there is, - /']", there is  ,sd,FEMALE,1
+"[""it's where skillman, {f uh, } curves into forest lane -- /""]",its where skillman f uh  curves into forest lane  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } it's real good mexican food.  /""]", c and  its real good mexican food  ,sd,FEMALE,1
+"[""another real good one is, {f uh, } rafael's down on mckinney avenue. /""]",another real good one is f uh  rafaels down on mckinney avenue ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""they're both very good. /""]",theyre both very good ,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{f oh, } that, {f uh, }  /']",f oh  that f uh   ,%,FEMALE,5
+"['no,  /']",no  ,%,FEMALE,5
+"[""we haven't explored, {f uh, } {d you know, } too many places.  /""]",we havent explored f uh  d you know  too many places  ,sd,FEMALE,1
+"['{f um, } {d you know, } lot of the big name brand, i guess, {f uh, } chains -- /']",f um  d you know  lot of the big name brand i guess f uh  chains  ,sd,FEMALE,1
+"['chains,  /']",chains  ,b^m,FEMALE,24
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- yeah,  /']", yeah  ,b,FEMALE,2
+"[""{c but, } {f um, } {f oh, } we've tried places, {d you know, } down, {f uh, } by the collin creek mall,  /""]",c but  f um  f oh  weve tried places d you know  down f uh  by the collin creek mall  ,sd,FEMALE,1
+"['the, {f uh, } {d you know, } alvarez,  /']",the f uh  d you know  alvarez  ,sd,FEMALE,1
+"[""{c and, } {f um, } {f gosh } we tried, what was across the street, el paso's --""]",c and  f um  f gosh  we tried what was across the street el pasos ,sd,FEMALE,1
+"[""{f oh, } el chico's or el fenix --""]",f oh  el chicos or el fenix ,^2,FEMALE,23
+"[""-- el chico's or something,  /""]", el chicos or something  ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['[ something -- +'], something  ,aap_am,FEMALE,39
+"['-- one,  /']", one  ,+,FEMALE,0
+['uh-huh /'],uhhuh ,b,FEMALE,2
+"['-- something ] like that,  /']", something  like that  ,+,FEMALE,0
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{d well, } i like tia's better than i do el chico's or el fenix. /""]",d well  i like tias better than i do el chicos or el fenix ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f uh, } much better.  /']",f uh  much better  ,sd,FEMALE,1
+"[""{f uh, } mother mesquite's is one of our favorites  /""]",f uh  mother mesquites is one of our favorites  ,sd,FEMALE,1
+"['{c but } then fajitas are one of my, {f uh, } - /']",c but  then fajitas are one of my f uh   ,sd,FEMALE,1
+['i like it better than just about anything -- /'],i like it better than just about anything  ,sd,FEMALE,1
+"['{f oh, } yes. /']",f oh  yes ,aa,FEMALE,4
+['-- {c and } they make very good fajitas there --'], c and  they make very good fajitas there ,sv,FEMALE,3
+['yes. /'],yes ,aa,FEMALE,4
+"['-- in their own, {f uh, } homemade flour tortillas that are just absolutely wonderful. /']", in their own f uh  homemade flour tortillas that are just absolutely wonderful ,+,FEMALE,0
+['oh. /'],oh ,b,FEMALE,2
+['especially with butter and honey on them <laughter>. /'],especially with butter and honey on them laughter ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{f oh, } i know,  /']",f oh  i know  ,aa,FEMALE,4
+"['[ i tell, + i tell ] you what.  /']", i tell  i tell  you what  ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""[ [ they are, + they just, ] + {f um, } they're ] [ excellent, + {f uh, } excellent ] food.  /""]",  they are  they just   f um  theyre   excellent  f uh  excellent  food  ,sv,FEMALE,3
+['i wish i could make them here at home. /'],i wish i could make them here at home ,sd,FEMALE,1
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['yes,  /']",yes  ,aa,FEMALE,4
+['so do i. /'],so do i ,sd,FEMALE,1
+"[""just can't make those flour tortillas.  /""]",just cant make those flour tortillas  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['{d well, } what else do you like? /']",d well  what else do you like ,qo,FEMALE,25
+"['{d well, } [ i love, + {f uh, } i love ] seafood -- /']",d well   i love  f uh  i love  seafood  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } i notice they have {d like } [ the, + {d you know, } the ] louisiana purchase, {f um, }  /']", c and  i notice they have d like   the  d you know  the  louisiana purchase f um   ,sd,FEMALE,1
+"[""razzoo's has opened up down, {d you know, } [ off of, + ] {f um, } {f um, } {f oh, } close to six thirty-five. /""]",razzoos has opened up down d you know   off of   f um  f um  f oh  close to six thirtyfive ,sd,FEMALE,1
+"['yes,  /']",yes  ,b,FEMALE,2
+"[""{d now } i haven't eaten there.  /""]",d now  i havent eaten there  ,sd,FEMALE,1
+['have you eaten there? /'],have you eaten there ,qy,FEMALE,7
+['yes.  /'],yes  ,ny,FEMALE,9
+['i have eaten there.  /'],i have eaten there  ,sd,FEMALE,1
+"['now the only problem, - /  *[[note the setup for a negative comment]]']",now the only problem    note the setup for a negative comment,sd,FEMALE,1
+['i love the food.  /'],i love the food  ,sd,FEMALE,1
+"[""it's a lot of cajun food and --""]",its a lot of cajun food and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- good seafood,  /']", good seafood  ,+,FEMALE,0
+"[""{c but, } {f uh, } the service has always been so strange, every time i've been in there.  /""]",c but  f uh  the service has always been so strange every time ive been in there  ,sd,FEMALE,1
+"[""mostly it's been at lunch time -- /""]",mostly its been at lunch time  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ {c and, } + {f uh, } {c but } ] i hear at night though they have, {f uh, } {d you know, } the outdoor, {f um, } bar,  /']",  c and   f uh  c but   i hear at night though they have f uh  d you know  the outdoor f um  bar  ,sd,FEMALE,1
+"[""{c and, } {f um, } {f uh, } that's it's really, {f uh, } {d you know, } kind of lively. /""]",c and  f um  f uh  thats its really f uh  d you know  kind of lively ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so, } [ it's, + it's ] really good. all their blackened grill stuff. /""]",c so   its  its  really good all their blackened grill stuff ,sv,FEMALE,3
+"[""{f oh, } [ [ i, + we like, ] + {f uh, } {f uh, } for [ the cajun, + the spicy, ] we like ] atchafalaya's out on belt line, in addison -- /""]",f oh    i  we like   f uh  f uh  for  the cajun  the spicy  we like  atchafalayas out on belt line in addison  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } it's a good restaurant. /""]", c and  its a good restaurant ,sd,FEMALE,1
+"['{f oh, } {d well } that sounds great. /']",f oh  d well  that sounds great ,ba,FEMALE,6
+"[""[ {c and } fish, + for one of the best fish ] restaurants in town is either  vincent's --""]", c and  fish  for one of the best fish  restaurants in town is either  vincents ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- there in plano --'], there in plano ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- or, {f uh, } i believe it's a rusty scupper over on, {f uh, } {f uh, } dallas parkway --""]", or f uh  i believe its a rusty scupper over on f uh  f uh  dallas parkway ,+,FEMALE,0
+"['-- in addison, which is absolutely wonderful. /']", in addison which is absolutely wonderful ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,+,FEMALE,0
+['the service is great.  /'],the service is great  ,sd,FEMALE,1
+"[""they have every kind of fish that you could imagine you'd want -- /""]",they have every kind of fish that you could imagine youd want  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } [ the, + the ] atmosphere is wonderful too.  /']", c and   the  the  atmosphere is wonderful too  ,sd,FEMALE,1
+['if you want a really special night out and fish food --'],if you want a really special night out and fish food ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- that's a good place to go. /""]", thats a good place to go ,+,FEMALE,0
+"['{f oh } {d well, } [ i, + {f uh, } i ] have children [ and, + and ] work,  /']",f oh  d well   i  f uh  i  have children  and  and  work  ,sd,FEMALE,1
+"['{c and so } [ we, + {f uh, } we ] can eat a lot of fast food <laughter>. /']",c and so   we  f uh  we  can eat a lot of fast food laughter ,sd,FEMALE,1
+['i can remember when our children were small. /'],i can remember when our children were small ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['we lived in the chicago area at the time,  /']",we lived in the chicago area at the time  ,sd,FEMALE,1
+['{c and } we had a lot of mcdonalds --'],c and  we had a lot of mcdonalds ,sd,FEMALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['-- when they were first coming out. /'], when they were first coming out ,+,FEMALE,0
+['<laughter> i know. /'],laughter i know ,ba,FEMALE,6
+"[""i can't look a mcdonalds in the face now. /""]",i cant look a mcdonalds in the face now ,sd,FEMALE,1
+"['[ i, + i know, ]  /']", i  i know   ,aa,FEMALE,4
+"[""[ i, + i'm ] so sick of mcdonalds, /""]", i  im  so sick of mcdonalds ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c and } [ we used to eat there, + we used to eat there ] all the time.   /']",c and   we used to eat there  we used to eat there  all the time   ,sd,FEMALE,1
+"[""{c and, so } now [ [ we, + we, ] + we ] branch out at this wendy's or <laughter> some other fast food joint. /""]",c and so  now   we  we   we  branch out at this wendys or laughter some other fast food joint ,sd,FEMALE,1
+"[""<laughter>  {d well, } taco bueno's good <laughter>. /""]",laughter  d well  taco buenos good laughter ,sv,FEMALE,3
+"['{f oh } [ and, + and ] cheap too. /']",f oh   and  and  cheap too ,sv,FEMALE,3
+"['and cheap,  /']",and cheap  ,b^m,FEMALE,24
+['and cheap. /'],and cheap ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""[ {c but, } + {c but } ] the kids, they've got those expensive tastes  /""]", c but   c but   the kids theyve got those expensive tastes  ,sd,FEMALE,1
+"[""{c so, } {f uh, } they like tia's  /""]",c so  f uh  they like tias  ,sd,FEMALE,1
+['{c so } they can sit down --'],c so  they can sit down ,sd,FEMALE,1
+"['yes,  /']",yes  ,b,FEMALE,2
+['yes -- /'],yes  ,b,FEMALE,2
+['-- and all that good kind of stuff. /'], and all that good kind of stuff ,+,FEMALE,0
+['-- yes.  /'], yes  ,b,FEMALE,2
+['sounds like my grandchildren. /'],sounds like my grandchildren ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i know.  /'],i know  ,ba,FEMALE,6
+"[""[ [ they, + they, ] + they're ] just spoiled rotten,  /""]",  they  they   theyre  just spoiled rotten  ,sd,FEMALE,1
+"['[ {c but, } + {f uh, }']", c but   f uh ,%,FEMALE,5
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c but, } ] no,  /']",c but   no  ,+,FEMALE,0
+"['[ i, + {f uh, } {f uh, } we ] love to eat out,  /']", i  f uh  f uh  we  love to eat out  ,sd,FEMALE,1
+"[""of course, it's just so much easier and simpler -- /""]",of course its just so much easier and simpler  ,sv,FEMALE,3
+"['{f oh, } yes. /']",f oh  yes ,aa,FEMALE,4
+['-- yeah.  /'], yeah  ,b,FEMALE,2
+"['{c so } [ we, + {f uh, } we ] usually eat out generally two or three times a week. /']",c so   we  f uh  we  usually eat out generally two or three times a week ,sd,FEMALE,1
+"[""{d well, } it's just my husband and i,  /""]",d well  its just my husband and i  ,sd,FEMALE,1
+"[""{c and } it's either t v dinners at home or we go out to eat. /""]",c and  its either t v dinners at home or we go out to eat ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['{c and } i would much rather go out to eat than t v dinners <laughter>. /'],c and  i would much rather go out to eat than t v dinners laughter ,sd,FEMALE,1
+"['{f oh, } me too,  /']",f oh  me too  ,aa,FEMALE,4
+['me too.  /'],me too  ,aa,FEMALE,4
+"['{d so, } [ [ i know, + {f uh, } i, ] + i know ] that [ i, + {f uh, } {d you know, } i ] just work  /']",d so    i know  f uh  i   i know  that  i  f uh  d you know  i  just work  ,sd,FEMALE,1
+"[""{c and } i'm just tired when i get home  /""]",c and  im just tired when i get home  ,sd,FEMALE,1
+"[""{c and } [ i, +  i ] just don't feel like cooking. /""]",c and   i   i  just dont feel like cooking ,sd,FEMALE,1
+"['{f oh, } no,  /']",f oh  no  ,aa,FEMALE,4
+['no. /'],no ,aa,FEMALE,4
+"[""{c and, } {f uh, } {d you know, } on the weekends there's always things to do,  /""]",c and  f uh  d you know  on the weekends theres always things to do  ,sd,FEMALE,1
+"['[ {c and, } + {f uh, } {c so } ]  we like to go out to lunch on saturdays especially. /']", c and   f uh  c so    we like to go out to lunch on saturdays especially ,sd,FEMALE,1
+['i like breakfast out. /'],i like breakfast out ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['i like the ihop there in plano. /'],i like the ihop there in plano ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{d now } [ i, + we've ] been there twice [ {c and, } + {c and } ] both times [ i, just, + {f oh, } the food just ] didn't quite settle with me -- /""]",d now   i  weve  been there twice  c and   c and   both times  i just  f oh  the food just  didnt quite settle with me  ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""-- {c and } i don't know what it was. /""]", c and  i dont know what it was ,sd,FEMALE,1
+"[""{f oh, } now that's surprising --""]",f oh  now thats surprising ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- because normally [ they're just, + they're real ] good. /""]", because normally  theyre just  theyre real  good ,+,FEMALE,0
+"['yes,  /']",yes  ,aa,FEMALE,4
+['{c and } i love. -/'],c and  i love ,sd,FEMALE,1
+"[""i like because [ [ they, + they're, ] + even if they're ] crowded, they're fast service, {d you know -- } /""]",i like because   they  theyre   even if theyre  crowded theyre fast service d you know   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {f um, } don't have to wait forever for a table. /""]", f um  dont have to wait forever for a table ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } we also like owens, {f uh } --']",c and  we also like owens f uh  ,sd,FEMALE,1
+"['<throat_clearing> {f oh, } family restaurant. /']",throatclearing f oh  family restaurant ,^2,FEMALE,23
+"['-- country sausa-,  /']", country sausa  ,+,FEMALE,0
+['yeah -- /'],yeah  ,aa,FEMALE,4
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- yeah.  /'], yeah  ,aa,FEMALE,4
+"[""we think it's good. /""]",we think its good ,sd,FEMALE,1
+"[""{d now } i haven't been there befo-,  /""]",d now  i havent been there befo  ,sd,FEMALE,1
+"['i went to one i think in ohio [ [ or, + or, ] + or ]  somewhere up there,  /']",i went to one i think in ohio   or  or   or   somewhere up there  ,sd,FEMALE,1
+"[""{c but } i've never been to that one here.  /""]",c but  ive never been to that one here  ,sd,FEMALE,1
+"[""i know it's just down the street. /""]",i know its just down the street ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""it's good. /""]",its good ,sd,FEMALE,1
+"[""{d so. } {d now } have you been to applebee's. /""]",d so  d now  have you been to applebees ,qy^d,FEMALE,16
+"['yes,  /']",yes  ,ny,FEMALE,9
+['yes. /'],yes ,ny,FEMALE,9
+['yes. /'],yes ,b^m,FEMALE,24
+"[""{c and } we like applebee's. /""]",c and  we like applebees ,sd,FEMALE,1
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['[ i, + i ] really like that too,  /']", i  i  really like that too  ,sd,FEMALE,1
+"['{d so } that was, {f uh. } -/']",d so  that was f uh  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""[ it, + it's ] fun.  /""]", it  its  fun  ,sv,FEMALE,3
+"['i like [ your, + ] up there in plano, that, {f uh, } country steak house. /']",i like  your   up there in plano that f uh  country steak house ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['have you tried it? /'],have you tried it ,qy,FEMALE,7
+"[""[ i've been, + i've been ] there twice,  /""]", ive been  ive been  there twice  ,na,FEMALE,21
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['{d so. } -/'],d so  ,%,FEMALE,5
+"[""we like it because it's fairly reasonable  /""]",we like it because its fairly reasonable  ,sd,FEMALE,1
+"['{c and } [ they have, + we go ] for the salad bar. /']",c and   they have  we go  for the salad bar ,sd,FEMALE,1
+"['salad bar,  /']",salad bar  ,b^m,FEMALE,24
+['yes. /'],yes ,b,FEMALE,2

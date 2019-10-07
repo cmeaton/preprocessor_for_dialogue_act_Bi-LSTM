@@ -1,0 +1,200 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",MALE,0
+"['{d so, }  {f uh, } what do you think about it? /']",d so   f uh  what do you think about it ,qo,MALE,25
+"[""{d well, } {f um, } i guess [ i, + i'm ] more concerned about public safety than i am about [ the, + {f um, } the ] concern  for the private, {f uh, } the idea of,""]",d well  f um  i guess  i  im  more concerned about public safety than i am about  the  f um  the  concern  for the private f uh  the idea of,sd,FEMALE,1
+['privacy. /'],privacy ,^2,MALE,23
+"['preserving privacy for,']",preserving privacy for,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"['the individual, {f um, }  /']",the individual f um   ,+,FEMALE,0
+"[""{c because } i can't really see why anyone, {f um, } who has nothing to hide would object. /""]",c because  i cant really see why anyone f um  who has nothing to hide would object ,sd,FEMALE,1
+"['{d well, } there is always [ the, + {f uh, } the ] possibility, even remote as it is,  [ [ of, + {f uh, } of ] mistaken, + {f uh, } of,  ] -/']",d well  there is always  the  f uh  the  possibility even remote as it is    of  f uh  of  mistaken  f uh  of   ,sd,MALE,1
+"[""[ that's, + of course, that is ] certainly true, /""]", thats  of course that is  certainly true ,ba,FEMALE,6
+['yeah. /'],yeah ,b,MALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['{c and } {d see } that bothers me.  /'],c and  d see  that bothers me  ,sd,MALE,1
+"[""[ [ [ i'm, + i'm a, ] + {e i mean, } i'm, ] + i'm ] very much for drug testing, /""]",   im  im a   e i mean  im   im  very much for drug testing ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } i really am.  /']",f uh  i really am  ,sd,MALE,1
+"[""{e i mean, } [ i'm going, + i'm going ] to take the negative side just for a second,""]",e i mean   im going  im going  to take the negative side just for a second,oo_co_cc,MALE,36
+['sure. /'],sure ,b,FEMALE,2
+['just to do it.  /'],just to do it  ,+,MALE,0
+"['{f um, } {d see, } i have to take, {f uh, } medication [ [ for a, + {f uh, } for, ] + for ] kidney transplant. /']",f um  d see  i have to take f uh  medication   for a  f uh  for   for  kidney transplant ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } i'm going to be taking that the rest of my life.  /""]",c and  im going to be taking that the rest of my life  ,sd,MALE,1
+"['{d now, } you, -/']",d now  you ,%,MALE,5
+['sure. /'],sure ,b,FEMALE,2
+"[""i don't know how that's going to affect, {f uh, } /""]",i dont know how thats going to affect f uh  ,sd,MALE,1
+['if you had to have a drug test? /'],if you had to have a drug test ,qy^d,FEMALE,16
+['right. /'],right ,b,MALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{e i mean } i haven't had one yet.  /""]",e i mean  i havent had one yet  ,sd,MALE,1
+"['{f um, } t i, - /']",f um  t i  ,%,MALE,5
+['i work for texas instruments -- /'],i work for texas instruments  ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ {c and, } + {c and, } ]  {f uh, } [ we, + {d you know, } we ] do have the random drug testing  /']",  c and   c and    f uh   we  d you know  we  do have the random drug testing  ,sd,MALE,1
+"[""{c but } i've missed it so far.  /""]",c but  ive missed it so far  ,sd,MALE,1
+"['{c but } {e i mean, } [ it, + in the back of my mind, it ] always bothers me.  /']",c but  e i mean   it  in the back of my mind it  always bothers me  ,sd,MALE,1
+"['{c and } what happens [ [ if it, + {d you know, } if it, ] + if they ] catch it,  /']",c and  what happens   if it  d you know  if it   if they  catch it  ,sd,MALE,1
+"[""they think that [ i'm, + {d you know, } i'm ] on drugs  /""]",they think that  im  d you know  im  on drugs  ,sd,MALE,1
+"['{c and } they send me [ and, + and ] have me, {f uh, } {d you know, } go through [ this, + this, ]']",c and  they send me  and  and  have me f uh  d you know  go through  this  this ,sd,MALE,1
+['checked out or whatever. /'],checked out or whatever ,^2,FEMALE,23
+"['thing, {d you know,  }  /']",thing d you know    ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['{c but } it seems to me that there are ways to accommodate that.  {f um, }  /']",c but  it seems to me that there are ways to accommodate that  f um   ,sd,FEMALE,1
+"['i agree [ that, + that ] some innocent person might be victimized,']",i agree  that  that  some innocent person might be victimized,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['by a false test,  /']",by a false test  ,+,FEMALE,0
+"['{c but } i would think [ that, + {f um, } that ] some guidelines could be set up to avoid that.  /']",c but  i would think  that  f um  that  some guidelines could be set up to avoid that  ,sv,FEMALE,3
+"['for example, that one, {f uh, } positive would not be, {f uh, } accepted as an automatic, {f um, } reason for whatever they might be going,']",for example that one f uh  positive would not be f uh  accepted as an automatic f um  reason for whatever they might be going,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"['to do if they found a positive, {f uh, } dismissal or treatment or whatever,  {c but } [ that, + that ] what it would do is it would trigger, perhaps, {f uh, } one or two more stages where further tests could be [ ta-, + ] {f uh, } done. /']",to do if they found a positive f uh  dismissal or treatment or whatever  c but   that  that  what it would do is it would trigger perhaps f uh  one or two more stages where further tests could be  ta   f uh  done ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c because, } {f um, } [ there are, + there must ] be people like you, or in other circumstances, that could come up [ with, + with, ] {f uh, } false positives for certain kind of drugs.  /']",c because  f um   there are  there must  be people like you or in other circumstances that could come up  with  with  f uh  false positives for certain kind of drugs  ,sv,FEMALE,3
+"[""on the other hand, {f um, } i think there's certainly some professions that ought to be tested --""]",on the other hand f um  i think theres certainly some professions that ought to be tested ,sv,FEMALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['-- because [ of the, + of their ] responsibility for the public welfare,  and  certainly people in, {f uh, } industries, {d well, } the transportation industry,']", because  of the  of their  responsibility for the public welfare  and  certainly people in f uh  industries d well  the transportation industry,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ for  spe-, + {f uh, } {d you know, } specifically. ] /']", for  spe  f uh  d you know  specifically  ,+,FEMALE,0
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"[""{c but, }  {f um, } in [ many, + many ] cases whether or not an individual has a problem with drugs, it's not even going to effect anybody but [ his, + {f uh, } {d you know, } himself ] and his own family, perhaps, {f um, } depending on the kind of drug he might be on. /""]",c but   f um  in  many  many  cases whether or not an individual has a problem with drugs its not even going to effect anybody but  his  f uh  d you know  himself  and his own family perhaps f um  depending on the kind of drug he might be on ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"[""{c but, }  {f um, } {c and } eventually that's going to show up anyway in the way he works,""]",c but   f um  c and  eventually thats going to show up anyway in the way he works,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['and so on.  /'],and so on  ,+,FEMALE,0
+"[""{c but } there's so many things that it would make a difference.  /""]",c but  theres so many things that it would make a difference  ,sv,FEMALE,3
+"[""i guess [ [ i, + i, ] + {f uh, } i ] would not want to have anyone in my family, {f uh, } victimized by [ someone who, + {d you know, }  [ a, + a ] bus driver or a train engineer or something like that, who,  ] {f um, } {d you know, } hadn't been tested. /""]",i guess   i  i   f uh  i  would not want to have anyone in my family f uh  victimized by  someone who  d you know    a  a  bus driver or a train engineer or something like that who   f um  d you know  hadnt been tested ,sd,FEMALE,1
+['right.  /'],right  ,b,MALE,2
+"[""{d well, }  [ [ i, + {d you know, } i'm, ] + {d like } i said, [ i'm,  + i'm  ] ] very much pro testing, {f um, }  /""]",d well     i  d you know  im   d like  i said  im   im    very much pro testing f um   ,sd,MALE,1
+"['[ {c and, } + {c and } ] this is why. /']", c and   c and   this is why ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{f uh, } number one is [ [ i, + i'm, ] + i'm ] kind of, - /""]",f uh  number one is   i  im   im  kind of  ,sd,MALE,1
+"['i know this sounds like a slogan for the government,  /']",i know this sounds like a slogan for the government  ,sd,MALE,1
+"['{c but }  [ i, + {d you know, } we  ] are in a war against,']",c but    i  d you know  we   are in a war against,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['drugs.  /'],drugs  ,+,MALE,0
+['{e i mean } --'],e i mean  ,sv,MALE,3
+['sure. /'],sure ,b,FEMALE,2
+"[""-- [ it's, + it's ] horrible.  /""]",  its  its  horrible  ,+,MALE,0
+"[""{e i mean, } you don't know whether the person sitting next to you --""]",e i mean  you dont know whether the person sitting next to you ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- anywhere is on drugs or not, /']", anywhere is on drugs or not ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } it takes some drastic steps at this point.  /'],c and  it takes some drastic steps at this point  ,sv,MALE,3
+"[""{c and } i think, personally, the drastic step has to be [ that, + {f um, } that ] you can't work if you continue taking drugs. /""]",c and  i think personally the drastic step has to be  that  f um  that  you cant work if you continue taking drugs ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{e i mean, } it's as simple as that.  /""]",e i mean  its as simple as that  ,sv,MALE,3
+"['{e i mean, } [ [ make it so, +']",e i mean    make it so ,sv,MALE,3
+['make it difficult enough. /'],make it difficult enough ,^2,FEMALE,23
+"['{d well, } make it, ] + {f uh, } ma-, ] not necessarily difficult,  /']",d well  make it   f uh  ma  not necessarily difficult  ,+,MALE,0
+"[""{c but } make it so that it's not glamorous. /""]",c but  make it so that its not glamorous ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{e i mean, } it's glamorous taking drugs,  /""]",e i mean  its glamorous taking drugs  ,sv,MALE,3
+['{c or } at least it seems that way. /'],c or  at least it seems that way ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['according to what [ you, +']",according to what  you ,^2,FEMALE,23
+['yeah. /'],yeah ,aa,MALE,4
+['you ] hear.  /'],you  hear  ,+,FEMALE,0
+"['the people who, {f um, } have serious problems, {e i mean, } - /']",the people who f um  have serious problems e i mean   ,sv,FEMALE,3
+"['we have, {f um, } - /']",we have f um   ,%,FEMALE,5
+"[""{d really } i guess we're kind of lucky.  /""]",d really  i guess were kind of lucky  ,sv,FEMALE,3
+"[""we really only know of one, {f uh, } young man [ who, + {f uh, } who's ] a fam-, - /""]",we really only know of one f uh  young man  who  f uh  whos  a fam  ,sd,FEMALE,1
+"['they go to our church, /']",they go to our church ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } it's the son and so on,  /""]",c and  its the son and so on  ,sd,FEMALE,1
+"['{c and } he was friends with my children <swallowing> {f um, }  /']",c and  he was friends with my children swallowing f um   ,sd,FEMALE,1
+"[""{c and } he's really the only one that i know of personally who got himself really messed up, {f um, } [ ha-, + having ] been involved with drugs.  /""]",c and  hes really the only one that i know of personally who got himself really messed up f um   ha  having  been involved with drugs  ,sd,FEMALE,1
+"['{c but } i know of a number of other people who have, {d you know, } gotten all messed up. /']",c but  i know of a number of other people who have d you know  gotten all messed up ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['most of these are young people.  /'],most of these are young people  ,sd,FEMALE,1
+['i work in the education system  /'],i work in the education system  ,sd,FEMALE,1
+['{c and so } i have a little more contact with that.  /'],c and so  i have a little more contact with that  ,sd,FEMALE,1
+"[""{c but, } {f um, } the effect that it's had on this young man's life is so dramatic that it's heartbreaking -- /""]",c but  f um  the effect that its had on this young mans life is so dramatic that its heartbreaking  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } he may never really be a productive member of society.  /'], c and  he may never really be a productive member of society  ,sv,FEMALE,3
+"['{c but } sadder than that, he may never be able to have a normal, happy life because it has strung him out so that he has anxieties now that [ are, + are ] almost uncontrollable.  /']",c but  sadder than that he may never be able to have a normal happy life because it has strung him out so that he has anxieties now that  are  are  almost uncontrollable  ,sv,FEMALE,3
+"[""{e i mean, } [ he, + he ] puts himself in the hospital fairly regularly thinking that, {d you know, } [ he, + he's ] not sure if he's going try to commit suicide or not. /""]",e i mean   he  he  puts himself in the hospital fairly regularly thinking that d you know   he  hes  not sure if hes going try to commit suicide or not ,sd,FEMALE,1
+['huh. /'],huh ,b,MALE,2
+"[""{e i mean, } [ he's, + {d you know, } he's ] so messed up. /""]",e i mean   hes  d you know  hes  so messed up ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"['{c and, }  {f um, } this was a nice, sweet, young man who, teenager, {d you know, } - /']",c and   f um  this was a nice sweet young man who teenager d you know   ,sd,FEMALE,1
+"[""{c and } he's now a young man about twenty, i guess, who, {f um, } just got really down the wrong path. /""]",c and  hes now a young man about twenty i guess who f um  just got really down the wrong path ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""{c and, }  {f uh, } {d you know, } i don't know [ that, + that ] his problem would ever have been detected by drug testing.  /""]",c and   f uh  d you know  i dont know  that  that  his problem would ever have been detected by drug testing  ,sd,FEMALE,1
+"['{c but } seeing what drugs did to him [ makes me see, + makes me realize ] what it could do to people, {d you know, } in the work force as well. /']",c but  seeing what drugs did to him  makes me see  makes me realize  what it could do to people d you know  in the work force as well ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{f um, } it's horrible. /""]",f um  its horrible ,sv,FEMALE,3
+"['{d well, } then, - /']",d well  then  ,%,MALE,5
+"[""[ let's, + let's ] answer the second half of the question.  /""]", lets  lets  answer the second half of the question  ,ad,MALE,22
+"['what limits ought to be put on it, do you think? /']",what limits ought to be put on it do you think ,qw,MALE,12
+"[""{d well, } the limits, {f uh, } {f uh, } would, i think, have to do with what i'd alluded to before, [ that there needs to be a further, + {f um, } [ that, + that ] one positive ] on a drug test,""]",d well  the limits f uh  f uh  would i think have to do with what id alluded to before  that there needs to be a further  f um   that  that  one positive  on a drug test,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['would not constitute, {f uh, } dismissal or grounds for whatever the company or agency might, {f uh, } have set up for those who genuinely have a problem. /']",would not constitute f uh  dismissal or grounds for whatever the company or agency might f uh  have set up for those who genuinely have a problem ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['in other words, there needs to be, {f um, } more than, -/']",in other words there needs to be f um  more than ,sv,FEMALE,3
+['treatment before for dismissal type thing. /'],treatment before for dismissal type thing ,^2,MALE,23
+"['pard-, - /']",pard  ,%,FEMALE,5
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['right, /']",right ,b,FEMALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['there needs to be more than one test,  /']",there needs to be more than one test  ,sv,FEMALE,3
+"['{c and } there needs to be [ some, + some ] measure of, {f uh, } certainty before anything drastic happens. /']",c and  there needs to be  some  some  measure of f uh  certainty before anything drastic happens ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['there are lots of things that are involved there, {f um, } such as, perhaps, [ insurance -- +']",there are lots of things that are involved there f um  such as perhaps  insurance  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } {d you know, } denial of insurance ] for someone, {f um, }  /']", f uh  d you know  denial of insurance  for someone f um   ,+,FEMALE,0
+"['{c and } undoubtedly there are people who would be victimized by this, {f um, } [ that would, + that,  ] {d you know, } - /']",c and  undoubtedly there are people who would be victimized by this f um   that would  that   d you know   ,sv,FEMALE,3
+"['it would be unfair,  /']",it would be unfair  ,sv,FEMALE,3
+"['{c and } people who are on medication, for example, or, {f um, } even  people who might be of the gay community, - /']",c and  people who are on medication for example or f um  even  people who might be of the gay community  ,sv,FEMALE,3
+"[""{c and } i'm not an advocate for that particular <laughter> segment of society,  /""]",c and  im not an advocate for that particular laughter segment of society  ,sv,FEMALE,3
+"[""{c but, }  {f um, } i think that there doesn't need to be fuel to the fire for discrimination --""]",c but   f um  i think that there doesnt need to be fuel to the fire for discrimination ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"['{c because } it makes a bigger problem.  {f um, }  /']",c because  it makes a bigger problem  f um   ,sv,FEMALE,3
+"['{c so } it seems to me [ that, + that, ] {f um, } there needs to be [ some ground, + {d you know, } some rules ] --']",c so  it seems to me  that  that  f um  there needs to be  some ground  d you know  some rules  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- that protect.  /'], that protect  ,+,FEMALE,0
+"[""i'm not sure, though, when we talk about what rules, if any, that we should say, {d well, } certain segments should not have to be tested.  /""]",im not sure though when we talk about what rules if any that we should say d well  certain segments should not have to be tested  ,sv,FEMALE,3
+"[""i really don't see why, /""]",i really dont see why ,sd,FEMALE,1
+"[""personally, i think that's what i was about to say --""]",personally i think thats what i was about to say ,sd,MALE,1
+"['{c and, }  yeah. /']",c and   yeah ,b,FEMALE,2
+['-- is that everyone needs to be tested. /'], is that everyone needs to be tested ,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""[ i don't, +""]", i dont ,sd,FEMALE,1
+"['it, {d you know, } -/']",it d you know  ,%,MALE,5
+"[""i don't  ] know why it would be, {d you know, } {f uh, } bad to test just every-,  /""]",i dont   know why it would be d you know  f uh  bad to test just every  ,+,FEMALE,0
+"['{c and } it may be, {d you know, } - /']",c and  it may be d you know   ,sv,FEMALE,3
+"[""it's not feasible to do everyone,  /""]",its not feasible to do everyone  ,sv,FEMALE,3
+"['{c but } certainly random testing, the fact that people know [ that, + that ] they, -/']",c but  certainly random testing the fact that people know  that  that  they ,sv,FEMALE,3
+['that it could happen. /'],that it could happen ,^2,MALE,23
+"['yeah, /']",yeah ,aa,FEMALE,4
+['uh-huh. /'],uhhuh ,b,MALE,2
+['would be some measure of protection. - /'],would be some measure of protection  ,sv,FEMALE,3
+"[""{c but } the bottom line is [ that, + that ] [  if, +  if ] you're going to stay clean and straight, <laughter> then, {f um, } [ you're, + you're ] going to do that because you want to. /""]",c but  the bottom line is  that  that    if   if  youre going to stay clean and straight laughter then f um   youre  youre  going to do that because you want to ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+['really. /'],really ,b,FEMALE,2
+"[""{d well, } [ [ there's, + {d yeah, } there, ] + there's ] going to be some measure of incentive, {f uh, } reward or whatever,  /""]",d well    theres  d yeah  there   theres  going to be some measure of incentive f uh  reward or whatever  ,sv,MALE,3
+['{c but } the reward ultimately comes down to what you want. /'],c but  the reward ultimately comes down to what you want ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c so } [ i, + i've ] got to agree with that. /""]",c so   i  ive  got to agree with that ,aa,MALE,4
+['<cough>.'],cough,x,FEMALE,8
+"['{d so, }  {f um, } -/']",d so   f um  ,%,MALE,5
+"[""that's very true. /""]",thats very true ,ba,FEMALE,6
+['{f um. } /'],f um  ,%,MALE,5
+"['{d well, } it sounds like we agree, anyway. /']",d well  it sounds like we agree anyway ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['i think so. /'],i think so ,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"['[ i think we, + i think we ] did pretty good. /']", i think we  i think we  did pretty good ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d well, } all right,  /']",d well  all right  ,b,MALE,2
+"[""{d well, } {f uh, } i guess that's about it. /""]",d well  f uh  i guess thats about it ,sv,MALE,3
+"[""i guess if that's all we've done  /""]",i guess if thats all weve done  ,sv,FEMALE,3
+"[""{c and } i guess we've talked long enough. /""]",c and  i guess weve talked long enough ,sv,FEMALE,3
+['all right. /'],all right ,b,MALE,2
+['it was nice talking to you. /'],it was nice talking to you ,fc,FEMALE,10
+"['[ it was, + it was ] [ talk, +  nice talking ] to you, too. /']", it was  it was   talk   nice talking  to you too ,fc,MALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+"['all right,  /']",all right  ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,MALE,10

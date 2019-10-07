@@ -1,0 +1,96 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['um, so what do you think?   /']",um so what do you think   ,qo,FEMALE,25
+"['um,  -/']",um  ,^h,MALE,27
+['<baby_talking>.'],babytalking,x,FEMALE,8
+"['i lived, i lived in sweden for two years.  /']",i lived i lived in sweden for two years  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['and in sweden they have socialized medicine.  /'],and in sweden they have socialized medicine  ,sd,MALE,1
+['and so i saw some of the good <throat_clearing>  /'],and so i saw some of the good throatclearing  ,sd,MALE,1
+['and also i saw some of the bad that results from such a program. /'],and also i saw some of the bad that results from such a program ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['uh, some of the, some of the good obviously that nobody has to worry about health care. /']",uh some of the some of the good obviously that nobody has to worry about health care ,sv,MALE,3
+['right.   /'],right   ,b,FEMALE,2
+"[""so it's a very, it's a very, uh, comfortable, - /""]",so its a very its a very uh comfortable  ,sv,MALE,3
+"[""i mean our people are very comfortable in the sense that, you know, there's no medical emergency that's going to make you destitute for life. /""]",i mean our people are very comfortable in the sense that you know theres no medical emergency thats going to make you destitute for life ,sv,MALE,3
+['right.   /'],right   ,b,FEMALE,2
+"['um, the bad was more apparent i think at least for me  /']",um the bad was more apparent i think at least for me  ,sv,MALE,3
+"[""because i think it affected people's lives on, in a way that you could see.  /""]",because i think it affected peoples lives on in a way that you could see  ,sv,MALE,3
+"[""one, one thing that i noticed is it's very, very convenient to be alcoholic in sweden. /""]",one one thing that i noticed is its very very convenient to be alcoholic in sweden ,sv,MALE,3
+"['oh, really?   /']",oh really   ,bh,FEMALE,18
+"[""because it's treated as a disease.  /""]",because its treated as a disease  ,sd,MALE,1
+"[""now i don't know if that necessarily has to be part of socialized medicine,  /""]",now i dont know if that necessarily has to be part of socialized medicine  ,sd,MALE,1
+"[""but, uh, if you're, <throat_clearing> if you're alcoholic, then you're treated as if you're on disability, long-term disability  /""]",but uh if youre throatclearing if youre alcoholic then youre treated as if youre on disability longterm disability  ,sd,MALE,1
+['and so there was very little incentive for people to get out of that. /'],and so there was very little incentive for people to get out of that ,sv,MALE,3
+['huh.  /'],huh  ,b,FEMALE,2
+"['also, um, another thing that, that i noticed that was very strange, - /']",also um another thing that that i noticed that was very strange  ,sv,MALE,3
+"['i was, uh, i would go down all these, uh, uh, - /']",i was uh i would go down all these uh uh  ,sd,MALE,1
+['i remember this one row of houses  /'],i remember this one row of houses  ,sd,MALE,1
+"['and they were, uh, row houses or townhouses,']",and they were uh row houses or townhouses,sd,MALE,1
+['#uh-huh.#  /'],uhhuh  ,b,FEMALE,2
+['#all# connected together so it was like lower middle-class housing.  /'],all connected together so it was like lower middleclass housing  ,+,MALE,0
+"['well, it would be lower middle-class housing here.  /']",well it would be lower middleclass housing here  ,sv,MALE,3
+"[""it's probably middle-class housing there. /""]",its probably middleclass housing there ,sv,MALE,3
+['<child>  uh-huh.   /'],child  uhhuh   ,b,FEMALE,2
+"['um, and there was a taxi driver that lived in one of these  /']",um and there was a taxi driver that lived in one of these  ,sd,MALE,1
+['and there was a doctor that lived in one of these.  /'],and there was a doctor that lived in one of these  ,sd,MALE,1
+['the one guy was a doctor  /'],the one guy was a doctor  ,sd,MALE,1
+"['and one was a taxi driver, /']",and one was a taxi driver ,sd,MALE,1
+['<child>. /'],child ,x,FEMALE,8
+"['and so their, their incomes were about the same.  /']",and so their their incomes were about the same  ,sd,MALE,1
+['huh.  /'],huh  ,b,FEMALE,2
+"[""whereas here, there is a great incentive to be a doctor because there's a great financial reward. /""]",whereas here there is a great incentive to be a doctor because theres a great financial reward ,sv,MALE,3
+['right.   /'],right   ,b,FEMALE,2
+"[""and that, that didn't exist in sweden.   /""]",and that that didnt exist in sweden   ,sd,MALE,1
+['right.   /'],right   ,b,FEMALE,2
+"['and, uh, overall i gue-, their, their health care suffered fair amount from just the fact that the doctor salaries were lower  /']",and uh overall i gue their their health care suffered fair amount from just the fact that the doctor salaries were lower  ,sv,MALE,3
+"['and it was, it was less professional  /']",and it was it was less professional  ,sv,MALE,3
+"['and it was treated more,']",and it was treated more,sv,MALE,3
+['<noise>. /'],noise ,x,FEMALE,8
+"['like a, like a taxi driver <laughter> type job,']",like a like a taxi driver laughter type job,+,MALE,0
+['#yeah.#  /'],yeah  ,b,FEMALE,2
+"['#then a,# then a doctor type job. /']",then a then a doctor type job ,+,MALE,0
+"['i-, - /']",i  ,%,FEMALE,5
+"[""that is, uh, that is something i've heard.  /""]",that is uh that is something ive heard  ,aa,FEMALE,4
+"['uh, i had a friend, uh, <lipsmack> that i worked with that was from sweden  /']",uh i had a friend uh lipsmack that i worked with that was from sweden  ,sd,FEMALE,1
+"['and that was, uh, - /']",and that was uh  ,%,FEMALE,5
+"['probably the, the major concern i have is that, you know, we are leading in the technology realm of, of medicine just because it is such a great incentive to, to get into, uh, the medical field,  /']",probably the the major concern i have is that you know we are leading in the technology realm of of medicine just because it is such a great incentive to to get into uh the medical field  ,sv,FEMALE,3
+"[""but at the same time it's real hard.  /""]",but at the same time its real hard  ,sv,FEMALE,3
+['i mean my husband works for a company that provides insurance  /'],i mean my husband works for a company that provides insurance  ,sd,FEMALE,1
+"[""and so, <noise> you know, i'm real, you know, - /""]",and so noise you know im real you know  ,%,FEMALE,5
+"[""it's like well, you know, you know, - /""]",its like well you know you know  ,%,FEMALE,5
+"[""there's got to be better ways, you know, to do some things  /""]",theres got to be better ways you know to do some things  ,sv,FEMALE,3
+"['but, you know, i hate to, uh, - /']",but you know i hate to uh  ,sd,FEMALE,1
+"['the, the competition, i-, in a lot of ways is, is wonderful just because you can choose your doctor  /']",the the competition i in a lot of ways is is wonderful just because you can choose your doctor  ,sv,FEMALE,3
+"['and, and, uh, they have to compete to be, to be good <child> and to be knowledgeable.  /']",and and uh they have to compete to be to be good child and to be knowledgeable  ,sd,FEMALE,1
+"[""but at the same time, there's a, you know, they're regulating themselves  /""]",but at the same time theres a you know theyre regulating themselves  ,sv,FEMALE,3
+"[""and, and the hospitals are charging just enormous amounts for products that they don't have to pay very much for.  /""]",and and the hospitals are charging just enormous amounts for products that they dont have to pay very much for  ,sv,FEMALE,3
+"[""my, i have a brother who's a vet  /""]",my i have a brother whos a vet  ,sd,FEMALE,1
+"['and for something that he can get, you know, wholesale - /']",and for something that he can get you know wholesale  ,sd,FEMALE,1
+"[""and i'm sure they can get a lot cheaper because they, they, hospitals buy in such a bulk rate, um -- /""]",and im sure they can get a lot cheaper because they they hospitals buy in such a bulk rate um  ,sv,FEMALE,3
+['right.   /'],right   ,b,MALE,2
+"['-- you know, <noise> they could charge you twenty dollars for a dollar fifty item  /']", you know noise they could charge you twenty dollars for a dollar fifty item  ,sv,FEMALE,3
+"[""and that's ridiculous.  /""]",and thats ridiculous  ,sv,FEMALE,3
+"[""and i don't think that is, that is, uh, abnormal in any means to be doing things like that.  /""]",and i dont think that is that is uh abnormal in any means to be doing things like that  ,sv,FEMALE,3
+"['and, -/']",and ,%,FEMALE,5
+"[""you don't think it's abnormal? /""]",you dont think its abnormal ,qy^d,MALE,16
+"[""i don't think it's abnormal for hospitals to be doing that at all <static>. /""]",i dont think its abnormal for hospitals to be doing that at all static ,sv,FEMALE,3
+"['oh, i see.  /']",oh i see  ,b,MALE,2
+"[""you're not saying it's right,  /""]",youre not saying its right  ,bf,MALE,20
+"[""you're just saying it's common. /""]",youre just saying its common ,bf,MALE,20
+"['<static> i-, - /']",static i  ,%,FEMALE,5
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""and so i-, i-, it's, i think, i-, to me i think, uh, something that's going to help our medical, uh, arena is for, um, - /""]",and so i i its i think i to me i think uh something thats going to help our medical uh arena is for um  ,sv,FEMALE,3
+"[""and i don't know how to, i don't know how to do this  /""]",and i dont know how to i dont know how to do this  ,sd,FEMALE,1
+['but i think people are too lawsuit happy.  /'],but i think people are too lawsuit happy  ,sv,FEMALE,3
+['and i mean things will happen  /'],and i mean things will happen  ,sv,FEMALE,3
+"[""and, and you've got to, uh, keep up  /""]",and and youve got to uh keep up  ,sv,FEMALE,3
+"[""or you've got to realize that, you know, i-, it is just men or <baby_talking> women that are, that are making, um, decisions  /""]",or youve got to realize that you know i it is just men or babytalking women that are that are making um decisions  ,sv,FEMALE,3
+['and they will make mistakes  /'],and they will make mistakes  ,sv,FEMALE,3
+"['and e-, e-, you know, i-, if people, you know, i-, - /']",and e e you know i if people you know i  ,%,FEMALE,5
+"[""there are some people that i'm sure make mistakes because they just don't keep on top of it,  /""]",there are some people that im sure make mistakes because they just dont keep on top of it  ,sv,FEMALE,3
+"[""but there are other things that just happen that you can't, you know, you can't say, you know, well, if you had just done this, you know, things would have done differently,  /""]",but there are other things that just happen that you cant you know you cant say you know well if you had just done this you know things would have done differently  ,sv,FEMALE,3
+"[""and, um, <lipsmack> i don't know.  /""]",and um lipsmack i dont know  ,h,FEMALE,15
+"['i, i think the fact that malpractice has gone up i think has raised our prices just dramatically. um,']",i i think the fact that malpractice has gone up i think has raised our prices just dramatically um,sv,FEMALE,3
+['#yes.#  /'],yes  ,aa,MALE,4
+"['#in the,# in the last number of years  /']",in the in the last number of years  ,+,FEMALE,0
+"[""and i think that's something that if, if they could work on the cause of that and, -/""]",and i think thats something that if if they could work on the cause of that and ,sv,FEMALE,3

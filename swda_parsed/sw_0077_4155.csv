@@ -1,0 +1,150 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""<beep> <breathing>  {f um, } what's our topic? /""]",beep breathing  f um  whats our topic ,qw,FEMALE,12
+['taxes. /'],taxes ,sd,MALE,1
+['taxes. /'],taxes ,sd,FEMALE,1
+['do we pay too much? /'],do we pay too much ,qy,MALE,7
+['right.  /'],right  ,b,FEMALE,2
+['right.  /'],right  ,b,FEMALE,2
+"['{f um } <laughter>, /']",f um  laughter ,%,FEMALE,5
+"['{d well, } do we? /']",d well  do we ,qy,MALE,7
+['what do you do? /'],what do you do ,qw,FEMALE,12
+"['{f um, } /']",f um  ,%,MALE,5
+"['i guess that, - /']",i guess that  ,sv,FEMALE,3
+"[""{e i mean } it all depends really on what kind of bracket you're in. /""]",e i mean  it all depends really on what kind of bracket youre in ,sv,FEMALE,3
+"['my tax bracket [ is, + is ] pretty high up there.  /']",my tax bracket  is  is  pretty high up there  ,sd,MALE,1
+"['[ i pay the, + i generally pay the ] maximum tax bracket. /']", i pay the  i generally pay the  maximum tax bracket ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, } {f uh, } i think that we're paying too much  /""]",c and  f uh  i think that were paying too much  ,sv,MALE,3
+"[""{c because } i don't have any children. /""]",c because  i dont have any children ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['{c and } i pay a lot of property taxes. /'],c and  i pay a lot of property taxes ,sd,MALE,1
+"['{f oh, } sure. /']",f oh  sure ,b,FEMALE,2
+"[""[ i don't have any, + {f um, } <lipsmack> [ i don't, + {d you know, } i don't ] use an ] awful lot of city services.  /""]", i dont have any  f um  lipsmack  i dont  d you know  i dont  use an  awful lot of city services  ,sd,MALE,1
+"['[ [ it, + it, ] + {d you know } <laughter> --']",  it  it   d you know  laughter ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- it's ] like [ i have to work m-, + i have to work ] all the time --""]", its  like  i have to work m  i have to work  all the time ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- just to make enough money to pay the taxes. /'], just to make enough money to pay the taxes ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"[""{c and, } {f um, } [ y-, + ] there's so many people who want [ a, + a ] ((dib)) of the federal money --""]",c and  f um   y   theres so many people who want  a  a  dib of the federal money ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- or the state money or whatever it is  /'], or the state money or whatever it is  ,+,MALE,0
+"['{c and } i just, - /']",c and  i just  ,%,MALE,5
+"[""[ sometimes, + many times ] i end up feeling like i'm paying too much in taxes. /""]", sometimes  many times  i end up feeling like im paying too much in taxes ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['how about you?  /'],how about you  ,qo,MALE,25
+['do you pay too much? /'],do you pay too much ,qy,MALE,7
+"['{f uh, } {d well, } no,  /']",f uh  d well  no  ,nn,FEMALE,13
+"[""i can't really complain.  /""]",i cant really complain  ,sv,FEMALE,3
+"[""i'm a student, {f um, }  /""]",im a student f um   ,sd,FEMALE,1
+"['{c and } [ i d-, + i work ] as a co-op at, {f uh, } georgia tech research institute.  /']",c and   i d  i work  as a coop at f uh  georgia tech research institute  ,sd,FEMALE,1
+"[""{c and, } {f uh, } i'm going to get back [ most of what i earned, + {e i mean } most of what i pay ] in taxes  /""]",c and  f uh  im going to get back  most of what i earned  e i mean  most of what i pay  in taxes  ,sd,FEMALE,1
+"['[ {c and, } + {f uh, } {c and, } ] {f uh, }']", c and   f uh  c and   f uh ,sd,FEMALE,1
+"['# {d well, } [ [ when you # -- +']", d well    when you   ,sv,MALE,3
+"['# [ on-, + one ] of # my parents is still claiming me.   /']",  on  one  of  my parents is still claiming me   ,+,FEMALE,0
+['{f huh? } /'],f huh  ,br,FEMALE,30
+"['-- when you go out into the, ] + {f uh, } when you go out into the ] working world --']", when you go out into the   f uh  when you go out into the  working world ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ it, + it ] changes quickly. /']",  it  it  changes quickly ,+,MALE,0
+"[""i'm sure  <laughter>. /""]",im sure  laughter ,aa,FEMALE,4
+"['{f um, } you look at your paycheck  /']",f um  you look at your paycheck  ,sd,MALE,1
+"['{c and } you go, {f oh, } my gosh where did it all go <laughter>. /']",c and  you go f oh  my gosh where did it all go laughter ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f um, } [ what kind of, + what kind of, ] - /']",f um   what kind of  what kind of   ,qw,MALE,12
+"['{f uh, } {d well } have you pay a lot of in ta-, - /']",f uh  d well  have you pay a lot of in ta  ,%,MALE,5
+['have you been out working and then gone back to school  /'],have you been out working and then gone back to school  ,qy,MALE,7
+"['{c or } [ are you, + did you ] go directly from high school [ into, + into ] college? /']",c or   are you  did you  go directly from high school  into  into  college ,qrr,MALE,33
+"['i went, - /']",i went  ,sd,FEMALE,1
+"['{d well } i did work, {f um, } [ just very + ] (( )) for some time  /']",d well  i did work f um   just very     for some time  ,sd,FEMALE,1
+"[""{c but } i didn't make enough money to really <breathing> make,""]",c but  i didnt make enough money to really breathing make,sd,FEMALE,1
+['# to worry about it. # /'], to worry about it  ,^2,MALE,23
+['# too much of a # difference.  /'], too much of a  difference  ,+,FEMALE,0
+['right. /'],right ,aa,FEMALE,4
+"['[ have you, + have you ] been active [ in, + in ] politics [ trying to, + ] concerning this?  /']", have you  have you  been active  in  in  politics  trying to   concerning this  ,qy,MALE,7
+['have you {d like } worked on political action committees or something like that? /'],have you d like  worked on political action committees or something like that ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i haven't. /""]",i havent ,sd,FEMALE,1
+"[""[ i, + {f uh, } i ] haven't done any of that type of work myself. /""]", i  f uh  i  havent done any of that type of work myself ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } {c but } every once in a while when i hear up here [ [ at, + at, ] + {f uh, } in ] d c area, {f um, } one of the radio stations has been talking about [ the, + the ] congress,  /']",f um  c but  every once in a while when i hear up here   at  at   f uh  in  d c area f um  one of the radio stations has been talking about  the  the  congress  ,sd,MALE,1
+"['{f um, } <lipsmack> congress has added too towards the members bank there, {d you know, }  /']",f um  lipsmack congress has added too towards the members bank there d you know   ,sd,MALE,1
+"[""there's a bank that they all bank with,  /""]",theres a bank that they all bank with  ,sd,MALE,1
+['{c and } i guess it went defunct recently. /'],c and  i guess it went defunct recently ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } one of the congressmen [ has, + has ] written in the last three years [ al-, + about ] a thousand bad checks. /']",c and  one of the congressmen  has  has  written in the last three years  al  about  a thousand bad checks ,sd,MALE,1
+['{f huh. }  /'],f huh   ,%,FEMALE,5
+"['{c and } [ we, + we ] the taxpayers float him a loan for [ all tho-, + all those ] bad checks,']",c and   we  we  the taxpayers float him a loan for  all tho  all those  bad checks,sd,MALE,1
+['# oh. # /'], oh  ,b,FEMALE,2
+"['# no # interest, no repayment schedule. /']", no  interest no repayment schedule ,+,MALE,0
+['really? /'],really ,bh,FEMALE,18
+"[""{c and, } {f um, } it's causing quite a stir up here,""]",c and  f um  its causing quite a stir up here,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""# because # we're so close to d c anyway. /""]", because  were so close to d c anyway ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's really kind of curious to watch this thing occur. /""]",its really kind of curious to watch this thing occur ,sv,MALE,3
+"['{f oh, } sure. /']",f oh  sure ,ba,FEMALE,6
+"['{f um, } [ [ i, + i, ] + i ] think we pay too much.   /']",f um    i  i   i  think we pay too much   ,sv,MALE,3
+"[""{c and } [ i've, + i ] look at my paycheck  /""]",c and   ive  i  look at my paycheck  ,sd,MALE,1
+"['{c and } i make, - /']",c and  i make  ,sd,MALE,1
+"[""{d well, } let's see.  /""]",d well  lets see  ,^h,MALE,27
+['they take out in state and federal taxes -- -/'],they take out in state and federal taxes  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- <lipsmack> i think i pay forty-two percent. /'], lipsmack i think i pay fortytwo percent ,sv,MALE,3
+['wow. /'],wow ,ba,FEMALE,6
+"['forty-two cents out of every dollar i make goes to the government, /']",fortytwo cents out of every dollar i make goes to the government ,sd,MALE,1
+['<noise>.'],noise,x,FEMALE,8
+['{c and then } they charge me sales tax  /'],c and then  they charge me sales tax  ,sd,MALE,1
+"['{c and } they charge me gasoline taxes, /']",c and  they charge me gasoline taxes ,sd,MALE,1
+['<<very faint>>  uh-huh.  /'],very faint  uhhuh  ,b,FEMALE,2
+['(( )) taxes. /'],  taxes ,%,FEMALE,5
+"['{c and } they charge me all these others,  /']",c and  they charge me all these others  ,sd,MALE,1
+"[""{c and } it's just too expensive. /""]",c and  its just too expensive ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""i can't believe that  /""]",i cant believe that  ,sd,MALE,1
+"[""[ i, + i'm ] just thankful that i don't get all the government that i pay for. /""]", i  im  just thankful that i dont get all the government that i pay for ,sd,MALE,1
+['{f huh. }  /'],f huh   ,%,FEMALE,5
+['you know what i mean? /'],you know what i mean ,qy,MALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+"['[ do you, + have you ] used, {f um, } student loans and things like that that were guaranteed by the government? /']", do you  have you  used f um  student loans and things like that that were guaranteed by the government ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i haven't.  /""]",i havent  ,sd,FEMALE,1
+"['{f uh, } [ i, + {f uh, } my father ] pays for [ [ my, + my schooling, ] + my tuition. ]  /']",f uh   i  f uh  my father  pays for   my  my schooling   my tuition   ,sd,FEMALE,1
+"[""{d so, } {f uh, } [ i'm, + i ] haven't made use of that. /""]",d so  f uh   im  i  havent made use of that ,sd,FEMALE,1
+['what are you studying down there? /'],what are you studying down there ,qw,MALE,12
+['physics. /'],physics ,sd,FEMALE,1
+['physics. /'],physics ,b^m,MALE,24
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+"['{f oh, } that sounds like a [ fun, + fun ] field. /']",f oh  that sounds like a  fun  fun  field ,sv,MALE,3
+['<laughter>  everybody says that  <laughter>. /'],laughter  everybody says that  laughter ,sd,FEMALE,1
+['<laughter>  scientific. /'],laughter  scientific ,sd,MALE,1
+['{f huh. }  /'],f huh   ,br,FEMALE,30
+['<laughter>  heavy science. /'],laughter  heavy science ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['are you {d like } in the [ particle, + particle ] research or <breathing> anything like that  /']",are you d like  in the  particle  particle  research or breathing anything like that  ,qy,MALE,7
+"['{c or } is it more, {f um, } applied physics? /']",c or  is it more f um  applied physics ,qrr,MALE,33
+"[""{f um, } [ i haven't, + i haven't ] gotten too terribly much into my major yet.  /""]",f um   i havent  i havent  gotten too terribly much into my major yet  ,sd,FEMALE,1
+"[""{d actually, } {f um, } <breathing> [ the, + the ] degree i'm getting is physics.  /""]",d actually  f um  breathing  the  the  degree im getting is physics  ,sd,FEMALE,1
+"[""there's a different one for applied physics  /""]",theres a different one for applied physics  ,sd,FEMALE,1
+['{d so } i guess you could call it more straight stuff --'],d so  i guess you could call it more straight stuff ,sd,FEMALE,1
+['okay. /'],okay ,bk,MALE,14
+['-- than applied. /'], than applied ,+,FEMALE,0
+"[""{d well } [ maybe, + maybe ] you can figure out how we can stop this inertia that's,""]",d well   maybe  maybe  you can figure out how we can stop this inertia thats,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""(( )) come rolling towards, whatever it's rolling toward. /""]",  come rolling towards whatever its rolling toward ,+,MALE,0
+['i doubt about that.  /'],i doubt about that  ,sv,FEMALE,3
+"['[ [ [ are, + are, ] + is america, ] + {e i mean } are we ] [ pretty, + pretty ] steep compared to most countries? /']",   are  are   is america   e i mean  are we   pretty  pretty  steep compared to most countries ,qy,FEMALE,7
+"[""actually, i don't think we are. /""]",actually i dont think we are ,ng,MALE,29
+"['# no,  /']", no  ,aa,FEMALE,4
+"[""i don't think so either. # /""]",i dont think so either  ,sd,FEMALE,1
+"['# {f um, } [ like, + like ] # europe,']", f um   like  like   europe,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# {f um, } # england.']", f um   england,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['i know the taxes are a lot higher. /'],i know the taxes are a lot higher ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{d but } they do have socialized medicine and things like that. /'],d but  they do have socialized medicine and things like that ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and, } {f um, } i know i was reading in the paper i believe yesterday that, {f um, } they're talking, - /""]",c and  f um  i know i was reading in the paper i believe yesterday that f um  theyre talking  ,sd,MALE,1
+"['{c or } maybe it was on the radi-, -/']",c or  maybe it was on the radi ,sd,MALE,1

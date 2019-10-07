@@ -1,0 +1,214 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{f uh, } i guess our topic is about movies -- /']",f uh  i guess our topic is about movies  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {f uh, } what is coincidence,  /']", c and  f uh  what is coincidence  ,sd,FEMALE,1
+['we got a baby-sitter  /'],we got a babysitter  ,sd,FEMALE,1
+['{c and } we went to the movies that past weekend. /'],c and  we went to the movies that past weekend ,sd,FEMALE,1
+"['{f oh, } so did i <laughter>. /']",f oh  so did i laughter ,sd,FEMALE,1
+['<laughter>  {c and } we saw cape fear. /'],laughter  c and  we saw cape fear ,sd,FEMALE,1
+"['{f oh, } i heard that was excellent. /']",f oh  i heard that was excellent ,sd,FEMALE,1
+['it is. /'],it is ,aa,FEMALE,4
+['is it? /'],is it ,bh,FEMALE,18
+"[""it's really good. /""]",its really good ,na,FEMALE,21
+"['{f uh, } i wanted to see that <noise>.  /']",f uh  i wanted to see that noise  ,sd,FEMALE,1
+"['i was deciding between that and, {f uh, } my girl  /']",i was deciding between that and f uh  my girl  ,sd,FEMALE,1
+"['{c and, } {f uh, } my boyfriend and i went to see my girl. /']",c and  f uh  my boyfriend and i went to see my girl ,sd,FEMALE,1
+"['{f oh, } how was that? /']",f oh  how was that ,qw,FEMALE,12
+"['{f oh, } it was excellent.  /']",f oh  it was excellent  ,sd,FEMALE,1
+"['it was a really, really good movie.  /']",it was a really really good movie  ,sd,FEMALE,1
+"[""i'd recommend it. /""]",id recommend it ,sd,FEMALE,1
+"[""i heard that's, a movie that, {f uh, } you really can't take children.  /""]",i heard thats a movie that f uh  you really cant take children  ,sd,FEMALE,1
+['is that true? </noise>. /'],is that true noise ,qy,FEMALE,7
+"['{f uh, } i heard the opposite that, {f uh, } you should take children to see it. /']",f uh  i heard the opposite that f uh  you should take children to see it ,arp_nd,FEMALE,34
+['oh. /'],oh ,bk,FEMALE,14
+"['<noise> {f uh, } there were quite a few, {f uh, } kids in there with their parents. /']",noise f uh  there were quite a few f uh  kids in there with their parents ,sd,FEMALE,1
+['oh. /'],oh ,bk,FEMALE,14
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{f uh, } i don't know, though,  /""]",f uh  i dont know though  ,h,FEMALE,15
+"[""[ i, + i've ] heard that, and then what you just told me  /""]", i  ive  heard that and then what you just told me  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['because, {f uh, } the little boy dies. /']",because f uh  the little boy dies ,sd,FEMALE,1
+"['right,  /']",right  ,aa,FEMALE,4
+['yeah. /'],yeah ,aa,FEMALE,4
+['yeah. /'],yeah ,b^m,FEMALE,24
+['it was sad.  /'],it was sad  ,sd,FEMALE,1
+['it was really sad. /'],it was really sad ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c but, } {f uh, } [ his, + it kind of shows how his, ] {f uh, } best friend, this little girl, deals with his death --']",c but  f uh   his  it kind of shows how his  f uh  best friend this little girl deals with his death ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- and [ how, + i think, maybe, how ] children should deal with death. /']", and  how  i think maybe how  children should deal with death ,+,FEMALE,0
+['oh. /'],oh ,b,FEMALE,2
+['maybe. /'],maybe ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } it was really good.  /']",c but  it was really good  ,sd,FEMALE,1
+"['it was sad, very sad. /']",it was sad very sad ,sd,FEMALE,1
+"['<static>  {f oh, } i want to see that one. /']",static  f oh  i want to see that one ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{d well, } cape fear [ was, + was ] more suspenseful. /']",d well  cape fear  was  was  more suspenseful ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['it was really suspenseful.  /'],it was really suspenseful  ,sd,FEMALE,1
+"[""{c so } [ [ that, + that's, ] + that's ] a real good movie to see. /""]",c so    that  thats   thats  a real good movie to see ,sd,FEMALE,1
+"['i heard it was, {f uh, } sort of {d like, } {f uh, } not, {f uh, } too violent,  /']",i heard it was f uh  sort of d like  f uh  not f uh  too violent  ,sd,FEMALE,1
+"['{c but } it was kind of {d like, } {f uh, } gross, kind of like, {f uh, } silence of the lambs, {d like. } /']",c but  it was kind of d like  f uh  gross kind of like f uh  silence of the lambs d like  ,sd,FEMALE,1
+"['{f uh, } no,  /']",f uh  no  ,ar,FEMALE,28
+"['{c and } [ it, + {f uh, } it ] was kind of, - /']",c and   it  f uh  it  was kind of  ,%,FEMALE,5
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+"[""it's kind of both, i guess,  /""]",its kind of both i guess  ,sv,FEMALE,3
+"[""{c but } [ it's not, + it's not ] as bad as silence of the lambs. /""]",c but   its not  its not  as bad as silence of the lambs ,sv,FEMALE,3
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+"[""{c but, } {f uh, } it's just as suspenseful, i think. /""]",c but  f uh  its just as suspenseful i think ,sv,FEMALE,3
+['oh. /'],oh ,b,FEMALE,2
+"['{c and } [ it, + it ] was a real good movie.  /']",c and   it  it  was a real good movie  ,sd,FEMALE,1
+['{c and then } we saw beauty and the beast <laughter>.'],c and then  we saw beauty and the beast laughter,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+['because we have two kids.'],because we have two kids,+,FEMALE,0
+['{f uh. } /'],f uh  ,b,FEMALE,2
+['and fievel goes west <laughter>. /'],and fievel goes west laughter ,+,FEMALE,0
+"[""{f oh, } i've seen, {f uh, } <lipsmack> previews for them <laughter> on t v,  /""]",f oh  ive seen f uh  lipsmack previews for them laughter on t v  ,sd,FEMALE,1
+"['{c but } <laughter> i, -/']",c but  laughter i ,%,FEMALE,5
+"['<laughter>  {c but, } {f uh, } [ those were, + those were ] okay,  /']",laughter  c but  f uh   those were  those were  okay  ,sd,FEMALE,1
+"['[ {c so, } +']", c so  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and then, } ] {f oh, } boy, [ it's been, + it's been ] so long since we've been to the movies,  /""]",c and then   f oh  boy  its been  its been  so long since weve been to the movies  ,+,FEMALE,0
+"[""{c but } [ i, + we've ] rented some videos. /""]",c but   i  weve  rented some videos ,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+"['i like to rent movies, too. /']",i like to rent movies too ,sd,FEMALE,1
+"['{c and } i think the last one i rented was, {f uh, } mortal thoughts --']",c and  i think the last one i rented was f uh  mortal thoughts ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['-- with demi moore. /'], with demi moore ,+,FEMALE,0
+"[""{f oh, } [ i, + i ] didn't see that. /""]",f oh   i  i  didnt see that ,sd,FEMALE,1
+"[""{c and, } {f uh, } [ [ that, + that, ] + that's ] okay.  /""]",c and  f uh    that  that   thats  okay  ,sd,FEMALE,1
+"[""that's pretty good. /""]",thats pretty good ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f oh, } and, {f uh, } what about bob? /']",f oh  and f uh  what about bob ,sd,FEMALE,1
+['i have seen that --'],i have seen that ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- at the theatres,  /']", at the theatres  ,+,FEMALE,0
+['yeah. /'],yeah ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b^m,FEMALE,24
+['we rented that one. /'],we rented that one ,sd,FEMALE,1
+"['[ that, + that ] was cute. /']", that  that  was cute ,sv,FEMALE,3
+"[""{c and, } {f uh, } {f uh, } i guess that's about it.  /""]",c and  f uh  f uh  i guess thats about it  ,sd,FEMALE,1
+['have you rented any movies lately? /'],have you rented any movies lately ,qy,FEMALE,7
+"['{f uh, } <lipsmack> the last movie i rented was the hard way with michael j. fox  /']",f uh  lipsmack the last movie i rented was the hard way with michael j fox  ,na,FEMALE,21
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,FEMALE,5
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+['that was good.  /'],that was good  ,sv,FEMALE,3
+"['we rented that one, too. /']",we rented that one too ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i liked that.  /'],i liked that  ,sd,FEMALE,1
+['i like michael j. fox a lot. /'],i like michael j fox a lot ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['yeah. /'],yeah ,b,FEMALE,2
+"[""he's one of my favorites. /""]",hes one of my favorites ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['i like his movies. /'],i like his movies ,sd,FEMALE,1
+"['{d so, } do you go to the movies often,  /']",d so  do you go to the movies often  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['no,  /']",no  ,nn,FEMALE,13
+['not too often.  /'],not too often  ,sd,FEMALE,1
+"[""[ i, + i ] hadn't been to the movies for a really long time --""]", i  i  hadnt been to the movies for a really long time ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- since last weekend.  /'], since last weekend  ,+,FEMALE,0
+"[""{c but, } {f uh, } there's been movies out that i've been wanting to see.  /""]",c but  f uh  theres been movies out that ive been wanting to see  ,sd,FEMALE,1
+"[""i just, {d you know, } don't get a chance to get out and see them. /""]",i just d you know  dont get a chance to get out and see them ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } we have two little kids,  /']",d well  we have two little kids  ,sd,FEMALE,1
+"[""{c so } it's hard for us to get out and go to the movies.  /""]",c so  its hard for us to get out and go to the movies  ,sd,FEMALE,1
+['we have to <breathing> dig up a baby-sitter  /'],we have to breathing dig up a babysitter  ,sd,FEMALE,1
+"['[ {c and }  <laughter>, +']", c and   laughter ,sd,FEMALE,1
+['{f oh } <laughter> i see. /'],f oh  laughter i see ,b,FEMALE,2
+"[""{c and } ] that's only the only time we can go out,  /""]",c and   thats only the only time we can go out  ,+,FEMALE,0
+"['{c so } <child_yelling>, our time is scarce. /']",c so  childyelling our time is scarce ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['oh. /'],oh ,b,FEMALE,2
+"[""{c but, } {f uh, } <child_yelling> [ [ [ [ [  we, + we, ] + we t-, ] + we, ] + {d you know, } we're, ] + we're ] big movie people  /""]",c but  f uh  childyelling       we  we   we t   we   d you know  were   were  big movie people  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- we try and do - /'], we try and do  ,+,FEMALE,0
+"[""{c and } [ i don't, + i don't ] know about the last movie i've seen on t v that was real good. {f uh, } /""]",c and   i dont  i dont  know about the last movie ive seen on t v that was real good f uh  ,sd,FEMALE,1
+"['{f oh, } i watched that movie with, {f uh, } <lipsmack> barbara, {f uh, } {f uh, } - /']",f oh  i watched that movie with f uh  lipsmack barbara f uh  f uh   ,sd,FEMALE,1
+['what was her name.  /'],what was her name  ,t1,FEMALE,37
+"['{f oh, } bar-, - /']",f oh  bar  ,%,FEMALE,5
+"['that, {f uh, } her sister got killed  /']",that f uh  her sister got killed  ,sd,FEMALE,1
+"['{c and, } {f uh, } <lipsmack> she had a baby.  /']",c and  f uh  lipsmack she had a baby  ,sd,FEMALE,1
+['the husband was a dentist  /'],the husband was a dentist  ,sd,FEMALE,1
+['{c and } he had murdered her. /'],c and  he had murdered her ,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+"['{f uh, }']",f uh ,sd,FEMALE,1
+"['[ that was, + that was ] pretty good. /']", that was  that was  pretty good ,sv,FEMALE,3
+"[""bertinelli, or what's her name. /""]",bertinelli or whats her name ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+"['{f oh, } valerie bertinelli. /']",f oh  valerie bertinelli ,sd,FEMALE,1
+"[""i can't, -/""]",i cant ,%,FEMALE,5
+"[""that's it,  /""]",thats it  ,ba,FEMALE,6
+['yeah. /'],yeah ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,b^m,FEMALE,24
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah <laughter>.  /'],yeah laughter  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['that was real good,  /']",that was real good  ,aa,FEMALE,4
+"['i saw that [ one, + {f uh, } two ] part series,  /']",i saw that  one  f uh  two  part series  ,sd,FEMALE,1
+['{c and } i heard it was a true story. /'],c and  i heard it was a true story ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i think that was probably the last movie i've seen, too. /""]",i think that was probably the last movie ive seen too ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ {c and, } + {c and then } ] i saw that other movie about, {f uh, } [ mother, daught-, + mother, wife, ] murderer.  /']", c and   c and then   i saw that other movie about f uh   mother daught  mother wife  murderer  ,sd,FEMALE,1
+['did you see that one? /'],did you see that one ,qy,FEMALE,7
+"['{f oh, } {f uh, } with, {f uh, } judith light? /']",f oh  f uh  with f uh  judith light ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{f uh, } /']",f uh  ,b,FEMALE,2
+"['did you see that one,  /']",did you see that one  ,qy,FEMALE,7
+"['that [ was, + was ] really good.  /']",that  was  was  really good  ,sv,FEMALE,3
+"['that was supposed to be a true story, too. /']",that was supposed to be a true story too ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['i did see that.  /'],i did see that  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['i did.  /'],i did  ,sd,FEMALE,1
+"[""that was on a while ago, wasn't it? /""]",that was on a while ago wasnt it ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['i saw that. /'],i saw that ,sd,FEMALE,1
+['guess a couple weeks ago or something like that. /'],guess a couple weeks ago or something like that ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['that was pretty good. /'],that was pretty good ,aa,FEMALE,4
+['boy --'],boy ,sv,FEMALE,3
+"['i, -/']",i ,%,FEMALE,5
+"['-- [ we have <laughter>, +']",  we have laughter ,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"['[ we, + we ] see ] all the same movies. /']", we  we  see  all the same movies ,+,FEMALE,0
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['i like, {f uh, } the true stories. /']",i like f uh  the true stories ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""they're more interesting. /""]",theyre more interesting ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } it's hard to believe that, {d you know, } this really happened. /""]",c and  its hard to believe that d you know  this really happened ,sv,FEMALE,3
+['i know. /'],i know ,aa,FEMALE,4
+['some of them are pretty bad. /'],some of them are pretty bad ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['yeah. /'],yeah ,aa,FEMALE,4
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['{f huh. }  {d well } <laughter>,']",f huh   d well  laughter,sv,FEMALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+['we sure do have a lot in common. /'],we sure do have a lot in common ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""if you're ever in town, we'll go see a movie <laughter>. /""]",if youre ever in town well go see a movie laughter ,ad,FEMALE,22
+['okay <laughter>. /'],okay laughter ,aa,FEMALE,4
+"[""[ {c but, } + {c and } ] we don't really, - /""]", c but   c and   we dont really  ,%,FEMALE,5
+"['[ [ d-, + do ] you all have, + do you all still have ] drive-ins up there  /']",  d  do  you all have  do you all still have  driveins up there  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['do you have them there? /'],do you have them there ,qy,FEMALE,7
+"['{f um, } {d well, } we may have just a couple over here. /']",f um  d well  we may have just a couple over here ,na,FEMALE,21

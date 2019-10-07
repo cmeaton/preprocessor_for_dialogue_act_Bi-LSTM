@@ -1,0 +1,331 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['are you a vietnam veteran, dudley?  <music>. /']",are you a vietnam veteran dudley  music ,qy,FEMALE,7
+"['{f uh, } no. /']",f uh  no ,nn,MALE,13
+['no? /'],no ,bh,FEMALE,18
+['<throat_clearing>.'],throatclearing,x,MALE,8
+['do you have family who were in the vietnam war? /'],do you have family who were in the vietnam war ,qy,FEMALE,7
+"['{f uh, } no.  /']",f uh  no  ,nn,MALE,13
+"['my father [ was, + {f uh, } came ]  in right after world war two. /']",my father  was  f uh  came   in right after world war two ,sd,MALE,1
+['okay.  /'],okay  ,bk,FEMALE,14
+"['{c so } he was too old,  /']",c so  he was too old  ,qy^d,FEMALE,16
+"['{c and } you were too young, right? /']",c and  you were too young right ,qy,FEMALE,7
+"['i am too young, yeah. /']",i am too young yeah ,na,MALE,21
+['all right.  /'],all right  ,bk,FEMALE,14
+['do you know some folks who have been there? /'],do you know some folks who have been there ,qy,FEMALE,7
+"['{f uh, } yes. /']",f uh  yes ,ny,MALE,9
+['okay. /'],okay ,bk,FEMALE,14
+['a couple. /'],a couple ,sd,MALE,1
+['okay.  /'],okay  ,b,FEMALE,2
+['how did it influence them? /'],how did it influence them ,qo,FEMALE,25
+"['{f uh, } [ the, + the ] one guy i worked with down  in austin hated it.  /']",f uh   the  the  one guy i worked with down  in austin hated it  ,sd,MALE,1
+"['{f uh, } he was a lineman down there. /']",f uh  he was a lineman down there ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } while he was there, he caught some kind of  a strange disease. /']",c and  while he was there he caught some kind of  a strange disease ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } all his hair fell out,  /']",c and  f uh  all his hair fell out  ,sd,MALE,1
+['{c and } he had {d like } a hundred and five fever for a while  /'],c and  he had d like  a hundred and five fever for a while  ,sd,MALE,1
+"['[ {c and, } +']", c and  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } ] {f uh, } -/']",c and   f uh  ,+,MALE,0
+"['{f uh, } what about long lasting effects on him?  /']",f uh  what about long lasting effects on him  ,qw,FEMALE,12
+['has he still suffering from those problems? /'],has he still suffering from those problems ,qy,FEMALE,7
+"['i do not think he was in combat, /']",i do not think he was in combat ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so, }']",c so ,%,MALE,5
+"['{d well, } i have talked with a number of vietnam  veterans,  /']",d well  i have talked with a number of vietnam  veterans  ,sd,FEMALE,1
+"['{c and } [ i really, +  i had ] no one directly related to me involved. /']",c and   i really   i had  no one directly related to me involved ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,+,MALE,0
+"[""{c but, } {f uh, } my sister's husband was in  vietnam.   /""]",c but  f uh  my sisters husband was in  vietnam   ,sd,FEMALE,1
+"['{c and } [ it, + it ] really made a completely different man out of him. /']",c and   it  it  really made a completely different man out of him ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['he went to vietnam one man and came back another,  not better. /']",he went to vietnam one man and came back another  not better ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['then, {f uh, } another friend of mine  went,  /']",then f uh  another friend of mine  went  ,sd,FEMALE,1
+['{c and } he was in combat.  /'],c and  he was in combat  ,sd,FEMALE,1
+"['{c but } he came back,  /']",c but  he came back  ,sd,FEMALE,1
+"['{c and } he said, ""okay, that is it.   that is behind me.  i am going on with my life.""  /']",c and  he said okay that is it   that is behind me  i am going on with my life  ,sd,FEMALE,1
+['much like what roger staubach did. /'],much like what roger staubach did ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['[ he was, + {f uh, } he was ] a vietnam war veteran. /']", he was  f uh  he was  a vietnam war veteran ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,MALE,9
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,FEMALE,5
+"['{c but } he was in the navy, though,']",c but  he was in the navy though,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['(( he was )) . /'], he was   ,+,MALE,0
+['that is true. /'],that is true ,ba,FEMALE,6
+['it makes a lot of difference. /'],it makes a lot of difference ,sd,MALE,1
+['right.  /'],right  ,b,FEMALE,2
+"['{c and, } {c but, } {f uh, } most of the  folks that i have met that were actually on the land, or in combat, [ are still, + still ]  carry a lot of anger. /']",c and  c but  f uh  most of the  folks that i have met that were actually on the land or in combat  are still  still   carry a lot of anger ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['they really do.  /'],they really do  ,sd,FEMALE,1
+"['{c and, } {f uh, } [ [ [ i, + i, ] + i, ] + i ]  really do not think that we did those young men right. /']",c and  f uh     i  i   i   i   really do not think that we did those young men right ,sv,FEMALE,3
+['huh. /'],huh ,b,MALE,2
+"['i think that, {f uh, } desert storm,']",i think that f uh  desert storm,sv,FEMALE,3
+['<throat_clearing>.'],throatclearing,x,MALE,8
+['shows a lot of learning since that time. /'],shows a lot of learning since that time ,+,FEMALE,0
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['{f uh } <<faintly>>. /'],f uh  faintly ,%,FEMALE,5
+"['{d well, } the armed forces did so much to, {d you know, }  agent orange,  /']",d well  the armed forces did so much to d you know   agent orange  ,sv,MALE,3
+['they did so  much to their own people all during that time. /'],they did so  much to their own people all during that time ,sv,MALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+['that is true. /'],that is true ,ba,FEMALE,6
+"['{d you know, }  {c and } [ [ they ta-, + they take  a, ] +']",d you know   c and    they ta  they take  a  ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['even now, {f uh, } they take a ]  free hand as far as medicine and, {f uh, } {d you know, } how they treat the war casualties, {d you know. }  /']",even now f uh  they take a   free hand as far as medicine and f uh  d you know  how they treat the war casualties d you know   ,+,MALE,0
+"['if you come back and your leg is blown off,']",if you come back and your leg is blown off,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d you know, } [ or, + or ]  it is hanging by a thread, they still can't put it back together now.   /""]",d you know   or  or   it is hanging by a thread they still cant put it back together now   ,+,MALE,0
+"['[ {c but, } +']", c but  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } ] what they do afterwards and  how they [ re-, + rehabilitate ] you. -/']",c but   what they do afterwards and  how they  re  rehabilitate  you ,+,MALE,0
+"['{d well, } {d you know, } one of the most  troublesome things that i have encountered as a result is the incredible influx of  southeast asians into this country --']",d well  d you know  one of the most  troublesome things that i have encountered as a result is the incredible influx of  southeast asians into this country ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- since that conflict. /'], since that conflict ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['{f uh, } not so,']",f uh  not so,sv,FEMALE,3
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"['much that i say,']",much that i say,+,FEMALE,0
+['<sniffing>.'],sniffing,x,MALE,8
+['i do not want you here.  /'],i do not want you here  ,+,FEMALE,0
+['{c but } there is just such a  surge of southeast asians.  /'],c but  there is just such a  surge of southeast asians  ,sv,FEMALE,3
+"['it has affected the culture of this country, {f uh, }']",it has affected the culture of this country f uh ,sv,FEMALE,3
+"['{f oh, } yeah.  /']",f oh  yeah  ,ba,MALE,6
+"[""[ it's ab-, +""]", its ab ,sd,MALE,1
+['very much. /'],very much ,+,FEMALE,0
+"[""it's about ] nine or ten percent now. /""]",its about  nine or ten percent now ,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } {f uh, }  the culture is changing.   /']",d well  f uh   the culture is changing   ,sv,FEMALE,3
+"['look how much more oriental food we have, restaurants now,']",look how much more oriental food we have restaurants now,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['for example.  /'],for example  ,+,FEMALE,0
+"['{f uh, } even ten years ago,  there were not that many.  /']",f uh  even ten years ago  there were not that many  ,sv,FEMALE,3
+"['a lot of shops [ are, + are ] operated by southeast asians. /']",a lot of shops  are  are  operated by southeast asians ,sv,FEMALE,3
+"[""(( that's true )) . /""]", thats true   ,ba,MALE,6
+['a lot of people have complained in the schools.  /'],a lot of people have complained in the schools  ,sv,FEMALE,3
+['there is a culture change there.  /'],there is a culture change there  ,sv,FEMALE,3
+"['the southeast asians seem to be very hungry,  /']",the southeast asians seem to be very hungry  ,sv,FEMALE,3
+['there seem to be very studious.  /'],there seem to be very studious  ,sv,FEMALE,3
+"['{c and, } {f uh, } tends to cause our kids  to really have to buckle down to keep up with them, which is not bad. /']",c and  f uh  tends to cause our kids  to really have to buckle down to keep up with them which is not bad ,sv,FEMALE,3
+['no. /'],no ,b,MALE,2
+['not really.   /'],not really   ,sv,FEMALE,3
+"['{f uh, } {c but } it might in the  long run you can see where scholarships, for example,']",f uh  c but  it might in the  long run you can see where scholarships for example,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } even jobs.  {f uh, } jobs that  would normally go to an american, with a lesser education, might be going [ to, + to ]  some of these people here.  /']",f uh  even jobs  f uh  jobs that  would normally go to an american with a lesser education might be going  to  to   some of these people here  ,+,FEMALE,0
+"['{c and } that is all a result [ [ of, + of, ] + of ] vietnam.  /']",c and  that is all a result   of  of   of  vietnam  ,sv,FEMALE,3
+"['[ {c and, } + {c and } ] you see [ a lot of, +']", c and   c and   you see  a lot of ,sv,FEMALE,3
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"['a lot of ] men that were over there,  brought families back. /']",a lot of  men that were over there  brought families back ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"['that is, -/']",that is ,%,MALE,5
+"['{f uh, } {c and } it concerns me that there  is probably a lot of mixed breed youngsters still there. /']",f uh  c and  it concerns me that there  is probably a lot of mixed breed youngsters still there ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } i would be concerned or interested to find out  how they are doing now. /'],c and  i would be concerned or interested to find out  how they are doing now ,sd,FEMALE,1
+"['{d well, } they are probably not doing very well at all. /']",d well  they are probably not doing very well at all ,sv,MALE,3
+"['i know that there, -/']",i know that there ,%,FEMALE,5
+"['{c because } i know [ there is, + there is ]  still people even in the dallas area.  /']",c because  i know  there is  there is   still people even in the dallas area  ,sv,MALE,3
+"['[ there are, + there are ] still people trying to  get some member of their family back from, {f uh, } vietnam. /']", there are  there are  still people trying to  get some member of their family back from f uh  vietnam ,sv,MALE,3
+['you are talking about p o w -s --'],you are talking about p o w s ,qy,FEMALE,7
+"['{f uh, } /']",f uh  ,%,MALE,5
+['-- or --'], or ,+,FEMALE,0
+"['{f uh, } /']",f uh  ,%,MALE,5
+['-- missing in actions? /'], missing in actions ,+,FEMALE,0
+"['[ na-, + native ] vietnamese people. /']", na  native  vietnamese people ,sd,MALE,1
+['native vietnamese people. /'],native vietnamese people ,bf,FEMALE,20
+['yeah. /'],yeah ,aa,MALE,4
+['okay. /'],okay ,b,FEMALE,2
+"['they were lost, {d you know, } when they  were little,  /']",they were lost d you know  when they  were little  ,sd,MALE,1
+"['[ {c and, } + {c and } ] they [ c-, + ] never did get back  /']", c and   c and   they  c   never did get back  ,sd,MALE,1
+"['{c or, } -/']",c or  ,%,MALE,5
+"['{f oh, } i had not. - /']",f oh  i had not  ,%,FEMALE,5
+"['[ that, + that ] had not occurred to me. /']", that  that  had not occurred to me ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['that would be --'],that would be ,sv,FEMALE,3
+"['[ {c and, } + {f uh, }']", c and   f uh ,sv,MALE,3
+['-- an interesting concept. /'], an interesting concept ,+,FEMALE,0
+"[""{c and, } ] as is really a big waste   because [ they didn't, + they didn't ] win,  /""]",c and   as is really a big waste   because  they didnt  they didnt  win  ,+,MALE,0
+"[""they didn't regain any of the land that they had.  /""]",they didnt regain any of the land that they had  ,sd,MALE,1
+"[""it spilled over  into, {f uh, } now i can't even think of the country.  /""]",it spilled over  into f uh  now i cant even think of the country  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+['cambodia? /'],cambodia ,qy^d,FEMALE,16
+['yeah.  /'],yeah  ,ny,MALE,9
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ {c and, } +']", c and  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } ] all they did is run and hide. /'],c and   all they did is run and hide ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } they were not really fighting, {d you know, }  /']",c and  they were not really fighting d you know   ,sv,MALE,3
+"['[ it, + it ] would have been the same as desert storm if all they had been  fighting was north vietnam. /']", it  it  would have been the same as desert storm if all they had been  fighting was north vietnam ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } {c and } i am not even sure who was  involved more.  whether it was china or  russia. /']",c but  c and  i am not even sure who was  involved more  whether it was china or  russia ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } [ they were pouring, + they were pouring ]  weapons in there  [ and, + and ]  [ advising, + {e well, } digging ]  tunnels for them.']",d you know   they were pouring  they were pouring   weapons in there   and  and    advising  e well  digging   tunnels for them,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, }  /']",d you know   ,+,MALE,0
+['{c and } there is no way that  they could ever catch them. /'],c and  there is no way that  they could ever catch them ,sv,MALE,3
+"['{d well, } i think the terrain had a lot to do  with [ the, + the ] success of desert storm as opposed to that in vietnam. /']",d well  i think the terrain had a lot to do  with  the  the  success of desert storm as opposed to that in vietnam ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+['that is right. /'],that is right ,b,MALE,2
+"['{d you know, } there is incredible cover --']",d you know  there is incredible cover ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- in vietnam.  /'], in vietnam  ,+,FEMALE,0
+"[""{c and } you can't find much  cover [ on, + <laughter> in ] a sand --""]",c and  you cant find much  cover  on  laughter in  a sand ,sd,FEMALE,1
+"['yeah, /']",yeah ,b,MALE,2
+['-- dune <laughter>. /'], dune laughter ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['all they can do is dig in,  /']",all they can do is dig in  ,sd,MALE,1
+"['{c and } they,']",c and  they,%,MALE,5
+['that is right. /'],that is right ,ba,FEMALE,6
+"['{d you know, } - /']",d you know   ,+,MALE,0
+['{c and then }  they try to camouflage the top. /'],c and then   they try to camouflage the top ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b^m,FEMALE,24
+"['[ {d well } now, even, + i think even now, ] and  in vietnam they could probably have done a better job.  /']", d well  now even  i think even now  and  in vietnam they could probably have done a better job  ,sv,MALE,3
+"['{c because } [ they could, +  <throat_clearing> they could ] kill all those plants, {d you know, }  which would devastate the country as far as farming from then on.  /']",c because   they could   throatclearing they could  kill all those plants d you know   which would devastate the country as far as farming from then on  ,sv,MALE,3
+"['{c but, } [ {c and } the, + {c and } the ]  corps of engineers i think do a better job now, like they did in desert storm.  /']",c but   c and  the  c and  the   corps of engineers i think do a better job now like they did in desert storm  ,sv,MALE,3
+['{c because } --'],c because  ,%,MALE,5
+"['{d well, } -/']",d well  ,%,FEMALE,5
+"['-- they had, - /']", they had  ,+,MALE,0
+"['[ he, + he ]  dug a bunch of moats and filled them with oil -- /']", he  he   dug a bunch of moats and filled them with oil  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } he set a lot of booby traps all  along the way as they went.  /'], c and  he set a lot of booby traps all  along the way as they went  ,sd,MALE,1
+"['{c and } [ they had to, + {d you know, } they had to ]  blow them up [ or, +']",c and   they had to  d you know  they had to   blow them up  or ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['or ] disarm them. /'],or  disarm them ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and then } they had to fill in little  bridges all the way [ where he, + where he ] had made those moats. /']",c and then  they had to fill in little  bridges all the way  where he  where he  had made those moats ,sd,MALE,1
+['what world war do you think they  found the experience for that? /'],what world war do you think they  found the experience for that ,qw,FEMALE,12
+"['{f uh, } /']",f uh  ,%,MALE,5
+"[""don't you think they learned from the mistakes in vietnam? /""]",dont you think they learned from the mistakes in vietnam ,qy,FEMALE,7
+"['w-, - /']",w  ,%,MALE,5
+"['yeah,  /']",yeah  ,ny,MALE,9
+['partially. /'],partially ,sd,MALE,1
+"['part of it is that,']",part of it is that,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['part of it is technology. /'],part of it is technology ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"['part of it is technology, yeah. /']",part of it is technology yeah ,bf,MALE,20
+['{c but } --'],c but  ,sv,FEMALE,3
+['{c because } --'],c because  ,%,MALE,5
+"['-- [ [ when, + when, ] +']",   when  when  ,+,FEMALE,0
+"['-- all, - /']", all  ,+,MALE,0
+['go ahead. /'],go ahead ,ad,MALE,22
+"['when ] you get into trouble like  that in a place like vietnam, you do tend to analyze the problems that you get into,  /']",when  you get into trouble like  that in a place like vietnam you do tend to analyze the problems that you get into  ,+,FEMALE,0
+"['{c and } you say, ""never more."" /']",c and  you say never more ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['[ {c and, } + {c and } ]  you overcome those problems,  /']", c and   c and    you overcome those problems  ,sv,FEMALE,3
+['{c and } you are prepared next time. /'],c and  you are prepared next time ,sv,FEMALE,3
+"['i think that is one of the reasons  [ that they have, + they have ] pretty much avoided getting involved in south america.  /']",i think that is one of the reasons   that they have  they have  pretty much avoided getting involved in south america  ,sv,MALE,3
+['{c because } --'],c because  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- look what happened when they were  looking for noriega,  /']", look what happened when they were  looking for noriega  ,+,MALE,0
+"['{c and } they lost him for four hours when they were right on top of him,']",c and  they lost him for four hours when they were right on top of him,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+['{d you know. } /'],d you know  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['he probably just went right down into a tunnel. /'],he probably just went right down into a tunnel ,sv,MALE,3
+['sure.  /'],sure  ,b,FEMALE,2
+['sure.  /'],sure  ,b,FEMALE,2
+['sure.   /'],sure   ,b,FEMALE,2
+"['{d well, } i know that,  <sigh> {f uh, } from a personal standpoint, people was one of the finest  assets that we lost.  /']",d well  i know that  sigh f uh  from a personal standpoint people was one of the finest  assets that we lost  ,sv,FEMALE,3
+['we did not actually physically lose them.  /'],we did not actually physically lose them  ,sv,FEMALE,3
+"['they did not lose their lives,  /']",they did not lose their lives  ,sv,FEMALE,3
+['{c but } they lost a whole lot of the life they might have had. /'],c but  they lost a whole lot of the life they might have had ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+['that is right. /'],that is right ,ba,MALE,6
+"['{f uh, } being entirely different people.  /']",f uh  being entirely different people  ,sv,FEMALE,3
+['i had dinner monday night with a vietnam veteran who is just now beginning to  recover from the drug and alcohol struggle that he had. /'],i had dinner monday night with a vietnam veteran who is just now beginning to  recover from the drug and alcohol struggle that he had ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['that is a long time to suffer. /'],that is a long time to suffer ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['{c and } [ they, + they ]  really need, - /']",c and   they  they   really need  ,sv,MALE,3
+"['everybody [ that has, + that has ] stood there, - /']",everybody  that has  that has  stood there  ,sv,MALE,3
+"[""it's, - /""]",its  ,%,MALE,5
+"['when i-, - /']",when i  ,%,MALE,5
+['in vietnam  i think it was much closer contact.  /'],in vietnam  i think it was much closer contact  ,sv,MALE,3
+"['you stand there with a rifle and blow [ a, + a ] piece of somebody apart,']",you stand there with a rifle and blow  a  a  piece of somebody apart,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['or blow their head off, /']",or blow their head off ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } that has to affect you if you  are human, {d you know. } /']",c and  that has to affect you if you  are human d you know  ,sv,MALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,ba,FEMALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+['{c so } they had to --'],c so  they had to ,sv,MALE,3
+"[""i can't, {f uh, } -/""]",i cant f uh  ,%,FEMALE,5
+"['-- work all [ that, + that ] anger out,   [ and the, + and the ] nightmares that come along with it. /']", work all  that  that  anger out    and the  and the  nightmares that come along with it ,+,MALE,0
+"['{f oh, } yeah.  /']",f oh  yeah  ,ba,FEMALE,6
+"['you bet, /']",you bet ,ba,FEMALE,6
+"['[ i  do not, +']", i  do not ,sv,MALE,3
+['you bet. /'],you bet ,ba,FEMALE,6
+"['i do not ] really think that  anybody can ever [ for-, + forget ]  that,  /']",i do not  really think that  anybody can ever  for  forget   that  ,+,MALE,0
+"['{c but } [ they can, + they can ] reason [ and, +']",c but   they can  they can  reason  and ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['and ] try to adjust [ to, + to ]  why they were there. /']",and  try to adjust  to  to   why they were there ,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } you see that is  what the veterans are so angry about now.  /']",d well  you see that is  what the veterans are so angry about now  ,sv,FEMALE,3
+"['they say, {d ""well, } we\'re,']",they say d well  were,sd,FEMALE,1
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"['going to listen to this and  we are going to look at this, find out what our mistakes were, and we are not going to make them again.""  /']",going to listen to this and  we are going to look at this find out what our mistakes were and we are not going to make them again  ,+,FEMALE,0
+['{c but } that does not undo the ones that were done.  /'],c but  that does not undo the ones that were done  ,sv,FEMALE,3
+['{c and } that is what makes the veterans angry. /'],c and  that is what makes the veterans angry ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+['{c and } i cannot blame them.  /'],c and  i cannot blame them  ,sd,FEMALE,1
+['i do not know a solution. /'],i do not know a solution ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c but } i sure cannot blame them for being  angry.  /'],c but  i sure cannot blame them for being  angry  ,sd,FEMALE,1
+"['on the other hand, {d you know, } you can be angry about something for a very long time,  /']",on the other hand d you know  you can be angry about something for a very long time  ,sv,FEMALE,3
+"['{c or } you can say, {d ""well, } that is the way it is,"" and go on with your life.  /']",c or  you can say d well  that is the way it is and go on with your life  ,sv,FEMALE,3
+"['{f uh, } /']",f uh  ,%,FEMALE,5
+['right. /'],right ,b,MALE,2
+"['for the most part, i wish that it had not happened. /']",for the most part i wish that it had not happened ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['{c but } it did. /'],c but  it did ,sd,FEMALE,1
+"['[ [ {c and } that, +']",  c and  that ,sv,MALE,3
+"['{c and } that  was, ] + that was ] [ in the, + in the ] era when kennedy was president that they were afraid of everything,']",c and  that  was   that was   in the  in the  era when kennedy was president that they were afraid of everything,+,MALE,0
+['{d you know. }  /'],d you know   ,+,MALE,0
+"['[ [ {c and, } + {c and, } ] + {c and } ]  they [ f-, + ] initially got into it because of eisenhower.  /']",  c and   c and    c and    they  f   initially got into it because of eisenhower  ,sd,MALE,1
+"['{c and } [ he just, + he did ]  not want to be in it any more [ than, + than ] what we started out in august with desert storm. /']",c and   he just  he did   not want to be in it any more  than  than  what we started out in august with desert storm ,sv,MALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,ba,FEMALE,6
+['{c and then } it just blew up into the war. /'],c and then  it just blew up into the war ,sv,MALE,3
+"['{d well, } it has been that way for a very,   very long time, though.  /']",d well  it has been that way for a very   very long time though  ,sv,FEMALE,3
+"['i can remember when i was in the sixth grade,  /']",i can remember when i was in the sixth grade  ,sd,FEMALE,1
+['{c and } that was many years ago. /'],c and  that was many years ago ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['we were reading about the french --'],we were reading about the french ,sd,FEMALE,1
+"['french, yeah. /']",french yeah ,b,MALE,2
+['-- struggling with that --'], struggling with that ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- in southeast asia.   /'], in southeast asia   ,+,FEMALE,0
+"['{c so, }  [ [ {c and, } + {c and, } ] + {c and } ] the asians historically have always had these kinds of wars going on. /']",c so     c and   c and    c and   the asians historically have always had these kinds of wars going on ,sd,FEMALE,1
+"['right, yeah. /']",right yeah ,b,MALE,2
+"['[ there, + there ]  has not been a lot of peace in that part of the world. /']", there  there   has not been a lot of peace in that part of the world ,sv,FEMALE,3
+['uh-huh  /'],uhhuh  ,b,MALE,2
+['<barking>.'],barking,x,MALE,8
+"['[ i really, + i do ]  not know,  /']", i really  i do   not know  ,h,FEMALE,15
+"['[ i-, + we ] should not have maybe  gotten involved.   /']", i  we  should not have maybe  gotten involved   ,sv,FEMALE,3
+"['{c but } if we did, we certainly should have supported  our people who were there. /']",c but  if we did we certainly should have supported  our people who were there ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['more so supported them when they got home. /'],more so supported them when they got home ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"['{c and, } {f uh, } i am afraid that they were  treated as castaways for the most part. /']",c and  f uh  i am afraid that they were  treated as castaways for the most part ,sv,FEMALE,3
+['exactly. /'],exactly ,ba,MALE,6
+"['{c and } [ i, + i ] saw the movie,']",c and   i  i  saw the movie,sd,FEMALE,1
+['<cough> <throat_clearing>.'],cough throatclearing,x,MALE,8
+"['born on the fourth of july,  /']",born on the fourth of july  ,+,FEMALE,0
+['{c and } i think it  did a good job depicting the temperament of the times. /'],c and  i think it  did a good job depicting the temperament of the times ,sv,FEMALE,3
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"['more than,  {a what was, }  apocalypse now <laughter>. /']",more than  a what was   apocalypse now laughter ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{d well, } dudley, have we pretty  well discussed the subject? /']",d well  dudley have we pretty  well discussed the subject ,qy,FEMALE,7
+['yeah.  /'],yeah  ,b,MALE,2
+['i think so. /'],i think so ,sv,MALE,3
+"['{d well, } i think so.  /']",d well  i think so  ,sv,FEMALE,3
+['i enjoyed talking to you. /'],i enjoyed talking to you ,fc,FEMALE,10
+"['yes,  /']",yes  ,fc,MALE,10
+['it was nice talking to you. /'],it was nice talking to you ,fc,MALE,10
+['uh-huh. /'],uhhuh ,fc,FEMALE,10
+"['okay,  /']",okay  ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

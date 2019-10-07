@@ -1,0 +1,147 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay. /'],okay ,"fo_o_fw_""_by_bc",FEMALE,0
+"['the topic is to discuss the, {f uh, } sources where i receive news. /']",the topic is to discuss the f uh  sources where i receive news ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, }  {f uh, } for me that's mostly newspaper  and radio,  /""]",c and   f uh  for me thats mostly newspaper  and radio  ,sd,MALE,1
+"['i almost never watch television, as a matter of course  /']",i almost never watch television as a matter of course  ,sd,MALE,1
+"[""{c so, }  i don't get news from television,  /""]",c so   i dont get news from television  ,sd,MALE,1
+"['except during the war,']",except during the war,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['i watched a lot of c n n because it was so good. /'],i watched a lot of c n n because it was so good ,+,MALE,0
+"['{d well, } why was c n n the only, - /']",d well  why was c n n the only  ,qw,FEMALE,12
+"['of course i think, saddam hussein only allowed c n n to broadcast it,  /']",of course i think saddam hussein only allowed c n n to broadcast it  ,sv,FEMALE,3
+['is that not true? /'],is that not true ,qy,FEMALE,7
+['{f um. } /'],f um  ,%,MALE,5
+"['it was unusual not to have the different sources,  {d you know, } of news coverage. /']",it was unusual not to have the different sources  d you know  of news coverage ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{f um, } i don't know.  /""]",f um  i dont know  ,h,MALE,15
+"[""i guess, {f uh, } i don't even know why i watched c n n.  /""]",i guess f uh  i dont even know why i watched c n n  ,sd,MALE,1
+"['i guess, i just wanted more news.  /']",i guess i just wanted more news  ,sd,MALE,1
+"[""it's one of the few times i wanted more news than. -/""]",its one of the few times i wanted more news than ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } i know even if you  watched a b c, n b c or the other,  /']",d well  i know even if you  watched a b c n b c or the other  ,sd,FEMALE,1
+"[""{e i mean, }  what's the other one, {f uh, } # c b s. # /""]",e i mean   whats the other one f uh   c b s  ,qh,FEMALE,26
+['# c b s. # /'], c b s  ,b^m,MALE,24
+"['they all [ were, + were ] tapped into c n n. /']",they all  were  were  tapped into c n n ,sd,FEMALE,1
+['were they? /'],were they ,qy,MALE,7
+['uh-uh. /'],uhuh ,nn,FEMALE,13
+['yeah. /'],yeah ,b,MALE,2
+"[""that's the only thing they broadcast  /""]",thats the only thing they broadcast  ,sd,FEMALE,1
+['{c and } like you i listened to radio on my job at work. /'],c and  like you i listened to radio on my job at work ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } all this week they have been having [ this, +  {f uh, } a ] discussion about that is [ why, + {f uh, } why ] c n n was - /']",c and  all this week they have been having  this   f uh  a  discussion about that is  why  f uh  why  c n n was  ,sd,FEMALE,1
+"['{d well, }   i listen to a christian radio station. /']",d well    i listen to a christian radio station ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } they were saying that c n n  is definitely a world, {f uh, } news service  /']",c and  they were saying that c n n  is definitely a world f uh  news service  ,sd,FEMALE,1
+"['{c and, }  {f uh, } they, - /']",c and   f uh  they  ,%,FEMALE,5
+"['it was, - /']",it was  ,%,FEMALE,5
+"[""you can't really  be sure of the quality of what you've got, {d you know. } /""]",you cant really  be sure of the quality of what youve got d you know  ,sv,FEMALE,3
+['{f huh. } /'],f huh  ,%,MALE,5
+"['{f uh, } we had [ some, + {f uh, } some ]  people from our church went to israel, {f uh, } just for a, {f uh, } tour sort of thing. /']",f uh  we had  some  f uh  some   people from our church went to israel f uh  just for a f uh  tour sort of thing ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } i was watching on tv  /'],c and  i was watching on tv  ,sd,FEMALE,1
+"['[ they, + they ]  broadcast this terrible riot  /']", they  they   broadcast this terrible riot  ,sd,FEMALE,1
+"['supposedly that was going on in jerusalem,  /']",supposedly that was going on in jerusalem  ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""{c and so } it really made me question as  to [ what, + how ] do we know, {d you know, } {f uh, } if the news we're getting is any good.  /""]",c and so  it really made me question as  to  what  how  do we know d you know  f uh  if the news were getting is any good  ,sd,FEMALE,1
+"['{c so } <laughter>, -/']",c so  laughter ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['i guess, the news just focuses on major events that probably,']",i guess the news just focuses on major events that probably,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""don't affect ninety-nine percent of the people who are right there when the news is being made. /""]",dont affect ninetynine percent of the people who are right there when the news is being made ,+,MALE,0
+"['right,  /']",right  ,aa,FEMALE,4
+['right. /'],right ,aa,FEMALE,4
+"[""{c but, }  {f uh, } [ i, + i'm ]  from california  /""]",c but   f uh   i  im   from california  ,sd,MALE,1
+"['{c and } i can remember being  [ in, + {f uh, } in ] these earthquakes  /']",c and  i can remember being   in  f uh  in  these earthquakes  ,sd,MALE,1
+"['{c and, }  {e i mean } [ they were, +']",c and   e i mean   they were ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""they were ] very minor kinds of things  from my point of view,  and it seemed, {d you know, } from anyone else's point of view,  /""]",they were  very minor kinds of things  from my point of view  and it seemed d you know  from anyone elses point of view  ,+,MALE,0
+"['{c but } they get all blown up in the news.  {f um, } /']",c but  they get all blown up in the news  f um  ,sd,MALE,1
+['uh-huh <laughter>.  /'],uhhuh laughter  ,b,FEMALE,2
+"['{d well } [ i, + i ]  find it depressing to watch our, - /']",d well   i  i   find it depressing to watch our  ,sd,FEMALE,1
+"['specially tv, {d you know, } - /']",specially tv d you know   ,sd,FEMALE,1
+"[""it's just, {f uh, } - /""]",its just f uh   ,%,FEMALE,5
+"['local news concentrates, on murders and things like that.  /']",local news concentrates on murders and things like that  ,sd,FEMALE,1
+"[""i'm from dallas  /""]",im from dallas  ,sd,FEMALE,1
+"['{c and, }  {f uh, }  we have a lot of bad stuff, {f uh, }  /']",c and   f uh   we have a lot of bad stuff f uh   ,sd,FEMALE,1
+"['it just really gets me depressed,']",it just really gets me depressed,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['even to watch it. /'],even to watch it ,+,FEMALE,0
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['{c so } then, you wake up one morning  /']",c so  then you wake up one morning  ,sv,FEMALE,3
+['{c and } you are in war with somebody  /'],c and  you are in war with somebody  ,sv,FEMALE,3
+"[""you don't [ even, + <laughter> even ] know about it. /""]",you dont  even  laughter even  know about it ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+['{d so. } -/'],d so  ,%,FEMALE,5
+"['{d well, } what newspapers, {f uh, } do you read in dallas? /']",d well  what newspapers f uh  do you read in dallas ,qw,MALE,12
+"['{f uh, } we have the dallas times herald   and the dallas morning news,  /']",f uh  we have the dallas times herald   and the dallas morning news  ,sd,FEMALE,1
+"[""{c but } [ i don't, + i don't ] read newspapers <laughter>. /""]",c but   i dont  i dont  read newspapers laughter ,sd,FEMALE,1
+"[""don't you? /""]",dont you ,qy,MALE,7
+['huh-uh. /'],huhuh ,nn,FEMALE,13
+['how come? /'],how come ,qw,MALE,12
+['uh-huh.  /'],uhhuh  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['i find it hard to, {f uh, }  follow from one page to another.  /']",i find it hard to f uh   follow from one page to another  ,sd,FEMALE,1
+"[""it's just something i have never developed, {f uh, } an interest in. /""]",its just something i have never developed f uh  an interest in ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,%,MALE,5
+"[""{c and } i live in kind of a bad area where  if i have the paper delivered it's stolen before i can get out and get it <laughter>. /""]",c and  i live in kind of a bad area where  if i have the paper delivered its stolen before i can get out and get it laughter ,sd,FEMALE,1
+"[""gosh [ that's, + that sounds ] pretty bad to me.  /""]",gosh  thats  that sounds  pretty bad to me  ,sv,MALE,3
+['{e i mean } who would steal a newspaper? /'],e i mean  who would steal a newspaper ,qw,MALE,12
+['you would be surprised. /'],you would be surprised ,sd,FEMALE,1
+['{f huh? } /'],f huh  ,br,MALE,30
+"[""they just come by and pick them up even  if it's just for the tv, {d you know } [ t-, + {f uh, } selections ] of the day. /""]",they just come by and pick them up even  if its just for the tv d you know   t  f uh  selections  of the day ,sd,FEMALE,1
+['i see. /'],i see ,bk,MALE,14
+"[""i don't know.  /""]",i dont know  ,h,FEMALE,15
+"[""it just wouldn't be there whenever i tried it. /""]",it just wouldnt be there whenever i tried it ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{d so, }  you're right,  /""]",d so   youre right  ,sv,FEMALE,3
+['who would steal a newspaper?  /'],who would steal a newspaper  ,qh,FEMALE,26
+"['<<ice in glass sound in background>> {c but, }  they do. /']",ice in glass sound in background c but   they do ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['what part of california are you from? /'],what part of california are you from ,qw,FEMALE,12
+"['{f uh, } from los angeles, <<pause>>  /']",f uh  from los angeles pause  ,sd,MALE,1
+"['{c but } i live in raleigh, north carolina, right now,  /']",c but  i live in raleigh north carolina right now  ,sd,MALE,1
+"[""that's where i am speaking to you from. /""]",thats where i am speaking to you from ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"['{c but, }  i grew up in l a.  /']",c but   i grew up in l a  ,sd,MALE,1
+['i work out here. /'],i work out here ,sd,MALE,1
+"['{f huh, } you work for t i? /']",f huh  you work for t i ,qy^d,FEMALE,16
+"['no,  /']",no  ,nn,MALE,13
+"[""i don't.  /""]",i dont  ,sd,MALE,1
+['i work for north carolina state university. /'],i work for north carolina state university ,sd,MALE,1
+['{f huh. } /'],f huh  ,%,FEMALE,5
+"['{c but, }  {f uh, } i know some people at t i,  /']",c but   f uh  i know some people at t i  ,sd,MALE,1
+['{c and } i have a couple of students who have graduated and gone to work for them. /'],c and  i have a couple of students who have graduated and gone to work for them ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{d so, } i'm in the computer business. /""]",d so  im in the computer business ,sd,MALE,1
+"['{d well, } i, - /']",d well  i  ,%,FEMALE,5
+"['boy,  current events is not a good subject for me. /']",boy  current events is not a good subject for me ,sd,FEMALE,1
+['{d well. } -/'],d well  ,%,MALE,5
+"[""i don't keep up with it that often. /""]",i dont keep up with it that often ,sd,FEMALE,1
+"[""let's see, [ [ i've, + i've, ] + i've ]  never done this before,  /""]",lets see   ive  ive   ive   never done this before  ,sd,MALE,1
+"[""{e i mean } i've never. -/""]",e i mean  ive never ,sd,MALE,1
+['this is your first call? /'],this is your first call ,qy,FEMALE,7
+['this is my first call.'],this is my first call,na,MALE,21
+['<laughter>.'],laughter,x,FEMALE,8
+['because i just got my password. /'],because i just got my password ,+,MALE,0
+"['{f oh, } really.  /']",f oh  really  ,b,FEMALE,2
+['yeah. /'],yeah ,%,FEMALE,5
+"[""{c so } i don't know,  /""]",c so  i dont know  ,h,MALE,15
+"['are we suppose to, - /']",are we suppose to  ,qy,MALE,7
+"['it seems to me it says you are suppose to talk for three minutes,  /']",it seems to me it says you are suppose to talk for three minutes  ,sd,MALE,1
+"[""{c but } i think we've been talking for three minutes  /""]",c but  i think weve been talking for three minutes  ,sd,MALE,1
+['{c and } nobody has interrupted. /'],c and  nobody has interrupted ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well } [ i, + i ]  got into a conversation last night with a lady  /']",d well   i  i   got into a conversation last night with a lady  ,sd,FEMALE,1
+"['{c and } they interrupt at ten,']",c and  they interrupt at ten,sd,FEMALE,1
+['i see. /'],i see ,bk,MALE,14
+['minutes.  /'],minutes  ,+,FEMALE,0
+"[""{c so } if we've done our three minutes.""]",c so  if weve done our three minutes,ad,FEMALE,22
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""let's just let the conversation end and say bye. /""]",lets just let the conversation end and say bye ,+,FEMALE,0
+"['{d well, } all right.  /']",d well  all right  ,aa,MALE,4
+['nice talking to you. /'],nice talking to you ,fc,MALE,10
+['nice talking to you too. /'],nice talking to you too ,fc,FEMALE,10
+"['all right,  /']",all right  ,fc,MALE,10
+['bye. /'],bye ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

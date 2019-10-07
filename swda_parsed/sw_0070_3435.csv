@@ -1,0 +1,157 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['((push)) my number.  /'],push my number  ,ad,MALE,22
+['okay. /'],okay ,%,MALE,5
+['okay.  /'],okay  ,b^m,MALE,24
+"['{d so } are you [ [ a, + a, ] + a ] golfer  /']",d so  are you   a  a   a  golfer  ,qy,MALE,7
+['{c or } are you a spectator? /'],c or  are you a spectator ,qrr,MALE,33
+"[""{f oh, } i'm a, - /""]",f oh  im a  ,sd,MALE,1
+['i play golf  /'],i play golf  ,sd,MALE,1
+"[""{c but } i don't actually play golf. /""]",c but  i dont actually play golf ,sd,MALE,1
+"[""{d well, } i'm the same way.  /""]",d well  im the same way  ,sd,MALE,1
+"['[ i, +']", i ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+['# i ] go out there # and hit the ball. /'], i  go out there  and hit the ball ,+,MALE,0
+['hack it all over the place?  /'],hack it all over the place  ,bf,MALE,20
+['yeah. /'],yeah ,aa,MALE,4
+"[""it's sickening, isn't it? /""]",its sickening isnt it ,qy,MALE,7
+"[""{f um, } {f uh, } {d well, } in the carolinas [ it's, + it's ] just, {d you know, } we've got a bunch of golf courses around here. /""]",f um  f uh  d well  in the carolinas  its  its  just d you know  weve got a bunch of golf courses around here ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""we've got tons up here  /""]",weve got tons up here  ,sd,MALE,1
+"[""{c but } i don't know.  /""]",c but  i dont know  ,h,MALE,15
+['how do you feel about your game?  /'],how do you feel about your game  ,qw,MALE,12
+"[""i guess that's a good question? /""]",i guess thats a good question ,qy^d,MALE,16
+"[""{f uh, } {d well, } {e i mean } i'm not a serious golfer at all,  /""]",f uh  d well  e i mean  im not a serious golfer at all  ,sd,MALE,1
+"['{f uh, } {f uh, } a friend of mine goes golfing a lot  /']",f uh  f uh  a friend of mine goes golfing a lot  ,sd,MALE,1
+['{c and } he drags me out every now and then  /'],c and  he drags me out every now and then  ,sd,MALE,1
+"[""{c and } [ [ i, + {f uh, } i don't have a, ] + i don't really even have a ] game.  /""]",c and    i  f uh  i dont have a   i dont really even have a  game  ,sd,MALE,1
+['i usually - /'],i usually  ,%,MALE,5
+"[""when  i go out and play golf it's usually like [ at a, + at one of these ] par threes that,""]",when  i go out and play golf its usually like  at a  at one of these  par threes that,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d you know, } you, - /']",d you know  you  ,+,MALE,0
+"['{c but, } {f um, } i like watching it on t v. /']",c but  f um  i like watching it on t v ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['i like that too. /'],i like that too ,sd,MALE,1
+"[""# i # don't know  /""]", i  dont know  ,h,MALE,15
+"['i try to play,  /']",i try to play  ,sd,MALE,1
+"['{c but } god, [ i, + a couple years ago i ] played two, three times a week and got lousy.  /']",c but  god  i  a couple years ago i  played two three times a week and got lousy  ,sd,MALE,1
+"[""i guess that's the best i ever got was lousy.  /""]",i guess thats the best i ever got was lousy  ,sv,MALE,3
+['{c and } i thought i was really improving and the big break was going to come  /'],c and  i thought i was really improving and the big break was going to come  ,sv,MALE,3
+['{c and then } i got worse again  /'],c and then  i got worse again  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"[""((to get me)) [ they, + they ] say i hit worm burners because [ i, + i ] can't hit it up in the air. /""]",to get me  they  they  say i hit worm burners because  i  i  cant hit it up in the air ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{d so } i'm pretty bad  /""]",d so  im pretty bad  ,sd,MALE,1
+"['{c but } [ [ i, + i, ] + i ] get great distance hitting it, {d you know, } (( )) across the ground,  /']",c but    i  i   i  get great distance hitting it d you know    across the ground  ,sd,MALE,1
+"[""{c and } if it's going over water or something one of them have to take the shot for me because i'm, - /""]",c and  if its going over water or something one of them have to take the shot for me because im  ,sd,MALE,1
+"[""{c but } i'm getting better.  /""]",c but  im getting better  ,sd,MALE,1
+"[""i've got where now i can hit it [ in, + in ] the air some of the time. /""]",ive got where now i can hit it  in  in  the air some of the time ,sd,MALE,1
+"[""that's pretty good. /""]",thats pretty good ,ba,MALE,6
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{f uh, } {c so } i'm kind of a novice at it. /""]",f uh  c so  im kind of a novice at it ,sd,MALE,1
+"[""{f um, } i'm that and worse.  /""]",f um  im that and worse  ,sd,MALE,1
+"['[ i, + i ] play - /']", i  i  play  ,sd,MALE,1
+"['next year i, - /']",next year i  ,%,MALE,5
+['actually i take it kind of seriously  /'],actually i take it kind of seriously  ,sd,MALE,1
+"[""{c but } i've been doing so bad.  /""]",c but  ive been doing so bad  ,sd,MALE,1
+"[""[ next year, + {a i always say this every year, } {c but } next year ] i'm starting over from scratch.  /""]", next year  a i always say this every year  c but  next year  im starting over from scratch  ,sd,MALE,1
+"[""i'm going to go take lessons and everything.  /""]",im going to go take lessons and everything  ,sd,MALE,1
+"[""i'm going to do it right, and see if i can actually play this game or not. /""]",im going to do it right and see if i can actually play this game or not ,sd,MALE,1
+"[""{d well, } [ that + ] [ i, + i ] guess that's what i need to do [ is, + is ] get some kind of lessons or something.  /""]",d well   that    i  i  guess thats what i need to do  is  is  get some kind of lessons or something  ,sv,MALE,3
+"['{c because } [ [ i, + my, ] + my ] tee off is not bad,  /']",c because    i  my   my  tee off is not bad  ,sd,MALE,1
+"[""{e i mean } [ i'm, + i'm ] good up to everything else putting and stuff like that  /""]",e i mean   im  im  good up to everything else putting and stuff like that  ,sd,MALE,1
+"[""it's just, [ that, + that ] initial tee <laughter>. /""]",its just  that  that  initial tee laughter ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""what do you do when you're putting?  /""]",what do you do when youre putting  ,qw,MALE,12
+"[""that's a good thing.  /""]",thats a good thing  ,sv,MALE,3
+"[""that's something i could learn actually.  /""]",thats something i could learn actually  ,sv,MALE,3
+"[""that's when i do my worst.  /""]",thats when i do my worst  ,sd,MALE,1
+['i finally get to the green  /'],i finally get to the green  ,sd,MALE,1
+"[""{c and } i think i'm doing [ all, + all ] fine  /""]",c and  i think im doing  all  all  fine  ,sv,MALE,3
+"['{c and then, } -/']",c and then  ,%,MALE,5
+"[""just walking around the hollow and making sure there's not really, - /""]",just walking around the hollow and making sure theres not really  ,sd,MALE,1
+"['{d you know, } checking the ground [ and, + and ] so forth, {d you know. } /']",d you know  checking the ground  and  and  so forth d you know  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""see how it's going to break or whatever. /""]",see how its going to break or whatever ,sd,MALE,1
+['can you really see it though? /'],can you really see it though ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['# what about the speed? # /'], what about the speed  ,qw,MALE,12
+"['[ # if you get, + # if you get ] down on the ground you really can. /']",  if you get   if you get  down on the ground you really can ,sv,MALE,3
+"[""[ can you tell [ ho-, + no-, ] + {c but } can you tell [ how, + how ] ] fast you're going to hit it? /""]", can you tell  ho  no   c but  can you tell  how  how   fast youre going to hit it ,qy,MALE,7
+"[""{f um, } {d well, } [ if + you know if ] it's up on a slope that you've got to hit it not kill it  /""]",f um  d well   if  you know if  its up on a slope that youve got to hit it not kill it  ,sd,MALE,1
+"[""{c but } you've got to hit enough speed and the right angle that [ it's, + it's, ] {d you know, } - /""]",c but  youve got to hit enough speed and the right angle that  its  its  d you know   ,sd,MALE,1
+"[""because when it's going up a hill it's going to break # in a direction. # /""]",because when its going up a hill its going to break  in a direction  ,sd,MALE,1
+"['# yeah,  /']", yeah  ,b,MALE,2
+['{c but } # you can feel that? /'],c but   you can feel that ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+"[""i don't know  /""]",i dont know  ,h,MALE,15
+"['[ i have, + i can ] [ gi-, + get ] it within {d like, } {d you know, } four or five feet or something  /']", i have  i can   gi  get  it within d like  d you know  four or five feet or something  ,sd,MALE,1
+"[""{c but } i don't have enough field.  /""]",c but  i dont have enough field  ,sd,MALE,1
+"[""now i'm t v watching. /""]",now im t v watching ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+['# they # make you die at the hole every time. /'], they  make you die at the hole every time ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"['# {f oh, } it # just dies and rolls in.  /']", f oh  it  just dies and rolls in  ,sd,MALE,1
+"[""i don't know, /""]",i dont know ,h,MALE,15
+"['# {c but } i, # -/']", c but  i  ,%,MALE,5
+"[""# it's hard for me. # /""]", its hard for me  ,sd,MALE,1
+"['[ the, + the, ] - /']", the  the   ,%,MALE,5
+"[""[ it's, + it's ] like i said  /""]", its  its  like i said  ,sd,MALE,1
+"[""once i get up on the green i'm fine,  /""]",once i get up on the green im fine  ,sd,MALE,1
+"['{c but } [ that, + that ] tee shot, {f uh, } it, {d you know, } - /']",c but   that  that  tee shot f uh  it d you know   ,sd,MALE,1
+"[""when teeing off [ i-, + i'll ] go probably a hundred feet across the ground  /""]",when teeing off  i  ill  go probably a hundred feet across the ground  ,sd,MALE,1
+"['{c so } [ it, + it ] takes me awhile to get to the hole  /']",c so   it  it  takes me awhile to get to the hole  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+"[""once you're there, you're all set though. /""]",once youre there youre all set though ,bf,MALE,20
+"[""i'm all set. /""]",im all set ,aa,MALE,4
+['we should play team golf then. /'],we should play team golf then ,oo_co_cc,MALE,36
+['<laughter>.'],laughter,x,MALE,8
+"[""i'll get us there  /""]",ill get us there  ,sd,MALE,1
+['{c and } you put it in. /'],c and  you put it in ,ad,MALE,22
+['<laughter> (( )) that sounds good to me. /'],laughter   that sounds good to me ,aa,MALE,4
+"['i s-, - /']",i s  ,%,MALE,5
+"['{f oh, } the t v golfers they do that.  /']",f oh  the t v golfers they do that  ,sd,MALE,1
+['it takes them two to get there and two to get it in  /'],it takes them two to get there and two to get it in  ,sd,MALE,1
+"[""{c so } it's fifty percent.   /""]",c so  its fifty percent   ,sd,MALE,1
+['{c and } me it takes me five to get there and five to get it in. /'],c and  me it takes me five to get there and five to get it in ,sd,MALE,1
+"['{d well, } [ [ it, + it, ] + it ] usually takes me about probably [ two, + two ] or three to get it there  /']",d well    it  it   it  usually takes me about probably  two  two  or three to get it there  ,sd,MALE,1
+"[""[ {c and, } + {c and then, } ] that's according to the hole  /""]", c and   c and then   thats according to the hole  ,sd,MALE,1
+"['{c and } it ju-, - /']",c and  it ju  ,%,MALE,5
+"['{f uh, } {f uh, } maybe one or two putts.  /']",f uh  f uh  maybe one or two putts  ,sd,MALE,1
+"[""it's,""]",its,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""# according to # where i'm at on the green. /""]", according to  where im at on the green ,+,MALE,0
+"[""that's good. /""]",thats good ,ba,MALE,6
+"['{c but } the friends i play with, {f uh, } they play all the time  /']",c but  the friends i play with f uh  they play all the time  ,sd,MALE,1
+"[""[ {c and, } + {c and } ] they're really good. /""]", c and   c and   theyre really good ,sd,MALE,1
+['joe pros? /'],joe pros ,bf,MALE,20
+"[""{f uh, } they're not joe pros  /""]",f uh  theyre not joe pros  ,ar,MALE,28
+"['{c but } [ they, + they ] golf in the high sixties low seventies  /']",c but   they  they  golf in the high sixties low seventies  ,sd,MALE,1
+"[""{c so } i guess they're pretty good <laughter>. /""]",c so  i guess theyre pretty good laughter ,sv,MALE,3
+"[""that's pretty good.  /""]",thats pretty good  ,ba,MALE,6
+['for eighteen? /'],for eighteen ,qy^d,MALE,16
+['yeah.  /'],yeah  ,ny,MALE,9
+['for eighteen. /'],for eighteen ,sd,MALE,1
+"['wow,  /']",wow  ,ba,MALE,6
+"[""that's pretty good. /""]",thats pretty good ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""i'm talking to the wrong guy.  /""]",im talking to the wrong guy  ,sd,MALE,1
+"[""your shitty golf is probably the best golf i've ever seen. /""]",your shitty golf is probably the best golf ive ever seen ,sv,MALE,3
+"['no,  /']",no  ,ar,MALE,28
+"['no,  /']",no  ,ar,MALE,28
+"['no,  /']",no  ,ar,MALE,28
+"[""that's not my golf.  /""]",thats not my golf  ,sd,MALE,1
+"[""that's my friends.  /""]",thats my friends  ,sd,MALE,1
+"['[ mine, + mine, ] - /']", mine  mine   ,%,MALE,5
+"[""[ i'm, + i'm ] usually in the eighties or nineties  /""]", im  im  usually in the eighties or nineties  ,sd,MALE,1
+"[""{c so } [ i'm, + i'm ] not good <laughter>. /""]",c so   im  im  not good laughter ,sv,MALE,3
+"[""[ if, + when ] i'm in the nineties i'm feeling good.  /""]", if  when  im in the nineties im feeling good  ,sd,MALE,1
+"[""i'm usually around a hundred.  /""]",im usually around a hundred  ,sd,MALE,1
+"[""that's my thing.  around a hundred.  /""]",thats my thing  around a hundred  ,sd,MALE,1
+"[""{d you know, } i can hit a great drives and think i'm going to do all awesome on this hole  /""]",d you know  i can hit a great drives and think im going to do all awesome on this hole  ,sd,MALE,1
+"[""{c but } it ain't going to happen. /""]",c but  it aint going to happen ,sd,MALE,1
+"['{d well, } [ i either, + teeing off i either ] slice it  /']",d well   i either  teeing off i either  slice it  ,sd,MALE,1
+['{c or } i hook it ever single time  /'],c or  i hook it ever single time  ,sd,MALE,1
+"['[ {c and, } + {c and } ] i alternate. /']", c and   c and   i alternate ,sd,MALE,1
+"[""{d well, } it's a good thing with me i slice it every single time.  /""]",d well  its a good thing with me i slice it every single time  ,sd,MALE,1
+"[""that's good.  /""]",thats good  ,sv,MALE,3
+"['i aim, -/']",i aim ,sd,MALE,1

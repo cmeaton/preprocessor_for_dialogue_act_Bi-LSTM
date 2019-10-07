@@ -1,0 +1,236 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['you ready? /'],you ready ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+['okay.  /'],okay  ,bk,FEMALE,14
+['what have you seen lately? /'],what have you seen lately ,qw,FEMALE,12
+"[""{d well, } {f uh, } it's funny, when i tried,""]",d well  f uh  its funny when i tried,^h,FEMALE,27
+['<noise>.'],noise,x,FEMALE,8
+"['to make the call the other days,  /']",to make the call the other days  ,+,FEMALE,0
+"['i thought, -/']",i thought ,sd,FEMALE,1
+['<noise>.'],noise,x,FEMALE,8
+"[""i hadn't seen anything since dances with wolves  /""]",i hadnt seen anything since dances with wolves  ,sd,FEMALE,1
+['{c but } today i went to see regarding with henry. /'],c but  today i went to see regarding with henry ,sd,FEMALE,1
+"[""{f oh, } i'm dying to see # that. # /""]",f oh  im dying to see  that  ,sd,FEMALE,1
+['# it # was really good.  /'], it  was really good  ,sv,FEMALE,3
+['# we # -- -/'], we   ,%,FEMALE,5
+['# oh. # /'], oh  ,b,FEMALE,2
+"['-- {f uh, } jeff wariner just got out of the hospital -- /']", f uh  jeff wariner just got out of the hospital  ,sd,FEMALE,1
+['uh-huh <talking>. /'],uhhuh talking ,b,FEMALE,2
+"['-- {c and, } {f uh, } jeff and deeanna went and <swallowing> another friend in the neighborhood,  /']", c and  f uh  jeff and deeanna went and swallowing another friend in the neighborhood  ,sd,FEMALE,1
+"['{c and, } {f uh, } we all liked it.  /']",c and  f uh  we all liked it  ,sd,FEMALE,1
+"['we had both moms and, {f uh, } fifteen year olds and a twelve year old  /']",we had both moms and f uh  fifteen year olds and a twelve year old  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+"['{f oh, } my goodness. /']",f oh  my goodness ,ba,FEMALE,6
+['-- everyone enjoyed it.  /'], everyone enjoyed it  ,+,FEMALE,0
+"['# {c and, } {f uh, } # -/']", c and  f uh   ,%,FEMALE,5
+"['# {f oh, } {d well } # i am just dying to see it.  /']", f oh  d well   i am just dying to see it  ,sd,FEMALE,1
+['i went to dinner with some friends last weekend  /'],i went to dinner with some friends last weekend  ,sd,FEMALE,1
+['{c and } they said get a baby-sitter  /'],c and  they said get a babysitter  ,sd,FEMALE,1
+"[""{c and } we'll all go see regarding henry -- /""]",c and  well all go see regarding henry  ,^q,FEMALE,19
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- {c and } i said, ooh, i want to see it so bad. /']", c and  i said ooh i want to see it so bad ,sd,FEMALE,1
+"['{d well, } my son had gotten to see a lot of movies this summer, on, choir tour and --']",d well  my son had gotten to see a lot of movies this summer on choir tour and ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['-- visiting friends and one thing and another.  a lot of the ones i had wanted to see  /'], visiting friends and one thing and another  a lot of the ones i had wanted to see  ,+,FEMALE,0
+"['{c and so } since he had this friend up from houston, {f uh, } and his friend had already seen so many and i thought they decided on this and i thought {d well, } i want to see this one, too.  /']",c and so  since he had this friend up from houston f uh  and his friend had already seen so many and i thought they decided on this and i thought d well  i want to see this one too  ,sd,FEMALE,1
+"['{d so, } <laughter> # [ we, + {f uh, } #']",d so  laughter   we  f uh  ,%,FEMALE,5
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['i ] - /'],i   ,+,FEMALE,0
+"[""finally, it's my first summer movie <laughter>. /""]",finally its my first summer movie laughter ,sd,FEMALE,1
+['{f oh } my. - /'],f oh  my  ,ba,FEMALE,6
+"['{d well, } let me see.  /']",d well  let me see  ,^h,FEMALE,27
+"['was it, - /']",was it  ,qy,FEMALE,7
+"['{d well, } we went to see one hundred and one dalmatians last weekend  /']",d well  we went to see one hundred and one dalmatians last weekend  ,sd,FEMALE,1
+"['{c and } that may be, - /']",c and  that may be  ,sv,FEMALE,3
+"['no,  /']",no  ,ar,FEMALE,28
+"['right before i went in the hospital my girlfriend said come on,  /']",right before i went in the hospital my girlfriend said come on  ,sd,FEMALE,1
+"[""we're going to the movies.  /""]",were going to the movies  ,^q,FEMALE,19
+"[""{c and } we won't, - /""]",c and  we wont  ,sd,FEMALE,1
+['{d well } she goes all the time  /'],d well  she goes all the time  ,sd,FEMALE,1
+['{c but } i go maybe once every couple of months. /'],c but  i go maybe once every couple of months ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } when i go, i go see two at a time. <laughter>  /']",c and  when i go i go see two at a time laughter  ,sd,FEMALE,1
+"['{c so } we went to see soapdish, #  /']",c so  we went to see soapdish   ,sd,FEMALE,1
+['{c and } # -- -/'],c and    ,%,FEMALE,5
+"['# {f oh, } # was that good?  /']", f oh   was that good  ,qy,FEMALE,7
+"['{c cause, } -/']",c cause  ,%,FEMALE,5
+"['-- {f oh, } hysterical.  /']", f oh  hysterical  ,sv,FEMALE,3
+"['we laughed so hard, /']",we laughed so hard ,sd,FEMALE,1
+['<breathing>.'],breathing,x,FEMALE,8
+"[""it was just, you couldn't hear half the dialogue because everyone in the audience was # laughing # --""]",it was just you couldnt hear half the dialogue because everyone in the audience was  laughing  ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['-- # so hard. # /'],  so hard  ,+,FEMALE,0
+"['# {d well, } i want # to see that and city slickers both. #  /']", d well  i want  to see that and city slickers both   ,sd,FEMALE,1
+['i love # --'],i love  ,sd,FEMALE,1
+['# yeah # -- /'], yeah   ,b,FEMALE,2
+['-- # comedies.  /'],  comedies  ,+,FEMALE,0
+"[""{c but, } that's what i was <laughter>, # -/""]",c but  thats what i was laughter  ,sd,FEMALE,1
+"[""-- # that's the other one that we went to that night. # /""]",  thats the other one that we went to that night  ,sd,FEMALE,1
+"['<laughter>  {f oh, } was it? /']",laughter  f oh  was it ,bh,FEMALE,18
+"['{c and, } my face hurt so bad,']",c and  my face hurt so bad,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['from laughing --'],from laughing ,+,FEMALE,0
+['{f oh } <<very faintly>>. /'],f oh  very faintly ,b,FEMALE,2
+['-- because i love billy crystal.  /'], because i love billy crystal  ,+,FEMALE,0
+"['{c and } course, growing up [ on, + on ] the back of a horse, {d you know, } and being on ranches and stuff, so much of that was so true  /']",c and  course growing up  on  on  the back of a horse d you know  and being on ranches and stuff so much of that was so true  ,sv,FEMALE,3
+['{c and } i was absolutely rolling in the aisles.  /'],c and  i was absolutely rolling in the aisles  ,sd,FEMALE,1
+['it was so funny.  /'],it was so funny  ,sv,FEMALE,3
+['both of them were great. /'],both of them were great ,sv,FEMALE,3
+"['{f oh, } {d well } good.  /']",f oh  d well  good  ,ba,FEMALE,6
+"[""[ i'm, + i'm ] glad to hear that # because they, # -/""]", im  im  glad to hear that  because they  ,sd,FEMALE,1
+"['# {f oh, } they [ are, + # are ] - /']", f oh  they  are   are   ,aa,FEMALE,4
+['we just laughed so hard.  /'],we just laughed so hard  ,sd,FEMALE,1
+"['{c and } like i said, [ with  city slick-, + {e i mean } with soapdish, ] it is so cornball  /']",c and  like i said  with  city slick  e i mean  with soapdish  it is so cornball  ,sv,FEMALE,3
+"[""{c and } it is so overacted that you're just hysterical --""]",c and  it is so overacted that youre just hysterical ,sv,FEMALE,3
+['uh-huh <<faint>>. /'],uhhuh faint ,b,FEMALE,2
+['-- {d you know. }  /'], d you know   ,+,FEMALE,0
+"['[ just, + they just ] carried it off,']", just  they just  carried it off,sv,FEMALE,3
+['<noise>.'],noise,x,FEMALE,8
+['to the tee. /'],to the tee ,+,FEMALE,0
+"[""{d well, } [ i don't, + i don't ] know if you got to see weekend, {f um, } at bernie's --""]",d well   i dont  i dont  know if you got to see weekend f um  at bernies ,qy^d,FEMALE,16
+['# no. # /'], no  ,nn,FEMALE,13
+['-- # that # was out a couple of years ago.  /'],  that  was out a couple of years ago  ,+,FEMALE,0
+"['they had a free showing at the berkeley, {f um, } united artist. /']",they had a free showing at the berkeley f um  united artist ,sd,FEMALE,1
+['how neat. /'],how neat ,ba,FEMALE,6
+"[""{c and, } <breathing> i don't know who was here or whether jay called a friend  /""]",c and  breathing i dont know who was here or whether jay called a friend  ,sd,FEMALE,1
+"[""{c and } we didn't think we'd have much chance of getting in  /""]",c and  we didnt think wed have much chance of getting in  ,sd,FEMALE,1
+"[""{c but } we thought we'd try it, {d you know, } free movie. /""]",c but  we thought wed try it d you know  free movie ,sd,FEMALE,1
+"['shoot,  /']",shoot  ,ba,FEMALE,6
+['yeah. /'],yeah ,aa,FEMALE,4
+"['it was so funny and it sounds like, {f uh, } what you were just describing, soapdish, too.  /']",it was so funny and it sounds like f uh  what you were just describing soapdish too  ,sv,FEMALE,3
+"['{e i mean, } [ we just, + we ] hurt by the time we came # out. # /']",e i mean   we just  we  hurt by the time we came  out  ,sd,FEMALE,1
+['# {f oh } # yeah. /'], f oh   yeah ,b,FEMALE,2
+['{c and } the whole theater was hysterical  /'],c and  the whole theater was hysterical  ,sd,FEMALE,1
+"[""{c and } [ it's just, + it's just ] goofy.  /""]",c and   its just  its just  goofy  ,sv,FEMALE,3
+"[""{e i mean, } it's, {f uh, } - /""]",e i mean  its f uh   ,%,FEMALE,5
+"['if you have a chance to rent it, at least, - /']",if you have a chance to rent it at least  ,ad,FEMALE,22
+"['{c or } it should be # out on t v, i would think, # /']",c or  it should be  out on t v i would think  ,sv,FEMALE,3
+"['# yeah,  /']", yeah  ,aa,FEMALE,4
+['i think it is. #  /'],i think it is   ,sv,FEMALE,3
+['i think it is. /'],i think it is ,sv,FEMALE,3
+"[""{f um, } cause [ it's, + it's ] just a fun summer light comedy,  /""]",f um  cause  its  its  just a fun summer light comedy  ,sv,FEMALE,3
+['make your cheeks hurt laughing.  /'],make your cheeks hurt laughing  ,sv,FEMALE,3
+"['especially in the theater it was contagious, {d you know } -- /']",especially in the theater it was contagious d you know   ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- [ i, + i ] imagine the way soapdish was, but, # with # --']",  i  i  imagine the way soapdish was but  with  ,sv,FEMALE,3
+['# {f oh } gosh # -- /'], f oh  gosh   ,ba,FEMALE,6
+['-- # everyone laughing. # /'],  everyone laughing  ,+,FEMALE,0
+['-- # i never laughed. #  /'],  i never laughed   ,sd,FEMALE,1
+['{c and } people were just screaming and applauding  /'],c and  people were just screaming and applauding  ,sd,FEMALE,1
+"['{c and, } {d you know, } it was just hysterical. /']",c and  d you know  it was just hysterical ,sv,FEMALE,3
+"[""{d well, } i'm glad you did that before your surgery <laughter>. /""]",d well  im glad you did that before your surgery laughter ,sd,FEMALE,1
+"[""{f oh, } me too, because i don't even know if i could live through it now. /""]",f oh  me too because i dont even know if i could live through it now ,sd,FEMALE,1
+['yeah <laughter>. /'],yeah laughter ,b,FEMALE,2
+"[""{e i mean } i'm getting around real good  /""]",e i mean  im getting around real good  ,sd,FEMALE,1
+"[""{c and } i'm just still real sore. /""]",c and  im just still real sore ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } today [ [ i was, + i, ] + course i ] went back to work two weeks after, # {f uh } # -- /']",c and  today   i was  i   course i  went back to work two weeks after  f uh    ,sd,FEMALE,1
+"['# {f oh, } # gosh. /']", f oh   gosh ,ba,FEMALE,6
+"[""-- {c but } {d see } i don't have permanent work.  /""]", c but  d see  i dont have permanent work  ,sd,FEMALE,1
+"[""[ i, + right now i'm ] working with a temporary agency.  /""]", i  right now im  working with a temporary agency  ,sd,FEMALE,1
+"['{c and so, } the second week i was out of the hospital i went up and worked half day on the computers cause you can learn all the software for free. /']",c and so  the second week i was out of the hospital i went up and worked half day on the computers cause you can learn all the software for free ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""{f oh, } {c so } i went up to do wordperfect cause that seems like that's what everybody wants,  /""]",f oh  c so  i went up to do wordperfect cause that seems like thats what everybody wants  ,sd,FEMALE,1
+['{c and } i was up there half a day and came home and collapsed. /'],c and  i was up there half a day and came home and collapsed ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['{c and then } they called me to see if i wanted to work a day.  /'],c and then  they called me to see if i wanted to work a day  ,sd,FEMALE,1
+"['{c and } i said, yeah,  /']",c and  i said yeah  ,sd,FEMALE,1
+['{c and } i went  /'],c and  i went  ,sd,FEMALE,1
+['{c and } of course it took me the whole weekend to recover from that.  /'],c and  of course it took me the whole weekend to recover from that  ,sd,FEMALE,1
+"['{c and, } {f uh, } i worked about three days a week ever since, two to three days a week.  /']",c and  f uh  i worked about three days a week ever since two to three days a week  ,sd,FEMALE,1
+"['{c and so } i went to my doctors last thursday, /']",c and so  i went to my doctors last thursday ,sd,FEMALE,1
+['<cough>.'],cough,x,FEMALE,8
+['{c and } this was my fourth week checkup  /'],c and  this was my fourth week checkup  ,sd,FEMALE,1
+"[""{c and } he said {d well } gosh, you're just healing really well,  /""]",c and  he said d well  gosh youre just healing really well  ,sd,FEMALE,1
+"[""i just can't get over this.  /""]",i just cant get over this  ,^q,FEMALE,19
+"['he says, in two weeks you can go back to doing your crazy normal things.  /']",he says in two weeks you can go back to doing your crazy normal things  ,sd,FEMALE,1
+"['if you want to play ball, you can go play ball.  /']",if you want to play ball you can go play ball  ,^q,FEMALE,19
+"[""he says, {d now } i'm not going to say you're going to feel like playing ball  /""]",he says d now  im not going to say youre going to feel like playing ball  ,sd,FEMALE,1
+['{c but } you can --'],c but  you can ,^q,FEMALE,19
+['yeah <laughter>. /'],yeah laughter ,b,FEMALE,2
+['-- if you want to.  /'], if you want to  ,+,FEMALE,0
+"['{c and, } {f uh, } {d you know, } he was teasing me  /']",c and  f uh  d you know  he was teasing me  ,sd,FEMALE,1
+"['{c and } he says, yeah,  /']",c and  he says yeah  ,sd,FEMALE,1
+"[""you'll be out there waterskiing,  /""]",youll be out there waterskiing  ,^q,FEMALE,19
+['i can just see it # now. # /'],i can just see it  now  ,^q,FEMALE,19
+['# <laughter>. #'], laughter ,x,FEMALE,8
+"['{c and, } {f uh, } he says so you just take it easy for two more weeks.  /']",c and  f uh  he says so you just take it easy for two more weeks  ,sd,FEMALE,1
+"[""you've only got two more weeks.  /""]",youve only got two more weeks  ,^q,FEMALE,19
+"['i said okay fine, [ [ i, + i will, ] + i will ] <laughter>.  /']",i said okay fine   i  i will   i will  laughter  ,sd,FEMALE,1
+"[""whatever you call easy, i'll do it, {d you know. }  /""]",whatever you call easy ill do it d you know   ,^q,FEMALE,19
+"[""<lipsmack> [ {c but } + {c and } ] i've been out trying to find a job because this is <noise> just not cutting it. /""]",lipsmack  c but   c and   ive been out trying to find a job because this is noise just not cutting it ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah <<very faintly>>. /'],yeah very faintly ,b,FEMALE,2
+"[""{c and so, } [ i don't, + i'm ] real glad that we didn't go see those funny ones [ when i was, + when i'm ] still sort of on the sore side. /""]",c and so   i dont  im  real glad that we didnt go see those funny ones  when i was  when im  still sort of on the sore side ,sd,FEMALE,1
+['yeah <<very faintly>>. /'],yeah very faintly ,b,FEMALE,2
+"['{c but, } - /']",c but   ,%,FEMALE,5
+"[""{d well, } [ wha-, + what's ] your next, - /""]",d well   wha  whats  your next  ,qw,FEMALE,12
+['have you seen robin hood yet? /'],have you seen robin hood yet ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['that was one, {f uh, } jay got to see <laughter> with a friend  /']",that was one f uh  jay got to see laughter with a friend  ,sd,FEMALE,1
+['{c and # so } i # -- -/'],c and  so  i   ,%,FEMALE,5
+['# <lipsmack>  {f uh. } # /'], lipsmack  f uh   ,%,FEMALE,5
+"[""-- {c and } to [ try and, + {f uh, } try and ] find time it's hard, {f uh, } with jim's schedule, too, just to get a time # that we can both go. # /""]", c and  to  try and  f uh  try and  find time its hard f uh  with jims schedule too just to get a time  that we can both go  ,sd,FEMALE,1
+['# {f oh } yeah. # /'], f oh  yeah  ,b,FEMALE,2
+"[""{c and, } {f uh, } i'm holding out for city slickers for the two of us because, {f uh, } we had friends that went to see that and said, {d you know, } it's just perfect for our age group <laughter> -- /""]",c and  f uh  im holding out for city slickers for the two of us because f uh  we had friends that went to see that and said d you know  its just perfect for our age group laughter  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ {c and } + {c because } ] i think [ he, + he ] needs a comedy, too.  /']",  c and   c because   i think  he  he  needs a comedy too  ,sv,FEMALE,3
+"[""{f uh, } {c and } that's what he would have liked to have seen regarding henry, too,  /""]",f uh  c and  thats what he would have liked to have seen regarding henry too  ,sd,FEMALE,1
+"['{c but } knew that, {f uh, } - /']",c but  knew that f uh   ,%,FEMALE,5
+"[""[ we've, + we've ] got a lot of company this summer, which is wonderful.  /""]", weve  weve  got a lot of company this summer which is wonderful  ,sv,FEMALE,3
+"[""we're really enjoying it  /""]",were really enjoying it  ,sd,FEMALE,1
+"[""{c but } some of the different things we're doing, {f uh } --""]",c but  some of the different things were doing f uh  ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""-- # there's # just not [ a time, + enough time ] to do it all  /""]",  theres  just not  a time  enough time  to do it all  ,+,FEMALE,0
+"['{c and } [ he said, + {d well, } realistically <laughter>,']",c and   he said  d well  realistically laughter,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""# {d you know, } he # knew ] he couldn't get them all in.  /""]", d you know  he  knew  he couldnt get them all in  ,+,FEMALE,0
+"['{c but, } {f uh, } jay really liked robin hood.  /']",c but  f uh  jay really liked robin hood  ,sd,FEMALE,1
+"['{f um, } when the choir group went to see backdraft and they thought [ that was, + {f uh, } it was ] funny cause he sounded like the critics.  /']",f um  when the choir group went to see backdraft and they thought  that was  f uh  it was  funny cause he sounded like the critics  ,sd,FEMALE,1
+"[""he said, {d you know } the plot line and the characters, {f uh, } {d you know } aren't real big  /""]",he said d you know  the plot line and the characters f uh  d you know  arent real big  ,sd,FEMALE,1
+"['{c but } [ the, + the ] fire scenes and [ the dra-, + # {d you know } # --']",c but   the  the  fire scenes and  the dra   d you know   ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- that action part ] is fantastic.  /'], that action part  is fantastic  ,+,FEMALE,0
+"['{c but, } he thought robin hood was great.  /']",c but  he thought robin hood was great  ,sd,FEMALE,1
+"[""it was real different then you'd expect, #  /""]",it was real different then youd expect   ,sv,FEMALE,3
+['[ {c but } h- # -- +'], c but  h   ,sd,FEMALE,1
+['# {f oh } # really? /'], f oh   really ,bh,FEMALE,18
+['-- {c but } he ] enjoyed it  /'], c but  he  enjoyed it  ,+,FEMALE,0
+"['{c and # so, } # -/']",c and  so   ,%,FEMALE,5
+"['# {d well } i went, #  /']", d well  i went   ,sd,FEMALE,1
+['course i am a kevin costner fan. /'],course i am a kevin costner fan ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['me too.  /'],me too  ,sd,FEMALE,1
+['# {c and } # --'], c and   ,b,FEMALE,2
+['# supreme. # /'], supreme  ,sd,FEMALE,1
+"['-- yeah,  /']", yeah  ,+,FEMALE,0
+"['i really, {f uh, } like him a lot.  which is why, dances with wolves was the last movie we had # seen # --']",i really f uh  like him a lot  which is why dances with wolves was the last movie we had  seen  ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- # for several months  /'],  for several months  ,+,FEMALE,0
+"['{c but, } # -/']",c but   ,%,FEMALE,5
+"['# gosh, was that wonderful. # /']", gosh was that wonderful  ,sv,FEMALE,3
+"['it was,  /']",it was  ,aa,FEMALE,4
+"['i, {f uh, } <lipsmack> - /']",i f uh  lipsmack  ,%,FEMALE,5
+"['in fact, {f uh, } a friend from germany was visiting in march  /']",in fact f uh  a friend from germany was visiting in march  ,sd,FEMALE,1
+"[""{c and } [ we wanted, + {a we didn't, ran out of time, } we wanted ] to take him to see it.  /""]",c and   we wanted  a we didnt ran out of time  we wanted  to take him to see it  ,sd,FEMALE,1
+"['we were going to sit through it again cause we really wanted him # to see it, too. # /']",we were going to sit through it again cause we really wanted him  to see it too  ,sd,FEMALE,1
+"['# {f oh, } yeah. # /']", f oh  yeah  ,b,FEMALE,2
+"['{f uh, } i just thought that was terrific.  /']",f uh  i just thought that was terrific  ,sv,FEMALE,3
+"['{c and } i really enjoy harrison ford which is one of the reasons # i wanted to see, # -/']",c and  i really enjoy harrison ford which is one of the reasons  i wanted to see  ,sd,FEMALE,1
+"['# i do, too.  /']", i do too  ,aa,FEMALE,4
+"[""# i think he's really good. /""]", i think hes really good ,sv,FEMALE,3
+"[""{c and } he's very good in regarding henry.  /""]",c and  hes very good in regarding henry  ,sv,FEMALE,3
+"[""that's not an easy part to play, [ i, + i ] don't think <<very faintly>>. /""]",thats not an easy part to play  i  i  dont think very faintly ,sv,FEMALE,3
+"[""i wouldn't think.  /""]",i wouldnt think  ,aa,FEMALE,4
+"[""{d well, } my kids are going to their dad's tomorrow night  /""]",d well  my kids are going to their dads tomorrow night  ,sd,FEMALE,1
+['{c so } i sort of think i may go do that. /'],c so  i sort of think i may go do that ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""[ that's at, + that one won't ] your sides <laughter>. /""]", thats at  that one wont  your sides laughter ,sv,FEMALE,3
+['good <laughter>. /'],good laughter ,ba,FEMALE,6
+"['{f um, } it, - /']",f um  it  ,%,FEMALE,5
+['was this the first time you got to see one hundred and one dalmatians?  /'],was this the first time you got to see one hundred and one dalmatians  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['i hav-, - /']",i hav  ,%,FEMALE,5
+"[""my parents took me  when i was probably somewhere between ashley and jamie's age <<voices begin to fade>>. /""]",my parents took me  when i was probably somewhere between ashley and jamies age voices begin to fade ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } we went to the, -/']",c and  we went to the ,sd,FEMALE,1

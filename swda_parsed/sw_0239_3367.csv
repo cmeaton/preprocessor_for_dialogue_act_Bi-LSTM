@@ -1,0 +1,119 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['what?  /'],what  ,br,MALE,30
+['do you want to start? /'],do you want to start ,qy,MALE,7
+"['{f uh, } <laughter> [ you hit, + you hit, ] {f uh, } - /']",f uh  laughter  you hit  you hit  f uh   ,sd,MALE,1
+"[""it doesn't matter.  /""]",it doesnt matter  ,sd,MALE,1
+"[""{f um, } we're discussing the capital punishment, i believe. /""]",f um  were discussing the capital punishment i believe ,sd,MALE,1
+['right.  /'],right  ,b,MALE,2
+['you are right.  /'],you are right  ,sd,MALE,1
+['yeah.  /'],yeah  ,%,MALE,5
+"['[  i, + i ] suppose i should have, /']",  i  i  suppose i should have ,sv,MALE,3
+"['{f uh, } which - /']",f uh  which  ,%,MALE,5
+"[""i [ am, + am ] pro capital punishment except that i don't like the way it's done. /""]",i  am  am  pro capital punishment except that i dont like the way its done ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['{f uh, } yeah,  /']",f uh  yeah  ,^h,MALE,27
+"['{f uh, } [ i, + {f uh, } i ] guess, [ i, + i ] hate to see anyone die, {f uh } -- /']",f uh   i  f uh  i  guess  i  i  hate to see anyone die f uh   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c but, }  {f uh, } i guess these people that go around [ and, + and ] kill children and women and everything else without any remorse, {f uh, } i don't think they deserve [ to, + to ] live and be supported by us the rest of their lives. /""]", c but   f uh  i guess these people that go around  and  and  kill children and women and everything else without any remorse f uh  i dont think they deserve  to  to  live and be supported by us the rest of their lives ,sv,MALE,3
+"['[ i, + i ] agree.  /']", i  i  agree  ,aa,MALE,4
+"[""[ i, + i'm, ] - /""]", i  im   ,%,MALE,5
+['capital - /'],capital  ,%,MALE,5
+"['[ the, + the, ] - /']", the  the   ,%,MALE,5
+"['capital punishment is necessary [ in, + in ] many cases  /']",capital punishment is necessary  in  in  many cases  ,sv,MALE,3
+"['{c but, }  {f uh, } the, - /']",c but   f uh  the  ,%,MALE,5
+"[""it's not a deterrent, {f um, } or our jails would not be so full.  /""]",its not a deterrent f um  or our jails would not be so full  ,sv,MALE,3
+"[""there wouldn't be so many people in death row. /""]",there wouldnt be so many people in death row ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i think it needs to be something, {f uh, } {f uh, } a throwback to where they did a, {f uh, } public execution where it's visible. /""]",i think it needs to be something f uh  f uh  a throwback to where they did a f uh  public execution where its visible ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['{f uh, } something, {d you know, } not gruesome  /']",f uh  something d you know  not gruesome  ,sv,MALE,3
+"['[ {c but, } +  {c but } ] something more where people know that [ it, + it ] was a deterrent  and it was equal for all people.  /']", c but    c but   something more where people know that  it  it  was a deterrent  and it was equal for all people  ,sv,MALE,3
+"['if you committed a certain crime, you were going to receive a death penalty  /']",if you committed a certain crime you were going to receive a death penalty  ,sv,MALE,3
+['{c and } it was going to happen to you. /'],c and  it was going to happen to you ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['no stays of execution.  /'],no stays of execution  ,sv,MALE,3
+"['[ no, + no ] loopholes,  /']", no  no  loopholes  ,sv,MALE,3
+"['no, -/']",no ,%,MALE,5
+"[""{d well, } {c and } [ even, + even ] that i don't really know if that would help.  /""]",d well  c and   even  even  that i dont really know if that would help  ,sv,MALE,3
+"['i think a lot of these people do it, {f uh, } mainly because of, of t v  /']",i think a lot of these people do it f uh  mainly because of of t v  ,sv,MALE,3
+"['{c and, }  a-, -/']",c and   a ,%,MALE,5
+['notoriety. /'],notoriety ,bf,MALE,20
+"['the double reason [ ma-, + ] [ they, + they ] see it being done on t v  and  also the fact [ of, + of ] notoriety.  /']",the double reason  ma    they  they  see it being done on t v  and  also the fact  of  of  notoriety  ,sv,MALE,3
+"['{e i mean, } they become well known.  /']",e i mean  they become well known  ,sv,MALE,3
+"['they are almost [ like, + like ] a big star. /']",they are almost  like  like  a big star ,sv,MALE,3
+"['[ ye-, + yes, ]  /']", ye  yes   ,b,MALE,2
+"['[ {c but, } + {c but } ] [ they, + they ] know that their chances of actually receiving the death penalty are minimal. /']", c but   c but    they  they  know that their chances of actually receiving the death penalty are minimal ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['they know that they will probably be out in ten to twelve years. /'],they know that they will probably be out in ten to twelve years ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['that they are going to write a book.  /'],that they are going to write a book  ,sv,MALE,3
+['they are going to go on talk shows  /'],they are going to go on talk shows  ,sv,MALE,3
+"[""they're goin-, - /""]",theyre goin  ,%,MALE,5
+"[""[ [ that, + that, ] + that's ] a reward --""]",  that  that   thats  a reward ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- {f uh, } for a  (( heinous ))  crime rather than, {f uh, } having them pay the penalty which is forfeiture of their life. /']", f uh  for a   heinous   crime rather than f uh  having them pay the penalty which is forfeiture of their life ,+,MALE,0
+['right. /'],right ,b,MALE,2
+"['[ in, + in ] complete, {f uh, } - /']", in  in  complete f uh   ,%,MALE,5
+['((   ))  of any notoriety. -/'],     of any notoriety ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['{d well, } [ [ i, + i, ] + i ] think if they went according to, {f uh, } the bible where it does say,']",d well    i  i   i  think if they went according to f uh  the bible where it does say,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['an eye for an eye,']",an eye for an eye,+,MALE,0
+['right. /'],right ,b,MALE,2
+"['a tooth for a tooth, a life for a life,  /']",a tooth for a tooth a life for a life  ,+,MALE,0
+"['{f uh, } you take a life you give yours. /']",f uh  you take a life you give yours ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+"[""{f uh, } {f uh, } that's for sure.  /""]",f uh  f uh  thats for sure  ,ba,MALE,6
+"[""{f uh, } there's exceptions to the rule  /""]",f uh  theres exceptions to the rule  ,sv,MALE,3
+"[""{e i mean } [ if, + if ] it's an accidental taking then, {f uh, } you look at that  /""]",e i mean   if  if  its an accidental taking then f uh  you look at that  ,sv,MALE,3
+"['{c but, } {d you know, } most of these people that down right go right [ and, +  and ] do it out of pure pleasure --']",c but  d you know  most of these people that down right go right  and   and  do it out of pure pleasure ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {f uh, } i don't, {f uh, } like to see that.  /""]", f uh  i dont f uh  like to see that  ,+,MALE,0
+"[""i guess also the fact that they say it's not a deterrent, - /""]",i guess also the fact that they say its not a deterrent  ,sv,MALE,3
+"['it is a deterrent [ in the, + in the ] sense that that person will never do it again <laughter>. /']",it is a deterrent  in the  in the  sense that that person will never do it again laughter ,sv,MALE,3
+"['{d well, } yes,  /']",d well  yes  ,ar,MALE,28
+['they will. /'],they will ,sd,MALE,1
+"['[ [ not, +']",  not ,sv,MALE,3
+"['it, -/']",it ,%,MALE,5
+"[""not, ] + not ] if he's killed he can't,""]",not   not  if hes killed he cant,+,MALE,0
+"['{f oh, }  ((   )) , /']",f oh        ,b,MALE,2
+['do it again. /'],do it again ,+,MALE,0
+"[""{d well, } that's correct,  /""]",d well  thats correct  ,ba,MALE,6
+['yes.  /'],yes  ,b,MALE,2
+"['[ ye-, + ] [ if, + if ] he indeed receives --']", ye    if  if  he indeed receives ,sv,MALE,3
+['the death penalty. /'],the death penalty ,b^m,MALE,24
+"['-- the death penalty and [ it is, + it is ] executed. /']", the death penalty and  it is  it is  executed ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"['[ {c but, } +  {c but } ] [ [ the, + the, ] + the ] chances are not great that that will happen. /']", c but    c but     the  the   the  chances are not great that that will happen ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+"[""{c but } there's a greater chance that he'll be back out on the streets in twelve years. /""]",c but  theres a greater chance that hell be back out on the streets in twelve years ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{d well, } [ i, + i ] guess i'm also looking at beyond even that.  /""]",d well   i  i  guess im also looking at beyond even that  ,sd,MALE,1
+"['[ [  i, + i, ] + i ] guess i been thinking about it  /']",   i  i   i  guess i been thinking about it  ,sd,MALE,1
+"[""{c and } i don't have a definite opinion  /""]",c and  i dont have a definite opinion  ,sd,MALE,1
+"['{c but, }  {f uh, } repeat, {f uh, } crimes --']",c but   f uh  repeat f uh  crimes ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } maybe not [ the, + the ] more mild ones but, {d you know, } [ a + ] more severe ones especially [ on, + on ] armed robbery and stuff where they been taking from elderly people,']", f uh  maybe not  the  the  more mild ones but d you know   a   more severe ones especially  on  on  armed robbery and stuff where they been taking from elderly people,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['and not just taking the money but beating them half to death. /'],and not just taking the money but beating them half to death ,+,MALE,0
+"[""that's right. /""]",thats right ,ba,MALE,6
+['just for pleasure too  /'],just for pleasure too  ,^2,MALE,23
+['{c and } --'],c and  ,sv,MALE,3
+['yes. /'],yes ,aa,MALE,4
+"[""-- i guess you've got to look at something like that.  /""]", i guess youve got to look at something like that  ,+,MALE,0
+"['do they deserve to, {f uh, } remain on this earth too? /']",do they deserve to f uh  remain on this earth too ,bh,MALE,18
+"['{d why, } <sigh> {d you know, } [ [ y-, + y-, ] + you ] could carry it to that [ if, + {f uh, } if ] they are a repeat offender  /']",d why  sigh d you know    y  y   you  could carry it to that  if  f uh  if  they are a repeat offender  ,sv,MALE,3
+"['[ {c and, } +  {c and } ] you know that as soon as you let them out on the streets they are going to do this.  /']", c and    c and   you know that as soon as you let them out on the streets they are going to do this  ,sv,MALE,3
+"['unfortunately the way our system of jurisprudence is set up, {f um, } you only receive the death penalty for capital crimes, /']",unfortunately the way our system of jurisprudence is set up f um  you only receive the death penalty for capital crimes ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+"['(( {c and } of course ))  {f uh, } of battery or assault or, that is not a capital crime {d see. }  /']", c and  of course   f uh  of battery or assault or that is not a capital crime d see   ,sd,MALE,1
+"[""[  you, + you ] wouldn't be able to under our system. /""]",  you  you  wouldnt be able to under our system ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+['{d now } china and a few other countries have a little different view of that.  /'],d now  china and a few other countries have a little different view of that  ,sv,MALE,3
+"['{f um, } you get caught with dope there and you die, period. /']",f um  you get caught with dope there and you die period ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ there is, + there is ] [ no, + no ] appeals.  /']", there is  there is   no  no  appeals  ,sv,MALE,3
+"['there is no, -/']",there is no ,%,MALE,5

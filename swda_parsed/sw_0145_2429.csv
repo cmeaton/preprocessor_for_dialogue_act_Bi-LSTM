@@ -1,0 +1,335 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } what would you have at a dinner party? /']",d well  what would you have at a dinner party ,qw,FEMALE,12
+"[""{d well, } {f uh, } lately, since i have children  i've cut down on having dinner parties <beep>. /""]",d well  f uh  lately since i have children  ive cut down on having dinner parties beep ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } <laughter> when i do  i try   to keep it pretty simple on things that i can prepare ahead of time <beep>,  /']",c but  laughter when i do  i try   to keep it pretty simple on things that i can prepare ahead of time beep  ,sd,FEMALE,1
+"['{f uh, }   i have one recipe for, {f uh, } a really good, {f um, } type of a meatball.  /']",f uh    i have one recipe for f uh  a really good f um  type of a meatball  ,sd,FEMALE,1
+"[""it's called burgundy meatball  /""]",its called burgundy meatball  ,sd,FEMALE,1
+"[""{c and } it's made with red wine and, -/""]",c and  its made with red wine and ,sd,FEMALE,1
+"['{f oh, } gosh,']",f oh  gosh,ba,FEMALE,6
+['{f um } -- /'],f um   ,%,FEMALE,5
+['that sounds great. /'],that sounds great ,+,FEMALE,0
+"[""-- [ it's, + it's ] really good  /""]",  its  its  really good  ,sd,FEMALE,1
+"[""{c and } you can make it ahead of time and then, {f um, } make the sauce when you're ready [ to, + {f um, } to ] serve it. /""]",c and  you can make it ahead of time and then f um  make the sauce when youre ready  to  f um  to  serve it ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""that's one of my favorite things [ to, + to ] serve. /""]",thats one of my favorite things  to  to  serve ,sd,FEMALE,1
+"['{d well, } {f um, } i think it would probably  depend on whether this was a formal or a informal dinner party. /']",d well  f um  i think it would probably  depend on whether this was a formal or a informal dinner party ,sv,FEMALE,3
+['sure. /'],sure ,aa,FEMALE,4
+"['{c but } if it was informal, my first choice would be crawfish. /']",c but  if it was informal my first choice would be crawfish ,sd,FEMALE,1
+"['{f oh, } really.  /']",f oh  really  ,b,FEMALE,2
+"['{d well, } i guess being  from that part of the country. /']",d well  i guess being  from that part of the country ,sd,FEMALE,1
+"['{c because, } {e i mean, }  crawfish,   everybody over here likes crawfish   /']",c because  e i mean   crawfish   everybody over here likes crawfish   ,sd,FEMALE,1
+['{c but } --'],c but  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {d you know, } [ i, + i ]  wouldn't have to worry about satisfying my guest.  /""]", d you know   i  i   wouldnt have to worry about satisfying my guest  ,+,FEMALE,0
+"['{c but } if it was a formal dinner party i would probably think  of something else like,  {f uh, } - /']",c but  if it was a formal dinner party i would probably think  of something else like  f uh   ,sd,FEMALE,1
+"['[ shrimp, + shrimp ] fettucini is real easy --']", shrimp  shrimp  fettucini is real easy ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- to, {f um, } make and everything  /']", to f um  make and everything  ,+,FEMALE,0
+"[""{c and } it's usually well liked by people, i guess,  /""]",c and  its usually well liked by people i guess  ,sv,FEMALE,3
+"[""i'm just a seafood fan  /""]",im just a seafood fan  ,sd,FEMALE,1
+"['{c so, }']",c so ,sd,FEMALE,1
+"['{d well, } [ how do,']",d well   how do,qw,FEMALE,12
+"['i think on the lines of, -/']",i think on the lines of ,+,FEMALE,0
+"['make, + how do [ you, + you ] cook ] crawfish?  /']",make  how do  you  you  cook  crawfish  ,+,FEMALE,0
+"['[ i, + in fact, i ] just came back from the grocery store  /']", i  in fact i  just came back from the grocery store  ,sd,FEMALE,1
+"[""{c and } being in texas  we don't have too many, {d you know, } people [ that, + that ] eat crawfish /""]",c and  being in texas  we dont have too many d you know  people  that  that  eat crawfish ,sd,FEMALE,1
+"['{c but } they had live crawfish,']",c but  they had live crawfish,sd,FEMALE,1
+"['{f oh, } yeah, /']",f oh  yeah ,ba,FEMALE,6
+['on sale. /'],on sale ,+,FEMALE,0
+"[""{f um, } [ you're not supposed to, +  {e i mean, } you're not supposed to ] eat them dead.  /""]",f um   youre not supposed to   e i mean  youre not supposed to  eat them dead  ,sd,FEMALE,1
+"['{e i mean, }']",e i mean ,ar,FEMALE,28
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d well, } you eat them dead  /']",d well  you eat them dead  ,+,FEMALE,0
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""<laughter> don't buy them that way <laughter>. /""]",laughter dont buy them that way laughter ,^2,FEMALE,23
+['right.  /'],right  ,aa,FEMALE,4
+"['because [ if, + if ]  they are dead for too long, - /']",because  if  if   they are dead for too long  ,sd,FEMALE,1
+"[""you can always tell whenever they're cooked if they've been dead for a long time  because their tail straightens out. /""]",you can always tell whenever theyre cooked if theyve been dead for a long time  because their tail straightens out ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } you're not supposed to eat  those because they're bad for you. /""]",c and  youre not supposed to eat  those because theyre bad for you ,sd,FEMALE,1
+['okay.  /'],okay  ,b,FEMALE,2
+"[""{d well, } i'll remember that. /""]",d well  ill remember that ,oo_co_cc,FEMALE,36
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{c so } if you ever go in a  restaurant, order crawfish,  /']",c so  if you ever go in a  restaurant order crawfish  ,ad,FEMALE,22
+"[""{e i mean, } every once in a while you'll see on-,  /""]",e i mean  every once in a while youll see on  ,sd,FEMALE,1
+"[""{e i mean, }   it doesn't happen very often because it's just an accident  /""]",e i mean    it doesnt happen very often because its just an accident  ,sd,FEMALE,1
+"['{c but } if the tail is straight on it then, yeah,']",c but  if the tail is straight on it then yeah,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""don't eat it.  /""]",dont eat it  ,+,FEMALE,0
+"['{c but, }  {f um, } you just  put some cajun, {d well, } lots of pepper <laughter> -- /']",c but   f um  you just  put some cajun d well  lots of pepper laughter  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } you just boil them  /'], c and  you just boil them  ,sd,FEMALE,1
+"[""{c and } they're absolutely wonderful  /""]",c and  theyre absolutely wonderful  ,sv,FEMALE,3
+"[""{c but } [ there's, + {f uh, } they're ] a pain to peel for some people.  /""]",c but   theres  f uh  theyre  a pain to peel for some people  ,sd,FEMALE,1
+"[""once you get used to it they're real easy  /""]",once you get used to it theyre real easy  ,sv,FEMALE,3
+"['{c but, }  <breathing> {f um, } {d you know, }  if you have nails or anything you can <lipsmack> plan on those being shot. /']",c but   breathing f um  d you know   if you have nails or anything you can lipsmack plan on those being shot ,sv,FEMALE,3
+"['<breathing> {f huh. }  [ when you were, + {f um, } [ whe-,  +  when ] you <child> serve ] it do you shell them and then serve em too? /']",breathing f huh    when you were  f um   whe    when  you child serve  it do you shell them and then serve em too ,qy,FEMALE,7
+['<lipsmack> <breathing> i think for a dinner party - /'],lipsmack breathing i think for a dinner party  ,sd,FEMALE,1
+"[""[ i, + i ] don't know  /""]", i  i  dont know  ,h,FEMALE,15
+['it depends. /'],it depends ,sd,FEMALE,1
+['um-hum. /'],umhum ,b,FEMALE,2
+"['<breathing> {d like } [ if, + like my age, if ]  there was a bunch of college kids  coming over for a dinner party,  no, [ i, + they ] would shell their own, /']",breathing d like   if  like my age if   there was a bunch of college kids  coming over for a dinner party  no  i  they  would shell their own ,sd,FEMALE,1
+['sure. /'],sure ,b,FEMALE,2
+"[""{d you know, } we'd just have crawfish  and beer or something  /""]",d you know  wed just have crawfish  and beer or something  ,sd,FEMALE,1
+"[""{c but, }  <breathing> {f um, } if it was more formal like if i was, {d you know, } working environment then i would probably, {f um, } <lipsmack> <breathing> [ sh-, + shell ]  'em or at least disconnect them from the head <breathing> <laughter>.  /""]",c but   breathing f um  if it was more formal like if i was d you know  working environment then i would probably f um  lipsmack breathing  sh  shell   em or at least disconnect them from the head breathing laughter  ,sd,FEMALE,1
+"[""{c but } [ there's a, +""]",c but   theres a ,sd,FEMALE,1
+['<laughter> still have see that. <laughter> *[[slash error]]'],laughter still have see that laughter slash error,"fo_o_fw_""_by_bc",FEMALE,0
+"[""there's a, ] <breathing> big thing over here  that everybody sucks the head.  /""]",theres a  breathing big thing over here  that everybody sucks the head  ,+,FEMALE,0
+"['{c so, }  {f um } --']",c so   f um  ,sd,FEMALE,1
+"[""ooh <laughter>. /  *[[slash error should be 'ba']]""]",ooh laughter   slash error should be ba,+,FEMALE,0
+"['-- [ it, + it ] would just']",  it  it  would just,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+['depend.  /'],depend  ,+,FEMALE,0
+"[""that's the best part of the crawfish. /""]",thats the best part of the crawfish ,sv,FEMALE,3
+['<laughter>'],laughter,x,FEMALE,8
+['<lipsmack> sucking the head  /'],lipsmack sucking the head  ,sv,FEMALE,3
+"[""{c but } {f um } <lipsmack> i don't know  /""]",c but  f um  lipsmack i dont know  ,h,FEMALE,15
+['[ it jus- +  [ i- + it ] just ] depends on what type it was  i guess  /'], it jus    i  it  just  depends on what type it was  i guess  ,sd,FEMALE,1
+"[""{c but } you can buy <breathing> {f uh }  the crawfish shells already peeled 'n everything  /""]",c but  you can buy breathing f uh   the crawfish shells already peeled n everything  ,sd,FEMALE,1
+['{c and } usually you use those {d like } for frying <breathing>'],c and  usually you use those d like  for frying breathing,sd,FEMALE,1
+['um-hum /'],umhum ,b,FEMALE,2
+['or to put in salads or to {f um }  <lipsmack> {d you know } make a sauce with  or something like that  /'],or to put in salads or to f um   lipsmack d you know  make a sauce with  or something like that  ,+,FEMALE,0
+"[""{c but } you can go ahead  and buy 'em cooked and shelled  /""]",c but  you can go ahead  and buy em cooked and shelled  ,sd,FEMALE,1
+"[""{c and } they're more expensive of course  /""]",c and  theyre more expensive of course  ,sd,FEMALE,1
+['{c but } -/'],c but  ,%,FEMALE,5
+['does it taste a lot like shrimp /'],does it taste a lot like shrimp ,qy,FEMALE,7
+['{f um } <lipsmack> yeah  /'],f um  lipsmack yeah  ,ny,FEMALE,9
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['just {f um } the crawfish {e i mean }  it just has a taste of its own  /'],just f um  the crawfish e i mean   it just has a taste of its own  ,sd,FEMALE,1
+"[""it also depends on who's cooking it and how much seasoning they use""]",it also depends on whos cooking it and how much seasoning they use,sd,FEMALE,1
+['sure /'],sure ,b,FEMALE,2
+['stuff like that  /'],stuff like that  ,+,FEMALE,0
+['{c but } {f um } i think that - /'],c but  f um  i think that  ,%,FEMALE,5
+"[""{c and } also to get totally off the subject of crawfish  lots of vegetables and hors d'oeuvres and stuff like  that for a dinner party i think that that really helps /""]",c and  also to get totally off the subject of crawfish  lots of vegetables and hors doeuvres and stuff like  that for a dinner party i think that that really helps ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+['<breathing> we have [ a + a ]  friend another couple where the husband is the one who cooks'],breathing we have  a  a   friend another couple where the husband is the one who cooks,sd,FEMALE,1
+['<laughter>'],laughter,x,FEMALE,8
+['all the time  /'],all the time  ,+,FEMALE,0
+['{c and } -/'],c and  ,%,FEMALE,5
+"[""that's what i need <laughter> /""]",thats what i need laughter ,sd,FEMALE,1
+['<laughter> yeah  /'],laughter yeah  ,aa,FEMALE,4
+"[""that's what i wish  i had <laughter> <breathing>  /""]",thats what i wish  i had laughter breathing  ,sd,FEMALE,1
+['{c but } in our family i am the one who who cooks  /'],c but  in our family i am the one who who cooks  ,sd,FEMALE,1
+['{c and } [ i + i ] really enjoy it  /'],c and   i  i  really enjoy it  ,sd,FEMALE,1
+"[""it's gotten a little more difficult with kids  /""]",its gotten a little more difficult with kids  ,sd,FEMALE,1
+['{c but } i really do enjoy cooking <breathing>  /'],c but  i really do enjoy cooking breathing  ,sd,FEMALE,1
+['{c and } [ we + {f um } we ] have them over for dinner'],c and   we  f um  we  have them over for dinner,sd,FEMALE,1
+['uh-huh /'],uhhuh ,b,FEMALE,2
+['back and forth quite a lot  /'],back and forth quite a lot  ,+,FEMALE,0
+['{c and } before i had my second child we sort of had a contest going where'],c and  before i had my second child we sort of had a contest going where,sd,FEMALE,1
+['<lipsmack>'],lipsmack,x,FEMALE,8
+['<breathing>'],breathing,+,FEMALE,0
+['oh! /'],oh ,ba,FEMALE,6
+"[""{d you know } he would cook and then the next  time it would be my turn  and i'd try to outdo him""]",d you know  he would cook and then the next  time it would be my turn  and id try to outdo him,+,FEMALE,0
+['<laughter>'],laughter,x,FEMALE,8
+"[""and then he'd try to outdo""]",and then hed try to outdo,+,FEMALE,0
+['<laughter>'],laughter,x,FEMALE,8
+['me  /'],me  ,+,FEMALE,0
+['{c and } <laughter> <laughter> [ we + we ] -/'],c and  laughter laughter  we  we  ,%,FEMALE,5
+['<breathing>'],breathing,x,FEMALE,8
+['was really a lot of fun /'],was really a lot of fun ,sd,FEMALE,1
+['i bet /'],i bet ,ba,FEMALE,6
+['{c and } -/'],c and  ,%,FEMALE,5
+['[ that + that ] got pretty competitive'], that  that  got pretty competitive,bf,FEMALE,20
+['yeah /'],yeah ,b,FEMALE,2
+['{d you know } as'],d you know  as,+,FEMALE,0
+['it did /'],it did ,aa,FEMALE,4
+['far as <breathing>'],far as breathing,+,FEMALE,0
+['[ we + we ]'], we  we ,sd,FEMALE,1
+['who'],who,+,FEMALE,0
+['tried'],tried,+,FEMALE,0
+['could come'],could come,+,FEMALE,0
+['to'],to,+,FEMALE,0
+['up'],up,+,FEMALE,0
+['be'],be,+,FEMALE,0
+['with the best recipe <laughter> /'],with the best recipe laughter ,+,FEMALE,0
+['fancier or more courses than the other /'],fancier or more courses than the other ,+,FEMALE,0
+['that'],that,sv,FEMALE,3
+['{c or } -/'],c or  ,%,FEMALE,5
+['would be fun /'],would be fun ,+,FEMALE,0
+['{f uh } it was a lot of fun  {d you know }  /'],f uh  it was a lot of fun  d you know   ,sd,FEMALE,1
+['it something unique  {d you know }  /'],it something unique  d you know   ,sd,FEMALE,1
+['{c and then } we got into different  {f um } themes {d you know } <breathing> {f um }  whether it would be ethnic food'],c and then  we got into different  f um  themes d you know  breathing f um   whether it would be ethnic food,sd,FEMALE,1
+['{f uh } huh /'],f uh  huh ,b,FEMALE,2
+"[""or {f um } sometimes it would be  {f um } <click> oh oh i don't know  maybe  an outdoor theme or {f uh } elegant theme or  {d you know } <laughter> <laughter> - /""]",or f um  sometimes it would be  f um  click oh oh i dont know  maybe  an outdoor theme or f uh  elegant theme or  d you know  laughter laughter  ,+,FEMALE,0
+['it was a lot of fun /'],it was a lot of fun ,sd,FEMALE,1
+['sometimes it might be the candlelight  /'],sometimes it might be the candlelight  ,bf,FEMALE,20
+['{c and } sometimes it might be the picnic out back'],c and  sometimes it might be the picnic out back,bf,FEMALE,20
+"[""that's""]",thats,aa,FEMALE,4
+['or something /'],or something ,+,FEMALE,0
+['right <laughter> /'],right laughter ,+,FEMALE,0
+['<laughter> <breathing> {d well }'],laughter breathing d well ,ba,FEMALE,6
+['<breathing>'],breathing,x,FEMALE,8
+"[""[ that's + {d you know } that's ] fun /""]", thats  d you know  thats  fun ,+,FEMALE,0
+['it was fun  /'],it was fun  ,sd,FEMALE,1
+['[ {c and } + {c and } ]  we threatened to make the other two {f uh } make us dinner one time'], c and   c and    we threatened to make the other two f uh  make us dinner one time,sd,FEMALE,1
+['uh huh  /'],uh huh  ,b,FEMALE,2
+['{f uh } just to even it out since  we seemed to be unfairly doing all the cooking'],f uh  just to even it out since  we seemed to be unfairly doing all the cooking,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+['{c and } they were doing all the enjoying /'],c and  they were doing all the enjoying ,+,FEMALE,0
+['<laughter> that sounds right [ i'],laughter that sounds right  i,sv,FEMALE,3
+"[""i'm -/""]",im ,%,FEMALE,5
+"[""would + <breathing> i'd ] take him up on that /""]",would  breathing id  take him up on that ,+,FEMALE,0
+['it does  /'],it does  ,aa,FEMALE,4
+['except that knowing them they would probably do something'],except that knowing them they would probably do something,sd,FEMALE,1
+['<laughter>'],laughter,x,FEMALE,8
+['ridiculous and terrible [ just +'],ridiculous and terrible  just ,+,FEMALE,0
+['<laughter>'],laughter,x,FEMALE,8
+"[""just ] to {f uh } make sure that they didn't have to do it again /""]",just  to f uh  make sure that they didnt have to do it again ,+,FEMALE,0
+['uh huh /'],uh huh ,b,FEMALE,2
+['<laughter>'],laughter,x,FEMALE,8
+"[""<lipsmack> i'd""]",lipsmack id,%,FEMALE,5
+['make hot'],make hot,sd,FEMALE,1
+['be -/'],be ,+,FEMALE,0
+['dogs or'],dogs or,+,FEMALE,0
+['<laughter>'],laughter,x,FEMALE,8
+['some potato chips /'],some potato chips ,+,FEMALE,0
+"[""<breathing> [ i + that's about how much i ] can cook""]",breathing  i  thats about how much i  can cook,sd,FEMALE,1
+['<laughter>'],laughter,x,FEMALE,8
+['{d you know }  /'],d you know   ,+,FEMALE,0
+"[""[ i'm + i'm ] doing a lot  more cooking now <lipsmack> than i used to /""]", im  im  doing a lot  more cooking now lipsmack than i used to ,sd,FEMALE,1
+['uh-huh /'],uhhuh ,b,FEMALE,2
+"[""{c but } that's only because my mom  just started working  /""]",c but  thats only because my mom  just started working  ,sd,FEMALE,1
+"[""{c so } <breathing> she's  tired when she comes home in the afternoon  /""]",c so  breathing shes  tired when she comes home in the afternoon  ,sd,FEMALE,1
+['{c so } i try to have things cooked for her  /'],c so  i try to have things cooked for her  ,sd,FEMALE,1
+['{c but }'],c but ,sd,FEMALE,1
+"[""{f oh } that's nice /""]",f oh  thats nice ,ba,FEMALE,6
+['{f uh } {f um } i usually try to stay out  of kitchen  /'],f uh  f um  i usually try to stay out  of kitchen  ,+,FEMALE,0
+"[""i don't know <laughter> /""]",i dont know laughter ,h,FEMALE,15
+['<laughter>'],laughter,x,FEMALE,8
+['<breathing>'],breathing,x,FEMALE,8
+['<breathing>'],breathing,x,FEMALE,8
+['not one of my favorite hobbies /'],not one of my favorite hobbies ,sd,FEMALE,1
+['[ it can + it can ] be fun [ i +  if  ] you have the time  /'], it can  it can  be fun  i   if   you have the time  ,sv,FEMALE,3
+"[""{c but } {d you know }  a lot of times it's too much of a rush really be [ able to enjoy it +""]",c but  d you know   a lot of times its too much of a rush really be  able to enjoy it ,sv,FEMALE,3
+['{d well } {f um }'],d well  f um ,sd,FEMALE,1
+['able'],able,+,FEMALE,0
+['my grandma speaking'],my grandma speaking,+,FEMALE,0
+['to ] -/'],to  ,+,FEMALE,0
+['of those meatballs again she owned  every christmas [ and + and ] easter  /'],of those meatballs again she owned  every christmas  and  and  easter  ,+,FEMALE,0
+['whenever  we have [ at + ] the big get-together over at her house  she makes this meat ball sauce  /'],whenever  we have  at   the big gettogether over at her house  she makes this meat ball sauce  ,sd,FEMALE,1
+['{c and } it has - /'],c and  it has  ,%,FEMALE,5
+"[""i don't know  /""]",i dont know  ,h,FEMALE,15
+['they are just kind of  like quarter size meatballs  /'],they are just kind of  like quarter size meatballs  ,sd,FEMALE,1
+['{c and }'],c and ,sd,FEMALE,1
+['uh-huh /'],uhhuh ,b,FEMALE,2
+['they are absolutely delicious <breathing>  /'],they are absolutely delicious breathing  ,+,FEMALE,0
+"[""i don't know what she calls them in  /""]",i dont know what she calls them in  ,sd,FEMALE,1
+"[""[ i don't + i'm ] sure she puts wine in it  because {f um } she cooks everything with alcohol  /""]", i dont  im  sure she puts wine in it  because f um  she cooks everything with alcohol  ,sd,FEMALE,1
+['{c but } -/'],c but  ,%,FEMALE,5
+['<laughter>'],laughter,x,FEMALE,8
+['<laughter> {f um } /'],laughter f um  ,%,FEMALE,5
+['<laughter>'],laughter,x,FEMALE,8
+"[""<lipsmack> i don't know  /""]",lipsmack i dont know  ,h,FEMALE,15
+['[ i would + i would ]  be interested in getting that recipe for you if you have it around /'], i would  i would   be interested in getting that recipe for you if you have it around ,sd,FEMALE,1
+['yeah  /'],yeah  ,aa,FEMALE,4
+"[""[ it's + {f um } it's ]  in the other room  /""]", its  f um  its   in the other room  ,sd,FEMALE,1
+"[""i don't know if we""]",i dont know if we,sd,FEMALE,1
+['oh /'],oh ,b,FEMALE,2
+['have enough time for it  /'],have enough time for it  ,+,FEMALE,0
+"[""it's real easy  /""]",its real easy  ,sd,FEMALE,1
+"[""one of the unique things in this  it's like a pound of ground beef some bread crumbs  {f um } an egg {f um } whatever seasonings  /""]",one of the unique things in this  its like a pound of ground beef some bread crumbs  f um  an egg f um  whatever seasonings  ,sd,FEMALE,1
+['you can just light -/'],you can just light ,ad,FEMALE,22
+['yeah /'],yeah ,b,FEMALE,2
+['{c so } salt and pepper {f um } and  chopped up water chestnuts <child>'],c so  salt and pepper f um  and  chopped up water chestnuts child,sd,FEMALE,1
+['oh /'],oh ,b,FEMALE,2
+['which is something different {f um } /'],which is something different f um  ,+,FEMALE,0
+['that would be wonderful /'],that would be wonderful ,ba,FEMALE,6
+['makes them a little bit crunchy  /'],makes them a little bit crunchy  ,sd,FEMALE,1
+['you need to chop em up real fine /'],you need to chop em up real fine ,ad,FEMALE,22
+['yeah /'],yeah ,b,FEMALE,2
+['{c but } {f um } it makes them crunchy  /'],c but  f um  it makes them crunchy  ,sd,FEMALE,1
+['{c and } that adds something new to it <lipsmack>  /'],c and  that adds something new to it lipsmack  ,sd,FEMALE,1
+['{c and then } the sauce is just made with {f um } <breathing>  bouillion cubes'],c and then  the sauce is just made with f um  breathing  bouillion cubes,sd,FEMALE,1
+['um-hum /'],umhum ,b,FEMALE,2
+['water burgundy wine and {f um } cornstarch instead of flour /'],water burgundy wine and f um  cornstarch instead of flour ,+,FEMALE,0
+['oh /'],oh ,b,FEMALE,2
+"[""{c so } [ it's not a + it's not a ]  thick <lipsmack> rich type of a sauce  /""]",c so   its not a  its not a   thick lipsmack rich type of a sauce  ,sd,FEMALE,1
+"[""it's more of a - /""]",its more of a  ,sd,FEMALE,1
+['when you use corn starch  [ in + in ] gravy like {d you know }   when you have {f um } chinese food'],when you use corn starch   in  in  gravy like d you know    when you have f um  chinese food,sd,FEMALE,1
+['um-hum /'],umhum ,b,FEMALE,2
+['{c and } it gives it a bit of a different consistency /'],c and  it gives it a bit of a different consistency ,sd,FEMALE,1
+['{d well } {f um } how long do you cook the meatballs /'],d well  f um  how long do you cook the meatballs ,qw,FEMALE,12
+['<breathing> the meatballs [ you just + ] {f um }  after you form them fry them in a pan until'],breathing the meatballs  you just   f um   after you form them fry them in a pan until,ad,FEMALE,22
+['uh huh /'],uh huh ,b,FEMALE,2
+"[""they're <breathing> {f uh } browned on  [ all + all ] sides  /""]",theyre breathing f uh  browned on   all  all  sides  ,+,FEMALE,0
+['{c and then } drain off all the grease  /'],c and then  drain off all the grease  ,ad,FEMALE,22
+['{f uh } then what i usually do is i freeze them  /'],f uh  then what i usually do is i freeze them  ,sd,FEMALE,1
+['{c and then } when'],c and then  when,ad,FEMALE,22
+['<lipsmack>'],lipsmack,x,FEMALE,8
+"[""you're ready""]",youre ready,+,FEMALE,0
+['oh /'],oh ,b,FEMALE,2
+['to serve'],to serve,+,FEMALE,0
+['yeah /'],yeah ,b,FEMALE,2
+['them then you cook the sauce and  then put the meatballs into the sauce  and heat it  /'],them then you cook the sauce and  then put the meatballs into the sauce  and heat it  ,+,FEMALE,0
+['probably you have to heat it up  for a good {f oh } - /'],probably you have to heat it up  for a good f oh   ,ad,FEMALE,22
+"[""if they're frozen  {d you know } it may take a half for them to thaw out  /""]",if theyre frozen  d you know  it may take a half for them to thaw out  ,sd,FEMALE,1
+['{c but } then heat them thoroughly in the sauce itself  /'],c but  then heat them thoroughly in the sauce itself  ,ad,FEMALE,22
+['let them simmer in the sauce itself /'],let them simmer in the sauce itself ,ad,FEMALE,22
+['{f hum } /'],f hum  ,%,FEMALE,5
+"[""<lipsmack> {c and } it's real good /""]",lipsmack c and  its real good ,sd,FEMALE,1
+['that sounds great  /'],that sounds great  ,ba,FEMALE,6
+['especially  {e i mean } the fact that you can prepare the meatballs  [ so + so ] far in advance -/'],especially  e i mean  the fact that you can prepare the meatballs   so  so  far in advance ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['{e i mean } {d like } [ if + if ]'],e i mean  d like   if  if ,bf,FEMALE,20
+['and then freeze them /'],and then freeze them ,^2,FEMALE,23
+['you are having a dinner party on  wednesday night you could do it on a weekend /'],you are having a dinner party on  wednesday night you could do it on a weekend ,+,FEMALE,0
+['sure /'],sure ,aa,FEMALE,4
+['that would be great <breathing>  /'],that would be great breathing  ,sv,FEMALE,3
+"[""i think i'm going to have to keep that in mind for my future because i""]",i think im going to have to keep that in mind for my future because i,sd,FEMALE,1
+['<laughter>'],laughter,x,FEMALE,8
+['hope [ to <lipsmack> have + to have ] lots of dinner parties'],hope  to lipsmack have  to have  lots of dinner parties,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter> <breathing> cause i like to - /'],laughter breathing cause i like to  ,+,FEMALE,0
+"[""{e i mean } {f um } {f um } i'm sure that  i'll be involved in a big company  /""]",e i mean  f um  f um  im sure that  ill be involved in a big company  ,sd,FEMALE,1
+['{c and } i know that my <breathing> future  husband will be {d you know } - /'],c and  i know that my breathing future  husband will be d you know   ,sd,FEMALE,1
+"[""he's going to be working for chevron""]",hes going to be working for chevron,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['in houston  /'],in houston  ,+,FEMALE,0
+"[""{c so } he's going to be <breathing> - /""]",c so  hes going to be breathing  ,sd,FEMALE,1
+"[""{f um } <lipsmack> {d you know } i'm sure that dinner parties will""]",f um  lipsmack d you know  im sure that dinner parties will,sv,FEMALE,3
+['yeah  /'],yeah  ,aa,FEMALE,4
+"[""you'll""]",youll,sv,FEMALE,3
+['come in handy /'],come in handy ,+,FEMALE,0
+['meet friends   /'],meet friends   ,+,FEMALE,0
+['[ invite + invite ] the boss over'], invite  invite  the boss over,ad,FEMALE,22
+['{f oh } yeah /'],f oh  yeah ,b,FEMALE,2
+['[ and +'], and ,+,FEMALE,0
+['i have'],i have,sd,FEMALE,1
+['and ]'],and ,+,FEMALE,0
+['to impress the boss <laughter>'],to impress the boss laughter,+,FEMALE,0
+['friends at work <laughter> /'],friends at work laughter ,+,FEMALE,0
+"[""<laughter> and clients   cause {f um } [ i'm  in + i'm in ] public relations in school /""]",laughter and clients   cause f um   im  in  im in  public relations in school ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so }  [ i'm going to have + <breathing>   {d you know } my whole job's going to be ] based on my clients 'n stuff like that  /""]",c so    im going to have  breathing   d you know  my whole jobs going to be  based on my clients n stuff like that  ,sd,FEMALE,1
+['{c so }'],c so ,sd,FEMALE,1
+['sure. /'],sure ,b,FEMALE,2
+"[""i'm going to have lots of dinner parties  /""]",im going to have lots of dinner parties  ,+,FEMALE,0
+"[""{c and } have to take 'em out to eat  /""]",c and  have to take em out to eat  ,sd,FEMALE,1
+"['right now i\'m taking a class on ettiquesy  /  *[[ did she really say ""ettiquesy""?? ]]']",right now im taking a class on ettiquesy     did she really say ettiquesy ,sd,FEMALE,1
+['{c and }'],c and ,sd,FEMALE,1
+['oh /'],oh ,b,FEMALE,2
+['all the little'],all the little,+,FEMALE,0
+['really /'],really ,b,FEMALE,2
+"[""bitty things that i didn't even know  /""]",bitty things that i didnt even know  ,+,FEMALE,0
+['{e i'],e i,sd,FEMALE,1
+['<laughter>'],laughter,x,FEMALE,8
+"[""mean } i thought for sure i'd been raised properly  /""]",mean  i thought for sure id been raised properly  ,+,FEMALE,0
+"[""{c but } i've been doing a lot of things wrong i didn't know""]",c but  ive been doing a lot of things wrong i didnt know,sd,FEMALE,1
+['<laughter>'],laughter,x,FEMALE,8
+['about <laughter>  /'],about laughter  ,+,FEMALE,0
+['[ {c but } +  {f um } <lipsmack> {c so } ] is there anything else /'], c but    f um  lipsmack c so   is there anything else ,qy,FEMALE,7
+"[""<lipsmack> {d well } [ i + i ]  think we've covered the subject  /""]",lipsmack d well   i  i   think weve covered the subject  ,sv,FEMALE,3
+['i got some interesting information about crawfish  /'],i got some interesting information about crawfish  ,sd,FEMALE,1
+['i was in fact -/'],i was in fact ,%,FEMALE,5
+['<noise> <laughter>'],noise laughter,x,FEMALE,8
+"[""it's good cause i was curious about that today when i saw those for""]",its good cause i was curious about that today when i saw those for,sd,FEMALE,1
+['oh /'],oh ,b,FEMALE,2
+['sale /'],sale ,+,FEMALE,0
+['yes  /'],yes  ,b,FEMALE,2
+['you need to try em  /'],you need to try em  ,ad,FEMALE,22
+"[""{f oh } they're wonderful. /""]",f oh  theyre wonderful ,sv,FEMALE,3
+['{f oh }  i will  /'],f oh   i will  ,oo_co_cc,FEMALE,36
+"[""i'm sure my husband will be surprised, 'cause we were talking about them the other day  [ mm- + ] before /""]",im sure my husband will be surprised cause we were talking about them the other day   mm   before ,sd,FEMALE,1

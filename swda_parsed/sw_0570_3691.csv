@@ -1,0 +1,169 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['you bet.   /'],you bet   ,"fo_o_fw_""_by_bc",MALE,0
+['they tell you our topic? /'],they tell you our topic ,qy,MALE,7
+"['{f uh, } pets. /']",f uh  pets ,na,FEMALE,21
+"[""you've got it.  /""]",youve got it  ,sd,MALE,1
+['do you have pets? /'],do you have pets ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+['we do.  /'],we do  ,sd,MALE,1
+"['{f uh, } my wife and i have a dog that soon be eight years old,  /']",f uh  my wife and i have a dog that soon be eight years old  ,sd,MALE,1
+"['{c and } we have [ a, + a ] cat, which is, {f uh, } i guess about five years old. /']",c and  we have  a  a  cat which is f uh  i guess about five years old ,sd,MALE,1
+"['{f oh, } my goodness. /']",f oh  my goodness ,ba,FEMALE,6
+['how about you guys? /'],how about you guys ,qo,MALE,25
+['we have three dogs and --'],we have three dogs and ,sd,FEMALE,1
+['three dogs. /'],three dogs ,b^m,MALE,24
+['-- two birds at this point. /'], two birds at this point ,+,FEMALE,0
+"['{c and } two bi-, - /']",c and  two bi  ,b^m,MALE,24
+['what kind of birds do you have? /'],what kind of birds do you have ,qw,MALE,12
+['parakeets. /'],parakeets ,sd,FEMALE,1
+"['no, kidding.  /']",no kidding  ,ba,MALE,6
+"['[ en-, + enjoy  ] them?  /']", en  enjoy   them  ,qy,MALE,7
+"['{f oh, } have a ball with them. /']",f oh  have a ball with them ,sd,FEMALE,1
+['you let them out and let them fly around and everything? /'],you let them out and let them fly around and everything ,qy,MALE,7
+"['{d well, } no,  /']",d well  no  ,nn,FEMALE,13
+['because my dogs <laughter> chase them. /'],because my dogs laughter chase them ,sd,FEMALE,1
+['okay. /'],okay ,bk,MALE,14
+['{c so } in order to have the birds not stuffed i have to keep them in their --'],c so  in order to have the birds not stuffed i have to keep them in their ,sd,FEMALE,1
+"['you-, -/']",you ,%,MALE,5
+['-- cages. /'], cages ,+,FEMALE,0
+"['{d you know, } this is like a cruelty joke,  /']",d you know  this is like a cruelty joke  ,sv,MALE,3
+"[""{c and } i apologize if you're a bird lover,  /""]",c and  i apologize if youre a bird lover  ,fa,MALE,42
+"['{c but, } {f uh, } we had a parakeet.']",c but  f uh  we had a parakeet,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['and, my fault, put up our first electric fan.']",and my fault put up our first electric fan,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['and never thought about it.  /'],and never thought about it  ,+,MALE,0
+['knocked that parakeet <laughter> right out of the air. /'],knocked that parakeet laughter right out of the air ,sd,MALE,1
+"['{d well, } we had that happen once, {f um, }  /']",d well  we had that happen once f um   ,sd,FEMALE,1
+"['my son had the bird back in his room,  /']",my son had the bird back in his room  ,sd,FEMALE,1
+"[""{c because } [ it's his bir-, +  {d well, } the first one that we had was his bird, ]  /""]",c because   its his bir   d well  the first one that we had was his bird   ,sd,FEMALE,1
+"['{c and } i had a ceiling fan put up,  /']",c and  i had a ceiling fan put up  ,sd,FEMALE,1
+"['{c and } [ it, + the  bird ] got away from him one afternoon,  /']",c and   it  the  bird  got away from him one afternoon  ,sd,FEMALE,1
+"['{c and }  {e i  mean } that sucker hit that fan and went flying up against the wall,  /']",c and   e i  mean  that sucker hit that fan and went flying up against the wall  ,sd,FEMALE,1
+"['i thought, {f oh } --']",i thought f oh  ,sd,FEMALE,1
+['it killed him? /'],it killed him ,qy,MALE,7
+['-- so much for the bird.  /'], so much for the bird  ,+,FEMALE,0
+"['no,  /']",no  ,nn,FEMALE,13
+"[""he's still alive and # kicking. # /""]",hes still alive and  kicking  ,sd,FEMALE,1
+"[""# {f oh, } that's, # - /""]", f oh  thats   ,%,MALE,5
+"['{d well, } it killed ours,  /']",d well  it killed ours  ,sd,MALE,1
+"[""i'll be darned. /""]",ill be darned ,ba,MALE,6
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i guess we didn't have it high enough or he didn't get hit in just the right spot, /""]",i guess we didnt have it high enough or he didnt get hit in just the right spot ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{c but } it threw him up against the wall, {d you know, }  /']",c but  it threw him up against the wall d you know   ,sd,FEMALE,1
+['{c and } he slid <laughter> down the wall. /'],c and  he slid laughter down the wall ,sd,FEMALE,1
+"[""{d well, } speaking of pets, i'll tell you, [  my, +  my ] kids are older now,  /""]",d well  speaking of pets ill tell you   my   my  kids are older now  ,sd,MALE,1
+"['[ my, +  both of them ] are either in or out of college,  /']", my   both of them  are either in or out of college  ,sd,MALE,1
+"['[ {c but, } + {c but } ]   [ we [ had +  for years, about five years i guess, had a, ] +  my son had a ]  burmese boa constrictor,  /']", c but   c but      we  had   for years about five years i guess had a    my son had a   burmese boa constrictor  ,sd,MALE,1
+['{c and } --'],c and  ,sd,MALE,1
+"['-- that thing grew to be seven and a half feet [ in, +  in ] length,  /']", that thing grew to be seven and a half feet  in   in  length  ,+,MALE,0
+"[""{c and } finally my [ wife, + wife, ] bless her heart, got rid of it,  because i didn't really like  it. /""]",c and  finally my  wife  wife  bless her heart got rid of it  because i didnt really like  it ,sd,MALE,1
+"['{f oh, } i hate them. /  *[[sd]]']",f oh  i hate them   sd,+,FEMALE,0
+"['we also had  a, <laughter> - /']",we also had  a laughter  ,%,MALE,5
+"[""one   year down in florida on a vacation, for father's day, my kids, years ago, maybe, {f uh, } ten years ago, [ go, + bought  ] me a skunk from a exotic pet shop.  /""]",one   year down in florida on a vacation for fathers day my kids years ago maybe f uh  ten years ago  go  bought   me a skunk from a exotic pet shop  ,sd,MALE,1
+"[""[ it'd be + {d like, } it'd been  ] {d like } deactivated as far as --""]", itd be  d like  itd been   d like  deactivated as far as ,sd,MALE,1
+"['{f oh, } my goodness. /']",f oh  my goodness ,ba,FEMALE,6
+"['[ -- [ s-, + s-, ] + smell ] and everything,  /']",   s  s   smell  and everything  ,+,MALE,0
+"['{c and } we had that darn pet skunk for about five years,  /']",c and  we had that darn pet skunk for about five years  ,sd,MALE,1
+"['[ {c and, } + {c and }  ] my son left, went to school,  /']", c and   c and    my son left went to school  ,sd,MALE,1
+"['we finally sold his boa constrictor,  /']",we finally sold his boa constrictor  ,sd,MALE,1
+"['{c but } my son needed some money,  /']",c but  my son needed some money  ,sd,MALE,1
+"['{c and } [ we, + we  ] sold it for about two hundred and fifty dollars. /']",c and   we  we   sold it for about two hundred and fifty dollars ,sd,MALE,1
+"[""you're kidding. /""]",youre kidding ,ba,FEMALE,6
+"['{c so, } when the guy came over, he was infatuated by that skunk,  /']",c so  when the guy came over he was infatuated by that skunk  ,sd,MALE,1
+"['{c so } i made him a deal,  /']",c so  i made him a deal  ,sd,MALE,1
+"['i said, you take that skunk,  /']",i said you take that skunk  ,sd,MALE,1
+"[""{c and, } he said, i'll sell that snake to you for two fifty.  /""]",c and  he said ill sell that snake to you for two fifty  ,sd,MALE,1
+"[""i said, otherwise i'm going to give it to this other man. /""]",i said otherwise im going to give it to this other man ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c so } he took the skunk, too.  /']",c so  he took the skunk too  ,sd,MALE,1
+"['{c and } the skunk was [ a good, + a decent  ] pet,  /']",c and  the skunk was  a good  a decent   pet  ,sd,MALE,1
+"['{c but, } {d you know, } does his little jobbies in the litter box,  /']",c but  d you know  does his little jobbies in the litter box  ,sd,MALE,1
+"['{c and } [ is, + is. ] -/']",c and   is  is  ,%,MALE,5
+"[""{f oh } {d well, } that's pretty good. /""]",f oh  d well  thats pretty good ,ba,FEMALE,6
+"['{c and } it was sort of a neat,  /']",c and  it was sort of a neat  ,aa,MALE,4
+"['{c but, } they just stink too much <laughter>. /']",c but  they just stink too much laughter ,sv,MALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,FEMALE,4
+"['{f oh, } yeah. /']",f oh  yeah ,aa,FEMALE,4
+"['that was sort of fun, {d you know, }  /']",that was sort of fun d you know   ,sd,MALE,1
+['i tell everyone this story because my wife is a real pet lover.  /'],i tell everyone this story because my wife is a real pet lover  ,sd,MALE,1
+"['i use   to visualize my wife,  ((   )) - /']",i use   to visualize my wife       ,sd,MALE,1
+"['many times my wife would be lying there on the sofa,  /']",many times my wife would be lying there on the sofa  ,sd,MALE,1
+['{c and } this snake honestly would be stretched across the top of her body --'],c and  this snake honestly would be stretched across the top of her body ,sd,MALE,1
+"[""# {f oh, } you're kidding. # /""]", f oh  youre kidding  ,ba,FEMALE,6
+"['-- # [ and + ] [ with his, + with his  ] head # right on her neck -- /']",   and    with his  with his   head  right on her neck  ,+,MALE,0
+['oh. /'],oh ,b,FEMALE,2
+"['-- {c and } the skunk would be sitting at her feet,  /']", c and  the skunk would be sitting at her feet  ,sd,MALE,1
+"['{c but } the cat would be on the back of the sofa,  /']",c but  the cat would be on the back of the sofa  ,sd,MALE,1
+['{c and } a dog would be running around crazy <laughter>. /'],c and  a dog would be running around crazy laughter ,sd,MALE,1
+"['{f oh, } my gosh.  /']",f oh  my gosh  ,ba,FEMALE,6
+"['i can not   ima-, - /']",i can not   ima  ,%,FEMALE,5
+"[""[ i just, +  i ] don't, - /""]", i just   i  dont  ,%,FEMALE,5
+"['in fact my brother has  [ a, + {f uh, } a ] exotic pet shop out in california,  /']",in fact my brother has   a  f uh  a  exotic pet shop out in california  ,sd,FEMALE,1
+"['{c and } he keeps threatening to send a snake through the mail, {d you know, }  /']",c and  he keeps threatening to send a snake through the mail d you know   ,sd,FEMALE,1
+"[""i'm going --""]",im going ,sd,FEMALE,1
+"['# {f oh, } gosh. # /']", f oh  gosh  ,ba,MALE,6
+"[""-- # don't do that, # because they won't come in my house. /""]",  dont do that  because they wont come in my house ,+,FEMALE,0
+"['{f oh, } my son bought this snake, {f uh, }  ((   ))  /']",f oh  my son bought this snake f uh        ,sd,MALE,1
+"['someone gave it to him when he was in junior high school,  /']",someone gave it to him when he was in junior high school  ,sd,MALE,1
+"['{c and } it was just a small thing then,  /']",c and  it was just a small thing then  ,sd,MALE,1
+"['{c but } it got to be pretty big,  /']",c but  it got to be pretty big  ,sd,MALE,1
+"[""{c and, } {d you know, } [ [ you'd feed it, + you'd feed it, ] +  you [ put, + feed ] him ] small mice to big rats and things like that -- /""]",c and  d you know    youd feed it  youd feed it    you  put  feed  him  small mice to big rats and things like that  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- it's just, {f uh, } too much.  /""]", its just f uh  too much  ,sd,MALE,1
+['that snake used to watch our cat walk around.  /'],that snake used to watch our cat walk around  ,sd,MALE,1
+"['i always told my wife,  /']",i always told my wife  ,sd,MALE,1
+['i says --'],i says ,sd,MALE,1
+"['# {f oh, } my gosh. # /']", f oh  my gosh  ,ba,FEMALE,6
+"[""-- # {d you know, } # your friend's going to get our cat one of these days  <laughter>. /""]",  d you know   your friends going to get our cat one of these days  laughter ,+,MALE,0
+"['<laughter> {f oh, } my gosh.  /']",laughter f oh  my gosh  ,ba,FEMALE,6
+['that is wild.  /'],that is wild  ,ba,FEMALE,6
+"[""{f oh, } i just can't do those, and the lizards and [ the + ] --""]",f oh  i just cant do those and the lizards and  the   ,sd,FEMALE,1
+"['{f oh, } me neither. /']",f oh  me neither ,aa,MALE,4
+"['-- all [ those +  those ] things,  /']", all  those   those  things  ,+,FEMALE,0
+"['<ugh> [ they, + they  ] need to stay outside, far away from me. /']",ugh  they  they   need to stay outside far away from me ,sv,FEMALE,3
+"[""we're down to a simple dog and cat now,  /""]",were down to a simple dog and cat now  ,sd,MALE,1
+"[""{c and } that's the way it should be,  /""]",c and  thats the way it should be  ,sv,MALE,3
+['{c and. } -/'],c and  ,%,MALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"[""haven't had any parakeets for quite a while,  /""]",havent had any parakeets for quite a while  ,sd,MALE,1
+['birds.  /'],birds  ,%,MALE,5
+"['{f uh, } customer of mine has a parrot,  /']",f uh  customer of mine has a parrot  ,sd,MALE,1
+"['{c and, } {f uh, } gosh, sticks in my mind he paid eighteen hundred dollars for # a parrot,  /']",c and  f uh  gosh sticks in my mind he paid eighteen hundred dollars for  a parrot  ,sd,MALE,1
+['{c and } that was just mind boggling. # /'],c and  that was just mind boggling  ,sv,MALE,3
+"['# {f oh, } yeah,  /']", f oh  yeah  ,aa,FEMALE,4
+['they are so expensive. #  /'],they are so expensive   ,sd,FEMALE,1
+"['{d well, } my son was just dying for a bird,  /']",d well  my son was just dying for a bird  ,sd,FEMALE,1
+"[""{c and } i'm really allergic to them,  /""]",c and  im really allergic to them  ,sd,FEMALE,1
+['{c so } --'],c so  ,sd,FEMALE,1
+['are you? /'],are you ,bh,MALE,18
+"[""-- i try to stay away from them, except i've gotten real attached to this one,  /""]", i try to stay away from them except ive gotten real attached to this one  ,+,FEMALE,0
+"['[ {c and, } + {c and, } ] {f uh, } we went down to canton one time --']", c and   c and   f uh  we went down to canton one time ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f oh, } gosh, two or three years ago now,  /']", f oh  gosh two or three years ago now  ,+,FEMALE,0
+"[""{c and }  he'd saved up his allowance, {d you know, } and picked him out a bird in a bird cage  /""]",c and   hed saved up his allowance d you know  and picked him out a bird in a bird cage  ,sd,FEMALE,1
+"['[ {c and, } +']", c and  ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{c and } ] that stinking bird, when i brought it home tried to take it out of the little box that they give you -- /']",c and   that stinking bird when i brought it home tried to take it out of the little box that they give you  ,+,FEMALE,0
+['yes. /'],yes ,b,MALE,2
+"['-- clamped onto my finger and would not, - /']", clamped onto my finger and would not  ,sd,FEMALE,1
+"['{e i mean, } i had to literally shake him off to get him in the cage,  /']",e i mean  i had to literally shake him off to get him in the cage  ,sd,FEMALE,1
+"['{c and } he has tried to bite me for two years,  /']",c and  he has tried to bite me for two years  ,sd,FEMALE,1
+['{c and } all of a sudden this bird and i have become wonderful friends. /'],c and  all of a sudden this bird and i have become wonderful friends ,sd,FEMALE,1
+"['{f oh, } gosh. /']",f oh  gosh ,ba,MALE,6
+"['he gives me kisses,  /']",he gives me kisses  ,sd,FEMALE,1
+['he talks now -- /'],he talks now  ,sd,FEMALE,1
+"[""<laughter> that's neat. /""]",laughter thats neat ,ba,MALE,6
+"[""-- {c and } it's just hysterical.  /""]", c and  its just hysterical  ,sd,FEMALE,1
+"[""i'm the only one that pays attention to him.  /""]",im the only one that pays attention to him  ,sd,FEMALE,1
+"['why, sure. /']",why sure ,ba,MALE,6
+"[""{c and } i'm a substitute teacher  /""]",c and  im a substitute teacher  ,sd,FEMALE,1
+"[""{c and } one of my fifth graders last year came up to me and said, <<sounds high-pitched like a child's voice>> my mom's making me get rid of the bird,  /""]",c and  one of my fifth graders last year came up to me and said sounds highpitched like a childs voice my moms making me get rid of the bird  ,sd,FEMALE,1
+['we have too many pets.  /'],we have too many pets  ,^q,FEMALE,19
+"['i thought, yeah, right come tell me about it,']",i thought yeah right come tell me about it,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['{d you know. } /'],d you know  ,+,FEMALE,0
+['come to my menagerie. /'],come to my menagerie ,bf,MALE,20
+['they knew the sucker when they saw one.  /'],they knew the sucker when they saw one  ,sd,FEMALE,1
+['{c so } now we have two parakeets. /'],c so  now we have two parakeets ,sd,FEMALE,1

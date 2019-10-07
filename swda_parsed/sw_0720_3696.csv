@@ -1,0 +1,135 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hi. /'],hi ,fp,MALE,32
+"[""<noise> <<sounds like child's record>> hi,  /""]",noise sounds like childs record hi  ,fp,FEMALE,32
+"[""i'm carol,  /""]",im carol  ,fp,FEMALE,32
+"[""{c and } i'm calling from garland, texas. /""]",c and  im calling from garland texas ,fp,FEMALE,32
+"['yeah,  /']",yeah  ,b,MALE,2
+['this is  ((   )) - /'],this is       ,fp,MALE,32
+"[""i'm in dallas. /""]",im in dallas ,fp,MALE,32
+"['{f oh, } okay.  /']",f oh  okay  ,bk,FEMALE,14
+"[""{c because } yesterday i talked to someone upstate, i'm not even sure where,  /""]",c because  yesterday i talked to someone upstate im not even sure where  ,sd,FEMALE,1
+"['{c and } my husband talked to the people in utah,  /']",c and  my husband talked to the people in utah  ,sd,FEMALE,1
+"['{c so. }  {f um, } anyway, let me press one. /']",c so   f um  anyway let me press one ,oo_co_cc,FEMALE,36
+['okay <beep>. /'],okay beep ,aa,MALE,4
+"['okay, {f um, }  /']",okay f um   ,b,FEMALE,2
+"[""let me see, i think we've only planned one <laughter> family reunion in our life,  /""]",let me see i think weve only planned one laughter family reunion in our life  ,sd,FEMALE,1
+['{c so } --'],c so  ,sd,FEMALE,1
+['i. -/'],i ,%,MALE,5
+"[""-- we don't do this too often.  /""]", we dont do this too often  ,+,FEMALE,0
+"[""{f um, } most of my family's in california,  /""]",f um  most of my familys in california  ,sd,FEMALE,1
+"[""{c but } my husband's is in san antonio,  /""]",c but  my husbands is in san antonio  ,sd,FEMALE,1
+"['{c and so } we did this in san antonio,  /']",c and so  we did this in san antonio  ,sd,FEMALE,1
+"[""{c and, } {f um, } it was an experience that [ i, + i ] won't do again <laughter>. /""]",c and  f um  it was an experience that  i  i  wont do again laughter ,sd,FEMALE,1
+['how big a family do you have? /'],how big a family do you have ,qw,MALE,12
+"[""{f um, } {d well, } it wasn't that big of a family,  /""]",f um  d well  it wasnt that big of a family  ,sd,FEMALE,1
+"['{c but, } {f um, } it just got out of hand,  /']",c but  f um  it just got out of hand  ,sd,FEMALE,1
+"['{c and, } {f um, } {c so } many people were coming that  we were trying to figure out how much food we were going to need [ and, + and, ]  {f um, } how much, {f um, } beverages we were going to need and this and that,  /']",c and  f um  c so  many people were coming that  we were trying to figure out how much food we were going to need  and  and   f um  how much f um  beverages we were going to need and this and that  ,sd,FEMALE,1
+"['{c and } {f oh, } it just  grew and grew and grew, /']",c and  f oh  it just  grew and grew and grew ,sd,FEMALE,1
+"['{c and, } {f um, } when the time came, only about half that <laughter>  amount of people came.  /']",c and  f um  when the time came only about half that laughter  amount of people came  ,sd,FEMALE,1
+"[""{c so, }  it wasn't, {d you know, } - /""]",c so   it wasnt d you know   ,%,FEMALE,5
+"['you have to really  just get an accurate amount,  /']",you have to really  just get an accurate amount  ,sd,FEMALE,1
+"['{c and, } - /']",c and   ,%,FEMALE,5
+['{c but } overall we all had a good time.  /'],c but  overall we all had a good time  ,sd,FEMALE,1
+"[""we saw people we hadn't see in a while  /""]",we saw people we hadnt see in a while  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['did you have people coming from far away? /'],did you have people coming from far away ,qy,MALE,7
+['no.   /'],no   ,nn,FEMALE,13
+['it was all in the san antonio area <laughter>. /'],it was all in the san antonio area laughter ,sd,FEMALE,1
+['{d well } sometimes. /'],d well  sometimes ,%,MALE,5
+"['{c but } [ it, + it ] just kept growing and growing and  growing and growing,  /']",c but   it  it  just kept growing and growing and  growing and growing  ,sd,FEMALE,1
+"[""{c and } we're going, {f oh, } my gosh.  /""]",c and  were going f oh  my gosh  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['{d well } [ you have, + you have ] - /']",d well   you have  you have   ,sv,MALE,3
+"['the family  lives too close together, they see each other too often --']",the family  lives too close together they see each other too often ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+['# basically. # /'], basically  ,aa,FEMALE,4
+"[""-- # they don't # take that kind of thing seriously. /""]",  they dont  take that kind of thing seriously ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } if, {f uh } --']",c and  if f uh  ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- {f uh, } they come from far away,  [ it's, {f uh, } it, it, + ] they take it more seriously  /""]", f uh  they come from far away   its f uh  it it   they take it more seriously  ,+,MALE,0
+"['{c and, } -/']",c and  ,%,MALE,5
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+"[""i think you're right. /""]",i think youre right ,aa,FEMALE,4
+['yeah. /'],yeah ,b,MALE,2
+"[""<noise> <<child's record>> yeah. /""]",noise childs record yeah ,b,FEMALE,2
+"[""my family's not very big  /""]",my familys not very big  ,sd,MALE,1
+"[""{c but, } {f uh, } we're kind of. -/""]",c but  f uh  were kind of ,sd,MALE,1
+"[""your family's from where? /""]",your familys from where ,qw^d,FEMALE,41
+"['{d well, } i have [ [ a, + a, ] + a ]  brother lives in indianapolis, a sister lives in chicago,  and my folks live back in buffalo, new york. /']",d well  i have   a  a   a   brother lives in indianapolis a sister lives in chicago  and my folks live back in buffalo new york ,sd,MALE,1
+"['{f oh, } no. /']",f oh  no ,ba,FEMALE,6
+"['{f uh, } i guess we have reunions about once a year or so. /']",f uh  i guess we have reunions about once a year or so ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['we got together over christmas.  /'],we got together over christmas  ,sd,MALE,1
+"[""my wife's family, [ they're, + they're ] all in, - /""]",my wifes family  theyre  theyre  all in  ,sd,MALE,1
+['most of them are in upstate new york.  /'],most of them are in upstate new york  ,sd,MALE,1
+"['they have [ regular, + {f uh, } regular ] family reunions every summer. /']",they have  regular  f uh  regular  family reunions every summer ,sd,MALE,1
+"['{f oh, } those are nice. /']",f oh  those are nice ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,aa,MALE,4
+['it is. -/'],it is ,sd,MALE,1
+"[""{c and } [ i'm, + i'm ] sure they're a lot more organized too, because they've done it before. /""]",c and   im  im  sure theyre a lot more organized too because theyve done it before ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""{c and } [ it's, + it's ] just something that [ they, + they ] plan on doing every summer.  /""]",c and   its  its  just something that  they  they  plan on doing every summer  ,sd,MALE,1
+['# they just have # --'], they just have  ,sd,MALE,1
+"[""# that's great. # /""]", thats great  ,ba,FEMALE,6
+"['-- a weekend picnic,  /']", a weekend picnic  ,+,MALE,0
+['{c and } every year everyone asks --'],c and  every year everyone asks ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+['-- when is it happening and where is it happening -- /'], when is it happening and where is it happening  ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['-- {c and } they just plan on being here. /'], c and  they just plan on being here ,sd,MALE,1
+"['that makes a big difference, too.  /']",that makes a big difference too  ,sv,FEMALE,3
+"[""i know everybody's real eager to participate.  /""]",i know everybodys real eager to participate  ,sd,FEMALE,1
+"['# yeah,  /']", yeah  ,%,FEMALE,5
+"[""{d well } that's great. # /""]",d well  thats great  ,ba,FEMALE,6
+"['# yeah,  /']", yeah  ,b,MALE,2
+"['[ they, + # they ] had a family reunion  [ for, + {f uh, } {d well, } for ] my mother-in-law at her seventy-fifth birthday,/']", they   they  had a family reunion   for  f uh  d well  for  my motherinlaw at her seventyfifth birthday,sd,MALE,1
+"['{c and } they managed to get just about [ everybody, + everybody ] into town, {f uh, } last november --']",c and  they managed to get just about  everybody  everybody  into town f uh  last november ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- including a number of people from out in california. /'], including a number of people from out in california ,+,MALE,0
+['oh. /'],oh ,b,FEMALE,2
+"['{c so } [ it was a, + it was ]  good, [ it, + {f uh } --']",c so   it was a  it was   good  it  f uh  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- it ] worked out very well.  /'], it  worked out very well  ,+,MALE,0
+"['one  [ in-, + ] interesting thing that they did at the time is [ they, + {f um, } they ]  videotaped [ the, + the ] whole shebang --']",one   in   interesting thing that they did at the time is  they  f um  they   videotaped  the  the  whole shebang ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ which, + ] it made a nice remembrance  [ of, + of ] the entire party. /']",  which   it made a nice remembrance   of  of  the entire party ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['more people want to come back again. /'],more people want to come back again ,bf,FEMALE,20
+"['yeah,  /']",yeah  ,aa,MALE,4
+['they want to come back. /'],they want to come back ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""that's good. /""]",thats good ,ba,FEMALE,6
+"['{d so, } {c so } [ that, +  that ] works pretty well that way. /']",d so  c so   that   that  works pretty well that way ,sd,MALE,1
+"['[ my, + {f uh, } my ] grandmother in california is, {f um, } - /']", my  f uh  my  grandmother in california is f um   ,sd,FEMALE,1
+"[""<throat_clearing> this is my dad's [ part, + ] side of the family is planning  a reunion, {f um, } this spring,  /""]",throatclearing this is my dads  part   side of the family is planning  a reunion f um  this spring  ,sd,FEMALE,1
+"[""{c but } we <laughter> won't be going because, {f um, } i don't know how  they thought of this, it's going to be on a cruise,  /""]",c but  we laughter wont be going because f um  i dont know how  they thought of this its going to be on a cruise  ,sd,FEMALE,1
+"['{c and, } {f um, } it seems like  most of the family is, {f uh, } going, {d you know, } all the nieces and all the grandchildren and all that are, most of them are going,  /']",c and  f um  it seems like  most of the family is f uh  going d you know  all the nieces and all the grandchildren and all that are most of them are going  ,sd,FEMALE,1
+"[""{c but } it's too costly for us.  /""]",c but  its too costly for us  ,sd,FEMALE,1
+"[""{c but } anyway, they're going to go on a cruise, /""]",c but  anyway theyre going to go on a cruise ,sd,FEMALE,1
+"['{c and, } {f um, } it sounds really neat,  it really does. /']",c and  f um  it sounds really neat  it really does ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['[ i, + i ] can go for  that. /']", i  i  can go for  that ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['what, - /']",what  ,%,MALE,5
+"['what do, - /']",what do  ,%,MALE,5
+"['i guess interesting if you had [ [ a, + a, ] + a ] very extended family [ that, + that ] kind of involved a lot of people [ that + ] --']",i guess interesting if you had   a  a   a  very extended family  that  that  kind of involved a lot of people  that   ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- cousins and things that you don't really know, that you've never met, it'd be interesting to meet a lot of those people. /""]", cousins and things that you dont really know that youve never met itd be interesting to meet a lot of those people ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{f uh, } i don't know how you would go about, {f uh, }  getting them together,  /""]",f uh  i dont know how you would go about f uh   getting them together  ,sd,MALE,1
+"['{c but } [ that, + that ] would be, {f uh. } -/']",c but   that  that  would be f uh  ,sv,MALE,3
+"['{c and } a friend of mine, {f um, } she plans her family  reunion, {f um, } every year,  /']",c and  a friend of mine f um  she plans her family  reunion f um  every year  ,sd,FEMALE,1
+"['{c and } they go camping,  /']",c and  they go camping  ,sd,FEMALE,1
+"['{c and } she says they have the greatest time,  /']",c and  she says they have the greatest time  ,sd,FEMALE,1
+"['{c and } she says, usually everybody shows up in exception to maybe one person,  /']",c and  she says usually everybody shows up in exception to maybe one person  ,sd,FEMALE,1
+"['{c but } she said they all go camping,  /']",c but  she said they all go camping  ,sd,FEMALE,1
+['{c and } they have a really good  ((   ))   for the whole weekend. - /'],c and  they have a really good        for the whole weekend  ,sd,FEMALE,1
+"[""{c so, }  that's. -/""]",c so   thats ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i kind of wonder [ what, + what ]  kind of tradition we're going to establish for our family.  /""]",i kind of wonder  what  what   kind of tradition were going to establish for our family  ,sd,MALE,1
+"['i had hoped that [ our, + our ]  kids get together at least regularly. /']",i had hoped that  our  our   kids get together at least regularly ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+['right now we only have two children  /'],right now we only have two children  ,sd,FEMALE,1
+"['{c so } i, -/']",c so  i ,%,FEMALE,5

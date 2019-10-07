@@ -1,0 +1,174 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['what kind of house do you live in? /'],what kind of house do you live in ,qw,FEMALE,12
+"['{d well, } {f uh, } we live in [ a, + a  ] brick home in far north dallas  /']",d well  f uh  we live in  a  a   brick home in far north dallas  ,sd,FEMALE,1
+"[""{c and } it's, {f uh, } four bedrooms and three and a half baths and swimming pool in the back  /""]",c and  its f uh  four bedrooms and three and a half baths and swimming pool in the back  ,sd,FEMALE,1
+"['{c and, }']",c and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's about thirty-five hundred square feet. /""]",its about thirtyfive hundred square feet ,+,FEMALE,0
+"['{d well, } it sounds like ours are pretty similar.  /']",d well  it sounds like ours are pretty similar  ,sv,FEMALE,3
+"['i live in one,  /']",i live in one  ,sd,FEMALE,1
+"[""i don't have a swimming pool.  /""]",i dont have a swimming pool  ,sd,FEMALE,1
+"[""{c and } mine's about twenty-seven hundred square foot. /""]",c and  mines about twentyseven hundred square foot ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['{c but } the four bedrooms  /'],c but  the four bedrooms  ,sd,FEMALE,1
+"['{c and } all the rest of it sounds just  [ about + <laughter>, about ] alike.  /']",c and  all the rest of it sounds just   about  laughter about  alike  ,sd,FEMALE,1
+"[""i think it's pretty much typical for this area. /""]",i think its pretty much typical for this area ,sv,FEMALE,3
+['it is.  /'],it is  ,aa,FEMALE,4
+['have you been living there very long? /'],have you been living there very long ,qy,FEMALE,7
+"[""i've been in the house  /""]",ive been in the house  ,no,FEMALE,31
+"[""i'm in here right now about twelve  and  a half years. /""]",im in here right now about twelve  and  a half years ,sd,FEMALE,1
+"[""{c so } you've been there longer.  /""]",c so  youve been there longer  ,sd,FEMALE,1
+"['we built this one about, {f uh, } - /']",we built this one about f uh   ,sd,FEMALE,1
+"[""[ it's been +  <breathing>, let's see <sniffing>, it's been ] [ six + years --""]", its been   breathing lets see sniffing its been   six  years ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- six   and a half years ] ago,  /']", six   and a half years  ago  ,+,FEMALE,0
+['{c and } we subcontracted it out ourselves.  /'],c and  we subcontracted it out ourselves  ,sd,FEMALE,1
+['we bought --'],we bought ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+"['-- the lot and, {f uh, } had an architect draw the plans based on our specifications -- /']", the lot and f uh  had an architect draw the plans based on our specifications  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and then } we subbed it out,  /']", c and then  we subbed it out  ,sd,FEMALE,1
+"[""{c so, } we've been here a little over six years now. and --""]",c so  weve been here a little over six years now and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } have really enjoyed it because --']", f uh  have really enjoyed it because ,+,FEMALE,0
+"['{d well, } i bet you, -/']",d well  i bet you ,ba,FEMALE,6
+['-- we built what we wanted to have to live in. /'], we built what we wanted to have to live in ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['my husband got his big garage.  /'],my husband got his big garage  ,sd,FEMALE,1
+"['[ he ha-, + we have ] a three car garage,  that he has a big work area in -- /']", he ha  we have  a three car garage  that he has a big work area in  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } he likes to rebuild cars and redo engines  /'], c and  he likes to rebuild cars and redo engines  ,sd,FEMALE,1
+"['{c and, so } he has all the work space he needs. /']",c and so  he has all the work space he needs ,sd,FEMALE,1
+"['{d well, } that sounds interesting.  /']",d well  that sounds interesting  ,ba,FEMALE,6
+"[""i bet he's enjoyed having it that way -- /""]",i bet hes enjoyed having it that way  ,ba,FEMALE,6
+"['he, -/']",he ,%,FEMALE,5
+"['-- {c because } some-, - /']", c because  some  ,%,FEMALE,5
+"[""kind of hard to find one prebuilt that [ 's +  kind of fits ] those specifications. /""]",kind of hard to find one prebuilt that  s   kind of fits  those specifications ,sv,FEMALE,3
+"['it is,  /']",it is  ,aa,FEMALE,4
+"[""{c and }  that's why we decided to build.  /""]",c and   thats why we decided to build  ,sd,FEMALE,1
+['we looked --'],we looked ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- at things that were already, {f uh, } built  /']", at things that were already f uh  built  ,+,FEMALE,0
+"['{c and }  [ the garages were always, + if the house [ w-, + was ] large, it seemed like the garages were  ] small even if they were three car garages which is --']",c and    the garages were always  if the house  w  was  large it seemed like the garages were   small even if they were three car garages which is ,sd,FEMALE,1
+"['{d well, } then, most --']",d well  then most ,sd,FEMALE,1
+['-- what we have. /'], what we have ,+,FEMALE,0
+"[""-- of them don't have a three car garage. /""]", of them dont have a three car garage ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""they're kind of rare. /""]",theyre kind of rare ,sd,FEMALE,1
+['{c so } we put a three car garage in. /'],c so  we put a three car garage in ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c but, } even if they had three car garages, they didn't have a work space.  /""]",c but  even if they had three car garages they didnt have a work space  ,sd,FEMALE,1
+['all of it was taken up with just car space. /'],all of it was taken up with just car space ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and so } he has a big <noise> landing area that's between where the cars are in the garage  and where the house starts --""]",c and so  he has a big noise landing area thats between where the cars are in the garage  and where the house starts ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- that he can work on. /'], that he can work on ,+,FEMALE,0
+"['{d well } that, - /']",d well  that  ,%,FEMALE,5
+"[""[ my, +  we've ] just got a two car garage,  /""]", my   weve  just got a two car garage  ,sd,FEMALE,1
+"[""{c but } my husband's got a big space in between [ the, +  where the ] cars are and  the house, where he has a big work shop, {d you know, } workbench and  everything. /""]",c but  my husbands got a big space in between  the   where the  cars are and  the house where he has a big work shop d you know  workbench and  everything ,sd,FEMALE,1
+"['{d well, } sounds like our husbands have similar interests. /']",d well  sounds like our husbands have similar interests ,sv,FEMALE,3
+"['{d now, } mine does not work on cars,  /']",d now  mine does not work on cars  ,ar,FEMALE,28
+['he just piddles on this and  that. /'],he just piddles on this and  that ,sd,FEMALE,1
+"['{f oh, } i see. /']",f oh  i see ,ba,FEMALE,6
+"['{c but } he likes to have a spot to keep all of [ his, + his ] piddling things. /']",c but  he likes to have a spot to keep all of  his  his  piddling things ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{d well, } that's nice that it's not in your house. /""]",d well  thats nice that its not in your house ,ba,FEMALE,6
+['it really is. /'],it really is ,aa,FEMALE,4
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c because, } {d you know, } they have a lot of things of their own,  /']",c because  d you know  they have a lot of things of their own  ,sv,FEMALE,3
+"[""{c and } [ i, + {d you know, } i  ] wouldn't mind having, - /""]",c and   i  d you know  i   wouldnt mind having  ,%,FEMALE,5
+"['{c and } i at one time was going to fix up when one of my daughters left, a bedroom to where i had a room to just put all of my craft stuff and --']",c and  i at one time was going to fix up when one of my daughters left a bedroom to where i had a room to just put all of my craft stuff and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- sewing machine and all that kind of stuff, <lipsmack>  /']", sewing machine and all that kind of stuff lipsmack  ,+,FEMALE,0
+"['{c but }   [ i, +  someone, ] - /']",c but     i   someone   ,%,FEMALE,5
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+['it ended up i  got some furniture back that one of them had moved out <laughter> or something. /'],it ended up i  got some furniture back that one of them had moved out laughter or something ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c so } i didn't end up with my vacant room like i had thought i would. /""]",c so  i didnt end up with my vacant room like i had thought i would ,sd,FEMALE,1
+"['{d well, } we still have [ a, + a  ] son and daughter in college that come home. /']",d well  we still have  a  a   son and daughter in college that come home ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } the other room we use as a guest bedroom because my husband's family <noise> come.  /""]",c and  the other room we use as a guest bedroom because my husbands family noise come  ,sd,FEMALE,1
+['his parents come  /'],his parents come  ,sd,FEMALE,1
+['{c and } also the kids have friends who come --'],c and  also the kids have friends who come ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and stay  /'], and stay  ,+,FEMALE,0
+['{c and so } --'],c and so  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- it seems like it's always used as a bedroom. /""]", it seems like its always used as a bedroom ,+,FEMALE,0
+"['{d well, } i still, - /']",d well  i still  ,%,FEMALE,5
+"['all three of my daughters are married,  /']",all three of my daughters are married  ,sd,FEMALE,1
+"[""but, i don't know,  /""]",but i dont know  ,h,FEMALE,15
+['i just still have need for the four bedrooms just having company from time to time.'],i just still have need for the four bedrooms just having company from time to time,sd,FEMALE,1
+['right. /'],right ,aa,FEMALE,4
+"['{c and } some of them coming back home and things, {d you know. } /']",c and  some of them coming back home and things d you know  ,+,FEMALE,0
+"['{f oh, } i understand <<faint>>. /']",f oh  i understand faint ,aa,FEMALE,4
+"[""{c and } we've got grandchildren now,  /""]",c and  weve got grandchildren now  ,sd,FEMALE,1
+['{c so } --'],c so  ,sd,FEMALE,1
+"['{d well, } we, -/']",d well  we ,%,FEMALE,5
+"['-- when they come, they have to have a place. /']", when they come they have to have a place ,+,FEMALE,0
+"[""<laughter> that's true  /""]",laughter thats true  ,aa,FEMALE,4
+"[""{c and } you don't want them to not be able to come because there's no room. /""]",c and  you dont want them to not be able to come because theres no room ,sv,FEMALE,3
+"[""that's right,  /""]",thats right  ,aa,FEMALE,4
+"[""you sure don't.  /""]",you sure dont  ,aa,FEMALE,4
+"['at times i keep thinking, though, that might be kind of nice. /']",at times i keep thinking though that might be kind of nice ,sd,FEMALE,1
+"['{d well, }']",d well ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""[ i c-, +  i haven't ] reached that point yet.  /""]", i c   i havent  reached that point yet  ,+,FEMALE,0
+"[""i've heard people say that. /""]",ive heard people say that ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c but, } {f uh, } my middle son is engaged,  /']",c but  f uh  my middle son is engaged  ,sd,FEMALE,1
+['my oldest son has been going with the same girl for a while. /'],my oldest son has been going with the same girl for a while ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""he's out of college --""]",hes out of college ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and has a good job,  /']", and has a good job  ,+,FEMALE,0
+['{c so } he could afford to get married --'],c so  he could afford to get married ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- but, is not engaged yet,  /']", but is not engaged yet  ,+,FEMALE,0
+"[""{c and } my daughter's been going with the same boy for a while,  /""]",c and  my daughters been going with the same boy for a while  ,sd,FEMALE,1
+"[""{c but } she's still in college  /""]",c but  shes still in college  ,sd,FEMALE,1
+"[""{c and } we're just as happy for her to finish --""]",c and  were just as happy for her to finish ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- her education first.  /'], her education first  ,+,FEMALE,0
+"[""that's --""]",thats ,sd,FEMALE,1
+"[""{d well, } i don't blame you for that. /""]",d well  i dont blame you for that ,ba,FEMALE,6
+['-- what she plans to do.  /'], what she plans to do  ,+,FEMALE,0
+"['{d so, } i hope so. /']",d so  i hope so ,sd,FEMALE,1
+"['{d well, } i have the three girls  /']",d well  i have the three girls  ,sd,FEMALE,1
+['{c and then } we ended up with four grandsons. /'],c and then  we ended up with four grandsons ,sd,FEMALE,1
+"['{f oh, } ho-ho. /']",f oh  hoho ,ba,FEMALE,6
+['{c and } little boys are around the house --'],c and  little boys are around the house ,sd,FEMALE,1
+['a whole new world. /'],a whole new world ,ba,FEMALE,6
+['-- a whole lot more than girls. /'], a whole lot more than girls ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } i enjoy them coming, but for short doses <laughter>. /']",c and  f uh  i enjoy them coming but for short doses laughter ,sd,FEMALE,1
+['i can understand. /'],i can understand ,aa,FEMALE,4
+"['it feels, - /']",it feels  ,%,FEMALE,5
+"[""after they've been here ten minutes, they have already explored the entire house,  /""]",after theyve been here ten minutes they have already explored the entire house  ,sd,FEMALE,1
+['they know everything. /'],they know everything ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c but, } they're fun. /""]",c but  theyre fun ,sd,FEMALE,1
+"[""{c so } you're all back to the safety catches  and the whole nine yards or either watching them every minute. /""]",c so  youre all back to the safety catches  and the whole nine yards or either watching them every minute ,bf,FEMALE,20
+"['{d well, } i just watch them. /']",d well  i just watch them ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ i d-, + i never did  ] put things up when my kids were little  /']", i d  i never did   put things up when my kids were little  ,sd,FEMALE,1
+"[""{c and } i haven't with them.  /""]",c and  i havent with them  ,sd,FEMALE,1
+['i try to teach them not to get into things. /'],i try to teach them not to get into things ,sd,FEMALE,1
+"[""{d well, } that's the same thing that i did.  /""]",d well  thats the same thing that i did  ,sd,FEMALE,1
+"[""i hope i'll be able to do the same with <laughter> grandchildren. /""]",i hope ill be able to do the same with laughter grandchildren ,sd,FEMALE,1
+"['<laughter> i think that once you do that, your children kind of develop the same attitudes.  /']",laughter i think that once you do that your children kind of develop the same attitudes  ,sv,FEMALE,3
+['at least my daughters have.  /'],at least my daughters have  ,sd,FEMALE,1
+['they try to teach theirs not to get into things instead of having to put everything up.  /'],they try to teach theirs not to get into things instead of having to put everything up  ,sd,FEMALE,1
+"[""{c so } it's worked pretty well.  /""]",c so  its worked pretty well  ,sd,FEMALE,1
+"[""there's, - /""]",theres  ,%,FEMALE,5
+"[""i don't really think anything's been broken.  /""]",i dont really think anythings been broken  ,sd,FEMALE,1
+"[""every now and then we have to kind of go and say, now don't bother this <laughter>, {d you know. } /""]",every now and then we have to kind of go and say now dont bother this laughter d you know  ,sd,FEMALE,1
+"['{f um, } uh-huh <<faint>>. /']",f um  uhhuh faint ,b,FEMALE,2
+"['{c but, } all in all, they mind pretty well.  /']",c but  all in all they mind pretty well  ,sd,FEMALE,1
+"['{c but, } i guess most of the hou-, - /']",c but  i guess most of the hou  ,%,FEMALE,5
+"['d-, - /']",d  ,%,FEMALE,5
+['what kind of roof does your house have?  /'],what kind of roof does your house have  ,qw,FEMALE,12
+"[""here i'm getting off the subject. /""]",here im getting off the subject ,sd,FEMALE,1
+"['{d well, } we have, -/']",d well  we have ,%,FEMALE,5

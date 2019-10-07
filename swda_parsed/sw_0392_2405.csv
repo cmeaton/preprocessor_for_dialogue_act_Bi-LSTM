@@ -1,0 +1,305 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['hi,  /']",hi  ,fp,FEMALE,32
+['how are you today? /'],how are you today ,fp,FEMALE,32
+"[""i'm great <laughter>. /""]",im great laughter ,fp,FEMALE,32
+['good.  /'],good  ,fp,FEMALE,32
+"[""{d well } as a matter of fact [ i'm, +   before we started this conversation i was ] working on my p c at home. /""]",d well  as a matter of fact  im    before we started this conversation i was  working on my p c at home ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['do you have one? /'],do you have one ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i don't have one at home.  /""]",i dont have one at home  ,sd,FEMALE,1
+"['i work with one  [ on, +  at ] work --']",i work with one   on   at  work ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- continually, {d you know, }  /']", continually d you know   ,+,FEMALE,0
+['{c but } i do not have one  of my own at home. /'],c but  i do not have one  of my own at home ,sd,FEMALE,1
+"['do you have, -/']",do you have ,%,FEMALE,5
+"['what do you have, at home? /']",what do you have at home ,qo,FEMALE,25
+"['we have an, {f um, } - /']",we have an f um   ,%,FEMALE,5
+"[""{d actually } it's a  t i computer,  /""]",d actually  its a  t i computer  ,sd,FEMALE,1
+['{c but } it is the i b m --'],c but  it is the i b m ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f um, } clone.  /']", f um  clone  ,+,FEMALE,0
+"[""it's not the t i p c --""]",its not the t i p c ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- from back when. /'], from back when ,+,FEMALE,0
+['from the oldies but the goodies. /'],from the oldies but the goodies ,bf,FEMALE,20
+['right. /'],right ,aa,FEMALE,4
+"[""it's probably pretty close to what i have, because  i have the same kind of thing at work.  /""]",its probably pretty close to what i have because  i have the same kind of thing at work  ,sd,FEMALE,1
+"['i have a three eighty-six s x which is  t i computer,  /']",i have a three eightysix s x which is  t i computer  ,sd,FEMALE,1
+"['{c but } everything [ in, + is in ] i b m mode.  /']",c but  everything  in  is in  i b m mode  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""that's what we have.  {f um. } /""]",thats what we have  f um  ,sd,FEMALE,1
+['do you use it a lot at home? /'],do you use it a lot at home ,qy,FEMALE,7
+"['{d well, } i really do.  /']",d well  i really do  ,na,FEMALE,21
+"['i, {f um, } am an accountant  /']",i f um  am an accountant  ,sd,FEMALE,1
+"['[ {c and, } +']", c and  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c but } ] i work at home. /'],c but   i work at home ,+,FEMALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{c so } you're on it a lot. /""]",c so  youre on it a lot ,qy^d,FEMALE,16
+['{c so } i use it for that quite often. /'],c so  i use it for that quite often ,arp_nd,FEMALE,34
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['we have, {d you know, } used some of it for some  personal things.  /']",we have d you know  used some of it for some  personal things  ,sd,FEMALE,1
+['we keep track of personal budgets and things like that on it.  /'],we keep track of personal budgets and things like that on it  ,sd,FEMALE,1
+"['i, - /']",i  ,%,FEMALE,5
+"[""since it's tax season, i'm doing a lot of taxes,  /""]",since its tax season im doing a lot of taxes  ,sd,FEMALE,1
+"['{c so } i do [ a lot of, + {f um, } a lot of ]  that work on it as well. /']",c so  i do  a lot of  f um  a lot of   that work on it as well ,sd,FEMALE,1
+['i was amazed when i took our taxes to our tax person  /'],i was amazed when i took our taxes to our tax person  ,sd,FEMALE,1
+['{c and } she works out of her home also. /'],c and  she works out of her home also ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } the, {f uh, } software that does the taxes is  just incredible. /']",c and  the f uh  software that does the taxes is  just incredible ,sv,FEMALE,3
+['{f oh } it is. /'],f oh  it is ,aa,FEMALE,4
+"['{d you know, } {e i mean, } she just, {d you know, } - /']",d you know  e i mean  she just d you know   ,%,FEMALE,5
+"['i expected to go and, {d you know, } drop the stuff off and go back two weeks later.  /']",i expected to go and d you know  drop the stuff off and go back two weeks later  ,sd,FEMALE,1
+"['{c and, } {d you know, } she had it done and  out in twenty minutes on her little p c. /']",c and  d you know  she had it done and  out in twenty minutes on her little p c ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['you can. /'],you can ,sd,FEMALE,1
+['it was great. /'],it was great ,sd,FEMALE,1
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['you can,  /']",you can  ,sd,FEMALE,1
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"[""that's wonderful.  /""]",thats wonderful  ,ba,FEMALE,6
+"['i have often thought [ that, +  that ]  having one at home would be neat.  /']",i have often thought  that   that   having one at home would be neat  ,sd,FEMALE,1
+"[""i just don't know if we would really use it that much.    {d you know. } /""]",i just dont know if we would really use it that much    d you know  ,sd,FEMALE,1
+"['we really, - /']",we really  ,%,FEMALE,5
+"[""[ we deci-, + we didn't decide ]  to get one until i started working at home. /""]", we deci  we didnt decide   to get one until i started working at home ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ then, + {d you know, } then, ] we thought, {d well }  we can use it for, {d you know, } some personal things.  /']", then  d you know  then  we thought d well   we can use it for d you know  some personal things  ,sd,FEMALE,1
+"['we di-, - /']",we di  ,%,FEMALE,5
+"['for us it really took,  {d you know, } a business application --']",for us it really took  d you know  a business application ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- to justify the expense of it. /'], to justify the expense of it ,+,FEMALE,0
+"['{f oh, } definitely,  /']",f oh  definitely  ,aa,FEMALE,4
+['definitely.  /'],definitely  ,aa,FEMALE,4
+"['i know my stepfather  bought my mother a little personal computer, {f oh, } i guess, probably three years  ago for christmas,  /']",i know my stepfather  bought my mother a little personal computer f oh  i guess probably three years  ago for christmas  ,sd,FEMALE,1
+"[""{c and, } {d you know, } it's got some stuff on it.  /""]",c and  d you know  its got some stuff on it  ,sd,FEMALE,1
+"[""it's got a nice  little word processing software on it, {d you know, } and some budgeting type things and stuff.  /""]",its got a nice  little word processing software on it d you know  and some budgeting type things and stuff  ,sd,FEMALE,1
+"[""{c and } i don't think she's ever touched it --""]",c and  i dont think shes ever touched it ,sd,FEMALE,1
+['really. /'],really ,b,FEMALE,2
+['-- {d you know. }  /'], d you know   ,+,FEMALE,0
+"['[ it just, + it just ]  seems like a lot of trouble for something at home.  /']", it just  it just   seems like a lot of trouble for something at home  ,sv,FEMALE,3
+"['{d you know, } she always seems to have better things to  do than to try to sit down and figure out how to use her computer <laughter>  {d you know. }  /']",d you know  she always seems to have better things to  do than to try to sit down and figure out how to use her computer laughter  d you know   ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+['right.  /'],right  ,aa,FEMALE,4
+['she could just as easily do those things by hand. /'],she could just as easily do those things by hand ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['just as quickly. /'],just as quickly ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['now i know my boss has bought the  software, {f um, } [ that he can, + that his ] checkbook is [ [ on, + on ] + --']",now i know my boss has bought the  software f um   that he can  that his  checkbook is   on  on   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- on ] a disk,  /']", on  a disk  ,+,FEMALE,0
+"['{c and } he goes in  [ and prin-, + and types ]  his checks on the screen and then hits print,  /']",c and  he goes in   and prin  and types   his checks on the screen and then hits print  ,sd,FEMALE,1
+"['{c and } they print out on the  checks,  /']",c and  they print out on the  checks  ,sd,FEMALE,1
+"[""{c and } he's ordered envelopes with the windows in the right places --""]",c and  hes ordered envelopes with the windows in the right places ,sd,FEMALE,1
+['{f oh } my gosh. /'],f oh  my gosh ,ba,FEMALE,6
+"['-- {d you know, }  /']", d you know   ,+,FEMALE,0
+"['{c and } he just whips, out, {d you know, } - /']",c and  he just whips out d you know   ,sd,FEMALE,1
+"['i saw him yesterday morning over there,  /']",i saw him yesterday morning over there  ,sd,FEMALE,1
+"['[ {c and, } + {c and } ] he paid his monthly  bills,  /']", c and   c and   he paid his monthly  bills  ,sd,FEMALE,1
+"['{c and } he just, {d you know, } wrote all the checks on the screen and hit print  /']",c and  he just d you know  wrote all the checks on the screen and hit print  ,sd,FEMALE,1
+"['{c and } it printed  out {d like } ten checks,  /']",c and  it printed  out d like  ten checks  ,sd,FEMALE,1
+"['{c and } he just, {d you know, } - /']",c and  he just d you know   ,%,FEMALE,5
+"[""they're perforated,  /""]",theyre perforated  ,sd,FEMALE,1
+['{c and }  he just ripped them off.  /'],c and   he just ripped them off  ,sd,FEMALE,1
+['they go through just a continuous thing on the printer -- /'],they go through just a continuous thing on the printer  ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- {c and } he ripped them off and stuck them in the  envelopes  /'], c and  he ripped them off and stuck them in the  envelopes  ,sd,FEMALE,1
+['{c and } there they went.  /'],c and  there they went  ,sd,FEMALE,1
+"['{d you know, } {c and } he said, {d you know, }  i can balance my checkbook in seconds, {d you know } --']",d you know  c and  he said d you know   i can balance my checkbook in seconds d you know  ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""-- because it's all in the computer, {d you know. }  /""]", because its all in the computer d you know   ,+,FEMALE,0
+['{c so. } -/'],c so  ,%,FEMALE,5
+"[""{c and } {d you know } there's not going to be  those adding mistakes that we all make. /""]",c and  d you know  theres not going to be  those adding mistakes that we all make ,sv,FEMALE,3
+"[""that's exactly why.  /""]",thats exactly why  ,aa,FEMALE,4
+"['[ he said, + {d you know, } he said, ]  used to be i always sat looking for those, {d you know. }  /']", he said  d you know  he said   used to be i always sat looking for those d you know   ,sd,FEMALE,1
+"[""he said this way there  isn't any.  /""]",he said this way there  isnt any  ,sd,FEMALE,1
+"['{d you know, } it does it for you.  /']",d you know  it does it for you  ,^q,FEMALE,19
+"['{c so. } this, {d you know, } - /']",c so  this d you know   ,%,FEMALE,5
+"['there are  [ some + definitely, [ some, + some ] ] advantages to it.  /']",there are   some  definitely  some  some   advantages to it  ,sv,FEMALE,3
+"[""it's just a matter of, like you say,  [ are the advantages, + ] does it justify the cost, if you're using it strictly for  personal business.  /""]",its just a matter of like you say   are the advantages   does it justify the cost if youre using it strictly for  personal business  ,sv,FEMALE,3
+['{c so. } -/'],c so  ,%,FEMALE,5
+['right <child>.  /'],right child  ,aa,FEMALE,4
+"[""[ i, + i ] think in most  cases i'd have to say no.  /""]", i  i  think in most  cases id have to say no  ,sv,FEMALE,3
+['not unless somebody really enjoys it.'],not unless somebody really enjoys it,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+['or perhaps is using it for education.  /'],or perhaps is using it for education  ,+,FEMALE,0
+"['i have a four  year old son,  /']",i have a four  year old son  ,sd,FEMALE,1
+['{c and } we have some education programs that he likes.  /'],c and  we have some education programs that he likes  ,sd,FEMALE,1
+['a little sesame street one -- /'],a little sesame street one  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah, /']",yeah ,b,FEMALE,2
+"['-- {c and } we have another one that plays music,  /']", c and  we have another one that plays music  ,sd,FEMALE,1
+['{c and } he really likes that one. /'],c and  he really likes that one ,sd,FEMALE,1
+"[""as he grows up he'll be even more and more too. /""]",as he grows up hell be even more and more too ,sv,FEMALE,3
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"[""that'll be great. /""]",thatll be great ,ba,FEMALE,6
+"['{c and } yeah,  /']",c and  yeah  ,%,FEMALE,5
+"['on, - /']",on  ,%,FEMALE,5
+"['now i think about it,  /']",now i think about it  ,sd,FEMALE,1
+"['i guess [ for, + for ] kids {d like, }  as they get older, - /']",i guess  for  for  kids d like   as they get older  ,sv,FEMALE,3
+['especially now --'],especially now ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- when they get to junior [ high school, +   high school, ] and even college. - /']", when they get to junior  high school    high school  and even college  ,+,FEMALE,0
+"['{e i mean, } my sister went to college, started about three  years ago, <child>  /']",e i mean  my sister went to college started about three  years ago child  ,sd,FEMALE,1
+"['{c and } she had to have [ a, + a ] computer. /']",c and  she had to have  a  a  computer ,sd,FEMALE,1
+['really. /'],really ,b,FEMALE,2
+"['{e i mean, } it was like a necessity. /']",e i mean  it was like a necessity ,sd,FEMALE,1
+"['{d well, } yeah,  /']",d well  yeah  ,b,FEMALE,2
+['i. -/'],i ,%,FEMALE,5
+"[""she couldn't imagine going through college without a computer. /""]",she couldnt imagine going through college without a computer ,sd,FEMALE,1
+"[""{d well } i'm going through right now.  /""]",d well  im going through right now  ,sd,FEMALE,1
+"[""i'm, {d you know, } going part time in the evenings,  /""]",im d you know  going part time in the evenings  ,sd,FEMALE,1
+"['{c and, } {d you know, }  i do, - /']",c and  d you know   i do  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,%,FEMALE,5
+['everything has to be typed.  /'],everything has to be typed  ,sd,FEMALE,1
+"['{e i mean, } they require it.  /']",e i mean  they require it  ,sd,FEMALE,1
+['you have to type it --'],you have to type it ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- {d you know, }  /']", d you know   ,+,FEMALE,0
+"[""[ {c and, } + {c and so } ] i'm up here, {d you know, } nights and weekends {d you know, }  working [ on the little p-, + on the p c ] up here, {d you know, }  typing stuff.  /""]", c and   c and so   im up here d you know  nights and weekends d you know   working  on the little p  on the p c  up here d you know   typing stuff  ,sd,FEMALE,1
+"['{c so } i can see where it would be a great advantage  to have one at home, {d you know, } if you were going to school. /']",c so  i can see where it would be a great advantage  to have one at home d you know  if you were going to school ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""any more i don't even know [ if they have, +  if a college kid would have ] a typewriter <laughter>. /""]",any more i dont even know  if they have   if a college kid would have  a typewriter laughter ,qy^d,FEMALE,16
+"['{d well, } you, - /']",d well  you  ,%,FEMALE,5
+"[""i don't know. /""]",i dont know ,no,FEMALE,31
+"['probably not even,  /']",probably not even  ,sv,FEMALE,3
+['no. /'],no ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+['{c and } they probably used to have it.  /'],c and  they probably used to have it  ,sv,FEMALE,3
+"['i just finished [ a, + a ] major research paper a couple of weeks ago,  /']",i just finished  a  a  major research paper a couple of weeks ago  ,sd,FEMALE,1
+"[""{c and } i couldn't  imagine not having that thing on a disk --""]",c and  i couldnt  imagine not having that thing on a disk ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- where i could go back in and move stuff around and  change it.  /'], where i could go back in and move stuff around and  change it  ,+,FEMALE,0
+"[""[ i, + i ] don't know what they used to do <laughter> before they, -/""]", i  i  dont know what they used to do laughter before they ,sd,FEMALE,1
+"['{d well, } {d unfortunately } in our family,  my husband and i went through college together  /']",d well  d unfortunately  in our family  my husband and i went through college together  ,sd,FEMALE,1
+"[""{c and then } he went on and got his master's degree  while i was working. /""]",c and then  he went on and got his masters degree  while i was working ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } i'm the better typist,""]",c and  im the better typist,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['of us,  /']",of us  ,+,FEMALE,0
+"['{c and } we just had a regular old  typewriter, not even a correcting one back then. /']",c and  we just had a regular old  typewriter not even a correcting one back then ,sd,FEMALE,1
+['{f oh } --'],f oh  ,qy^d,FEMALE,16
+"[""it wasn't that long ago,  /""]",it wasnt that long ago  ,sd,FEMALE,1
+['{c but } --'],c but  ,sd,FEMALE,1
+['-- {c and } you had to type all of his papers. /'], c and  you had to type all of his papers ,+,FEMALE,0
+"[""-- i typed his master's papers and things on a typewriter. /""]", i typed his masters papers and things on a typewriter ,+,FEMALE,0
+"['{f oh } gosh, /']",f oh  gosh ,ba,FEMALE,6
+"['{f oh } boy, to have a computer back then. /']",f oh  boy to have a computer back then ,sd,FEMALE,1
+"['{f oh, } cut your time in half at least. /']",f oh  cut your time in half at least ,sv,FEMALE,3
+['at least. /'],at least ,aa,FEMALE,4
+['at least. /'],at least ,b^m,FEMALE,24
+"['{e i mean, }  /']",e i mean   ,%,FEMALE,5
+"['{c and then } of course you have some  changes to make, and do the whole thing over.  /']",c and then  of course you have some  changes to make and do the whole thing over  ,sv,FEMALE,3
+"['you take out a sentence,  /']",you take out a sentence  ,sv,FEMALE,3
+"['on a computer you take it  out, {d bleep, } print it out, fine. /']",on a computer you take it  out d bleep  print it out fine ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['take out a sentence on a piece of paper, -/']",take out a sentence on a piece of paper ,%,FEMALE,5
+['you do the whole thing over. /'],you do the whole thing over ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+"[""that's right.  /""]",thats right  ,aa,FEMALE,4
+"['{d you know, } i remember when i was  working in high school, {d you know, } i was working in an office,  right after i got out of high school  /']",d you know  i remember when i was  working in high school d you know  i was working in an office  right after i got out of high school  ,sd,FEMALE,1
+['i continued working there for probably another year.  /'],i continued working there for probably another year  ,sd,FEMALE,1
+['{c and }  we did everything on a typewriter --'],c and   we did everything on a typewriter ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+['-- everything.  /'], everything  ,+,FEMALE,0
+"[""{c but } it's amazing, {d you know, }  /""]",c but  its amazing d you know   ,sv,FEMALE,3
+"['then, when, [ where, + ] {d you know, } someone would have you type a letter,  [ they did it right, + they did it right. ]  /']",then when  where   d you know  someone would have you type a letter   they did it right  they did it right   ,sv,FEMALE,3
+"['{e i mean, } they were, -/']",e i mean  they were ,%,FEMALE,5
+['the first time. /'],the first time ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['they sit there  /'],they sit there  ,sv,FEMALE,3
+"['{c and } they go, is this  really what i want to say,  /']",c and  they go is this  really what i want to say  ,sv,FEMALE,3
+['{c and } you typed it  /'],c and  you typed it  ,sv,FEMALE,3
+"['{c and } that was it,  /']",c and  that was it  ,sv,FEMALE,3
+"['{c and } now, {d you know }  people just send it back over and over and over and over. /']",c and  now d you know   people just send it back over and over and over and over ,sv,FEMALE,3
+"[""that's probably one of the problems and frustrations  that it's brought about, because people do feel like, {f oh } {d well, }   we can just change it. /""]",thats probably one of the problems and frustrations  that its brought about because people do feel like f oh  d well    we can just change it ,sv,FEMALE,3
+"[""{d well, } we'll try this out and see what it  looks like.  /""]",d well  well try this out and see what it  looks like  ,^q,FEMALE,19
+['yeah. /'],yeah ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b^m,FEMALE,24
+"['use it as [ a, +  just a, ] -/']",use it as  a   just a  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['instead of knowing what they want to say --'],instead of knowing what they want to say ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+"['-- before [ they eve-, + they just, ] {d you know, }  play with it, [ and, +  which ] in a way is nice to be able to do,  /']", before  they eve  they just  d you know   play with it  and   which  in a way is nice to be able to do  ,+,FEMALE,0
+"['{c but, } {d you know, }  [ it, + it ] gets a little out of hand sometimes.  /']",c but  d you know    it  it  gets a little out of hand sometimes  ,sv,FEMALE,3
+"[""i've seen it get out of hand up here, {d you know } --""]",ive seen it get out of hand up here d you know  ,sd,FEMALE,1
+['{f oh } yeah. /'],f oh  yeah ,b,FEMALE,2
+"[""-- where we've got a secretary that sits over here that's  keeping metrics right now, and keeping up, {d you know, } of all the  letters i type, [ how many cha-, + how many ] of them do i make changes on. and on each letter,  what types of changes.  /""]", where weve got a secretary that sits over here thats  keeping metrics right now and keeping up d you know  of all the  letters i type  how many cha  how many  of them do i make changes on and on each letter  what types of changes  ,+,FEMALE,0
+['are they typos?  /'],are they typos  ,qh,FEMALE,26
+"[""are they because i couldn't  read it  /""]",are they because i couldnt  read it  ,qh,FEMALE,26
+"['{c or } people just change [ a, +  {d like, }  one ] word because they  think it sounds better, or whatever.  /']",c or  people just change  a   d like   one  word because they  think it sounds better or whatever  ,qh,FEMALE,26
+"[""{c and, } {d you know, } she's also keeping [ a percentage, +   {d you know, } what percentage ] of letters am i retyping for whatever reason. /""]",c and  d you know  shes also keeping  a percentage    d you know  what percentage  of letters am i retyping for whatever reason ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } there's {d like } one week, she did retypes  on ninety percent of what she typed --""]",c and  theres d like  one week she did retypes  on ninety percent of what she typed ,sd,FEMALE,1
+['i believe it. /'],i believe it ,ba,FEMALE,6
+"['-- {d you know, }  /']", d you know   ,+,FEMALE,0
+"[""{c and } [ it's like, +  {d you know, }  it's ] ridiculous  /""]",c and   its like   d you know   its  ridiculous  ,sv,FEMALE,3
+"['{c and } [ that was, + that was ] the high week,  /']",c and   that was  that was  the high week  ,sd,FEMALE,1
+"[""{c but } it's running about seventy --""]",c but  its running about seventy ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- which is still ridiculous to have to make  changes to seventy percent of everything that she types. /'], which is still ridiculous to have to make  changes to seventy percent of everything that she types ,+,FEMALE,0
+"[""{d well, } it's good that she does that, {e i mean, }  bring it to people's attention. /""]",d well  its good that she does that e i mean   bring it to peoples attention ,sv,FEMALE,3
+"[""{d well, } that's exactly right.  /""]",d well  thats exactly right  ,aa,FEMALE,4
+"[""{d you know, }  she [ keeps, + {d you know } keeps ] several weeks' worth of data  and then in addition is keeping copies of  all the changes to show, {d you know, } look, this didn't really need to  be changed.  /""]",d you know   she  keeps  d you know  keeps  several weeks worth of data  and then in addition is keeping copies of  all the changes to show d you know  look this didnt really need to  be changed  ,sd,FEMALE,1
+"['{d you know, } this is ridiculous and {d you know, } changing, add this time to now. /']",d you know  this is ridiculous and d you know  changing add this time to now ,^q,FEMALE,19
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{d you know, } {e i mean, } that's the kind of  things, {d you know, } that she's keeping and showing, that, this was a big waste of time, it was a waste of paper, it was a waste, {d you know } --""]",d you know  e i mean  thats the kind of  things d you know  that shes keeping and showing that this was a big waste of time it was a waste of paper it was a waste d you know  ,sd,FEMALE,1
+"['right, /']",right ,b,FEMALE,2
+['-- to change something like that.  /'], to change something like that  ,+,FEMALE,0
+"[""{d so. } anyway,  [ maybe, + {d you know, } maybe ] [ it'll, + it'll ] help in some way,  /""]",d so  anyway   maybe  d you know  maybe   itll  itll  help in some way  ,sv,FEMALE,3
+"[""{c but } i don't know.  /""]",c but  i dont know  ,h,FEMALE,15
+"['[ there, + there ] definitely even with the few disadvantages like that are far better  than the alternative. /']", there  there  definitely even with the few disadvantages like that are far better  than the alternative ,sv,FEMALE,3
+"['{f oh } i have to, -/']",f oh  i have to ,%,FEMALE,5
+['without a doubt.  /'],without a doubt  ,sv,FEMALE,3
+['without a doubt.  /'],without a doubt  ,sv,FEMALE,3
+"['{d well, }  i would like to get one at home some day.  /']",d well   i would like to get one at home some day  ,sd,FEMALE,1
+"[""we've got a two year old son,  /""]",weve got a two year old son  ,sd,FEMALE,1
+"['{c and so, } {d you know, }  some day i would like to get, even just {d like } the video [ tell, + ] or something like  that, {d you know, } just [ to, + to ] be able to pull in sources from  outside would be wonderful.  /']",c and so  d you know   some day i would like to get even just d like  the video  tell   or something like  that d you know  just  to  to  be able to pull in sources from  outside would be wonderful  ,sd,FEMALE,1
+"['{d you know } {c so, } -/']",d you know  c so  ,%,FEMALE,5
+"[""especially when they're in school,  i think they would get a lot out of it. /""]",especially when theyre in school  i think they would get a lot out of it ,sv,FEMALE,3
+"['{f oh, } i do too,  /']",f oh  i do too  ,aa,FEMALE,4
+['i do too.  /'],i do too  ,aa,FEMALE,4
+"['the on line  encyclopedia just sounds wonderful,  /']",the on line  encyclopedia just sounds wonderful  ,sv,FEMALE,3
+"['{d you know, } that sounds like such a great idea,  /']",d you know  that sounds like such a great idea  ,sv,FEMALE,3
+"[""{d you know, }    it'd be kind of fun to be able to play with it.  /""]",d you know     itd be kind of fun to be able to play with it  ,sv,FEMALE,3
+"['{d so. } i know, my father had  a p c,  /']",d so  i know my father had  a p c  ,sd,FEMALE,1
+['{c and } when we were in high school it was always fun.  /'],c and  when we were in high school it was always fun  ,sd,FEMALE,1
+"['we could, {f um, }  link in,  /']",we could f um   link in  ,sd,FEMALE,1
+"[""{c and } i don't even remember now what it was called.  /""]",c and  i dont even remember now what it was called  ,sd,FEMALE,1
+"['{c but } you could link  in and [ talk to other peo-, + talk to people ] all over the country, {d you know. } /']",c but  you could link  in and  talk to other peo  talk to people  all over the country d you know  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, }  {d like, }  you have your own little code  name, {d you know, }  /']",c and   d like   you have your own little code  name d you know   ,sd,FEMALE,1
+"[""{c and } you'd type in du du du, hi how are you, du du du,  /""]",c and  youd type in du du du hi how are you du du du  ,sd,FEMALE,1
+"[""{c and } they'd type  back and  everybody,  /""]",c and  theyd type  back and  everybody  ,sd,FEMALE,1
+"[""{c and } you'd have five or six or seven people talking to each other  at the same time,  /""]",c and  youd have five or six or seven people talking to each other  at the same time  ,sd,FEMALE,1
+"[""{c and } everything everybody said prints out on your  screen as they're typing it,  /""]",c and  everything everybody said prints out on your  screen as theyre typing it  ,sd,FEMALE,1
+"['{c and } it was just great fun, {d you know, }  /']",c and  it was just great fun d you know   ,sd,FEMALE,1
+"['it was very expensive, because the whole time you were on there you were on long distance, {d you know. }  /']",it was very expensive because the whole time you were on there you were on long distance d you know   ,sd,FEMALE,1
+['it was like a --'],it was like a ,sd,FEMALE,1
+['ooh. /'],ooh ,b,FEMALE,2
+['-- long distance phone call.  /'], long distance phone call  ,+,FEMALE,0
+"['{c so, } we were each  limited to {d like } twenty minutes a day, {d you know, }  /']",c so  we were each  limited to d like  twenty minutes a day d you know   ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['ooh,  /']",ooh  ,b,FEMALE,2
+['that still could add up. /'],that still could add up ,sv,FEMALE,3
+['{f oh } it added up big.  /'],f oh  it added up big  ,aa,FEMALE,4
+"['{d well, } {d you know, }  [ we, + my parents ] were divorced  /']",d well  d you know    we  my parents  were divorced  ,sd,FEMALE,1
+"['{c and so }  the time we were {d like } visiting our father in the summer  time, {d you know, }  /']",c and so   the time we were d like  visiting our father in the summer  time d you know   ,sd,FEMALE,1
+['{c so } he felt like he could splurge and let us do it. /'],c so  he felt like he could splurge and let us do it ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i'm sure we would not have been allowed to do that  under normal situations, {d you know. }  /""]",im sure we would not have been allowed to do that  under normal situations d you know   ,sv,FEMALE,3
+"[""{c but } when you're doing the guilty father  complex, {d you know, } because he's not there to watch us grow,""]",c but  when youre doing the guilty father  complex d you know  because hes not there to watch us grow,sv,FEMALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+['you can kind of get all kinds of stuff. /'],you can kind of get all kinds of stuff ,+,FEMALE,0
+['</laughter>.'],laughter,x,FEMALE,8
+"[""<laughter> that's sad.  /""]",laughter thats sad  ,ba,FEMALE,6
+"['{d well, } it was  nice to talk to you. /']",d well  it was  nice to talk to you ,fc,FEMALE,10
+"['yeah,  /']",yeah  ,fc,FEMALE,10
+['you too. /'],you too ,fc,FEMALE,10
+"['have a, -/']",have a ,%,FEMALE,5
+['have a nice day. /'],have a nice day ,fc,FEMALE,10
+['you too. /'],you too ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye. /'],bye ,fc,FEMALE,10

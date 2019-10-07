@@ -1,0 +1,52 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['how would you go about organizing a family reunion? /'],how would you go about organizing a family reunion ,qw,FEMALE,12
+"['{d well, } a-, - /']",d well  a  ,%,MALE,5
+"['for, - /']",for  ,%,MALE,5
+['i grew up in the deep south like south alabama.  /'],i grew up in the deep south like south alabama  ,sd,MALE,1
+"['{c so } whenever i think of family reunions, - /']",c so  whenever i think of family reunions  ,%,MALE,5
+"['my family, {d like, }  got together almost every week. /']",my family d like   got together almost every week ,sd,MALE,1
+"['{f oh, } gee. /']",f oh  gee ,ba,FEMALE,6
+['{c and } there would be like thirty people.  /'],c and  there would be like thirty people  ,sd,MALE,1
+"['{c so } people talk about, {d you know, } big family reunions  /']",c so  people talk about d you know  big family reunions  ,sd,MALE,1
+"['{c and } i think, {d like } - /']",c and  i think d like   ,%,MALE,5
+"['i have a friend who just went to, {d like, } wyoming to some big ranch, {d you know, } where {d like } there were four hundred people --']",i have a friend who just went to d like  wyoming to some big ranch d you know  where d like  there were four hundred people ,sd,MALE,1
+"['{f oh, } my. /']",f oh  my ,ba,FEMALE,6
+['-- for their family reunion.  /'], for their family reunion  ,+,MALE,0
+"['{c and } i, - /']",c and  i  ,%,MALE,5
+"['{c so } {e i mean, } how i would go about doing it is i would just call all my <noise> relatives. /']",c so  e i mean  how i would go about doing it is i would just call all my noise relatives ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c because } [ i, + since i ] came from, - /']",c because   i  since i  came from  ,%,MALE,5
+"['my father has, {f uh, } five sisters and two brothers  /']",my father has f uh  five sisters and two brothers  ,sd,MALE,1
+['{c and } my mother has four brothers and two sisters.  /'],c and  my mother has four brothers and two sisters  ,sd,MALE,1
+"['{c so } i ca-, - /']",c so  i ca  ,%,MALE,5
+"['both of my parents had big  families,  /']",both of my parents had big  families  ,sd,MALE,1
+"['{c and } [ we always wer-, + we always got ] together, just always.  /']",c and   we always wer  we always got  together just always  ,sd,MALE,1
+"[""now it's different because i live here  /""]",now its different because i live here  ,sd,MALE,1
+"['{c and } i, - /']",c and  i  ,%,MALE,5
+"['{d you know, } when i go home i try to see the families, as much of the family as i can  /']",d you know  when i go home i try to see the families as much of the family as i can  ,sd,MALE,1
+['{c but } --'],c but  ,%,MALE,5
+['yes. /'],yes ,aa,FEMALE,4
+"[""-- it's real different.  /""]", its real different  ,+,MALE,0
+"['{c and } i grew up in a real [ not, + i think not ] normal setting. /']",c and  i grew up in a real  not  i think not  normal setting ,sd,MALE,1
+['with all of you living so close together. /'],with all of you living so close together ,bf,FEMALE,20
+['right.  /'],right  ,aa,MALE,4
+"[""{e i mean } sunday dinner was at my grandmother's  /""]",e i mean  sunday dinner was at my grandmothers  ,sd,MALE,1
+"['{c and, } {d you know, } like i said there would be [ thirty, + {d you know, } thirty ] people,  /']",c and  d you know  like i said there would be  thirty  d you know  thirty  people  ,sd,MALE,1
+['{c and } everyone would just bring things  /'],c and  everyone would just bring things  ,sd,MALE,1
+['{c and } --'],c and  ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+['-- my grandmother would cook and cook and cook.  /'], my grandmother would cook and cook and cook  ,+,MALE,0
+"['{c and } i-, -/']",c and  i ,%,MALE,5
+"['{d well, } i come from a very small family.  /']",d well  i come from a very small family  ,sd,FEMALE,1
+"['{c and } we planned a family reunion this spring.  {f uh, } where we are from texas  /']",c and  we planned a family reunion this spring  f uh  where we are from texas  ,sd,FEMALE,1
+['{c and } my family is from ohio  /'],c and  my family is from ohio  ,sd,FEMALE,1
+['{c and } we met in florida. /'],c and  we met in florida ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c so } the seven of us went on a cruise and then went to disney together.  /'],c so  the seven of us went on a cruise and then went to disney together  ,sd,FEMALE,1
+"[""{c so } that's all the family,  /""]",c so  thats all the family  ,sd,FEMALE,1
+"['{c so } planning our family [ reunio-, + reunion ] was very easy <laughter>,  (( you know )) . /']",c so  planning our family  reunio  reunion  was very easy laughter   you know   ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['i guess so.  /'],i guess so  ,aap_am,MALE,39
+['it really sounds like it was fun. /'],it really sounds like it was fun ,ba,MALE,6
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{d well, } we had a wonderful tim-, /']",d well  we had a wonderful tim ,sd,FEMALE,1

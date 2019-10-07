@@ -1,0 +1,135 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['you want to go first?  <chiming>. /'],you want to go first  chiming ,qy,FEMALE,7
+"['<static> no,  /']",static no  ,nn,MALE,13
+['you can start <laughter>. /'],you can start laughter ,sd,MALE,1
+['okay.  /'],okay  ,b,FEMALE,2
+"['{f uh, } one of the things they talked about was, {f uh, } [ [ [ did we, + d-, ] + wh-, ] + what do we ] think about a judge making the decision? /']",f uh  one of the things they talked about was f uh     did we  d   wh   what do we  think about a judge making the decision ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } i really don't agree with that <swallowing>.  /""]",c and  i really dont agree with that swallowing  ,sv,FEMALE,3
+"['i think that the trial by jury is better, {f uh, } {d you know, } [ than e-, + ] having a </chiming> unanimous decision rather than to have one person be responsible.  /']",i think that the trial by jury is better f uh  d you know   than e   having a chiming unanimous decision rather than to have one person be responsible  ,sv,FEMALE,3
+"[""i don't think that they could be objective in every case, every time. /""]",i dont think that they could be objective in every case every time ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"['[ yo-, + you ] know what i mean? /']", yo  you  know what i mean ,qy,FEMALE,7
+['right.  /'],right  ,na,MALE,21
+"[""[ [ [ there's, + there, ] + th-, ] + this topic ] is kind of mute. # {f uh } # -- /""]",   theres  there   th   this topic  is kind of mute  f uh    ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""-- [ there, + there's ] no way.  /""]",  there  theres  no way  ,sv,MALE,3
+"[""[ we, + we ] couldn't survive [ [ in a sy-, + in a juror syst-, ] + in a trial system ] without a jury. /""]", we  we  couldnt survive   in a sy  in a juror syst   in a trial system  without a jury ,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+"['{f uh, } [ one man can never be, + one man, one woman can never be ] objectionable in every case. /']",f uh   one man can never be  one man one woman can never be  objectionable in every case ,sv,MALE,3
+"[""that's it. /""]",thats it ,aa,FEMALE,4
+"['{f uh, } every person has their opinions  /']",f uh  every person has their opinions  ,sd,MALE,1
+"[""{c and } that's why jury selection is often very difficult.  # {f uh. } # /""]",c and  thats why jury selection is often very difficult   f uh   ,sv,MALE,3
+"['# {d well, } # [ i, + i ] feel the other thing too, {f uh, }  /']", d well    i  i  feel the other thing too f uh   ,sd,FEMALE,1
+"['they were saying, {f uh, } {d you know, } what new ways [ could y-, + could it, ] {d [ you, + you ] know, } change the system.  /']",they were saying f uh  d you know  what new ways  could y  could it  d  you  you  know  change the system  ,sd,FEMALE,1
+"['[ i, + i ] really think that, {f uh, } we spend a lot of time, {f uh, } going through appeal after appeal after appeal after appeal, /']", i  i  really think that f uh  we spend a lot of time f uh  going through appeal after appeal after appeal after appeal ,sv,FEMALE,3
+['<noise> <<sounds like something is being sliced>>.'],noise sounds like something is being sliced,x,MALE,8
+"['{e i mean, } [ i-, + if ] you go to a trial by jury and especially if a person has confessed. if they have been caught, {d you know, } point blank in the crime.']",e i mean   i  if  you go to a trial by jury and especially if a person has confessed if they have been caught d you know  point blank in the crime,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""there's, {f uh, } no question  /""]",theres f uh  no question  ,+,FEMALE,0
+"[""it's beyond a reasonable doubt.  /""]",its beyond a reasonable doubt  ,sd,FEMALE,1
+"['{d you know, } all these things.  /']",d you know  all these things  ,sd,FEMALE,1
+"['{e i mean, } {d you know, }']",e i mean  d you know ,sv,FEMALE,3
+['<meow>.'],meow,x,MALE,8
+"[""we've gone through this over and over again. /""]",weve gone through this over and over again ,+,FEMALE,0
+['right.  /'],right  ,aa,MALE,4
+"[""they shouldn't allow # an appeal. # /""]",they shouldnt allow  an appeal  ,bf,MALE,20
+"['# {c and } # it can go on for ten, twenty,']", c and   it can go on for ten twenty,sd,FEMALE,1
+['<meow>.'],meow,x,MALE,8
+['years. /'],years ,+,FEMALE,0
+['# yep. # /'], yep  ,b,MALE,2
+"['# [ i, + i ] # think this is a little ridiculous. /']",  i  i   think this is a little ridiculous ,sv,FEMALE,3
+['uh-huh <laughter>. /'],uhhuh laughter ,b,MALE,2
+['<swallowing> i think the only people who benefit from that are the lawyers. /'],swallowing i think the only people who benefit from that are the lawyers ,sv,FEMALE,3
+"[""{f oh, } that's right.  /""]",f oh  thats right  ,aa,MALE,4
+['i work for a law firm <laughter> # (( )). # /'],i work for a law firm laughter     ,sd,MALE,1
+"[""# [ i, + i'm ] # serious.  /""]",  i  im   serious  ,sd,FEMALE,1
+"['{c and } i think that the lawyers have caused a lot of the problems [ tha-, + that ] exist [ in the s-, + in the criminal system ] today.  with plea bargaining. /']",c and  i think that the lawyers have caused a lot of the problems  tha  that  exist  in the s  in the criminal system  today  with plea bargaining ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"['{d you know, } if # someone is ((ill)), # -/']",d you know  if  someone is ill  ,%,FEMALE,5
+"['# {d well } [ plea bar-, + # plea bargaining ] is a different story. /']", d well   plea bar   plea bargaining  is a different story ,sd,MALE,1
+['{d well. } /'],d well  ,b,FEMALE,2
+['plea bargaining is something completely different.  /'],plea bargaining is something completely different  ,sv,MALE,3
+"['[ that, + that ] actually prevents trials.  # or at least speeds them up. # /']", that  that  actually prevents trials   or at least speeds them up  ,sv,MALE,3
+"['# {d well, } i know.  /']", d well  i know  ,aa,FEMALE,4
+"[""that's (( )) what i'm # saying.  /""]",thats   what im  saying  ,sd,FEMALE,1
+"['{c but } i think [ a lot of, + all of ] the whole criminal system is messed up [ in, + in ] that regard.  /']",c but  i think  a lot of  all of  the whole criminal system is messed up  in  in  that regard  ,sv,FEMALE,3
+"['{e i mean, } {d you know, } people who commit, {f uh, } crimes that they, - /']",e i mean  d you know  people who commit f uh  crimes that they  ,sd,FEMALE,1
+"[""i don't know how it works exactly #  /""]",i dont know how it works exactly   ,h,FEMALE,15
+['{c but } # --'],c but   ,sv,FEMALE,3
+['# right. # /'], right  ,b,MALE,2
+"['-- {d you know, } they get lesser sentences  /']", d you know  they get lesser sentences  ,+,FEMALE,0
+"['{c and } i understand that the jails are full of people, {d you know, } # {f uh } # --']",c and  i understand that the jails are full of people d you know   f uh   ,sd,FEMALE,1
+['# right. # /'], right  ,b,MALE,2
+['-- and that they have to do something.  /'], and that they have to do something  ,+,FEMALE,0
+"['{c but, } i think that the reason they are full is because they know that they can get away with it. /']",c but  i think that the reason they are full is because they know that they can get away with it ,sv,FEMALE,3
+['{f huh. } /'],f huh  ,%,MALE,5
+"[""[ yo-, + you ] know what i'm saying?  /""]", yo  you  know what im saying  ,qy,FEMALE,7
+"[""that [ [ w-, + we ] don't have, + {f uh, } {d well } a lot of states don't have ] capital punishment. /""]",that   w  we  dont have  f uh  d well  a lot of states dont have  capital punishment ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{c and, } {f uh } --']",c and  f uh  ,sv,FEMALE,3
+['we do <laughter>. /'],we do laughter ,sd,MALE,1
+"['-- [ i, + i ] think they should.  /']",  i  i  think they should  ,+,FEMALE,0
+"[""[ i, + {c and } i ] think if a person is guilty of taking someone's life and like you say, [ [ it's, + it's, ] + there's ] no doubt whatsoever. like drunk drivers that kill people  /""]", i  c and  i  think if a person is guilty of taking someones life and like you say   its  its   theres  no doubt whatsoever like drunk drivers that kill people  ,sv,FEMALE,3
+"['{c and, } {f uh, } {d you know, } all -- -/']",c and  f uh  d you know  all  ,%,FEMALE,5
+['right. /'],right ,b,MALE,2
+"[""-- [ they, + they're ] caught dead to rights.  /""]",  they  theyre  caught dead to rights  ,sd,FEMALE,1
+"[""[ i, + i ] just think that [ [ that's, + they've, ] + they've ] taken a life  /""]", i  i  just think that   thats  theyve   theyve  taken a life  ,sv,FEMALE,3
+"['{c and } [ if, + ] they should pay for it with their life. /']",c and   if   they should pay for it with their life ,sv,FEMALE,3
+['right.  /'],right  ,b,MALE,2
+"[""when you're saying as far as the appeal, {f uh, } procedure was concerned. /""]",when youre saying as far as the appeal f uh  procedure was concerned ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['<inhaling> we just have the case,  /']",inhaling we just have the case  ,sd,MALE,1
+"[""[ i'm, + i'm ] sure you've probably heard of marion berry. /""]", im  im  sure youve probably heard of marion berry ,qy^d,MALE,16
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{f uh, } his [ f-, + last ] appeal [ was, + was ] denied two days before his sentence was up <laughter>. /']",f uh  his  f  last  appeal  was  was  denied two days before his sentence was up laughter ,sd,MALE,1
+"['{d oh, } really. /']",d oh  really ,b,FEMALE,2
+"['{c so, } {e i mean, } his appeal was denied  /']",c so  e i mean  his appeal was denied  ,sd,MALE,1
+['{c and } two days later he got out of jail <laughter>.'],c and  two days later he got out of jail laughter,sd,MALE,1
+"['it, {f uh, } <laughter>, -/']",it f uh  laughter ,%,FEMALE,5
+['for cocaine possession. /'],for cocaine possession ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but, } {f uh, } <clicking> <swallowing> that was absurd <laughter>.  /']",c but  f uh  clicking swallowing that was absurd laughter  ,sv,MALE,3
+"['# [ there is never, + there was no ] reason # --']",  there is never  there was no  reason  ,sv,MALE,3
+"['# i know [ that, + that ] (( )). # -/']", i know  that  that     ,%,FEMALE,5
+['-- the appeal process should have dragged on that long for a six month sentence. /'], the appeal process should have dragged on that long for a six month sentence ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{c and, } i don't know.  /""]",c and  i dont know  ,h,FEMALE,15
+"['{f uh, } what would you do to change it?  to make it better? /']",f uh  what would you do to change it  to make it better ,qw,FEMALE,12
+"['{d well, } {f uh, } [ the, + the ] only [ i can, + i wa-, ] {d you know, } - /']",d well  f uh   the  the  only  i can  i wa  d you know   ,%,MALE,5
+"['the, appeal procedure is the only thing i can possibly think of.  /']",the appeal procedure is the only thing i can possibly think of  ,sd,MALE,1
+"[""{f uh, } [ a-, + ] like i said, as far as removing of the jury and having the judge sentence, that's absurd.  /""]",f uh   a   like i said as far as removing of the jury and having the judge sentence thats absurd  ,sv,MALE,3
+"[""# there's no way that could work. # /""]", theres no way that could work  ,sv,MALE,3
+"['# {f oh, } yeah.  /']", f oh  yeah  ,aa,FEMALE,4
+"[""[ [ i, + i, ] + # i ] don't agree with that at all. /""]",  i  i    i  dont agree with that at all ,sd,FEMALE,1
+"['{f uh, } {c but, } -/']",f uh  c but  ,%,MALE,5
+['imagine the guilt that person would have.  /'],imagine the guilt that person would have  ,ad,FEMALE,22
+['{e i # mean } (( )) # --'],e i  mean     ,sv,FEMALE,3
+"['# {f oh, } exactly. # /']", f oh  exactly  ,aa,MALE,4
+['-- burned out.  /'], burned out  ,+,FEMALE,0
+"[""# [ there's # -- +""]",  theres   ,sv,FEMALE,3
+['# exactly. # /'], exactly  ,aa,MALE,4
+"[""-- there's ] no possible way that you could, {f uh, } {d you know, } feel good about yourself. /""]", theres  no possible way that you could f uh  d you know  feel good about yourself ,+,FEMALE,0
+['right. /'],right ,aa,MALE,4
+"['if you had to do something like that, day after day. /']",if you had to do something like that day after day ,sv,FEMALE,3
+['no one would want the job <laughter>. /'],no one would want the job laughter ,sv,MALE,3
+['no.  /'],no  ,aa,FEMALE,4
+['not really. /'],not really ,aa,FEMALE,4
+"['<thumping> {f uh, } <lipsmack> {c and, } {d you know, } like i said, [ the, + {d you know, } everyone ] has their opinions about every case. /']",thumping f uh  lipsmack c and  d you know  like i said  the  d you know  everyone  has their opinions about every case ,sd,MALE,1
+"[""<rustling> {d well, } [ w-, + do ] you think people should have a trial is they're caught dead to rights like, -/""]",rustling d well   w  do  you think people should have a trial is theyre caught dead to rights like ,qy,FEMALE,7
+['{f oh } yeah.  /'],f oh  yeah  ,ny,MALE,9
+"['[ i, + i ] feel that [ everyone is, + everyone is, ] {f uh, } entitled to a trial by jury.  /']", i  i  feel that  everyone is  everyone is  f uh  entitled to a trial by jury  ,sv,MALE,3
+"['# [ [ that, + that, ] + that ] right s-, # -/']",   that  that   that  right s  ,%,MALE,5
+"['# {e i mean, } supposing # i come up to you and i just point blank kill you. /']", e i mean  supposing  i come up to you and i just point blank kill you ,sd,FEMALE,1
+"['{d well, } {e i mean, } were # there witnesses? # /']",d well  e i mean  were  there witnesses  ,qy,MALE,7
+"[""# in other words # you're saying that, [ w-, + you ] have to find out whether it's premeditated or --""]", in other words  youre saying that  w  you  have to find out whether its premeditated or ,bf,FEMALE,20
+['right. /'],right ,aa,MALE,4
+['-- what the circumstances # were. # /'], what the circumstances  were  ,+,FEMALE,0
+['# right. #  /'], right   ,aa,MALE,4
+"[""that [ you can't, + you can't ] remove the jury regardless of the case. /""]",that  you cant  you cant  remove the jury regardless of the case ,bf,MALE,20
+['yeah. /'],yeah ,aa,FEMALE,4
+['{e i mean } you could have fifty people in audience watching <laughter> --'],e i mean  you could have fifty people in audience watching laughter ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- a murder take place  /'], a murder take place  ,+,MALE,0
+"[""{c and } [ [ you, + you'd ] still, + there's still ] mitigating circumstances </static>. /""]",c and    you  youd  still  theres still  mitigating circumstances static ,sv,MALE,3
+"['{d well, } [ i, + i, ] -/']",d well   i  i  ,%,FEMALE,5

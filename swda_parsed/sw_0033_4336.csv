@@ -1,0 +1,91 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""{f uh, } {d well, } i'm not sure how it is in georgia,  /""]",f uh  d well  im not sure how it is in georgia  ,sd,MALE,1
+"['{c but } [ in, + in ] pittsburgh [ the r-, + the crime rate ] really is not very high at the moment.  /']",c but   in  in  pittsburgh  the r  the crime rate  really is not very high at the moment  ,sd,MALE,1
+"['[ is that, + is that ] true [ for, + for ] atlanta? /']", is that  is that  true  for  for  atlanta ,qy,MALE,7
+['atlanta is kind of high.  /'],atlanta is kind of high  ,ng,MALE,29
+"[""{f uh, } [ it's, + it's ] lower than it has been in the past.  /""]",f uh   its  its  lower than it has been in the past  ,sd,MALE,1
+"['{f uh, } i guess nineteen ninety is when it start to drop off,  /']",f uh  i guess nineteen ninety is when it start to drop off  ,sd,MALE,1
+['{c and } usually around the christmas season is usually when the crime rate is a little bit higher. /'],c and  usually around the christmas season is usually when the crime rate is a little bit higher ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i, - /']",i  ,%,MALE,5
+"[""that's probably not true only for atlanta, but for just about anywhere. /""]",thats probably not true only for atlanta but for just about anywhere ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['{f uh, } what kind of crime problem do you usually run into?  /']",f uh  what kind of crime problem do you usually run into  ,qo,MALE,25
+['any specifics <<mispronounced>>? /'],any specifics mispronounced ,"fo_o_fw_""_by_bc",MALE,0
+"[""{d well, } {f uh, } the least, [ what, + from what's ] on the news, {f uh, } there are very few, {d like } actual robberies reported, {f uh, } {f uh, } [ of, + of ] residences.  /""]",d well  f uh  the least  what  from whats  on the news f uh  there are very few d like  actual robberies reported f uh  f uh   of  of  residences  ,sd,MALE,1
+"[""what's more likely to occur is, {f uh, } [ robbery of, + {f uh, } {d you know, } knocking over ] [ a, + a ] small store or a car theft, {d you know, } [ it, + ] things of that nature.  /""]",whats more likely to occur is f uh   robbery of  f uh  d you know  knocking over   a  a  small store or a car theft d you know   it   things of that nature  ,sd,MALE,1
+"['very few, {f uh, } assaults,  /']",very few f uh  assaults  ,sd,MALE,1
+"['{d although } on the college campuses, {f uh, } there are, {f uh, } cases of, {d you know, } {d like } people getting [ machine from a, + from an automated teller ] and, {d you know, } somebody trying [ to, + to ] device a scam [ for, + for, ] {f uh, } getting the money for them that actually preys mostly on foreigners. /']",d although  on the college campuses f uh  there are f uh  cases of d you know  d like  people getting  machine from a  from an automated teller  and d you know  somebody trying  to  to  device a scam  for  for  f uh  getting the money for them that actually preys mostly on foreigners ,sd,MALE,1
+['{f um. } /'],f um  ,%,MALE,5
+"['{c but } mostly petty things and, [ [ [ n-, + no, ] + nothing, ] + nothing ] really too big. /']",c but  mostly petty things and    n  no   nothing   nothing  really too big ,sv,MALE,3
+"['right,  /']",right  ,b,MALE,2
+"['{d well, } i guess here we run into that sometime,  /']",d well  i guess here we run into that sometime  ,sv,MALE,3
+['{c but } i guess a lot of crimes are done with apartment type break ins --'],c but  i guess a lot of crimes are done with apartment type break ins ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+"['-- that type, not much home break ins.  /']", that type not much home break ins  ,+,MALE,0
+"['there are some, but [ not, + not ] very high.  /']",there are some but  not  not  very high  ,sd,MALE,1
+"[""{f uh, } as far as tellers and things like that, it's not extremely high either.  /""]",f uh  as far as tellers and things like that its not extremely high either  ,sd,MALE,1
+"['there were one case where, {f uh, } this one guy, {f uh, } was taking women from the teller [ and, + and, ] {d you know, } making them give him money and stuff and --']",there were one case where f uh  this one guy f uh  was taking women from the teller  and  and  d you know  making them give him money and stuff and ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- then at the same time, raping them all,  /']", then at the same time raping them all  ,+,MALE,0
+"[""[ {c so, } + {c so } ] that's kind of like a double assault there. /""]", c so   c so   thats kind of like a double assault there ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{f uh, } a strange case [ that, + {f uh, } that ] happened, {a oh, it's [ about, + about ] a year ago } was someone actually stole a complete automated teller machine. /""]",f uh  a strange case  that  f uh  that  happened a oh its  about  about  a year ago  was someone actually stole a complete automated teller machine ,sd,MALE,1
+['really? /'],really ,bh,MALE,18
+['it was a free standing machine  /'],it was a free standing machine  ,sd,MALE,1
+['{c and } they backed up into it with a truck --'],c and  they backed up into it with a truck ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- and put it on the back and drove away with it. /'], and put it on the back and drove away with it ,+,MALE,0
+"['{f oh, } wow. /']",f oh  wow ,ba,MALE,6
+"[""{d now, } there's a crime for you. /""]",d now  theres a crime for you ,sv,MALE,3
+"['<laughter> yeah,  /']",laughter yeah  ,aa,MALE,4
+"[""there's a crime. /""]",theres a crime ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c but, } {f uh, } i guess most of the things that happen around here [ are, + are ] pretty, {f uh, } innocuous.  /']",c but  f uh  i guess most of the things that happen around here  are  are  pretty f uh  innocuous  ,sv,MALE,3
+"['although, {f uh, } from what i hear in the news, - /']",although f uh  from what i hear in the news  ,sd,MALE,1
+"['[ {c and, } + {c and } ] [ i, + i ] [ s-, + saw ] an episode of the t v show, cops --']", c and   c and    i  i   s  saw  an episode of the t v show cops ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } one time that was in pittsburgh,  /']", f uh  one time that was in pittsburgh  ,+,MALE,0
+"['{c and, } {f uh, } [ [ it, + it, ] + it ] did surprise me, because, {d you know, } they were doing drug arrests [ and thing, + and things ] like that,  /']",c and  f uh    it  it   it  did surprise me because d you know  they were doing drug arrests  and thing  and things  like that  ,sd,MALE,1
+"[""{c but } [ i, + i ] don't really think those things happen too often because, like i said, from what's reported in the news, at least, [ it's, + it's ] not all that common. /""]",c but   i  i  dont really think those things happen too often because like i said from whats reported in the news at least  its  its  not all that common ,sv,MALE,3
+"['{f oh, } okay.  /']",f oh  okay  ,b,MALE,2
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"['crime situations here, they, - /']",crime situations here they  ,sd,MALE,1
+"['like i say, [ lot of, + lot of ] cases is usually just apartments [ and, + and ] break ins and things like that  /']",like i say  lot of  lot of  cases is usually just apartments  and  and  break ins and things like that  ,sv,MALE,3
+['{c and } a lot of it is due to drugs.'],c and  a lot of it is due to drugs,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['{f uh, } drug related, {d you know, } [ in, + in ] most cases,  /']",f uh  drug related d you know   in  in  most cases  ,+,MALE,0
+"[""it's not like, {f uh, } it's someone do steal [ a, + a ] or television or v c r or something like that  /""]",its not like f uh  its someone do steal  a  a  or television or v c r or something like that  ,sd,MALE,1
+"[""it is for drugs, {d you know, } because you really can't on the street make any money off of it per se, {d you know, }  /""]",it is for drugs d you know  because you really cant on the street make any money off of it per se d you know   ,sv,MALE,3
+['you going to get ten or fifteen bucks for it -- /'],you going to get ten or fifteen bucks for it  ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['-- {c so } you really not making a sizeable profit.  /'], c so  you really not making a sizeable profit  ,sv,MALE,3
+"[""{c so } it's not really lucrative to take chances like that, {d you know, } even though [ it, + it ] does exist. /""]",c so  its not really lucrative to take chances like that d you know  even though  it  it  does exist ,sv,MALE,3
+"['{d you know, } [ i, + {a just to diverge a little bit, } {f uh, } i ] live in an apartment.  /']",d you know   i  a just to diverge a little bit  f uh  i  live in an apartment  ,sd,MALE,1
+"[""right now i'm finishing out my last semester at the university of pittsburgh  /""]",right now im finishing out my last semester at the university of pittsburgh  ,sd,MALE,1
+"['{c and, } {f uh, } the apartment {d like } would be very easy for just about anyone to break in <laughter>. /']",c and  f uh  the apartment d like  would be very easy for just about anyone to break in laughter ,sd,MALE,1
+['right.  /'],right  ,b,MALE,2
+"[""{c but, } even so, [ [ it, + {e i mean, } it's, ] + it's ] still difficult for me to convince my apartment mates [ to, + to ] {d like } lock the doors when they go out <laughter>, {d you know, } and things like --""]",c but  even so   it  e i mean  its   its  still difficult for me to convince my apartment mates  to  to  d like  lock the doors when they go out laughter d you know  and things like ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- that. /'], that ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{f uh, } it would be so easy for someone who is motivated to do so to just, {d you know, } sit out back, take a look at when people are here and when they're not --""]",f uh  it would be so easy for someone who is motivated to do so to just d you know  sit out back take a look at when people are here and when theyre not ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- just come in, {d you know, }  /']", just come in d you know   ,+,MALE,0
+"[""there's a t v and a v c r  /""]",theres a t v and a v c r  ,sd,MALE,1
+"['{c and, } [ they could, + {f uh, } they could ] get in pretty easy [ and, + and ] especially, {f uh, } since there are bedrooms upstairs --']",c and   they could  f uh  they could  get in pretty easy  and  and  especially f uh  since there are bedrooms upstairs ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- and people leave the door open, {d you know, } while they're upstairs playing music,  /""]", and people leave the door open d you know  while theyre upstairs playing music  ,+,MALE,0
+['it could still happen then. /'],it could still happen then ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's true,  /""]",thats true  ,sv,MALE,3
+"[""{c but } you'd be surprised also how, much people watch you that even not, {f uh, } participating in any type crime.  /""]",c but  youd be surprised also how much people watch you that even not f uh  participating in any type crime  ,sv,MALE,3
+"['i guess there was one case,  /']",i guess there was one case  ,sd,MALE,1
+"['i was surprised, {f uh, }  /']",i was surprised f uh   ,sd,MALE,1
+"['so happened this person worked at the same place,  /']",so happened this person worked at the same place  ,sd,MALE,1
+['i work for georgia tech  /'],i work for georgia tech  ,sd,MALE,1
+"['{c and } they work at the same place i did,  /']",c and  they work at the same place i did  ,sd,MALE,1
+"[""{c but } i didn't know that they had been watching me  /""]",c but  i didnt know that they had been watching me  ,sd,MALE,1
+"['{c because } i was getting ready [ to, + to ] go in my car one morning  /']",c because  i was getting ready  to  to  go in my car one morning  ,sd,MALE,1
+"[""{c and } the first thing they said is, {f uh, } you must don't have to be to work at eight, {d you know, }  /""]",c and  the first thing they said is f uh  you must dont have to be to work at eight d you know   ,sd,MALE,1
+"['like shock, -/']",like shock ,%,MALE,5

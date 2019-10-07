@@ -1,0 +1,204 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['all rightie. /'],all rightie ,"fo_o_fw_""_by_bc",FEMALE,0
+['<noise> okay.  /'],noise okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['do you have a budget that you go on? /'],do you have a budget that you go on ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,FEMALE,9
+['i sure do.  /'],i sure do  ,sd,FEMALE,1
+"[""{f uh, } [ i have, +   it's ] pretty much a ledger sheet  /""]",f uh   i have    its  pretty much a ledger sheet  ,sd,FEMALE,1
+"[""{c and } i just write down [ e-, +  all ] my bills,  how much i'm going to have to pay  /""]",c and  i just write down  e   all  my bills  how much im going to have to pay  ,sd,FEMALE,1
+['{c and } i do it per paycheck for me --'],c and  i do it per paycheck for me ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- which is every other week. /'], which is every other week ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } {e i mean } i include everything  from groceries to insurance to car payments to credit card payments, {d you know, } everything. /']",f uh  e i mean  i include everything  from groceries to insurance to car payments to credit card payments d you know  everything ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } it tends to work out pretty  well that way.  /'],c and  it tends to work out pretty  well that way  ,sv,FEMALE,3
+"['i can anticipate, {d you know, } a little better.  /']",i can anticipate d you know  a little better  ,sd,FEMALE,1
+['i usually try to guesstimate  /'],i usually try to guesstimate  ,sd,FEMALE,1
+"['{c and then } when the bill actually comes in, i go ahead and fill in the actual amount. /']",c and then  when the bill actually comes in i go ahead and fill in the actual amount ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""that way i know how much pocket change  i'm going to have left <laughter> # at the end of the month # --""]",that way i know how much pocket change  im going to have left laughter  at the end of the month  ,sd,FEMALE,1
+"['# uh-huh,  /']", uhhuh  ,b,FEMALE,2
+['uh-huh. # /'],uhhuh  ,b,FEMALE,2
+['-- or at the end of the paycheck anyway. /'], or at the end of the paycheck anyway ,+,FEMALE,0
+['uh-huh  /'],uhhuh  ,b,FEMALE,2
+['<sniffing>.'],sniffing,x,FEMALE,8
+['{d so } that works okay for me. /'],d so  that works okay for me ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{d well, } my bills  i usually know approximately how much they're going to be. /""]",d well  my bills  i usually know approximately how much theyre going to be ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['each month they [ g-, +  are ] more or  less just about the same, {d you know. } /']",each month they  g   are  more or  less just about the same d you know  ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['# same here. # /'], same here  ,sd,FEMALE,1
+"['# {f uh, } very # seldom are they any different.  /']", f uh  very  seldom are they any different  ,sd,FEMALE,1
+"['{c and then, } {f uh, } {d like } for groceries and everything, we try to put, {d like, }  two hundred and fifty dollars in a little can <laughter> in the kitchen <sniffing> -- /']",c and then  f uh  d like  for groceries and everything we try to put d like   two hundred and fifty dollars in a little can laughter in the kitchen sniffing  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and then } that's what we use  to buy the groceries with. /""]", c and then  thats what we use  to buy the groceries with ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,FEMALE,2
+"['{c and then } we put our receipts  in there, {d you know, }  /']",c and then  we put our receipts  in there d you know   ,sd,FEMALE,1
+"[""{c and } usually that's enough. /""]",c and  usually thats enough ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ {c and, } + {f uh, } {c but } ]  i don't have any, {d you know, } small children to have anything extra come up, {d you know, } like,  {f uh, } running to the doctor or something like  that with them. /""]", c and   f uh  c but    i dont have any d you know  small children to have anything extra come up d you know  like  f uh  running to the doctor or something like  that with them ,sd,FEMALE,1
+['right.  /'],right  ,b,FEMALE,2
+"[""luckily i don't either.  /""]",luckily i dont either  ,sd,FEMALE,1
+"['{e i mean, } {d you know, }']",e i mean  d you know ,sd,FEMALE,1
+['<noise>.'],noise,x,FEMALE,8
+['maybe my cat would get sick  /'],maybe my cat would get sick  ,+,FEMALE,0
+"[""{c but, } {e i mean, } usually that's not so much that it would throw me off <noise>. /""]",c but  e i mean  usually thats not so much that it would throw me off noise ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['right.  /'],right  ,b,FEMALE,2
+"['in fact, i did have to take my dog to the vet the other day # <laughter>. # /']",in fact i did have to take my dog to the vet the other day  laughter  ,sd,FEMALE,1
+"[""# [ {c but } you <laughter> +  {c so } you ]  know what # i'm saying,  /""]",  c but  you laughter   c so  you   know what  im saying  ,qy^d,FEMALE,16
+['# yeah. # /'], yeah  ,%,FEMALE,5
+['# yeah.  /'], yeah  ,ny,FEMALE,9
+"[""#  [ [ tha-, +  that, ] +   it's ] worse than having a kid, {f huh? } /""]",    tha   that     its  worse than having a kid f huh  ,qy,FEMALE,7
+"['i, - /']",i  ,%,FEMALE,5
+['sometimes it can be. /'],sometimes it can be ,na,FEMALE,21
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['# sometimes # it can be.  /'], sometimes  it can be  ,na,FEMALE,21
+"[""i guess the worst thing i've ever had come out is {d like } car maintenance kinds of things. /""]",i guess the worst thing ive ever had come out is d like  car maintenance kinds of things ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } i do try to build in a little  extra money each month [ to, +  to ] be able to do that type of thing #  /']",c but  i do try to build in a little  extra money each month  to   to  be able to do that type of thing   ,sd,FEMALE,1
+['{c so. } # -/'],c so   ,%,FEMALE,5
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+"[""# {f uh, } i'm not working  right now.  /""]", f uh  im not working  right now  ,sd,FEMALE,1
+['i worked for p i e  /'],i worked for p i e  ,sd,FEMALE,1
+"['{c and then, } {f uh, } they went bankrupt  /']",c and then  f uh  they went bankrupt  ,sd,FEMALE,1
+['{c so } --'],c so  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- i just went ahead and took my early pension. /'], i just went ahead and took my early pension ,+,FEMALE,0
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+['{c but } i only get that once a month. /'],c but  i only get that once a month ,sd,FEMALE,1
+"[""{f oh, } that's tough. /""]",f oh  thats tough ,ba,FEMALE,6
+['yeah  /'],yeah  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['my roommate only gets paid once a month  /'],my roommate only gets paid once a month  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"[""-- that last week's pretty lean  generally <laughter> speaking  /""]", that last weeks pretty lean  generally laughter speaking  ,+,FEMALE,0
+['{c so. } -/'],c so  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{c so, } {d you know, }  i really have to try to budget, that i don't go over that amount, {d you know, } each month. /""]",c so  d you know   i really have to try to budget that i dont go over that amount d you know  each month ,sd,FEMALE,1
+['right.  /'],right  ,b,FEMALE,2
+"['i, [ for, +  for ]  years got paid once a month  /']",i  for   for   years got paid once a month  ,sd,FEMALE,1
+"['[ {c and, } +   {c and } ] in ways i liked it because i could go ahead and pay all my bills at once. /']", c and     c and   in ways i liked it because i could go ahead and pay all my bills at once ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""there's always one or two stragglers  that usually they were, - /""]",theres always one or two stragglers  that usually they were  ,sd,FEMALE,1
+['for me it worked out that they were the smaller ones -- /'],for me it worked out that they were the smaller ones  ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c but } i would pay all of them  at one sitting  /'], c but  i would pay all of them  at one sitting  ,sd,FEMALE,1
+"['{c and } i would know okay, you can go spend this much on groceries now and  you get this much a week and that is it. /']",c and  i would know okay you can go spend this much on groceries now and  you get this much a week and that is it ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+"['[ {c and, } + {c and } ]  (( it ))  worked okay for me. /']", c and   c and     it   worked okay for me ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""i don't know. /""]",i dont know ,h,FEMALE,15
+"['# {c and, } # -/']", c and   ,%,FEMALE,5
+"[""# right # now [ i, +  i'm ]  in the mode of trying to dig out of debt, i think as everybody is #  /""]", right  now  i   im   in the mode of trying to dig out of debt i think as everybody is   ,sv,FEMALE,3
+"['{c and so, } # -/']",c and so   ,%,FEMALE,5
+"['# {f oh, } yeah.  /']", f oh  yeah  ,b,FEMALE,2
+"[""#  right now it's terrible isn't it? /""]",  right now its terrible isnt it ,qy,FEMALE,7
+"[""[ it's, +  {d yeah, } it's ] really bad. /""]", its   d yeah  its  really bad ,na,FEMALE,21
+['<noise> yeah. /'],noise yeah ,b,FEMALE,2
+"[""{c but, } {f uh, } it's going pretty  well  /""]",c but  f uh  its going pretty  well  ,sd,FEMALE,1
+"[""{c and } i've got a real good plan mapped out here, #  /""]",c and  ive got a real good plan mapped out here   ,sd,FEMALE,1
+['{c so. } # -/'],c so   ,%,FEMALE,5
+['# uh-huh.  /'], uhhuh  ,b,FEMALE,2
+"['#  i also like long-term  christmas club [ be-, + ] {d you know. }  /']",  i also like longterm  christmas club  be   d you know   ,sd,FEMALE,1
+"['i used to belong to a christmas club,  /']",i used to belong to a christmas club  ,sd,FEMALE,1
+"[""last year i didn't. /""]",last year i didnt ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ then, +  {c so } then, ] naturally,  christmas comes along  /']", then   c so  then  naturally  christmas comes along  ,sd,FEMALE,1
+"['{c and } that puts you behind too, {d you know. }  /']",c and  that puts you behind too d you know   ,sv,FEMALE,3
+"['{c so } this year, {d now } i have them taking out fifty dollars a month # out of my # --']",c so  this year d now  i have them taking out fifty dollars a month  out of my  ,sd,FEMALE,1
+"[""# {f oh } that's, # -/""]", f oh  thats  ,%,FEMALE,5
+['-- checking account for my christmas club. /'], checking account for my christmas club ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c so } i figure, {d you know, }  that's going to help some. /""]",c so  i figure d you know   thats going to help some ,sv,FEMALE,3
+"[""that'll cover your gifts come christmas time.  /""]",thatll cover your gifts come christmas time  ,bf,FEMALE,20
+"[""# that'll,  /""]", thatll  ,%,FEMALE,5
+"['yeah, # /']",yeah  ,%,FEMALE,5
+"['# yeah,  /']", yeah  ,aa,FEMALE,4
+"['right, # <noise> {d you know. } /']",right  noise d you know  ,aa,FEMALE,4
+"[""that'll be good,  /""]",thatll be good  ,ba,FEMALE,6
+['yeah  /'],yeah  ,%,FEMALE,5
+"['most people  are spending three or four months [ di-, +  {d you know, } at least, # digging ] out after christmas  /']",most people  are spending three or four months  di   d you know  at least  digging  out after christmas  ,sv,FEMALE,3
+['{c so. } # -/'],c so   ,%,FEMALE,5
+"['# right,  /']", right  ,b,FEMALE,2
+['right. #   /'],right    ,b,FEMALE,2
+"[""# {c and } i'm ta-, # -/""]", c and  im ta  ,%,FEMALE,5
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+"['[ i, +  i ] was # pretty   fortunate this christmas  /']", i   i  was  pretty   fortunate this christmas  ,sd,FEMALE,1
+"[""i didn't get in debt,  /""]",i didnt get in debt  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"[""{f oh, } that's good.  /""]",f oh  thats good  ,ba,FEMALE,6
+"[""i'm taking like, {f uh, } sewing lessons to try to learn how to sew better than what i can -- /""]",im taking like f uh  sewing lessons to try to learn how to sew better than what i can  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c so } i won't have to go out and  buy the ready-made clothes anymore. /""]", c so  i wont have to go out and  buy the readymade clothes anymore ,sd,FEMALE,1
+"['{f oh, } uh-huh.  /']",f oh  uhhuh  ,b,FEMALE,2
+"[""it's so  rare  /""]",its so  rare  ,sv,FEMALE,3
+['you hear anybody doing that # any longer <laughter>. # /'],you hear anybody doing that  any longer laughter  ,"fo_o_fw_""_by_bc",FEMALE,0
+['# i know. #  /'], i know   ,aa,FEMALE,4
+"['i even bought myself a   (( surgery )) , {d you know, }  /']",i even bought myself a    surgery   d you know   ,sd,FEMALE,1
+['{c and } i just love it.  /'],c and  i just love it  ,sd,FEMALE,1
+"[""i haven't learned everything to do on it yet  /""]",i havent learned everything to do on it yet  ,sd,FEMALE,1
+['{c but } i figure that will help me save --'],c but  i figure that will help me save ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- {d you know. } /'], d you know  ,+,FEMALE,0
+"['my, {f uh, } roommate does sew  some  /']",my f uh  roommate does sew  some  ,sd,FEMALE,1
+"[""[ {c and, } +  {c and, } ] {f uh, }  [ i-, + ] she hasn't sewed anything in a long time  /""]", c and    c and   f uh    i   she hasnt sewed anything in a long time  ,sd,FEMALE,1
+"[""{c but } [ i, +  i'm ]  sure that she could pick it up again. /""]",c but   i   im   sure that she could pick it up again ,sv,FEMALE,3
+['<noise>.'],noise,x,FEMALE,8
+['my mother always sewed.  /'],my mother always sewed  ,sd,FEMALE,1
+['she tried to teach me when i was young but --'],she tried to teach me when i was young but ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- not interested # <laughter>. # /'], not interested  laughter  ,+,FEMALE,0
+['# yeah.  /'], yeah  ,b,FEMALE,2
+"[""{d well, } # {d see, }  some people are, some aren't #  /""]",d well   d see   some people are some arent   ,sv,FEMALE,3
+['{c because } # --'],c because   ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['-- [ i have some sisters, +   i have three sisters ]  /']",  i have some sisters    i have three sisters   ,+,FEMALE,0
+['{c and } <noise> none of those are really interested in sewing. /'],c and  noise none of those are really interested in sewing ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{c but } that's a real good way to save money,""]",c but  thats a real good way to save money,sv,FEMALE,3
+['<noise>.'],noise,x,FEMALE,8
+['though by doing that. /'],though by doing that ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{c and then } i can also,  {d you know, } do some crafts and sell those at garage sales. /']",c and then  i can also  d you know  do some crafts and sell those at garage sales ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d so, } which i've been doing. /""]",d so  which ive been doing ,sd,FEMALE,1
+"[""{d well, } that's a good way  [ to, +  to ] [ make + ] a little extra money. /""]",d well  thats a good way   to   to   make   a little extra money ,ba,FEMALE,6
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d well, } this is another way that  i'm making a little extra money  /""]",d well  this is another way that  im making a little extra money  ,sd,FEMALE,1
+"['{c so } that was, {d you know, } nice that i tripped over  this opportunity  /']",c so  that was d you know  nice that i tripped over  this opportunity  ,sd,FEMALE,1
+"[""{c and } you're actually my first call. /""]",c and  youre actually my first call ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+['oh. /'],oh ,b,FEMALE,2
+"['i had not, {f uh, } done # - /']",i had not f uh  done   ,sd,FEMALE,1
+"['[ i, +  i ] guess [ today # -- +']", i   i  guess  today   ,sd,FEMALE,1
+"['# {d well, } have you called? # /']", d well  have you called  ,qy,FEMALE,7
+"[""-- today's ] my first day that i # could # --""]", todays  my first day that i  could  ,+,FEMALE,0
+['# oh. # /'], oh  ,b,FEMALE,2
+['-- even do it. /'], even do it ,+,FEMALE,0
+"['{f oh, } it is? /']",f oh  it is ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['you beat me to the punch, # here <laughter>. # /']",you beat me to the punch  here laughter  ,sd,FEMALE,1
+"[""# {f oh, } {d well, } [ that, +   that's ] nice # <laughter> {d you know. } /""]", f oh  d well   that    thats  nice  laughter d you know  ,ba,FEMALE,6
+"['[ i, +  i ] was about to call [ to  get, +  to see if i could get ] on with somebody,  /']", i   i  was about to call  to  get   to see if i could get  on with somebody  ,sd,FEMALE,1
+['{c so } -- -/'],c so   ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c so } that was great. /'], c so  that was great ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{d well } i guess that's about  all i can talk to about budgets.  /""]",d well  i guess thats about  all i can talk to about budgets  ,sd,FEMALE,1
+"['when i was working, i, {f uh, } bought a bond  a month out of my, {d you know, } - /']",when i was working i f uh  bought a bond  a month out of my d you know   ,sd,FEMALE,1
+['they automatically took it [ out of # my # -- +'],they automatically took it  out of  my   ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['-- out of my ] payroll. /'], out of my  payroll ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['i [ take, +  have some money taken ]  it and put in a four oh one k, /']",i  take   have some money taken   it and put in a four oh one k ,sd,FEMALE,1

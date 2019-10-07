@@ -1,0 +1,136 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay, eric.  /']",okay eric  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{f uh, } are you married  /']",f uh  are you married  ,qy,FEMALE,7
+['{c and } do you have a family? /'],c and  do you have a family ,qy,FEMALE,7
+"['{f uh, } yes i am to, {f uh, } both questions. /']",f uh  yes i am to f uh  both questions ,ny,MALE,9
+['okay  /'],okay  ,b,FEMALE,2
+['{c and } do you and your wife have  a budget plan for your finances. /'],c and  do you and your wife have  a budget plan for your finances ,qy,FEMALE,7
+"['{f uh, } yeah  /']",f uh  yeah  ,ny,MALE,9
+['we do.  /'],we do  ,sd,MALE,1
+"['we, {f uh, } {f uh, } - /']",we f uh  f uh   ,%,MALE,5
+"[""basically there's [ the, + {d you know, } the ] expenses that are fixed during the month --""]",basically theres  the  d you know  the  expenses that are fixed during the month ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {d you know } the ones that come  [ every, + every ] month  /']", d you know  the ones that come   every  every  month  ,+,MALE,0
+"['{c and } we, {f uh, } enter those [ into, + {f uh, } into ] a spread sheet <smack>   /']",c and  we f uh  enter those  into  f uh  into  a spread sheet smack   ,sd,MALE,1
+"['{c and, } {f uh, } whatever is left, {f uh, } after that [ we, +']",c and  f uh  whatever is left f uh  after that  we ,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+"['{d you know, } we ] sit down and agree on kind of  [ what, + what ] sort of range we are [ going to -- +']",d you know  we  sit down and agree on kind of   what  what  sort of range we are  going to  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- generally going to ] shoot for. /'], generally going to  shoot for ,+,MALE,0
+"['i see. {f uh } <throat_clearing>, /']",i see f uh  throatclearing ,bk,FEMALE,14
+['<smack> {d so } what do you do? /'],smack d so  what do you do ,qo,MALE,25
+"[""{d well, } that's basically what we do.  /""]",d well  thats basically what we do  ,sd,FEMALE,1
+"['{f uh, } about [ every, + every ] three months or  so, <inhaling> we re-evaluate our budget  /']",f uh  about  every  every  three months or  so inhaling we reevaluate our budget  ,sd,FEMALE,1
+['{c and } we sit down and just write from the largest bills down to the smallest -- /'],c and  we sit down and just write from the largest bills down to the smallest  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and then } we divvy them up between our four pay checks.  /'], c and then  we divvy them up between our four pay checks  ,sd,FEMALE,1
+['i work part time at night -- /'],i work part time at night  ,sd,FEMALE,1
+['wow <laughter>. /'],wow laughter ,ba,MALE,6
+"['-- [ {c and } he works, +     {c and } my husband works ] full times days  /']",  c and  he works      c and  my husband works  full times days  ,sd,FEMALE,1
+"['{c and so } we have four checks,  /']",c and so  we have four checks  ,sd,FEMALE,1
+['{c but } that works out nice  because we get paid every week #  /'],c but  that works out nice  because we get paid every week   ,sd,FEMALE,1
+['{c and # --'],c and  ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"['-- so } that does help, /']", so  that does help ,+,FEMALE,0
+['<inhaling>.'],inhaling,x,MALE,8
+['that helps a lot.  /'],that helps a lot  ,sd,FEMALE,1
+"[""{c and then, } {f uh, }  we don't have a lot [ ex-, + extra ] for extra spending, /""]",c and then  f uh   we dont have a lot  ex  extra  for extra spending ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""<laughter> {c so } it's pretty well <laughter> # ear marked. # /""]",laughter c so  its pretty well laughter  ear marked  ,sd,FEMALE,1
+['# yeah.  /'], yeah  ,aa,MALE,4
+['all allocated out. #  <laughter>. /'],all allocated out   laughter ,bf,MALE,20
+['yeah <laughter>. /'],yeah laughter ,aa,FEMALE,4
+['yeah. /'],yeah ,b,MALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+['every penny is ear marked  /'],every penny is ear marked  ,sd,FEMALE,1
+"['{c but, }  {f uh } [ it, + we ] have found that works the best  /']",c but   f uh   it  we  have found that works the best  ,sd,FEMALE,1
+"['[ {c and } + <talking> {c and so } ]  if we can just divide [ them up, + all the major bills up. ] - /']", c and   talking c and so    if we can just divide  them up  all the major bills up   ,sd,FEMALE,1
+"['in fact, we found it easier to divide  the major bills up, {d you know, } cut the house payment in half and cut the loan payment in half,  /']",in fact we found it easier to divide  the major bills up d you know  cut the house payment in half and cut the loan payment in half  ,sd,FEMALE,1
+"['[ but + <talking> and ]  divide those up between all,  /']", but  talking and   divide those up between all  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,%,FEMALE,5
+"['all the checks,  /']",all the checks  ,bf,MALE,20
+['yeah. /'],yeah ,b,MALE,2
+"['{c and so } we are not taking a huge sum  [ out, + out ] of one  /']",c and so  we are not taking a huge sum   out  out  of one  ,sd,FEMALE,1
+"[""{c and then } the next pay check we're real short  /""]",c and then  the next pay check were real short  ,sd,FEMALE,1
+"['{c or, } -/']",c or  ,%,FEMALE,5
+['right.  /'],right  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['we found that, {f uh, }']",we found that f uh ,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+"[""it's definitely helped, {f uh, }  get a handle on kind of the unnecessary expenses. /""]",its definitely helped f uh   get a handle on kind of the unnecessary expenses ,+,MALE,0
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"['<laughter> [ we were, + before we started   doing that kind of a thing, we were, ] {f uh, } <talking> <smack> spending, {f uh, }  money for things that, {d you know, } - /']",laughter  we were  before we started   doing that kind of a thing we were  f uh  talking smack spending f uh   money for things that d you know   ,sd,MALE,1
+['we kind of tended to eat out a bit more --'],we kind of tended to eat out a bit more ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- than we should have, /']", than we should have ,+,MALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"['<talking> {c and } it was easy to, {f uh, }  let things get out of hand.  /']",talking c and  it was easy to f uh   let things get out of hand  ,sd,MALE,1
+"['we [ thought it + <talking>, {f uh, } thought it ] to be really helpful.  /']",we  thought it  talking f uh  thought it  to be really helpful  ,sd,MALE,1
+['we have gotten some of our loans paid off really --'],we have gotten some of our loans paid off really ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- because of this and stuff like that  /'], because of this and stuff like that  ,+,MALE,0
+"['{c so, }  -/']",c so   ,%,MALE,5
+"['{d well, } it helps you to focus where your money goes -- /']",d well  it helps you to focus where your money goes  ,sv,FEMALE,3
+['yeah <laughter> /'],yeah laughter ,b,MALE,2
+"['-- [ {c and } + {c and } ] i am sure you felt  [ the + the ] same frustration before you got on a budget,  /']",  c and   c and   i am sure you felt   the  the  same frustration before you got on a budget  ,sv,FEMALE,3
+"[""{c but } you're <talking> wondering  [ my, + ] when you put down all the money that you do bring in - /""]",c but  youre talking wondering   my   when you put down all the money that you do bring in  ,sv,FEMALE,3
+"[""{c and then } you're saying,  my word # where did all that money # --""]",c and then  youre saying  my word  where did all that money  ,sv,FEMALE,3
+"[""# that's a lot of money,  /""]", thats a lot of money  ,bf,MALE,20
+"['{c but } <laughter>, # -/']",c but  laughter  ,%,MALE,5
+['-- go.  /'], go  ,+,FEMALE,0
+['where does it go? /'],where does it go ,^q,FEMALE,19
+['yeah. /'],yeah ,b,MALE,2
+['{f uh } -- /'],f uh   ,%,FEMALE,5
+"['{c but, } -/']",c but  ,%,MALE,5
+"['-- {c and } also we have found that if we write down, - /']", c and  also we have found that if we write down  ,sd,FEMALE,1
+['{c and } we did this.  /'],c and  we did this  ,sd,FEMALE,1
+"['we are not real consistent with this,  /']",we are not real consistent with this  ,sd,FEMALE,1
+['{c but } we did it for about a month  /'],c but  we did it for about a month  ,sd,FEMALE,1
+"['{c and } we wrote down everything that we bought <noise> [ when, + ] {d you know, }  every pay check -- /']",c and  we wrote down everything that we bought noise  when   d you know   every pay check  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and so } we could see where  every penny went  /'], c and so  we could see where  every penny went  ,sd,FEMALE,1
+['{c and } it was really interesting to see <throat_clearing> just what you do spend  /'],c and  it was really interesting to see throatclearing just what you do spend  ,sd,FEMALE,1
+"[""{c and } like i say we haven't been real consistent with it.  /""]",c and  like i say we havent been real consistent with it  ,sd,FEMALE,1
+"[""it's, - /""]",its  ,%,FEMALE,5
+['we should cause it does help. /'],we should cause it does help ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""[ the other, + the other ]  thing [ that + that ] we've found that helps is, {d you know, } we tend to fudge on the budget a little bit -- /""]", the other  the other   thing  that  that  weve found that helps is d you know  we tend to fudge on the budget a little bit  ,sd,MALE,1
+['uh-huh <laughter>. /'],uhhuh laughter ,b,FEMALE,2
+"[""-- it's just to, {f uh, } {f uh, }   get up the money in advance and put it in, {f uh, } {f uh, } so long as it wasn't {d you know, } unreasonably high,  but for things like food expenses --""]", its just to f uh  f uh    get up the money in advance and put it in f uh  f uh  so long as it wasnt d you know  unreasonably high  but for things like food expenses ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- or whatever.  just put it [ in  {f uh } <talking>, +']", or whatever  just put it  in  f uh  talking ,+,MALE,0
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+['in ] an envelope or whatever  /'],in  an envelope or whatever  ,+,MALE,0
+"['# {d wel-, } just # stick to that,  /']", d wel  just  stick to that  ,bf,FEMALE,20
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['that is, -/']",that is ,%,FEMALE,5
+['<laughter>.'],laughter,x,FEMALE,8
+['if the entertainment amount was gone ] --'],if the entertainment amount was gone  ,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+['[ that -- +'], that  ,sv,FEMALE,3
+"[""-- for the month say, {f oh, } it's gone <laughter>. /""]", for the month say f oh  its gone laughter ,+,MALE,0
+['-- that ] sounds like a really good idea. /'], that  sounds like a really good idea ,+,FEMALE,0
+['{d so. } -/'],d so  ,%,MALE,5
+['{c and } it really helpful.  /'],c and  it really helpful  ,sd,FEMALE,1
+"['{f uh, } have you developed a savings plan or i r a s or  anything like that yet? /']",f uh  have you developed a savings plan or i r a s or  anything like that yet ,qy,FEMALE,7
+"[""[ we, + we ] haven't.  /""]", we  we  havent  ,ng,MALE,29
+"['[ [ we + our ] + our ]  initial goal was just to [ retire debt, + {f uh, }  completely retire debt ] for car payments and --']",  we  our   our   initial goal was just to  retire debt  f uh   completely retire debt  for car payments and ,sd,MALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,bk,FEMALE,14
+['-- [ credit card <talking> -- +'],  credit card talking  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } credit card debt ] and all of that.  /']", f uh  credit card debt  and all of that  ,+,MALE,0
+"['we are just at a point [ where, + where ] we could start thinking about it  /']",we are just at a point  where  where  we could start thinking about it  ,sd,MALE,1
+"['{c so } <inhaling>, -/']",c so  inhaling ,%,MALE,5
+"[""{f oh } that's good.  /""]",f oh  thats good  ,ba,FEMALE,6
+"[""that's a good feeling <throat_clearing>. /""]",thats a good feeling throatclearing ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['{d well } i <<very faint>>, -/']",d well  i very faint ,%,MALE,5
+"['<smack> <inhaling> my husband just  graduated from the university, {f uh, } <smack> a year ago -- /']",smack inhaling my husband just  graduated from the university f uh  smack a year ago  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c so } [ finally <laughter> -- +'], c so   finally laughter  ,sd,FEMALE,1
+['<laughter>  a student. /'],laughter  a student ,bf,MALE,20
+['-- finally ] we are getting to that point too.  /'], finally  we are getting to that point too  ,+,FEMALE,0
+"['{d so, }  are you still going to school  /']",d so   are you still going to school  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['i am actually [ in the, + <talking> in the ] mas-, -/']",i am actually  in the  talking in the  mas ,sd,MALE,1

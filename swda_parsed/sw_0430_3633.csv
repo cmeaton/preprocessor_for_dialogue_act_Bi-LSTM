@@ -1,0 +1,147 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['((   ))  return anything. -/'],     return anything ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{d well, } # really, #']",d well   really ,sd,FEMALE,1
+['# <throat_clearing>. #'], throatclearing ,x,FEMALE,8
+"['the only things that i have returned have not been faulty,  /']",the only things that i have returned have not been faulty  ,+,FEMALE,0
+"[""it's been because of the size or --""]",its been because of the size or ,sd,FEMALE,1
+['# right. # /'], right  ,b,FEMALE,2
+['-- # some # problem like that.  /'],  some  problem like that  ,+,FEMALE,0
+"[""i really haven't had to return things because they didn't perform the way they were supposed to. /""]",i really havent had to return things because they didnt perform the way they were supposed to ,sd,FEMALE,1
+"['most the time they have a pretty good guarantee,  /']",most the time they have a pretty good guarantee  ,sv,FEMALE,3
+['yeah.  /'],yeah  ,%,FEMALE,5
+"[""the only thing i've had lately is, {f uh, } my kids got all these barbie <ringing> kind of toys for, {f uh, } christmas  /""]",the only thing ive had lately is f uh  my kids got all these barbie ringing kind of toys for f uh  christmas  ,sd,FEMALE,1
+"['{c and, }  {f uh, } [ i-, + it ]  takes them less than a day  /']",c and   f uh   i  it   takes them less than a day  ,sd,FEMALE,1
+"[""{c and } they're broken in one way or another.  /""]",c and  theyre broken in one way or another  ,sd,FEMALE,1
+"[""{c but } i don't know if that's just kids, or if that's, {f uh, } - /""]",c but  i dont know if thats just kids or if thats f uh   ,sd,FEMALE,1
+"['<child> maybe those type of products [ sh-, + should ] be for older kids <child>. /']",child maybe those type of products  sh  should  be for older kids child ,sv,FEMALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['what age are your children? /'],what age are your children ,qw,FEMALE,12
+['i have a five and a half and a three and a half year old that play with them <noise>. /'],i have a five and a half and a three and a half year old that play with them noise ,sd,FEMALE,1
+['uh-huh <breathing>. /'],uhhuh breathing ,b,FEMALE,2
+"[""{c and, }  {f uh, } i don't think they're unduly rough,  /""]",c and   f uh  i dont think theyre unduly rough  ,sd,FEMALE,1
+['{c but } maybe they are.   /'],c but  maybe they are   ,sd,FEMALE,1
+"[""i don't know.  /""]",i dont know  ,h,FEMALE,15
+"['{c but, }  {f uh, } a lot of the little barbie sets <ringing> they come with real <throat_clearing> little pieces <noise>  /']",c but   f uh  a lot of the little barbie sets ringing they come with real throatclearing little pieces noise  ,sd,FEMALE,1
+"[""{c and } they're easily lost and easily broken  /""]",c and  theyre easily lost and easily broken  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['#  ((   )) . #'],       ,x,FEMALE,8
+"['# {d well, } # my daughter is twenty-one now,  /']", d well   my daughter is twentyone now  ,sd,FEMALE,1
+"[""{c so } it's been a while since we've had # barbie things <laughter>. # /""]",c so  its been a while since weve had  barbie things laughter  ,sd,FEMALE,1
+"[""# it's been a while since they've, {f uh, } # gone through the barbie stuff #  ((   )) . # /""]", its been a while since theyve f uh   gone through the barbie stuff         ,bf,FEMALE,20
+"['# {c but } [ we # did have barbies, + we did have barbies ] and things,  /']", c but   we  did have barbies  we did have barbies  and things  ,sd,FEMALE,1
+['{c and } there - /'],c and  there  ,%,FEMALE,5
+"['seems to me [ that + that ] became a craze when she was already, {f oh, } {d like, } {d you know, }  third, fourth, fifth grade. /']",seems to me  that  that  became a craze when she was already f oh  d like  d you know   third fourth fifth grade ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c so } she wasn't in it for very long before she was out of it,  /""]",c so  she wasnt in it for very long before she was out of it  ,sd,FEMALE,1
+"[""{c but, }  {f uh, } i don't remember her # breaking a lot of stuff. # /""]",c but   f uh  i dont remember her  breaking a lot of stuff  ,sd,FEMALE,1
+"[""# don't remember her # breaking, {f uh, } -/""]", dont remember her  breaking f uh  ,b^m,FEMALE,24
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i don't.  /""]",i dont  ,sd,FEMALE,1
+"[""{c but } i also don't remember lots of little pieces #  /""]",c but  i also dont remember lots of little pieces   ,sd,FEMALE,1
+"[""they've got so many different things with it now. # /""]",theyve got so many different things with it now  ,sv,FEMALE,3
+"[""# {d well, } that's one thing they've got.  /""]", d well  thats one thing theyve got  ,aa,FEMALE,4
+"[""they've # got every type of imaginable, - /""]",theyve  got every type of imaginable  ,sv,FEMALE,3
+"['camping on the beach,  and all of these come with, {f oh, } {d like } tiny, tiny little plates and little sunglasses.  /']",camping on the beach  and all of these come with f oh  d like  tiny tiny little plates and little sunglasses  ,sd,FEMALE,1
+"['{c and, }  {f uh } -- -/']",c and   f uh   ,%,FEMALE,5
+['# goodness. # /'], goodness  ,ba,FEMALE,6
+"['-- # my # three and a half year old has wanted this ken doll,  /']",  my  three and a half year old has wanted this ken doll  ,sd,FEMALE,1
+"['{c and so } i finally got her a ken doll,  /']",c and so  i finally got her a ken doll  ,sd,FEMALE,1
+"['{c and, }  {f uh, } less than a week later the arm was broken. /']",c and   f uh  less than a week later the arm was broken ,sd,FEMALE,1
+"['{f oh, } dear. /']",f oh  dear ,ba,FEMALE,6
+['{c but } they were real good about replacing it.  /'],c but  they were real good about replacing it  ,sd,FEMALE,1
+"[""that's one nice thing, is they're real good about replacing it. /""]",thats one nice thing is theyre real good about replacing it ,sd,FEMALE,1
+"[""{d well, } {f uh, } i guess if they'll replace them, then they assume they shouldn't have broken. /""]",d well  f uh  i guess if theyll replace them then they assume they shouldnt have broken ,sv,FEMALE,3
+['right.  /'],right  ,aa,FEMALE,4
+"['{d well, } [ [ the, + the, ] + {d you know, } those ]  little arms are supposed to twist almost any # way  /']",d well    the  the   d you know  those   little arms are supposed to twist almost any  way  ,sd,FEMALE,1
+['and # -- -/'],and   ,%,FEMALE,5
+['# any direction. # /'], any direction  ,^2,FEMALE,23
+"[""-- [ she's not that strong, that i # would # -- +""]",  shes not that strong that i  would   ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""-- she's not that big of a girl that i think could ] really <breathing> --""]", shes not that big of a girl that i think could  really breathing ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"['-- take a grip on it like a bigger kid could, {d you know. } /']", take a grip on it like a bigger kid could d you know  ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""the main thing that [ they've, + they had ] when my daughter was playing with barbies was just clothes. /""]",the main thing that  theyve  they had  when my daughter was playing with barbies was just clothes ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['{d you know, } that was about it. /']",d you know  that was about it ,sd,FEMALE,1
+['that was about it. /'],that was about it ,b^m,FEMALE,24
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } the barbie doll itself is usually pretty durable and that kind of stuff  /'],c and  the barbie doll itself is usually pretty durable and that kind of stuff  ,sv,FEMALE,3
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['{c and } the main thing my kids seem to be into nowadays are electronics.  /'],c and  the main thing my kids seem to be into nowadays are electronics  ,sd,FEMALE,1
+"['[ my, + my ] children are twenty-one and twenty-five and twenty-eight. /']", my  my  children are twentyone and twentyfive and twentyeight ,sd,FEMALE,1
+"['{f oh, } is that right? /']",f oh  is that right ,bh,FEMALE,18
+['uh-huh #  /'],uhhuh   ,ny,FEMALE,9
+"['{c and, }  # -/']",c and    ,%,FEMALE,5
+"[""# {d well, } # do you see that there's a big problem with electronic things? /""]", d well   do you see that theres a big problem with electronic things ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['not really.  /'],not really  ,sd,FEMALE,1
+"[""we, {f uh, } haven't had that much, {d you know, } problem with things that we have bought.  /""]",we f uh  havent had that much d you know  problem with things that we have bought  ,sd,FEMALE,1
+"['they seem [ to, + to ] last.  /']",they seem  to  to  last  ,sd,FEMALE,1
+"[""in fact, when they offer us extended warranties, [ we, + we ] don't buy them # because [ [ we've, + #""]",in fact when they offer us extended warranties  we  we  dont buy them  because   weve  ,sd,FEMALE,1
+"[""# don't # buy them because you don't need them. /""]", dont  buy them because you dont need them ,^2,FEMALE,23
+['yes. /'],yes ,b,FEMALE,2
+"[""{c and, }  {f uh, } it seems like it's just [ a, + an ] added tack on.  /""]",c and   f uh  it seems like its just  a  an  added tack on  ,sv,FEMALE,3
+"['{c plus } a lot of the credit cards now, {d you know, } will guarantee,  /']",c plus  a lot of the credit cards now d you know  will guarantee  ,sv,FEMALE,3
+['if you purchase on your credit card --'],if you purchase on your credit card ,sv,FEMALE,3
+"['{f oh, } yeah. #  ((   )) . # /']",f oh  yeah         ,b,FEMALE,2
+"[""-- # {d you know, } # then they put an extended warranty on it if it doesn't work or if you have a problem with it in a certain period of time,  /""]",  d you know   then they put an extended warranty on it if it doesnt work or if you have a problem with it in a certain period of time  ,+,FEMALE,0
+['{c so } it # seems # --'],c so  it  seems  ,sv,FEMALE,3
+['# yes. # /'], yes  ,b,FEMALE,2
+"[""-- like it's a waste of money. /""]", like its a waste of money ,+,FEMALE,0
+"[""{d well, } you almost assume if you're going to have problems with it,  it's usually [ bef-,  + before ] that warranty would expire  /""]",d well  you almost assume if youre going to have problems with it  its usually  bef   before  that warranty would expire  ,sv,FEMALE,3
+"['any, - /']",any  ,%,FEMALE,5
+['the  first one. -/'],the  first one ,%,FEMALE,5
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"[""{c and } {d like } [ i've even bought, + on a recliner once i bought, ] {d you know, } [ [ a, + a, ] + an ] extended warranty for cleaning and stuff like that,  /""]",c and  d like   ive even bought  on a recliner once i bought  d you know    a  a   an  extended warranty for cleaning and stuff like that  ,sd,FEMALE,1
+['{c and } i never used it. /'],c and  i never used it ,sd,FEMALE,1
+"['you  never [ nee-, + even needed ] it. /']",you  never  nee  even needed  it ,b,FEMALE,2
+['{c and so } it seems ridiculous.  /'],c and so  it seems ridiculous  ,sv,FEMALE,3
+"['{c and } {d like } <breathing>,']",c and  d like  breathing,sd,FEMALE,1
+['<child>.'],child,x,FEMALE,8
+"[""washers and dryers and things like that, i've never had one go out.  /""]",washers and dryers and things like that ive never had one go out  ,+,FEMALE,0
+"['in fact, they usually, - /']",in fact they usually  ,%,FEMALE,5
+"[""when they do go out, it's either something my husband can buy the part and fix  /""]",when they do go out its either something my husband can buy the part and fix  ,sd,FEMALE,1
+"[""{c and } we don't even have a repairman come,  /""]",c and  we dont even have a repairman come  ,sd,FEMALE,1
+"[""{c or } it means it's old enough that it's time to replace # the whole thing. # /""]",c or  it means its old enough that its time to replace  the whole thing  ,sd,FEMALE,1
+"[""# it's time to # replace it. /""]", its time to  replace it ,b^m,FEMALE,24
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['yes. /'],yes ,b,FEMALE,2
+"['{c so, }  {e i # mean, } # -/']",c so   e i  mean   ,%,FEMALE,5
+"['# i # think these extended warranties are gimmicks, really. /']", i  think these extended warranties are gimmicks really ,sv,FEMALE,3
+['i do too. /'],i do too ,aa,FEMALE,4
+['a lot of it.  /'],a lot of it  ,sv,FEMALE,3
+"['[ we bought, + when we first married, we bought ]  one on our t v  /']", we bought  when we first married we bought   one on our t v  ,sd,FEMALE,1
+"[""<lipsmack> {c and } that there's, - /""]",lipsmack c and  that theres  ,%,FEMALE,5
+"['[ it was a five year, + after the first five years, ] - /']", it was a five year  after the first five years   ,sd,FEMALE,1
+['{c and } it was ridiculous. /'],c and  it was ridiculous ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['{c and } they charge you a pretty good price for them # too. # /'],c and  they charge you a pretty good price for them  too  ,sv,FEMALE,3
+['# yes. #  /'], yes   ,aa,FEMALE,4
+"[""they're a pretty healthy price,  /""]",theyre a pretty healthy price  ,sv,FEMALE,3
+"[""{c and } you're trying to think {f oh, } maybe i'll need this.  /""]",c and  youre trying to think f oh  maybe ill need this  ,sv,FEMALE,3
+"[""[ you never, + you always ] think gosh, if i say no, then i won't, {d you know. } /""]", you never  you always  think gosh if i say no then i wont d you know  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['{d well, } # my husband # --']",d well   my husband  ,sd,FEMALE,1
+"[""# i don't know. # /""]", i dont know  ,h,FEMALE,15
+['-- finally just put his foot down  /'], finally just put his foot down  ,+,FEMALE,0
+"[""{c and } he said we're not going to buy any of these anymore,  /""]",c and  he said were not going to buy any of these anymore  ,sd,FEMALE,1
+"['{c and } if it goes out, {d well } --']",c and  if it goes out d well  ,sd,FEMALE,1
+['you # probably # --'],you  probably  ,sv,FEMALE,3
+['-- # {d you know. } # -/'],  d you know   ,+,FEMALE,0
+['-- got your worth out of it anyway. /'], got your worth out of it anyway ,+,FEMALE,0
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+"['[ {c and, } + {f uh, } {c so }  ] we really have been fairly happy [ wi-, + with ] things,  /']", c and   f uh  c so    we really have been fairly happy  wi  with  things  ,sd,FEMALE,1
+['{c but } {d now } we take good care of things  /'],c but  d now  we take good care of things  ,sd,FEMALE,1
+"[""{c and } we don't, {f uh, } run out and buy a lot [ of, + of ] things either.  /""]",c and  we dont f uh  run out and buy a lot  of  of  things either  ,sd,FEMALE,1
+"[""{c and } since our kids aren't little anymore, i'm not buying a lot of  those little things # <laughter> that can get broken. # /""]",c and  since our kids arent little anymore im not buying a lot of  those little things  laughter that can get broken  ,sd,FEMALE,1
+"['# yes,  /']", yes  ,b,FEMALE,2
+"['the little, # - /']",the little   ,%,FEMALE,5
+"['{d well, } you probably are real careful of the brands you buy  /']",d well  you probably are real careful of the brands you buy  ,qy^d,FEMALE,16
+"['{c and } [ the, + ] when you do buy things, you <child_yelling> probably watch what [ kind of, + # type of ] ((   )) . # -/']",c and   the   when you do buy things you childyelling probably watch what  kind of   type of        ,qy^d,FEMALE,16
+"['# {d well, } # you look at the consumer guide. /']", d well   you look at the consumer guide ,arp_nd,FEMALE,34
+['# yes. # /'], yes  ,b,FEMALE,2
+"['# {c and, }  # {f uh, } you go around  /']", c and    f uh  you go around  ,sd,FEMALE,1
+"['{c and } you look at the different ones and find the ones that have the, -/']",c and  you look at the different ones and find the ones that have the ,sd,FEMALE,1

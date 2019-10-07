@@ -1,0 +1,275 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['<beep> hi,  /']",beep hi  ,fp,FEMALE,32
+['good morning. /'],good morning ,fp,FEMALE,32
+['# good morning. # /'], good morning  ,fp,FEMALE,32
+['# do you have # recycling in sachse? /'], do you have  recycling in sachse ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['we do.  /'],we do  ,sd,FEMALE,1
+"[""# we've # --""]", weve  ,sd,FEMALE,1
+"['# do, # -/']", do  ,%,FEMALE,5
+"['-- got, {f uh, } a pickup twice a week that they come out  /']", got f uh  a pickup twice a week that they come out  ,+,FEMALE,0
+"['{c and, }  they have their own special bin that they hand it out to everybody  /']",c and   they have their own special bin that they hand it out to everybody  ,sd,FEMALE,1
+['{c and } <breathing> they take it. /'],c and  breathing they take it ,sd,FEMALE,1
+['{f oh } really? /'],f oh  really ,bh,FEMALE,18
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""# {c and } it's # twice a week? /""]", c and  its  twice a week ,qy^d,FEMALE,16
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['really?  /'],really  ,bh,FEMALE,18
+"['we have,']",we have,sd,FEMALE,1
+['<noise>.'],noise,x,FEMALE,8
+"['recently started, {f uh, } a bin program here in plano where, {f uh, } - /']",recently started f uh  a bin program here in plano where f uh   ,+,FEMALE,0
+"['used to be  [ we, +  we ] put all of our trash in green bags and the trash men came out twice a week and picked up.  /']",used to be   we   we  put all of our trash in green bags and the trash men came out twice a week and picked up  ,sd,FEMALE,1
+"['{c and } now they have, {f uh, } these large green containers  /']",c and  now they have f uh  these large green containers  ,sd,FEMALE,1
+"[""{c and } you have to put your trash that you don't recycle in there.  /""]",c and  you have to put your trash that you dont recycle in there  ,sd,FEMALE,1
+"[""{c and then } they haven't started curbside recycling yet,  /""]",c and then  they havent started curbside recycling yet  ,sd,FEMALE,1
+"[""[ {c but } they're, + {c but } they're ] planning on doing it very soon.  /""]", c but  theyre  c but  theyre  planning on doing it very soon  ,sd,FEMALE,1
+"['apparently the trucks that they had, {f um, } lined up, they needed the parts for,']",apparently the trucks that they had f um  lined up they needed the parts for,sd,FEMALE,1
+['<noise> <<paper shuffling>>.'],noise paper shuffling,x,FEMALE,8
+['saudi arabia <laughter>. /'],saudi arabia laughter ,+,FEMALE,0
+['oh. /'],oh ,b,FEMALE,2
+['{c and so } that put off <barking> the program for a while.  /'],c and so  that put off barking the program for a while  ,sd,FEMALE,1
+"['{c but, }  {f uh, } do you recycle? /']",c but   f uh  do you recycle ,qy,FEMALE,7
+"['{f um, } my kids do <laughter>. /']",f um  my kids do laughter ,na,FEMALE,21
+['do they?  /'],do they  ,bh,FEMALE,18
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['# put it # that way.  /'], put it  that way  ,sd,FEMALE,1
+"['[  they, +']",  they ,sd,FEMALE,1
+['<knocking> <<at door>>.'],knocking at door,x,FEMALE,8
+"[""they've ] been recycling cans --""]",theyve  been recycling cans ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- for extra money. /'], for extra money ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so } [ that's, + that's ] been their summer money  /""]",c so   thats  thats  been their summer money  ,sd,FEMALE,1
+"[""{c and } they're fixing to go to disneyland.  /""]",c and  theyre fixing to go to disneyland  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['{f oh, } {d well } -- -/']",f oh  d well   ,%,FEMALE,5
+"['# {d so, }  # -/']", d so    ,%,FEMALE,5
+"[""-- # that's # great. /""]",  thats  great ,ba,FEMALE,6
+['# yeah. # /'], yeah  ,aa,FEMALE,4
+"[""# {d well } # that's the way we started too.  /""]", d well   thats the way we started too  ,sd,FEMALE,1
+"['my daughter was going,']",my daughter was going,sd,FEMALE,1
+['<noise>.'],noise,x,FEMALE,8
+"['to camp goddard, {f um, } which is through the plano school system, # {d you know } in the fall # --']",to camp goddard f um  which is through the plano school system  d you know  in the fall  ,+,FEMALE,0
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- couple of years ago  /'], couple of years ago  ,+,FEMALE,0
+['{c and } she had to earn money for it  /'],c and  she had to earn money for it  ,sd,FEMALE,1
+['{c and } she was too young to baby-sit.  /'],c and  she was too young to babysit  ,sd,FEMALE,1
+"[""{c so, }  that's how she started.  /""]",c so   thats how she started  ,sd,FEMALE,1
+['she started recycling cans  /'],she started recycling cans  ,sd,FEMALE,1
+"['{c and } from there we now recycle glass and newspapers and, {f uh, } aluminum cans and  plastics. /']",c and  from there we now recycle glass and newspapers and f uh  aluminum cans and  plastics ,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+['uh-huh <noise>. /'],uhhuh noise ,ny,FEMALE,9
+"['[ is, + is ] that the same way as with the aluminum cans <noise> where you go  /']", is  is  that the same way as with the aluminum cans noise where you go  ,bf,FEMALE,20
+"['{c and } they,']",c and  they,qy,FEMALE,7
+['<breathing> <laughter>.'],breathing laughter,x,FEMALE,8
+['weigh it or whatever  /'],weigh it or whatever  ,+,FEMALE,0
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['no,  /']",no  ,nn,FEMALE,13
+['((   ))  the only thing we get paid for are the aluminum cans. /'],     the only thing we get paid for are the aluminum cans ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['{f um, } the rest of it we just do because <laughter> my husband has become hooked on recycling. /']",f um  the rest of it we just do because laughter my husband has become hooked on recycling ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c and so, } {d you know, } we don't get paid for that  /""]",c and so  d you know  we dont get paid for that  ,sd,FEMALE,1
+"[""{c but } that's okay. /""]",c but  thats okay ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""# {d you know, } # [ it's, + it's ] not that much of a bother really.  /""]", d you know    its  its  not that much of a bother really  ,sd,FEMALE,1
+['you just have to rinse out your bottles or whatever  /'],you just have to rinse out your bottles or whatever  ,sd,FEMALE,1
+"['{c and } we use a lot of,']",c and  we use a lot of,sd,FEMALE,1
+['<children_talking>.'],childrentalking,x,FEMALE,8
+"['two liter bottles.   {f um, }  and {d like } milk cartons and things like that.  /']",two liter bottles   f um   and d like  milk cartons and things like that  ,+,FEMALE,0
+"[""it's amazing how much plastic you generate. /""]",its amazing how much plastic you generate ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i was amazed at how many cans --'],i was amazed at how many cans ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['-- # that # we got  ((   ))  /'],  that  we got       ,+,FEMALE,0
+"[""{c because } when the kids first went down, i said,  [ that, + {d you know } that's  ] great  /""]",c because  when the kids first went down i said   that  d you know  thats   great  ,sd,FEMALE,1
+"[""{c and } i was thinking, {d you know } maybe i'd help supplement it, {d you know } --""]",c and  i was thinking d you know  maybe id help supplement it d you know  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- when they turned them in  /'], when they turned them in  ,+,FEMALE,0
+"[""{c but } <breathing> <noise> it's amazing how many cans you go through.""]",c but  breathing noise its amazing how many cans you go through,sv,FEMALE,3
+['yeah  /'],yeah  ,aa,FEMALE,4
+['it really is. /'],it really is ,sv,FEMALE,3
+['# and how fast they accumulate. # /'], and how fast they accumulate  ,+,FEMALE,0
+['# {d well } all that stuff  /'], d well  all that stuff  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{c and } [ how much, + # how much ] we have reduced our waste.']",c and   how much   how much  we have reduced our waste,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""# {d you know, } # that [ we, +  we're ] generating a week.  /""]", d you know   that  we   were  generating a week  ,+,FEMALE,0
+"[""{f um, } i know our neighbors, when we first went to this bin program said, {f oh, } there's no way, {d you know } we're going to have to have pickup twice a week.  /""]",f um  i know our neighbors when we first went to this bin program said f oh  theres no way d you know  were going to have to have pickup twice a week  ,sd,FEMALE,1
+['they were real upset  /'],they were real upset  ,sd,FEMALE,1
+"[""{c but } [ they weren't, + they were ] only picking up once a week.  /""]",c but   they werent  they were  only picking up once a week  ,sd,FEMALE,1
+"[""{c and } we said to them, if you recycle,  ((   )) [ you'll, + {d you know, } you'll ] go two weeks without having to put out the green container. /""]",c and  we said to them if you recycle       youll  d you know  youll  go two weeks without having to put out the green container ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and, }  {f uh, } [ it's, + it's ] really amazing.  /""]",c and   f uh   its  its  really amazing  ,sd,FEMALE,1
+"[""the other thing he does, that my husband a real stickler about is we don't collect our grass clippings. /""]",the other thing he does that my husband a real stickler about is we dont collect our grass clippings ,sd,FEMALE,1
+['really. /'],really ,b,FEMALE,2
+['no.  /'],no  ,nn,FEMALE,13
+"['[ he, + he ] got a little mulcher thing. /']", he  he  got a little mulcher thing ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""# it's just a little # attachment for the lawn mower  /""]", its just a little  attachment for the lawn mower  ,sd,FEMALE,1
+['{c and } we mow once a week.  /'],c and  we mow once a week  ,sd,FEMALE,1
+"['{d you know, } [ no, + no ] more often then that.  /']",d you know   no  no  more often then that  ,sd,FEMALE,1
+"['{c and then } the clippings just get mulched up and then just lay [ [ on the, + on, ] + on, ] [ the, + {f uh, } <lipsmack> the ] lawn.  /']",c and then  the clippings just get mulched up and then just lay   on the  on   on   the  f uh  lipsmack the  lawn  ,sd,FEMALE,1
+"[""{c and } it's amazing,  /""]",c and  its amazing  ,sd,FEMALE,1
+"[""it's amazing.  /""]",its amazing  ,sd,FEMALE,1
+"[""we don't collect any of that  /""]",we dont collect any of that  ,sd,FEMALE,1
+"['{c and } [ that, + that ] has cut down a lot in what we throw out. /']",c and   that  that  has cut down a lot in what we throw out ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""((   )) [ we don't e-, + we don't ] catch it either, mainly because my husband rarely has time to mow the yard.  /""]",     we dont e  we dont  catch it either mainly because my husband rarely has time to mow the yard  ,sd,FEMALE,1
+"['{c so, }  if it [ mows, + gets mowed, ] i do it normally. /']",c so   if it  mows  gets mowed  i do it normally ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } i can't mow the yard with the grass catch on it. /""]",c and  i cant mow the yard with the grass catch on it ,sd,FEMALE,1
+['<breathing> <laughter>.'],breathing laughter,x,FEMALE,8
+"[""it's too heavy. /""]",its too heavy ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['# {c so } [ i just # m-, + <laughter> i just mow ] it and leave it. /']", c so   i just  m  laughter i just mow  it and leave it ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['# it just # soaks in. /'], it just  soaks in ,sd,FEMALE,1
+['sure it does.  /'],sure it does  ,aa,FEMALE,4
+['sure it does.  /'],sure it does  ,aa,FEMALE,4
+['it really does  /'],it really does  ,sv,FEMALE,3
+"['{c and } it, - /']",c and  it  ,%,FEMALE,5
+"[""{d actually } they say that you're wasting fertilizer --""]",d actually  they say that youre wasting fertilizer ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- if you're not,  {f uh, } [ if you're + ] catching your grass clippings.  /""]", if youre not  f uh   if youre   catching your grass clippings  ,+,FEMALE,0
+"[""[  that, + that's ] that much fertilizer you have to use because it does fertilize the lawn.  /""]",  that  thats  that much fertilizer you have to use because it does fertilize the lawn  ,sd,FEMALE,1
+"[""it's amazing. /""]",its amazing ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f oh, } i like it better doing it.  /']",f oh  i like it better doing it  ,sd,FEMALE,1
+"['{d well } one, - /']",d well  one  ,%,FEMALE,5
+['<child_crying> it cuts down on my mow time anyway -- /'],childcrying it cuts down on my mow time anyway  ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""# that's true. # /""]", thats true  ,ba,FEMALE,6
+['-- # {c and } you zip through # it quicker. /'],  c and  you zip through  it quicker ,sd,FEMALE,1
+"[""that's true.  /""]",thats true  ,ba,FEMALE,6
+"[""that's true.  /""]",thats true  ,ba,FEMALE,6
+"[""{d well, } [ i, + i ] really think you're going to get hooked on plastics and paper <laughter> before you know it. /""]",d well   i  i  really think youre going to get hooked on plastics and paper laughter before you know it ,sd,FEMALE,1
+"['</child_crying> <laughter> [ proba-, + we probably ] will. /']",childcrying laughter  proba  we probably  will ,ba,FEMALE,6
+"[""[ it's, + it's ] really not that much trouble.  /""]", its  its  really not that much trouble  ,sd,FEMALE,1
+"['we keep a large plastic, {f uh, } [ [ just a, + {d you know, } a ] + ] garbage bag in the garage. /']",we keep a large plastic f uh    just a  d you know  a    garbage bag in the garage ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } as soon as we use something, {d you know, } we crush it up and put it out there  /']",c and  as soon as we use something d you know  we crush it up and put it out there  ,sd,FEMALE,1
+"['{c and then, } {d you know, } every few weeks we have [  recycling, + a recycling ] center {d like } near wal-mart. /']",c and then  d you know  every few weeks we have   recycling  a recycling  center d like  near walmart ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ they're, + they ] have the containers that you can just go over there and drop it in  /""]", theyre  they  have the containers that you can just go over there and drop it in  ,sd,FEMALE,1
+"[""{c and } it's really no trouble. /""]",c and  its really no trouble ,sd,FEMALE,1
+['<lipsmack>.'],lipsmack,x,FEMALE,8
+"[""{c and, }  {f uh, } i feel like at least we're doing something. /""]",c and   f uh  i feel like at least were doing something ,sd,FEMALE,1
+['<noise> yeah. /'],noise yeah ,b,FEMALE,2
+"['{d you know, }  ((   )) , {f um, } i read [ [ a book one time + {e or } a m-, ] + a magazine ] article  /']",d you know        f um  i read   a book one time  e or  a m   a magazine  article  ,sd,FEMALE,1
+"[""{c and } they said something about how you don't realize even just your small contribution, it seems like a small contribution  /""]",c and  they said something about how you dont realize even just your small contribution it seems like a small contribution  ,sd,FEMALE,1
+"[""{c but } it's not.  /""]",c but  its not  ,sd,FEMALE,1
+"['if everyone were to recycle just their newspapers, they would [ s-, + save ] thousands and  thousands of trees [ a day. +']",if everyone were to recycle just their newspapers they would  s  save  thousands and  thousands of trees  a day ,sd,FEMALE,1
+['really. /'],really ,b,FEMALE,2
+"['a day, ] just from not throwing out your newspapers.  /']",a day  just from not throwing out your newspapers  ,+,FEMALE,0
+"['{c and, }  {f uh, } when you read that you think, {d well } {d gee, } maybe it is a big deal,']",c and   f uh  when you read that you think d well  d gee  maybe it is a big deal,sv,FEMALE,3
+['<noise>.'],noise,x,FEMALE,8
+['{d you know. } /'],d you know  ,+,FEMALE,0
+"['[ what, + what ] makes me sick [ is, + is ] when they show the dump sites --']", what  what  makes me sick  is  is  when they show the dump sites ,sd,FEMALE,1
+['# uh-huh <noise> <<hammering>>. # /'], uhhuh noise hammering  ,b,FEMALE,2
+"['-- # {d you know, } # [ and, + and, ] how big they are. /']",  d you know    and  and  how big they are ,+,FEMALE,0
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# {c or } # like in new york, the barges [ that -- +']", c or   like in new york the barges  that  ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['-- that ] go up and down [ the, + the ] river -- /']", that  go up and down  the  the  river  ,+,FEMALE,0
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""-- # {c and } they # don't have any place to put it  /""]",  c and  they  dont have any place to put it  ,sd,FEMALE,1
+"['{c and } it just floats in the ((   )) , - /']",c and  it just floats in the       ,sd,FEMALE,1
+"[""it's {d like } ugh. /""]",its d like  ugh ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""[ {c and } that's, + {c and } that's ] really not necessary. /""]", c and  thats  c and  thats  really not necessary ,sv,FEMALE,3
+['# no. # /'], no  ,aa,FEMALE,4
+"[""# it # really isn't  /""]", it  really isnt  ,sv,FEMALE,3
+['if everybody would do just a little bit it would make a big difference.  /'],if everybody would do just a little bit it would make a big difference  ,sv,FEMALE,3
+['it would make a huge impact.  /'],it would make a huge impact  ,sv,FEMALE,3
+"[""{c so, }  i'm excited about the recycling program in plano </noise> <<hammering>>.  /""]",c so   im excited about the recycling program in plano noise hammering  ,sd,FEMALE,1
+"[""[  i, + i, ] can't wait for them to get it started.""]",  i  i  cant wait for them to get it started,sd,FEMALE,1
+['<noise>.'],noise,x,FEMALE,8
+"[""{f um, } because it'll be that much easier for us,  /""]",f um  because itll be that much easier for us  ,+,FEMALE,0
+"['{d you know, } like i said, now we have to take it over [ to, + to ] wal-mart.  /']",d you know  like i said now we have to take it over  to  to  walmart  ,sd,FEMALE,1
+['it would be real nice if they just came by and just picked up. /'],it would be real nice if they just came by and just picked up ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""# [ [ it, + it's # -- ] +""]",   it  its    ,sd,FEMALE,1
+"['# {f um } # <throat_clearing>, /']", f um   throatclearing ,%,FEMALE,5
+"[""-- it's ] convenient out here # for them to do it. # /""]", its  convenient out here  for them to do it  ,+,FEMALE,0
+"['# {d now } [ what, + what ] # do they pick up?  /']", d now   what  what   do they pick up  ,qw,FEMALE,12
+"[""it's just, -/""]",its just ,%,FEMALE,5
+"['they pick up [ the, + the ] plastic, the glass, and the newspaper. /']",they pick up  the  the  plastic the glass and the newspaper ,sd,FEMALE,1
+['{f oh } they do? /'],f oh  they do ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['{c and } do you # have to sort that? # /'],c and  do you  have to sort that  ,qy,FEMALE,7
+"['# {c and } they will do the alum-, # -/']", c and  they will do the alum  ,sd,FEMALE,1
+['{c or } do you just put it all in. /'],c or  do you just put it all in ,qrr,FEMALE,33
+"['no,  /']",no  ,nn,FEMALE,13
+['you just put it in the one bin  /'],you just put it in the one bin  ,sd,FEMALE,1
+"['[ {c and, } + {c and } ] i guess they do the sorting.  /']", c and   c and   i guess they do the sorting  ,sd,FEMALE,1
+"[""{c but, }  {f um, } they'll do the aluminum cans too  /""]",c but   f um  theyll do the aluminum cans too  ,sd,FEMALE,1
+"[""{c but } we don't give them those <laughter>. /""]",c but  we dont give them those laughter ,sd,FEMALE,1
+['right.  /'],right  ,b,FEMALE,2
+['# right. # /'], right  ,b,FEMALE,2
+['# the kids # keep those <laughter>.  /'], the kids  keep those laughter  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"[""{c so } you're doing that now?  /""]",c so  youre doing that now  ,qy,FEMALE,7
+"[""you're doing the newspapers and the glass? /""]",youre doing the newspapers and the glass ,qy,FEMALE,7
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+['# {d well } # --'], d well   ,sd,FEMALE,1
+"['# {f oh, } uh-huh. # /']", f oh  uhhuh  ,b,FEMALE,2
+"[""-- [ we don't, + we don't ] take the newspaper to begin with.  when, neither one of us are home # [ t-, + # --""]",  we dont  we dont  take the newspaper to begin with  when neither one of us are home   t   ,+,FEMALE,0
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- to ] read it. /'], to  read it ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so } we don't have the newspapers but [ the, + the ] plastic and the glass <child>.  /""]",c so  we dont have the newspapers but  the  the  plastic and the glass child  ,sd,FEMALE,1
+"['at first, when it first started, [ [ it, + it, ] + it ] was hard.']",at first when it first started   it  it   it  was hard,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d you know, } because you're just used to throwing things. /""]",d you know  because youre just used to throwing things ,+,FEMALE,0
+"['<breathing> <laughter>  my husband would,']",breathing laughter  my husband would,sd,FEMALE,1
+['</child>.'],child,x,FEMALE,8
+['come home and go through the trash --'],come home and go through the trash ,+,FEMALE,0
+['uh! /'],uh ,ba,FEMALE,6
+"['-- and say, you threw this away <laughter>. /']", and say you threw this away laughter ,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"['[ he would get, + he would get ] all upset  /']", he would get  he would get  all upset  ,sd,FEMALE,1
+"[""{c and } i'd say, - /""]",c and  id say  ,sd,FEMALE,1
+"[""it's just such an automatic reaction.  /""]",its just such an automatic reaction  ,^q,FEMALE,19
+['{c and } now --'],c and  now ,sd,FEMALE,1
+['# it is. # /'], it is  ,aa,FEMALE,4
+['-- # we think # before we throw anything away.  /'],  we think  before we throw anything away  ,+,FEMALE,0
+"[""{e i mean, } it's really funny.  /""]",e i mean  its really funny  ,sd,FEMALE,1
+"['[ we, + we ] really, - /']", we  we  really  ,sd,FEMALE,1
+"[""once you get into the habit of it, it's okay,  /""]",once you get into the habit of it its okay  ,sd,FEMALE,1
+"[""[ it's just, + it's just ] making it a habit that's hard <laughter>. /""]", its just  its just  making it a habit thats hard laughter ,sd,FEMALE,1
+"['{f oh, } i know.  /']",f oh  i know  ,ba,FEMALE,6
+"[""{d well } the kids have even got to the point where [ they, + if they ] see anybody going in the trash can with a can, {d you know, } [ they, + they're, ] {f oh, } no, don't do that  /""]",d well  the kids have even got to the point where  they  if they  see anybody going in the trash can with a can d you know   they  theyre  f oh  no dont do that  ,sd,FEMALE,1
+"['{c and } they go to the sink, they rinse them out, and they put them upside down, they let them drain  /']",c and  they go to the sink they rinse them out and they put them upside down they let them drain  ,sd,FEMALE,1
+['[ {c and } + <noise> --'], c and   noise ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and then, } ] {f uh, } after a couple of days they take them all outside  /']", c and then   f uh  after a couple of days they take them all outside  ,+,FEMALE,0
+"['{c and, }  i put them in a big bag anyway -- /']",c and   i put them in a big bag anyway  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and then } they dump the bag out  /'], c and then  they dump the bag out  ,sd,FEMALE,1
+['{c and then } they crush them.  /'],c and then  they crush them  ,sd,FEMALE,1
+"[""# {c so } that's # --""]", c so  thats  ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- their activity thing.   to # go out there and crush. # /'], their activity thing   to  go out there and crush  ,+,FEMALE,0
+"[""# that's fun. #  /""]", thats fun   ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['# yeah, # -- /']", yeah   ,b,FEMALE,2
+"['# {d so, }  # -/']", d so    ,%,FEMALE,5
+['-- yeah.  /'], yeah  ,aa,FEMALE,4
+"[""{f oh, } that's a lot of fun. /""]",f oh  thats a lot of fun ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""that's a lot of fun.  /""]",thats a lot of fun  ,sv,FEMALE,3
+"[""{d well, } that's great.  /""]",d well  thats great  ,sv,FEMALE,3
+"[""{d well } i'm to hear you're,""]",d well  im to hear youre,sd,FEMALE,1
+['<children_talking>.'],childrentalking,x,FEMALE,8
+['doing that.  /'],doing that  ,+,FEMALE,0
+"['i, - /']",i  ,%,FEMALE,5
+['my sister was here recently from connecticut  /'],my sister was here recently from connecticut  ,sd,FEMALE,1
+['{c and } they have a deposit on all their bottles and cans. /'],c and  they have a deposit on all their bottles and cans ,sd,FEMALE,1
+['{f oh } really?   <<voices fade>>. /'],f oh  really   voices fade ,bh,FEMALE,18

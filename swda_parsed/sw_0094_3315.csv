@@ -1,0 +1,145 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hello? /'],hello ,fp,FEMALE,32
+['hi. /'],hi ,fp,FEMALE,32
+"['hi,  /']",hi  ,fp,FEMALE,32
+['my name is leslie. /'],my name is leslie ,sd,FEMALE,1
+"['hi,  /']",hi  ,fp,FEMALE,32
+"[""i'm jennifer. /""]",im jennifer ,sd,FEMALE,1
+['{c and } where are you from? /'],c and  where are you from ,qw,FEMALE,12
+['pennsylvania. /'],pennsylvania ,sd,FEMALE,1
+"['{f oh, } nice,  /']",f oh  nice  ,ba,FEMALE,6
+"[""i'm from dallas, texas. /""]",im from dallas texas ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+"['yeah,   /']",yeah   ,ny,FEMALE,9
+"['{d so, } -/']",d so  ,%,FEMALE,5
+"[""{f oh, } that's neat. /""]",f oh  thats neat ,ba,FEMALE,6
+"['{d well, } did you understand [ what this was for, + {d you know, } what it was for, ] what we, -/']",d well  did you understand  what this was for  d you know  what it was for  what we ,qy,FEMALE,7
+"['{f uh, } television shows? /']",f uh  television shows ,qy^d,FEMALE,16
+['yeah <laughter>. /'],yeah laughter ,ny,FEMALE,9
+"['sure,  /']",sure  ,b,FEMALE,2
+['that sounds good. /'],that sounds good ,sv,FEMALE,3
+['okay <noise>.  /'],okay noise  ,b,FEMALE,2
+"[""[ i, + i ] don't watch too many,  /""]", i  i  dont watch too many  ,sd,FEMALE,1
+['{c but } we can try it. /'],c but  we can try it ,sd,FEMALE,1
+['okay. /'],okay ,b,FEMALE,2
+['are you ready to start? /'],are you ready to start ,qy,FEMALE,7
+['sure am. /'],sure am ,na,FEMALE,21
+"['okay,  /']",okay  ,bk,FEMALE,14
+['just a minute <beep>. /'],just a minute beep ,ad,FEMALE,22
+"['okay,  /']",okay  ,b,FEMALE,2
+"[""i guess we're recording now. /""]",i guess were recording now ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['okay. /'],okay ,b,FEMALE,2
+['what are your favorite television shows? /'],what are your favorite television shows ,qw,FEMALE,12
+"[""{d well, } i don't really watch too many t v shows other than, {f uh, } occasionally [ i'll, + i'll ] turn on donahue because it comes on in the morning when i seem to be getting ready around here. /""]",d well  i dont really watch too many t v shows other than f uh  occasionally  ill  ill  turn on donahue because it comes on in the morning when i seem to be getting ready around here ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+"[""[ {c and, } + {f uh, } {c so } ] [ if, + if ] there's no one else around, {d you know, } it's just me and i have a chance to listen to something, i'll turn that on, but, {f uh, } just [ for the, + <lipsmack> for the ] conversation factor, i think,  /""]", c and   f uh  c so    if  if  theres no one else around d you know  its just me and i have a chance to listen to something ill turn that on but f uh  just  for the  lipsmack for the  conversation factor i think  ,sd,FEMALE,1
+"[""[ {c but, } + {c and then } ] i think i enjoy when i catch it, i don't even know what night it's on, but designing women sometimes, /""]", c but   c and then   i think i enjoy when i catch it i dont even know what night its on but designing women sometimes ,sd,FEMALE,1
+"['{f oh, } i love that show. /']",f oh  i love that show ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['do you?  <laughter>. /'],do you  laughter ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['that is great. /'],that is great ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""it's fun.  /""]",its fun  ,sv,FEMALE,3
+"[""{c and then } there's a new one that started out that i've caught [ occa-, + a couple of times ] called good and evil, i think. /""]",c and then  theres a new one that started out that ive caught  occa  a couple of times  called good and evil i think ,sd,FEMALE,1
+"['{f oh, } i heard they just canceled that. /']",f oh  i heard they just canceled that ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+"[""i read in today's paper they just canceled that show. /""]",i read in todays paper they just canceled that show ,sd,FEMALE,1
+['it is a real different one.  /'],it is a real different one  ,sv,FEMALE,3
+"[""[ [ it's, + {f uh, } it's, ] + it's ] different.  /""]",  its  f uh  its   its  different  ,sv,FEMALE,3
+['i guess i watch it more out of the uniqueness of it and the time that it comes on more than the fact that i have to see it. /'],i guess i watch it more out of the uniqueness of it and the time that it comes on more than the fact that i have to see it ,sv,FEMALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""have you seen the show, [ it's, + it's ] new this year, called home front? /""]",have you seen the show  its  its  new this year called home front ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i haven't watched that. /""]",i havent watched that ,sd,FEMALE,1
+"[""{f oh, } [ it's, + it's ] really good.  /""]",f oh   its  its  really good  ,sv,FEMALE,3
+"[""[ it's, + {f uh, } i think it's ] on {d like } tuesday nights from ten to eleven -- /""]", its  f uh  i think its  on d like  tuesday nights from ten to eleven  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } it's set in post world war two times  /""]", c and  its set in post world war two times  ,sd,FEMALE,1
+"[""{c and } it's about how the servicemen come home and readjust to civilian life here and the changes everyone's going through.  /""]",c and  its about how the servicemen come home and readjust to civilian life here and the changes everyones going through  ,sd,FEMALE,1
+"[""it's really interesting. /""]",its really interesting ,sv,FEMALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"[""it's kind of like [ a s-, + a nighttime soap ] opera type thing. /""]",its kind of like  a s  a nighttime soap  opera type thing ,sv,FEMALE,3
+['sounds neat. /'],sounds neat ,ba,FEMALE,6
+"[""[ [ it is, + it's a good, ] + it's really well ] written. /""]",  it is  its a good   its really well  written ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['is that on, [ what chan-, + what station? ] /']",is that on  what chan  what station  ,qw,FEMALE,12
+"[""<lipsmack> {f uh, } i don't even know, to tell you the truth <laughter>. /""]",lipsmack f uh  i dont even know to tell you the truth laughter ,sd,FEMALE,1
+"['{f oh, } okay.  /']",f oh  okay  ,bk,FEMALE,14
+['what other shows do you like? /'],what other shows do you like ,qw,FEMALE,12
+"['{f uh, } i prefer oprah winfrey --']",f uh  i prefer oprah winfrey ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+['-- to donahue <laughter>. /'], to donahue laughter ,+,FEMALE,0
+"['{d well, } she comes on later  /']",d well  she comes on later  ,sd,FEMALE,1
+"[""{c and } i usually have kids around so i don't [ end, + end ] up --""]",c and  i usually have kids around so i dont  end  end  up ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- watching that one is the only problem i have with it, i guess. /']", watching that one is the only problem i have with it i guess ,+,FEMALE,0
+"['i did watch soap operas,  /']",i did watch soap operas  ,sd,FEMALE,1
+"[""{c but } i work full-time now and can't catch those anymore.""]",c but  i work fulltime now and cant catch those anymore,sd,FEMALE,1
+['yeah <laughter>. /'],yeah laughter ,b,FEMALE,2
+"[""except when i'm home sick,  /""]",except when im home sick  ,+,FEMALE,0
+"['{c and } now when i watch them, i think, why did i ever watch those? /']",c and  now when i watch them i think why did i ever watch those ,sd,FEMALE,1
+"[""that's right <laughter>. /""]",thats right laughter ,aa,FEMALE,4
+"[""they're stupid <laughter>. /""]",theyre stupid laughter ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['{c so } when i did watch them i was addicted to them every day. /'],c so  when i did watch them i was addicted to them every day ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c but } not anymore. /'],c but  not anymore ,sd,FEMALE,1
+['that can happen.  /'],that can happen  ,sv,FEMALE,3
+"['{c so } do you know of any other shows in the even, or something that you enjoy? /']",c so  do you know of any other shows in the even or something that you enjoy ,qo,FEMALE,25
+"[""{f oh, } {f uh, } tonight i'm looking forward to seeing golden girls. /""]",f oh  f uh  tonight im looking forward to seeing golden girls ,sd,FEMALE,1
+"[""{f oh, } that's always fun. /""]",f oh  thats always fun ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+['i like that show. /'],i like that show ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } if i can stay up late enough, i like to catch saturday night live every now and then. /']",c and  if i can stay up late enough i like to catch saturday night live every now and then ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"[""{c and } right now we're watching a penn state football game because that's where we live. /""]",c and  right now were watching a penn state football game because thats where we live ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['{d so } <laughter>, -/']",d so  laughter ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's exciting,  /""]",its exciting  ,sv,FEMALE,3
+"[""we're winning,  /""]",were winning  ,sd,FEMALE,1
+"[""{c so } that's really exciting. /""]",c so  thats really exciting ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } i think, - /']",d well  i think  ,sv,FEMALE,3
+"['i also, course, like to catch the news during the evening hours -- /']",i also course like to catch the news during the evening hours  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c but, } {f uh, } it's a little tough because that's when i'm usually making dinner and the kids are wanting to talk all at the same time. /""]", c but  f uh  its a little tough because thats when im usually making dinner and the kids are wanting to talk all at the same time ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c so, } usually i don't get a whole lot of news watching in. /""]",c so  usually i dont get a whole lot of news watching in ,sd,FEMALE,1
+"['yes,  /']",yes  ,b,FEMALE,2
+"[""we watch c n n in morning while we're getting ready --""]",we watch c n n in morning while were getting ready ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- for the day and eating breakfast.  /'], for the day and eating breakfast  ,+,FEMALE,0
+"[""we'll catch our news that way.  /""]",well catch our news that way  ,sd,FEMALE,1
+"[""watch the weather channel so that we know what the weather's going to be like. /""]",watch the weather channel so that we know what the weathers going to be like ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+['{d so } what have you seen interesting on oprah  winfrey lately? /'],d so  what have you seen interesting on oprah  winfrey lately ,qw,FEMALE,12
+"[""lately, i haven't been catching it because of my work schedule. /""]",lately i havent been catching it because of my work schedule ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } <<pause>> i can't remember the last time i saw it.  /""]",f uh  pause i cant remember the last time i saw it  ,sd,FEMALE,1
+"[""it's been a while. /""]",its been a while ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""<lipsmack> {d well, } i don't know if we've talked our full three <noise> minutes or not <laughter>. /""]",lipsmack d well  i dont know if weve talked our full three noise minutes or not laughter ,sd,FEMALE,1
+"[""<laughter> i don't know,  /""]",laughter i dont know  ,sd,FEMALE,1
+"['sometimes they come on [ and, + and ] say. /']",sometimes they come on  and  and  say ,sd,FEMALE,1
+"[""{f oh, } that's right. /""]",f oh  thats right ,aa,FEMALE,4
+"[""{d well, } today on c n n they were talking about something like this about, {f uh, } learning to recognize voices and words and stuff and the research <noise> that's going on which is kind of what we're doing, helping them get a data base for words. /""]",d well  today on c n n they were talking about something like this about f uh  learning to recognize voices and words and stuff and the research noise thats going on which is kind of what were doing helping them get a data base for words ,sd,FEMALE,1
+"['{f um, } yeah. /']",f um  yeah ,b,FEMALE,2
+['it was really interesting. /'],it was really interesting ,sv,FEMALE,3
+['it is interesting.  /'],it is interesting  ,aa,FEMALE,4
+"['{d so, } -/']",d so  ,%,FEMALE,5
+['do you work for texas instruments? /'],do you work for texas instruments ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"['just, {f uh, } doing this as a fund-raiser for our church. /']",just f uh  doing this as a fundraiser for our church ,sd,FEMALE,1
+"[""{f oh, } that's nice. /""]",f oh  thats nice ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{c so } it kind of makes it easy, {d you know, } to do a little something for it. /']",c so  it kind of makes it easy d you know  to do a little something for it ,sd,FEMALE,1
+"['sure,  /']",sure  ,b,FEMALE,2
+"[""{c because } [ we, + {f uh, } we've ] talked to a lot of people from texas, it seems,  /""]",c because   we  f uh  weve  talked to a lot of people from texas it seems  ,sd,FEMALE,1
+"['{c and } we thought, {d well, } maybe they work [ from, + for ] dallas, -/']",c and  we thought d well  maybe they work  from  for  dallas ,sd,FEMALE,1

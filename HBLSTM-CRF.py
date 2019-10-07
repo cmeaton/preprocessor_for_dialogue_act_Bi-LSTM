@@ -4,7 +4,7 @@ import time
 # from swda_data import load_file
 import os
 import glob
-from word_embedding import read_data, strucutre_words, structure_labels, flatten, replace
+from swbd_preprocessor import read_data, strucutre_words, structure_labels, flatten, replace
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "4,5,6,7"
 print(tf.__version__)
@@ -105,8 +105,8 @@ tags = 39
 word_dim = 300
 proj1 = 200 # still unsure about this hyperparameter
 proj2 = 100 # still unsure about this hyperparameter
-words = 20001
-batchSize = 64 
+words = 1620912
+batchSize = 1
 drop = 0.2
 
 log_dir = "train"
@@ -205,7 +205,7 @@ class DAModel():
             log_likelihood, self.trans_params = tf.contrib.crf.crf_log_likelihood(
                         self.logits, self.labels, self.dialogue_lengths)
             self.loss = tf.reduce_mean(-log_likelihood) + tf.nn.l2_loss(W) + tf.nn.l2_loss(b)
-            #tf.summary.scalar("loss", self.loss)
+            # tf.summary.scalar("loss", self.loss)
         
 
         with tf.variable_scope("viterbi_decode"):
@@ -251,24 +251,19 @@ def main():
 
     # data = [[["hey how are you?"], ["I am fine, and you?"], ["I am fine, too."]], [["My name is Jason, what's your name?"],["My name is Tina."],["Nice to meet you."],["Nice to meet you, too,"]]]
     # data = [[[1], [2], [3]],[[1], [2], [3], [1]]]
-    # labels = [[1,2,3], [4,3,2,1]]
+    # labels = [[[1,2,3], [4,3,2,1]]]
 
     path = glob.glob(r'C:\Users\conno\code\nlp\swda\swda_parsed\*.csv')
     values = strucutre_words(read_data(path))
-    labels = structure_labels(read_data(path))
+    labels = structure_labels(read_data(path))   
     mapping, val, lab = flatten(values)
     data = replace(values,lab)
 
-    # according to paper...conversation number per set: train - 1003, val - 112, test - 19
-    train_data = data[:(int(len(data)*.6))]
+    according to paper...conversation number per set: train - 1003, val - 112, test - 19
+    train_data = data[:(int(len(data)*.8))]
     train_labels = labels[:(int(len(labels)*.8))]
-    dev_data = data[(int(len(data)*.4)):]
+    dev_data = data[(int(len(data)*.2)):]
     dev_labels = labels[(int(len(labels)*.2)):]
-
-    train_data = data[:1003]
-    train_labels = labels[:1003]
-    dev_data = data[(:]
-    dev_labels = labels[(:]
 
     config = tf.ConfigProto()
     config.gpu_options.per_process_gpu_memory_fraction = 0.4
@@ -281,7 +276,7 @@ def main():
         #writer = tf.summary.FileWriter("D:\\Experimemts\\tensorflow\\DA\\train", sess.graph)
         writer = tf.summary.FileWriter("train", sess.graph)
         counter = 0
-        for epoch in range(100):
+        for epoch in range(1):
             
             
             for dialogues, labels in minibatches(train_data, train_labels, batchSize):
@@ -304,10 +299,10 @@ def main():
                     tag='train_loss', simple_value=train_loss)
                 writer.add_summary(train_loss_summ, counter)
                 
-                if counter % 1000 == 0:
+                if counter % 4 == 0:
                     loss_dev = []
                     acc_dev = []
-                    for dialogues, labels in minibatches(dev_data, dev_labels, batchSize):
+                    for dev_dialogues, dev_labels in minibatches(dev_data, dev_labels, batchSize):
                         _, dialogue_lengthss = pad_sequences(dev_dialogues, 0)
                         word_idss, utterance_lengthss = pad_sequences(dev_dialogues, 0, nlevels = 2)
                         true_labs = dev_labels
@@ -329,7 +324,7 @@ def main():
                         tag='dev_loss', simple_value=valid_loss)
                     writer.add_summary(dev_loss_summ, counter)
                     print("counter = {}, dev_loss = {}, dev_accuacy = {}".format(counter, valid_loss, valid_accuracy))
-                    saver.save(sess, 'my-model', global_step=counter)
+                    # saver.save(sess, 'my-model', global_step=counter)
                 
 if __name__ == "__main__":
     main()

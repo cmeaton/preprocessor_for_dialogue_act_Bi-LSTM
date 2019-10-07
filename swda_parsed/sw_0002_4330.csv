@@ -1,0 +1,111 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } {f uh, } does the company you work for test for drugs? /']",d well  f uh  does the company you work for test for drugs ,qy,FEMALE,7
+"['{d actually, } {f uh, } they just recently started a policy of testing drugs, which was kind of interesting,  /']",d actually  f uh  they just recently started a policy of testing drugs which was kind of interesting  ,na,MALE,21
+"[""{c because } [ w-, + when ] i went to work for them, {f uh, } they didn't do that,  /""]",c because   w  when  i went to work for them f uh  they didnt do that  ,sd,MALE,1
+"[""{c but, } {f uh, } since then [ they've, + they've ] started a drug testing policy, not because of their own, {f uh, } convictions, but because the clients of our company [ are + ] requests that we do that. /""]",c but  f uh  since then  theyve  theyve  started a drug testing policy not because of their own f uh  convictions but because the clients of our company  are   requests that we do that ,sd,MALE,1
+['{f huh. } /'],f huh  ,%,FEMALE,5
+['how about you? /'],how about you ,qo,MALE,25
+"['{f uh, } no,  /']",f uh  no  ,nn,FEMALE,13
+"[""we're not being tested for drugs at all, {f uh, }  /""]",were not being tested for drugs at all f uh   ,sd,FEMALE,1
+"['our policies and procedures manual, {f uh, } the furthest it goes about drugs is in [ the, + kind of the ] miscellaneous section, or --']",our policies and procedures manual f uh  the furthest it goes about drugs is in  the  kind of the  miscellaneous section or ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- it's reasons for immediate dismissal,  /""]", its reasons for immediate dismissal  ,+,FEMALE,0
+"['it says, use of narcotics on company premises. /']",it says use of narcotics on company premises ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,MALE,5
+"[""{c so } that's pretty general,  /""]",c so  thats pretty general  ,sv,FEMALE,3
+"['{c but, } {f uh, } i work for an environmental management firm -- /']",c but  f uh  i work for an environmental management firm  ,sd,FEMALE,1
+['<laughter> okay. /'],laughter okay ,b,MALE,2
+"[""-- {c and } i'm an engineer there,  /""]", c and  im an engineer there  ,sd,FEMALE,1
+"['{c but } i do go on a lot of hazardous waste sites,  /']",c but  i do go on a lot of hazardous waste sites  ,sd,FEMALE,1
+"[""{c but } i don't operate any machinery. /""]",c but  i dont operate any machinery ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d now, } people for our company that do operate machinery like drill rigs and things like that --']",d now  people for our company that do operate machinery like drill rigs and things like that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- are under [ a, + a ] medical monitoring program,  /']", are under  a  a  medical monitoring program  ,+,FEMALE,0
+"[""{c because } they're at a higher risk of exposure  /""]",c because  theyre at a higher risk of exposure  ,sd,FEMALE,1
+['{c and } blood screening is part of that  /'],c and  blood screening is part of that  ,sd,FEMALE,1
+"['{c and } [ i, + i ] think that drugs, - /']",c and   i  i  think that drugs  ,sd,FEMALE,1
+"['they do test for drugs in that capacity,  /']",they do test for drugs in that capacity  ,sd,FEMALE,1
+"[""{c but } it's not their exclusive, - /""]",c but  its not their exclusive  ,sd,FEMALE,1
+"[""[ it's just part, + it's just something ] that turns up in the other parameters that they test for. /""]", its just part  its just something  that turns up in the other parameters that they test for ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c but } i think it's got a little more relevance since they are around dangerous equipment and things like that and do have to exercise some quick judgment in the field.  /""]",c but  i think its got a little more relevance since they are around dangerous equipment and things like that and do have to exercise some quick judgment in the field  ,sv,FEMALE,3
+"[""what is the nature of your company's business? /""]",what is the nature of your companys business ,qw,FEMALE,12
+"[""{d well, } it's actually, {f uh, } - /""]",d well  its actually f uh   ,^h,MALE,27
+['we do oil well services.  /'],we do oil well services  ,sd,MALE,1
+"['{c so, } a lot of our clients are [ oil companies, + big oil companies, ]  /']",c so  a lot of our clients are  oil companies  big oil companies   ,sd,MALE,1
+"['{c and } they go out to, - /']",c and  they go out to  ,sd,MALE,1
+"[""<inhaling> we have engineers who, {f uh, } go out [ to the oil well, + <thumping> [ to the, + to the ] client's oil well, ] [ and, + and ] work with a lot of heavy equipment and put tools down the oil well and stuff,  /""]",inhaling we have engineers who f uh  go out  to the oil well  thumping  to the  to the  clients oil well   and  and  work with a lot of heavy equipment and put tools down the oil well and stuff  ,sd,MALE,1
+"[""{c so } the clients are very concerned that, {d you know, } the engineers who go out there are adhering to their drug policy, because they're on [ their, + their, ] {d you know, } territory and everything,  /""]",c so  the clients are very concerned that d you know  the engineers who go out there are adhering to their drug policy because theyre on  their  their  d you know  territory and everything  ,sd,MALE,1
+['{c but } --'],c but  ,sv,MALE,3
+['{f um. } /'],f um  ,%,FEMALE,5
+"[""-- the thing that's interesting is that [ i w-, + i'm an ] engineer [ and, + ] a software engineer  /""]", the thing thats interesting is that  i w  im an  engineer  and   a software engineer  ,+,MALE,0
+"['{c and } i work in the software, {f uh, } house,  /']",c and  i work in the software f uh  house  ,sd,MALE,1
+"['{c and } everybody there, {d you know, } are all software engineers.  /']",c and  everybody there d you know  are all software engineers  ,sd,MALE,1
+"[""[ they've never, + {d you know, } they never ] go out to [ the, + the ] oil rigs or anything,  /""]", theyve never  d you know  they never  go out to  the  the  oil rigs or anything  ,sd,MALE,1
+"[""{c and } yet, [ we're getting, + we're subjected ] to this policy, {d you know, } the same one that, {f uh, } [ th-, + all the ] engineers have [ to, + to, ] - /""]",c and  yet  were getting  were subjected  to this policy d you know  the same one that f uh   th  all the  engineers have  to  to   ,sd,MALE,1
+"['{d well, } a little different, actually, - /']",d well  a little different actually  ,h,MALE,15
+"['{c but, } {f uh, } {d you know, } we have to go through the same thing,  /']",c but  f uh  d you know  we have to go through the same thing  ,sd,MALE,1
+"[""[ [ {c and } it's, + {c but } it's, ] + {f uh, } it's ] a little different, i guess [ than + <noise>, than ] a lot of drug policies.  /""]",  c and  its  c but  its   f uh  its  a little different i guess  than  noise than  a lot of drug policies  ,sv,MALE,3
+"[""in our case, it's like, when you hire on, they'll test you,  /""]",in our case its like when you hire on theyll test you  ,sd,MALE,1
+"['{c and } then if you get injured on the job, if you {d like } trip and fall or something, {f uh, } they give you a drug test right away.  /']",c and  then if you get injured on the job if you d like  trip and fall or something f uh  they give you a drug test right away  ,sd,MALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+"[""other than that they don't have random testing or anything like that,  /""]",other than that they dont have random testing or anything like that  ,sd,MALE,1
+"['{c but, } a lot of people were really upset with the policy at first.  /']",c but  a lot of people were really upset with the policy at first  ,sd,MALE,1
+"['particularly, {d like } <laughter>, {f uh, } we have a lot of parties and stuff where they serve alcohol,  /']",particularly d like  laughter f uh  we have a lot of parties and stuff where they serve alcohol  ,sd,MALE,1
+"[""{c and } [ tha-, + they ] didn't find any problem with that, {d you know, }  /""]",c and   tha  they  didnt find any problem with that d you know   ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+['right. /'],right ,aa,FEMALE,4
+"['{f uh, } -/']",f uh  ,%,MALE,5
+"[""[ we, + that's ] been [ [ an, + a, ] + an ] issue, {f uh, } in our company even though we don't have the random or even regular drug screening.  /""]", we  thats  been   an  a   an  issue f uh  in our company even though we dont have the random or even regular drug screening  ,sd,FEMALE,1
+"[""((in fact)), they'll <laughter> have these little parties,  /""]",in fact theyll laughter have these little parties  ,sd,FEMALE,1
+"['{c and } people will just get, - /']",c and  people will just get  ,sd,FEMALE,1
+"[""{e i mean, } i've, - /""]",e i mean  ive  ,%,FEMALE,5
+"['my brother lives where i work,  /']",my brother lives where i work  ,sd,FEMALE,1
+"['{c and } i have many a time called him to come get me, {d you know. }  /']",c and  i have many a time called him to come get me d you know   ,sd,FEMALE,1
+"[""[ {c and, } + {f uh, } {f uh, } {c but, } ] [ y-, + {d you know, } ] they don't think twice about serving beer by the keg.""]", c and   f uh  f uh  c but    y  d you know   they dont think twice about serving beer by the keg,sd,FEMALE,1
+['yeah <laughter>. /'],yeah laughter ,b,MALE,2
+"['{d you know, }  /']",d you know   ,+,FEMALE,0
+"['{c but, } {f uh, } i think drug testing, - /']",c but  f uh  i think drug testing  ,sv,FEMALE,3
+"[""{c and } [ i, + i ] don't know,  /""]",c and   i  i  dont know  ,h,FEMALE,15
+"[""[ [ i guess + i k-, ] + i think ] it's got some relevance,  /""]",  i guess  i k   i think  its got some relevance  ,sv,FEMALE,3
+['{c but } i think its relevance is pretty limited.  /'],c but  i think its relevance is pretty limited  ,sv,FEMALE,3
+"['{e i mean, } i think, {d you know, } - /']",e i mean  i think d you know   ,sv,FEMALE,3
+"[""in your case, i don't think that you should necessarily be subjected to drug testing. /""]",in your case i dont think that you should necessarily be subjected to drug testing ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""i think that's an interesting policy your company has about testing immediately after an on the job accident. /""]",i think thats an interesting policy your company has about testing immediately after an on the job accident ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ it's really, + it's really ] bizarre.  /""]", its really  its really  bizarre  ,sv,MALE,3
+"['{f uh, } particularly, {d like } where we are, {d you know. }  /']",f uh  particularly d like  where we are d you know   ,sd,MALE,1
+"['[ i, + i, ] - /']", i  i   ,%,MALE,5
+"['there was a story of a woman last year [ who, + who ] actually did slip on the ice [ and, + and ] {d like } sprained her ankle  /']",there was a story of a woman last year  who  who  actually did slip on the ice  and  and  d like  sprained her ankle  ,sd,MALE,1
+"['{c and } [ she, + she ] was a personnel secretary  /']",c and   she  she  was a personnel secretary  ,sd,MALE,1
+['{c and } she <laughter> had to get tested  /'],c and  she laughter had to get tested  ,sd,MALE,1
+"[""{c and, } i don't know  /""]",c and  i dont know  ,h,MALE,15
+"[""i'm ambivalent about the whole thing.  /""]",im ambivalent about the whole thing  ,sd,MALE,1
+"[""[ i, + {d you know, } i ] have a lot of mixed feelings about on the one hand, it's like if, {d you know, } - /""]", i  d you know  i  have a lot of mixed feelings about on the one hand its like if d you know   ,sd,MALE,1
+"[""[ they're, + they should ] be able to make it as a continue of employment in some sense  /""]", theyre  they should  be able to make it as a continue of employment in some sense  ,sv,MALE,3
+"[""{c and, } {d you know, } it's like [ you're, + {e i mean, } employments are ] contractual by nature anyway -- /""]",c and  d you know  its like  youre  e i mean  employments are  contractual by nature anyway  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but, } {f uh, } i had an experience when i was interviewing for a job [ that, + ] where i had to, {f uh, } {f uh, } do a drug test  /']", c but  f uh  i had an experience when i was interviewing for a job  that   where i had to f uh  f uh  do a drug test  ,sd,MALE,1
+"[""[ {c and, } + {c and } ] [ it's, + it was ] kind of a long story,  /""]", c and   c and    its  it was  kind of a long story  ,sd,MALE,1
+"['{c but } [ it was, + it was ] just an incredibly humiliating experience what i went through,  /']",c but   it was  it was  just an incredibly humiliating experience what i went through  ,sv,MALE,3
+"['{c and } it amounted to, {f uh, } going in, {f uh, } before any of these interviews,  /']",c and  it amounted to f uh  going in f uh  before any of these interviews  ,sd,MALE,1
+"[""i'm not even working for this company,  /""]",im not even working for this company  ,sd,MALE,1
+"[""i'm going in for, {d like, } interviews  /""]",im going in for d like  interviews  ,sd,MALE,1
+['{c and } they flew me out to chicago  /'],c and  they flew me out to chicago  ,sd,MALE,1
+"['[ {c and, } + {c and, } ] {f uh, } before i went into any of the interviews, {f uh, } they took me to the doctor to give me a physical.  /']", c and   c and   f uh  before i went into any of the interviews f uh  they took me to the doctor to give me a physical  ,sd,MALE,1
+"['they said it was going to be a physical, {d you know, }  /']",they said it was going to be a physical d you know   ,sd,MALE,1
+"['{c and, } {f uh, } {d actually } [ bec-, + beforehand ] they told me they were going to, {f uh, } do drug screening,  /']",c and  f uh  d actually   bec  beforehand  they told me they were going to f uh  do drug screening  ,sd,MALE,1
+"['{c but } i had forgotten about that,  /']",c but  i had forgotten about that  ,sd,MALE,1
+"[""{c and so, } basically, i'd already peed off ((in)) that morning  /""]",c and so  basically id already peed off in that morning  ,sd,MALE,1
+"[""[ {c and, } + {c and } ] when i got in there, [ i didn't, + i wasn't, ] {d like, } able to give a full sample,  /""]", c and   c and   when i got in there  i didnt  i wasnt  d like  able to give a full sample  ,sd,MALE,1
+['{c and so } --'],c and so  ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- they made me sit and wait for forty-five minutes, drink a whole ton of water --']", they made me sit and wait for fortyfive minutes drink a whole ton of water ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"['-- before <laughter> i went to any of the interviews and go in there again, - /']", before laughter i went to any of the interviews and go in there again  ,+,MALE,0
+"['[ {c and } the, + {c and } [ the, + the ] ] procedure is utterly humiliating.  /']", c and  the  c and   the  the   procedure is utterly humiliating  ,sv,MALE,3
+"['you go in there with the doctor,  /']",you go in there with the doctor  ,sd,MALE,1
+['he makes you take off all your clothes  /'],he makes you take off all your clothes  ,sd,MALE,1
+['{c and then } he examines you. /'],c and then  he examines you ,sd,MALE,1

@@ -1,0 +1,219 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""how's the weather been out there? /""]",hows the weather been out there ,qw,FEMALE,12
+"[""{d well, } the last three days it's been pretty rainy.  /""]",d well  the last three days its been pretty rainy  ,sd,MALE,1
+['we went to the beach -- /'],we went to the beach  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, } {f uh, } it started, {f uh, } let's see, around four o'clock, /""]", c and  f uh  it started f uh  lets see around four oclock ,sd,MALE,1
+['<noise> <<sound like pans rattling>>. /'],noise sound like pans rattling ,x,FEMALE,8
+"['{c and, } {f uh, } it had thunder and lightning,  /']",c and  f uh  it had thunder and lightning  ,sd,MALE,1
+"['[ it was, + {c and then, } {d you know, } it was ] just overcast and rainy for, {f uh, } the next two or three days straight.  /']", it was  c and then  d you know  it was  just overcast and rainy for f uh  the next two or three days straight  ,sd,MALE,1
+['how about yours? /'],how about yours ,qo,MALE,25
+"[""it's pretty normal for this year, {d you know, } {f uh, }  /""]",its pretty normal for this year d you know  f uh   ,sd,FEMALE,1
+"['they have tornados about once a week,  /']",they have tornados about once a week  ,sd,FEMALE,1
+['{c and } it rains about every three days.  /'],c and  it rains about every three days  ,sd,FEMALE,1
+"[""the last two years before, they've had record rainfall.  /""]",the last two years before theyve had record rainfall  ,sd,FEMALE,1
+"[""by this time of the year they'd had enough rainfall for the whole year,  /""]",by this time of the year theyd had enough rainfall for the whole year  ,sd,FEMALE,1
+"[""{c but } this time we're only, {f um, } i think, maybe five inches ahead [ of, + of, ] {f uh, } normal. /""]",c but  this time were only f um  i think maybe five inches ahead  of  of  f uh  normal ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so } it's not been bad at all. /""]",c so  its not been bad at all ,sd,FEMALE,1
+"[""you're from virginia? /""]",youre from virginia ,qy^d,MALE,16
+"[""i'm from texas. /""]",im from texas ,ng,FEMALE,29
+"['{f oh, } from texas. /']",f oh  from texas ,bk,MALE,14
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+"['{c and, } {f uh } <throat_clearing>, -/']",c and  f uh  throatclearing ,%,FEMALE,5
+['i heard they had some flooding down there. /'],i heard they had some flooding down there ,sd,MALE,1
+"['{f um, } they had some flooding in houston the other day, real, real bad --']",f um  they had some flooding in houston the other day real real bad ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- [ over, + i think it was over ] the weekend. /']",  over  i think it was over  the weekend ,+,FEMALE,0
+['{f um. } /'],f um  ,b,MALE,2
+['the radar just looked nasty --'],the radar just looked nasty ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- with a bunch of red splotches all across it. /'], with a bunch of red splotches all across it ,+,FEMALE,0
+"[""{d well, } the last couple of years, [ we're, + {f um, } we're ] over as far as our rainfall goes.  /""]",d well  the last couple of years  were  f um  were  over as far as our rainfall goes  ,sd,MALE,1
+"['before that it was really dry,  /']",before that it was really dry  ,sd,MALE,1
+"['{c and, } {f uh, }']",c and  f uh ,sd,MALE,1
+"['everybody was, {d you know, } talking about rationing water and doing this and  doing that.  /']",everybody was d you know  talking about rationing water and doing this and  doing that  ,+,MALE,0
+"['not really rationing water, but just cutting down. /']",not really rationing water but just cutting down ,sd,MALE,1
+"[""[ that's, +""]", thats ,aa,FEMALE,4
+"['{c and, } {f uh, }']",c and  f uh ,sd,MALE,1
+"[""that's ] right. /""]",thats  right ,+,FEMALE,0
+"['it seems like, {f uh, } {d you know, } the weather pattern is just shifting, and,  {f uh, } that, {f uh, } jet stream is moving, {f uh, } into our area, north carolina --']",it seems like f uh  d you know  the weather pattern is just shifting and  f uh  that f uh  jet stream is moving f uh  into our area north carolina ,+,MALE,0
+"['((   ))  there y-, -/']",     there y ,%,FEMALE,5
+"['-- and across,  /']", and across  ,+,MALE,0
+"[""{c but } it's, {f uh, } changing latitude. /""]",c but  its f uh  changing latitude ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['{c so } you get a lot more rain that way. /'],c so  you get a lot more rain that way ,bf,FEMALE,20
+"['{f oh, } yeah. /']",f oh  yeah ,aa,MALE,4
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['<<pause>> brings in that cold air  /'],pause brings in that cold air  ,sd,FEMALE,1
+"['{c and } mixes it [ with the, + with the ] warm air coming off the atlantic ocean. /']",c and  mixes it  with the  with the  warm air coming off the atlantic ocean ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""that's what, -/""]",thats what ,%,FEMALE,5
+"[""it's finally cleared up.  /""]",its finally cleared up  ,sd,MALE,1
+"[""it's just now [ st-, + still ] a little overcast,  /""]",its just now  st  still  a little overcast  ,sd,MALE,1
+"['[ {c but } the s-, + {c but } the sun ] has finally started popping out. /']", c but  the s  c but  the sun  has finally started popping out ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['is the temperature {d like } [ sixty-, + sixties ] to eighties there too,  /']",is the temperature d like   sixty  sixties  to eighties there too  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['{f oh } yeah,  /']",f oh  yeah  ,ny,MALE,9
+"[""{d well, } right now, as a matter of fact i'm fixing to go play tennis.  /""]",d well  right now as a matter of fact im fixing to go play tennis  ,sd,MALE,1
+"[""[ it's, + {f um, } i'd say it's ] at least seventy-nine, eighty, {d well, } about seventy-eight, seventy-nine degrees. /""]", its  f um  id say its  at least seventynine eighty d well  about seventyeight seventynine degrees ,sd,MALE,1
+"['{f um, } do you get east winds a lot of the time from the ocean  /']",f um  do you get east winds a lot of the time from the ocean  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"[""{f um, } {d actually } [ the, + {f uh, } the ] wind normally blows, let's see, {a let me think about this, } south, southwest. /""]",f um  d actually   the  f uh  the  wind normally blows lets see a let me think about this  south southwest ,arp_nd,MALE,34
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{f uh, } [ {c but } a-, + {c but } {d actually } ] [ our, + i guess our ] weather pattern [ comes from the, + {f uh, } blows ] north east,  /']",f uh   c but  a  c but  d actually    our  i guess our  weather pattern  comes from the  f uh  blows  north east  ,ar,MALE,28
+['yeah -- /'],yeah  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- you're right,  /""]", youre right  ,sd,MALE,1
+['it blows north east. /'],it blows north east ,sd,MALE,1
+"[""that's the way it does here most of the time. /""]",thats the way it does here most of the time ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but, } {f uh, } sometimes it just comes straight from the north  /']",c but  f uh  sometimes it just comes straight from the north  ,sd,FEMALE,1
+"[""[ {c and then } it, + {c and  then } it ] doesn't veer off to the east until you get down to houston, [ or, + or, ]  {f uh, } maybe [ mid, + mid-texas -- ] /""]", c and then  it  c and  then  it  doesnt veer off to the east until you get down to houston  or  or   f uh  maybe  mid  midtexas   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- depends on how strong the cold fronts are. /'], depends on how strong the cold fronts are ,sd,FEMALE,1
+"['[ how f-, + how far ] are you from houston? /']", how f  how far  are you from houston ,qw,MALE,12
+"[""{f um, } {d well, } {f uh, } richardson's a suburb of dallas. /""]",f um  d well  f uh  richardsons a suburb of dallas ,sd,FEMALE,1
+"['{f oh, } i see,  /']",f oh  i see  ,bk,MALE,14
+"[""[ {c so } you, + {c so } ] [ you don't hav-, + you don't get ] anything off the gulf, {f uh, } immediately [ from, + from ] the ocean. /""]", c so  you  c so    you dont hav  you dont get  anything off the gulf f uh  immediately  from  from  the ocean ,qy^d,MALE,16
+"[""hardly ever, unless there's a hurricane or something like that. /""]",hardly ever unless theres a hurricane or something like that ,ng,FEMALE,29
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{d well, } {f uh, } it's kind of early f-, - /""]",d well  f uh  its kind of early f  ,%,FEMALE,5
+"[""i was going to say, the weather man [ on, + on, ] {f uh, } one of our stations was talking about the way that the weather's doing now is like tropical weather,  /""]",i was going to say the weather man  on  on  f uh  one of our stations was talking about the way that the weathers doing now is like tropical weather  ,sd,FEMALE,1
+"[""{c and } he was afraid if it kept doing that, that they'd have [ er-, + early ] hurricanes this year. /""]",c and  he was afraid if it kept doing that that theyd have  er  early  hurricanes this year ,sd,FEMALE,1
+"[""{f um. }  {d well, } we've had some, {d you know, } [ pretty, + pretty ] rough winds.  /""]",f um   d well  weve had some d you know   pretty  pretty  rough winds  ,sd,MALE,1
+"['{f oh, } {f uh, } [ bangle-, + bangladesh, ] boy, [ they, + they ] caught it bad <laughter>. /']",f oh  f uh   bangle  bangladesh  boy  they  they  caught it bad laughter ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['kind of wiped them ou-, /']",kind of wiped them ou ,sv,FEMALE,3
+"[""{c but } we'll probably have our share of the hurricanes.  /""]",c but  well probably have our share of the hurricanes  ,sv,MALE,3
+"['i know, {f uh, } hurricane hugo,  /']",i know f uh  hurricane hugo  ,sd,MALE,1
+['you probably heard about that. /'],you probably heard about that ,qy^d,MALE,16
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{f uh, } last year. /']",f uh  last year ,sd,MALE,1
+['wiped everything out. /'],wiped everything out ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""{c and } they're still, {f uh, } <throat_clearing> rebuilding from that storm,  /""]",c and  theyre still f uh  throatclearing rebuilding from that storm  ,sd,MALE,1
+"['{c and so } [ the, + the ] beaches here just get really beat up <<pause>>  /']",c and so   the  the  beaches here just get really beat up pause  ,sd,MALE,1
+['{c and } it usually comes this way <laughter>. /'],c and  it usually comes this way laughter ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['it comes up from, {f uh, } miami --']",it comes up from f uh  miami ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } down [ around, + {e or, } {d you know, } around ] the bahamas,  /']", f uh  down  around  e or  d you know  around  the bahamas  ,+,MALE,0
+"['{c and } it usually travels, {f uh, } northwest,  /']",c and  it usually travels f uh  northwest  ,sd,MALE,1
+"[""{c and, } {f uh, } it'll go up the coast quite a ways before it finally hits. /""]",c and  f uh  itll go up the coast quite a ways before it finally hits ,sd,MALE,1
+"['[ do y-, + do you ] get many tornados this time of year  /']", do y  do you  get many tornados this time of year  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"[""{f um, } let's see,  /""]",f um  lets see  ,^h,MALE,27
+"['two years ago we had one,  /']",two years ago we had one  ,sd,MALE,1
+['as a matter of fact it went within a mile of my house. /'],as a matter of fact it went within a mile of my house ,sd,MALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+"['{c and, } {f um, } it was real odd.  /']",c and  f um  it was real odd  ,sd,MALE,1
+"['the [ m-, + barometric ] pressure drops during a tornado,  /']",the  m  barometric  pressure drops during a tornado  ,sd,MALE,1
+"['{c and } our, {f uh, } fire alarm went off. /']",c and  our f uh  fire alarm went off ,sd,MALE,1
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"['{c so } of course that woke everybody up,  /']",c so  of course that woke everybody up  ,sd,MALE,1
+"['{c and } we knew what was going on, to, {f uh, } {d you know, } go downstairs or go into the [ bedro-, + bathroom ] and, {f uh, } take cover. /']",c and  we knew what was going on to f uh  d you know  go downstairs or go into the  bedro  bathroom  and f uh  take cover ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['{c but, } {f uh, } we get, {f uh, } - /']",c but  f uh  we get f uh   ,%,MALE,5
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""[ [ we're, + we're, ] + {f uh, } we get ] our share of tornados. /""]",  were  were   f uh  we get  our share of tornados ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{c and, } {f uh, } the, {f uh, } {f uh, } - /']",c and  f uh  the f uh  f uh   ,%,FEMALE,5
+"[""[ you, + you ] aren't in the mountains or anything like that, are you? /""]", you  you  arent in the mountains or anything like that are you ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+['huh-uh. /'],huhuh ,nn,MALE,13
+"[""[ there's just hil-, + there's just hills. ] /""]", theres just hil  theres just hills  ,qy^d,FEMALE,16
+"[""we're about two hours from the beach. /""]",were about two hours from the beach ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so, } {f uh, } {d you know, } [ it's, + {f uh, } barometric pressure i believe is ] higher in the mountains,  /""]",c so  f uh  d you know   its  f uh  barometric pressure i believe is  higher in the mountains  ,sd,MALE,1
+"['{c and } [ we cat-, + we catch ] [ some winds, + {d you know, } a few winds ] coming off of them, i think. /']",c and   we cat  we catch   some winds  d you know  a few winds  coming off of them i think ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c but, } {f uh, } let's see,  /""]",c but  f uh  lets see  ,^h,MALE,27
+"['you all just had a tornado, {f uh, } over close to oklahoma and texas? /']",you all just had a tornado f uh  over close to oklahoma and texas ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['[ they, + they ] had a lot of them.  /']", they  they  had a lot of them  ,sd,FEMALE,1
+"['they had [ a, + a ] huge one that was on, {f um, } inside edition the other night, in, {f uh, } the southern part of kansas. /']",they had  a  a  huge one that was on f um  inside edition the other night in f uh  the southern part of kansas ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f um, } they took a bunch of film of it.  /']",f um  they took a bunch of film of it  ,sd,FEMALE,1
+"['it, {f uh, } kind of chased them.  /']",it f uh  kind of chased them  ,sd,FEMALE,1
+['it was a few hundred yards away  /'],it was a few hundred yards away  ,sd,FEMALE,1
+"['{c and } it chased them under an underpass,  /']",c and  it chased them under an underpass  ,sd,FEMALE,1
+['{c and } it was tossing around the car --'],c and  it was tossing around the car ,sd,FEMALE,1
+"['{f oh, } gosh. /']",f oh  gosh ,ba,MALE,6
+"['-- right before it got there,  /']", right before it got there  ,+,FEMALE,0
+['{c and } it tore up the people inside the car. /'],c and  it tore up the people inside the car ,sd,FEMALE,1
+"['{f oh, } did it? /']",f oh  did it ,bh,MALE,18
+"['{c and } [ the n-, + the camera ] man on the news crew held the camera out,  /']",c and   the n  the camera  man on the news crew held the camera out  ,sd,FEMALE,1
+"['they were hiding underneath the underpass,  /']",they were hiding underneath the underpass  ,sd,FEMALE,1
+['{c and } he held the camera out as the tornado went by. /'],c and  he held the camera out as the tornado went by ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,MALE,2
+"['{c and } [ [ y-, + the, ] + the wind, + ] {d you know, } it had a mike on it,  /']",c and    y  the   the wind   d you know  it had a mike on it  ,sd,FEMALE,1
+['{c and } the wind and  everything was incredible. /'],c and  the wind and  everything was incredible ,sd,FEMALE,1
+['{f um. }  boy i would have like to have heard that.  /'],f um   boy i would have like to have heard that  ,sd,MALE,1
+"['that [ cou-, + would ] have been  something. /']",that  cou  would  have been  something ,sv,MALE,3
+"[""i'm surprised they didn't, [ they, + because we ] saw it on the news a couple of days in a row  /""]",im surprised they didnt  they  because we  saw it on the news a couple of days in a row  ,sd,FEMALE,1
+"['[ [ {c and } that, + {c and } you know, ] + {c and } that ] was way up in kansas. /']",  c and  that  c and  you know   c and  that  was way up in kansas ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but } over here, [ it's a lot, + it's a big thing ] about tornados and people that get pictures of them. /""]",c but  over here  its a lot  its a big thing  about tornados and people that get pictures of them ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['i used to live in amarillo originally. /'],i used to live in amarillo originally ,sd,MALE,1
+['yeah -- /'],yeah  ,b,FEMALE,2
+"[""{c so } i'm, -/""]",c so  im ,%,MALE,5
+['-- you can really see them well there. /'], you can really see them well there ,qy^d,FEMALE,16
+['oh yeah.  /'],oh yeah  ,ny,MALE,9
+"['<laughter> [ we used to sit out, {f uh, } + especially in borger, we use to sit out ] on our back, {f uh, } picnic table and watch them come out of the sky through the funnel clouds -- /']",laughter  we used to sit out f uh   especially in borger we use to sit out  on our back f uh  picnic table and watch them come out of the sky through the funnel clouds  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- {c and } the only time we got worried is if it hit the ground.  /'], c and  the only time we got worried is if it hit the ground  ,sd,MALE,1
+"[""{c but } otherwise we'd just sit back there and watch them go in and out of those clouds. /""]",c but  otherwise wed just sit back there and watch them go in and out of those clouds ,sd,MALE,1
+"[""it's really strange the way it does that. /""]",its really strange the way it does that ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['especially the way it starts.  /'],especially the way it starts  ,sv,FEMALE,3
+"['it starts, {d you know, } just like a little swirl in the clouds,  /']",it starts d you know  just like a little swirl in the clouds  ,sd,FEMALE,1
+"['[ {c and, } + {c and, } ] {f uh, } then it just grows from there. /']", c and   c and   f uh  then it just grows from there ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""[ [ {c and } it, + {c and, } ] + {c and } usually it's ] not even raining when it starts.  /""]",  c and  it  c and    c and  usually its  not even raining when it starts  ,sd,FEMALE,1
+"[""it's just. -/""]",its just ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""you'd be amazed at how clear the sky was,  /""]",youd be amazed at how clear the sky was  ,sd,MALE,1
+"['{c but } the clouds are just really, {f uh, } {f uh, } rolling --']",c but  the clouds are just really f uh  f uh  rolling ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- kind of just real pillowy, i guess. /']", kind of just real pillowy i guess ,+,MALE,0
+"[""that's right,  /""]",thats right  ,aa,FEMALE,4
+"[""{c and } they're black,  /""]",c and  theyre black  ,sd,FEMALE,1
+"[""{c and } sometimes they're even green colored. /""]",c and  sometimes theyre even green colored ,sd,FEMALE,1
+"['{f oh, } {d well } i was in that, {f uh, } big tornado went through wichita falls. /']",f oh  d well  i was in that f uh  big tornado went through wichita falls ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['{c and, } {f uh, } the sky, - /']",c and  f uh  the sky  ,%,MALE,5
+"['{e i mean, } we were right in the middle of it, when, {e i mean, } signs and telephone poles were dropping all around us. /']",e i mean  we were right in the middle of it when e i mean  signs and telephone poles were dropping all around us ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } a whole roof of a restaurant came off. <laughter>  /'],c and  a whole roof of a restaurant came off laughter  ,sd,MALE,1
+"['{c and, } {f uh, } it was [ a eerie, + {f uh, } a real eerie ] blue-green color. /']",c and  f uh  it was  a eerie  f uh  a real eerie  bluegreen color ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } the lightning was almost continuous, just, {f uh, } {d you know, } as if you put your hand on one of those electric, {f uh, } things that causes lightning. /']",c and  the lightning was almost continuous just f uh  d you know  as if you put your hand on one of those electric f uh  things that causes lightning ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } i think it was called the storm. /']",f uh  i think it was called the storm ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's it. /""]",thats it ,aa,FEMALE,4
+"['{c but, } {f um, } [ the s-, + the whole sky ] was full of that eerie blue-green, {f uh, } lightning. /']",c but  f um   the s  the whole sky  was full of that eerie bluegreen f uh  lightning ,sd,MALE,1
+['wow.  <<pause>>  /'],wow  pause  ,ba,FEMALE,6
+"[""{c and } [ that's about, + that's ] what we get this time of year, just, [ all the way, + sometimes all the way ] through june,  /""]",c and   thats about  thats  what we get this time of year just  all the way  sometimes all the way  through june  ,sd,FEMALE,1
+"[""[ the last, + especially the last ] two years, [ it's rained, + {f uh, } {d what, } i think it rained ] nine inches [ in, + in ] [ one, + one ] of the junes the last two years. /""]", the last  especially the last  two years  its rained  f uh  d what  i think it rained  nine inches  in  in   one  one  of the junes the last two years ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,MALE,2
+"['{c and } this year, - /']",c and  this year  ,%,FEMALE,5
+"['[ u-, + we usually ] get about five inches in may,  /']", u  we usually  get about five inches in may  ,sd,FEMALE,1
+"[""{c and } [ it's, + it's ] over that. /""]",c and   its  its  over that ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""we haven't got that much rain,  /""]",we havent got that much rain  ,sd,MALE,1
+"[""{c but, } {f uh, } when it rains, [ it's, + it's ] been downpouring. /""]",c but  f uh  when it rains  its  its  been downpouring ,sd,MALE,1
+['uh-huh.  <<pause>>  /'],uhhuh  pause  ,b,FEMALE,2
+"['all right,  /']",all right  ,b,FEMALE,2
+['{d well } i hope you have good weather the rest of the summer. /'],d well  i hope you have good weather the rest of the summer ,fc,FEMALE,10
+"['<laughter> you, too. /']",laughter you too ,fc,MALE,10
+['have fun playing tennis. /'],have fun playing tennis ,fc,FEMALE,10
+"['okay,  /']",okay  ,fc,MALE,10
+['thanks. /'],thanks ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye. /'],bye ,fc,MALE,10

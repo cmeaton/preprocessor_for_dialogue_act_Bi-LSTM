@@ -1,0 +1,124 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+['you got any hobbies that you want to talk about? /'],you got any hobbies that you want to talk about ,qy,MALE,7
+"[""{d well, } i, {f uh, } don't seem to have as  much spare time as i used to,  /""]",d well  i f uh  dont seem to have as  much spare time as i used to  ,sd,FEMALE,1
+"[""{c but, } i guess i'll have to say my computer has probably  taken the place of most of my hobbies. /""]",c but  i guess ill have to say my computer has probably  taken the place of most of my hobbies ,sd,FEMALE,1
+['what in the world do you do with your computer  that takes so much time? /'],what in the world do you do with your computer  that takes so much time ,qw,MALE,12
+"['{d well, } i sit and design cards -- /']",d well  i sit and design cards  ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+"[""-- {c and, } {f uh, } {f oh, } [ i, + i'm ]  really into graphics,  /""]", c and  f uh  f oh   i  im   really into graphics  ,sd,FEMALE,1
+"['{c so, } [ [ it, + it ] just, + ]  i sit and  learn new programs  /']",c so    it  it  just    i sit and  learn new programs  ,sd,FEMALE,1
+"['{c and } i play <laughter>, /']",c and  i play laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{c and } i do this,  /']",c and  i do this  ,sd,FEMALE,1
+['{c and } i do that  /'],c and  i do that  ,sd,FEMALE,1
+"['{c and, }']",c and ,sd,FEMALE,1
+"['did you have, {f uh, } your own business  /']",did you have f uh  your own business  ,qy,MALE,7
+"['{c or }  you do that [ as, + ] just on the side,  or what? /']",c or   you do that  as   just on the side  or what ,qrr,MALE,33
+"[""[ i'm, + i'm ] starting a side business in  desk top publishing -- /""]", im  im  starting a side business in  desk top publishing  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and, } {f uh, } it's just getting going.  /""]", c and  f uh  its just getting going  ,sd,FEMALE,1
+"[""[  i, + i'm ] teaching in the daytime -- /""]",  i  im  teaching in the daytime  ,sd,FEMALE,1
+['{d well. } /'],d well  ,%,MALE,5
+"['-- {c and, } {f uh, }']", c and  f uh ,sd,FEMALE,1
+['what do you teach? /'],what do you teach ,qw,MALE,12
+['i teach business and computer technology. /'],i teach business and computer technology ,+,FEMALE,0
+"[""{f oh, } that's good. /""]",f oh  thats good ,ba,MALE,6
+"['{d well, } i guess <laughter>. /']",d well  i guess laughter ,bd,FEMALE,38
+['<laughter>.'],laughter,x,MALE,8
+"[""[ it's, + {f uh, } to high school kids, it's, ]  {f uh, } alternative learning -- /""]", its  f uh  to high school kids its   f uh  alternative learning  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and, } {f uh, } [ it's, + it's ]  really a challenge,  /""]", c and  f uh   its  its   really a challenge  ,sd,FEMALE,1
+['{c but. }  what hobbies do you have? /'],c but   what hobbies do you have ,qw,FEMALE,12
+"['{d well, } i, {f uh, } play trombone in the plano  community band. /']",d well  i f uh  play trombone in the plano  community band ,sd,MALE,1
+"['{f ooh, } neat. /']",f ooh  neat ,ba,FEMALE,6
+"[""{c and } i, {f uh, } like to do a lot of bicycling  when the weather allows,  and  during summer when there's daylight savings time's  when i get out and bike. /""]",c and  i f uh  like to do a lot of bicycling  when the weather allows  and  during summer when theres daylight savings times  when i get out and bike ,sd,MALE,1
+"['{d well, } i hope you all had as pretty a  day today as we did. /']",d well  i hope you all had as pretty a  day today as we did ,sd,FEMALE,1
+"[""{d well, } it wasn't too bad,  other than the cowboys didn't do so hot. /""]",d well  it wasnt too bad  other than the cowboys didnt do so hot ,sd,MALE,1
+"['{f oh, } {d well } now, yes <laughter>. /']",f oh  d well  now yes laughter ,aa,FEMALE,4
+['<laughter>.'],laughter,x,MALE,8
+"[""i don't think you can blame the weather on that.  /""]",i dont think you can blame the weather on that  ,sd,FEMALE,1
+['we had. -/'],we had ,%,FEMALE,5
+"['no,  /']",no  ,aa,MALE,4
+"['just a crummy, {d well, } {d actually } - /']",just a crummy d well  d actually   ,sv,MALE,3
+"[""the lions are pretty good, {a i'm afraid, } [ they pro-, + ] a lot better team than the cowboys  were today.  /""]",the lions are pretty good a im afraid   they pro   a lot better team than the cowboys  were today  ,sv,MALE,3
+"['{c and, } {f uh, }  ((   )) . -/']",c and  f uh        ,%,MALE,5
+"['on any given day, they say. -/']",on any given day they say ,"fo_o_fw_""_by_bc",FEMALE,0
+['<laughter>.'],laughter,x,MALE,8
+"[""{f uh, } [ i haven't, + i haven't ]  played in a while,  but i do,  when i get time  and it's pretty weather  and it's summer i like to play golf. /""]",f uh   i havent  i havent   played in a while  but i do  when i get time  and its pretty weather  and its summer i like to play golf ,sd,FEMALE,1
+"['{f oh, } okay.  /']",f oh  okay  ,bk,MALE,14
+"['[ i, + i ] play that about six  times a year  /']", i  i  play that about six  times a year  ,sd,MALE,1
+['{c and } every year i hang my bag up if i get that five or six  /'],c and  every year i hang my bag up if i get that five or six  ,sd,MALE,1
+"['{c and } i [ swear, + swear ]  that game off for another year,  /']",c and  i  swear  swear   that game off for another year  ,sd,MALE,1
+['{c but } i always go back to it <laughter>. /'],c but  i always go back to it laughter ,sd,MALE,1
+"['{f oh, } [ i, + {f uh, } {f oh, } i ]  take spells,  /']",f oh   i  f uh  f oh  i   take spells  ,sd,FEMALE,1
+"[""[ i'm, + i'm ] kind of a compulsive obsessive person <laughter>  /""]", im  im  kind of a compulsive obsessive person laughter  ,sd,FEMALE,1
+"['{c and } when i start something,  [ i, + i ] go into it a thousand percent -- /']",c and  when i start something   i  i  go into it a thousand percent  ,sd,FEMALE,1
+['i # understand that. # /'],i  understand that  ,ba,MALE,6
+"['-- # {c and then } [ i get, + # i get ]  burned out on it.  /']",  c and then   i get   i get   burned out on it  ,sd,FEMALE,1
+"['{c but, } {f uh, } i do some counted cross-stitch and some painting on shirts. /']",c but  f uh  i do some counted crossstitch and some painting on shirts ,sd,FEMALE,1
+"['{d well, } you do lots of stuff. /']",d well  you do lots of stuff ,sv,MALE,3
+"[""{d well, } it doesn't seem like i get anything done,  /""]",d well  it doesnt seem like i get anything done  ,sd,FEMALE,1
+['{c but } i guess i do  /'],c but  i guess i do  ,sd,FEMALE,1
+"['{c and, }']",c and ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['[ i, + i ] like to bake.  /']", i  i  like to bake  ,+,FEMALE,0
+"[""it's just me in the house,  /""]",its just me in the house  ,sd,FEMALE,1
+"[""{c so, } when i bake it's usually to take out for something. /""]",c so  when i bake its usually to take out for something ,sd,FEMALE,1
+"['gosh,  /']",gosh  ,ba,MALE,6
+"[""i come up there i'll have to stop by and [ have, + ] try some of your baking. /""]",i come up there ill have to stop by and  have   try some of your baking ,ad,MALE,22
+['{d well. } -/'],d well  ,%,FEMALE,5
+['i call on people in  ((   )) . - /'],i call on people in        ,sd,MALE,1
+"['my business is, {f uh, } machine tool sales,  /']",my business is f uh  machine tool sales  ,sd,MALE,1
+"['{c and } i have some, - /']",c and  i have some  ,sd,MALE,1
+"['[ i, + i ] cover texas and oklahoma. /']", i  i  cover texas and oklahoma ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"[""{c so, } [ i, + what i ]  said that i wasn't being real facetious about that.  /""]",c so   i  what i   said that i wasnt being real facetious about that  ,sd,MALE,1
+"['i got customers in oklahoma city and tulsa and # perry, oklahoma # --']",i got customers in oklahoma city and tulsa and  perry oklahoma  ,sd,MALE,1
+"['# {f oh, } how neat. # /']", f oh  how neat  ,ba,FEMALE,6
+"['-- and eda and [ all that, + all that ] way. /']", and eda and  all that  all that  way ,+,MALE,0
+['{c so } you do quite a bit of traveling then. /'],c so  you do quite a bit of traveling then ,bf,FEMALE,20
+"['yes,  /']",yes  ,aa,MALE,4
+['yes.  /'],yes  ,aa,MALE,4
+"['i, - /']",i  ,%,MALE,5
+['about thirty-three thousand miles a year.  /'],about thirtythree thousand miles a year  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"[""{f ooh, } {d well } that doesn't leave a lot of time  for hobbies,  /""]",f ooh  d well  that doesnt leave a lot of time  for hobbies  ,sv,FEMALE,3
+['does it? /'],does it ,^g,FEMALE,40
+"['<laughter> {d well, } i usually, - /']",laughter d well  i usually  ,sd,MALE,1
+"['{d see, } [ we, + we ]  have [ our, + our ] band practice is on monday night,  /']",d see   we  we   have  our  our  band practice is on monday night  ,sd,MALE,1
+"['{c and } during the summer [ we, + {f uh, } we ]  have concerts every monday night in the park,  /']",c and  during the summer  we  f uh  we   have concerts every monday night in the park  ,sd,MALE,1
+"['{c and, } {f uh, } [ we, + we ]  have, {d you know, } some concerts during the year,  /']",c and  f uh   we  we   have d you know  some concerts during the year  ,sd,MALE,1
+"['{c and, } {d you know, } various people in the  communities want us to play for things,  /']",c and  d you know  various people in the  communities want us to play for things  ,sd,MALE,1
+"['{c but } those are usually on the weekend,  /']",c but  those are usually on the weekend  ,sd,MALE,1
+"[""{c so }  that isn't too bad. /""]",c so   that isnt too bad ,sd,MALE,1
+['how big is your band? /'],how big is your band ,qw,FEMALE,12
+"['{d well, } we got, {f uh, } pretty good size band.  /']",d well  we got f uh  pretty good size band  ,sd,MALE,1
+"['not everybody shows up,  /']",not everybody shows up  ,sd,MALE,1
+"[""{c but } if everyone did we'd probably have over a hundred  /""]",c but  if everyone did wed probably have over a hundred  ,sd,MALE,1
+['{c but } --'],c but  ,sd,MALE,1
+['ooh. /'],ooh ,ba,FEMALE,6
+"['-- we only average about forty to fifty people  [ a, + ] {d you know, } usually. /']", we only average about forty to fifty people   a   d you know  usually ,+,MALE,0
+"[""{d well, } that's still a pretty [ bi-, + ] good size band. /""]",d well  thats still a pretty  bi   good size band ,bf,FEMALE,20
+['yeah. /'],yeah ,aa,MALE,4
+"[""it's not like there are four or five of you there. /""]",its not like there are four or five of you there ,sd,FEMALE,1
+"['{f oh, } no,  /']",f oh  no  ,aa,MALE,4
+['no.  /'],no  ,aa,MALE,4
+"['this is a, - /']",this is a  ,sd,MALE,1
+"[""it's a concert band,  /""]",its a concert band  ,sd,MALE,1
+"['{c and, } {f uh, } we have a lot of, - /']",c and  f uh  we have a lot of  ,sd,MALE,1
+"[""[ i, + i ] don't pretend to be that good,  /""]", i  i  dont pretend to be that good  ,sd,MALE,1
+"[""{c but } there's a lot  of people that, {f uh, } {d you know, } are band directors  at schools, or have been,  /""]",c but  theres a lot  of people that f uh  d you know  are band directors  at schools or have been  ,sd,MALE,1
+"['{c or, } {f uh, } {d you know, } there some people that are actually music majors.  /']",c or  f uh  d you know  there some people that are actually music majors  ,sd,MALE,1
+"[""they don't necessarily follow that any more, {d you know, }  /""]",they dont necessarily follow that any more d you know   ,sd,MALE,1
+"[""that isn't necessarily their career,  /""]",that isnt necessarily their career  ,sd,MALE,1
+"['{c but, } {f uh, } we have some extremely good talent in there,  /']",c but  f uh  we have some extremely good talent in there  ,sd,MALE,1
+"['{c and, } {f uh, }  as a rule, it sounds pretty decent,  /']",c and  f uh   as a rule it sounds pretty decent  ,sd,MALE,1
+['{c so } <laughter>. - /'],c so  laughter  ,%,MALE,5
+"[""it's fun. /""]",its fun ,sd,MALE,1
+"['[ i, + i ]  have absolutely no musical ability whatsoever,  /']", i  i   have absolutely no musical ability whatsoever  ,sd,FEMALE,1
+"[""{c and } i'm always very envious of people who do. /""]",c and  im always very envious of people who do ,sd,FEMALE,1
+"[""<laughter> {d well, } i don't know if i have  any or not.  /""]",laughter d well  i dont know if i have  any or not  ,sd,MALE,1
+"[""[ i, + i've ]  always enjoyed it.  /""]", i  ive   always enjoyed it  ,sd,MALE,1
+"[""i sing in a church choir on wednesday nights  when i'm around, and play in the band on monday nights, and keeps you out of trouble that way. /""]",i sing in a church choir on wednesday nights  when im around and play in the band on monday nights and keeps you out of trouble that way ,sd,MALE,1
+"[""{d well, } i'm probably one of the few people that the, -/""]",d well  im probably one of the few people that the ,sd,FEMALE,1

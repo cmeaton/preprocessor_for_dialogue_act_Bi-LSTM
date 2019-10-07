@@ -1,0 +1,155 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{f um, } what type of magazines do you have? /']",f um  what type of magazines do you have ,qo,FEMALE,25
+['we take several at home.  /'],we take several at home  ,sd,MALE,1
+"['[  i, + i ] take, {f um, }  skiing magazine,  /']",  i  i  take f um   skiing magazine  ,sd,MALE,1
+"['{c and } i take, {f uh, } discover magazine, and also, {f uh, } c d and stereo review --']",c and  i take f uh  discover magazine and also f uh  c d and stereo review ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and national geographic, i think --']", and national geographic i think ,+,MALE,0
+"['{f oh, }  ((   )) . /']",f oh        ,b,FEMALE,2
+['-- and boys life <laughter>. /'], and boys life laughter ,+,MALE,0
+"['{f oh, } good.  /']",f oh  good  ,ba,FEMALE,6
+"[""that's a good one, i like  to get <laughter>.  /""]",thats a good one i like  to get laughter  ,ba,FEMALE,6
+"['{f um, } {c so } i take it that you like to ski.  /']",f um  c so  i take it that you like to ski  ,qy^d,FEMALE,16
+"['[ do you, + do you, ] {f um, }  receive a lot of information on skiing through the ski magazine? /']", do you  do you  f um   receive a lot of information on skiing through the ski magazine ,qy,FEMALE,7
+['i presume that i do. /'],i presume that i do ,na,MALE,21
+['uh-huh. /'],uhhuh ,bk,FEMALE,14
+"['{f uh, } i suppose that puts me on some  mailing lists  and so forth, because i do get things --']",f uh  i suppose that puts me on some  mailing lists  and so forth because i do get things ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- from ski associations and things, {f uh, }  [ at, + during ] the year. /']", from ski associations and things f uh    at  during  the year ,+,MALE,0
+"['{f oh, } {f uh, } {c and } do you receive discounts and  things like that,  /']",f oh  f uh  c and  do you receive discounts and  things like that  ,qy,FEMALE,7
+['do you think - /'],do you think  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['<breathing> {f uh, } not so much that,  i, {f uh, } more likely to see those at a ski show or something,  /']",breathing f uh  not so much that  i f uh  more likely to see those at a ski show or something  ,ng,MALE,29
+['{c but } --'],c but  ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"['-- {f um, } <smack> <<sound made with mouth>>  i just enjoy reading about the resorts and where you can go [ and, +']", f um  smack sound made with mouth  i just enjoy reading about the resorts and where you can go  and ,+,MALE,0
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+"[""and ] new equipment that's come out and so forth.  /""]",and  new equipment thats come out and so forth  ,+,MALE,0
+['some fashions --'],some fashions ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+['-- are always in there too. /'], are always in there too ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{d so } would this vacation you're taking, - /""]",d so  would this vacation youre taking  ,qy,FEMALE,7
+['did you receive information from your skiing magazine? /'],did you receive information from your skiing magazine ,qy,FEMALE,7
+['probably not.  /'],probably not  ,ng,MALE,29
+"['{f uh, } we already knew we wanted to  take one,  /']",f uh  we already knew we wanted to  take one  ,sd,MALE,1
+['{c and } we just started looking around.  /'],c and  we just started looking around  ,sd,MALE,1
+"['i may have referred to a  couple of them,  /']",i may have referred to a  couple of them  ,sd,MALE,1
+['{c but } we went to the ski show and looked at all of the --'],c but  we went to the ski show and looked at all of the ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"['-- resort information, picked up a lot of brochures --']", resort information picked up a lot of brochures ,+,MALE,0
+['oh. /'],oh ,bk,FEMALE,14
+['-- and just decided to go to crested butte.  /'], and just decided to go to crested butte  ,+,MALE,0
+"[""we haven't  been there before. /""]",we havent  been there before ,sd,MALE,1
+"['{f um, } that sounds nice. /']",f um  that sounds nice ,ba,FEMALE,6
+['kind of away from the crowd --'],kind of away from the crowd ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- is why we chose that one.  /'], is why we chose that one  ,+,MALE,0
+"[""it's --""]",its ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+['-- supposedly low lift lines.  /'], supposedly low lift lines  ,+,MALE,0
+"[""{c but } i haven't skied  utah yet,  /""]",c but  i havent skied  utah yet  ,sd,MALE,1
+['{c but } i want to. /'],c but  i want to ,sd,MALE,1
+"['{f oh, } {d well, } you need to come out <laughter>. /']",f oh  d well  you need to come out laughter ,ad,FEMALE,22
+"[""i'd like to go to sundance and  park city --""]",id like to go to sundance and  park city ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and some of those.  /'], and some of those  ,+,MALE,0
+"['i understand deer valley  is nice, too. /']",i understand deer valley  is nice too ,sd,MALE,1
+"['deer valley,  /']",deer valley  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['they are, - /']",they are  ,aa,FEMALE,4
+"[""it's wonderful snow <laughter>. /""]",its wonderful snow laughter ,sv,FEMALE,3
+"['{d well, } how about you,  /']",d well  how about you  ,qo,MALE,25
+"['[ what, + what ] magazines do you have at home? /']", what  what  magazines do you have at home ,qo,MALE,25
+"['{f uh, } i am currently taking decorative  woodworking, and, {f uh, } country living,  /']",f uh  i am currently taking decorative  woodworking and f uh  country living  ,sd,FEMALE,1
+"[""{c and, } let's see, we do have national geographic,  /""]",c and  lets see we do have national geographic  ,sd,FEMALE,1
+"['{c and then } we  have some church magazines,  /']",c and then  we  have some church magazines  ,sd,FEMALE,1
+['{c but } i really enjoy the decorative woodworking.  /'],c but  i really enjoy the decorative woodworking  ,sd,FEMALE,1
+"[""i'm heavy into woodworking and tole painting and things like that,  /""]",im heavy into woodworking and tole painting and things like that  ,sd,FEMALE,1
+['{c so } --'],c so  ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"['-- the decorative woodworking has just been a  great, great help. /']", the decorative woodworking has just been a  great great help ,+,FEMALE,0
+"['does it have, {f uh, } articles on how to  do things --']",does it have f uh  articles on how to  do things ,qy,MALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['-- as well as equipment that you can buy and so forth? /'], as well as equipment that you can buy and so forth ,+,MALE,0
+"['uh-huh,  /']",uhhuh  ,ny,FEMALE,9
+"['[ they do have, + {f uh, } mostly they have, ]  {f uh, } the ads on the equipment,  /']", they do have  f uh  mostly they have   f uh  the ads on the equipment  ,sd,FEMALE,1
+"['{c but } the whole magazine is just filled with, {f uh, }  pictures and projects that you can make yourself,  /']",c but  the whole magazine is just filled with f uh   pictures and projects that you can make yourself  ,sd,FEMALE,1
+"['{c and then } it has all of the patterns  and instructions that you would need to make a wood project, [ and, + and ] then how to  paint it with the tole paintings,  /']",c and then  it has all of the patterns  and instructions that you would need to make a wood project  and  and  then how to  paint it with the tole paintings  ,sd,FEMALE,1
+"[""{c and so, } it's really a fun one.  /""]",c and so  its really a fun one  ,sd,FEMALE,1
+['i like that. /'],i like that ,sd,FEMALE,1
+"[""{d well, } that's good.  /""]",d well  thats good  ,ba,MALE,6
+"[""it's good to get use out of one. /""]",its good to get use out of one ,sv,MALE,3
+['uh-huh <laughter>. /'],uhhuh laughter ,aa,FEMALE,4
+"[""<throat_clearing> i'm not sure that, {f um, } in the case of national geographic, - /""]",throatclearing im not sure that f um  in the case of national geographic  ,%,MALE,5
+"['{e i mean, } i read it,  /']",e i mean  i read it  ,sd,MALE,1
+['{c but then } they just  sort of gather dust for a --'],c but then  they just  sort of gather dust for a ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- long period of time,  /']", long period of time  ,+,MALE,0
+"[""{c but then } eventually  there'll be a school project or  something where my son will need to refer back through forty-eight back issues to find --""]",c but then  eventually  therell be a school project or  something where my son will need to refer back through fortyeight back issues to find ,sd,MALE,1
+['uh-huh <laughter>. /'],uhhuh laughter ,b,FEMALE,2
+"['-- {d you know, } france or something or whatever it is --']", d you know  france or something or whatever it is ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- he's looking for. /""]", hes looking for ,+,MALE,0
+['yes.  /'],yes  ,aa,FEMALE,4
+"[""[ i've, + i've ] noticed that, too,  /""]", ive  ive  noticed that too  ,aa,FEMALE,4
+['{c but } they  have been nice to have around.  /'],c but  they  have been nice to have around  ,sv,FEMALE,3
+['every once in a while they come in handy <throat_clearing>. /'],every once in a while they come in handy throatclearing ,sv,FEMALE,3
+['i used to take smithsonian --'],i used to take smithsonian ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- too,  /']", too  ,+,MALE,0
+['i liked that magazine -- /'],i liked that magazine  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but } [ it was, + i was, ] just found  myself not ever getting around to reading it. /']", c but   it was  i was  just found  myself not ever getting around to reading it ,sd,MALE,1
+['oh.  {f uh. } /'],oh  f uh  ,b,FEMALE,2
+"['you get so many coming in,  /']",you get so many coming in  ,sv,MALE,3
+"[""{c and } by the time  the next round comes in i'm still not through reading <laughter> the first round. /""]",c and  by the time  the next round comes in im still not through reading laughter the first round ,sd,MALE,1
+"['{f oh, } that. /']",f oh  that ,b,FEMALE,2
+"['{f oh, } scientific american comes to our house,  too, i forgot,  /']",f oh  scientific american comes to our house  too i forgot  ,sd,MALE,1
+"[""{c and } that's --""]",c and  thats ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""-- mostly my son's,  /""]", mostly my sons  ,+,MALE,0
+['[ {c but } -- +'], c but   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but } ] i do read it, too. /']", c but   i do read it too ,+,MALE,0
+"['{f oh, } {d well } that sounds like. -/']",f oh  d well  that sounds like ,%,FEMALE,5
+['{c and } he takes [ games magazine -- +'],c and  he takes  games magazine  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- game magazine, ] which has puzzles and things --']", game magazine  which has puzzles and things ,+,MALE,0
+['oh. /'],oh ,b,FEMALE,2
+"['-- that he likes to solve, {d you know, }  crosswords and various logic puzzles and things like that -- /']", that he likes to solve d you know   crosswords and various logic puzzles and things like that  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- he likes to try that,  /']", he likes to try that  ,sd,MALE,1
+"['{c so. } he [ does, + {f uh, }   <throat_clearing> does ] get to be a lot of paper though,  /']",c so  he  does  f uh    throatclearing does  get to be a lot of paper though  ,sd,MALE,1
+['after a while <laughter> --'],after a while laughter ,sv,MALE,3
+['uh-huh <laughter>. /'],uhhuh laughter ,b,FEMALE,2
+"[""-- if you don't keep them weeded out, they almost take over. /""]", if you dont keep them weeded out they almost take over ,+,MALE,0
+"['[ they do, + they can do ] that.  /']", they do  they can do  that  ,aa,FEMALE,4
+"[""i found that  they've been fun for my little girls,  /""]",i found that  theyve been fun for my little girls  ,sd,FEMALE,1
+"[""they're five and four years old,  /""]",theyre five and four years old  ,sd,FEMALE,1
+['{c and } # they like  to go through  /'],c and   they like  to go through  ,sd,FEMALE,1
+"['{c and, } # -/']",c and   ,%,FEMALE,5
+"['# {f oh, } yeah,  /']", f oh  yeah  ,b,MALE,2
+"[""they're just kind of # getting started now. /""]",theyre just kind of  getting started now ,qy^d,MALE,16
+"['uh-huh.  <laughter> they like to cut the pictures out  and paste them on,  /']",uhhuh  laughter they like to cut the pictures out  and paste them on  ,ny,FEMALE,9
+"[""{c and so } we've found good use for those. /""]",c and so  weve found good use for those ,sd,FEMALE,1
+"['mine is a senior in high school,  /']",mine is a senior in high school  ,sd,MALE,1
+"[""{c so } [ he's, + we're ]  kind of at the end of that trail. /""]",c so   hes  were   kind of at the end of that trail ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""you're just --""]",youre just ,qy^d,MALE,16
+['oh. /'],oh ,b,FEMALE,2
+['-- sort of beginning --'], sort of beginning ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- to think about first grade. /'], to think about first grade ,+,MALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter>.'],laughter,x,MALE,8
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"[""it's fun.  /""]",its fun  ,sd,FEMALE,1
+"['{d well, } i do have a boy in  junior high, too,  /']",d well  i do have a boy in  junior high too  ,sd,FEMALE,1
+['{c so } -- -/'],c so   ,%,FEMALE,5
+"['{f oh, } okay,  /']",f oh  okay  ,bk,MALE,14
+"['{c so } you got a little bit of a  gap there between, -/']",c so  you got a little bit of a  gap there between ,bf,MALE,20
+"[""-- {c so } we're kind of running the gamut <laughter>.  /""]", c so  were kind of running the gamut laughter  ,sd,FEMALE,1
+['yeah. /'],yeah ,%,FEMALE,5

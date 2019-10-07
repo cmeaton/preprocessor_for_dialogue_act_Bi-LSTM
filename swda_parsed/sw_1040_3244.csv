@@ -1,0 +1,161 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""my name's mary dell,  /""]",my names mary dell  ,sd,FEMALE,1
+"[""{c and } i live in the dallas, texas area where there's a lot of pollution <laughter>. /""]",c and  i live in the dallas texas area where theres a lot of pollution laughter ,sd,FEMALE,1
+"['<laughter>  okay,  /']",laughter  okay  ,b,FEMALE,2
+"[""{c and } i'm up in wisconsin -- /""]",c and  im up in wisconsin  ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- {f uh, } my name is terry -- /']", f uh  my name is terry  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, } {f uh, } in the small town we don't, - /""]", c and  f uh  in the small town we dont  ,sd,FEMALE,1
+"[""{c but, } {f uh, } we're not that far from the city where there's tons of pollution. /""]",c but  f uh  were not that far from the city where theres tons of pollution ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['okay,  /']",okay  ,b,FEMALE,2
+"[""i'll go ahead and start recording that, /""]",ill go ahead and start recording that ,ad,FEMALE,22
+['okay. /'],okay ,aa,FEMALE,4
+"['<beep>  okay, {f um, }  /']",beep  okay f um   ,b,FEMALE,2
+['just in particular here in the twin cities we have a lot of big corporations  /'],just in particular here in the twin cities we have a lot of big corporations  ,sd,FEMALE,1
+"['{c and, } {f um } --']",c and  f um  ,sv,FEMALE,3
+['oh. /'],oh ,b,FEMALE,2
+"[""-- i'm sure there's a lot of pollution.  /""]", im sure theres a lot of pollution  ,+,FEMALE,0
+"['we, {f uh, } - /']",we f uh   ,%,FEMALE,5
+"['before moving to wisconsin lived across from where they were, {f um, } gravel pits --']",before moving to wisconsin lived across from where they were f um  gravel pits ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and also where they were making tar,  /']", and also where they were making tar  ,+,FEMALE,0
+['{c and so } we [ would + occasionally if the wind was blowing the right direction would ] get the smell of tar  /'],c and so  we  would  occasionally if the wind was blowing the right direction would  get the smell of tar  ,sd,FEMALE,1
+['{c and } --'],c and  ,%,FEMALE,5
+['ooh. /'],ooh ,ba,FEMALE,6
+"['-- it would, {f uh, } - /']", it would f uh   ,+,FEMALE,0
+"['smell the continuous, - /']",smell the continuous  ,%,FEMALE,5
+"['you knew that you were also breathing that into your lungs,  /']",you knew that you were also breathing that into your lungs  ,sd,FEMALE,1
+['[ {c so } + --'], c so   ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- {c and } ] it was like miles away,  /']", c and   it was like miles away  ,+,FEMALE,0
+['{c but } just the idea of having that come across the way it did in the wind --'],c but  just the idea of having that come across the way it did in the wind ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- kind of made you know that there was a lot of pollution,  /']", kind of made you know that there was a lot of pollution  ,+,FEMALE,0
+"['{c and } that was just one small corporation that was doing the pollution of that,  /']",c and  that was just one small corporation that was doing the pollution of that  ,sd,FEMALE,1
+['{c but } --'],c but  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ also, + {f um, } where we also ] lived, too, it was very close to a highway,  /']",  also  f um  where we also  lived too it was very close to a highway  ,+,FEMALE,0
+"['{c so } got a lot of fumes from, {f uh, } trucks --']",c so  got a lot of fumes from f uh  trucks ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and cars  /'], and cars  ,+,FEMALE,0
+"['{c and } you would literally see the pollution on your furniture,  /']",c and  you would literally see the pollution on your furniture  ,sd,FEMALE,1
+"['{e i mean, } it was --']",e i mean  it was ,sd,FEMALE,1
+"['{f oh, } gosh, /']",f oh  gosh ,ba,FEMALE,6
+"['-- on your tables,  /']", on your tables  ,+,FEMALE,0
+"['you would dust every day,  /']",you would dust every day  ,sd,FEMALE,1
+"['{c and } it was dirty, {f um, } type of dust,  /']",c and  it was dirty f um  type of dust  ,sd,FEMALE,1
+"[""{e i mean, } it wasn't the typical dust that you get way out in the country --""]",e i mean  it wasnt the typical dust that you get way out in the country ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {f um } -- /'], f um   ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- for, - /']", for  ,%,FEMALE,5
+"['i live in a small, {f um, } town now quite a ways from the twin cities, about an hour away,  /']",i live in a small f um  town now quite a ways from the twin cities about an hour away  ,sd,FEMALE,1
+"['{c and } i may dust once a week,  /']",c and  i may dust once a week  ,sd,FEMALE,1
+"[""{c and } that's all it needs versus every day when i lived in the city -- /""]",c and  thats all it needs versus every day when i lived in the city  ,sd,FEMALE,1
+['{f huh } --'],f huh  ,sd,FEMALE,1
+['-- {c so. } -/'], c so  ,%,FEMALE,5
+"[""-- i'd never thought about that being a cause,  /""]", id never thought about that being a cause  ,+,FEMALE,0
+['i have to dust a lot as well. /'],i have to dust a lot as well ,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+"['[ it, + it ] comes right on [ through + --']", it  it  comes right on  through  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- through ] the screens,  /']", through  the screens  ,+,FEMALE,0
+"['the only way that you could actually live [ in the, + in the ] city is to close your windows and have an air cleaner system right in your home --']",the only way that you could actually live  in the  in the  city is to close your windows and have an air cleaner system right in your home ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- that would take the air from the outside and clean the air before it would get into the house -- /'], that would take the air from the outside and clean the air before it would get into the house  ,+,FEMALE,0
+['my goodness. /'],my goodness ,ba,FEMALE,6
+['-- {c and so } it was quite a dirty city.  /'], c and so  it was quite a dirty city  ,sv,FEMALE,3
+"['{f um, } if you were well protected by trees, which catch a lot of the pollution --']",f um  if you were well protected by trees which catch a lot of the pollution ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- then you're fine,  /""]", then youre fine  ,+,FEMALE,0
+"['{c but } most of the time in the city you have lots of high rises, you have lots of other things that are not catching the pollution  /']",c but  most of the time in the city you have lots of high rises you have lots of other things that are not catching the pollution  ,sv,FEMALE,3
+"[""{c and } it's just going --""]",c and  its just going ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- for miles and miles and miles,  /']", for miles and miles and miles  ,+,FEMALE,0
+"[""{c and } it's landing somewhere with the wind,  /""]",c and  its landing somewhere with the wind  ,sv,FEMALE,3
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""that's kind of the way dallas is.  /""]",thats kind of the way dallas is  ,sv,FEMALE,3
+"[""we're so flat and open,  /""]",were so flat and open  ,sv,FEMALE,3
+"[""{c and } i live in a suburb that doesn't have much vegetation, trees -- /""]",c and  i live in a suburb that doesnt have much vegetation trees  ,sd,FEMALE,1
+['sure. /'],sure ,b,FEMALE,2
+"['-- it was all cotton fields,  /']", it was all cotton fields  ,sd,FEMALE,1
+['{c so } --'],c so  ,sv,FEMALE,3
+['sure. /'],sure ,b,FEMALE,2
+"[""-- we don't have that advantage,  /""]", we dont have that advantage  ,+,FEMALE,0
+"[""{c and } ours i think is primarily cars, where we don't carpool like we should --""]",c and  ours i think is primarily cars where we dont carpool like we should ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['-- an airport.  /'], an airport  ,+,FEMALE,0
+"['i work in a building,  /']",i work in a building  ,sd,FEMALE,1
+"[""i'm nineteen floors up -- /""]",im nineteen floors up  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } i look out toward d f w international,  /']", c and  i look out toward d f w international  ,sd,FEMALE,1
+"[""{c and } there's just an awful brown haze all the time -- /""]",c and  theres just an awful brown haze all the time  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } i can imagine it's even worse for people living over near the airport. /""]", c and  i can imagine its even worse for people living over near the airport ,sv,FEMALE,3
+"['{f oh, } sure,  /']",f oh  sure  ,b,FEMALE,2
+"['sure,  /']",sure  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""it's, - /""]",its  ,%,FEMALE,5
+"[""{e i mean, } our air quality, {f um, } in the twin cities is a lot better than what we've heard about california  and --""]",e i mean  our air quality f um  in the twin cities is a lot better than what weve heard about california  and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- maybe in the other areas,  /']", maybe in the other areas  ,+,FEMALE,0
+"['{c but, } {f um, } they were always talking about the air quality of today is this, {d you know, } the ozone or whatever,  /']",c but  f um  they were always talking about the air quality of today is this d you know  the ozone or whatever  ,sv,FEMALE,3
+"[""{c and } it's kind of scary because the air is something we take for granted -- /""]",c and  its kind of scary because the air is something we take for granted  ,sv,FEMALE,3
+['yes. /'],yes ,b,FEMALE,2
+"['-- {c and } many people are too busy getting to work, not thinking about, okay, i could have carpooled with a friend,  /']", c and  many people are too busy getting to work not thinking about okay i could have carpooled with a friend  ,sv,FEMALE,3
+['even --'],even ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- my husband was, {f uh, } talking to some of the guys at work,  /']", my husband was f uh  talking to some of the guys at work  ,+,FEMALE,0
+"[""{d now } he's, {f uh, } fifteen miles away from work,  /""]",d now  hes f uh  fifteen miles away from work  ,sd,FEMALE,1
+"[""{c but } he was talking, wouldn't it be nice to carpool,  /""]",c but  he was talking wouldnt it be nice to carpool  ,sd,FEMALE,1
+"[""{c and } the guy says, {d well, } it's too close,  /""]",c and  the guy says d well  its too close  ,sd,FEMALE,1
+"[""it wouldn't pay -- /""]",it wouldnt pay  ,^q,FEMALE,19
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, so. } -/']", c and so  ,%,FEMALE,5
+['want to meet my own schedule --'],want to meet my own schedule ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['-- those are the arguments we hear, /']", those are the arguments we hear ,+,FEMALE,0
+"[""[ ex-, + exactly, ] {c and so, } my husband says, {d well, } that's fine, {d you know, }  /""]", ex  exactly  c and so  my husband says d well  thats fine d you know   ,sd,FEMALE,1
+['it would save quite a bit on the wear and tear on cars --'],it would save quite a bit on the wear and tear on cars ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and, {d you know, } the gas,  /']", and d you know  the gas  ,+,FEMALE,0
+"['{c and, } no,  /']",c and  no  ,%,FEMALE,5
+['everybody has their preference to drive by themselves  /'],everybody has their preference to drive by themselves  ,sv,FEMALE,3
+"['{c or, } if they do, [ they, + they ] drive with one little buddy, {f uh, }  /']",c or  if they do  they  they  drive with one little buddy f uh   ,sv,FEMALE,3
+"[""at least it's with one person -- /""]",at least its with one person  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c but } most of the time people are saying forget it.  /'], c but  most of the time people are saying forget it  ,sv,FEMALE,3
+"[""i don't want to carpool,  /""]",i dont want to carpool  ,^q,FEMALE,19
+"[""it's too much of a hassle,  /""]",its too much of a hassle  ,^q,FEMALE,19
+"[""it's too much involvement -- /""]",its too much involvement  ,^q,FEMALE,19
+"[""{c but } we're --""]",c but  were ,sv,FEMALE,3
+"['-- {c but } yet, -/']", c but  yet ,%,FEMALE,5
+['-- paying for it. /'], paying for it ,+,FEMALE,0
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['we are,  /']",we are  ,sv,FEMALE,3
+['{c and } i think of my daughter  /'],c and  i think of my daughter  ,sd,FEMALE,1
+"[""{c and } i'm sure you think of your children,  /""]",c and  im sure you think of your children  ,sv,FEMALE,3
+"['{c and } you kind of say to yourself, what kind of future will they have when they think back and say, {d well, } my parents did have the choice to kind of make a difference -- /']",c and  you kind of say to yourself what kind of future will they have when they think back and say d well  my parents did have the choice to kind of make a difference  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } maybe people are trying,  /']", c and  maybe people are trying  ,sv,FEMALE,3
+"['{c but } they have to change attitudes, /']",c but  they have to change attitudes ,sv,FEMALE,3
+"[""{c and } it seems to me that it's already so evident with our children having a lot more respiratory infections --""]",c and  it seems to me that its already so evident with our children having a lot more respiratory infections ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- than we had growing up --'], than we had growing up ,+,FEMALE,0
+['sure. /'],sure ,b,FEMALE,2
+['-- you can really see it.  /'], you can really see it  ,+,FEMALE,0
+"['[ i, + i ] had a chance to go to bolivia a couple years ago,  /']", i  i  had a chance to go to bolivia a couple years ago  ,sd,FEMALE,1
+"[""{c and } of course there's no industry, very little trash,  /""]",c and  of course theres no industry very little trash  ,sd,FEMALE,1
+['[ they -- +'], they  ,sv,FEMALE,3
+['sure. /'],sure ,b,FEMALE,2
+"[""-- they ] don't even have that much that they burn, because --""]", they  dont even have that much that they burn because ,+,FEMALE,0
+['sure. /'],sure ,b,FEMALE,2
+['-- they consume everything down --'], they consume everything down ,+,FEMALE,0
+"['{d well, } they, -/']",d well  they ,%,FEMALE,5
+"['-- to the thread,  /']", to the thread  ,+,FEMALE,0
+"['{c and } it amazed me,  /']",c and  it amazed me  ,sd,FEMALE,1
+"['[ i, + i ] just had totally forgotten how ... -/']", i  i  just had totally forgotten how  ,sd,FEMALE,1

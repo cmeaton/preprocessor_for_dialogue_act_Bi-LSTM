@@ -1,0 +1,202 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['supposed to talk about boats.  /'],supposed to talk about boats  ,ad,MALE,22
+['have you got a boat <noise>? /'],have you got a boat noise ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+"[""i don't,  /""]",i dont  ,sd,MALE,1
+['do you? /'],do you ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+"[""i don't.  /""]",i dont  ,sd,MALE,1
+"[""[ i, + i've ] had one for  quite a few years,  /""]", i  ive  had one for  quite a few years  ,sd,MALE,1
+"[""{c but } [ i, + i've ] not had one the last couple of years. /""]",c but   i  ive  not had one the last couple of years ,sd,MALE,1
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+"[""{c but, }  it's something i've always enjoyed.  /""]",c but   its something ive always enjoyed  ,sd,MALE,1
+"['[ do you, + do you ] like --']", do you  do you  like ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+['i love them <noise>. /'],i love them noise ,sd,MALE,1
+['-- boating?  /'], boating  ,+,MALE,0
+"['yeah,  /']",yeah  ,%,MALE,5
+"['{c but, }  {f uh, } <lipsmack> my children all have been grown for a [ coup-, + few ] years   /']",c but   f uh  lipsmack my children all have been grown for a  coup  few  years   ,sd,MALE,1
+"['{c and } we were using it less and  less and less,  /']",c and  we were using it less and  less and less  ,sd,MALE,1
+['{c so } we decided to sell it.  /'],c so  we decided to sell it  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"[""{d well, } i heard, that's the second happiest <noise> day of your life <noise>, <laughter>. /""]",d well  i heard thats the second happiest noise day of your life noise laughter ,sd,MALE,1
+"[""what's that? /""]",whats that ,br,MALE,30
+['the day you sell your boat. /'],the day you sell your boat ,sd,MALE,1
+"['{f oh, } no,  /']",f oh  no  ,ar,MALE,28
+['{d now } i loved having a boat. /'],d now  i loved having a boat ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+['i loved having it.  /'],i loved having it  ,sd,MALE,1
+"['no, /']",no ,%,MALE,5
+"['no,  /']",no  ,b^m,MALE,24
+['i just heard that.  /'],i just heard that  ,sd,MALE,1
+"[""that's just a joke, i guess. /""]",thats just a joke i guess ,sd,MALE,1
+"['{f oh, } okay <laughter>. /']",f oh  okay laughter ,bk,MALE,14
+['first best day is the day you get and the day you get rid of it  /'],first best day is the day you get and the day you get rid of it  ,sd,MALE,1
+"['{c but, }']",c but ,sd,MALE,1
+"['{f oh, } yeah <laughter>. /']",f oh  yeah laughter ,b,MALE,2
+"[""i'd like to have one.  /""]",id like to have one  ,+,MALE,0
+"[""i just don't know if i'd have the time to use it. /""]",i just dont know if id have the time to use it ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['guy just <noise>, {d you know, } - /']",guy just noise d you know   ,%,MALE,5
+"['he needs his weekends free, [ or -- + ]']",he needs his weekends free  or   ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- to be able to use it or a day during the week or something,  /']", to be able to use it or a day during the week or something  ,+,MALE,0
+"['[ {c but, } + <lipsmack> {c but, } ]   no  /']", c but   lipsmack c but     no  ,%,MALE,5
+"[""i guess for the cost of them you don't really, - /""]",i guess for the cost of them you dont really  ,sv,MALE,3
+"[""it's hard to get, - /""]",its hard to get  ,sv,MALE,3
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"[""i felt like i got my money's worth out of mine <noise>.  /""]",i felt like i got my moneys worth out of mine noise  ,sd,MALE,1
+"[""i had bought it used <baby_crying> and kept it, <breathing>, {f uh, } i don't know, ten years and got within, {f uh, } <lipsmack> three hundred dollars [ of what, + when i sold it, of what ] i'd paid for it and had it all those years, {d you know. } /""]",i had bought it used babycrying and kept it breathing f uh  i dont know ten years and got within f uh  lipsmack three hundred dollars  of what  when i sold it of what  id paid for it and had it all those years d you know  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so } [ they hold their, +  you take care of them <noise>, they hold their ] value real well. /']",c so   they hold their   you take care of them noise they hold their  value real well ,sd,MALE,1
+['really? /'],really ,bh,MALE,18
+"[""{c so, } {d you know, } you couldn't complain about that. /""]",c so  d you know  you couldnt complain about that ,sv,MALE,3
+['did you go fishing? /'],did you go fishing ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+"['no,  /']",no  ,nn,MALE,13
+"['it was a <noise>, {f uh, } big boat,  big ski boat type thing. /']",it was a noise f uh  big boat  big ski boat type thing ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"['i had a [ hundred, + hundred ] sixty horse, {f uh, } <lipsmack> murcruiser in it. /']",i had a  hundred  hundred  sixty horse f uh  lipsmack murcruiser in it ,sd,MALE,1
+"['{f oh, } wow. /']",f oh  wow ,ba,MALE,6
+['inboard outboard.  /'],inboard outboard  ,sd,MALE,1
+"['{f oh, } i did fish out of it occasionally,  /']",f oh  i did fish out of it occasionally  ,sd,MALE,1
+"[""{c but } i'm not too much of a fisherman. /""]",c but  im not too much of a fisherman ,sd,MALE,1
+['really? /'],really ,bh,MALE,18
+"['[ [ {c and, } + {f uh, } {c but } i ] -- +']",  c and   f uh  c but  i   ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['i like to fish. /'],i like to fish ,sd,MALE,1
+"['-- {c but } i ] did enjoy owning a boat,  /']", c but  i  did enjoy owning a boat  ,+,MALE,0
+['would recommend it to anybody.  /'],would recommend it to anybody  ,sd,MALE,1
+"[""[ [ {c and, } + {f uh, } {f uh, } <lipsmack>,  {c but, } ] + {f uh, } {c and } ] {d now } sailing, i've never been sailing.  /""]",  c and   f uh  f uh  lipsmack  c but    f uh  c and   d now  sailing ive never been sailing  ,sd,MALE,1
+['have you been sailing? /'],have you been sailing ,qy,MALE,7
+"['{f uh, } yeah,  /']",f uh  yeah  ,ny,MALE,9
+"[""i've sailed some.  /""]",ive sailed some  ,sd,MALE,1
+"['i just like, {f uh, } fourteen foot sunfish. /']",i just like f uh  fourteen foot sunfish ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['nothing big. /'],nothing big ,sd,MALE,1
+"[""i've never tried.  /""]",ive never tried  ,sd,MALE,1
+"[""i've always thought, i bet that would be more fun.  /""]",ive always thought i bet that would be more fun  ,sd,MALE,1
+"[""{c but } i'd want to be with a skilled sailor <laughter>. /""]",c but  id want to be with a skilled sailor laughter ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+['really. /'],really ,aa,MALE,4
+"['{c but } it, -/']",c but  it ,%,MALE,5
+"['{d well, } they offer classes out at, {f uh, } ray hubbard. /']",d well  they offer classes out at f uh  ray hubbard ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{d well, } [ i, + i've ]  always thought i'd like to.  /""]",d well   i  ive   always thought id like to  ,sd,MALE,1
+"[""i've never <noise> wanted to bad enough to make any effort to do it, {d you know. } /""]",ive never noise wanted to bad enough to make any effort to do it d you know  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and, }  at this stage of the game, i'm not that interested in it anymore. /""]",c and   at this stage of the game im not that interested in it anymore ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"['we go out with friends on the, - /']",we go out with friends on the  ,sd,MALE,1
+['we go to the lake just about every weekend down at mount vernon  /'],we go to the lake just about every weekend down at mount vernon  ,sd,MALE,1
+['{c and } --'],c and  ,sd,MALE,1
+['okay. /'],okay ,b,MALE,2
+"[""-- <breathing> parents' next door neighbors have a big barge  /""]", breathing parents next door neighbors have a big barge  ,+,MALE,0
+['{c and } we go out and take them out on their barge.  /'],c and  we go out and take them out on their barge  ,sd,MALE,1
+"[""they're getting kind of old  /""]",theyre getting kind of old  ,sd,MALE,1
+"['{c and } they like us to take them out on their barge quite often,  /']",c and  they like us to take them out on their barge quite often  ,sd,MALE,1
+['{c so } [ we -- +'],c so   we  ,sd,MALE,1
+"[""{f oh, } that's nice. /""]",f oh  thats nice ,ba,MALE,6
+"['-- we ] get out on the water occasionally, {d you know. } /']", we  get out on the water occasionally d you know  ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""{c but, }  {f uh, } {f uh, } {d anyway, }  [ [ it's + <noise>, it's, ] + it's ] fun.  /""]",c but   f uh  f uh  d anyway     its  noise its   its  fun  ,sd,MALE,1
+"['[ i, + i ] do enjoy the lake,  /']", i  i  do enjoy the lake  ,sd,MALE,1
+"['{c but, }  {f uh, } once the  children were grown, - /']",c but   f uh  once the  children were grown  ,sd,MALE,1
+"[""{c and } we'd go down there  /""]",c and  wed go down there  ,sd,MALE,1
+"[""{c and } i'd get the boat out on the,  {d you know, } saturday,  /""]",c and  id get the boat out on the  d you know  saturday  ,sd,MALE,1
+"[""{c and } we'd go for a ride and enjoy it so much./""]",c and  wed go for a ride and enjoy it so much,sd,MALE,1
+"[""it's such a pretty lake down there.  /""]",its such a pretty lake down there  ,sd,MALE,1
+"[""we'd enjoy it so much  /""]",wed enjoy it so much  ,sd,MALE,1
+"[""{c and, }  i'd say, {d well, } i'm going to leave the boat out, because, {f uh, } we'll probably do this again tomorrow <laughter>.  /""]",c and   id say d well  im going to leave the boat out because f uh  well probably do this again tomorrow laughter  ,sd,MALE,1
+"['it got to where [ the, + ] tomorrow the boat was still sitting there  /']",it got to where  the   tomorrow the boat was still sitting there  ,sd,MALE,1
+['{c and } we never did go out again  /'],c and  we never did go out again  ,sd,MALE,1
+"[""{c and } i'd have to go load it up the next day. /""]",c and  id have to go load it up the next day ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+['where is that? /'],where is that ,qw,MALE,12
+"['{f uh, } mount vernon. /']",f uh  mount vernon ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['cypress springs,  /']",cypress springs  ,sd,MALE,1
+"['cypress [ cr-, + creek ] springs. /']",cypress  cr  creek  springs ,sd,MALE,1
+"['okay,  /']",okay  ,bk,MALE,14
+"[""that's south of here? /""]",thats south of here ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""it's down at mount vernon. /""]",its down at mount vernon ,sd,MALE,1
+['okay. /'],okay ,bk,MALE,14
+"[""it's probably the prettiest lake in the state of texas. /""]",its probably the prettiest lake in the state of texas ,sv,MALE,3
+['really? /'],really ,bh,MALE,18
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""it's just a hundred miles from here. /""]",its just a hundred miles from here ,sd,MALE,1
+"['{f huh. }  what do you take,  i  thirty-five? /']",f huh   what do you take  i  thirtyfive ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+"['[ you go down + [ [ i, + {f uh, } {f uh, }  you, ] + {f uh, } you ] go down, ] {f uh, } <lipsmack> yeah, thirty, thirty. /']", you go down    i  f uh  f uh   you   f uh  you  go down  f uh  lipsmack yeah thirty thirty ,sd,MALE,1
+['thirty. /'],thirty ,b^m,MALE,24
+"[""it's east of here. /""]",its east of here ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+['east of here.  /'],east of here  ,sd,MALE,1
+['hundred miles due east of here. /'],hundred miles due east of here ,sd,MALE,1
+['all right. /'],all right ,bk,MALE,14
+"['{c and, }  {f uh, } -/']",c and   f uh  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ it just + <throat_clearing>, we   just ] moved down here a couple years ago,  /']", it just  throatclearing we   just  moved down here a couple years ago  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+['did you?  /'],did you  ,bh,MALE,18
+['where did you all move from? /'],where did you all move from ,qw,MALE,12
+['colorado springs. /'],colorado springs ,sd,MALE,1
+"['{f oh, } did you? /']",f oh  did you ,bh,MALE,18
+['yeah. /'],yeah ,ny,MALE,9
+['how are you liking it? /'],how are you liking it ,qw,MALE,12
+"['{f oh, } we love it up there <laughter>. /']",f oh  we love it up there laughter ,sd,MALE,1
+"['{d well, } good. /']",d well  good ,ba,MALE,6
+"[""that's where i grew up <noise>. /""]",thats where i grew up noise ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d so, } -/']",d so  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but, }  {f uh, } </noise>  [ we're, + we ] like it down here pretty good. /""]",c but   f uh  noise   were  we  like it down here pretty good ,sd,MALE,1
+"[""{f oh, } i think you'll like it better,  /""]",f oh  i think youll like it better  ,sv,MALE,3
+"[""{c but, }  of course it's hard when you don't have any family around. /""]",c but   of course its hard when you dont have any family around ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['[ especial-, + ] we got two kids that are --']", especial   we got two kids that are ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- under two  /'], under two  ,+,MALE,0
+['{c and } --'],c and  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- it's kind of tough when my folks call and they want to see them <laughter>. /""]", its kind of tough when my folks call and they want to see them laughter ,+,MALE,0
+"['yes,  /']",yes  ,aa,MALE,4
+"[""it's hard on [ the f-, + your folks, ] too,  /""]",its hard on  the f  your folks  too  ,sv,MALE,3
+['i know.  /'],i know  ,sd,MALE,1
+"[""they're all, yours  /""]",theyre all yours  ,sv,MALE,3
+"[""{c and } your wife's folks still live in colorado? /""]",c and  your wifes folks still live in colorado ,qy^d,MALE,16
+['yeah. /'],yeah ,ny,MALE,9
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d so, } -/']",d so  ,%,MALE,5
+"['{f uh, } there are supposed to be, {f uh, } some people  [ f-, + moving down here from ] colorado springs for t i. /']",f uh  there are supposed to be f uh  some people   f  moving down here from  colorado springs for t i ,sd,MALE,1
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+"['yeah,  /']",yeah  ,ny,MALE,9
+['supposed to be. /'],supposed to be ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's right.  {f uh, } /""]",thats right  f uh  ,aa,MALE,4
+['do you work at t i? /'],do you work at t i ,qy,MALE,7
+"[""i don't,  /""]",i dont  ,ng,MALE,29
+['no. /'],no ,nn,MALE,13
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{f uh, } a friend of mine's dad  [ is, + was ] a program manager up there <noise> -- /""]",f uh  a friend of mines dad   is  was  a program manager up there noise  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } he just moved down here to mc-, - /']", c and  he just moved down here to mc  ,sd,MALE,1
+"['what do you, - /']",what do you  ,qw,MALE,12
+"[""i guess it's, - /""]",i guess its  ,sd,MALE,1
+"[""he's working in mckinney. /""]",hes working in mckinney ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i don't either.  /""]",i dont either  ,sd,MALE,1
+['my wife does <noise>. /'],my wife does noise ,sd,MALE,1
+['okay. /'],okay ,b,MALE,2
+"[""{c but, }  it's a good company.  /""]",c but   its a good company  ,sv,MALE,3
+"[""{c but, }  {d anyway, } we're supposed to be talking about boats,  /""]",c but   d anyway  were supposed to be talking about boats  ,sd,MALE,1
+['{c so } back to boats. /'],c so  back to boats ,ad,MALE,22
+['<laughter>.'],laughter,x,MALE,8
+"['{d so, }  tell me the last time you went for a boat ride. /']",d so   tell me the last time you went for a boat ride ,ad,MALE,22
+"['{d well, } actually, i went, {f uh, } canoeing down the brazos this weekend. /']",d well  actually i went f uh  canoeing down the brazos this weekend ,sd,MALE,1
+"[""{f oh, } my gosh, {d now } [ that had to be, + that's ] boating.  /""]",f oh  my gosh d now   that had to be  thats  boating  ,sv,MALE,3
+['that had to have been fun. /'],that had to have been fun ,sv,MALE,3
+"['it was fun,  /']",it was fun  ,sd,MALE,1
+['it was fun. /'],it was fun ,sd,MALE,1

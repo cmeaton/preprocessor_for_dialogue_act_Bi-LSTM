@@ -1,0 +1,142 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['are we tonight? /'],are we tonight ,qy,MALE,7
+['yeah.  /'],yeah  ,ny,FEMALE,9
+['sure. /'],sure ,sd,FEMALE,1
+"['okay,  /']",okay  ,b,MALE,2
+['{d well } let me go ahead and press one <beep>.  /'],d well  let me go ahead and press one beep  ,oo_co_cc,MALE,36
+"['okay,  leslie,  /']",okay  leslie  ,b,MALE,2
+"[""i'd like to find out a little bit about your hobbies.  /""]",id like to find out a little bit about your hobbies  ,sd,MALE,1
+['what do you like to do in your spare time? /'],what do you like to do in your spare time ,qw,MALE,12
+"['{d well, } {c and } when i have my spare time <laughter>,']",d well  c and  when i have my spare time laughter,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['i do enjoy, -/']",i do enjoy ,+,FEMALE,0
+"[""{d actually, } it's a cherished commodity now days,  {f huh. } /""]",d actually  its a cherished commodity now days  f huh  ,sv,MALE,3
+"[""that's right.  /""]",thats right  ,aa,FEMALE,4
+"['{f uh, } i do enjoy, {f uh, } sewing,  /']",f uh  i do enjoy f uh  sewing  ,sd,FEMALE,1
+"['i hand, {f uh, } - /']",i hand f uh   ,%,FEMALE,5
+['i do some needlepoint. /'],i do some needlepoint ,sd,FEMALE,1
+"['{f oh, } great. /']",f oh  great ,ba,MALE,6
+"[""{c and } [ i, + i've ] been doing a a picture for my father-in-law,  /""]",c and   i  ive  been doing a a picture for my fatherinlaw  ,sd,FEMALE,1
+"['{c but } if i, {f uh, } ever get enough spare time,']",c but  if i f uh  ever get enough spare time,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['he might see it one day. /'],he might see it one day ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } some other things i like to do are, [ is + ] music and, {f uh, } also reading. /']",c and  some other things i like to do are  is   music and f uh  also reading ,sd,FEMALE,1
+['what kind of music? /'],what kind of music ,qw,MALE,12
+['{d well } i enjoy singing. /'],d well  i enjoy singing ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+['yeah. /'],yeah ,b,FEMALE,2
+['{d well } great.  /'],d well  great  ,ba,MALE,6
+['i enjoy music too  /'],i enjoy music too  ,sd,MALE,1
+"['{c and } i, {f uh, } - /']",c and  i f uh   ,%,MALE,5
+"['one thing that i like to do, {f uh, } is sit down and play the piano.  /']",one thing that i like to do f uh  is sit down and play the piano  ,sd,MALE,1
+"[""i can't play that well,  /""]",i cant play that well  ,sd,MALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+['i enjoy that. /'],i enjoy that ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } a couple of hobbies that i also have is, {f uh, } - /']",f uh  a couple of hobbies that i also have is f uh   ,sd,MALE,1
+['i really enjoy bike riding  /'],i really enjoy bike riding  ,sd,MALE,1
+['{c and } the biggest hobbies i have right now are my kids and whatever they are involved in. /'],c and  the biggest hobbies i have right now are my kids and whatever they are involved in ,sd,MALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['like my, {f uh, } oldest boy is involved in soccer  /']",like my f uh  oldest boy is involved in soccer  ,sd,MALE,1
+['{c so } we go out and play kick the soccer ball around or play throw the football  /'],c so  we go out and play kick the soccer ball around or play throw the football  ,sd,MALE,1
+"['{c and, } {f uh, } we also like to, {f uh, } ride bicycles.  /']",c and  f uh  we also like to f uh  ride bicycles  ,sd,MALE,1
+"[""{c so } we're riding bicycles  /""]",c so  were riding bicycles  ,sd,MALE,1
+"['{c and so } a lot of the hobbies that i have right now are centered around [ my, + my ] children and also things that my wife and i like to do --']",c and so  a lot of the hobbies that i have right now are centered around  my  my  children and also things that my wife and i like to do ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- together.  /'], together  ,+,MALE,0
+"['[ {c and } + {f uh, } {c so } ] personally <laughter> a lot of the hobbies i had when i was growing up and, {f uh, } going to college and so forth are having to change. /']", c and   f uh  c so   personally laughter a lot of the hobbies i had when i was growing up and f uh  going to college and so forth are having to change ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i really enjoyed, {f uh, } mountain climbing.   /']",i really enjoyed f uh  mountain climbing   ,sd,MALE,1
+"['i really enjoyed skiing.   {f uh, } and  a lot of outdoor activities.  /']",i really enjoyed skiing   f uh  and  a lot of outdoor activities  ,sd,MALE,1
+"[""{f uh } there's not a whole lot of mountains here in texas --""]",f uh  theres not a whole lot of mountains here in texas ,sd,MALE,1
+"[""<laughter>  that's right. /""]",laughter  thats right ,aa,FEMALE,4
+"['-- that i can go skiing with that right now,  /']", that i can go skiing with that right now  ,+,MALE,0
+['{c but } hopefully i will be able to get back to the slopes some day  /'],c but  hopefully i will be able to get back to the slopes some day  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+['{f oh } yeah.  /'],f oh  yeah  ,b,FEMALE,2
+['i have not had the opportunity to go skiing  /'],i have not had the opportunity to go skiing  ,sd,FEMALE,1
+"['{c but, } {f uh, } i grew up in arizona which has some mountains around it  /']",c but  f uh  i grew up in arizona which has some mountains around it  ,sd,FEMALE,1
+['{c but } --'],c but  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['--  {f uh, } never did get out and ski <laughter>. /']",  f uh  never did get out and ski laughter ,+,FEMALE,0
+"[""you didn't? /""]",you didnt ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['i never did. /'],i never did ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""[ didn't have the, + {f uh, } i guess i didn't have the ] person out there saying hey let me take you skiing  /""]", didnt have the  f uh  i guess i didnt have the  person out there saying hey let me take you skiing  ,sd,FEMALE,1
+"['{c and } of course, i was at that {d you know } stage of my life where i had to be taken to [ p-, + places. ]  /']",c and  of course i was at that d you know  stage of my life where i had to be taken to  p  places   ,sd,FEMALE,1
+"[""i couldn't go by myself. /""]",i couldnt go by myself ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's true.  /""]",thats true  ,aa,MALE,4
+"[""that's true. /""]",thats true ,aa,MALE,4
+"['{c and then } of course, once i got to the age where i could have done it myself, i had other interests i guess.  /']",c and then  of course once i got to the age where i could have done it myself i had other interests i guess  ,sd,FEMALE,1
+['{c so } <laughter>. -/'],c so  laughter ,%,FEMALE,5
+['<laughter> {f oh } yeah.  /'],laughter f oh  yeah  ,b,MALE,2
+['i guess that for me it was very helpful.  /'],i guess that for me it was very helpful  ,sd,MALE,1
+['my two oldest brothers were very interested in skiing. /'],my two oldest brothers were very interested in skiing ,sd,MALE,1
+['{f oh } yeah. /'],f oh  yeah ,b,FEMALE,2
+"['{c and so } [ we, + we ] went quite often  /']",c and so   we  we  went quite often  ,sd,MALE,1
+"['{c and, } {f uh, } in fact my brother still does a lot of skiing.  /']",c and  f uh  in fact my brother still does a lot of skiing  ,sd,MALE,1
+['when i lived around in that area my brother would fly in from chicago  /'],when i lived around in that area my brother would fly in from chicago  ,sd,MALE,1
+['{c and } we would go skiing and enjoy that. /'],c and  we would go skiing and enjoy that ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ {c so, } + {c but, } ] {f uh, } luckily it's kind of unusual because hobbies, [ it's a, + it's a ] nice thing to have  /""]", c so   c but   f uh  luckily its kind of unusual because hobbies  its a  its a  nice thing to have  ,sd,MALE,1
+"[""{c and } it's good to fall back on those hobbies when you have time to.   like you mentioned  /""]",c and  its good to fall back on those hobbies when you have time to   like you mentioned  ,sd,MALE,1
+"[""{c and } i am finding out, a lot of the spare time that i had isn't there. /""]",c and  i am finding out a lot of the spare time that i had isnt there ,sd,MALE,1
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"[""[ it's, + {f uh, } it's, ] {f uh, } taken up by activities with, {f uh, } work, with family, with, {f uh, } civic and church responsibilities for me. /""]", its  f uh  its  f uh  taken up by activities with f uh  work with family with f uh  civic and church responsibilities for me ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d so, } -/']",d so  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ i, + i ] find if [ i, + i ] make i have to make myself realize that it is important to get out there and {d you know } just even to go for a walk is good recreation for me <laughter>. /']", i  i  find if  i  i  make i have to make myself realize that it is important to get out there and d you know  just even to go for a walk is good recreation for me laughter ,sd,FEMALE,1
+['<laughter>  {f oh } yeah.  /'],laughter  f oh  yeah  ,b,MALE,2
+['{f oh } yeah.  /'],f oh  yeah  ,b,MALE,2
+['{f oh } yeah  /'],f oh  yeah  ,b,MALE,2
+['<<very faint>>.'],very faint,x,MALE,8
+['yeah.  /'],yeah  ,b,FEMALE,2
+['{c and } my youngest daughter is going to be starting up soccer  /'],c and  my youngest daughter is going to be starting up soccer  ,sd,FEMALE,1
+"[""{c so } she's real excited about doing that. /""]",c so  shes real excited about doing that ,sd,FEMALE,1
+"['{d well, } great. /']",d well  great ,ba,MALE,6
+['we will be busy with that again. /'],we will be busy with that again ,sd,FEMALE,1
+"['what, again.  /']",what again  ,br,MALE,30
+['{c so } you have participated with that in the past? /'],c so  you have participated with that in the past ,qy,MALE,7
+['pardon me? /'],pardon me ,br,FEMALE,30
+"['have you [ par-, + participated ] in that # in the past? # /']",have you  par  participated  in that  in the past  ,qy,MALE,7
+"['# {d well, } i # did with my older daughter -- /']", d well  i  did with my older daughter  ,na,FEMALE,21
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } she was in it for a few years,  /']", c and  she was in it for a few years  ,sd,FEMALE,1
+"['{c but } she has got so many interests herself that,']",c but  she has got so many interests herself that,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['we had to start eliminating  /'],we had to start eliminating  ,+,FEMALE,0
+['{c and } {d well } the first one to go. - /'],c and  d well  the first one to go  ,sd,FEMALE,1
+['she still likes her piano -- /'],she still likes her piano  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } she is in band.  /'], c and  she is in band  ,sd,FEMALE,1
+"[""{c so, } she's got lots of hobbies or, {f uh, } activities going on. /""]",c so  shes got lots of hobbies or f uh  activities going on ,sd,FEMALE,1
+['it sounds like her life is full too. /'],it sounds like her life is full too ,sv,MALE,3
+['yeah. /'],yeah ,aa,FEMALE,4
+['i imagine your life is full <laughter> --'],i imagine your life is full laughter ,sv,MALE,3
+['very much. /'],very much ,aa,FEMALE,4
+['-- taking them around all over the place. /'], taking them around all over the place ,+,MALE,0
+"[""that's right <laughter>.  /""]",thats right laughter  ,aa,FEMALE,4
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+['all right.  /'],all right  ,b,MALE,2
+['all right.  /'],all right  ,b,MALE,2
+"[""{d well, } leslie, it's been very nice talking to you.  /""]",d well  leslie its been very nice talking to you  ,fc,MALE,10
+['is there anything else that you would like to --'],is there anything else that you would like to ,fc,MALE,10
+['{f uh. } /'],f uh  ,fc,FEMALE,10
+['-- mention tonight  /'], mention tonight  ,+,MALE,0
+"['{c or, } -/']",c or  ,fc,MALE,10
+"['no,  /']",no  ,fc,FEMALE,10
+['i think we covered it pretty good. /'],i think we covered it pretty good ,fc,FEMALE,10
+"['{f oh, } okay.  /']",f oh  okay  ,fc,MALE,10
+['great. /'],great ,fc,MALE,10
+['thank you for calling. /'],thank you for calling ,fc,FEMALE,10
+['{d well } thank you  /'],d well  thank you  ,fc,MALE,10
+['{c and } you have a nice evening. /'],c and  you have a nice evening ,fc,MALE,10
+['you too.  /'],you too  ,fc,FEMALE,10
+"['# bye,  /']", bye  ,fc,FEMALE,10
+['bye. # /'],bye  ,fc,FEMALE,10
+['# bye now. # /'], bye now  ,fc,MALE,10

@@ -1,0 +1,162 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['yes,  /']",yes  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['[ what, + what  ] major changes have affected your life? /']", what  what   major changes have affected your life ,qw,FEMALE,12
+"['{d well, } i think that, {f uh, } [ women, + women  ] working is the one that really affects me most strongly right now.  /']",d well  i think that f uh   women  women   working is the one that really affects me most strongly right now  ,sd,FEMALE,1
+"['{f um, } /']",f um  ,%,FEMALE,5
+"['you mean yourself, or women in general? /']",you mean yourself or women in general ,qy,FEMALE,7
+"['{d well, } women in general, [ and, + and  ] also myself. /']",d well  women in general  and  and   also myself ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } {f um, } it used to not really make a difference to me, {f um, }  /']",c but  f um  it used to not really make a difference to me f um   ,sd,FEMALE,1
+"[""{c or } at least i didn't think so.  /""]",c or  at least i didnt think so  ,sd,FEMALE,1
+"['{c but } my mother worked,  /']",c but  my mother worked  ,sd,FEMALE,1
+"[""{c and } i kind of now wish [ that, + that  ] she hadn't.""]",c and  i kind of now wish  that  that   she hadnt,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ that, + {f um, } that  ] she had, {f um, } stayed home,  /']", that  f um  that   she had f um  stayed home  ,+,FEMALE,0
+"[""{c and } right now i'm kind of stuck because i'd like to have children,  /""]",c and  right now im kind of stuck because id like to have children  ,sd,FEMALE,1
+"[""{c but } i'm not ready to do that because when i do have children i want to stay home.  /""]",c but  im not ready to do that because when i do have children i want to stay home  ,sd,FEMALE,1
+"[""{c so } i'm having to, {f uh, } try to figure out a way to be able to do that. /""]",c so  im having to f uh  try to figure out a way to be able to do that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, } [ in, + in  ] our society right now that's really something [ that's, + that's,  ] {f um, } not respected,  /""]",c and   in  in   our society right now thats really something  thats  thats   f um  not respected  ,sv,FEMALE,3
+"[""{c and } [ [ it's not, + it's not, ] + {f um, } it's not  ] easy to do --""]",c and    its not  its not   f um  its not   easy to do ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- at all.  /'], at all  ,+,FEMALE,0
+"[""{e i mean, } there's a great deal of sacrifice that has to be made on the part of a family [ if the, + if the  ] wife is going to actually be a mother. /""]",e i mean  theres a great deal of sacrifice that has to be made on the part of a family  if the  if the   wife is going to actually be a mother ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""that's interesting,  /""]",thats interesting  ,sv,FEMALE,3
+"['{c because } that relates to the thing [ that, + that  ] strikes me the most,  /']",c because  that relates to the thing  that  that   strikes me the most  ,sd,FEMALE,1
+"[""{c and } i'm sure [ you've, + you've  ] labelled the cause, because what strikes me the most in the changes in society is the way kids behave.  /""]",c and  im sure  youve  youve   labelled the cause because what strikes me the most in the changes in society is the way kids behave  ,sv,FEMALE,3
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['i think [ that + that  ]  ((   ))  they have to be related. /'],i think  that  that         they have to be related ,sv,FEMALE,3
+"[""that's right,  /""]",thats right  ,ba,FEMALE,6
+"[""that's right.  /""]",thats right  ,ba,FEMALE,6
+"['{c and } {d you know, } {e i mean } i was thinking it just, {d you know, } - /']",c and  d you know  e i mean  i was thinking it just d you know   ,sd,FEMALE,1
+"['my complaint [ would, + would  ] be, {f um, } that i think that, {d you know, } the kids in the neighborhood run wild,  /']",my complaint  would  would   be f um  that i think that d you know  the kids in the neighborhood run wild  ,sv,FEMALE,3
+"['{c and } [ they, + they  ] destroy property,  /']",c and   they  they   destroy property  ,sv,FEMALE,3
+"[""{c and } they, {d you know, } steal each other's toys and stuff  /""]",c and  they d you know  steal each others toys and stuff  ,sd,FEMALE,1
+['{c and } --'],c and  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- there's just no respect [ for, + for  ] people or property,  /""]", theres just no respect  for  for   people or property  ,+,FEMALE,0
+"[""{c and } i guess,  {d you know, } when you stop to think of it, these kids have probably been deprived of a lot of attention that they've needed all their lives. /""]",c and  i guess  d you know  when you stop to think of it these kids have probably been deprived of a lot of attention that theyve needed all their lives ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""i think that that's probably true. /""]",i think that thats probably true ,ba,FEMALE,6
+"['scary, /']",scary ,sv,FEMALE,3
+"['i just wish there was a way,  /']",i just wish there was a way  ,sd,FEMALE,1
+"[""i know that [ [ in, + in,  ] + {d you know, } in  ] sweden, what they have there, it's really their medical plan, but it also deals with this subject,  because if a woman, {f uh, } is working --""]",i know that   in  in    d you know  in   sweden what they have there its really their medical plan but it also deals with this subject  because if a woman f uh  is working ,sd,FEMALE,1
+['uh-huh /'],uhhuh ,b,FEMALE,2
+"[""-- and i think even if she's not, and has a child, the government subsidizes her to stay home and raise the child. /""]", and i think even if shes not and has a child the government subsidizes her to stay home and raise the child ,+,FEMALE,0
+['{c but } for how many years? /'],c but  for how many years ,qw,FEMALE,12
+"[""[ i don't, + i don't  ] know. /""]", i dont  i dont   know ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['until it, {f um, } - /']",until it f um   ,%,FEMALE,5
+"[""i'm sure until at least school age, and maybe longer. /""]",im sure until at least school age and maybe longer ,sv,FEMALE,3
+"[""{f oh, } that's great. /""]",f oh  thats great ,ba,FEMALE,6
+"['what this does is, it allows the government to subsidize her to be the mother of her children rather than to subsidize child care --']",what this does is it allows the government to subsidize her to be the mother of her children rather than to subsidize child care ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- to raise the child for her. /'], to raise the child for her ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"[""{c and } i think that that's [ a real, + a  ] much, much more viable solution, {d really. } /""]",c and  i think that thats  a real  a   much much more viable solution d really  ,sv,FEMALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['no,  /']",no  ,aa,FEMALE,4
+"['i agree, a hundred percent, a hundred percent.   /']",i agree a hundred percent a hundred percent   ,aa,FEMALE,4
+"['i guess i was lucky, because i was teaching,   /']",i guess i was lucky because i was teaching   ,sd,FEMALE,1
+"['{c and so } i was able to just go to a class and  teach when my son was little,  /']",c and so  i was able to just go to a class and  teach when my son was little  ,sd,FEMALE,1
+"[""{c and so } i'd be gone, {d you know, } an hour and  fifteen minutes or something at a stretch. /""]",c and so  id be gone d you know  an hour and  fifteen minutes or something at a stretch ,sd,FEMALE,1
+"['{f oh } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+"[""that's great. /""]",thats great ,ba,FEMALE,6
+"['{c and, then, } yeah,  /']",c and then  yeah  ,b,FEMALE,2
+['very soon he was old enough to just go and sort of stay in my office  /'],very soon he was old enough to just go and sort of stay in my office  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {d you know, } nobody seemed to have a big problem with that <laughter>.  /']", d you know  nobody seemed to have a big problem with that laughter  ,+,FEMALE,0
+"[""{c so. } that's an interesting issue though.  /""]",c so  thats an interesting issue though  ,sv,FEMALE,3
+"['{f um, } yeah  /']",f um  yeah  ,%,FEMALE,5
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f um, } goodness,  /']",f um  goodness  ,^h,FEMALE,27
+['what else? /'],what else ,qw,FEMALE,12
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{f oh, } there's been so many,  /""]",f oh  theres been so many  ,sv,FEMALE,3
+"['how do you just, -/']",how do you just ,qw,FEMALE,12
+"['right,  /']",right  ,b,FEMALE,2
+"[""i've, - /""]",ive  ,%,FEMALE,5
+"['{d actually } [ another one that i, + a question i  ] would have is, - /']",d actually   another one that i  a question i   would have is  ,sd,FEMALE,1
+"[""i guess i'm being, {d you know, } beyond the age of thinking of [ this, + this  ] problem.  /""]",i guess im being d you know  beyond the age of thinking of  this  this   problem  ,sd,FEMALE,1
+"['i had an argument recently with my boss,  /']",i had an argument recently with my boss  ,sd,FEMALE,1
+"['i think it was, about the need for women to work.   /']",i think it was about the need for women to work   ,sd,FEMALE,1
+"[""{c but } i think you put your finger on it, when you said that they're not respected if they don't work,  because it seems to me that a lot of people i know, women i know, are doing very menial jobs in a certain sense, certainly financially -- /""]",c but  i think you put your finger on it when you said that theyre not respected if they dont work  because it seems to me that a lot of people i know women i know are doing very menial jobs in a certain sense certainly financially  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {e i mean, } when i see the amount of clothes that they buy [ and, + and  ] how much it costs them to buy fast food on the way home --']", c and  e i mean  when i see the amount of clothes that they buy  and  and   how much it costs them to buy fast food on the way home ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- i'm sure that they're not [ making + quote making  ] money for the family on this -- /""]", im sure that theyre not  making  quote making   money for the family on this  ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['really. /'],really ,b,FEMALE,2
+"[""-- [ {c and, } + {c and } ] probably you're right. /""]",  c and   c and   probably youre right ,sv,FEMALE,3
+"[""i don't see how they could be, especially not if they have to pay for child care. /""]",i dont see how they could be especially not if they have to pay for child care ,sv,FEMALE,3
+"['{d well, } no,  /']",d well  no  ,ar,FEMALE,28
+"[""even families that don't have child care, - /""]",even families that dont have child care  ,sd,FEMALE,1
+"[""{e i mean, } {d you know, } when i think of this one friend who makes probably twenty thousand dollars a year, [ and + ] i'm sure she spends at least that in clothes, plus, {d you know, } fast food every day, and out to lunch every day, /""]",e i mean  d you know  when i think of this one friend who makes probably twenty thousand dollars a year  and   im sure she spends at least that in clothes plus d you know  fast food every day and out to lunch every day ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"[""you're probably right.  /""]",youre probably right  ,sv,FEMALE,3
+"[""if she sat down and looked at it she'd be like,  god, what am i doing this for, {d you know. } /""]",if she sat down and looked at it shed be like  god what am i doing this for d you know  ,sv,FEMALE,3
+"['exactly,  /']",exactly  ,aa,FEMALE,4
+"[""{c and } {e i mean, } {d you know, } even though they don't have children,  [ they, + they  ] have relatives  /""]",c and  e i mean  d you know  even though they dont have children   they  they   have relatives  ,sd,FEMALE,1
+"['{c and, } {d you know, } the husband would certainly like a lot more attention,  /']",c and  d you know  the husband would certainly like a lot more attention  ,sd,FEMALE,1
+"[""[ {c and, } + {c and } ] she wouldn't have to hire somebody to clean the house, and  do the gardening <laughter>.  /""]", c and   c and   she wouldnt have to hire somebody to clean the house and  do the gardening laughter  ,sd,FEMALE,1
+"[""{c and, so, } [ i, + i  ] guess you're right.  /""]",c and so   i  i   guess youre right  ,sv,FEMALE,3
+"[""[ it's, + it's  ] - /""]", its  its    ,%,FEMALE,5
+"[""our society demands women to work if they're going to be respected. /""]",our society demands women to work if theyre going to be respected ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['really sad <laughter>. /'],really sad laughter ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['religion has changed, too. /']",religion has changed too ,sv,FEMALE,3
+"[""{f oh, } that's true. /""]",f oh  thats true ,ba,FEMALE,6
+"[""{f um, } {f uh, } some people now it seems like are turning back toward actually trying to find out what they're in it for, instead of just, {f um, } - /""]",f um  f uh  some people now it seems like are turning back toward actually trying to find out what theyre in it for instead of just f um   ,sv,FEMALE,3
+"[""[ [ it, + it's, ] + it, ] - /""]",  it  its   it   ,%,FEMALE,5
+"[""some places still it seems like it's a social club. /""]",some places still it seems like its a social club ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d you know, } it's just a place to go, to visit, {f uh, } to wear your nice clothes, [ and, + and  ] to sit around and talk,  /""]",d you know  its just a place to go to visit f uh  to wear your nice clothes  and  and   to sit around and talk  ,sv,FEMALE,3
+"['{c but, } {f um, } i think a lot of people are really, {d you know, } searching now to [ find, + find  ] out who they are, and who god is, and  what all that really means now. /']",c but  f um  i think a lot of people are really d you know  searching now to  find  find   out who they are and who god is and  what all that really means now ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['{c so } that might be a positive change in society. /'],c so  that might be a positive change in society ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{f oh, } [ [ it's, + it's,  ] + {f um, } it's  ] beginning, i think. /""]",f oh    its  its    f um  its   beginning i think ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""i guess i haven't seen that as much in this area, although every now and then you hear about it. /""]",i guess i havent seen that as much in this area although every now and then you hear about it ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } {c but } among, {d you know, } people i know, i don't see a great, {d you know, } - /""]",f uh  c but  among d you know  people i know i dont see a great d you know   ,sv,FEMALE,3
+"['there are those people who [ have, + have  ] had serious questions all along, and,  {d you know, } are sort of pursuing it -- /']",there are those people who  have  have   had serious questions all along and  d you know  are sort of pursuing it  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but, } {f um, } the churches here are growing, leaps and bounds,  /']", c but  f um  the churches here are growing leaps and bounds  ,sv,FEMALE,3
+"['{c and } i thought it was more because of [ the, + the  ] very transient nature of the area --']",c and  i thought it was more because of  the  the   very transient nature of the area ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and that people were going basically just as you said, as a social to meet people, and that,  /']", and that people were going basically just as you said as a social to meet people and that  ,+,FEMALE,0
+"[""{c but, } {f um, } it's hard to judge,  /""]",c but  f um  its hard to judge  ,sv,FEMALE,3
+"['{c and } there are a lot of things changing, i suppose, /']",c and  there are a lot of things changing i suppose ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['just, {d you know, } [ the whole, + the whole  ] environment, i find --']",just d you know   the whole  the whole   environment i find ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f um, } sort of, {d you know, } - /']", f um  sort of d you know   ,+,FEMALE,0
+"['i wonder [ with, + with  ] all our chemicals [ and, + and  ]  that [ and, + and  ] the foods we eat, - /']",i wonder  with  with   all our chemicals  and  and    that  and  and   the foods we eat  ,sd,FEMALE,1
+"['{c and, } {d you know, } young people that i know are getting very serious diseases  /']",c and  d you know  young people that i know are getting very serious diseases  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['{f oh, } yes.  /']",f oh  yes  ,b,FEMALE,2
+"[""{d well, } i guess that's always happened. /""]",d well  i guess thats always happened ,sv,FEMALE,3
+['probably. /'],probably ,b,FEMALE,2
+['maybe not as much as now  /'],maybe not as much as now  ,sv,FEMALE,3
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""{d well, } it's just, - /""]",d well  its just  ,%,FEMALE,5
+"[""[ it's, + maybe it's  ] more unusual now, when, {d you know, } somebody quite young gets certain kinds of cancer,  /""]", its  maybe its   more unusual now when d you know  somebody quite young gets certain kinds of cancer  ,sv,FEMALE,3
+"['{c and } in the past, maybe the same percentage got them,  /']",c and  in the past maybe the same percentage got them  ,sv,FEMALE,3
+"[""{c but } we didn't know it,  /""]",c but  we didnt know it  ,sv,FEMALE,3
+"[""{c or, } i don't know.  /""]",c or  i dont know  ,h,FEMALE,15
+"[""{d well, } i guess we've sort of run dry a little bit. /""]",d well  i guess weve sort of run dry a little bit ,sv,FEMALE,3
+['okay <laughter>. /'],okay laughter ,b,FEMALE,2
+['<laughter> it was nice talking to you. /'],laughter it was nice talking to you ,fc,FEMALE,10
+['nice to talk to you. /'],nice to talk to you ,fc,FEMALE,10
+['okay.  /'],okay  ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

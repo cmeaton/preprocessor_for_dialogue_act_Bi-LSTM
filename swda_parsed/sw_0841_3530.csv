@@ -1,0 +1,116 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['what kind of books do you like best? /'],what kind of books do you like best ,qw,MALE,12
+"['{d well, } i alternate between danielle steele  <laughter> is one of my very favorites  /']",d well  i alternate between danielle steele  laughter is one of my very favorites  ,sd,FEMALE,1
+"['[ {c and, } + {f uh, } {c then } ] i try to go into one of the self improvement books.  /']", c and   f uh  c then   i try to go into one of the self improvement books  ,sd,FEMALE,1
+"['{f uh, } [ we, + we ] take books every once in a while in our sunday school class and go through them.  /']",f uh   we  we  take books every once in a while in our sunday school class and go through them  ,sd,FEMALE,1
+"['{f uh, } i love scott peck and his road less traveled. /']",f uh  i love scott peck and his road less traveled ,sd,FEMALE,1
+"['{f huh, } yeah,  /']",f huh  yeah  ,b,MALE,2
+"[""i've heard of that one.  /""]",ive heard of that one  ,sd,MALE,1
+['i --'],i ,sd,MALE,1
+"['{f oh, } [ it is -- +']",f oh   it is  ,sd,FEMALE,1
+"[""-- don't think i've read it. /""]", dont think ive read it ,+,MALE,0
+['-- it is ] wonderful.  /'], it is  wonderful  ,+,FEMALE,0
+"['[ i, +  i ] thoroughly enjoyed that.  /']", i   i  thoroughly enjoyed that  ,sd,FEMALE,1
+['what do you read? /'],what do you read ,qw,FEMALE,12
+"[""{d well, } {f uh, } i'm a tom clancy fan. /""]",d well  f uh  im a tom clancy fan ,sd,MALE,1
+['okay. /'],okay ,bk,FEMALE,14
+"['{c and } i read, - /']",c and  i read  ,sd,MALE,1
+"['i just finished a book on novelle netware, {f uh, }  /']",i just finished a book on novelle netware f uh   ,sd,MALE,1
+"[""that's computer stuff.  /""]",thats computer stuff  ,sd,MALE,1
+['i do a lot --'],i do a lot ,sd,MALE,1
+"['{f oh, } yes. /']",f oh  yes ,b,FEMALE,2
+['-- of computer reading  /'], of computer reading  ,+,MALE,0
+"[""{c and, } {f uh, } i'm just finishing another one up on, {f uh, } statistical sampling,  /""]",c and  f uh  im just finishing another one up on f uh  statistical sampling  ,sd,MALE,1
+"['{c so, } i do more work kind of related reading than, {f uh, } just for enjoyment. /']",c so  i do more work kind of related reading than f uh  just for enjoyment ,sd,MALE,1
+"['[ i, + i ] try to keep a book going all the time.  /']", i  i  try to keep a book going all the time  ,sd,FEMALE,1
+"['{f uh, } i try to read when i first wake up in the morning  and then before i go to sleep.  /']",f uh  i try to read when i first wake up in the morning  and then before i go to sleep  ,sd,FEMALE,1
+"['{c so } i probably get, {f oh, } thirty to fifty pages a day read. /']",c so  i probably get f oh  thirty to fifty pages a day read ,sd,FEMALE,1
+"[""{d well, } that's pretty good. /""]",d well  thats pretty good ,ba,MALE,6
+"['{c and } i just, {d you know, } - /']",c and  i just d you know   ,%,FEMALE,5
+"[""i don't feel like, - /""]",i dont feel like  ,%,FEMALE,5
+"[""in fact this morning, i was almost late for work because i'm almost at the end of this book  /""]",in fact this morning i was almost late for work because im almost at the end of this book  ,sd,FEMALE,1
+"[""{c and } i didn't want to put it down <laughter>. /""]",c and  i didnt want to put it down laughter ,sd,FEMALE,1
+"[""<laughter> {f oh, } i've had them like that before, too. /""]",laughter f oh  ive had them like that before too ,sd,MALE,1
+"['{c but } [ i like, + i like ] mysteries. /']",c but   i like  i like  mysteries ,sd,FEMALE,1
+['mysteries.  /'],mysteries  ,b^m,MALE,24
+['any particular writer? /'],any particular writer ,qy,MALE,7
+"['{f uh, } yes,  /']",f uh  yes  ,ny,FEMALE,9
+"['i like, {f uh, } {f uh, } {f oh, - /']",i like f uh  f uh  f oh  ,sd,FEMALE,1
+"[""} i'm drawing a blank.  /""]", im drawing a blank  ,sd,FEMALE,1
+"['{f uh, } he wrote the, {f uh, } bourne ultimatum. /']",f uh  he wrote the f uh  bourne ultimatum ,sd,FEMALE,1
+"['ludwig,  /']",ludwig  ,^2,MALE,23
+"['lud-, -/']",lud ,%,MALE,5
+"['ludwig, yes. /']",ludwig yes ,aa,FEMALE,4
+['yes. /'],yes ,aa,MALE,4
+"['{c and, } {f uh, } i like jeffrey archer. /']",c and  f uh  i like jeffrey archer ,sd,FEMALE,1
+['he is an english author who writes some mystery.  /'],he is an english author who writes some mystery  ,sd,FEMALE,1
+"[""{f uh, } {d well, } i guess [ they're, + they're ] a type of mystery.  /""]",f uh  d well  i guess  theyre  theyre  a type of mystery  ,sd,FEMALE,1
+"[""they're usually some p-, - /""]",theyre usually some p  ,%,FEMALE,5
+"[""he's a ex-lawyer  /""]",hes a exlawyer  ,sd,FEMALE,1
+"[""[ {c so, } + {c or, } ] [ he, + he's ] a lawyer who no longer practices,  /""]", c so   c or    he  hes  a lawyer who no longer practices  ,sd,FEMALE,1
+['{c but } --'],c but  ,sd,FEMALE,1
+"['-- his [ are all, + ] have some part of the law, {f uh, } enveloped in them. /']", his  are all   have some part of the law f uh  enveloped in them ,+,FEMALE,0
+"['{c so, } you kind of learn something as well as [ en-, + enjoy ] yourself. /']",c so  you kind of learn something as well as  en  enjoy  yourself ,sd,MALE,1
+"['right,  /']",right  ,b,FEMALE,2
+"['{c and then, } {f uh, } the new author that came out with, {f uh, } {f oh, } the one that, {f uh, } harrison ford starred in. /']",c and then  f uh  the new author that came out with f uh  f oh  the one that f uh  harrison ford starred in ,sd,FEMALE,1
+['raiders of the lost ark stuff. /'],raiders of the lost ark stuff ,^2,MALE,23
+"['no,  /']",no  ,ar,FEMALE,28
+"['no,  /']",no  ,ar,FEMALE,28
+['it was --'],it was ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+"['-- the, {f uh, } - /']", the f uh   ,+,FEMALE,0
+"[""<breathing> it's late,  /""]",breathing its late  ,sd,FEMALE,1
+"[""i'm tired,  /""]",im tired  ,sd,FEMALE,1
+"[""{c so } <laughter> i'm not --""]",c so  laughter im not ,sd,FEMALE,1
+"['[ what, +']", what ,qw,MALE,12
+['-- thinking too well. /'], thinking too well ,+,FEMALE,0
+"['what ] time is it there, ten thirty? /']",what  time is it there ten thirty ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } it's nine thirty here. /""]",f uh  its nine thirty here ,sd,MALE,1
+"[""{f oh, } [ it's, +  {f uh, } it ] was his first book.  /""]",f oh   its   f uh  it  was his first book  ,sd,FEMALE,1
+"['[ it came, + it ] was on the top of the list, {f uh, }  /']", it came  it  was on the top of the list f uh   ,sd,FEMALE,1
+['he was a d a. /'],he was a d a ,sd,FEMALE,1
+"['{f uh, } presumed innocent? /']",f uh  presumed innocent ,qy,MALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"[""{f oh, } i haven't seen the movie, {f uh, } or [ n-, + ] read the book  /""]",f oh  i havent seen the movie f uh  or  n   read the book  ,sd,MALE,1
+"['okay,  /']",okay  ,b,FEMALE,2
+"[""{c and then } [ he's, + he ] came out with the second one.  /""]",c and then   hes  he  came out with the second one  ,sd,FEMALE,1
+"['{f uh, } a sequel to it. /']",f uh  a sequel to it ,sd,FEMALE,1
+"[""{c and } both of those i've enjoyed real well.  /""]",c and  both of those ive enjoyed real well  ,sd,FEMALE,1
+"['{c but } [ i, + i ] like that.  /']",c but   i  i  like that  ,sd,FEMALE,1
+['i love danielle steele  /'],i love danielle steele  ,sd,FEMALE,1
+"['[ {c and, } + {c and, } ] {d you know, } if i want to get a fantasy and <laughter> --']", c and   c and   d you know  if i want to get a fantasy and laughter ,sd,FEMALE,1
+['[ is she -- +'], is she  ,qy,MALE,7
+['-- get away from it all. /'], get away from it all ,+,FEMALE,0
+['-- is she ] kind of racy? /'], is she  kind of racy ,+,MALE,0
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"[""she isn't at  all. /""]",she isnt at  all ,sd,FEMALE,1
+['just feel good. /'],just feel good ,^2,MALE,23
+"['her books, {f uh, } - /']",her books f uh   ,%,FEMALE,5
+['you always cry. /'],you always cry ,sv,FEMALE,3
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+"[""{e i mean, } [  it's, +  it's ] always good for good tears. /""]",e i mean    its   its  always good for good tears ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""{f uh, } one book that she wrote that's good for both men and women is fine things,  /""]",f uh  one book that she wrote thats good for both men and women is fine things  ,sd,FEMALE,1
+"[""[ m-, + my ] mother-in-law's a real fan of hers. /""]", m  my  motherinlaws a real fan of hers ,sd,MALE,1
+"[""[ it's, + it's ] always going to make you have a good cry  /""]", its  its  always going to make you have a good cry  ,sd,FEMALE,1
+"[""{c and } you know it's going it turn out good  /""]",c and  you know its going it turn out good  ,sd,FEMALE,1
+"[""{c and } you're going to be happy in the end <laughter>. /""]",c and  youre going to be happy in the end laughter ,sd,FEMALE,1
+"[""{f oh, } {d well, } that's nice. /""]",f oh  d well  thats nice ,ba,MALE,6
+"['{c and } i said, {d you know, } - /']",c and  i said d you know   ,%,FEMALE,5
+"[""i don't want anything too real anymore.  /""]",i dont want anything too real anymore  ,sd,FEMALE,1
+['i have enough of that in my own life.  /'],i have enough of that in my own life  ,sd,FEMALE,1
+"['[  i want, + i want ] happy, fantasy  /']",  i want  i want  happy fantasy  ,sd,FEMALE,1
+['{d like. } -/'],d like  ,%,FEMALE,5
+['<laughter> yeah.  /'],laughter yeah  ,b,MALE,2
+"['{f uh, } you mentioned sunday school ladonna. /']",f uh  you mentioned sunday school ladonna ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } do you, - /']",f uh  do you  ,qy,MALE,7
+"['are you a bible fan, too? /']",are you a bible fan too ,qy,MALE,7
+"['{f uh, } [ i, + i ] do my share of it.  /']",f uh   i  i  do my share of it  ,na,FEMALE,21
+"[""[  i, + i ] certainly can't say that i understand a lot of it. /""]",  i  i  certainly cant say that i understand a lot of it ,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,MALE,2
+"[""{c but, } {f uh, } that's always a challenge.  /""]",c but  f uh  thats always a challenge  ,sv,MALE,3
+"['{c so } do you do, - /']",c so  do you do  ,qy,MALE,7
+"['my wife talks with other people, -/']",my wife talks with other people ,sd,MALE,1

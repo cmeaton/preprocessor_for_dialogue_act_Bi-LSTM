@@ -1,0 +1,241 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{f uh, } do you work outside the home? /']",f uh  do you work outside the home ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['i do not. /'],i do not ,ng,FEMALE,29
+"['okay,  /']",okay  ,b,FEMALE,2
+['wow <laughter>. /'],wow laughter ,ba,FEMALE,6
+['do you? /'],do you ,qy,FEMALE,7
+['have you? /'],have you ,qy,FEMALE,7
+['have i? /'],have i ,br,FEMALE,30
+"['yes,  /']",yes  ,ny,FEMALE,9
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{f uh, } no,  /']",f uh  no  ,nn,FEMALE,13
+['not actually <laughter>. /'],not actually laughter ,ng,FEMALE,29
+"['okay,  /']",okay  ,bk,FEMALE,14
+"['{d well, } yes i do. /']",d well  yes i do ,ny,FEMALE,9
+['okay. /'],okay ,bk,FEMALE,14
+"['in fact, i am at work right now.  /']",in fact i am at work right now  ,sd,FEMALE,1
+"['{f uh, }  {c and so } let me take the lead, {f uh, } angela.  /']",f uh   c and so  let me take the lead f uh  angela  ,oo_co_cc,FEMALE,36
+"['{f uh, } i think what is really important, {f uh, } - /']",f uh  i think what is really important f uh   ,sv,FEMALE,3
+"[""<noise> of course, salary is very important, because that's why you are working  [ for your, + ] for the money, {c but, } job satisfaction to me is also, {f uh, }  very important in having a job.  /""]",noise of course salary is very important because thats why you are working   for your   for the money c but  job satisfaction to me is also f uh   very important in having a job  ,sv,FEMALE,3
+"['{c and, } {f uh, } one of the things that, {f uh, } she asked us to  discuss was benefits.  /']",c and  f uh  one of the things that f uh  she asked us to  discuss was benefits  ,sd,FEMALE,1
+"[""{f uh, } i'm assuming that you are married and have a husband that supports you. /""]",f uh  im assuming that you are married and have a husband that supports you ,qy^d,FEMALE,16
+['right. /'],right ,na,FEMALE,21
+['okay.  /'],okay  ,bk,FEMALE,14
+"['{c and so } [ we could, + we could ]  talk about, {f uh, } that path, {d you know, } how important you think his benefits are.    [ [ and, + and, ] + and, ] {f uh, } how important you think they are and [ if, + ] what would you like to see increased --']",c and so   we could  we could   talk about f uh  that path d you know  how important you think his benefits are      and  and   and  f uh  how important you think they are and  if   what would you like to see increased ,ad,FEMALE,22
+['okay. /'],okay ,aa,FEMALE,4
+['-- in his benefits.  /'], in his benefits  ,+,FEMALE,0
+"['like, {f uh, } <throat_clearing> perhaps, {f uh, } he has, {f uh, }']",like f uh  throatclearing perhaps f uh  he has f uh ,sd,FEMALE,1
+['<noise>.'],noise,x,FEMALE,8
+"['the benefit of having eyeglasses for the family, {f uh, } {f uh, } and how much coverage, {f uh, } it provides and also, your hospital coverage,  and, {f uh, } {f um, } probably dental.  /']",the benefit of having eyeglasses for the family f uh  f uh  and how much coverage f uh  it provides and also your hospital coverage  and f uh  f um  probably dental  ,+,FEMALE,0
+['how important you think that would be. /'],how important you think that would be ,sd,FEMALE,1
+['right.  /'],right  ,aa,FEMALE,4
+"['[ i, + i ] think that job wise benefits  are [ import-, + ] just as important as salary is. /']", i  i  think that job wise benefits  are  import   just as important as salary is ,sv,FEMALE,3
+"['{c because } [ they, + ] of course, if you did not have them, you would be pulling from your salary, of course. /']",c because   they   of course if you did not have them you would be pulling from your salary of course ,bf,FEMALE,20
+"['exactly, /']",exactly ,aa,FEMALE,4
+"['right, /']",right ,aa,FEMALE,4
+['exactly. /'],exactly ,aa,FEMALE,4
+['right. /'],right ,aa,FEMALE,4
+"['especially when you have a family, with children, and you are always going to the doctor for, -/']",especially when you have a family with children and you are always going to the doctor for ,sv,FEMALE,3
+['{c and } they always have surprises for you. /'],c and  they always have surprises for you ,bf,FEMALE,20
+"['exactly, /']",exactly ,aa,FEMALE,4
+"['with children, /']",with children ,b^m,FEMALE,24
+['they always do. /'],they always do ,sv,FEMALE,3
+"[""{d you know, } {c and so, } [ it's, + it ]  is, {f uh, } - /""]",d you know  c and so   its  it   is f uh   ,%,FEMALE,5
+"['we could not do without the benefit package [ from, + from ] any company that we worked  [ for, + ] whether they be a conglomerate or just a small, <inhaling> {f uh, } {f uh, } business. /']",we could not do without the benefit package  from  from  any company that we worked   for   whether they be a conglomerate or just a small inhaling f uh  f uh  business ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['i think [ any, any, + ]  even if your insurance policy is not the greatest. -/']",i think  any any    even if your insurance policy is not the greatest ,sv,FEMALE,3
+['you would still have something. /'],you would still have something ,^2,FEMALE,23
+['exactly.  /'],exactly  ,aa,FEMALE,4
+['[ you  + ((   ))  you ]  would not be pulling it out of your account all of the time --'], you        you   would not be pulling it out of your account all of the time ,bf,FEMALE,20
+['right. /'],right ,aa,FEMALE,4
+['-- just by yourself.  /'], just by yourself  ,+,FEMALE,0
+"['also, <inhaling> for working women --']",also inhaling for working women ,sv,FEMALE,3
+['yes. /'],yes ,aa,FEMALE,4
+"['-- {f uh, } i think a lot of the companies should start providing for day-care [ [ in the, + in the, ] +']", f uh  i think a lot of the companies should start providing for daycare   in the  in the  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['in the ] building. /'],in the  building ,+,FEMALE,0
+"['they are getting a handle on that, in fact, {f uh, }  my oldest daughter [ is, + {f uh, } is ] {f uh, } a nurse  /']",they are getting a handle on that in fact f uh   my oldest daughter  is  f uh  is  f uh  a nurse  ,sd,FEMALE,1
+['{c and } she just received her masters  degree  /'],c and  she just received her masters  degree  ,sd,FEMALE,1
+['{c and } she is now into consulting  /'],c and  she is now into consulting  ,sd,FEMALE,1
+"[""{c and } that's one of the areas that she is working on.  to have, {f uh, } {f uh, } a day care center for [ the indiv-, + ]  the children [ of the, + of the ] nurses that are staffing the facility. /""]",c and  thats one of the areas that she is working on  to have f uh  f uh  a day care center for  the indiv    the children  of the  of the  nurses that are staffing the facility ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['{c and } that is true in many, many  areas of, {d you know, } {f uh, } job titles --']",c and  that is true in many many  areas of d you know  f uh  job titles ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- and professions. /'], and professions ,+,FEMALE,0
+"[""{d like } in may case, i have three children -- *[[spelling: 'may' should be 'my']]""]",d like  in may case i have three children  spelling may should be my,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- from ages nine to two.'], from ages nine to two,+,FEMALE,0
+['sure. /'],sure ,b,FEMALE,2
+"[""{c and, } it's just unfeasible for me to try to get a job because all the money that i would,""]",c and  its just unfeasible for me to try to get a job because all the money that i would,+,FEMALE,0
+"['would, - /']",would  ,%,FEMALE,5
+"['[ it would, +']", it would ,bf,FEMALE,20
+['be making would be going to day care. /'],be making would be going to day care ,+,FEMALE,0
+['it would ] be just futile. /'],it would  be just futile ,+,FEMALE,0
+"['{c and } it would be just, -/']",c and  it would be just ,sd,FEMALE,1
+"['# {c and } they would not have the quality, # /']", c and  they would not have the quality  ,bf,FEMALE,20
+"['# basically be me working to pay # for them to be at a day care,']", basically be me working to pay  for them to be at a day care,sd,FEMALE,1
+"['# {c and } they, #']", c and  they ,bf,FEMALE,20
+['# center. # /'], center  ,+,FEMALE,0
+['would be deprived of their mother. /'],would be deprived of their mother ,+,FEMALE,0
+['exactly. /'],exactly ,aa,FEMALE,4
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['no,  /']",no  ,"fo_o_fw_""_by_bc",FEMALE,0
+['i understand that totally <throat_clearing>. /'],i understand that totally throatclearing ,ba,FEMALE,6
+"[""besides which, it would be easier, {f uh, } there's a lot of single mothers out there now, from divorces and a lot of,""]",besides which it would be easier f uh  theres a lot of single mothers out there now from divorces and a lot of,sd,FEMALE,1
+"['{f oh, } i  (( hear )) , /']",f oh  i   hear   ,b,FEMALE,2
+['women are starting to have babies without a partner. /'],women are starting to have babies without a partner ,+,FEMALE,0
+"['yes,  /']",yes  ,aa,FEMALE,4
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"['{c and } to go to work, you are worried about your child, besides which you have to get up earlier to take the child to day care. /']",c and  to go to work you are worried about your child besides which you have to get up earlier to take the child to day care ,sv,FEMALE,3
+['right. /'],right ,aa,FEMALE,4
+['{c and } if they were in the same building --'],c and  if they were in the same building ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- then you are going to the same place,  /']", then you are going to the same place  ,+,FEMALE,0
+"['{c and }  you could go for your lunch hour down and visit with your child,']",c and   you could go for your lunch hour down and visit with your child,sv,FEMALE,3
+['yes.  /'],yes  ,aa,FEMALE,4
+"['[ do you, +']", do you ,qy,FEMALE,7
+"['[ or, + ] {d you know, } and take your breaks with your  children, or something. /']", or   d you know  and take your breaks with your  children or something ,+,FEMALE,0
+"['do you ] think that you should fund that if they have that as a benefit, if you would fund that somewhat from your salary that you are getting? /']",do you  think that you should fund that if they have that as a benefit if you would fund that somewhat from your salary that you are getting ,+,FEMALE,0
+['<inhaling>.'],inhaling,x,FEMALE,8
+"['do you think that would be,']",do you think that would be,qy,FEMALE,7
+"['i think tha-, - /']",i think tha  ,sv,FEMALE,3
+"['i,']",i,na,FEMALE,21
+['acceptable? /'],acceptable ,+,FEMALE,0
+['think it would be fair. /'],think it would be fair ,+,FEMALE,0
+['i do too. /'],i do too ,aa,FEMALE,4
+"['i think [ if, + if ] the company could not provide it all on their own,']",i think  if  if  the company could not provide it all on their own,sv,FEMALE,3
+"['right,  /']",right  ,aa,FEMALE,4
+"['that you, -/']",that you ,%,FEMALE,5
+"['[ for the, + for the ]  people that would be using it, {d you know, }']", for the  for the   people that would be using it d you know ,+,FEMALE,0
+['right. /'],right ,aa,FEMALE,4
+['a certain amount of their salary would go to it. /'],a certain amount of their salary would go to it ,+,FEMALE,0
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"['{c but } it would still probably be cheaper <sigh>,']",c but  it would still probably be cheaper sigh,sv,FEMALE,3
+"['with the company [ than, +']",with the company  than ,^2,FEMALE,23
+"['with the company helping,']",with the company helping,+,FEMALE,0
+"['# than ] having to go, # -/']", than  having to go  ,+,FEMALE,0
+"['# [ our + ] if everybody, # {d you know, }  pulled their own weight in it. /']",  our   if everybody  d you know   pulled their own weight in it ,+,FEMALE,0
+"[""that's  ((   )) , - /""]",thats        ,%,FEMALE,5
+"[""that's right.  /""]",thats right  ,aa,FEMALE,4
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['i,']",i,aa,FEMALE,4
+['i think it would be really.'],i think it would be really,sv,FEMALE,3
+['agree with that. /'],agree with that ,+,FEMALE,0
+['really great. /'],really great ,+,FEMALE,0
+['that would be fair. /'],that would be fair ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['i do. /'],i do ,aa,FEMALE,4
+"[""{f uh, } {c and } [ how, + how ] do you feel about, {f uh, } let's see, eye care? /""]",f uh  c and   how  how  do you feel about f uh  lets see eye care ,qo,FEMALE,25
+['eye care is good.  /'],eye care is good  ,sv,FEMALE,3
+"['i do not, - /']",i do not  ,sd,FEMALE,1
+"['i am not sur-, - /']",i am not sur  ,sd,FEMALE,1
+['i do not think we have that on our policy. /'],i do not think we have that on our policy ,sd,FEMALE,1
+['okay. /'],okay ,b,FEMALE,2
+"['{c but, } {f uh, } we, -/']",c but  f uh  we ,%,FEMALE,5
+"[""vision, i guess it's called,""]",vision i guess its called,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['vision care. /'],vision care ,+,FEMALE,0
+"['it would be great, {e i mean, } {f uh, } the glasses  that, - /']",it would be great e i mean  f uh  the glasses  that  ,sv,FEMALE,3
+"[""the exams themselves are not expensive, it's the glasses. /""]",the exams themselves are not expensive its the glasses ,sv,FEMALE,3
+"['it depends on who  [ (( ha-, )) + ]  examines your eyes. /']",it depends on who    ha     examines your eyes ,arp_nd,FEMALE,34
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"['if you have [ an, + an ]   ((   ))  optometrist or an ophthalmologist,']",if you have  an  an         optometrist or an ophthalmologist,sv,FEMALE,3
+"['right,  /']",right  ,aa,FEMALE,4
+['now like my ... -/'],now like my  ,%,FEMALE,5
+"[""there's a vast difference in those two, {f uh, }""]",theres a vast difference in those two f uh ,+,FEMALE,0
+['right. /'],right ,aa,FEMALE,4
+['professionals. /'],professionals ,+,FEMALE,0
+"['{d well, } like my mother, she has to go for testing  cause she has got, -/']",d well  like my mother she has to go for testing  cause she has got ,sd,FEMALE,1
+['glaucoma. /'],glaucoma ,^2,FEMALE,23
+"['{d well, } she does not have it,  /']",d well  she does not have it  ,ar,FEMALE,28
+"['{c but, }']",c but ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['she is {d like, } on the verge of it or,']",she is d like  on the verge of it or,+,FEMALE,0
+"['{f oh, } okay,  /']",f oh  okay  ,bk,FEMALE,14
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['something.  /'],something  ,+,FEMALE,0
+"['her eyes are changing, /']",her eyes are changing ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+['{c and } she has to be tested  periodically.  /'],c and  she has to be tested  periodically  ,sd,FEMALE,1
+"['[ {c and, } +']", c and  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } ] those are expensive tests. /'],c and   those are expensive tests ,+,FEMALE,0
+"['yes,  /']",yes  ,aa,FEMALE,4
+['they are. /'],they are ,aa,FEMALE,4
+"['now, i think your insurance covers her --']",now i think your insurance covers her ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- on that,  /']", on that  ,+,FEMALE,0
+"[""{c but } {d you know, } for something like that, [ it-, + ] that's just as bad as a medical, {d you know, }  /""]",c but  d you know  for something like that  it   thats just as bad as a medical d you know   ,sv,FEMALE,3
+"[""that's, -/""]",thats ,%,FEMALE,5
+"['right,  /']",right  ,aa,FEMALE,4
+"[""that's critical, because she's in need of it so often. /""]",thats critical because shes in need of it so often ,bf,FEMALE,20
+['right. /'],right ,aa,FEMALE,4
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['{c and, } {d you know, } we have, {f uh, } needs in our life that are unique to us  /']",c and  d you know  we have f uh  needs in our life that are unique to us  ,sv,FEMALE,3
+"['{c and, } {f uh, } {d you know, } people have needs in their  life that unique to us, to them. /']",c and  f uh  d you know  people have needs in their  life that unique to us to them ,sv,FEMALE,3
+['right. /'],right ,aa,FEMALE,4
+"['{e i mean, } we are all different  /']",e i mean  we are all different  ,sv,FEMALE,3
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['now, i would like to see [ betl-, + ]  better <noise> dental insurance to me.  /']",now i would like to see  betl    better noise dental insurance to me  ,sd,FEMALE,1
+['</noise> was that our beep? /'],noise was that our beep ,qy,FEMALE,7
+"['{d well, } no  /']",d well  no  ,nn,FEMALE,13
+"[""that's my other phone. /""]",thats my other phone ,sd,FEMALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+['huh. /'],huh ,b,FEMALE,2
+"[""{d so, } that's it - /""]",d so  thats it  ,sd,FEMALE,1
+"[""that's okay, - /""]",thats okay  ,sd,FEMALE,1
+"['my, - /']",my  ,%,FEMALE,5
+['that phone is ringing to an empty desk  /'],that phone is ringing to an empty desk  ,sd,FEMALE,1
+"[""{c and } she's on vacation, /""]",c and  shes on vacation ,sd,FEMALE,1
+['okay. /'],okay ,bk,FEMALE,14
+"[""<laughter> {c so, } it's okay. /""]",laughter c so  its okay ,sd,FEMALE,1
+"['{c but, } with the three children --']",c but  with the three children ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f um, } orthopedic care, {f um, }  not orthopedic, orthodontic care, -/']", f um  orthopedic care f um   not orthopedic orthodontic care ,+,FEMALE,0
+"[""that's very expensive. /""]",thats very expensive ,sv,FEMALE,3
+"['because [ on, + on ] a lot of the dental insurance,  they do not cover that well.  /']",because  on  on  a lot of the dental insurance  they do not cover that well  ,sd,FEMALE,1
+"['for [ the, + the ] orthodontia stuff. -/']",for  the  the  orthodontia stuff ,sd,FEMALE,1
+"['yes,  /']",yes  ,aa,FEMALE,4
+"[""that's true.  /""]",thats true  ,aa,FEMALE,4
+['orthodontic work is terribly expensive. /'],orthodontic work is terribly expensive ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+['it is. /'],it is ,aa,FEMALE,4
+"['especially when you have a lot of problems with the  children teeth,']",especially when you have a lot of problems with the  children teeth,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ and, + and ] you have to really get them when they  are young, in order to have, {f uh, } not, {f uh, } a decent smile when they  are fifteen, sixteen years old. /']", and  and  you have to really get them when they  are young in order to have f uh  not f uh  a decent smile when they  are fifteen sixteen years old ,+,FEMALE,0
+['right. /'],right ,aa,FEMALE,4
+"['i know, two of my daughters had to have that  /']",i know two of my daughters had to have that  ,sd,FEMALE,1
+"['{c and } they started having extractions at age eight, {f uh, } because they just had too  many teeth for their size mouth. /']",c and  they started having extractions at age eight f uh  because they just had too  many teeth for their size mouth ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } we footed the bill, because there was not any  such thing [ and + ] when they were young. /']",c and  we footed the bill because there was not any  such thing  and   when they were young ,sd,FEMALE,1
+['right.  /'],right  ,aa,FEMALE,4
+"[""my middle child needs to have, {f uh, }  orthodontic, [ he's + ] because his, his pallet is squared, not rounded./""]",my middle child needs to have f uh   orthodontic  hes   because his his pallet is squared not rounded,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"['{c and } it affects his speech a little bit,  [ not, + not ] anything, {d you know, } -/']",c and  it affects his speech a little bit   not  not  anything d you know  ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['major. /'],major ,^2,FEMALE,23
+['right. /'],right ,aa,FEMALE,4
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c but } just enough that his bite is off a little bit  /'],c but  just enough that his bite is off a little bit  ,sd,FEMALE,1
+"[""{c and } it's like four hundred dollars,  /""]",c and  its like four hundred dollars  ,sd,FEMALE,1
+['{c and } my insurance is only going to  cover {d like } fifty of it. /'],c and  my insurance is only going to  cover d like  fifty of it ,sd,FEMALE,1
+"['{d well, } i tell you [ i, + <throat_clearing> i ] just read an article in the paper about what they are doing, i think it was an ad [ in, + in ]  our publication at texas instruments, where they are breaking the jaw [ and, +']",d well  i tell you  i  throatclearing i  just read an article in the paper about what they are doing i think it was an ad  in  in   our publication at texas instruments where they are breaking the jaw  and ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['and ] lining the jaw up with the teeth.  /'],and  lining the jaw up with the teeth  ,+,FEMALE,0
+"[""[  it's, + it's ] less painful and less expensive. /""]",  its  its  less painful and less expensive ,sd,FEMALE,1
+['really. /'],really ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+['that sounds like it would hurt more. /'],that sounds like it would hurt more ,sv,FEMALE,3
+"['[ i, + i ] know,  /']", i  i  know  ,aa,FEMALE,4
+"[""{c but } [ [ it, + it's, ] + it's, ]  {f uh, } easier on the patient in the long run,""]",c but    it  its   its   f uh  easier on the patient in the long run,sd,FEMALE,1
+"['{f oh, } gosh. /']",f oh  gosh ,ba,FEMALE,6
+['which amazed me. /'],which amazed me ,+,FEMALE,0
+"['[ i, + i ] would much rather [ that, + ] do that,']", i  i  would much rather  that   do that,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['to myself than make my five year old <laughter> go in and do it. /'],to myself than make my five year old laughter go in and do it ,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+['that would kill me. /'],that would kill me ,sd,FEMALE,1

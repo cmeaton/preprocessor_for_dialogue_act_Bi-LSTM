@@ -1,0 +1,198 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['where are you, bob? /']",where are you bob ,qw,FEMALE,12
+['i am in plano.  /'],i am in plano  ,sd,MALE,1
+['where are you? /'],where are you ,qw,MALE,12
+"['{f oh, } okay.  /']",f oh  okay  ,bk,FEMALE,14
+['i am in waco. /'],i am in waco ,sd,FEMALE,1
+['is that right? /'],is that right ,bh,MALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+['right down the street. /'],right down the street ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{f oh, } credit cards.  /']",f oh  credit cards  ,sd,FEMALE,1
+['my favorite subject <laughter>. /'],my favorite subject laughter ,sd,FEMALE,1
+['you mean you use credit cards? /'],you mean you use credit cards ,qy,MALE,7
+"['{f oh, } do i. /']",f oh  do i ,na,FEMALE,21
+['i bet you used them all up over christmas. /'],i bet you used them all up over christmas ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['mostly over christmas.  /'],mostly over christmas  ,sd,FEMALE,1
+"['{f uh, } i get in a rut with credit cards cause they get me kind of in a vicious cycle.  where you use them a lot one month and then you have to use whatever money you have to pay those off -- /']",f uh  i get in a rut with credit cards cause they get me kind of in a vicious cycle  where you use them a lot one month and then you have to use whatever money you have to pay those off  ,sd,FEMALE,1
+['{c and } then your are in # debt. # /'],c and  then your are in  debt  ,sv,MALE,3
+"['-- # {c and so } # then you have no money, /']",  c and so   then you have no money ,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+['<laughter> {c so } you use a credit card. /'],laughter c so  you use a credit card ,sv,FEMALE,3
+['i understand that. /'],i understand that ,ba,MALE,6
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{f uh, } i probably have one of every credit card there is. /']",f uh  i probably have one of every credit card there is ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['do you use them a lot? /'],do you use them a lot ,qy,FEMALE,7
+"['{d well, } {f uh, } it kind of comes and goes, {f uh, }  /']",d well  f uh  it kind of comes and goes f uh   ,arp_nd,MALE,34
+"['i use {f uh, } citibank, the, {f uh, } advantage one --']",i use f uh  citibank the f uh  advantage one ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- pretty much cause you get vantage points for every dollar you spend.  /'], pretty much cause you get vantage points for every dollar you spend  ,+,MALE,0
+"['once a year, i get a free airplane ride that way. /']",once a year i get a free airplane ride that way ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"[""{c so, } as long as you pay it off every month, it doesn't cost you anything. /""]",c so  as long as you pay it off every month it doesnt cost you anything ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } that is a good idea.  /']",d well  that is a good idea  ,ba,FEMALE,6
+['# is [ that + # --'], is  that   ,qy,FEMALE,7
+"['# that is what i, # -/']", that is what i  ,%,MALE,5
+['-- that ] through a visa? /'], that  through a visa ,+,FEMALE,0
+['yeah. /'],yeah ,ny,MALE,9
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['yeah. /'],yeah ,ny,MALE,9
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"['{c but, } {f uh, } i got all sorts of credit cards for my business that i use  /']",c but  f uh  i got all sorts of credit cards for my business that i use  ,sd,MALE,1
+"['{c but, } {f uh, }']",c but  f uh ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['if i can get away with paying them off every month, it is alright.  /']",if i can get away with paying them off every month it is alright  ,+,MALE,0
+"[""if i don't then it gets expensive <laughter>. /""]",if i dont then it gets expensive laughter ,sd,MALE,1
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['that is my problem.  /'],that is my problem  ,sd,FEMALE,1
+"[""i don't try and pay them off.  /""]",i dont try and pay them off  ,sd,FEMALE,1
+"['i pay, {d like } the minimum. /']",i pay d like  the minimum ,sd,FEMALE,1
+"[""{d well } you shouldn't do that. /""]",d well  you shouldnt do that ,ad,MALE,22
+['i know <laughter>.  /'],i know laughter  ,aa,FEMALE,4
+"['# {c so } i have got myself, # -/']", c so  i have got myself  ,sd,FEMALE,1
+"['# [ you never, + you never ] # get out of the hole that way. /']",  you never  you never   get out of the hole that way ,sv,MALE,3
+['exactly.  /'],exactly  ,aa,FEMALE,4
+"['[ i have got, + that is why i have got ] myself with all this trouble now.  /']", i have got  that is why i have got  myself with all this trouble now  ,sd,FEMALE,1
+"['{c but, } i pay most of them on time and everything.  /']",c but  i pay most of them on time and everything  ,sd,FEMALE,1
+"['it is just the, - /']",it is just the  ,%,FEMALE,5
+['i always have them.  /'],i always have them  ,sd,FEMALE,1
+"['{c so, } it is kind of strange. /']",c so  it is kind of strange ,sd,FEMALE,1
+['kind of like the federal government right? /'],kind of like the federal government right ,qy,MALE,7
+"['{f oh, } yeah.  /']",f oh  yeah  ,ny,FEMALE,9
+['exactly like the government <laughter>. /'],exactly like the government laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['# [ in, + #']",  in  ,sv,FEMALE,3
+"[""# can't # never get out of debt. /""]", cant  never get out of debt ,sv,MALE,3
+['in ] debt. /'],in  debt ,+,FEMALE,0
+"['{c and } every time you try to get out of debt, the economy goes to pot because people are spending money, right. /']",c and  every time you try to get out of debt the economy goes to pot because people are spending money right ,qy,MALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+['<laughter>.'],laughter,x,MALE,8
+['have they put the cap on the interest rates? /'],have they put the cap on the interest rates ,qy,FEMALE,7
+['no. /'],no ,nn,MALE,13
+"[""i didn't know if they actually did that or not.  /""]",i didnt know if they actually did that or not  ,sd,FEMALE,1
+['i know they were considering it. /'],i know they were considering it ,sd,FEMALE,1
+"[""just the people who don't need credit get the four and a half percent.  /""]",just the people who dont need credit get the four and a half percent  ,sd,MALE,1
+"['the rest of the, {f uh, } and me, we have got to pay fourteen and eighteen percent. /']",the rest of the f uh  and me we have got to pay fourteen and eighteen percent ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['<laughter>.'],laughter,x,MALE,8
+"[""funny how that works, isn't it <laughter>? /""]",funny how that works isnt it laughter ,qy,FEMALE,7
+"[""[ the, + thou ] who doesn't need credit, gets cheap credit. /""]", the  thou  who doesnt need credit gets cheap credit ,sv,MALE,3
+"['i would be interested to find out [ how many people, + {e or } how much, {f uh, } people ] use credit this year.  say in nineteen ninety-two as opposed to nineteen ninety-one, even nineteen ninety.  /']",i would be interested to find out  how many people  e or  how much f uh  people  use credit this year  say in nineteen ninetytwo as opposed to nineteen ninetyone even nineteen ninety  ,sd,FEMALE,1
+"['[ i think, + i think ] it would be amazing [ how much, + how many ] more people use it. /']", i think  i think  it would be amazing  how much  how many  more people use it ,sv,FEMALE,3
+"['{d well, } i think so  /']",d well  i think so  ,aa,MALE,4
+"['{c because } the, -/']",c because  the ,%,MALE,5
+['because of the economy. /'],because of the economy ,sv,FEMALE,3
+"[""that's right. /""]",thats right ,aa,MALE,4
+['yeah. /'],yeah ,b,FEMALE,2
+['you have got to use everything you have got just to stay where you are at. /'],you have got to use everything you have got just to stay where you are at ,sv,MALE,3
+['exactly.  /'],exactly  ,aa,FEMALE,4
+"['[ i would be very, + i would like to see ] some numbers on that.  /']", i would be very  i would like to see  some numbers on that  ,sd,FEMALE,1
+['i think that would be interesting. /'],i think that would be interesting ,sv,FEMALE,3
+"['[ do you, + do you ] have any, {f uh, } credit union where you work or anything like  that? /']", do you  do you  have any f uh  credit union where you work or anything like  that ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['i have a credit union. /'],i have a credit union ,sd,FEMALE,1
+['do they have a mastercard or visa card? /'],do they have a mastercard or visa card ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['they do.  /'],they do  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['you have got that one. /'],you have got that one ,qy^d,MALE,16
+"['yes,  /']",yes  ,ny,FEMALE,9
+['i do <laughter>. /'],i do laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['<laughter> yes,  /']",laughter yes  ,ny,FEMALE,9
+['i do a matter of fact. /'],i do a matter of fact ,sd,FEMALE,1
+"['[ who, + who ] do you work for? /']", who  who  do you work for ,qw,MALE,12
+"['{f uh, } i work for channel six. /']",f uh  i work for channel six ,sd,FEMALE,1
+['# oh. # /'], oh  ,bk,MALE,14
+"[""# [ it's + # it's ] an n b c affiliate down here. /""]",  its   its  an n b c affiliate down here ,sd,FEMALE,1
+"['i do a lot of work down in waco,  /']",i do a lot of work down in waco  ,sd,MALE,1
+['[ [ a --'],  a ,sd,MALE,1
+['{f oh } really. /'],f oh  really ,b,FEMALE,2
+"['-- lot of, + i call on ] + a lot of ] my business is down there. /']", lot of  i call on   a lot of  my business is down there ,+,MALE,0
+"['{f oh, } okay.  /']",f oh  okay  ,b,FEMALE,2
+['where do you work?  /'],where do you work  ,qw,FEMALE,12
+"['what is your, -/']",what is your ,qw,FEMALE,12
+['i sell metal fabricating equipment and tooling. /'],i sell metal fabricating equipment and tooling ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+['tyme and mercury and tempco and all those people --'],tyme and mercury and tempco and all those people ,sd,MALE,1
+"['{f oh, } okay <<faint>>. /']",f oh  okay faint ,bk,FEMALE,14
+['-- down there.  /'], down there  ,+,MALE,0
+"['{f uh } gene he-, -/']",f uh  gene he ,%,MALE,5
+"['{c so } you probably work with, {f uh, } {f uh, } - /']",c so  you probably work with f uh  f uh   ,qy^d,FEMALE,16
+['what is the boy from here?  <<very faint>>.  /'],what is the boy from here  very faint  ,t1,FEMALE,37
+['you ever work with davis? /'],you ever work with davis ,qy,FEMALE,7
+['davis iron? /'],davis iron ,qy,MALE,7
+"['# davis iron work,  /']", davis iron work  ,na,FEMALE,21
+['yeah. # /'],yeah  ,ny,FEMALE,9
+"['# yeah,  /']", yeah  ,ny,MALE,9
+['matter of fact # i just saw them last week. /'],matter of fact  i just saw them last week ,sd,MALE,1
+"['{f oh, } okay.  /']",f oh  okay  ,bk,FEMALE,14
+"['and, {f uh, } what else. /']",and f uh  what else ,^h,FEMALE,27
+"['[ are you in that part, + are you in the south part ] of town now? /']", are you in that part  are you in the south part  of town now ,qy,MALE,7
+"['{d well, } i live actually in hewett. /']",d well  i live actually in hewett ,arp_nd,FEMALE,34
+"['{f oh, } yeah.  /']",f oh  yeah  ,bk,MALE,14
+['# okay. # /'], okay  ,bk,MALE,14
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+['# right outside. /'], right outside ,sd,FEMALE,1
+['[ you know -- +'], you know  ,qy,MALE,7
+"['{c so, } that is where davis iron works is. /']",c so  that is where davis iron works is ,bf,FEMALE,20
+['-- do you know ] parker machine tool down there. /'], do you know  parker machine tool down there ,+,MALE,0
+['{f uh. } /'],f uh  ,^h,FEMALE,27
+"['bobby parker and, {f uh, } -/']",bobby parker and f uh  ,qy^d,MALE,16
+"[""i don't think i have seen that one.  /""]",i dont think i have seen that one  ,ng,FEMALE,29
+"['i am sure i pass by it or something,  /']",i am sure i pass by it or something  ,sd,FEMALE,1
+['{c but } i am not sure. /'],c but  i am not sure ,h,FEMALE,15
+"['there is a place in hewett, called, - /']",there is a place in hewett called  ,sd,MALE,1
+['it is a new company called prime air.  /'],it is a new company called prime air  ,sd,MALE,1
+['that is in hewett.  just around the corner from davis iron works. /'],that is in hewett  just around the corner from davis iron works ,sd,MALE,1
+['{f huh. }  prime air. /'],f huh   prime air ,b,FEMALE,2
+"['they make, {f uh, } humidifiers and --']",they make f uh  humidifiers and ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,FEMALE,2
+"['-- {f uh, } filters for air filtration stuff for --']", f uh  filters for air filtration stuff for ,+,MALE,0
+['okay. /'],okay ,b,FEMALE,2
+"['-- hospitals, homes, something like that. /']", hospitals homes something like that ,+,MALE,0
+['have you ever been to marlin? /'],have you ever been to marlin ,qy,FEMALE,7
+"['{f uh, } yeah. /']",f uh  yeah ,ny,MALE,9
+['i think it is marlin or mart.  /'],i think it is marlin or mart  ,sd,FEMALE,1
+"['they have, {f uh, } {f uh, } a place, i guess that would be similar to prime air.  /']",they have f uh  f uh  a place i guess that would be similar to prime air  ,sd,FEMALE,1
+['it is called h g h --'],it is called h g h ,sd,FEMALE,1
+"['{f oh, } really. /']",f oh  really ,b,MALE,2
+"['-- or something like k g h or, -/']", or something like k g h or ,+,FEMALE,0
+['{f huh. } /'],f huh  ,b,MALE,2
+"[""i can't think of it.  /""]",i cant think of it  ,sd,FEMALE,1
+"[""i can't think of the name. /""]",i cant think of the name ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['i will have to stop in there.  /'],i will have to stop in there  ,sd,MALE,1
+"['[ i went, + i have gone ] through there, {f uh, }  /']", i went  i have gone  through there f uh   ,sd,MALE,1
+['my oldest son goes to a and m. /'],my oldest son goes to a and m ,sd,MALE,1
+['{f oh } yeah. /'],f oh  yeah ,b,FEMALE,2
+"[""he is working on his master's.  /""]",he is working on his masters  ,sd,MALE,1
+"[""the navy sent him there for his master's. mostly in engineering.  /""]",the navy sent him there for his masters mostly in engineering  ,sd,MALE,1
+"['{c so, } once and a while we go up six there rather than  take forty-five. /']",c so  once and a while we go up six there rather than  take fortyfive ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['that is about the last time i have been through marlin and mart <laughter>. /'],that is about the last time i have been through marlin and mart laughter ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{f oh, } i don't like that drive.  /""]",f oh  i dont like that drive  ,sd,FEMALE,1
+['i make that drive sometimes  /'],i make that drive sometimes  ,sd,FEMALE,1
+['we have stories out there  /'],we have stories out there  ,sd,FEMALE,1
+"['{c but, } {f uh, } -/']",c but  f uh  ,%,FEMALE,5
+['there is always a state trooper down there. /'],there is always a state trooper down there ,sv,MALE,3
+['{f huh. } /'],f huh  ,b,FEMALE,2
+['you have got to drive careful. /'],you have got to drive careful ,ad,MALE,22
+"['{f oh, } really <laughter>.  /']",f oh  really laughter  ,b,FEMALE,2
+['i know. /'],i know ,aa,FEMALE,4
+"['between mart and marlin, they will nail you if you go over # sixty miles an hour. # /']",between mart and marlin they will nail you if you go over  sixty miles an hour  ,sv,MALE,3
+"['# {f oh, } goodness.  /']", f oh  goodness  ,ba,FEMALE,6
+"['#  [ they, + they ] are bad at hewett too.  on eighty-four. /']",   they  they  are bad at hewett too  on eightyfour ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['they are real bad.  /'],they are real bad  ,sv,FEMALE,3
+['that is where i got my last ticket. /'],that is where i got my last ticket ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""{c so, } of course, i couldn't pay that on a credit card. /""]",c so  of course i couldnt pay that on a credit card ,sd,FEMALE,1

@@ -1,0 +1,102 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{f uh, } advice on son or daughter going to college. /']",f uh  advice on son or daughter going to college ,"fo_o_fw_""_by_bc",MALE,0
+['right. /'],right ,b,FEMALE,2
+"[""{f uh, } that's advice that i will need in time future --""]",f uh  thats advice that i will need in time future ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- for my children, rather than one that i have, {f uh, } personal experience with <lipsmack>.  /']", for my children rather than one that i have f uh  personal experience with lipsmack  ,+,MALE,0
+"['{f uh, } i suppose i would ask what the child wants to do in life and what the child hopes [ to, + to ] get out of college --']",f uh  i suppose i would ask what the child wants to do in life and what the child hopes  to  to  get out of college ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and what sort of college would best [ meet, + meet ] those needs. /']", and what sort of college would best  meet  meet  those needs ,+,MALE,0
+"['right,  /']",right  ,b,FEMALE,2
+"[""{f uh, } let's see,  /""]",f uh  lets see  ,^h,FEMALE,27
+"[""[ when i, + when i ]  went away to school, i'm trying to think my criteria.  /""]", when i  when i   went away to school im trying to think my criteria  ,sd,FEMALE,1
+"[""i guess [ when you're, + when you're ] eighteen or so, {f uh, } it would be important to know if it was a coed college <laughter>. /""]",i guess  when youre  when youre  eighteen or so f uh  it would be important to know if it was a coed college laughter ,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+"['that was [ a, + a ] strict requirement for me.  /']",that was  a  a  strict requirement for me  ,sd,FEMALE,1
+"[""{f uh, } again [ what, +  {f uh, } how ] serious a person is according to, {f uh, } {f uh, } {d you know, }  [ what, + what ] they want to get out of school,  [ and, + ] {f uh, } <lipsmack> i  guess they'd have to consider how expensive the college is and how close to home, if they could handle being away for real long periods of time or if they need to be somewhere where they can drive home when they needed to get home.  /""]",f uh  again  what   f uh  how  serious a person is according to f uh  f uh  d you know    what  what  they want to get out of school   and   f uh  lipsmack i  guess theyd have to consider how expensive the college is and how close to home if they could handle being away for real long periods of time or if they need to be somewhere where they can drive home when they needed to get home  ,sv,FEMALE,3
+"[""{f uh, } let's see, {f uh, }  /""]",f uh  lets see f uh   ,^h,FEMALE,27
+"['{d now } what was the question,  /']",d now  what was the question  ,qw,FEMALE,12
+"[""[ what, + what's ] the criteria for picking a college? /""]", what  whats  the criteria for picking a college ,qw,FEMALE,12
+['what advice --'],what advice ,qw,MALE,12
+['what advice. /'],what advice ,b^m,FEMALE,24
+['-- would you give? /'], would you give ,+,MALE,0
+"['{f oh, } okay, {f uh, } /']",f oh  okay f uh  ,bk,FEMALE,14
+['i guess one clear-cut piece of advice is by all means visit the college campus. /'],i guess one clearcut piece of advice is by all means visit the college campus ,sv,MALE,3
+['yes. /'],yes ,aa,FEMALE,4
+"['{f uh, } stay in a dormitory if you can.  /']",f uh  stay in a dormitory if you can  ,sv,MALE,3
+"['go to classes,  /']",go to classes  ,sv,MALE,3
+['talk to faculty members and students. /'],talk to faculty members and students ,sv,MALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['{c and } also, {f uh, } depending on  how, {f uh, } {f uh, } adjustable your child would be, [ or, + or ] flexible, i guess it would be, {f uh, } - /']",c and  also f uh  depending on  how f uh  f uh  adjustable your child would be  or  or  flexible i guess it would be f uh   ,sv,FEMALE,3
+"['[ if, + if ] they chose a college in a different part of the country that maybe [ the, +  they ] were unused to [ [ their, + that, ] +  the ]  way they run things,  /']", if  if  they chose a college in a different part of the country that maybe  the   they  were unused to   their  that    the   way they run things  ,sv,FEMALE,3
+"['{e i mean, } [ the, + the ] northern colleges are very different  than the southern colleges, i think.  /']",e i mean   the  the  northern colleges are very different  than the southern colleges i think  ,sv,FEMALE,3
+['the people are different  /'],the people are different  ,sv,FEMALE,3
+"[""{c and, }  {f uh, } you have to be more flexible and more willing to, {f uh, } {f uh, } adjust to other people's mannerisms and customs or ways of doing things.  /""]",c and   f uh  you have to be more flexible and more willing to f uh  f uh  adjust to other peoples mannerisms and customs or ways of doing things  ,sv,FEMALE,3
+"[""{d you know, } you have to be a flexible person to be able to go all the way across country to something totally different than what you're used to.  {f uh, } /""]",d you know  you have to be a flexible person to be able to go all the way across country to something totally different than what youre used to  f uh  ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,MALE,4
+"[""i'm thinking --""]",im thinking ,^h,MALE,27
+['you think so <laughter>? /'],you think so laughter ,qy,FEMALE,7
+"['-- [ what, + what ] problems my children might have in  that, {f uh, }  /']",  what  what  problems my children might have in  that f uh   ,+,MALE,0
+['{c but } i agree with you. /'],c but  i agree with you ,aa,MALE,4
+"[""{f uh, } let's see,  /""]",f uh  lets see  ,^h,FEMALE,27
+['what else.  /'],what else  ,^h,FEMALE,27
+"['{f uh, } {d well, }  climate would be, - /']",f uh  d well   climate would be  ,%,FEMALE,5
+"[""{d you know, } you'd have to -- -/""]",d you know  youd have to  ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {d you know, } is somewhat, - /']", d you know  is somewhat  ,%,FEMALE,5
+"[""[ if, + {f uh, } if ]  it's something different than the one they're used to, i guess, {f uh, } - /""]", if  f uh  if   its something different than the one theyre used to i guess f uh   ,sv,FEMALE,3
+"[""if they're used to the northern weather then the southern weather they might kind of feel like they need to go out and play all the time, not be <laughter> in studying <laughter>. if you're in florida or  california.  {f uh, } /""]",if theyre used to the northern weather then the southern weather they might kind of feel like they need to go out and play all the time not be laughter in studying laughter if youre in florida or  california  f uh  ,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+"[""[ i, + i'd ] also advise them that,  {f uh, } if mom and dad paid for their college, that, {f uh, } if they decided to drop a course or  decided that they need another year, then they'd have to get a loan to continue. /""]", i  id  also advise them that  f uh  if mom and dad paid for their college that f uh  if they decided to drop a course or  decided that they need another year then theyd have to get a loan to continue ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['{d well, } course  ((   ))  <<inaudible mumbling>>  [ it, + it ] is a big factor in having an understanding of how much parents will pay and how much has to come from other sources and your willingness, one, [ to, + to ]   work during the summer  [ or, + or ] --']",d well  course       inaudible mumbling   it  it  is a big factor in having an understanding of how much parents will pay and how much has to come from other sources and your willingness one  to  to    work during the summer   or  or  ,sv,MALE,3
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+['-- part time.'], part time,+,MALE,0
+"[""there's, -/""]",theres ,%,FEMALE,5
+"['and [ two, +  {f uh, } [ to, + to ] ] take out loans to  assume, {f uh, } debt after college. /']",and  two   f uh   to  to   take out loans to  assume f uh  debt after college ,+,MALE,0
+"['[ the, + the ] responsibility of that.  /']", the  the  responsibility of that  ,sv,FEMALE,3
+"['{c and, }  {f uh, }  {f uh, } {f uh, } [ they could, + they could ] work and earn money towards college.  /']",c and   f uh   f uh  f uh   they could  they could  work and earn money towards college  ,sv,FEMALE,3
+"['also if they stay within their state, you get a lot more financial aid  /']",also if they stay within their state you get a lot more financial aid  ,sv,FEMALE,3
+"[""{c or } it's a lot cheaper if you stay within your state --""]",c or  its a lot cheaper if you stay within your state ,sv,FEMALE,3
+['yes. /'],yes ,aa,MALE,4
+"['-- than if you go out of state to a private school,  {f uh, }  /']", than if you go out of state to a private school  f uh   ,+,FEMALE,0
+"['{c and, } like i said, if they was willing to work, {f uh, } in the summers and  also maybe then the parents could pay a third  /']",c and  like i said if they was willing to work f uh  in the summers and  also maybe then the parents could pay a third  ,sv,FEMALE,3
+['{c and } then maybe they could take out a loan for a third depending on how expensive it is.  /'],c and  then maybe they could take out a loan for a third depending on how expensive it is  ,sv,FEMALE,3
+"['by the time, i have an eleven year old is my oldest,  /']",by the time i have an eleven year old is my oldest  ,sd,FEMALE,1
+"[""{c so, } it's not too far away,  /""]",c so  its not too far away  ,sv,FEMALE,3
+"[""{c but } it's, -/""]",c but  its ,%,FEMALE,5
+['mine is twelve. /'],mine is twelve ,sd,MALE,1
+"['{f oh, } okay.  /']",f oh  okay  ,b,FEMALE,2
+"[""{c but } it's getting there,  /""]",c but  its getting there  ,sv,FEMALE,3
+"['{e i mean, } we still [ have, +  definitely can ] put away the money for college now.  /']",e i mean  we still  have   definitely can  put away the money for college now  ,sd,FEMALE,1
+"['{f uh, } i would advise [ that, + that ] they did not have a car at college.  /']",f uh  i would advise  that  that  they did not have a car at college  ,sd,FEMALE,1
+"['they would, -/']",they would ,%,FEMALE,5
+"[""that's my gut feeling, too.  /""]",thats my gut feeling too  ,sd,MALE,1
+"['i, - /']",i  ,%,MALE,5
+['my son is certainly not persuaded of that <<pause>>.  /'],my son is certainly not persuaded of that pause  ,sd,MALE,1
+['hello? /'],hello ,"fo_o_fw_""_by_bc",MALE,0
+"['yes,  /']",yes  ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""i'm here. /""]",im here ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{f oh, } yeah, {f uh, }  /']",f oh  yeah f uh   ,b,MALE,2
+"['yes,  /']",yes  ,b,MALE,2
+"[""i didn't have a car in  college.  /""]",i didnt have a car in  college  ,sd,MALE,1
+['i --'],i ,sv,MALE,3
+['no. /'],no ,b,FEMALE,2
+"[""-- think it's more [ an in-, + a ] burden [ to, + to ]  provide for. /""]", think its more  an in  a  burden  to  to   provide for ,+,MALE,0
+"['i think so, too.  /']",i think so too  ,aa,FEMALE,4
+"[""[ i think, + i think ] because most  kids don't have a car at college, the ones that do get taken   advantage of  /""]", i think  i think  because most  kids dont have a car at college the ones that do get taken   advantage of  ,sv,FEMALE,3
+"[""{c and, } {d you know, } [ there is just, + i think it's just ] trouble waiting to happen.  /""]",c and  d you know   there is just  i think its just  trouble waiting to happen  ,sv,FEMALE,3
+"[""{c so } i would advise [ they didn't, + they didn't ]  take a car  /""]",c so  i would advise  they didnt  they didnt   take a car  ,sd,FEMALE,1
+"['{c and, } {f uh } --']",c and  f uh  ,sd,FEMALE,1
+"['is it, -/']",is it ,%,MALE,5
+"[""-- they didn't take a television  /""]", they didnt take a television  ,+,FEMALE,0
+"[""{c and } they didn't take a refrigerator <laughter>.  /""]",c and  they didnt take a refrigerator laughter  ,sd,FEMALE,1
+"['maybe that, -/']",maybe that ,%,FEMALE,5
+"[""{f uh, } i didn't do any of those, though,  /""]",f uh  i didnt do any of those though  ,sd,MALE,1
+['i --'],i ,sd,MALE,1
+"['no,  /']",no  ,b,FEMALE,2
+"['[ i, + i, ] -/']", i  i  ,%,FEMALE,5
+['-- feel less strongly about the t v -s and refrigerators. /'], feel less strongly about the t v s and refrigerators ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""we didn't have, /""]",we didnt have ,sd,FEMALE,1

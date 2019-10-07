@@ -1,0 +1,157 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay, diane.  /']",okay diane  ,"fo_o_fw_""_by_bc",MALE,0
+['{c and } a very good afternoon to you. /'],c and  a very good afternoon to you ,fp,MALE,32
+"['{c and } [ aft-, + good afternoon ] to you. /']",c and   aft  good afternoon  to you ,fp,FEMALE,32
+"['do you, {f uh, } do most of your cooking at home  /']",do you f uh  do most of your cooking at home  ,qy,MALE,7
+"['{c or } do you, {f uh, } have a lot of people come in and have to prepare for them? /']",c or  do you f uh  have a lot of people come in and have to prepare for them ,qrr,MALE,33
+"['<throat_clearing>  {f um, } no.  /']",throatclearing  f um  no  ,nn,FEMALE,13
+['i do most of my cooking at home  /'],i do most of my cooking at home  ,sd,FEMALE,1
+"['{c and, } {f um, } i could safely say that i have never cooked for a dinner party. /']",c and  f um  i could safely say that i have never cooked for a dinner party ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['my goodness <laughter>. /'],my goodness laughter ,ba,MALE,6
+['<laughter>.'],laughter,x,FEMALE,8
+"['{d well, } what would you, {f uh, } like to cook?  /']",d well  what would you f uh  like to cook  ,qy,MALE,7
+"[""[ [ [  what's, + what, ] + what's, ] + what ] is your favorite, {f uh, } recipes, {f uh, } that you would like to have --""]",    whats  what   whats   what  is your favorite f uh  recipes f uh  that you would like to have ,qw,MALE,12
+"['{f um, } /']",f um  ,b,FEMALE,2
+['-- for a dinner party?  /'], for a dinner party  ,+,MALE,0
+"[""{d now } you're in dallas, is it? /""]",d now  youre in dallas is it ,qy,MALE,7
+"['right,  /']",right  ,na,FEMALE,21
+"[""i'm in dallas. /""]",im in dallas ,sd,FEMALE,1
+['okay. /'],okay ,b,MALE,2
+"['of course, {f um, } dinner parties down here probably, {f oh, } turn out to be more things like barbecues <laughter>.  /']",of course f um  dinner parties down here probably f oh  turn out to be more things like barbecues laughter  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['[ i was, + i was ] thinking in terms of mexican almost,']", i was  i was  thinking in terms of mexican almost,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['yes. /'],yes ,b,FEMALE,2
+"['[ tex-, + tex-mex. ] /']", tex  texmex  ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{f uh, } tex-mex, {f uh, }  /']",f uh  texmex f uh   ,b^m,FEMALE,24
+"['mexican food, {f um } --']",mexican food f um  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- probably a little bit different than what you serve up in pennsylvania for a dinner party. /'], probably a little bit different than what you serve up in pennsylvania for a dinner party ,+,FEMALE,0
+"[""{d well, } that's a very interesting food though  /""]",d well  thats a very interesting food though  ,sd,MALE,1
+['{c and } when i go out to eat dinner sometimes --'],c and  when i go out to eat dinner sometimes ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- that's the type of foods i like to find. /""]", thats the type of foods i like to find ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"['we have, {f uh, } - /']",we have f uh   ,%,MALE,5
+"[""i think som-, chico's - /""]",i think som chicos  ,%,MALE,5
+"['[ {c or, } + {c or } ] in these different restaurants --']", c or   c or   in these different restaurants ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- in this area that, {f uh, } have all this fine mexican foods.  /']", in this area that f uh  have all this fine mexican foods  ,+,MALE,0
+"['{c but, } {f um, } if i were to cook, {f uh, } a dinner party, {f uh, } it may be standard to you  /']",c but  f um  if i were to cook f uh  a dinner party f uh  it may be standard to you  ,sd,MALE,1
+"['{c but, } {f uh, } {d actually } i never get too much fried chicken. /']",c but  f uh  d actually  i never get too much fried chicken ,sd,MALE,1
+['<laughter> fried chicken. /'],laughter fried chicken ,b^m,FEMALE,24
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } i love twice cooked potatoes.  /'],c and  i love twice cooked potatoes  ,sd,MALE,1
+"['<throat_clearing>  {f oh, } yes,  /']",throatclearing  f oh  yes  ,ny,FEMALE,9
+['i have. /'],i have ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+"['{c and, } {f uh, } i like broccoli casseroles --']",c and  f uh  i like broccoli casseroles ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- which would include onion and cheese [ and, + and ] more dill weed --']", which would include onion and cheese  and  and  more dill weed ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and some medium hot peppers.  /'], and some medium hot peppers  ,+,MALE,0
+"[""as you can see, i'm inclined towards the mexican type of a meal <laughter>. /""]",as you can see im inclined towards the mexican type of a meal laughter ,sd,MALE,1
+['right <laughter>. /'],right laughter ,b,FEMALE,2
+['{c and } i would probably have some quiet and gentle fried onion rings mixed in there with it too. /'],c and  i would probably have some quiet and gentle fried onion rings mixed in there with it too ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so, } {f uh, } how would you improve upon that? /']",c so  f uh  how would you improve upon that ,qo,MALE,25
+"['{f oh, } <gasp> improve upon that?  /']",f oh  gasp improve upon that  ,b^m,FEMALE,24
+"[""let's see.  /""]",lets see  ,^h,FEMALE,27
+"[""i'd probably put a bunch of fresh vegetables in.  /""]",id probably put a bunch of fresh vegetables in  ,sd,FEMALE,1
+"['{c and } some, -/']",c and  some ,%,FEMALE,5
+['more fresh vegetables? /'],more fresh vegetables ,b^m,MALE,24
+['yeah. /'],yeah ,ny,FEMALE,9
+['included to that? /'],included to that ,qy,MALE,7
+"['{f uh, } green beans and, {f uh } --']",f uh  green beans and f uh  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- carrots and things like that. /'], carrots and things like that ,+,FEMALE,0
+['how do you cook your green beans? /'],how do you cook your green beans ,qw,MALE,12
+['my green beans? /'],my green beans ,b^m,FEMALE,24
+['uh-huh. /'],uhhuh ,ny,MALE,9
+"['{f um, } i just get fresh green beans from the grocery store and  snap off the ends and put them in water and steam them for about ten minutes. /']",f um  i just get fresh green beans from the grocery store and  snap off the ends and put them in water and steam them for about ten minutes ,sd,FEMALE,1
+"['{c so } you h-, -/']",c so  you h ,%,MALE,5
+['{c and } i like to put a little mrs dash in with them. /'],c and  i like to put a little mrs dash in with them ,sd,FEMALE,1
+"[""all right that's what i was wondering about.  /""]",all right thats what i was wondering about  ,sd,MALE,1
+"['[  what, + what ] you use [ and, + and ] --']",  what  what  you use  and  and  ,bf,MALE,20
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- in herbs and so forth. /'], in herbs and so forth ,+,MALE,0
+"['right,  /']",right  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{f um, } i like to just put a  (( tablespoon ))  or so  of mrs dash in there. /']",f um  i like to just put a   tablespoon   or so  of mrs dash in there ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } it makes them pretty tasty. /'],c and  it makes them pretty tasty ,sd,FEMALE,1
+['have you ever tried chinese type green beans? /'],have you ever tried chinese type green beans ,qy,MALE,7
+['the chinese type.  /'],the chinese type  ,b^m,FEMALE,24
+"['are they the real, -/']",are they the real ,qy,FEMALE,7
+"['we use soy sauce, /']",we use soy sauce ,sd,MALE,1
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i haven't ever used that. /""]",i havent ever used that ,sd,FEMALE,1
+"['{d well, } you might, {f uh, } be interested in that.  /']",d well  you might f uh  be interested in that  ,sv,MALE,3
+"['have, - /']",have  ,qy,MALE,7
+['it gives a very delicious taste.  /'],it gives a very delicious taste  ,sd,MALE,1
+"['[  you, + you ] have a soy sauce taste  /']",  you  you  have a soy sauce taste  ,sd,MALE,1
+['{c and } you also have a little cream sauce in there because [ you + --'],c and  you also have a little cream sauce in there because  you  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- you ] would use the, {f uh, } water and, - /']", you  would use the f uh  water and  ,+,MALE,0
+"[""{f uh, } <lipsmack> {d golly. } what's this white powder [ [ that, + that, ] + {f uh, } that ] you mix with water --""]",f uh  lipsmack d golly  whats this white powder   that  that   f uh  that  you mix with water ,qw,MALE,12
+['a white powder. /'],a white powder ,b^m,FEMALE,24
+['-- and gives a thick sauce?  /'], and gives a thick sauce  ,+,MALE,0
+"[""i can't even think of the name of that right at the moment. /""]",i cant even think of the name of that right at the moment ,sd,MALE,1
+"['{f um, } gosh. /']",f um  gosh ,ba,FEMALE,6
+"['{d anyhow } <laughter>, -/']",d anyhow  laughter ,%,MALE,5
+['<laughter>.'],laughter,x,FEMALE,8
+['sorry about my mind. /'],sorry about my mind ,fa,MALE,42
+"[""that's okay. /""]",thats okay ,bd,FEMALE,38
+"['{c but, } {f uh, } it does make a nice thick creamy sauce with the green beans -- /']",c but  f uh  it does make a nice thick creamy sauce with the green beans  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['--  {c and then } you have a nice soy sauce taste under it with a few onions in there with it.  /'],  c and then  you have a nice soy sauce taste under it with a few onions in there with it  ,sd,MALE,1
+['if it does -- -/'],if it does  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ it, + it ] brings out [ such a, + ] so much different things [ in, + {f uh } --']",  it  it  brings out  such a   so much different things  in  f uh  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- in ] the string beans.  /'], in  the string beans  ,+,MALE,0
+"['[ i, + i ] like it to try them differently.  /']", i  i  like it to try them differently  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so } you might, {f uh, } think about that. /']",c so  you might f uh  think about that ,ad,MALE,22
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['i might try that. /'],i might try that ,aa,FEMALE,4
+['chinese cooking {d actually } has a lot of very delicious tastes to them. /'],chinese cooking d actually  has a lot of very delicious tastes to them ,sv,MALE,3
+"['{f oh, } yes.  /']",f oh  yes  ,b,FEMALE,2
+['i love chinese. /'],i love chinese ,sd,FEMALE,1
+"['{c and, } {f uh, } north african cooking is good --']",c and  f uh  north african cooking is good ,sd,MALE,1
+['north african? /'],north african ,b^m,FEMALE,24
+['-- when you use something called couscous. /'], when you use something called couscous ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } that's, {f uh, } made from, {f uh, }  ((   ))  i think they call it, beans.  /""]",c and  thats f uh  made from f uh        i think they call it beans  ,sv,MALE,3
+"[""{c and } that's the type of something that whatever you mix with it this couscous, {f uh, } absorbs the taste of whatever else you put in it where that makes a very delicious dish.  /""]",c and  thats the type of something that whatever you mix with it this couscous f uh  absorbs the taste of whatever else you put in it where that makes a very delicious dish  ,sd,MALE,1
+['you probably have to buy that from specialty stores. /'],you probably have to buy that from specialty stores ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['c o u s, c o u s.  /']",c o u s c o u s  ,sd,MALE,1
+"[""{c and } that's [ a, + a ] north african dish.  /""]",c and  thats  a  a  north african dish  ,sd,MALE,1
+['they eat it one to two meals everyday --'],they eat it one to two meals everyday ,sd,MALE,1
+['huh. /'],huh ,b,FEMALE,2
+['-- in north africa.  /'], in north africa  ,+,MALE,0
+['{c and } it is very very flexible.  /'],c and  it is very very flexible  ,sd,MALE,1
+['you can do a lot of things with it.  /'],you can do a lot of things with it  ,sd,MALE,1
+"['it makes a fantastic, {f uh, } {f uh, } salad with cucumbers and,']",it makes a fantastic f uh  f uh  salad with cucumbers and,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+['olive oil and onions  /'],olive oil and onions  ,+,MALE,0
+"['{c and, } -/']",c and  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f oh, } boy,  /']",f oh  boy  ,ba,MALE,6
+['real tasty.  /'],real tasty  ,sd,MALE,1
+"[""{d well, } i've enjoyed talking with you,  /""]",d well  ive enjoyed talking with you  ,fc,MALE,10
+"[""{c and } i hope i've --""]",c and  i hope ive ,fc,MALE,10
+"[""{d well, } i've enjoyed --""]",d well  ive enjoyed ,fc,FEMALE,10
+['-- given you some ideas -- /'], given you some ideas  ,+,MALE,0
+['-- talking with you. /'], talking with you ,+,FEMALE,0
+"[""-- {c and, } {f uh, } that's one thing we can enjoy is good delicious food. /""]", c and  f uh  thats one thing we can enjoy is good delicious food ,fc,MALE,10
+"['{f oh, } yes. /']",f oh  yes ,fc,FEMALE,10
+"['<laughter> {d well, } thank you very much miss diane. /']",laughter d well  thank you very much miss diane ,fc,MALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+['thank you. /'],thank you ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

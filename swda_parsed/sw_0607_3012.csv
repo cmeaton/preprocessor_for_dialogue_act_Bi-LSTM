@@ -1,0 +1,171 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hello. /'],hello ,fp,FEMALE,32
+['hello <talking>. /'],hello talking ,fp,FEMALE,32
+"['hi, {f um, }  /']",hi f um   ,fp,FEMALE,32
+['this is betty  /'],this is betty  ,fp,FEMALE,32
+"[""{c and } i'm in richardson, texas. /""]",c and  im in richardson texas ,sd,FEMALE,1
+"[""i'm nola  /""]",im nola  ,fp,FEMALE,32
+"[""{c and } i'm in plano. /""]",c and  im in plano ,sd,FEMALE,1
+"['{f oh, } okay,  /']",f oh  okay  ,b,FEMALE,2
+['{d well } here we go <laughter>. /'],d well  here we go laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""i guess we're going to have a lot of  parades this weekend in honor of these guys [ that are, +  that did ]  some stuff over in the gulf.  {f um. } /""]",i guess were going to have a lot of  parades this weekend in honor of these guys  that are   that did   some stuff over in the gulf  f um  ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['{d now, } did you push one? /']",d now  did you push one ,qy,FEMALE,7
+"['yeah, {f uh, } /']",yeah f uh  ,ny,FEMALE,9
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+['no  /'],no  ,nn,FEMALE,13
+"[""i haven't pushed one yet.  /""]",i havent pushed one yet  ,sd,FEMALE,1
+"['i just, -/']",i just ,%,FEMALE,5
+"['okay,  /']",okay  ,b,FEMALE,2
+"[""{c but, } i think it's, - /""]",c but  i think its  ,sd,FEMALE,1
+['i just started doing this  /'],i just started doing this  ,sd,FEMALE,1
+"[""{c so } i don't know too much about it. /""]",c so  i dont know too much about it ,sd,FEMALE,1
+"['okay,  /']",okay  ,b,FEMALE,2
+"[""we're just sort of getting acquainted here. /""]",were just sort of getting acquainted here ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,FEMALE,2
+"['{f um, } {d you know, } [ i, +  i ]  just wanted to see if, {d you know, } you had an opinion about this,  /']",f um  d you know   i   i   just wanted to see if d you know  you had an opinion about this  ,sd,FEMALE,1
+"['{c or, } {d you know. } -/']",c or  d you know  ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f um, } {c so, } if that's okay with you,  then i'll just press one. /""]",f um  c so  if thats okay with you  then ill just press one ,oo_co_cc,FEMALE,36
+['that will be fine. /'],that will be fine ,aa,FEMALE,4
+['okay <beep>.  /'],okay beep  ,b,FEMALE,2
+"['{d well, } hi, <laughter>. /']",d well  hi laughter ,fp,FEMALE,32
+['hi. /'],hi ,fp,FEMALE,32
+"['good morning.  {f um, }  /']",good morning  f um   ,fp,FEMALE,32
+"[""[ i think + {e i mean, }  [ if, + if ] i start ] this i just wanted to say that, {f um, } one of the things that  i don't think we really understood about [ the, +  the ] middle eastern situation is  that they're a totally different type of people than we are,  /""]", i think  e i mean    if  if  i start  this i just wanted to say that f um  one of the things that  i dont think we really understood about  the   the  middle eastern situation is  that theyre a totally different type of people than we are  ,sv,FEMALE,3
+['{c and } {e i mean } they  think differently  /'],c and  e i mean  they  think differently  ,sv,FEMALE,3
+['{c and } their idea of what is justice is totally different from ours.  /'],c and  their idea of what is justice is totally different from ours  ,sv,FEMALE,3
+"[""[ {c and, } + {c and } ] right now, [ i, + i ] think that that's been proven in the fact that, {f um, }  they have just, - /""]", c and   c and   right now  i  i  think that thats been proven in the fact that f um   they have just  ,sv,FEMALE,3
+"['{d well, } {d anyway, } i just think that, {d you know, } the united states  policy over there, - /']",d well  d anyway  i just think that d you know  the united states  policy over there  ,sv,FEMALE,3
+['i think we should just leave them alone.  /'],i think we should just leave them alone  ,sv,FEMALE,3
+"['i really do.  [ in, + in ] a major way because [ they just, + {f um, } that whole region over there, ]  i think needs to settle its own differences within itself. /']",i really do   in  in  a major way because  they just  f um  that whole region over there   i think needs to settle its own differences within itself ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } that's [ the way, + the course ] that  they should go,  /""]",c and  thats  the way  the course  that  they should go  ,sv,FEMALE,3
+"['{e i mean, } {d you know, } we can maybe help them a little bit, prompt them,  /']",e i mean  d you know  we can maybe help them a little bit prompt them  ,sv,FEMALE,3
+"[""{c but } i don't think this intervention at such high levels should be going on.  /""]",c but  i dont think this intervention at such high levels should be going on  ,sv,FEMALE,3
+"['[ the, +  the ] thing with israel and palestine, i believe that should  be settled between them.  /']", the   the  thing with israel and palestine i believe that should  be settled between them  ,sv,FEMALE,3
+"['{c and } also, {f um, } {d you know, } the other thing  is [ their idea, +  {e or } our [ ide-, +  idea ] ] of democracy has nothing to do with them.  /']",c and  also f um  d you know  the other thing  is  their idea   e or  our  ide   idea   of democracy has nothing to do with them  ,sv,FEMALE,3
+"[""[ {e i mean, } tha-, + {e i mean, } i'm ] talking about the whole middle ea-,  /""]", e i mean  tha  e i mean  im  talking about the whole middle ea  ,sd,FEMALE,1
+"['[ {c and, } + {c and } ]  maybe this is too general,  /']", c and   c and    maybe this is too general  ,h,FEMALE,15
+"['{c but } i just believe that, {f um, } they do not look at  democracy the same way we do.  /']",c but  i just believe that f um  they do not look at  democracy the same way we do  ,sv,FEMALE,3
+"[""they don't understand it as we don't understand the way they live. /""]",they dont understand it as we dont understand the way they live ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, so, } {d you know, } trying to put  {d like } a square peg in a round hole is just, {d you know, } - /']",c and so  d you know  trying to put  d like  a square peg in a round hole is just d you know   ,sv,FEMALE,3
+"[""[ i-, +  i ] don't think that  that's the way to go in this  /""]", i   i  dont think that  thats the way to go in this  ,sv,FEMALE,3
+"[""{c and, } {f um, } {d you know, } [ [ [ it, +  it. ] +  {f oh, } {d well, }  that's, ] +  that's ] a couple thoughts on it. /""]",c and  f um  d you know     it   it    f oh  d well   thats    thats  a couple thoughts on it ,h,FEMALE,15
+['yeah. /'],yeah ,b,FEMALE,2
+"[""[ i, + i ] guess, {d you know, }  i'd like you to maybe express something here. /""]", i  i  guess d you know   id like you to maybe express something here ,ad,FEMALE,22
+"[""{d well } [ [ i, + i, ] + i ] think  overall that's right.  /""]",d well    i  i   i  think  overall thats right  ,aap_am,FEMALE,39
+"[""i think it's kind of sad though, that, for generations they've been taught  to hate each other. /""]",i think its kind of sad though that for generations theyve been taught  to hate each other ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } [ that's, + i-, ] {d you know, } - /""]",c and   thats  i  d you know   ,%,FEMALE,5
+"['if, - /']",if  ,%,FEMALE,5
+"[""somewhere in there someone's going to have to learn a different way. /""]",somewhere in there someones going to have to learn a different way ,sv,FEMALE,3
+"[""that's, - /""]",thats  ,%,FEMALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, } [ {c an, } +  {c an, } ]   [ i, + i ] think that, {f um, } <<pause>> - /']",d you know   c an    c an      i  i  think that f um  pause  ,sv,FEMALE,3
+"['true we do have completely different ways of looking [ at things, + at a lot of things, ]  /']",true we do have completely different ways of looking  at things  at a lot of things   ,sv,FEMALE,3
+"['{c but, } {f uh, } at the same time, i think [ there are a lot of, +   there is a lot of ] good that the united states and other countries can do, as far as example  /']",c but  f uh  at the same time i think  there are a lot of    there is a lot of  good that the united states and other countries can do as far as example  ,sv,FEMALE,3
+"[""[ {c and, } + {c and, } ] {f uh, } <<pause>>, i think some different things could come from   what's happened, than what we expect. /""]", c and   c and   f uh  pause i think some different things could come from   whats happened than what we expect ,sv,FEMALE,3
+"['{d well, } ye-,  /']",d well  ye  ,%,FEMALE,5
+"['{d well, } yeah,  /']",d well  yeah  ,b,FEMALE,2
+"['{f um, }  [ i, + i ] guess we could be a catalyst for their change.  /']",f um    i  i  guess we could be a catalyst for their change  ,sv,FEMALE,3
+"['i, {f um, } - /']",i f um   ,%,FEMALE,5
+['the war has certainly  sort of set things on end over there  /'],the war has certainly  sort of set things on end over there  ,sv,FEMALE,3
+"[""{c and } i don't think we'd be talking about this,   {d you know, } {a the [ israeli situation, + palestinian situation, ] {f um, } sort of came to  a head, {f um, } } unless there had been a war.  /""]",c and  i dont think wed be talking about this   d you know  a the  israeli situation  palestinian situation  f um  sort of came to  a head f um   unless there had been a war  ,sv,FEMALE,3
+"['{e i mean } that was one thing,']",e i mean  that was one thing,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['that came out of it, good or bad,  /']",that came out of it good or bad  ,+,FEMALE,0
+"[""[ i, +  i ] don't judge any war as good or   bad,  /""]", i   i  dont judge any war as good or   bad  ,sd,FEMALE,1
+"[""it's just a war. /""]",its just a war ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } i don't see any winners or losers,  /""]",c and  i dont see any winners or losers  ,sv,FEMALE,3
+['i just see dead bodies.  /'],i just see dead bodies  ,sv,FEMALE,3
+"[""i'm sorry.  {d you know, }  /""]",im sorry  d you know   ,sv,FEMALE,3
+"[""{c but, } {f um, } [ [ i-, +  i, ] +   i ] just think, {d you know, } you're right  /""]",c but  f um    i   i     i  just think d you know  youre right  ,sv,FEMALE,3
+"[""{c and } i think maybe it's at a whole different level  of them trying to cooperate and get along.  /""]",c and  i think maybe its at a whole different level  of them trying to cooperate and get along  ,sv,FEMALE,3
+"[""it's not going to be that we're going  to, {f uh, } {d you know, } sort of, tell them to go to their room  /""]",its not going to be that were going  to f uh  d you know  sort of tell them to go to their room  ,sv,FEMALE,3
+"[""{c and } that's  going to solve the whole problem. /""]",c and  thats  going to solve the whole problem ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""it's going to be them, /""]",its going to be them ,sv,FEMALE,3
+"[""{c but, } that's the type of thing they understand. /""]",c but  thats the type of thing they understand ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""they don't understand any other way. /""]",they dont understand any other way ,sv,FEMALE,3
+"['{c and, } {d you know, } -/']",c and  d you know  ,%,FEMALE,5
+"['{c and so } [ at that, + at that, ]  you have to work at their level,']",c and so   at that  at that   you have to work at their level,sv,FEMALE,3
+"[""it's, -/""]",its ,%,FEMALE,5
+"['to an extent, too. /']",to an extent too ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""[ that, +  that's ] true too,  /""]", that   thats  true too  ,sv,FEMALE,3
+"['i, {f um.  } -/']",i f um   ,%,FEMALE,5
+"[""they wouldn't have understood anything  [ else + ] than what we did in the war. /""]",they wouldnt have understood anything   else   than what we did in the war ,sv,FEMALE,3
+"['{f oh, } {d well } yeah,  /']",f oh  d well  yeah  ,b,FEMALE,2
+"['# [ they, +   they ] understand violence. # /']",  they    they  understand violence  ,sv,FEMALE,3
+['# there was nothing else.  /'], there was nothing else  ,sv,FEMALE,3
+['yeah. # /'],yeah  ,%,FEMALE,5
+"['they love violent leaders, to, {d you know, }  /']",they love violent leaders to d you know   ,sv,FEMALE,3
+"['{e i mean } look at, {d you know, } the leader they had.  /']",e i mean  look at d you know  the leader they had  ,ad,FEMALE,22
+"['[ they, +  they ] just adored him,']", they   they  just adored him,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['because he was so strict and cruel,  /']",because he was so strict and cruel  ,+,FEMALE,0
+"['{c and, } {d you know, } for a while there he had them, be-, -/']",c and  d you know  for a while there he had them be ,sd,FEMALE,1
+"[""i can't figure out why they adored him. /""]",i cant figure out why they adored him ,sd,FEMALE,1
+['{d well } it has a lot to do with their religion.  /'],d well  it has a lot to do with their religion  ,sv,FEMALE,3
+"['i got to say,']",i got to say,sd,FEMALE,1
+"['yes,  /']",yes  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['that over there, {f um, } - /']",that over there f um   ,+,FEMALE,0
+"[""{c and } i know this only because from personal experience that i'm speaking of this,  /""]",c and  i know this only because from personal experience that im speaking of this  ,sd,FEMALE,1
+"[""{c because }  [ i, +  i've, ] {d you know, } traveled around town with different cab drivers in a  situation where i've done that  /""]",c because    i   ive  d you know  traveled around town with different cab drivers in a  situation where ive done that  ,sd,FEMALE,1
+"[""{c and } [ one, +  one ] of the kindest people i've  ever met in my whole life, {f um, } is from that area of the country  /""]",c and   one   one  of the kindest people ive  ever met in my whole life f um  is from that area of the country  ,sd,FEMALE,1
+"[""{c and } {e i mean }  [ he is just overly, +  [ he, +  he ] is abounding ] in kindness, let's say. /""]",c and  e i mean    he is just overly    he   he  is abounding  in kindness lets say ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } his wife is so godly, {e i mean, } every thought,  /']",c and  his wife is so godly e i mean  every thought  ,sd,FEMALE,1
+['they have a totally different life than we have. /'],they have a totally different life than we have ,sv,FEMALE,3
+['{f huh. } /'],f huh  ,%,FEMALE,5
+"['{d you know, } {c and } when you add the,  {f um, } commercialization of the western world it sort of screws everything up for them. /']",d you know  c and  when you add the  f um  commercialization of the western world it sort of screws everything up for them ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } they have very basic life, {f um, }  /']",c and  they have very basic life f um   ,sd,FEMALE,1
+"[""{d well } it's just a very basic life  /""]",d well  its just a very basic life  ,sd,FEMALE,1
+"['{c and } they just really believe in allah, or god, or whatever. /']",c and  they just really believe in allah or god or whatever ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } [ it's, + {d you know, } everything  is ] to the glory of allah,  /""]",c and   its  d you know  everything  is  to the glory of allah  ,sv,FEMALE,3
+"[""[ [ {c and, } + {c and, } ] + {d you know, } {c and, } ] [ it, +  it's ] almost like, -/""]",  c and   c and    d you know  c and    it   its  almost like ,sv,FEMALE,3
+"[""what's sad is that the leaders that have control --""]",whats sad is that the leaders that have control ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{d well } that's,""]",d well  thats,%,FEMALE,5
+"['-- are power, /']", are power ,+,FEMALE,0
+"['{d see } using that,  /']",d see  using that  ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['yes,  /']",yes  ,b,FEMALE,2
+['{c and } they abuse that. /'],c and  they abuse that ,sv,FEMALE,3
+"[""{c and } it's always been military  /""]",c and  its always been military  ,sd,FEMALE,1
+"[""{c and } it's always been,  /""]",c and  its always been  ,sd,FEMALE,1
+"[""{c and } [ that's, +  that's ] always been the way of the world.  don't you think <laughter>. /""]",c and   thats   thats  always been the way of the world  dont you think laughter ,qy,FEMALE,7
+"[""which i think that that's not [ the, +  the ]  way the majority of the people over there really are. /""]",which i think that thats not  the   the   way the majority of the people over there really are ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{c so } it's really hard, #  when you see the leaders, compared to the people. # /""]",c so  its really hard   when you see the leaders compared to the people  ,sv,FEMALE,3
+"[""# {c but } [ i think [ in a, +  in a ]  way the war, # +  {f uh, }  i think in a way all, the involvement ] over there too, though,  has shown [ a lot of people +  that there are a lot of people ] that don't follow what those  few are doing.  /""]", c but   i think  in a   in a   way the war    f uh   i think in a way all the involvement  over there too though  has shown  a lot of people   that there are a lot of people  that dont follow what those  few are doing  ,sv,FEMALE,3
+['{c and } there are a lot of people who are good people. /'],c and  there are a lot of people who are good people ,"fo_o_fw_""_by_bc",FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{d you know, } there's, - /""]",d you know  theres  ,%,FEMALE,5
+"['{c and } [ i, +   i ] think we may not have ever have seen that without some of these, {f uh, } newspeople  being in there in the broadcasts  and [ the, +  the, ] {f uh, } soldiers leaving, {f um, }  {d you know, } surrendering and,']",c and   i    i  think we may not have ever have seen that without some of these f uh  newspeople  being in there in the broadcasts  and  the   the  f uh  soldiers leaving f um   d you know  surrendering and,sv,FEMALE,3
+['right  /'],right  ,aa,FEMALE,4
+"['and surrendering,  /']",and surrendering  ,sd,FEMALE,1
+"['that was, -/']",that was ,%,FEMALE,5
+['trying to get out of that situation. /'],trying to get out of that situation ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ {c and, } + {c and, } ] the, {d you know, } -/']", c and   c and   the d you know  ,%,FEMALE,5
+"['it just really comes down to people  are people, {d you know, }  /']",it just really comes down to people  are people d you know   ,sv,FEMALE,3
+['you have to have some compassion some humanness. /'],you have to have some compassion some humanness ,sv,FEMALE,3
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"[""doesn't matter where the boundaries are.   {f um, } {d you know, }  /""]",doesnt matter where the boundaries are   f um  d you know   ,sv,FEMALE,3
+['there are political boundaries  /'],there are political boundaries  ,sd,FEMALE,1
+"['{c and } those are man made boundaries,  /']",c and  those are man made boundaries  ,sd,FEMALE,1
+"[""{c but, } {d you know, } for heaven sakes, that's something that's been going on for ages, /""]",c but  d you know  for heaven sakes thats something thats been going on for ages ,sd,FEMALE,1
+"[""{c and } [ i, +  i ] think so  much of it is what you're taught. /""]",c and   i   i  think so  much of it is what youre taught ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"['{d you know, } they teach their children,  {f uh, } in such a way that, -/']",d you know  they teach their children  f uh  in such a way that ,sv,FEMALE,3

@@ -1,0 +1,149 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{f uh, } {d well, } {f uh, } the cowboys are my favorite team.  /']",f uh  d well  f uh  the cowboys are my favorite team  ,sd,MALE,1
+"[""that's pretty easy to say nowadays <laughter>. /""]",thats pretty easy to say nowadays laughter ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['lot easier than it was a couple years ago,  /']",lot easier than it was a couple years ago  ,sd,MALE,1
+['{c but } they had a big win today.  /'],c but  they had a big win today  ,sd,MALE,1
+"['{f uh, } did you get to watch it? /']",f uh  did you get to watch it ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i didn't.  /""]",i didnt  ,sd,FEMALE,1
+"['i, {f uh, } have been at my computer all day  /']",i f uh  have been at my computer all day  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['oh.  /'],oh  ,b,MALE,2
+['are you a cowboy fan? /'],are you a cowboy fan ,qy,MALE,7
+"['{d well, } i used to be a real big cowboy fan  /']",d well  i used to be a real big cowboy fan  ,no,FEMALE,31
+"[""[ {c and, } + {c and, }  ] {f uh, } i'm not a jimmy johnson fan. /""]", c and   c and    f uh  im not a jimmy johnson fan ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['<laughter> being an okie <laughter> --'],laughter being an okie laughter ,sd,FEMALE,1
+"['right,  /']",right  ,aa,MALE,4
+['yeah. /'],yeah ,aa,MALE,4
+"[""-- i just really don't care much, {f uh, }  /""]", i just really dont care much f uh   ,+,FEMALE,0
+"[""[ it's, + it's  ] kind of hard not to be a cowboy fan, though. /""]", its  its   kind of hard not to be a cowboy fan though ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""they've always been, {d you know, } my favorite. /""]",theyve always been d you know  my favorite ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['[ [ {c but, } +  {f uh, }  {c and } ] +  --']",  c but    f uh   c and     ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- {c and } ] i guess i still have a soft spot.  /'], c and   i guess i still have a soft spot  ,+,FEMALE,0
+"[""i just hate that that's the coach <laughter> --""]",i just hate that thats the coach laughter ,sd,FEMALE,1
+['right. /'],right ,aa,MALE,4
+"[""-- that's leading them. /""]", thats leading them ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"['{c so, } now  have they, - /']",c so  now  have they  ,%,FEMALE,5
+"[""they're  in the playoffs, right? /""]",theyre  in the playoffs right ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+['they made it to the playoffs finally  /'],they made it to the playoffs finally  ,sd,MALE,1
+"['{d like } just, {d you know, } two years ago they were one and fifteen.  /']",d like  just d you know  two years ago they were one and fifteen  ,sd,MALE,1
+['they won {d like } just one game  /'],they won d like  just one game  ,sd,MALE,1
+['{c and so } pretty fast turnaround.  /'],c and so  pretty fast turnaround  ,sd,MALE,1
+['{c but } this year they made it to playoffs  /'],c but  this year they made it to playoffs  ,sd,MALE,1
+['{c and } today was the first game  /'],c and  today was the first game  ,sd,MALE,1
+['{c and } they beat the chicago bears  /'],c and  they beat the chicago bears  ,sd,MALE,1
+"[""{c so } everybody's really going crazy,  {d you know, } down here. /""]",c so  everybodys really going crazy  d you know  down here ,sd,MALE,1
+"[""i'll bet they are. /""]",ill bet they are ,ba,FEMALE,6
+"[""<laughter> they're going crazy,  /""]",laughter theyre going crazy  ,sd,MALE,1
+"['[ {c so, } + {c so } ] they turned it around,  /']", c so   c so   they turned it around  ,sd,MALE,1
+"['{c but, }  {d you know, } they have a lot of young exciting players now, {f uh, }  /']",c but   d you know  they have a lot of young exciting players now f uh   ,sd,MALE,1
+"['{e i mean, } everybody was real upset, {d you know, } when they fired tom landry,  /']",e i mean  everybody was real upset d you know  when they fired tom landry  ,sd,MALE,1
+"[""{c but, } {d you know, } now it's like, {d you know, } they're doing good so everybody's forgotten <laughter> about that. /""]",c but  d you know  now its like d you know  theyre doing good so everybodys forgotten laughter about that ,sd,MALE,1
+"['{f uh, } football fans are probably the most fickle people in the world. /']",f uh  football fans are probably the most fickle people in the world ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['hit a bad season  /'],hit a bad season  ,sd,FEMALE,1
+"[""{c and } it's, {d you know, } the coach's fault,  /""]",c and  its d you know  the coachs fault  ,sv,FEMALE,3
+"[""[ let's, + let's ] dump him. /""]", lets  lets  dump him ,sv,FEMALE,3
+['right. /'],right ,aa,MALE,4
+"['first good season, the coach can do no wrong. /']",first good season the coach can do no wrong ,sv,FEMALE,3
+"['right,  /']",right  ,aa,MALE,4
+['exactly.'],exactly,aa,MALE,4
+['{c but } [ they +  --'],c but   they   ,sd,FEMALE,1
+['{d you know. } /'],d you know  ,+,MALE,0
+"['-- dallas ] has always been good ahead, {d you know, } heading good players and --']", dallas  has always been good ahead d you know  heading good players and ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- both [ running, + running ] backs [ and, + and ] defense. /']", both  running  running  backs  and  and  defense ,+,FEMALE,0
+"['right,  /']",right  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{f uh, } {d you know, } they have a young team.  /']",f uh  d you know  they have a young team  ,sd,MALE,1
+"[""it's, {d you know, } a lot different than the teams they used to have where it's the same old, {d you know, } players every year and, {d you know, } same coach, same everything,  /""]",its d you know  a lot different than the teams they used to have where its the same old d you know  players every year and d you know  same coach same everything  ,sv,MALE,3
+"[""{c so, } now it's, {d you know, } like a taste of something different.  /""]",c so  now its d you know  like a taste of something different  ,sv,MALE,3
+"[""they're all not, {d you know, } mister nice guys like they used to be. /""]",theyre all not d you know  mister nice guys like they used to be ,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"[""now it's {d like, } {d you know, } tough and dirty team  /""]",now its d like  d you know  tough and dirty team  ,sv,MALE,3
+['{c so } everybody is really excited.  /'],c so  everybody is really excited  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+['who is the competition going to be? /'],who is the competition going to be ,qw,FEMALE,12
+"[""{d well, } it's supposed to be the redskins, but {d you know, } we beat them already.  /""]",d well  its supposed to be the redskins but d you know  we beat them already  ,sd,MALE,1
+"['we beat them this year [ in, + in  ] washington  /']",we beat them this year  in  in   washington  ,sd,MALE,1
+"['[ {c so, } + {d you know, } {c so }  ] everybody has the feeling like we can go all the way to the super bowl,  /']", c so   d you know  c so    everybody has the feeling like we can go all the way to the super bowl  ,sd,MALE,1
+"[""{c but, } {d you know, } it's just that we have to play every game away, {d you know, }  /""]",c but  d you know  its just that we have to play every game away d you know   ,sd,MALE,1
+"[""it's going to be tough,  /""]",its going to be tough  ,sv,MALE,3
+"['[ {c but, } + {c but }  ] every-, - /']", c but   c but    every  ,%,MALE,5
+"[""the competition [ is, + are  ] teams that they've already beat this year,  /""]",the competition  is  are   teams that theyve already beat this year  ,sd,MALE,1
+"[""{c so, } {e i mean, } atlanta, they're in it, too,  /""]",c so  e i mean  atlanta theyre in it too  ,sd,MALE,1
+['{c and } we beat them  /'],c and  we beat them  ,sd,MALE,1
+"['{c and, } {f uh, } {d see, } detroit, we play them next week,  /']",c and  f uh  d see  detroit we play them next week  ,sd,MALE,1
+"['{c but, } {d you know, } we should beat them.  /']",c but  d you know  we should beat them  ,sv,MALE,3
+['everybody feels like we should be able to beat them  /'],everybody feels like we should be able to beat them  ,sv,MALE,3
+"[""[ {c so, } it's, +  {c so } everything's, ]  {f uh, } looking real good. /""]", c so  its   c so  everythings   f uh  looking real good ,sv,MALE,3
+"[""course, i think, {d you know, } you can't really go by what happened earlier in the season --""]",course i think d you know  you cant really go by what happened earlier in the season ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['right. /'],right ,b,MALE,2
+['-- injuries that heal  /'], injuries that heal  ,+,FEMALE,0
+"['[ {c and, } {d you know } --']", c and  d you know  ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['--  it can be a tot-, +   {a or injuries that, {f uh, } have newly happened } --']",  it can be a tot    a or injuries that f uh  have newly happened  ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+['-- {c and } it could be almost a totally ] new team out there than the one we played. /'], c and  it could be almost a totally  new team out there than the one we played ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+['{d well } the cowboys are on a roll.  /'],d well  the cowboys are on a roll  ,sd,MALE,1
+"[""they've won, {d like, } i think six or  seven in a row now,  /""]",theyve won d like  i think six or  seven in a row now  ,sd,MALE,1
+"[""{c so } they're supposed to be the hottest team [ in the, + in the  ] league going into the playoffs  /""]",c so  theyre supposed to be the hottest team  in the  in the   league going into the playoffs  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+"['[ {c but, } + {c but } ] since you have an o u drop out   <laughter> as a quarterback, -/']", c but   c but   since you have an o u drop out   laughter as a quarterback ,%,FEMALE,5
+"['right,  /']",right  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['troy aikman,  /']",troy aikman  ,sd,MALE,1
+"['he got hurt at o u,  /']",he got hurt at o u  ,sd,MALE,1
+['{c so } he transferred --'],c so  he transferred ,sd,MALE,1
+"['[ {d well, } +']", d well  ,sd,FEMALE,1
+['-- to u c l a. /'], to u c l a ,+,MALE,0
+"[""{d well, } ] [ he, + he  ] really didn't feel like he'd be able to do a lot of passing at o u. /""]",d well    he  he   really didnt feel like hed be able to do a lot of passing at o u ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+['o u has always been known for their running game. /'],o u has always been known for their running game ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['more than, -/']",more than ,%,FEMALE,5
+"[""they're playing tonight in fact. /""]",theyre playing tonight in fact ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""i'm watching them on t v right now.  /""]",im watching them on t v right now  ,sd,MALE,1
+"[""{c but } they're doing some stomping on <laughter> virginia. /""]",c but  theyre doing some stomping on laughter virginia ,sd,MALE,1
+"['{f oh, } i tell you,  /']",f oh  i tell you  ,^h,FEMALE,27
+"[""[ they've, + they've  ] not had much of a team this year, bless their little hearts <laughter>. /""]", theyve  theyve   not had much of a team this year bless their little hearts laughter ,sv,FEMALE,3
+['really?  /'],really  ,bh,MALE,18
+"[""{d well, } they're doing good tonight. /""]",d well  theyre doing good tonight ,sd,MALE,1
+['are they? /'],are they ,qy,FEMALE,7
+['yeah -- /'],yeah  ,ny,MALE,9
+"[""i haven't --""]",i havent ,sd,FEMALE,1
+"[""-- [ they're winning. +""]",  theyre winning ,sd,MALE,1
+['-- been watching. /'], been watching ,+,FEMALE,0
+"[""they're winning  ] forty-one to seven. /""]",theyre winning   fortyone to seven ,+,MALE,0
+"['{d well, } good --']",d well  good ,ba,FEMALE,6
+['yeah. /'],yeah ,b,MALE,2
+['-- for us <laughter>. /'], for us laughter ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+['oh. /'],oh ,b,FEMALE,2
+"['{c but, } yeah,  /']",c but  yeah  ,b,MALE,2
+"[""{c and, } {f uh, } that's right,  /""]",c and  f uh  thats right  ,%,MALE,5
+['aikman did go to o u.  /'],aikman did go to o u  ,sd,MALE,1
+['i forgot about that. /'],i forgot about that ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['they h-, - /']",they h  ,%,FEMALE,5
+"['then he went out [ to s, + to southern cal. ]  /']",then he went out  to s  to southern cal   ,sd,FEMALE,1
+['is that where he went? /'],is that where he went ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['{f uh, } u c l a. /']",f uh  u c l a ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['{d so, } -/']",d so  ,%,FEMALE,5
+"['{c but, } the cowboys did good today.  /']",c but  the cowboys did good today  ,sd,MALE,1
+"['{e i mean, } i was proud.  /']",e i mean  i was proud  ,sd,MALE,1
+"[""[ i thought, + i thought ] they would get beat today because, {e i mean } they're so young, {d you know, }  /""]", i thought  i thought  they would get beat today because e i mean  theyre so young d you know   ,sd,MALE,1
+"['playoffs, -/']",playoffs ,%,MALE,5

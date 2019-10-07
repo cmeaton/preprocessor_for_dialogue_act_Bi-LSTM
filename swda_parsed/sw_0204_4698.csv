@@ -1,0 +1,114 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""<noise> {d actually, } i've been involved in electronics a long time.  {f uh, } in computers  /""]",noise d actually  ive been involved in electronics a long time  f uh  in computers  ,sd,MALE,1
+['{c and } i have really resisted the impulse to <swallowing> get one for the home.'],c and  i have really resisted the impulse to swallowing get one for the home,sd,MALE,1
+['<tone> <static> {f oh } yeah. /'],tone static f oh  yeah ,b,MALE,2
+"['{f uh, } up until, i guess, maybe about a year and a half ago,  /']",f uh  up until i guess maybe about a year and a half ago  ,+,MALE,0
+"['i got one for my son. [ a, + a ] macintosh --']",i got one for my son  a  a  macintosh ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } l c.  /']", f uh  l c  ,+,MALE,0
+"[""it's a real easy to use color, {f uh, } computer  /""]",its a real easy to use color f uh  computer  ,sd,MALE,1
+['{c and } i got a very nice printer that goes along with it  /'],c and  i got a very nice printer that goes along with it  ,sd,MALE,1
+['{c and } he uses it for his school work. /'],c and  he uses it for his school work ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""{d well, } [ i've, + i'm ] currently in school  /""]",d well   ive  im  currently in school  ,sd,MALE,1
+"[""{c so } [ i, + i've ] had an i b m clone, i guess, for a couple of years now, which i've been trying, continually upgrading i guess.  /""]",c so   i  ive  had an i b m clone i guess for a couple of years now which ive been trying continually upgrading i guess  ,sd,MALE,1
+"[""{c and, }  {f uh, } [ i've found, + i've found ] that i pretty much become addicted to it  /""]",c and   f uh   ive found  ive found  that i pretty much become addicted to it  ,sd,MALE,1
+"[""{c and } i can't really, - /""]",c and  i cant really  ,%,MALE,5
+"[""i've found that most of homework assignments  ((   ))  really require some sort of computer, {f uh, } simulation or  analysis,  /""]",ive found that most of homework assignments       really require some sort of computer f uh  simulation or  analysis  ,sd,MALE,1
+['{c so } -- -/'],c so   ,%,MALE,5
+['huh. /'],huh ,b,MALE,2
+"[""-- [ it, + it's ] [ pr-, + very ] essential for me.  /""]",  it  its   pr  very  essential for me  ,sd,MALE,1
+"['schools have them,  /']",schools have them  ,sd,MALE,1
+"['{f uh, } {c but } lot of times so difficult to get on them at school.  /']",f uh  c but  lot of times so difficult to get on them at school  ,sd,MALE,1
+"[""[ it's very easy, + it's much more convenient ] to have one at home. /""]", its very easy  its much more convenient  to have one at home ,sv,MALE,3
+['<lipsmack> where you going to school? /'],lipsmack where you going to school ,qw,MALE,12
+['at georgia tech. /'],at georgia tech ,sd,MALE,1
+['i see. /'],i see ,bk,MALE,14
+"['yeah,  /']",yeah  ,b,MALE,2
+['{c so. } -/'],c so  ,%,MALE,5
+['in engineering? /'],in engineering ,qy^d,MALE,16
+"['yes,  actually. /']",yes  actually ,ny,MALE,9
+"['{c so } that explains [ wha-, + ] all the, {f uh, } computer assignments. /']",c so  that explains  wha   all the f uh  computer assignments ,bf,MALE,20
+"['yeah,  /']",yeah  ,b,MALE,2
+"['it, {f uh, } -/']",it f uh  ,%,MALE,5
+"['{d well, } do you use your p c for things other than explicit computer work? /']",d well  do you use your p c for things other than explicit computer work ,qy,MALE,7
+"['{f um, } sure.  /']",f um  sure  ,na,MALE,21
+"['i have some games, <noise> of course, which i play on there  /']",i have some games noise of course which i play on there  ,sd,MALE,1
+"['{c and, } {f uh, } {f uh, } <noise> i have a program which allows me to access a, {f uh, } weather data bank  /']",c and  f uh  f uh  noise i have a program which allows me to access a f uh  weather data bank  ,sd,MALE,1
+"['{c so } i can, {d like, }  check up on the weather around the country or whatever (( which is ))  a hobby.  /']",c so  i can d like   check up on the weather around the country or whatever  which is   a hobby  ,sd,MALE,1
+"['{c so, }  it provides other means other than just strict, {f uh, } {d you know, } computations and so on,  /']",c so   it provides other means other than just strict f uh  d you know  computations and so on  ,sd,MALE,1
+"['{c so. } [ have you, + do you  ] have a computer for yourself at home? /']",c so   have you  do you   have a computer for yourself at home ,qy,MALE,7
+['<lipsmack> no.  /'],lipsmack no  ,nn,MALE,13
+"['no,  /']",no  ,nn,MALE,13
+['i just have one for my son  /'],i just have one for my son  ,sd,MALE,1
+['{c and } i really sort of have the feeling that word processing is a big market # for # --'],c and  i really sort of have the feeling that word processing is a big market  for  ,sv,MALE,3
+"['# {f oh, } yeah. # /']", f oh  yeah  ,b,MALE,2
+['-- home computing. /'], home computing ,+,MALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"['tha-, -/']",tha ,%,MALE,5
+"[""[ at wo-, + at work, ] {f uh, } <laughter> i'm a technologist, {f uh, }  /""]", at wo  at work  f uh  laughter im a technologist f uh   ,sd,MALE,1
+"['{c and } i, in the past, have done a great deal [ of, + of, ] {f uh, } system development just through, {f uh, } software development programming.  /']",c and  i in the past have done a great deal  of  of  f uh  system development just through f uh  software development programming  ,sd,MALE,1
+"['{f uh, } {c but } now i find myself using the computer,  /']",f uh  c but  now i find myself using the computer  ,sd,MALE,1
+"['even the computer at work is primarily a, {f uh, } word processing system --']",even the computer at work is primarily a f uh  word processing system ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- and a communication system. /'], and a communication system ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+['do you use email and like that? /'],do you use email and like that ,qy,MALE,7
+['yes.  /'],yes  ,ny,MALE,9
+"['emil [ is, + probably pulls ] down a third [ a-, + of ] all my time. /']",emil  is  probably pulls  down a third  a  of  all my time ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""it's, - /""]",its  ,%,MALE,5
+"['[ [ i, +  + i, ] + {f uh, } i ] have modem  ((   ))  night computer  /']",  i    i   f uh  i  have modem       night computer  ,sd,MALE,1
+"['{c so } i can log into [ the sys-, + the, {f uh, } network ] at georgia tech and access my account through there, [ which is, + which ] can be useful.  /']",c so  i can log into  the sys  the f uh  network  at georgia tech and access my account through there  which is  which  can be useful  ,sd,MALE,1
+"['{c but, }  {f uh, } yeah  /']",c but   f uh  yeah  ,%,MALE,5
+"[""[ that's, + that ] and word processing is - /""]", thats  that  and word processing is  ,%,MALE,5
+"['(( while )) i tend to, - /']", while  i tend to  ,sd,MALE,1
+"[""{e i mean, } obviously, i do [ most of my, + almost all of my ] report <noise> writing [ on, + on ] my computer, {f uh, } whether it's term papers or even some smaller homework assignments. /""]",e i mean  obviously i do  most of my  almost all of my  report noise writing  on  on  my computer f uh  whether its term papers or even some smaller homework assignments ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so } [ it's, + it's ] [ really become, + i don't know, really become ] my mainstay i guess.  /""]",c so   its  its   really become  i dont know really become  my mainstay i guess  ,sd,MALE,1
+"[""i can't even remember,  /""]",i cant even remember  ,h,MALE,15
+"[""{d actually } i don't think i've ever used a typewriter [ in, + in ] my life [ to do  [ a, + a ] + to do a ] report. because my family, when i was growing up, we got a basic computer.  t r s eighty when they first came out. /""]",d actually  i dont think ive ever used a typewriter  in  in  my life  to do   a  a   to do a  report because my family when i was growing up we got a basic computer  t r s eighty when they first came out ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } i even used that to do my first reports when i was in junior high,  /']",c and  i even used that to do my first reports when i was in junior high  ,sd,MALE,1
+['{c so } <noise>. -/'],c so  noise ,%,MALE,5
+"[""{f huh. } {d well } i'm a old-timer.  /""]",f huh  d well  im a oldtimer  ,sd,MALE,1
+"[""i did my master's thesis on, {f uh, } a typewriter. /""]",i did my masters thesis on f uh  a typewriter ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['{f uh, } i rented an i b m selectric. /']",f uh  i rented an i b m selectric ,sd,MALE,1
+['oh. /'],oh ,b,MALE,2
+['{c and } it was a pretty big deal. /'],c and  it was a pretty big deal ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['it must have been tough.  /'],it must have been tough  ,ba,MALE,6
+"[""it's a little bit strange for me.  /""]",its a little bit strange for me  ,sv,MALE,3
+"[""[  i, + i ] did my master's thesis, {f uh, } last year  /""]",  i  i  did my masters thesis f uh  last year  ,sd,MALE,1
+['{c and } i did that on a computer  /'],c and  i did that on a computer  ,sd,MALE,1
+"['{c and }  it seems like, - /']",c and   it seems like  ,sv,MALE,3
+"[""i just can't imagine  how people did it before.  /""]",i just cant imagine  how people did it before  ,sd,MALE,1
+"['it must have been just [ so much, + so much ] work <noise>. /']",it must have been just  so much  so much  work noise ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""[ [ it, + {f uh, } {d well, } {d you know, } it's just, ] + it was just ] a completely different world then. /""]",  it  f uh  d well  d you know  its just   it was just  a completely different world then ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"[""[ {c so, }  + {f uh, }  ((   ))  {c so } ] [ yo-, +  you ] used your son's macintosh then?  /""]", c so    f uh        c so    yo   you  used your sons macintosh then  ,qy,MALE,7
+"['[ [  do you, + do you find it, ] + do you like ] that kind of computer? /']",   do you  do you find it   do you like  that kind of computer ,qy,MALE,7
+"['i like it,  /']",i like it  ,na,MALE,21
+['yeah.  /'],yeah  ,ny,MALE,9
+['i like it from a distance really.  /'],i like it from a distance really  ,sd,MALE,1
+"['[  i, + i ] see the packages on it, {f uh, } that are available  /']",  i  i  see the packages on it f uh  that are available  ,sd,MALE,1
+"[""{c and } it's nice.  /""]",c and  its nice  ,sv,MALE,3
+"[""i really don't use it myself. /""]",i really dont use it myself ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } [ i, + when i ] come home from work, [ i, + i ] like to stay far away from --']",f uh   i  when i  come home from work  i  i  like to stay far away from ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- computers and electronic things <laughter>. /'], computers and electronic things laughter ,+,MALE,0
+['huh. /'],huh ,b,MALE,2
+"['{f uh, } {c so } i let my son do it  /']",f uh  c so  i let my son do it  ,sd,MALE,1
+"['{c and, }']",c and ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""{f uh, } of course, {d you know, } [ there's, + {f uh, } there's ] an intellectual evolution taking place where, - /""]",f uh  of course d you know   theres  f uh  theres  an intellectual evolution taking place where  ,+,MALE,0
+"[""it's sort of a joke  /""]",its sort of a joke  ,h,MALE,15
+"[""{c but } it's really true,  /""]",c but  its really true  ,sv,MALE,3
+"[""the old-timers, even the people who are technologists don't know how to operate these electronic things like v c r -s and whatnot  /""]",the oldtimers even the people who are technologists dont know how to operate these electronic things like v c r s and whatnot  ,sv,MALE,3
+"['{c and } the kids, they just take to it like candy. /']",c and  the kids they just take to it like candy ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{d well, } [ [ [ i-, +  if, ] + if, ] + if ] the interface is there so that it's {d like } fun to use  {c and } the challenge </tone> </static>, -/""]",d well     i   if   if   if  the interface is there so that its d like  fun to use  c and  the challenge tone static ,sv,MALE,3

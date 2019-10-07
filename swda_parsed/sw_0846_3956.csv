@@ -1,0 +1,127 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay.  {d well, } what do you think about the government providing health insurance for everybody?  /']",okay  d well  what do you think about the government providing health insurance for everybody  ,qw,FEMALE,12
+['i think they should.  /'],i think they should  ,sv,FEMALE,3
+"[""i know i had a job until, let's see, a year ago this past december.  /""]",i know i had a job until lets see a year ago this past december  ,sd,FEMALE,1
+['i was working for p i e  /'],i was working for p i e  ,sd,FEMALE,1
+"['{c and } they closed,  /']",c and  they closed  ,sd,FEMALE,1
+"['<sniffing> {c and } naturally while i was working for them i had health insurance,  /']",sniffing c and  naturally while i was working for them i had health insurance  ,sd,FEMALE,1
+"['{c but, } {f um, } for me to try to get it now, it would cost me {d like } over three hundred dollars a month with the same company that was providing health insurance [ at, + # at ] p i e. # /']",c but  f um  for me to try to get it now it would cost me d like  over three hundred dollars a month with the same company that was providing health insurance  at   at  p i e  ,sd,FEMALE,1
+['# good grief.  /'], good grief  ,ba,MALE,6
+"[""# that's just almost unaffordable, isn't it? /""]", thats just almost unaffordable isnt it ,qy,MALE,7
+"['right,  /']",right  ,na,FEMALE,21
+"['it really is,  /']",it really is  ,sd,FEMALE,1
+"['{c and } [ i think, + {d you know, } i think, ]  {f uh, } - /']",c and   i think  d you know  i think   f uh   ,%,FEMALE,5
+"['{d god, } the government should come up with some kind of a health plan, or stop these doctors and hospitals from having their prices so high. /']",d god  the government should come up with some kind of a health plan or stop these doctors and hospitals from having their prices so high ,sv,FEMALE,3
+"[""{d well, } i wonder if they couldn't just provide, {f uh, } interim health insurance for people who are between jobs like that.  /""]",d well  i wonder if they couldnt just provide f uh  interim health insurance for people who are between jobs like that  ,sd,MALE,1
+['that might be a step in the right direction.  /'],that might be a step in the right direction  ,sv,MALE,3
+"[""i don't know. /""]",i dont know ,h,MALE,15
+"['{d well, } the thing is, {d you know, } jobs are so hard to find --']",d well  the thing is d you know  jobs are so hard to find ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {d you know, }  /']", d you know   ,+,FEMALE,0
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"[""{d anyhow } in the valley where i live at now, they don't want to pay anything for health insurance at all.  /""]",d anyhow  in the valley where i live at now they dont want to pay anything for health insurance at all  ,sd,FEMALE,1
+"['no benefits, {d you know. }  # {f um. } # /']",no benefits d you know    f um   ,sd,FEMALE,1
+"['# you mean # the, {f uh, } the employers? /']", you mean  the f uh  the employers ,br,MALE,30
+['yes. /'],yes ,aa,FEMALE,4
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{e i mean, } you get a job now, and the wages are really low #  /']",e i mean  you get a job now and the wages are really low   ,sd,FEMALE,1
+"['{c and, } {f uh. } # -/']",c and  f uh   ,%,FEMALE,5
+"[""# because everybody's # competing for jobs. /""]", because everybodys  competing for jobs ,^2,MALE,23
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""{c and } they don't # want, {f uh, } #""]",c and  they dont  want f uh  ,sv,FEMALE,3
+['# <throat_clearing>. #'], throatclearing ,x,MALE,8
+"['to pay any benefits,  /']",to pay any benefits  ,+,FEMALE,0
+"[""{c so } you just, {d you know, } pray to god that you don't get sick. /""]",c so  you just d you know  pray to god that you dont get sick ,sv,FEMALE,3
+"['{d well, } i used to think that universal health insurance was probably the right thing to do.  /']",d well  i used to think that universal health insurance was probably the right thing to do  ,sv,MALE,3
+"[""[  i, + i ] have to think about it some more now, because my doctor [ is, + {f uh, } {d actually } he's ] canadian -- /""]",  i  i  have to think about it some more now because my doctor  is  f uh  d actually  hes  canadian  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, } {f uh, } he told me that there're a [ lot of, + {f uh, } lot of ] counts against the canadian system, which is basically the one people are talking about for here. /""]", c and  f uh  he told me that therere a  lot of  f uh  lot of  counts against the canadian system which is basically the one people are talking about for here ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""i don't understand the arguments, exactly.  /""]",i dont understand the arguments exactly  ,sd,MALE,1
+"['he says it restricts your choice of doctors, [ and, + and ] so forth.  /']",he says it restricts your choice of doctors  and  and  so forth  ,sd,MALE,1
+"[""i'm not quite sure i understand why government health insurance would restrict your choice any more than private insurance does. /""]",im not quite sure i understand why government health insurance would restrict your choice any more than private insurance does ,sd,MALE,1
+"['no,  /']",no  ,aa,FEMALE,4
+"[""i don't # understand # --""]",i dont  understand  ,sd,FEMALE,1
+['# {e i mean } # --'], e i mean   ,sd,MALE,1
+['-- that either. /'], that either ,+,FEMALE,0
+"[""-- we're on a private insurance plan right now, # {f uh } # -- /""]", were on a private insurance plan right now  f uh    ,+,MALE,0
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['-- {d actually } i have my own business,  /']", d actually  i have my own business  ,sd,MALE,1
+['[ {c and } + --'], c and   ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } ] we, - /']", c and   we  ,+,MALE,0
+"[""our health insurance is through my wife's employer,  /""]",our health insurance is through my wifes employer  ,sd,MALE,1
+"[""[ {c and, } + {f uh, } {c and } ] every year we get another list of what doctor's we can go to, and where we can buy our medicine,  /""]", c and   f uh  c and   every year we get another list of what doctors we can go to and where we can buy our medicine  ,sd,MALE,1
+"['{c and, } {f uh, } it changes every year <laughter>. /']",c and  f uh  it changes every year laughter ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""it's always so confusing.  /""]",its always so confusing  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['{d well, } i know the plan that i had with p i e, i could go to any doctor  /']",d well  i know the plan that i had with p i e i could go to any doctor  ,sd,FEMALE,1
+"['{c and } i could go to any drug store  and get my prescriptions filled, {d you know, }  /']",c and  i could go to any drug store  and get my prescriptions filled d you know   ,sd,FEMALE,1
+['then i just sent cards in -- /'],then i just sent cards in  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and then } they would have like a ten dollar deductible per year for my medicine,  /']", c and then  they would have like a ten dollar deductible per year for my medicine  ,sd,FEMALE,1
+['{c and --'],c and ,sd,FEMALE,1
+"['{d well, } yeah. /']",d well  yeah ,b,MALE,2
+"['-- then } they would just send me a check for what was ever over that, {d you know. } /']", then  they would just send me a check for what was ever over that d you know  ,+,FEMALE,0
+"['of course, the restricted choice in this case is because only certain doctors agree to accept [ the, + {f uh, } the ] limits --']",of course the restricted choice in this case is because only certain doctors agree to accept  the  f uh  the  limits ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- of, {f uh, } compensation,  /']", of f uh  compensation  ,+,MALE,0
+"['{c but } of course that is restricted choice,  /']",c but  of course that is restricted choice  ,sv,MALE,3
+['{c so } --'],c so  ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- i don't think that the restricted choice really, {f uh, } has to do with the difference between, {f uh, } public and private health insurance.  /""]", i dont think that the restricted choice really f uh  has to do with the difference between f uh  public and private health insurance  ,+,MALE,0
+"[""i think it has to do with [ [ the, + the, ] + the, ] {f uh, } attempt to limit cost, doesn't it -- /""]",i think it has to do with   the  the   the  f uh  attempt to limit cost doesnt it  ,sv,MALE,3
+['{f um. } /'],f um  ,b,FEMALE,2
+"['-- {c and } everybody agrees that we need to limit cost some way,  /']", c and  everybody agrees that we need to limit cost some way  ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's true,  /""]",thats true  ,aa,FEMALE,4
+"[""that's true there. /""]",thats true there ,aa,FEMALE,4
+['{d well. } -/'],d well  ,%,FEMALE,5
+"[""[  you, + you ] have to recognize that if you're going to <inhaling> have the very best health care possible and, {f uh, } available on demand whenever and wherever you want it, then it's going to be expensive. /""]",  you  you  have to recognize that if youre going to inhaling have the very best health care possible and f uh  available on demand whenever and wherever you want it then its going to be expensive ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['right. /'],right ,aa,FEMALE,4
+"[""{c and } if you want to pay less, then you're going to have to settle for a health system that is not quite that, {f uh, } lavish. /""]",c and  if you want to pay less then youre going to have to settle for a health system that is not quite that f uh  lavish ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh. } -/']",c and  f uh  ,%,MALE,5
+"[""{c but } there's just so many people that can't afford to pay anything, {d you know, } - /""]",c but  theres just so many people that cant afford to pay anything d you know   ,sv,FEMALE,3
+"['that, - /']",that  ,%,FEMALE,5
+"[""people that's on unemployment. /""]",people thats on unemployment ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""what happened to reagan's safety net, anyway? /""]",what happened to reagans safety net anyway ,qh,MALE,26
+"[""i don't <laughter>. -/""]",i dont laughter ,%,FEMALE,5
+['did he take that back to california with him? /'],did he take that back to california with him ,qh,MALE,26
+['<laughter>.'],laughter,x,FEMALE,8
+['using it for a trampoline now? /'],using it for a trampoline now ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['probably so.  /'],probably so  ,sd,FEMALE,1
+"[""<laughter> i don't know,  /""]",laughter i dont know  ,h,FEMALE,15
+"['{c but } [ it is, + it does ] seem to be a big problem, {d you know.  }  /']",c but   it is  it does  seem to be a big problem d you know    ,sv,FEMALE,3
+"[""i don't know what they're going to come up with,  /""]",i dont know what theyre going to come up with  ,sd,FEMALE,1
+"['{c but, } {f um, } i sure wish they would come up [ with, + with ] something,  /']",c but  f um  i sure wish they would come up  with  with  something  ,sv,FEMALE,3
+"['{c and, } {f uh, } like i say, - /']",c and  f uh  like i say  ,%,FEMALE,5
+"[""[ {c and, } + {c and } ] i'm at the age, too, where the, - /""]", c and   c and   im at the age too where the  ,sd,FEMALE,1
+"[""i'll be fifty-seven in june,  /""]",ill be fiftyseven in june  ,sd,FEMALE,1
+"[""{c and } the people don't want to hire people this age any more.  /""]",c and  the people dont want to hire people this age any more  ,sd,FEMALE,1
+"['<sniffing> {c and } i worked for my previous company for twenty-six years, {d you know, }  /']",sniffing c and  i worked for my previous company for twentysix years d you know   ,sd,FEMALE,1
+"[""{c so, } <sigh> it's kind of hard, <sniffing> {d you know, }  /""]",c so  sigh its kind of hard sniffing d you know   ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""they'll be needing you in a couple of years, because they're running out of kids down [ that, + ] the other end. /""]",theyll be needing you in a couple of years because theyre running out of kids down  that   the other end ,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+['{c and. } -/'],c and  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""they'll be calling at my door, {f huh. }  /""]",theyll be calling at my door f huh   ,sv,FEMALE,3
+['<laughter> # {c but } {d anyhow. } # -/'],laughter  c but  d anyhow   ,%,FEMALE,5
+"[""# {d well, } if they're smart. # /""]", d well  if theyre smart  ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d now } [ i, + i ] do think the government, though, is going to have to do something, {f uh, } with this problem, because, [ it, + ] {d you know, } even to go to a little doctor out here, just to <sniffing> ask him anything, costs you forty bucks --']",d now   i  i  do think the government though is going to have to do something f uh  with this problem because  it   d you know  even to go to a little doctor out here just to sniffing ask him anything costs you forty bucks ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {d you know, } just for the visit.  /']", d you know  just for the visit  ,+,FEMALE,0
+"['{c and then } he, - /']",c and then  he  ,%,FEMALE,5
+"[""then that's not counting what medicine you're going to buy and everything else, {d you know. }  /""]",then thats not counting what medicine youre going to buy and everything else d you know   ,sv,FEMALE,3
+"[""{c and } he might tell you, {d well, } {d you know, } {d now } you're going to have to come back in a week,  /""]",c and  he might tell you d well  d you know  d now  youre going to have to come back in a week  ,sv,FEMALE,3
+['{c and  --'],c and  ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"[""-- then } that's another forty bucks, plus whatever else he decides to do to you, /""]", then  thats another forty bucks plus whatever else he decides to do to you ,+,FEMALE,0

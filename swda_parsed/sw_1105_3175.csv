@@ -1,0 +1,106 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hello. /'],hello ,fp,FEMALE,32
+"['hi, {f uh, }  /']",hi f uh   ,fp,FEMALE,32
+"['<lipsmack> {d basically, } i wear pants.  /']",lipsmack d basically  i wear pants  ,sd,FEMALE,1
+"[""i'm a real pants person  /""]",im a real pants person  ,sd,FEMALE,1
+"[""{c and, } {f uh, } {d like } when i'm at home since, - /""]",c and  f uh  d like  when im at home since  ,sd,FEMALE,1
+"[""{c and } i'll say, i'm a homemaker since that's my basic thing, {f uh, }  /""]",c and  ill say im a homemaker since thats my basic thing f uh   ,sd,FEMALE,1
+['i wear a pantsuit most of the time.  /'],i wear a pantsuit most of the time  ,sd,FEMALE,1
+"['not a pantsuit,  /']",not a pantsuit  ,sd,FEMALE,1
+['i guess pants and a shirt  /'],i guess pants and a shirt  ,sd,FEMALE,1
+"['{c and, } {f uh, } in the summertime i wear cotton tops.  /']",c and  f uh  in the summertime i wear cotton tops  ,sd,FEMALE,1
+['cotton top shirts  /'],cotton top shirts  ,sd,FEMALE,1
+"['{c and } in the winter i wear, {f uh, } {d like } sweaters.  /']",c and  in the winter i wear f uh  d like  sweaters  ,sd,FEMALE,1
+['i like sweaters a lot.  /'],i like sweaters a lot  ,sd,FEMALE,1
+['{c and  so } i do that.  /'],c and  so  i do that  ,sd,FEMALE,1
+"['{c but } when i go out for meetings <lipsmack>, {f uh, } then i will wear [ sh-, + either, {f uh, } skirts ] or, {f uh, } a dress  /']",c but  when i go out for meetings lipsmack f uh  then i will wear  sh  either f uh  skirts  or f uh  a dress  ,sd,FEMALE,1
+"['{c and } i have a couple of pantsuits because those are real in at this time,  /']",c and  i have a couple of pantsuits because those are real in at this time  ,sd,FEMALE,1
+"[""{c but, } that's basically what i do. /""]",c but  thats basically what i do ,sd,FEMALE,1
+"['{d well, } i think our tastes are fairly [ sim-, + similar, ]  /']",d well  i think our tastes are fairly  sim  similar   ,sv,FEMALE,3
+"['although i am i government worker, i do tend to, - /']",although i am i government worker i do tend to  ,sd,FEMALE,1
+"[""i'm, {f uh, } a scientist. /""]",im f uh  a scientist ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c so } that technically, - /']",c so  that technically  ,%,FEMALE,5
+"['i suppose, i could get away [ with, + with ] extremely casual clothes,  /']",i suppose i could get away  with  with  extremely casual clothes  ,sd,FEMALE,1
+"[""{c but, } for the most [ port, + part ] i don't.  /""]",c but  for the most  port  part  i dont  ,sd,FEMALE,1
+['i wear fairly respectable looking shoes  /'],i wear fairly respectable looking shoes  ,sd,FEMALE,1
+['[ {c and } -- +'], c and   ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- {c and } ] a pantsuit of one sort or another  /'], c and   a pantsuit of one sort or another  ,+,FEMALE,0
+"['{c and, } {f uh, } i guess dress it up [ with a, + with [ a, + a ] ] very nice black jacket when i [ have, + have ] visitors or have to give talks. /']",c and  f uh  i guess dress it up  with a  with  a  a   very nice black jacket when i  have  have  visitors or have to give talks ,sd,FEMALE,1
+"['{d well, } that sounds nice. /']",d well  that sounds nice ,ba,FEMALE,6
+['right. /'],right ,b,FEMALE,2
+"['{f uh, } it said the seasons,  /']",f uh  it said the seasons  ,sd,FEMALE,1
+"['[ do, + do ] you change much through the season  /']", do  do  you change much through the season  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,qy,FEMALE,7
+"['<laughter> no,  /']",laughter no  ,nn,FEMALE,13
+"['{d actually } i guess this summer [ i, + i ] wore some fairly nice jeans --']",d actually  i guess this summer  i  i  wore some fairly nice jeans ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } more than i have in previous seasons.  /']", f uh  more than i have in previous seasons  ,+,FEMALE,0
+"['{c but, } {f uh, } no,  /']",c but  f uh  no  ,nn,FEMALE,13
+"['i tend [ to, + to ] use the same things because actually our offices are very cold in summer.  /']",i tend  to  to  use the same things because actually our offices are very cold in summer  ,sd,FEMALE,1
+"[""i don't know whether they think by, {d you know, } freezing them up overnight, then they can save electricity during the day or something. /""]",i dont know whether they think by d you know  freezing them up overnight then they can save electricity during the day or something ,sv,FEMALE,3
+['maybe. /'],maybe ,aap_am,FEMALE,39
+['<laughter> [ {c but } -- +'],laughter  c but   ,sd,FEMALE,1
+['<laughter> no. /'],laughter no ,b,FEMALE,2
+"['-- {c but, } ] {d you know, } you wear a <laughter> heavy sweater in your office,']", c but   d you know  you wear a laughter heavy sweater in your office,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter> all summer.  /'],laughter all summer  ,+,FEMALE,0
+"['{d so, } right,  /']",d so  right  ,%,FEMALE,5
+"['{f uh, } yeah,  /']",f uh  yeah  ,%,FEMALE,5
+"[""[ [ [ i don't, + i don't, ] + i, ] + {d you know, } i'm not ] a clothes horse in the sense that some of my friends. /""]",   i dont  i dont   i   d you know  im not  a clothes horse in the sense that some of my friends ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } i guess although in, as i recall the stereotype [ of, + of ] secretaries was, {d you know, } overdress, over kill, sort of -- -/']",c and  i guess although in as i recall the stereotype  of  of  secretaries was d you know  overdress over kill sort of  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- {c and } --'], c and  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- [ in a s-, + in a sense, ] the people i know who spend the most on clothes are secretaries.  /']",  in a s  in a sense  the people i know who spend the most on clothes are secretaries  ,+,FEMALE,0
+"[""although the fact that most of the ones i know are in the government and they're not meeting the public --""]",although the fact that most of the ones i know are in the government and theyre not meeting the public ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+"['-- [ it, + i find it ] a little bit strange that their priorities [ would, + would ] be to spend this money here <breathing>.  /']",  it  i find it  a little bit strange that their priorities  would  would  be to spend this money here breathing  ,+,FEMALE,0
+"['you know, /']",you know ,"fo_o_fw_""_by_bc",FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{e i mean, } i suppose if you were [ [ a, + a, ] + more a ] receptionist and  meeting the public and it was the image of your company at stake --']",e i mean  i suppose if you were   a  a   more a  receptionist and  meeting the public and it was the image of your company at stake ,sv,FEMALE,3
+"['then may-, <<faint>>. /']",then may faint ,^2,FEMALE,23
+['-- perhaps you would have to dress up. /'], perhaps you would have to dress up ,+,FEMALE,0
+"[""{f uh, } {d well, } i don't have the resources to just go out and buy, buy, buy anyway <lipsmack>  /""]",f uh  d well  i dont have the resources to just go out and buy buy buy anyway lipsmack  ,sd,FEMALE,1
+"[""{c and so } my don't change dramatically over the years.  /""]",c and so  my dont change dramatically over the years  ,sd,FEMALE,1
+"['if i need something new, i will go and buy it.  /']",if i need something new i will go and buy it  ,sd,FEMALE,1
+"[""{c but, } basically i'm [ a, + a ] pretty much the same  /""]",c but  basically im  a  a  pretty much the same  ,sd,FEMALE,1
+['in the summertime i wear the light cotton  /'],in the summertime i wear the light cotton  ,sd,FEMALE,1
+['{c and } in the wintertime i change to the sweaters. /'],c and  in the wintertime i change to the sweaters ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, so, } it's not a whole lot [ of, + of ] change for me either.  /""]",c and so  its not a whole lot  of  of  change for me either  ,sd,FEMALE,1
+"['{c and, } {f uh, } especially when i go to the meetings and wear the dresses  /']",c and  f uh  especially when i go to the meetings and wear the dresses  ,sd,FEMALE,1
+"['[ [ i, + i, ] + i ] enjoy that,  /']",  i  i   i  enjoy that  ,sd,FEMALE,1
+"[""{c but } it just wouldn't be, {f uh, } smart for me to do that in my home with my children. /""]",c but  it just wouldnt be f uh  smart for me to do that in my home with my children ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so, } i have to, {f uh, } <lipsmack> think about things like that, too.  /']",c so  i have to f uh  lipsmack think about things like that too  ,sd,FEMALE,1
+"['i have given seminars before [ in, + in ] creative writing and  things like that.  /']",i have given seminars before  in  in  creative writing and  things like that  ,sd,FEMALE,1
+"[""{d now, } i don't know if they consider that a job.  /""]",d now  i dont know if they consider that a job  ,h,FEMALE,15
+"[""i don't really get paid for that, {f uh, } often,  /""]",i dont really get paid for that f uh  often  ,sd,FEMALE,1
+"['{c but, } {f uh, } when i do that then [ i, + i ] think i become more businesslike.  /']",c but  f uh  when i do that then  i  i  think i become more businesslike  ,sd,FEMALE,1
+"[""{f uh, } {c but } it doesn't really change my clothing style. /""]",f uh  c but  it doesnt really change my clothing style ,sd,FEMALE,1
+['exactly.  /'],exactly  ,aa,FEMALE,4
+"['{e i mean, } you can look businesslike [ in, + in ] a [ pant-, + the same pant suit ] you would, {d you know } --']",e i mean  you can look businesslike  in  in  a  pant  the same pant suit  you would d you know  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- wear for other things.  /'], wear for other things  ,+,FEMALE,0
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"[""[ i'm, + i'm ] really glad about that pant suits are popular because i'm allergic to many of the synthetics. /""]", im  im  really glad about that pant suits are popular because im allergic to many of the synthetics ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c and so } i used to have a problem [ when, + when ] i was working in a restaurant while i was in college --']",c and so  i used to have a problem  when  when  i was working in a restaurant while i was in college ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and had to dress up, and nylons and things like that would just give me a terrible rash. /']", and had to dress up and nylons and things like that would just give me a terrible rash ,+,FEMALE,0
+"['{f oh, } dear. /']",f oh  dear ,ba,FEMALE,6
+"[""that's not helpful. /""]",thats not helpful ,ba,FEMALE,6
+['right.  /'],right  ,aa,FEMALE,4
+"[""{c but } otherwise, {d now, } [ i'm, + i ] guess we're both pretty practical <laughter>. /""]",c but  otherwise d now   im  i  guess were both pretty practical laughter ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['i guess so <laughter>.  /'],i guess so laughter  ,h,FEMALE,15
+"[""{d well, } it's been great talking to you. /""]",d well  its been great talking to you ,fc,FEMALE,10
+['okay. /'],okay ,fc,FEMALE,10
+['# have a great day. # /'], have a great day  ,fc,FEMALE,10
+"['# {d well, } have a good day. # /']", d well  have a good day  ,fc,FEMALE,10
+['bye. /'],bye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

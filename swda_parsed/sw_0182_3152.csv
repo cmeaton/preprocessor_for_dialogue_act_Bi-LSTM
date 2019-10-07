@@ -1,0 +1,239 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } my favorite type of music is  classical music,  /']",d well  my favorite type of music is  classical music  ,sd,FEMALE,1
+"['{c and, }  {f uh, } [ i, +  i ] enjoy orchestral classical music  /']",c and   f uh   i   i  enjoy orchestral classical music  ,sd,FEMALE,1
+"['{c and } i enjoy classical guitar and classical piano, {d you know, }  /']",c and  i enjoy classical guitar and classical piano d you know   ,sd,FEMALE,1
+"[""{c and } [ [ that's, +  those are, ] +   that's ] my favorite type. /""]",c and    thats   those are     thats  my favorite type ,sd,FEMALE,1
+"['{d well, } -/']",d well  ,%,FEMALE,5
+"['{f uh, } probably the favorite instrument  would be, {f uh, } the violin. /']",f uh  probably the favorite instrument  would be f uh  the violin ,sd,FEMALE,1
+"['{f oh, } {d well } my favorite, {d well,  }  /']",f oh  d well  my favorite d well    ,sd,FEMALE,1
+"[""[ i, +  i ] don't really have a favorite,  /""]", i   i  dont really have a favorite  ,sd,FEMALE,1
+"['[ i, +  i ] like  everything basically.  /']", i   i  like  everything basically  ,sd,FEMALE,1
+"['{f um, }   i guess if i had to pick, it would be {d like } pop, i would think,  /']",f um    i guess if i had to pick it would be d like  pop i would think  ,sd,FEMALE,1
+['{c but } i like everything.  /'],c but  i like everything  ,sd,FEMALE,1
+"[""{c  so, }  it's kind of hard to choose sometimes. /""]",c  so   its kind of hard to choose sometimes ,sd,FEMALE,1
+"['yeah, {d you know. }  /']",yeah d you know   ,b,FEMALE,2
+"[""i guess [ i enjoy, +   i enjoy ] [ jazz, +  listening to jazz ] sometime although i don't feel like i have a [ [ good, +   g-, ] +  good ] understanding of it, or [ a good, +  a good ] feel for maybe what's good jazz  and what's not, /""]",i guess  i enjoy    i enjoy   jazz   listening to jazz  sometime although i dont feel like i have a   good    g    good  understanding of it or  a good   a good  feel for maybe whats good jazz  and whats not ,sd,FEMALE,1
+"['[ {c but, } +  {c but, } ]  {f um, } i enjoy it  /']", c but    c but    f um  i enjoy it  ,sd,FEMALE,1
+"['{c and, }  {f uh, } sometimes i enjoy  listening to, {f uh, } fiddle music. /']",c and   f uh  sometimes i enjoy  listening to f uh  fiddle music ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['# we were # in colorado recently  /'], we were  in colorado recently  ,sd,FEMALE,1
+"['{c and } [ heard +  [ this, +  these, ] {f uh, } {d well, } we heard ] this fiddler  /']",c and   heard    this   these  f uh  d well  we heard  this fiddler  ,sd,FEMALE,1
+"['{c and } [ we bought his, +   we bought his ] tape  /']",c and   we bought his    we bought his  tape  ,sd,FEMALE,1
+"[""{c and } it's kind of fun to listen to the --""]",c and  its kind of fun to listen to the ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- fiddle  (( pans )) .  /'], fiddle   pans    ,+,FEMALE,0
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['i grew up next door to, {f uh, }  the richardson symphony orchestra leader  /']",i grew up next door to f uh   the richardson symphony orchestra leader  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['{f oh, } chris xeros. /']",f oh  chris xeros ,bf,FEMALE,20
+['yeah. /'],yeah ,aa,FEMALE,4
+"['{f oh, } you lucky thing. /']",f oh  you lucky thing ,ba,FEMALE,6
+"['{c so, }  we used to go and  listen to them all the time  /']",c so   we used to go and  listen to them all the time  ,sd,FEMALE,1
+"['{c and, }  my parents still do. /']",c and   my parents still do ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d so, } i grew up with a lot of his music,   [ and, +  and ] what not.  /']",d so  i grew up with a lot of his music    and   and  what not  ,sd,FEMALE,1
+"['{c plus } my parents are, {d well, } - /']",c plus  my parents are d well   ,sd,FEMALE,1
+"['especially my dad, likes a  lot of classical music  /']",especially my dad likes a  lot of classical music  ,sd,FEMALE,1
+"['{c and } he introduced my brother and i both, to a lot of it.  /']",c and  he introduced my brother and i both to a lot of it  ,sd,FEMALE,1
+"['# {c so, }  # -/']", c so    ,%,FEMALE,5
+"['# {f oh, } # gosh,  /']", f oh   gosh  ,ba,FEMALE,6
+['chris xeros <laughter>. /'],chris xeros laughter ,bf,FEMALE,20
+['<laughter>.'],laughter,x,FEMALE,8
+"['you grew up with his children, too, then? /']",you grew up with his children too then ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{f oh, } gosh. /']",f oh  gosh ,ba,FEMALE,6
+['sure did. /'],sure did ,na,FEMALE,21
+"['gosh,  /']",gosh  ,b,FEMALE,2
+"['small world, {f huh? } /']",small world f huh  ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,FEMALE,9
+['we all went to high school together  /'],we all went to high school together  ,sd,FEMALE,1
+"[""[ {c and, } +  {f uh, } {c and } ] we're still in contact with each other. /""]", c and    f uh  c and   were still in contact with each other ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""we all go back to parents' houses on the weekends,  and what not  /""]",we all go back to parents houses on the weekends  and what not  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['{f oh } gosh.  /'],f oh  gosh  ,ba,FEMALE,6
+"['{d well } actually,  i used to play in the richardson symphony,  /']",d well  actually  i used to play in the richardson symphony  ,sd,FEMALE,1
+['i played violin in the orchestra for several years --'],i played violin in the orchestra for several years ,sd,FEMALE,1
+['{f oh } really? /'],f oh  really ,bh,FEMALE,18
+"['-- {d you know, }  /']", d you know   ,+,FEMALE,0
+['yeah <laughter>.  /'],yeah laughter  ,ny,FEMALE,9
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"[""it is a small world isn't it? /""]",it is a small world isnt it ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['small world.  /'],small world  ,b^m,FEMALE,24
+"['{c so, }  [ i, +   {f uh, } i ] know chris <laughter>. /']",c so    i    f uh  i  know chris laughter ,sd,FEMALE,1
+"['<children> yeah,  /']",children yeah  ,b,FEMALE,2
+"[""he's a pretty nice guy. /""]",hes a pretty nice guy ,sv,FEMALE,3
+['most of the time <laughter>. /'],most of the time laughter ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['<laughter> {d well } [ i never + i ]  had to work for him  /'],laughter d well   i never  i   had to work for him  ,sd,FEMALE,1
+['{c and } i never would want to work for him.  /'],c and  i never would want to work for him  ,sd,FEMALE,1
+"['{c so } <laughter>, -/']",c so  laughter ,%,FEMALE,5
+"['no,  /']",no  ,aa,FEMALE,4
+['no.  /'],no  ,aa,FEMALE,4
+['{d well } life just took different turns here  /'],d well  life just took different turns here  ,sd,FEMALE,1
+"[""{c so, }  {f uh, } it just <talking> didn't work out to do that now.  /""]",c so   f uh  it just talking didnt work out to do that now  ,sd,FEMALE,1
+"[""{c so, }  [ he's, +  he's ] about ready to retire, another year  /""]",c so    hes   hes  about ready to retire another year  ,sd,FEMALE,1
+"['{c and } he, -/']",c and  he ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['he sure is,  /']",he sure is  ,sd,FEMALE,1
+['he just became a grandfather. /'],he just became a grandfather ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i heard that.  /'],i heard that  ,sd,FEMALE,1
+"[""[ [ it's, +   it's daughter, ] +  it's his daughter ] that, -/""]",  its    its daughter    its his daughter  that ,sd,FEMALE,1
+"['{f uh, } uh-huh.  /']",f uh  uhhuh  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""they just had the baby's christening  /""]",they just had the babys christening  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['oh. /'],oh ,b,FEMALE,2
+"['it was really nice so <<very faint>>, /']",it was really nice so very faint ,sd,FEMALE,1
+['was it a boy or a girl? /'],was it a boy or a girl ,qy,FEMALE,7
+"[""he's a little boy <children>. /""]",hes a little boy children ,sd,FEMALE,1
+['yeah.   /'],yeah   ,b,FEMALE,2
+['what did they name him? /'],what did they name him ,qw,FEMALE,12
+"[""i can't, - /""]",i cant  ,sd,FEMALE,1
+"[""[ it, + it's ]  a <sigh>, - /""]", it  its   a sigh  ,%,FEMALE,5
+"['{f oh } gosh,  /']",f oh  gosh  ,ba,FEMALE,6
+"[""it's like <children> elijah, or  something like that. /""]",its like children elijah or  something like that ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['i keep forgetting, [ what, + what ] she named him. /']",i keep forgetting  what  what  she named him ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['his middle name is chris, or christopher [ for -- +']",his middle name is chris or christopher  for  ,sd,FEMALE,1
+['of course. /'],of course ,aa,FEMALE,4
+"['-- for ] her daddy,  /']", for  her daddy  ,+,FEMALE,0
+"[""{c but } <breathing>, i think it's elijah <children>. /""]",c but  breathing i think its elijah children ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['it starts with an e. /'],it starts with an e ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i can't remember <laughter> <children> <noise>. /""]",i cant remember laughter children noise ,h,FEMALE,15
+"[""{f oh, } {c so } you've heard the richardson symphony? /""]",f oh  c so  youve heard the richardson symphony ,qy^d,FEMALE,16
+['yes. /'],yes ,ny,FEMALE,9
+['yeah. /'],yeah ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""we've heard them  and, [ liked, +   liked ] it real well, of course <laughter> <children>. /""]",weve heard them  and  liked    liked  it real well of course laughter children ,sd,FEMALE,1
+['<laughter> do you have a favorite instrument? /'],laughter do you have a favorite instrument ,qy,FEMALE,7
+"['{f um, } <sigh> actually one of my favorite  instruments is a harpsichord. /']",f um  sigh actually one of my favorite  instruments is a harpsichord ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['i really like those,  /']",i really like those  ,sd,FEMALE,1
+"['in fact,  i had a harpsichord played at my wedding. /']",in fact  i had a harpsichord played at my wedding ,sd,FEMALE,1
+"['{f oh, } did you? /']",f oh  did you ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+['oh. /'],oh ,b,FEMALE,2
+['which was real nice. - /'],which was real nice  ,sd,FEMALE,1
+"['i got married,  {f uh, } during the christmas season  /']",i got married  f uh  during the christmas season  ,sd,FEMALE,1
+"['{c and } we <children> played, {f uh, } old fashioned  christmas carols instead of normal wedding marches and what not,  /']",c and  we children played f uh  old fashioned  christmas carols instead of normal wedding marches and what not  ,sd,FEMALE,1
+"['{c and } it was real nice,  /']",c and  it was real nice  ,sd,FEMALE,1
+['<children> i liked that a lot. /'],children i liked that a lot ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['i liked the sound of the harpsichord. /'],i liked the sound of the harpsichord ,sd,FEMALE,1
+['{c and } it played by itself? /'],c and  it played by itself ,qy^d,FEMALE,16
+"['no,  /']",no  ,nn,FEMALE,13
+['somebody played it <children>. /'],somebody played it children ,sd,FEMALE,1
+"[""{d well, } {e i mean, } {c but }  you didn't have oboe or something with it? /""]",d well  e i mean  c but   you didnt have oboe or something with it ,qy^d,FEMALE,16
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+['no.  /'],no  ,nn,FEMALE,13
+"['just by itself,  /']",just by itself  ,sd,FEMALE,1
+['just by itself. /'],just by itself ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['oh. /'],oh ,b,FEMALE,2
+['it was real nice. /'],it was real nice ,sd,FEMALE,1
+"[""{d well, } [ [ that's really, +  yeah that's, ] +   i bet that was ] nice. /""]",d well    thats really   yeah thats     i bet that was  nice ,sv,FEMALE,3
+['<children> yeah.  /'],children yeah  ,b,FEMALE,2
+"['it went well,  /']",it went well  ,sd,FEMALE,1
+"['it was a change, {d you know, } from your traditional, normal, {d you know, } stuff,   [ and + ] since it was christmas time [ and, +   and, ] {f uh, } we had the church decorated  with christmas hollies and poinsettias and, {d you know, } stuff like that  /']",it was a change d you know  from your traditional normal d you know  stuff    and   since it was christmas time  and    and  f uh  we had the church decorated  with christmas hollies and poinsettias and d you know  stuff like that  ,sd,FEMALE,1
+['{c and --'],c and ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- so, } we did the harpsichord  with old-time traditional christmas carols,  /']", so  we did the harpsichord  with oldtime traditional christmas carols  ,+,FEMALE,0
+"['[ not, +  not, ] {d you know, } the bouncy, <laughter> {d you know } --']", not   not  d you know  the bouncy laughter d you know  ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- sing along kind but --'], sing along kind but ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"['-- some of the [ old, +  older ]  ones that - /']", some of the  old   older   ones that  ,+,FEMALE,0
+"[""some, i don't even, i recognize [ the, +  the ] melodies, and whatnot,  /""]",some i dont even i recognize  the   the  melodies and whatnot  ,sd,FEMALE,1
+"[""{c but } i didn't recognize the name. /""]",c but  i didnt recognize the name ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['{d so, }  it was real nice. /']",d so   it was real nice ,sd,FEMALE,1
+"['{d well } {d actually, } [ i play, +  i play ]  the violin [ in, +  in ] a string quartet that often plays at weddings. /']",d well  d actually   i play   i play   the violin  in   in  a string quartet that often plays at weddings ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"[""{c so, }  {f um, } i always think it's a  nice break from the traditional organ or piano. /""]",c so   f um  i always think its a  nice break from the traditional organ or piano ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } [ it makes, + it makes ]  it nice.  /']",c and   it makes  it makes   it nice  ,sd,FEMALE,1
+"['it makes, {d you know, }  you can say classy - /']",it makes d you know   you can say classy  ,sd,FEMALE,1
+['{c or } it makes an elegant wedding to # have # --'],c or  it makes an elegant wedding to  have  ,sd,FEMALE,1
+['# it does. # /'], it does  ,aa,FEMALE,4
+['-- something else. /'], something else ,+,FEMALE,0
+['it really does  /'],it really does  ,aa,FEMALE,4
+"['{c and } it has such  a different sound to it, anyway.  /']",c and  it has such  a different sound to it anyway  ,sv,FEMALE,3
+"[""it's almost, - /""]",its almost  ,sv,FEMALE,3
+"[""i don't know the way it vibrates,  /""]",i dont know the way it vibrates  ,sv,FEMALE,3
+"[""it's kind of haunting, {d you know, } [ on, +  on ] some of the notes <children>.  /""]",its kind of haunting d you know   on   on  some of the notes children  ,sv,FEMALE,3
+"[""[ it, +  it's, ] - /""]", it   its   ,%,FEMALE,5
+"['[ i, +  i ] like it. /']", i   i  like it ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""i don't know how else to explain.  /""]",i dont know how else to explain  ,sd,FEMALE,1
+"[""{c but, }  we've got friends that are in the music business that go around dallas,  /""]",c but   weve got friends that are in the music business that go around dallas  ,sd,FEMALE,1
+"[""they're, {f uh, } called odessa.  /""]",theyre f uh  called odessa  ,sd,FEMALE,1
+"[""it's a husband and wife team that we've known for years  /""]",its a husband and wife team that weve known for years  ,sd,FEMALE,1
+"[""{c and, }  {f uh, } we try to <children> make contact with them periodically to see  what's going on and stuff, too,  /""]",c and   f uh  we try to children make contact with them periodically to see  whats going on and stuff too  ,sd,FEMALE,1
+"[""{c so } we've had a lot of  stuff,   {d you know, } friends [ and, +   and ] things  to do with music that constant, - /""]",c so  weve had a lot of  stuff   d you know  friends  and    and  things  to do with music that constant  ,sd,FEMALE,1
+"[""{c plus } my husband's real big  into music, too,  /""]",c plus  my husbands real big  into music too  ,sd,FEMALE,1
+"[""{c so. }  he doesn't play anything,  /""]",c so   he doesnt play anything  ,sd,FEMALE,1
+"['{c but, }']",c but ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['he just likes to listen.  /'],he just likes to listen  ,+,FEMALE,0
+['{c and } my dad and - /'],c and  my dad and  ,sd,FEMALE,1
+"['my kids are now {d well, } - /']",my kids are now d well   ,sd,FEMALE,1
+['my oldest is getting to the point where he likes certain  types of music and favorite songs and when they come on we have to  turn the radio up full blast  /'],my oldest is getting to the point where he likes certain  types of music and favorite songs and when they come on we have to  turn the radio up full blast  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['{f oh. }  now [ does, + does ]  the school [ [ in, + in your, ] + in your ]  city, - /']",f oh   now  does  does   the school   in  in your   in your   city  ,qy,FEMALE,7
+"['[ does it, + does it ] offer, {d like } band, or some of the instruments? /']", does it  does it  offer d like  band or some of the instruments ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['{d well, } [ my, +  my ] oldest is only nine. /']",d well   my   my  oldest is only nine ,sd,FEMALE,1
+['okay. /'],okay ,bk,FEMALE,14
+"[""{c so } [ h-, +  he ] hasn't really gotten  into, {f um, } that yet.  /""]",c so   h   he  hasnt really gotten  into f um  that yet  ,sd,FEMALE,1
+"['they have choir that they go to, {d you know, } music --']",they have choir that they go to d you know  music ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- class that they go to  /'], class that they go to  ,+,FEMALE,0
+"[""{c but, }  {f um, } he's not old enough yet to get into the band yet. /""]",c but   f um  hes not old enough yet to get into the band yet ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['{d so, } -/']",d so  ,%,FEMALE,5
+['right. /'],right ,b,FEMALE,2
+['i think that starts in sixth grade. /'],i think that starts in sixth grade ,sd,FEMALE,1
+['probably.  {f oh. } /'],probably  f oh  ,aa,FEMALE,4
+"['{d so, } -/']",d so  ,%,FEMALE,5
+['gosh. /'],gosh ,ba,FEMALE,6
+"[""{c but } i don't know.  /""]",c but  i dont know  ,h,FEMALE,15
+"[""[ [ [ he, +  he's, ] +  he, ] +   the only thing he's ] shown interest in wanting to play is the drums  /""]",   he   hes    he     the only thing hes  shown interest in wanting to play is the drums  ,sd,FEMALE,1
+"['{c cause } [ his, +  my ] brother plays,  /']",c cause   his   my  brother plays  ,sd,FEMALE,1
+"[""{c and, }  {f um, } [ i don't, +  i don't ] know if he's really serious  about it yet or not <children>, {d you know, }  /""]",c and   f um   i dont   i dont  know if hes really serious  about it yet or not children d you know   ,sd,FEMALE,1
+"[""it's just one of those things i'm just going to wait  and see if he's interested --""]",its just one of those things im just going to wait  and see if hes interested ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- in something, {d you know. } /']", in something d you know  ,+,FEMALE,0
+['right.  /'],right  ,aa,FEMALE,4
+"['right,  /']",right  ,aa,FEMALE,4
+"['you got a little ways to go, too <laughter>.  /']",you got a little ways to go too laughter  ,sv,FEMALE,3
+['(( right )) . /'], right   ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['just a little bit <children>. /'],just a little bit children ,sd,FEMALE,1
+"['hey, {f oh. }  /']",hey f oh   ,ba,FEMALE,6
+"['{d well, } [ my, +   {d well } my ] oldest is eight  /']",d well   my    d well  my  oldest is eight  ,sd,FEMALE,1
+"[""[ {c and, } + {c and } ]  [ she's, +  we've, ] started her on piano  /""]", c and   c and     shes   weve  started her on piano  ,sd,FEMALE,1
+"['{c so, }  {f uh, } -/']",c so   f uh  ,%,FEMALE,5
+['{f uh. } /'],f uh  ,%,FEMALE,5
+"[""{c but, }   [ that's been, +  it's been ]   fun,  /""]",c but     thats been   its been    fun  ,sd,FEMALE,1
+"[""{e i mean } it's  a lot of work to see that she's <barking> prepared  /""]",e i mean  its  a lot of work to see that shes barking prepared  ,sd,FEMALE,1
+"[""{c but } it's been fun,  /""]",c but  its been fun  ,sd,FEMALE,1
+"[""it's been fun,  /""]",its been fun  ,sd,FEMALE,1
+"[""i feel like i've learned a lot about the piano.  /""]",i feel like ive learned a lot about the piano  ,sd,FEMALE,1
+"[""i've learned a lot about playing the piano. /""]",ive learned a lot about playing the piano ,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+"['{c and, }  {f uh, } it kind of makes  me listen a little closer [ to, +  to ] the piano when i hear it at other places, or when i, {d you know, }  [ see some, +  see and hear ] someone playing.  /']",c and   f uh  it kind of makes  me listen a little closer  to   to  the piano when i hear it at other places or when i d you know    see some   see and hear  someone playing  ,sd,FEMALE,1
+"[""i sort of watch their technique, too,   [ and, + and ] see if it corresponds up to what she's learning. /""]",i sort of watch their technique too    and  and  see if it corresponds up to what shes learning ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c so, }  it's been fun. /""]",c so   its been fun ,sd,FEMALE,1
+"[""<children> i don't know if any of  mine will be interested in it  /""]",children i dont know if any of  mine will be interested in it  ,sd,FEMALE,1
+['{c or } ... -/'],c or   ,%,FEMALE,5

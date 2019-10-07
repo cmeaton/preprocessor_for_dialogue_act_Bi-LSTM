@@ -1,0 +1,159 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""we're supposed to talk about crime in the city. /""]",were supposed to talk about crime in the city ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and, }  {f uh, } seems like all big cities have plenty of that nowadays, doesn't it? /""]",c and   f uh  seems like all big cities have plenty of that nowadays doesnt it ,qy,MALE,7
+"['{d well, } {f uh, }  i, - /']",d well  f uh   i  ,%,MALE,5
+"[""that's,  - /""]",thats   ,%,MALE,5
+['sure.  /'],sure  ,na,MALE,21
+"[""{f uh, } [ i, + i ] think it's - /""]",f uh   i  i  think its  ,%,MALE,5
+"['[ [ s-, + st-, ] + statistics, ] obviously, vary greatly.  /']",  s  st   statistics  obviously vary greatly  ,sv,MALE,3
+['i always thought of dallas as being a fairly safe place. /'],i always thought of dallas as being a fairly safe place ,sv,MALE,3
+"['{d well, } it is,  /']",d well  it is  ,aa,MALE,4
+"['{c but } our crimes up here, {f uh, }  as i think it must be in most cities now,  /']",c but  our crimes up here f uh   as i think it must be in most cities now  ,sv,MALE,3
+"['{c but, }  {f uh, } i was listening to the news the other day  /']",c but   f uh  i was listening to the news the other day  ,sd,MALE,1
+"['{c and } they said they thought [ a lot of it, + ]  the reason it was up so was because [ of the, + ] {f uh, }  so  many people are without work nowadays,  /']",c and  they said they thought  a lot of it    the reason it was up so was because  of the   f uh   so  many people are without work nowadays  ,sd,MALE,1
+"[""economy's so bad <noise>. /""]",economys so bad noise ,sd,MALE,1
+['do you really believe that?  /'],do you really believe that  ,qy,MALE,7
+"[""{e i mean, } [ it, + it's ]  been up every year for many years  /""]",e i mean   it  its   been up every year for many years  ,sv,MALE,3
+"[""{c and } the economy hasn't been,""]",c and  the economy hasnt been,qy,MALE,7
+['<laughter>.'],laughter,x,MALE,8
+"['this bad for so long, has it? /']",this bad for so long has it ,+,MALE,0
+"[""that's a good point <noise> <laughter>.  /""]",thats a good point noise laughter  ,ba,MALE,6
+"[""that's just what they quoted over the news. /""]",thats just what they quoted over the news ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""i don't know if i believe that or not,  /""]",i dont know if i believe that or not  ,no,MALE,31
+"['{c but, } [ it, + it  ] does seem up  /']",c but   it  it   does seem up  ,sv,MALE,3
+"['{c and, } -/']",c and  ,%,MALE,5
+['what kind of newspaper do you get down there? /'],what kind of newspaper do you get down there ,qw,MALE,12
+['what kind? /'],what kind ,qw,MALE,12
+['yeah. /'],yeah ,ny,MALE,9
+"['{d well, } [ we got a, + i think we got a ] pretty good newspaper.  /']",d well   we got a  i think we got a  pretty good newspaper  ,sd,MALE,1
+"['{f uh, }  we have two, the morning news and the, {f uh, } times herald. /']",f uh   we have two the morning news and the f uh  times herald ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['morning news seems to have the largest circulation.  /'],morning news seems to have the largest circulation  ,sd,MALE,1
+"[""i think it's a pretty good, - /""]",i think its a pretty good  ,sd,MALE,1
+"[""it's a locally owned paper. /""]",its a locally owned paper ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['the herald is owned, i think, by the times out of, {f uh, } l a, or somewhere. /']",the herald is owned i think by the times out of f uh  l a or somewhere ,sd,MALE,1
+['yes. /'],yes ,b,MALE,2
+"['{c but, } -/']",c but  ,%,MALE,5
+"['[ [ d-, + do  they, ] + do they ] play up the local crime angles  /']",  d  do  they   do they  play up the local crime angles  ,qy,MALE,7
+"['[ {c or }  d-, +  {c or }   do ] they, -/']", c or   d   c or    do  they ,%,MALE,5
+"[""{d well, } they don't,  /""]",d well  they dont  ,ng,MALE,29
+"['no,  /']",no  ,nn,MALE,13
+"['not really, {f uh, }  /']",not really f uh   ,sd,MALE,1
+"[""they don't play it up,  i don't think.  /""]",they dont play it up  i dont think  ,sd,MALE,1
+"['{f uh, } <lipsmack> {c but } [ there, + there ] is too much of it, {d you know, } {f uh } --']",f uh  lipsmack c but   there  there  is too much of it d you know  f uh  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- too many homes broken into. /'], too many homes broken into ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['we had [ our, + our, ] fact about, {f uh, } - /']",we had  our  our  fact about f uh   ,%,MALE,5
+['last year sometime our home was broken into. /'],last year sometime our home was broken into ,sd,MALE,1
+['really? /'],really ,bh,MALE,18
+"['we, -/']",we ,%,MALE,5
+['{c so } this is a topic of personal interest. /'],c so  this is a topic of personal interest ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['we, {f uh, } {f uh, } - /']",we f uh  f uh   ,%,MALE,5
+"[""i  didn't think ours ever would be [ burgled into, + burgled, ]  /""]",i  didnt think ours ever would be  burgled into  burgled   ,sd,MALE,1
+"['{c but, } so many in our neighborhood had been,  /']",c but  so many in our neighborhood had been  ,sd,MALE,1
+"['{c and, } {f uh, } because we live on a corner --']",c and  f uh  because we live on a corner ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- and back up to a real, {f uh, } highly traveled main street. -/']", and back up to a real f uh  highly traveled main street ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['{c but, }  {f uh, } we were, so, {f uh, } -/']",c but   f uh  we were so f uh  ,%,MALE,5
+"['[ {c so, } + {c so } ] you saw this happening in your neighborhood  /']", c so   c so   you saw this happening in your neighborhood  ,bf,MALE,20
+"[""{c and } you figured it wouldn't happen to you. /""]",c and  you figured it wouldnt happen to you ,bf,MALE,20
+"['sort of, yeah.  /']",sort of yeah  ,aa,MALE,4
+"['{c and } i never did get a security system,  /']",c and  i never did get a security system  ,sd,MALE,1
+"['{c but } since that happened, i certainly have. /']",c but  since that happened i certainly have ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['what kind of system do you have? /'],what kind of system do you have ,qw,MALE,12
+"[""it's, {f uh, } <throat_clearing> {f uh, }  i guess <lipsmack>, {e excuse me, } just a standard.  {f uh, } <sniffing>, <lipsmack> with [ the, + {f uh, } all the ] doors and the, {f uh, } infrared [ thing, + {d you know, } motion detector.  ] /""]",its f uh  throatclearing f uh   i guess lipsmack e excuse me  just a standard  f uh  sniffing lipsmack with  the  f uh  all the  doors and the f uh  infrared  thing  d you know  motion detector   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ pre-, +']", pre ,sd,MALE,1
+"['[ [ is, +']",  is ,qy,MALE,7
+['pretty ] standard. /'],pretty  standard ,+,MALE,0
+"['is ] this, + is this ] one with some company [ that, + that ] services you  and --']",is  this  is this  one with some company  that  that  services you  and ,+,MALE,0
+"['yes,  /']",yes  ,ny,MALE,9
+['yes. /'],yes ,ny,MALE,9
+['-- takes your calls and all that stuff? /'], takes your calls and all that stuff ,+,MALE,0
+"[""it's monitored and all that. /""]",its monitored and all that ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c and, } -/']",c and  ,%,MALE,5
+"['{d well, } is that a necessary feature to have somebody, {d you know, } at the other end of the line  /']",d well  is that a necessary feature to have somebody d you know  at the other end of the line  ,qy,MALE,7
+['{c or } is it enough just to have a thing that makes loud noise? /'],c or  is it enough just to have a thing that makes loud noise ,qrr,MALE,33
+"['i think, {f uh, } the thing that makes a lot of noise [ would, + would ] suffice. /']",i think f uh  the thing that makes a lot of noise  would  would  suffice ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['i really do.  /'],i really do  ,sv,MALE,3
+"['{c but, }  {f uh, } this deal that was part of it for, {d you know, } three years or so --']",c but   f uh  this deal that was part of it for d you know  three years or so ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- to pay the unit off or whatever. /'], to pay the unit off or whatever ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ {c and, } + {f uh, } {c but } ]  it,  {f uh, } - /']", c and   f uh  c but    it  f uh   ,%,MALE,5
+"['the   monitoring is not that bad, though  /']",the   monitoring is not that bad though  ,sd,MALE,1
+"[""{c because, } {f uh, } {f uh, } we've goofed it up, {d you know, }  /""]",c because  f uh  f uh  weve goofed it up d you know   ,sd,MALE,1
+"[""several times you'll hit the wrong key, not intentionally or something  /""]",several times youll hit the wrong key not intentionally or something  ,sd,MALE,1
+"['[ {c and } + <sniffing>, {c and } ] they call back pretty quickly,  /']", c and   sniffing c and   they call back pretty quickly  ,sd,MALE,1
+"[""{c so } [ i guess it's, + {d you know, } i think it's ] all right.  /""]",c so   i guess its  d you know  i think its  all right  ,sd,MALE,1
+"['{c but }  i, - /']",c but   i  ,%,MALE,5
+"['to answer your question,  [ i think, + {f uh } --']",to answer your question   i think  f uh  ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- {f uh, } i think, ] {f uh, } that is a pretty good deterrent in itself,  /']", f uh  i think  f uh  that is a pretty good deterrent in itself  ,+,MALE,0
+"['whether it, -/']",whether it ,%,MALE,5
+"['[ [  {c s-, } + {c s-, } ] + {c so } ] you got a sign up there that says you got this alarm system <noise>. /']",   c s   c s    c so   you got a sign up there that says you got this alarm system noise ,qy^d,MALE,16
+['uh-huh. /'],uhhuh ,qy,MALE,7
+['{c and } what if a burglar comes along and cuts your phone line? /'],c and  what if a burglar comes along and cuts your phone line ,qw,MALE,12
+"[""<lipsmack>  {d well, } it's got a back up system that doesn't work supposedly.  [ tha-, + {f uh, } that ] if it's cut supposedly it notifies them anyway <noise>.  supposedly. /""]",lipsmack  d well  its got a back up system that doesnt work supposedly   tha  f uh  that  if its cut supposedly it notifies them anyway noise  supposedly ,sd,MALE,1
+['how does it do that? /'],how does it do that ,qw,MALE,12
+"['who knows, {d you know. }  /']",who knows d you know   ,no,MALE,31
+"[""{c but } that's a selling point.   /""]",c but  thats a selling point   ,sv,MALE,3
+"[""{c and } [ i think they're probably, + i think it probably ] does these things [ or + ] <breathing> [ sur-, + supposedly ] pretty good. /""]",c and   i think theyre probably  i think it probably  does these things  or   breathing  sur  supposedly  pretty good ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['<lipsmack> boy,  they sure advertise [ them, {d you know, } + so many of them ] nowadays. /']",lipsmack boy  they sure advertise  them d you know   so many of them  nowadays ,sv,MALE,3
+['sure. /'],sure ,aa,MALE,4
+"[""{c but, }  {f uh, } {d well } [ don't, + don't ]  you all have a pretty high crime rate up there? /""]",c but   f uh  d well   dont  dont   you all have a pretty high crime rate up there ,qy,MALE,7
+"['{d well, } yeah, {f uh, } /']",d well  yeah f uh  ,ny,MALE,9
+"[""i'm not saying it's any higher than anybody else's.  /""]",im not saying its any higher than anybody elses  ,sd,MALE,1
+"['down here, we seem to, - /']",down here we seem to  ,sd,MALE,1
+"['[ {c or, } +  {c or } ]  not here, - /']", c or    c or    not here  ,%,MALE,5
+['{c but } the statistics seem to say that.  /'],c but  the statistics seem to say that  ,sv,MALE,3
+"[""i don't know. /""]",i dont know ,h,MALE,15
+"[""[ i, + i ] think it's the murder capital of the country now. /""]", i  i  think its the murder capital of the country now ,sv,MALE,3
+['is that right? /'],is that right ,bh,MALE,18
+['yes. /'],yes ,ny,MALE,9
+['i would gather probably from drugs. /'],i would gather probably from drugs ,sv,MALE,3
+['absolutely. /'],absolutely ,aa,MALE,4
+"[""{c and } i think that's the reason it's so high everywhere. /""]",c and  i think thats the reason its so high everywhere ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""{c but, }  i don't think there's anyplace, - /""]",c but   i dont think theres anyplace  ,sv,MALE,3
+"['used to, - /']",used to  ,%,MALE,5
+"[""years ago, you thought, {d well, } these little small cities and all, <lipsmack> wouldn't have that problem,  /""]",years ago you thought d well  these little small cities and all lipsmack wouldnt have that problem  ,sv,MALE,3
+['{c but } they do. /'],c but  they do ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""we've had relatives that their children were just as involved in it, {f uh, } as anyone, {d you know. } /""]",weve had relatives that their children were just as involved in it f uh  as anyone d you know  ,sd,MALE,1
+"[""[ [ {c s-, } +  {c s-, } ] + {c so, } ] what's the solution? /""]",  c s    c s    c so   whats the solution ,qh,MALE,26
+"[""that's a good question.  /""]",thats a good question  ,ba,MALE,6
+"[""i don't know,  /""]",i dont know  ,no,MALE,31
+"[""i don't know what the solution is.  /""]",i dont know what the solution is  ,no,MALE,31
+"[""i really don't. /""]",i really dont ,no,MALE,31
+"['{c and } all these politicians [ make, + make ] hay over, {d you know } --']",c and  all these politicians  make  make  hay over d you know  ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- being anticrime,  /']", being anticrime  ,+,MALE,0
+['{c but } --'],c but  ,sv,MALE,3
+['yep. /'],yep ,b,MALE,2
+"[""-- they haven't seemed to have changed anything. /""]", they havent seemed to have changed anything ,+,MALE,0
+"['th-, - /']",th  ,%,MALE,5
+['{c and } nothing seems to change.  /'],c and  nothing seems to change  ,sv,MALE,3
+"[""{c and, }  {f uh, } i'm not sure that anything will because [ these, + if something could happen to make these ] people not want to buy it -- -/""]",c and   f uh  im not sure that anything will because  these  if something could happen to make these  people not want to buy it  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } {c but, }  they want to buy it,  /']", f uh  c but   they want to buy it  ,sv,MALE,3
+"['{c so, } -/']",c so  ,%,MALE,5
+['yeah. /'],yeah ,b,MALE,2
+['supply and demand.  /'],supply and demand  ,sv,MALE,3
+"['long as somebody wants to buy it,  somebody going to provide it for them <noise>.  /']",long as somebody wants to buy it  somebody going to provide it for them noise  ,sv,MALE,3
+"[""{c so, } [ [ i don't know, + i don't got, ] + {d you know, } i don't know ] what the solution is,  /""]",c so    i dont know  i dont got   d you know  i dont know  what the solution is  ,sd,MALE,1
+"[""i really don't <sniffing>. /""]",i really dont sniffing ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""i don't think anyone does, in fact. /""]",i dont think anyone does in fact ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['what, -/']",what ,%,MALE,5

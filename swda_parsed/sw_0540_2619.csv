@@ -1,0 +1,148 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } {f uh, } [ what + <laughter> what ] do you think about the metric system?  /']",d well  f uh   what  laughter what  do you think about the metric system  ,qo,MALE,25
+"['{f uh, }  do you, {f uh, } find it useable?  /']",f uh   do you f uh  find it useable  ,qy,MALE,7
+['have you tried much with it? /'],have you tried much with it ,qy,MALE,7
+"['{d well, } [ wi-, + with  ] an engineering,']",d well   wi  with   an engineering,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""# degree, # [ it's, + of course, it's ] a whole lot easier. /""]", degree   its  of course its  a whole lot easier ,+,MALE,0
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# {c because, } # {f uh, } -/']", c because   f uh  ,%,MALE,5
+"['# to use you mean,  /']", to use you mean  ,bf,MALE,20
+['uh-huh. # /'],uhhuh  ,b,MALE,2
+"['# yeah,  /']", yeah  ,aa,MALE,4
+"[""[  if, + if ] somebody [ ha-, + # is  ] totally unfamiliar with it, {f uh, } human nature being what it is we don't like to change. /""]",  if  if  somebody  ha   is   totally unfamiliar with it f uh  human nature being what it is we dont like to change ,sv,MALE,3
+['yes. /'],yes ,aa,MALE,4
+"[""{f uh, } it just absolutely makes perfectly good sense to me because it's all decimal. /""]",f uh  it just absolutely makes perfectly good sense to me because its all decimal ,sd,MALE,1
+['yes. /'],yes ,b,MALE,2
+"[""{c and } it's so easy to convert from one set of units to another. /""]",c and  its so easy to convert from one set of units to another ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['we, - /']",we  ,%,MALE,5
+"[""well i've lived both in the united states [ and, + and  ] in a country where they do use the metric system  /""]",well ive lived both in the united states  and  and   in a country where they do use the metric system  ,sd,MALE,1
+"[""[ {c and, } +  {f uh, } {c so } ] [ i've, + i've ] lived with  ((   ))  pounds and inches and found it really quite easy to convert over.  /""]", c and    f uh  c so    ive  ive  lived with       pounds and inches and found it really quite easy to convert over  ,sd,MALE,1
+"['{f um, } the secret seeming to me to be to not bother ever converting inches to centimeters and,']",f um  the secret seeming to me to be to not bother ever converting inches to centimeters and,sv,MALE,3
+['# right. # /'], right  ,aa,MALE,4
+"['# pounds # to [ kilom-, + {f uh, } {f uh, } kilograms, ] /']", pounds  to  kilom  f uh  f uh  kilograms  ,+,MALE,0
+"[""# that's right. # /""]", thats right  ,aa,MALE,4
+"[""# {c and, } i # think that's what hung people up the most is they went now wait a minute, an inch is two point fifty-four centimeters, /""]", c and  i  think thats what hung people up the most is they went now wait a minute an inch is two point fiftyfour centimeters ,sv,MALE,3
+['# right. # /'], right  ,b,MALE,2
+['# how # on earth am i every going to do the math? /  *[[spelling]]'], how  on earth am i every going to do the math   spelling,^q,MALE,19
+['right. /'],right ,b,MALE,2
+"['{c and } the problem is that we tried to convert everything from inches to centimeters preserving basically the inches but expressing them as centimeters rather than saying no, a centimeter is about the width of your thumbnail, or  whatever,  [ and, + {d you know, } <laughter> and ] leaving it at that  /']",c and  the problem is that we tried to convert everything from inches to centimeters preserving basically the inches but expressing them as centimeters rather than saying no a centimeter is about the width of your thumbnail or  whatever   and  d you know  laughter and  leaving it at that  ,sv,MALE,3
+"['{c and, } {f uh, } {d you know, } a kilogram weighs about this much  /']",c and  f uh  d you know  a kilogram weighs about this much  ,sd,MALE,1
+"['{c and } get used to it from scratch,  /']",c and  get used to it from scratch  ,sv,MALE,3
+"[""{c cause } i still can't convert back and forth from inches to centimeters  /""]",c cause  i still cant convert back and forth from inches to centimeters  ,sd,MALE,1
+"[""{c but } i'm perfectly comfortable using either. /""]",c but  im perfectly comfortable using either ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } i think the real problem with [ this, + this ] weird conversion, [ yo-, + you  ] see signs that say fifty-five miles per hour and, {d you know, } whatever it would be one hundred six kilometers per hour, {d you know, } - /']",c and  i think the real problem with  this  this  weird conversion  yo  you   see signs that say fiftyfive miles per hour and d you know  whatever it would be one hundred six kilometers per hour d you know   ,sv,MALE,3
+"['people, {d you know, } - /']",people d you know   ,%,MALE,5
+"[""it's hard to take it seriously. /""]",its hard to take it seriously ,sv,MALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"[""{c and } as long as both were given, you, basically, just don't read the kilometers per hour,  /""]",c and  as long as both were given you basically just dont read the kilometers per hour  ,sd,MALE,1
+"['you just say, {d well } look read the miles per hour one,  /']",you just say d well  look read the miles per hour one  ,sd,MALE,1
+['the other one must be for someone else. /'],the other one must be for someone else ,^q,MALE,19
+"[""that's right. /""]",thats right ,aa,MALE,4
+"[""{f uh, } i don't know,  /""]",f uh  i dont know  ,h,MALE,15
+['i mean even britain has converted over  /'],i mean even britain has converted over  ,sd,MALE,1
+['{c and } we inherited this mess from them  /'],c and  we inherited this mess from them  ,sd,MALE,1
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+"[""# that's right,  /""]", thats right  ,aa,MALE,4
+"[""it's all their fault. # /""]",its all their fault  ,sv,MALE,3
+"[""# <laughter>  {d well, } {e i mean, } it's more # our fault than theirs at this point  because [ they, + they ] saw the light, {f um, }  /""]", laughter  d well  e i mean  its more  our fault than theirs at this point  because  they  they  saw the light f um   ,sv,MALE,3
+"[""i don't know why they [ we-, + {f um, } were ] more able than we were  /""]",i dont know why they  we  f um  were  more able than we were  ,%,MALE,5
+"[""except i think, that they probably just said {d well, } we're just going to start using the things now  /""]",except i think that they probably just said d well  were just going to start using the things now  ,sv,MALE,3
+"[""{c and } you sort of have to force people to change since they don't want to <laughter>. /""]",c and  you sort of have to force people to change since they dont want to laughter ,sv,MALE,3
+"['of course, being part of the european community, if everybody else did it [ they, + they  ] were probably much more, - /']",of course being part of the european community if everybody else did it  they  they   were probably much more  ,%,MALE,5
+['is much more necessary for them than for us. /'],is much more necessary for them than for us ,sv,MALE,3
+"[""that's true,  /""]",thats true  ,aa,MALE,4
+"[""[ that's, + that's ] probably true  /""]", thats  thats  probably true  ,aa,MALE,4
+"['{c and } america does have a long history of sort of doing things our own way <laughter>  rather than adopting, {d you know, } some other model. /']",c and  america does have a long history of sort of doing things our own way laughter  rather than adopting d you know  some other model ,sd,MALE,1
+"[""there's an expression for that,  /""]",theres an expression for that  ,sd,MALE,1
+"['with eyes on the past, backing confidently into the future. /']",with eyes on the past backing confidently into the future ,^q,MALE,19
+"[""<laughter> i've never heard that one,  /""]",laughter ive never heard that one  ,sd,MALE,1
+"[""that's very nice <laughter>.  /""]",thats very nice laughter  ,ba,MALE,6
+"[""{f oh, } {c so } i'm all for the metric system  and converting over  /""]",f oh  c so  im all for the metric system  and converting over  ,sv,MALE,3
+"['{c and } i think, - /']",c and  i think  ,%,MALE,5
+"['i guess, my feeling is the way to do it [ is, + is ] to just start giving weights, {d you know, } have a very brief transition period and then just start giving weights and  kilometers, {f er, } just as in kilometers and weights and kilograms and everything like that and, {f uh, } just have people start using it rather than having people constantly trying to convert.  /']",i guess my feeling is the way to do it  is  is  to just start giving weights d you know  have a very brief transition period and then just start giving weights and  kilometers f er  just as in kilometers and weights and kilograms and everything like that and f uh  just have people start using it rather than having people constantly trying to convert  ,sv,MALE,3
+"['remember me getting a package of something that said one pound,  /']",remember me getting a package of something that said one pound  ,sd,MALE,1
+"['this is a package of dates mind you,  /']",this is a package of dates mind you  ,sd,MALE,1
+"[""[ it's, + was, ] presumably something you weigh fairly precisely,  /""]", its  was  presumably something you weigh fairly precisely  ,sd,MALE,1
+['it said one pound <throat_clearing>  /'],it said one pound throatclearing  ,sd,MALE,1
+['{c and  then } in parenthesis it said four hundred fifty-four point six grams <laughter>. /'],c and  then  in parenthesis it said four hundred fiftyfour point six grams laughter ,sd,MALE,1
+"['right,  /']",right  ,b,MALE,2
+['right. /'],right ,b,MALE,2
+"['{c and, } as near as i could tell, seeing that was basically anti-metric propaganda  /']",c and  as near as i could tell seeing that was basically antimetric propaganda  ,sd,MALE,1
+"[""{c cause } anyone who would say, {d well } look i can either buy a pound of something at four hundred sixty-four point six grams which, of course, they couldn't weigh it out accurately anyway, {f um, }  /""]",c cause  anyone who would say d well  look i can either buy a pound of something at four hundred sixtyfour point six grams which of course they couldnt weigh it out accurately anyway f um   ,sd,MALE,1
+"[""every time i see something like  that i think, {d well, } [ that's, + that's ] an anti-metric argument. /""]",every time i see something like  that i think d well   thats  thats  an antimetric argument ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{d well, } {f uh, } [ i, + i  ] don't think [ it'll, + it ] could ever happen [ with, + with ] a quick transition. /""]",d well  f uh   i  i   dont think  itll  it  could ever happen  with  with  a quick transition ,sv,MALE,3
+"[""you don't? /""]",you dont ,qy,MALE,7
+['no.  /'],no  ,nn,MALE,13
+"['[ i, + i ] think that would be the easiest way  /']", i  i  think that would be the easiest way  ,sv,MALE,3
+"['{c but } human nature being such as it is,']",c but  human nature being such as it is,sv,MALE,3
+"['# uh-huh,  /']", uhhuh  ,b,MALE,2
+['uh-huh. # /'],uhhuh  ,b,MALE,2
+"['# i would # think it would take, probably, two or three years before people [ co-, + could ] completely cut the cord. /']", i would  think it would take probably two or three years before people  co  could  completely cut the cord ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{f oh, } {f oh, } that's what i was thinking by quick transition,  /""]",f oh  f oh  thats what i was thinking by quick transition  ,sd,MALE,1
+"[""i didn't mean, {d you know, } i didn't mean like sweden going over to right hand drive or  anything, {d you know, } <laughter>  /""]",i didnt mean d you know  i didnt mean like sweden going over to right hand drive or  anything d you know  laughter  ,sd,MALE,1
+"['at midnight, tonight we all switch over or  anything. /']",at midnight tonight we all switch over or  anything ,^q,MALE,19
+['did they switch? /'],did they switch ,qy,MALE,7
+"['{f uh, } i believe so,  /']",f uh  i believe so  ,^h,MALE,27
+"['yeah,  /']",yeah  ,ny,MALE,9
+['{c and } i think they did it overnight  /'],c and  i think they did it overnight  ,sd,MALE,1
+"[""{c cause } {d you know, } you can't do it gradually.  <laughter>  /""]",c cause  d you know  you cant do it gradually  laughter  ,sd,MALE,1
+"[""that's an example of something you can't do gradually. /""]",thats an example of something you cant do gradually ,sd,MALE,1
+"[""{d well } that's true.  /""]",d well  thats true  ,aa,MALE,4
+"['[ it, + it ] has to be kind of a discreet transaction <laughter>. /']", it  it  has to be kind of a discreet transaction laughter ,bf,MALE,20
+"['yes,  /']",yes  ,aa,MALE,4
+['it does <laughter>.  /'],it does laughter  ,aa,MALE,4
+['a quantum leap from left to right hand drive <laughter>. /'],a quantum leap from left to right hand drive laughter ,sd,MALE,1
+['interesting. /'],interesting ,ba,MALE,6
+"['{c and } they, - /']",c and  they  ,%,MALE,5
+"['{c but, } {d you know,  } that must have taken, {f uh, } - /']",c but  d you know   that must have taken f uh   ,%,MALE,5
+"['that was something that had to be done quickly,']",that was something that had to be done quickly,sd,MALE,1
+"['# {f oh, } yes. # /']", f oh  yes  ,aa,MALE,4
+"['# {d you know, } # because of external circumstances,  /']", d you know   because of external circumstances  ,+,MALE,0
+"['{c but } they decided to do it to make themselves in sync with the rest of europe,']",c but  they decided to do it to make themselves in sync with the rest of europe,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+['# or # the rest of continental europe  /'], or  the rest of continental europe  ,+,MALE,0
+"['[ {c and, } +  {d you know. }']", c and    d you know ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['{c but } ] that must have been tremendously difficult to orchestrate. /'],c but   that must have been tremendously difficult to orchestrate ,+,MALE,0
+"[""i'm sure. /""]",im sure ,ba,MALE,6
+"[""{f um, } {c so } [ [ [ [ i, + i,  ] + i,  ] + i,  ] + i  ] think it's essential that it's done  /""]",f um  c so      i  i    i    i    i   think its essential that its done  ,sv,MALE,3
+"['{c and } i think the real trick is to avoid the <sigh>  {d you know, } - /']",c and  i think the real trick is to avoid the sigh  d you know   ,sv,MALE,3
+['a little more attention to human psychology  /'],a little more attention to human psychology  ,sv,MALE,3
+"['{c and, } whereas, people want round numbers - /']",c and  whereas people want round numbers  ,sv,MALE,3
+"['{c and } after all, the whole reason to go over to metric is to have round numbers,']",c and  after all the whole reason to go over to metric is to have round numbers,sd,MALE,1
+"['# exactly,  /']", exactly  ,aa,MALE,4
+['exactly. # /'],exactly  ,aa,MALE,4
+"[""# {c so } they # don't deal with thirty seconds of an inch  /""]", c so  they  dont deal with thirty seconds of an inch  ,+,MALE,0
+"['{c and so } what the exact, - /']",c and so  what the exact  ,%,MALE,5
+['the thing that was best about metric was the thing that was most poorly represented.  /'],the thing that was best about metric was the thing that was most poorly represented  ,sv,MALE,3
+"['really, i think. /']",really i think ,sv,MALE,3
+"['{d well, } we do have the two liter soda pop bottles. /']",d well  we do have the two liter soda pop bottles ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"['i saw that,  /']",i saw that  ,sd,MALE,1
+['i saw that the other day.  /'],i saw that the other day  ,sd,MALE,1
+"[""i [ don-, + don't ] drink soda pop, /""]",i  don  dont  drink soda pop ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+['# {c but } # i saw a two liter soda pop bottle  /'], c but   i saw a two liter soda pop bottle  ,sd,MALE,1
+"['{c so, } yeah,  /']",c so  yeah  ,%,MALE,5
+['things like that are a good start  /'],things like that are a good start  ,sv,MALE,3
+"['{c and } if you start expressing one liters and one kilograms and then the pounds come in [ the, + the, ] {d you know, } the odd numbers,']",c and  if you start expressing one liters and one kilograms and then the pounds come in  the  the  d you know  the odd numbers,sd,MALE,1
+['# right.  /'], right  ,aa,MALE,4
+['yes. # /'],yes  ,aa,MALE,4
+"['# {d you know, } # two point two pounds or something.  i think people will start getting a sense of, gee the metric is the sensible one. /']", d you know   two point two pounds or something  i think people will start getting a sense of gee the metric is the sensible one ,+,MALE,0
+"[""that's true.   /""]",thats true   ,ba,MALE,6
+"['{d well, } sure have enjoyed our talk. /']",d well  sure have enjoyed our talk ,fc,MALE,10
+"['yes,  /']",yes  ,fc,MALE,10
+"[""{d well } get back to what you're doing  /""]",d well  get back to what youre doing  ,fc,MALE,10
+"[""{c and } i'll do the same.  /""]",c and  ill do the same  ,fc,MALE,10
+['i enjoyed talking with you too. /'],i enjoyed talking with you too ,fc,MALE,10
+"['okay,  /']",okay  ,fc,MALE,10
+"['god bless y-, - /']",god bless y  ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,MALE,10
+['okay.  /'],okay  ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,MALE,10

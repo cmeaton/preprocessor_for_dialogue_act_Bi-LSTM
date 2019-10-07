@@ -1,0 +1,137 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<noise>  okay. /'],noise  okay ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{f uh, } {d so, } what do you think, {f uh, } about putting the elderly in a nursing home? /']",f uh  d so  what do you think f uh  about putting the elderly in a nursing home ,qo,FEMALE,25
+"['{d well, } i think that [ it, + it ] varies [ on + on ] the individual basis. /']",d well  i think that  it  it  varies  on  on  the individual basis ,sv,FEMALE,3
+['{f huh. } /'],f huh  ,%,FEMALE,5
+"['{f uh, } sometimes [ it is, + there is ] no alternative. /']",f uh  sometimes  it is  there is  no alternative ,sv,FEMALE,3
+['uh-huh <<very faint>>. /'],uhhuh very faint ,b,FEMALE,2
+"[""{f uh, } you do not have, {f uh, } {f uh, } family available or family that's, {f uh, } - /""]",f uh  you do not have f uh  f uh  family available or family thats f uh   ,sd,FEMALE,1
+"['you may not even have family [ that is, {f uh, } {f uh, } in, + {d you know, } who are around. ] /']",you may not even have family  that is f uh  f uh  in  d you know  who are around  ,sd,FEMALE,1
+"[""that's true.  /""]",thats true  ,sv,FEMALE,3
+['yeah. /'],yeah ,aa,FEMALE,4
+"[""{c so, } sometimes it's not an alternative. /""]",c so  sometimes its not an alternative ,sv,FEMALE,3
+['{f huh } <<very faint>>. /'],f huh  very faint ,%,FEMALE,5
+"[""[ {c and } i think, + {f uh, } {c but } i think ] also, sometimes it can be, {f uh, } a benefit if it's for a short time.  /""]", c and  i think  f uh  c but  i think  also sometimes it can be f uh  a benefit if its for a short time  ,sv,FEMALE,3
+['sometimes in a nursing home -- -/'],sometimes in a nursing home  ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {f uh, } especially [ if, + if ] it's after an acute illness.  /""]", f uh  especially  if  if  its after an acute illness  ,sv,FEMALE,3
+"['to get over a, - /']",to get over a  ,%,FEMALE,5
+"['{c or } to rehab after, {f uh, } an illness. /']",c or  to rehab after f uh  an illness ,sv,FEMALE,3
+"[""that's true.  /""]",thats true  ,aa,FEMALE,4
+['i never thought of that.  /'],i never thought of that  ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,%,FEMALE,5
+"['# [ sometimes + # {d you know, } sometimes ] the nursing homes are good for, {f uh, } just short periods of time. /']",  sometimes   d you know  sometimes  the nursing homes are good for f uh  just short periods of time ,sv,FEMALE,3
+"[""that's true,  /""]",thats true  ,aa,FEMALE,4
+['until they get over that hump --'],until they get over that hump ,bf,FEMALE,20
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+"[""-- of whatever it is they're # dealing with. # /""]", of whatever it is theyre  dealing with  ,+,FEMALE,0
+"[""# {c because } too # often the acute hospitals [ will, + are sending ] them out much faster than what they're <noise> --""]", c because  too  often the acute hospitals  will  are sending  them out much faster than what theyre noise ,sv,FEMALE,3
+['yes. /'],yes ,aa,FEMALE,4
+['-- really able to. /'], really able to ,+,FEMALE,0
+['they really are.  /'],they really are  ,sv,FEMALE,3
+"[""they don't like to keep them --""]",they dont like to keep them ,sv,FEMALE,3
+['[ {c so } + --'], c so   ,sv,FEMALE,3
+['-- longer than a week. /'], longer than a week ,+,FEMALE,0
+['-- {c so } ] there is some good to it. /'], c so   there is some good to it ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{f uh, } sometimes too, it's used as a dumb job.  /""]",f uh  sometimes too its used as a dumb job  ,sv,FEMALE,3
+"['{d you know } [ the  fam-, +  --']",d you know   the  fam   ,sv,FEMALE,3
+['what do you mean? /'],what do you mean ,br,FEMALE,30
+"['-- {d well } the families ] do not necessarily <inhaling>, {f uh, } know what to do with them  /']", d well  the families  do not necessarily inhaling f uh  know what to do with them  ,+,FEMALE,0
+"[""{c and } they don't want to take the responsibility  /""]",c and  they dont want to take the responsibility  ,sv,FEMALE,3
+['{c so } they will put them in a nursing home. /'],c so  they will put them in a nursing home ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's true. /""]",thats true ,sv,FEMALE,3
+"['{c so } you see, {f uh, } - /']",c so  you see f uh   ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""there's both sides to it too.  /""]",theres both sides to it too  ,sv,FEMALE,3
+['# what do you think? # /'], what do you think  ,qo,FEMALE,25
+['# yeah  /'], yeah  ,b,FEMALE,2
+"[""{c and } it # depends on [ how, + how ] sick the person is too. what you're capable of, {d like } if you have a family to take care of, {d you know, } of your own <noise>. /""]",c and  it  depends on  how  how  sick the person is too what youre capable of d like  if you have a family to take care of d you know  of your own noise ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b^m,FEMALE,24
+"['{f uh, } <smack> i would personally like it  /']",f uh  smack i would personally like it  ,sd,FEMALE,1
+"['if my parents were to get ill, i would like to take care of them at home and if i had the money with some help.  /']",if my parents were to get ill i would like to take care of them at home and if i had the money with some help  ,sd,FEMALE,1
+"[""that's not always possible. /""]",thats not always possible ,sv,FEMALE,3
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"[""{c but, } {f uh, } to the best of my ability, i'd like to do it until it gets impossible <inhaling>. /""]",c but  f uh  to the best of my ability id like to do it until it gets impossible inhaling ,sd,FEMALE,1
+"[""i think that's also where you're going to have a lot of people who are going to, - /""]",i think thats also where youre going to have a lot of people who are going to  ,sv,FEMALE,3
+"[""[ it's + there's ] not a choice, [ # it's # -- +""]", its  theres  not a choice   its   ,sv,FEMALE,3
+['# right. # /'], right  ,b,FEMALE,2
+"[""-- because, it's ] not economically feasible even # to # --""]", because its  not economically feasible even  to  ,+,FEMALE,0
+['# uh-huh # <<very faint>>. /'], uhhuh  very faint ,b,FEMALE,2
+['-- put them in a nursing home. /'], put them in a nursing home ,+,FEMALE,0
+['<inhaling>  yeah. /'],inhaling  yeah ,b,FEMALE,2
+"['<inhaling> {c so } [ that, + that ] option sometimes is not available if they do not have [ the, + ]  {f uh, } <noise> either medicare or insurance to cover it. /']",inhaling c so   that  that  option sometimes is not available if they do not have  the    f uh  noise either medicare or insurance to cover it ,sd,FEMALE,1
+"[""that's true.  /""]",thats true  ,sv,FEMALE,3
+['yeah. /'],yeah ,aa,FEMALE,4
+"['{d so, } -/']",d so  ,%,FEMALE,5
+['{c but } i think nursing homes can be good.  /'],c but  i think nursing homes can be good  ,sv,FEMALE,3
+['it just depends on what kind they are.  /'],it just depends on what kind they are  ,sd,FEMALE,1
+"['{d you know, } you need to check them out ahead of time. /']",d you know  you need to check them out ahead of time ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{c and then } there's also some that are set up for specialties -- /""]",c and then  theres also some that are set up for specialties  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } i know some.  /']", f uh  i know some  ,sd,FEMALE,1
+"[""unfortunately, some elderly [ have to go to + {e or } have, ] i guess it's alzheimer's or # where # --""]",unfortunately some elderly  have to go to  e or  have  i guess its alzheimers or  where  ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['-- they wonder [ or, + or, ] {f uh, } <noise> confused or have some mental problem <noise>. /']", they wonder  or  or  f uh  noise confused or have some mental problem noise ,+,FEMALE,0
+"['<smack> yeah,  /']",smack yeah  ,b,FEMALE,2
+"[""that they're <noise>, -/""]",that theyre noise ,%,FEMALE,5
+['{c and } you need a special nursing home for that.  /'],c and  you need a special nursing home for that  ,sv,FEMALE,3
+"[""you need one that has a unit that's locked where they are not able to get out and roam around -- /""]",you need one that has a unit thats locked where they are not able to get out and roam around  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- {c and } you need people who are trained for that # type # --'], c and  you need people who are trained for that  type  ,sv,FEMALE,3
+['# right. # /'], right  ,aa,FEMALE,4
+['-- of problem. /'], of problem ,+,FEMALE,0
+"[""who know what they're doing with that. /""]",who know what theyre doing with that ,bf,FEMALE,20
+['yeah  /'],yeah  ,aa,FEMALE,4
+"[""[ {c so, } + {c so } ] there's different types of nursing homes i think. /""]", c so   c so   theres different types of nursing homes i think ,sv,FEMALE,3
+['yeah  /'],yeah  ,b,FEMALE,2
+"[""{d well, } my, {f uh, } grandmother's not really in a nursing home, but a retirement home that also has a nursing home sort of attached to it.  /""]",d well  my f uh  grandmothers not really in a nursing home but a retirement home that also has a nursing home sort of attached to it  ,sd,FEMALE,1
+"['<inhaling> {c and } she really liked the idea [ of, + of ] moving there.  /']",inhaling c and  she really liked the idea  of  of  moving there  ,sd,FEMALE,1
+"[""she's not ill yet -- /""]",shes not ill yet  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- <inhaling> {c but, } {f uh, } she worked there as a volunteer for about ten years  /']", inhaling c but  f uh  she worked there as a volunteer for about ten years  ,sd,FEMALE,1
+"[""{c and then } she decided [ that, + {f uh, } {a she's eighty five years old, } that ] eventually, {d you know, } [ she + she ] doesn't want her family taking care of her and being a burden.  /""]",c and then  she decided  that  f uh  a shes eighty five years old  that  eventually d you know   she  she  doesnt want her family taking care of her and being a burden  ,sd,FEMALE,1
+"[""she's very independent.  /""]",shes very independent  ,sd,FEMALE,1
+"[""<inhaling> {c so } she's in this nursing home.  /""]",inhaling c so  shes in this nursing home  ,sd,FEMALE,1
+"[""it's out in the country  /""]",its out in the country  ,sd,FEMALE,1
+"[""{c and, } {f uh, } she really enjoys it right now  <smack> because she doesn't have to wash dishes or cook <laughter>. /""]",c and  f uh  she really enjoys it right now  smack because she doesnt have to wash dishes or cook laughter ,sd,FEMALE,1
+['gives her a little bit of her own independence -- /'],gives her a little bit of her own independence  ,bf,FEMALE,20
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+"['-- {c but } she still has, {f uh, } a security there. /']", c but  she still has f uh  a security there ,bf,FEMALE,20
+['right.  /'],right  ,aa,FEMALE,4
+['some support.  /'],some support  ,bf,FEMALE,20
+"[""{c and then } there's also, {f uh, } sort of a wing for those people that do get sick  /""]",c and then  theres also f uh  sort of a wing for those people that do get sick  ,sd,FEMALE,1
+"['{c and, } what i like about it and i think she likes about it is that she knows everybody there now  /']",c and  what i like about it and i think she likes about it is that she knows everybody there now  ,sd,FEMALE,1
+"['{c and then, } {c so } if she ever does become ill, {f uh, } it will be like family around her. /']",c and then  c so  if she ever does become ill f uh  it will be like family around her ,sd,FEMALE,1
+"[""that's right  /""]",thats right  ,ba,FEMALE,6
+['# {c and } [ i # -- +'], c and   i   ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""-- i've ] seen some of them like that too  /""]", ive  seen some of them like that too  ,+,FEMALE,0
+"['{c and } also they have a lot of, {f uh, } activities going on for # the ones # --']",c and  also they have a lot of f uh  activities going on for  the ones  ,sd,FEMALE,1
+['# uh-huh # <<very faint>>. /'], uhhuh  very faint ,b,FEMALE,2
+['-- who are more active. /'], who are more active ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['sh-, -/']",sh ,%,FEMALE,5
+"[""{c so } it's not sort of like, {f uh, } # {f uh } # --""]",c so  its not sort of like f uh   f uh   ,sv,FEMALE,3
+['# uh-huh # <<very faint>>. /'], uhhuh  very faint ,b,FEMALE,2
+['-- a sick place. /'], a sick place ,+,FEMALE,0
+"['no,  /']",no  ,aa,FEMALE,4
+['she loves it.  /'],she loves it  ,sd,FEMALE,1
+['she has a great social life  /'],she has a great social life  ,sd,FEMALE,1
+['{c and } she travels  /'],c and  she travels  ,sd,FEMALE,1
+"[""{c and, } {f uh, } it's [ [ in, +  in the ((very)) ] + in the ] mountains  /""]",c and  f uh  its   in   in the very   in the  mountains  ,sd,FEMALE,1
+"[""{c and } it's beautiful  /""]",c and  its beautiful  ,sv,FEMALE,3
+"['{c and, } {f uh, } <noise> [ i, + i ] hope that i have something like that # when i get older <<very faint>>. # /']",c and  f uh  noise  i  i  hope that i have something like that  when i get older very faint  ,sd,FEMALE,1
+['# yeah  /'], yeah  ,b,FEMALE,2
+"['[ [ [ i, + # i think, ] + i think the, ] +  {f uh } --']",   i   i think   i think the    f uh  ,sv,FEMALE,3
+['uh-huh <<very faint>>. /'],uhhuh very faint ,b,FEMALE,2
+"['-- i think that ] the decision that needs to be made though on nursing home has to be a joint one between the, {f uh, } elderly --']", i think that  the decision that needs to be made though on nursing home has to be a joint one between the f uh  elderly ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {f uh, } person who's <noise> going in and the family that's going to be, {f uh, } [ effec-, + effected ] by it -- /""]", f uh  person whos noise going in and the family thats going to be f uh   effec  effected  by it  ,+,FEMALE,0
+"[""{f oh } definitely it's, -/""]",f oh  definitely its ,aa,FEMALE,4
+"['-- {c and, } {f uh, } {d you know, } sometimes [ it can, + [ those choi-, + those choices ] can ] be made in advance  /']", c and  f uh  d you know  sometimes  it can   those choi  those choices  can  be made in advance  ,sd,FEMALE,1
+['{c and } # sometimes # --'],c and   sometimes  ,sv,FEMALE,3
+['# right. # /'], right  ,b,FEMALE,2
+"[""-- the choices because of the nature of the illness when they're, -/""]", the choices because of the nature of the illness when theyre ,+,FEMALE,0

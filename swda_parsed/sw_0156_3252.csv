@@ -1,0 +1,131 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['do you have any? /'],do you have any ,qy,FEMALE,7
+['sure.  /'],sure  ,na,MALE,21
+"['i have a springer spaniel,  /']",i have a springer spaniel  ,sd,MALE,1
+['{c and } her name is thumper.  /'],c and  her name is thumper  ,sd,MALE,1
+"[""she's about seven or eight years old.  /""]",shes about seven or eight years old  ,sd,MALE,1
+"['i got her for christmas from my family, [ and, + ] {f uh, } back  when we lived in nebraska.  /']",i got her for christmas from my family  and   f uh  back  when we lived in nebraska  ,sd,MALE,1
+"['i like to hunt,  /']",i like to hunt  ,sd,MALE,1
+"['{c and, }  {f uh, } {c so, } i thought that if i had a good hunting dog like thumper that, {f boy, } i could just go out and  get all kinds of game <laughter>. /']",c and   f uh  c so  i thought that if i had a good hunting dog like thumper that f boy  i could just go out and  get all kinds of game laughter ,sd,MALE,1
+['did it work?  <laughter>. /'],did it work  laughter ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['except we live in plano, texas now -- /']",except we live in plano texas now  ,sd,MALE,1
+"['no,  /']",no  ,aa,FEMALE,4
+['right. /'],right ,aa,FEMALE,4
+['-- {c so } <laughter>. -/'], c so  laughter ,%,MALE,5
+"['[ [ i, + {f um, } i had a, ] + for many years i had a ] dog that was part springer spaniel.  /']",  i  f um  i had a   for many years i had a  dog that was part springer spaniel  ,sd,FEMALE,1
+['i just love them.  /'],i just love them  ,sd,FEMALE,1
+"['her name was molly,  /']",her name was molly  ,sd,FEMALE,1
+"[""{c but } she isn't alive any more <inhaling>.  /""]",c but  she isnt alive any more inhaling  ,sd,FEMALE,1
+"['we had her for, {f um, } fifteen years, i think, my family did, and just loved her.  /']",we had her for f um  fifteen years i think my family did and just loved her  ,sd,FEMALE,1
+"['she was the [ greatest, + greatest, ] {f um, }  went through two generations of children in my family and was always very gentle. /']",she was the  greatest  greatest  f um   went through two generations of children in my family and was always very gentle ,sd,FEMALE,1
+['do you have a pet now? /'],do you have a pet now ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['i have a cat now.  /'],i have a cat now  ,sd,FEMALE,1
+"['he just turned seven, also, <laughter>  /']",he just turned seven also laughter  ,sd,FEMALE,1
+"[""{c and } [ he's, + i, ] {f um, } got him in arizona --""]",c and   hes  i  f um  got him in arizona ,sd,FEMALE,1
+['{f oh. } /'],f oh  ,%,MALE,5
+"['--  [ and, + ] when i used to live there,  /']",   and   when i used to live there  ,+,FEMALE,0
+['{c and } he is huge.  /'],c and  he is huge  ,sd,FEMALE,1
+['he is eighteen pounds. /'],he is eighteen pounds ,sd,FEMALE,1
+['what kind of cat is it? /'],what kind of cat is it ,qw,MALE,12
+"['just, - /']",just  ,%,FEMALE,5
+"['{f um, } i got him, - /']",f um  i got him  ,sd,FEMALE,1
+"['[ he was, + {f um, } he was ] born in the wild, {d like } [ in a, + in a ] shed --']", he was  f um  he was  born in the wild d like   in a  in a  shed ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['--  and had never been in a building when i got him.   /'],  and had never been in a building when i got him   ,+,FEMALE,0
+"['{c so } he, - /']",c so  he  ,%,FEMALE,5
+"[""{c and } [ he's, + [ he, + he  ]  ]  must be [ part, + cross part ] with some kind of desert animal, because he's very long and lanky,  /""]",c and   hes   he  he      must be  part  cross part  with some kind of desert animal because hes very long and lanky  ,sd,FEMALE,1
+"[""{c but } he's a very tame spoiled house cat, {d you know, } now that i've had him for seven years. /""]",c but  hes a very tame spoiled house cat d you know  now that ive had him for seven years ,sd,FEMALE,1
+"[""being born outside, you didn't have any problems house training him? /""]",being born outside you didnt have any problems house training him ,qy^d,MALE,16
+"['no,  /']",no  ,nn,FEMALE,13
+['no -- /'],no  ,nn,FEMALE,13
+"[""that's good. /""]",thats good ,ba,MALE,6
+"[""--  he's, - /""]",  hes  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""he's great,  /""]",hes great  ,sd,FEMALE,1
+"[""{c and } {f uh, } [ he's, + {f uh, } he's ] really spoiled, though  <laughter>.  /""]",c and  f uh   hes  f uh  hes  really spoiled though  laughter  ,sd,FEMALE,1
+"[""[ {c so, } + {c but } ] he's really big,  /""]", c so   c but   hes really big  ,sd,FEMALE,1
+"['{c so, } lots of times [ [ he, + it, ] + he ] seems to get in fights,  /']",c so  lots of times   he  it   he  seems to get in fights  ,sd,FEMALE,1
+"['{c and } when he was younger i think he started them,  /']",c and  when he was younger i think he started them  ,sd,FEMALE,1
+"['{c and } now, i think he barely makes it.  /']",c and  now i think he barely makes it  ,sd,FEMALE,1
+"[""i think he gets beat up even though he's big, because he's --""]",i think he gets beat up even though hes big because hes ,sd,FEMALE,1
+['sure. /'],sure ,b,MALE,2
+"['-- pretty much overweight, and --']", pretty much overweight and ,+,FEMALE,0
+['and older <laughter>. -/'],and older laughter ,^2,MALE,23
+"['-- comes home with a few scratches now and then, /']", comes home with a few scratches now and then ,+,FEMALE,0
+['<laughter>.'],laughter,x,MALE,8
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d well, } we went to a cat show at the plano center here in town,  /']",d well  we went to a cat show at the plano center here in town  ,sd,MALE,1
+"['{c and, }  {f uh, } we thought that, we have a cat now,  /']",c and   f uh  we thought that we have a cat now  ,sd,MALE,1
+"[""{c but } we thought, {d well, } if we ever get another cat, {d you know, } we'd want something kind of unique,  /""]",c but  we thought d well  if we ever get another cat d you know  wed want something kind of unique  ,sd,MALE,1
+"['{c so, } we kind of looked around,  /']",c so  we kind of looked around  ,sd,MALE,1
+['{c and } they had everything from hairless cats to siamese cats and persian cats  /'],c and  they had everything from hairless cats to siamese cats and persian cats  ,sd,MALE,1
+"['{c and } we sort of fell in love with the, {f uh, } maine coon cats. /']",c and  we sort of fell in love with the f uh  maine coon cats ,sd,MALE,1
+"[""{f oh, } i've seen them.  /""]",f oh  ive seen them  ,sd,FEMALE,1
+['i -- -/'],i  ,%,FEMALE,5
+"[""they're huge. /""]",theyre huge ,sd,MALE,1
+"['-- yeah,  /']", yeah  ,aa,FEMALE,4
+['<laughter> i have seen them.  /'],laughter i have seen them  ,sd,FEMALE,1
+"[""[ [ they, + {f um, } weren't they, ] + they were ] - /""]",  they  f um  werent they   they were   ,%,FEMALE,5
+"[""{d actually, } i can't remember,  /""]",d actually  i cant remember  ,sd,FEMALE,1
+"['they [ were + used to be ] used on ships and  [ in, + [ for, + for ] ]  mousers --']",they  were  used to be  used on ships and   in   for  for    mousers ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+"['-- {d you know, }  /']", d you know   ,+,FEMALE,0
+"[""{c so } they're very nautical, too <laughter>. /""]",c so  theyre very nautical too laughter ,sd,FEMALE,1
+"[""i'll be darned.  /""]",ill be darned  ,ba,MALE,6
+"[""i didn't know that. /""]",i didnt know that ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['i just, - /']",i just  ,%,FEMALE,5
+"[""{f uh, } [ i think i'm, + i think i'm  ] being accurate [ in the, + in the  ] area of folklore,  /""]",f uh   i think im  i think im   being accurate  in the  in the   area of folklore  ,sd,FEMALE,1
+"[""{c but } i'm not sure. /""]",c but  im not sure ,sd,FEMALE,1
+"[""{d well } that's interesting. /""]",d well  thats interesting ,ba,MALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+"['we kind of like, - /']",we kind of like  ,sd,MALE,1
+"[""{d well, } my family didn't necessarily [ like, + like ] them as much as i did,  /""]",d well  my family didnt necessarily  like  like  them as much as i did  ,sd,MALE,1
+"[""{c but } the manx, is that the one that doesn't have a tail -- /""]",c but  the manx is that the one that doesnt have a tail  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- it sort of has a bob tail.  /'], it sort of has a bob tail  ,sd,MALE,1
+"['i kind of like that, too,  /']",i kind of like that too  ,sd,MALE,1
+['{c but. } -/'],c but  ,%,MALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""i'd love to go to a cat show.  /""]",id love to go to a cat show  ,sd,FEMALE,1
+"[""i'm [ real, + a real ] cat lover.  /""]",im  real  a real  cat lover  ,sd,FEMALE,1
+"[""i'd have a lot more cats if my boyfriend would [ let u-, + let me ] <laughter>. /""]",id have a lot more cats if my boyfriend would  let u  let me  laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""he doesn't really like mine, let alone another one. /""]",he doesnt really like mine let alone another one ,sd,FEMALE,1
+"[""{d well, } i'll tell you an interesting story about how i got my dog,  /""]",d well  ill tell you an interesting story about how i got my dog  ,oo_co_cc,MALE,36
+['{c and then } i suppose our five minutes will be up. /'],c and then  i suppose our five minutes will be up ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['okay. /'],okay ,aa,FEMALE,4
+"['i work for a university,  /']",i work for a university  ,sd,MALE,1
+"['{c and } i went to, {f uh, } omaha, nebraska to recruit students,  /']",c and  i went to f uh  omaha nebraska to recruit students  ,sd,MALE,1
+"['{c and } i had some time off in the afternoon,  /']",c and  i had some time off in the afternoon  ,sd,MALE,1
+"['{c so } i went to [ a, + a ] pet shop,  /']",c so  i went to  a  a  pet shop  ,sd,MALE,1
+['{c and } i saw these little springer spaniels -- /'],c and  i saw these little springer spaniels  ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['-- {c and so } i decided, {d well, } {d you know, } this would really be a nice dog to have,  /']", c and so  i decided d well  d you know  this would really be a nice dog to have  ,sd,MALE,1
+"['{c so, } when i got back home to carney, nebraska, i told my wife about it,  /']",c so  when i got back home to carney nebraska i told my wife about it  ,sd,MALE,1
+"['{c and } i said, {d you know, }  this is just a, - /']",c and  i said d you know   this is just a  ,sd,MALE,1
+"['[ [ i, + i, ] + i ] can just hear the dog crying for me now <laughter>. /']",  i  i   i  can just hear the dog crying for me now laughter ,^q,MALE,19
+['<laughter> i know what you mean. /'],laughter i know what you mean ,ba,FEMALE,6
+"['{c and } christmas is coming up, hint, hint,  /']",c and  christmas is coming up hint hint  ,^q,MALE,19
+"['{c and so, } i had to go back the next week, as well as a bunch of other people from the university, /']",c and so  i had to go back the next week as well as a bunch of other people from the university ,sd,MALE,1
+"['{c and } one of the people, {f uh, } that we went with, {f uh, } they were friends of ours,  /']",c and  one of the people f uh  that we went with f uh  they were friends of ours  ,sd,MALE,1
+"['{c and so, } we got to omaha,  /']",c and so  we got to omaha  ,sd,MALE,1
+"[""{c and } i decided i'd take my friend over and show him the dog,  /""]",c and  i decided id take my friend over and show him the dog  ,sd,MALE,1
+"['{c and so } i got over there,  /']",c and so  i got over there  ,sd,MALE,1
+"[""{c and } she said, {f oh, } that's too bad, the dog has already been sold.   /""]",c and  she said f oh  thats too bad the dog has already been sold   ,sd,MALE,1
+"[""{c and } i didn't realize it,  /""]",c and  i didnt realize it  ,sd,MALE,1
+"['{c but } this guy had somehow worked it out so that he got there a little bit earlier, bought the dog, /']",c but  this guy had somehow worked it out so that he got there a little bit earlier bought the dog ,sd,MALE,1
+"['{c and } she was in the back room,  /']",c and  she was in the back room  ,sd,MALE,1
+"['{c and so } that night we had a reception for some of the, {f uh, } potential high school students or college students,  /']",c and so  that night we had a reception for some of the f uh  potential high school students or college students  ,sd,MALE,1
+"['[ {c and, } +  {c and, } ]  {f uh, } he had the dog the whole time in his room,  /']", c and    c and    f uh  he had the dog the whole time in his room  ,sd,MALE,1
+"['[ {c and, } + {c and } ] i had no idea.   /']", c and   c and   i had no idea   ,sd,MALE,1
+"['{c and so } we headed back to carney that night,  /']",c and so  we headed back to carney that night  ,sd,MALE,1
+['{c and } the dog rode in the car  /'],c and  the dog rode in the car  ,sd,MALE,1
+['{c and } we stopped along the way and had a bite to eat  /'],c and  we stopped along the way and had a bite to eat  ,sd,MALE,1
+"['{c and } they left the dog in the car,  /']",c and  they left the dog in the car  ,sd,MALE,1
+"['{c and } i guess while we were inside eating, thumper just tore the heck out of the inside <laughter> of the car,  /']",c and  i guess while we were inside eating thumper just tore the heck out of the inside laughter of the car  ,sd,MALE,1
+"['{c and, }  {f uh, } finally we made it back to, {f uh, } to carney  /']",c and   f uh  finally we made it back to f uh  to carney  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5

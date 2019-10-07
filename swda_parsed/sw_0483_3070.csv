@@ -1,0 +1,220 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['does your family normally have a reunion?  /'],does your family normally have a reunion  ,qy,FEMALE,7
+"['do you have one, /']",do you have one ,qy,FEMALE,7
+"['# {d well, } # -/']", d well   ,%,MALE,5
+"[""# that's # been, -/""]", thats  been ,%,FEMALE,5
+"[""<laughter>  on my father's side we've really there, {f uh, } -/""]",laughter  on my fathers side weve really there f uh  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""on my mother's side we've had several,  /""]",on my mothers side weve had several  ,na,MALE,21
+"['[ not, +']", not ,sd,MALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"[""# it's # not ] really on a regular basis,  /""]", its  not  really on a regular basis  ,+,MALE,0
+['{c but } usually sometimes every few summers.   /'],c but  usually sometimes every few summers   ,sd,MALE,1
+"['{d well, } [ all, + {d see, } all ] the family lives in once place, except for a few of us are scattered about. /']",d well   all  d see  all  the family lives in once place except for a few of us are scattered about ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c so } they're pretty much just reunited always -- /""]",c so  theyre pretty much just reunited always  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c so } [ it's, + it's ] just once in a while we get the special gathering with everyone together. /""]", c so   its  its  just once in a while we get the special gathering with everyone together ,sd,MALE,1
+"['{d well, } it might be a good time for you [ [ to be-, + to, ] + to start ] a tradition. /']",d well  it might be a good time for you   to be  to   to start  a tradition ,ad,FEMALE,22
+"['i know,  /']",i know  ,aa,MALE,4
+"[""that's <laughter>, -/""]",thats laughter ,%,MALE,5
+['you could be responsible for that yourself. /'],you could be responsible for that yourself ,ad,FEMALE,22
+"['((   ))  do that, - /']",     do that  ,%,MALE,5
+"[""that's true. /""]",thats true ,aa,MALE,4
+['sure. /'],sure ,b,FEMALE,2
+['how about your family? /'],how about your family ,qo,MALE,25
+"[""{d well, } in my family, let's see, last october was the forty fifth annual --""]",d well  in my family lets see last october was the forty fifth annual ,sd,FEMALE,1
+"['# wow,  /']", wow  ,ba,MALE,6
+"[""you're, #""]",youre ,sv,MALE,3
+"['-- # {f uh, } # reunion. /']",  f uh   reunion ,+,FEMALE,0
+['a pro at this. /'],a pro at this ,+,MALE,0
+"['the first sunday in october, the jordan family gets together. /']",the first sunday in october the jordan family gets together ,sd,FEMALE,1
+"[""{f oh, } that's good. /""]",f oh  thats good ,ba,MALE,6
+"['{c and } all of the descendants of [ the civil war, + {e i mean, } [ yeah, + ] the civil war ] veterans come together,  /']",c and  all of the descendants of  the civil war  e i mean   yeah   the civil war  veterans come together  ,sd,FEMALE,1
+"['{c and } they come as far away  (( from ))  california,  /']",c and  they come as far away   from   california  ,sd,FEMALE,1
+"[""{c and } there's usually <breathing> {f oh, } between a hundred and fifty and two hundred and fifty people. /""]",c and  theres usually breathing f oh  between a hundred and fifty and two hundred and fifty people ,sd,FEMALE,1
+['{c and then } where do you meet? /'],c and then  where do you meet ,qw,MALE,12
+"[""{f uh, } there's a big community hall in vernon --""]",f uh  theres a big community hall in vernon ,sd,FEMALE,1
+['okay. /'],okay ,bk,MALE,14
+"['-- <lipsmack> texas,  /']", lipsmack texas  ,+,FEMALE,0
+"['{c and, }  {f uh, } that seems to be sort of a middle ground for all of the texas family. /']",c and   f uh  that seems to be sort of a middle ground for all of the texas family ,sd,FEMALE,1
+['okay.  /'],okay  ,bk,MALE,14
+['do you have relatives in vernon --'],do you have relatives in vernon ,qy,MALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['-- then?  /'], then  ,+,MALE,0
+['okay. /'],okay ,bk,MALE,14
+"['right,  /']",right  ,na,FEMALE,21
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+['a lot of the older family lives in vernon. /'],a lot of the older family lives in vernon ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{f um, } all of his direct [ descendants, + descendants ] have now died <breathing>  /']",f um  all of his direct  descendants  descendants  have now died breathing  ,sd,FEMALE,1
+['{c and } the grandchildren are in their seventies and eighties. /'],c and  the grandchildren are in their seventies and eighties ,sd,FEMALE,1
+['{f oh. } /'],f oh  ,bk,MALE,14
+"[""{c so } we're talking about second and third great children here. /""]",c so  were talking about second and third great children here ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{f uh, } [ i take my boys <breathing>, + {d well, } i took them ] up until this year,  /']",f uh   i take my boys breathing  d well  i took them  up until this year  ,sd,FEMALE,1
+"[""they're grown and gone from home now -- /""]",theyre grown and gone from home now  ,sd,FEMALE,1
+['{f oh. } /'],f oh  ,b,MALE,2
+"['-- {c so } [ they, + they ] take their family. /']", c so   they  they  take their family ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""{c but, }  {f uh, } <<faint>> let's see,  /""]",c but   f uh  faint lets see  ,^h,FEMALE,27
+"['that would make them, grandfather, great grandfather, great great grandfather,  /']",that would make them grandfather great grandfather great great grandfather  ,sd,FEMALE,1
+"['okay,  /']",okay  ,%,FEMALE,5
+['{c so } it would be the second great grandchild.  <<faint>>  /'],c so  it would be the second great grandchild  faint  ,sd,FEMALE,1
+"['{c and so } they, -/']",c and so  they ,%,FEMALE,5
+"['okay,  /']",okay  ,b,MALE,2
+"['{c so } this town hall that you meet in, is that like a, {f um, } -/']",c so  this town hall that you meet in is that like a f um  ,qy,MALE,7
+"[""{d well, } [ it's a community center, + it's a community hall. ]  /""]",d well   its a community center  its a community hall   ,arp_nd,FEMALE,34
+"[""it's,""]",its,sd,FEMALE,1
+['# okay.  # /'], okay   ,bk,MALE,14
+"['# a # great big open building that has a wonderful kitchen it in,  /']", a  great big open building that has a wonderful kitchen it in  ,+,FEMALE,0
+"['{c and, }  {f uh, } you just bring the covered dishes.  /']",c and   f uh  you just bring the covered dishes  ,sd,FEMALE,1
+"['[ every, + every ] family brings [ a, + a ] dish of some kind,  /']", every  every  family brings  a  a  dish of some kind  ,sd,FEMALE,1
+"['{c and } you get all the wonderful old family recipes,']",c and  you get all the wonderful old family recipes,sd,FEMALE,1
+['#  ((   )) . #'],       ,x,MALE,8
+"['# that have # been handed,']", that have  been handed,+,FEMALE,0
+"['# potato salad and, {f uh, } # -/']", potato salad and f uh   ,qy^d,MALE,16
+['# down for years <breathing>.  /'], down for years breathing  ,+,FEMALE,0
+"['# {d well, } we try to stay away from those things which might have, {f uh, } salmonella in them. /']", d well  we try to stay away from those things which might have f uh  salmonella in them ,arp_nd,FEMALE,34
+"[""{f oh, } that's good. /""]",f oh  thats good ,ba,MALE,6
+['{c and } we choose to bring congealed salad.  /'],c and  we choose to bring congealed salad  ,sd,FEMALE,1
+"['you can bring a congealed vegetable salad,']",you can bring a congealed vegetable salad,sd,FEMALE,1
+['# right.  # /'], right   ,b,MALE,2
+['# as # opposed to potato salad.  /'], as  opposed to potato salad  ,+,FEMALE,0
+"['{c and } [ we are very conscious of, + most of us are very conscious [ of, + of, ] ] {f uh, } sanitation aspects,']",c and   we are very conscious of  most of us are very conscious  of  of   f uh  sanitation aspects,sd,FEMALE,1
+['# right.  # /'], right   ,b,MALE,2
+"[""# whatever # you've got to carry for any distance.  /""]", whatever  youve got to carry for any distance  ,+,FEMALE,0
+"['i always,']",i always,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['take home baked bread. /'],take home baked bread ,+,FEMALE,0
+"[""{f oh, } that's nice. /""]",f oh  thats nice ,ba,MALE,6
+"['{f uh, } that happens to be my specialty for that family.  /']",f uh  that happens to be my specialty for that family  ,sd,FEMALE,1
+"['i do other things very well, /']",i do other things very well ,sd,FEMALE,1
+['# right.  # /'], right   ,b,MALE,2
+['# {c but } # there are others in the family who do them better. /'], c but   there are others in the family who do them better ,sd,FEMALE,1
+"['do they always have <laughter> [ the, + the ] one person in the family who [ knows, or + everyone thinks they know ] how to make this the best,']",do they always have laughter  the  the  one person in the family who  knows or  everyone thinks they know  how to make this the best,qy,MALE,7
+['# uh-huh.  # /'], uhhuh   ,ny,FEMALE,9
+"[""# so # that's what they get to cook.  /""]", so  thats what they get to cook  ,+,MALE,0
+"[""{d well, } that's good.  /""]",d well  thats good  ,ba,MALE,6
+"['(( {d well } )) , i had a professor in anthropology at school who studied family reunions,  /']", d well    i had a professor in anthropology at school who studied family reunions  ,sd,MALE,1
+['{c so } i learned a lot about them.  /'],c so  i learned a lot about them  ,sd,MALE,1
+"[""i haven't,""]",i havent,sd,MALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"['# been # to a lot,  /']", been  to a lot  ,+,MALE,0
+"['{c but } we talked,']",c but  we talked,sd,MALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"['# a # lot about [ the, + the ] rituals,  /']", a  lot about  the  the  rituals  ,+,MALE,0
+"['you  (( all ))  equated the family reunions as,']",you   all   equated the family reunions as,sv,MALE,3
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+['# with # the protestant.  /'], with  the protestant  ,+,MALE,0
+['it was the protestant version of the catholic pilgrimage. /'],it was the protestant version of the catholic pilgrimage ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ it was, + it was ] an interesting theory.  /']", it was  it was  an interesting theory  ,sd,MALE,1
+"['she talked about [ the, + {f uh, } the ] catholics  /']",she talked about  the  f uh  the  catholics  ,sd,MALE,1
+"[""[ all, it's a home centered, + {d you know, } it's all family centered ] anyway,  /""]", all its a home centered  d you know  its all family centered  anyway  ,sv,MALE,3
+['{c so } you usually are living where your parents live  /'],c so  you usually are living where your parents live  ,sv,MALE,3
+"[""{c and } it's all, - /""]",c and  its all  ,%,MALE,5
+"[""[ your, + you ] don't have to come home,  /""]", your  you  dont have to come home  ,sv,MALE,3
+"['{c so } the catholics would make a pilgrimage in older europe,  /']",c so  the catholics would make a pilgrimage in older europe  ,sd,MALE,1
+"['{c but } when the protestant ethic happened in america, there were people who ever went out and, {d you know, } went away from the family to seek their fortune, and then had to come back home for their reunion, so that,']",c but  when the protestant ethic happened in america there were people who ever went out and d you know  went away from the family to seek their fortune and then had to come back home for their reunion so that,sd,MALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+['# became # their version of the pilgrimage. /'], became  their version of the pilgrimage ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"['{c but }  she had, - /']",c but   she had  ,%,MALE,5
+"['it was interesting, {d you know, }  /']",it was interesting d you know   ,sd,MALE,1
+"[""i <laughter> don't know how valid it is,  /""]",i laughter dont know how valid it is  ,sd,MALE,1
+"['{c but } she talked about that and how [ the, + the  ] big picnic table was the symbolic communion of the people gathering together, and, {f um, } {d you know, } about the bread and the ritual placement.  /']",c but  she talked about that and how  the  the   big picnic table was the symbolic communion of the people gathering together and f um  d you know  about the bread and the ritual placement  ,sd,MALE,1
+"['do you have [ a, + a ] certain way that everything is placed out on the table [ every, + every ] year?  /']",do you have  a  a  certain way that everything is placed out on the table  every  every  year  ,qy,MALE,7
+"['is there kind of a, {d you know, } - /']",is there kind of a d you know   ,qy,MALE,7
+['salads go first and things like that? /'],salads go first and things like that ,qy,MALE,7
+"[""{d well, }  it's,  {f uh, } - /""]",d well   its  f uh   ,%,FEMALE,5
+"['we have, {f uh, } {f uh, } kind of a core group [ that, + that ] serves as, quote, officers of the organization, /']",we have f uh  f uh  kind of a core group  that  that  serves as quote officers of the organization ,arp_nd,FEMALE,34
+['# right. # /'], right  ,b,MALE,2
+"['# {c and } # they plan the reunions,  /']", c and   they plan the reunions  ,sd,FEMALE,1
+"[""the organize [ the, + ] {d you know, } who is going to see to it that the coffee pot gets there, who's going to rent the tables, who's going to see to it that the silverware gets turned back to the caterer.  /""]",the organize  the   d you know  who is going to see to it that the coffee pot gets there whos going to rent the tables whos going to see to it that the silverware gets turned back to the caterer  ,sd,FEMALE,1
+"[""{f uh, } {c and } each year it's done a little bit differently, because different people serve in those roles. /""]",f uh  c and  each year its done a little bit differently because different people serve in those roles ,sd,FEMALE,1
+"[""{d well, } that's pretty  ((   )) . /""]",d well  thats pretty       ,ba,MALE,6
+"['we have a biographer [ who, + who ] continues every year to save clippings on any family member,  /']",we have a biographer  who  who  continues every year to save clippings on any family member  ,sd,FEMALE,1
+"[""{c and } they're entered into [ a, + a ] wonderful, {f uh, } scrap book.   and  pictures of new babies and new people who have been added and, and obituaries to those who are gone.   /""]",c and  theyre entered into  a  a  wonderful f uh  scrap book   and  pictures of new babies and new people who have been added and and obituaries to those who are gone   ,sd,FEMALE,1
+"['{c and } it keeps the family alive,']",c and  it keeps the family alive,sd,FEMALE,1
+['# sure does.  /'], sure does  ,aa,MALE,4
+"[""that's wonderful.  # /""]",thats wonderful   ,ba,MALE,6
+"[""# [ even, + {d you know, } even ] # though it's very fluid.   /""]",  even  d you know  even   though its very fluid   ,+,FEMALE,0
+"[""{c and } they're very dedicated to that,  /""]",c and  theyre very dedicated to that  ,sd,FEMALE,1
+"[""{c and, }  {f uh, } it's been really wonderful.  /""]",c and   f uh  its been really wonderful  ,sd,FEMALE,1
+['it helps you hang onto your roots. /'],it helps you hang onto your roots ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""i wish we'd, -/""]",i wish wed ,sd,MALE,1
+['{c and } it helps you feel a strong sense of belonging.  /'],c and  it helps you feel a strong sense of belonging  ,sv,FEMALE,3
+"['my husband, on the other hand, was not very close to his family.  /']",my husband on the other hand was not very close to his family  ,sd,FEMALE,1
+['his family was very scattered and very diverse. /'],his family was very scattered and very diverse ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{c and } [ i asked him, + i got to talking to him, ]  /']",c and   i asked him  i got to talking to him   ,sd,FEMALE,1
+"['i said, {d well, } how is his nephew doing.  /']",i said d well  how is his nephew doing  ,sd,FEMALE,1
+"['{d ""well, } i don\'t know,  /']",d well  i dont know  ,^q,FEMALE,19
+"[""i haven't,""]",i havent,^q,FEMALE,19
+['# <laughter>.  #'], laughter  ,x,MALE,8
+"['# talked # to my brother in three years.""   /']", talked  to my brother in three years   ,+,FEMALE,0
+"['(( i said )) , ""well, how\'s your brother doing?""  /']", i said   well hows your brother doing  ,sd,FEMALE,1
+"['""i don\'t know.""  /']",i dont know  ,^q,FEMALE,19
+"['{f uh, } {d you know, } my son keeps in touch with him, i think,  /']",f uh  d you know  my son keeps in touch with him i think  ,^q,FEMALE,19
+"[""{c but } i don't. /""]",c but  i dont ,^q,FEMALE,19
+['right. /'],right ,b,MALE,2
+"['i said, ""hey, wouldn\'t you like to know what\'s happening with these people?""  /']",i said hey wouldnt you like to know whats happening with these people  ,sd,FEMALE,1
+"['""yeah,  /']",yeah  ,^q,FEMALE,19
+"[""{c but }  i'm,  {d you know, } - /""]",c but   im  d you know   ,^q,FEMALE,19
+"['it\'s too much trouble.""   /']",its too much trouble   ,^q,FEMALE,19
+"['{c so } i got busy, got together, and put a reunion together for his family.']",c so  i got busy got together and put a reunion together for his family,sd,FEMALE,1
+['wow.  /'],wow  ,ba,MALE,6
+"[""<<faint>> you're just, {f uh, } -/""]",faint youre just f uh  ,%,MALE,5
+['and succeeded in getting all of his brothers and sisters and all of their offspring but one --'],and succeeded in getting all of his brothers and sisters and all of their offspring but one ,+,FEMALE,0
+"[""{f oh, } that's incredible. /""]",f oh  thats incredible ,ba,MALE,6
+['-- to our place down at lake tawakoni.  /'], to our place down at lake tawakoni  ,+,FEMALE,0
+"[""liked to kill me, because [ i ha-, + ] [ it was, + ] i didn't have that group cooperation,  /""]",liked to kill me because  i ha    it was   i didnt have that group cooperation  ,sd,FEMALE,1
+"['i did,']",i did,sd,FEMALE,1
+['# right.  # /'], right   ,b,MALE,2
+['# it # by myself.   /'], it  by myself   ,+,FEMALE,0
+"['{c and, }  {f uh, } nobody brought covered dishes.  /']",c and   f uh  nobody brought covered dishes  ,sd,FEMALE,1
+"['we had a great big fish fry,  /']",we had a great big fish fry  ,sd,FEMALE,1
+"['{c and, } {d you know, } i fixed a salad in a number three tub. /']",c and  d you know  i fixed a salad in a number three tub ,sd,FEMALE,1
+['right <laughter>. /'],right laughter ,b,MALE,2
+"['<laughter> [ {c and, } + {c and, } ]  {f uh, } it was an enormous task to bring all of those people together with just one or two people helping.   /']",laughter  c and   c and    f uh  it was an enormous task to bring all of those people together with just one or two people helping   ,sd,FEMALE,1
+"['{c and, }  {f uh, } we had to provide sleeping arrangements for all of them  /']",c and   f uh  we had to provide sleeping arrangements for all of them  ,sd,FEMALE,1
+"['{c and } i told him, -/']",c and  i told him ,%,FEMALE,5
+"['[ have you, + have you ] done this repetitively, or just once? /']", have you  have you  done this repetitively or just once ,qy,MALE,7
+"['we did it that year,  /']",we did it that year  ,sd,FEMALE,1
+"['{c and } then the following summer, we did not have all of the family there.  /']",c and  then the following summer we did not have all of the family there  ,sd,FEMALE,1
+['we sent invitations.  /'],we sent invitations  ,sd,FEMALE,1
+"['we said, ""please let us know if you\'re coming.""  /']",we said please let us know if youre coming  ,sd,FEMALE,1
+"['it was when, {f uh, } [ his mother, + his step father ] had died the year before, /']",it was when f uh   his mother  his step father  had died the year before ,sd,FEMALE,1
+['# {f oh. }  # /'], f oh    ,bk,MALE,14
+"['# {c and } #  it, - /']", c and    it  ,%,FEMALE,5
+"['his mother was alone, {c and so } they came to support her,  /']",his mother was alone c and so  they came to support her  ,sd,FEMALE,1
+"['{c and then } one by one,  [ his broth-, {d you know, } his sisters, + ] he began to lose family members, /']",c and then  one by one   his broth d you know  his sisters   he began to lose family members ,sd,FEMALE,1
+"[""{d see, } that's - /""]",d see  thats  ,%,MALE,5
+"[""[ we've + <talking>  we had ] a problem with that. /""]", weve  talking  we had  a problem with that ,sd,MALE,1
+['{c and } it was difficult to hold them together.   /'],c and  it was difficult to hold them together   ,sd,FEMALE,1
+"['{c and then, } of course, he died two years ago,  /']",c and then  of course he died two years ago  ,sd,FEMALE,1
+"['{c so, } {d you know, } that family has gone down to one brother and one sister now. /']",c so  d you know  that family has gone down to one brother and one sister now ,sd,FEMALE,1
+['{f oh. } /'],f oh  ,bk,MALE,14
+"['{c and, }  {f uh, }  it, - /']",c and   f uh   it  ,%,FEMALE,5
+"[""i think that's what happens when they get scattered,  /""]",i think thats what happens when they get scattered  ,sv,FEMALE,3
+"['[ the, + the ] family unit, {d you know, } falls,']", the  the  family unit d you know  falls,sv,FEMALE,3
+['right.  /'],right  ,aa,MALE,4
+"[""[ that's our, + # was our ] problem. # /""]", thats our   was our  problem  ,sd,MALE,1
+['# into disrepair.  # /'], into disrepair   ,+,FEMALE,0
+"['[ we had, {f uh, } the first reunion, + {e or }  the first, {d you know, } major reunion ] was probably six or seven years ago.  /']", we had f uh  the first reunion  e or   the first d you know  major reunion  was probably six or seven years ago  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and then } the second reunion, people who maybe, {d you know, } had sacrificed things to come to the first one thought, {f oh, } {d well, } it's not that big a --""]",c and then  the second reunion people who maybe d you know  had sacrificed things to come to the first one thought f oh  d well  its not that big a ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- thing this year,  /']", thing this year  ,+,MALE,0
+"['{c and so } it kind of wound down, /']",c and so  it kind of wound down ,sd,MALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"[""# {c and # then } finally, {d you know, } [ you're lucky to get, + {d you know, } you get ] the shreveport relatives there, but no one else  /""]", c and  then  finally d you know   youre lucky to get  d you know  you get  the shreveport relatives there but no one else  ,sd,MALE,1
+"['{c so } that, -/']",c so  that ,%,MALE,5
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{d well, } {d see, } [ we manage, + those people who are at that core group manage ] to [ keep, + keep ] the vigor alive.  /']",d well  d see   we manage  those people who are at that core group manage  to  keep  keep  the vigor alive  ,sd,FEMALE,1
+"[""they'll send out news bulletins.  /""]",theyll send out news bulletins  ,sd,FEMALE,1
+"[""two or three times a year you'll get a news bull-, - /""]",two or three times a year youll get a news bull  ,sd,FEMALE,1
+"['hey, guess who got, {d you know, } elected to the legislature,  /']",hey guess who got d you know  elected to the legislature  ,^q,FEMALE,19
+"['{c or } guess who our local sheriff,  -/']",c or  guess who our local sheriff  ,^q,FEMALE,19

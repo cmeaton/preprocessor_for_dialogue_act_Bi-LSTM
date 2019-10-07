@@ -1,0 +1,270 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hi. /'],hi ,fp,FEMALE,32
+"['hi,  /']",hi  ,fp,MALE,32
+"['{f um, } okay  /']",f um  okay  ,%,MALE,5
+"['[ [ what, + {d now, } {f uh, } what ] particularly, + particularly what ] kind of music do you like? /']",  what  d now  f uh  what  particularly  particularly what  kind of music do you like ,qw,MALE,12
+"['{d well, } i mostly listen to popular music.  /']",d well  i mostly listen to popular music  ,sd,FEMALE,1
+"['i, {f uh, } listen to it all the time [ in, + in ] my car,  /']",i f uh  listen to it all the time  in  in  my car  ,sd,FEMALE,1
+"[""{c so, } [ i, + i ] tend to be one of those people who switches stations a lot because i don't like commercials.  /""]",c so   i  i  tend to be one of those people who switches stations a lot because i dont like commercials  ,sd,FEMALE,1
+"['{c but, }']",c but ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{f uh, } i find myself listening to popular music,  /']",f uh  i find myself listening to popular music  ,+,FEMALE,0
+"['{c and, }  {f uh, } quite honestly, i, i have some little children  /']",c and   f uh  quite honestly i i have some little children  ,sd,FEMALE,1
+"['{c and } i, unfortunately, found myself listening to a lot of nursery rhyme music here lately,  /']",c and  i unfortunately found myself listening to a lot of nursery rhyme music here lately  ,sd,FEMALE,1
+"[""{c but } that's not by my choice. /""]",c but  thats not by my choice ,sd,FEMALE,1
+"['{f oh, } really. /']",f oh  really ,b,MALE,2
+['how about you? /'],how about you ,qo,FEMALE,25
+"[""{d well, } {f um, } <laughter> [ i don't have that, + i don't have that ] <<both are laughing>>, experience to share <laughter>. /""]",d well  f um  laughter  i dont have that  i dont have that  both are laughing experience to share laughter ,sd,MALE,1
+['lucky you. /'],lucky you ,ba,FEMALE,6
+"['[ [ i, + i do, ] + i do ] listen to a lot of, - /']",  i  i do   i do  listen to a lot of  ,sd,MALE,1
+"[""{d you know, } [ i do, + i switch ] the stations a lot because i don't have a cassette player in my car. /""]",d you know   i do  i switch  the stations a lot because i dont have a cassette player in my car ,sd,MALE,1
+"['{f um, } {f um. } uh-huh. /']",f um  f um  uhhuh ,b,FEMALE,2
+"['{f uh, } {f uh, } however, [ [ i, + i do, ] + i do ] like a lot of different forms of music  /']",f uh  f uh  however   i  i do   i do  like a lot of different forms of music  ,sd,MALE,1
+['{c so } i switch quite often.  /'],c so  i switch quite often  ,sd,MALE,1
+"['{f um, } i think i like, - /']",f um  i think i like  ,sd,MALE,1
+"[""[ i, + i'm ] really particular about the type of music that i listen to. /""]", i  im  really particular about the type of music that i listen to ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, }  the, {f uh, } - /']",c but   the f uh   ,%,MALE,5
+"[""there's such a wide selection,  /""]",theres such a wide selection  ,sd,MALE,1
+"['[ i think i like a lot, + i like a little bit of a lot of ] different types of music.  /']", i think i like a lot  i like a little bit of a lot of  different types of music  ,sd,MALE,1
+"['{d you know, } [ [ i, + i, ] + i ] like music  [ that  is, +  that i feel ] - /']",d you know    i  i   i  like music   that  is   that i feel   ,sd,MALE,1
+"[""if it is performed correctly or if it's done right, or if the version is done right, i like it <laughter>, /""]",if it is performed correctly or if its done right or if the version is done right i like it laughter ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but, }  [ if, + if ] it's not, then i won't.  /""]",c but    if  if  its not then i wont  ,sd,MALE,1
+"[""[  i, + i ] really don't, -/""]",  i  i  really dont ,sd,MALE,1
+['how do you feel about rap music? /'],how do you feel about rap music ,qo,FEMALE,25
+['rap. /'],rap ,b^m,MALE,24
+['it seems to be so popular these days. /'],it seems to be so popular these days ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{d well, } [ i, + i ] don't really have anything against rap music.  /""]",d well   i  i  dont really have anything against rap music  ,sd,MALE,1
+"['i, - /']",i  ,%,MALE,5
+"['the one thing i do object to about rap music [ is, + is ] when it becomes militant,']",the one thing i do object to about rap music  is  is  when it becomes militant,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""or, if it's, {f uh, } violence oriented. /""]",or if its f uh  violence oriented ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"['[ i, + i ] have strong objections to that.  /']", i  i  have strong objections to that  ,sd,MALE,1
+"['{f um, } {d actually } i listen to, - /']",f um  d actually  i listen to  ,sd,MALE,1
+"['one time i remember, this was back when, even, {f uh, } - /']",one time i remember this was back when even f uh   ,sd,MALE,1
+"['i would say about ten or fifteen years ago i, -/']",i would say about ten or fifteen years ago i ,sd,MALE,1
+['when it was really just starting. /'],when it was really just starting ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+['right  /'],right  ,b,MALE,2
+"['when it was just starting,']",when it was just starting,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['i heard what was called talking blues,']",i heard what was called talking blues,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['which actually is rap. /'],which actually is rap ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, }  {f uh, } it was about, - /']",c and   f uh  it was about  ,sd,MALE,1
+"['[ [ the, + the piece of music, ] + the piece of music ] was [ about, + i think about ] forty or fifty years old.  /']",  the  the piece of music   the piece of music  was  about  i think about  forty or fifty years old  ,sd,MALE,1
+"['{c and, }  it was incredible, {e i mean, } the parallel, {d you know, } between it and rap. /']",c and   it was incredible e i mean  the parallel d you know  between it and rap ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['{c and, }  {f um, } [ you, + you ] listen a lot, - /']",c and   f um   you  you  listen a lot  ,sv,MALE,3
+"['[ if you, + if you ] hear a lot of old gospel, {f uh, } {f uh, } especially {d well, } the black gospel.  /']", if you  if you  hear a lot of old gospel f uh  f uh  especially d well  the black gospel  ,sv,MALE,3
+"['{d you know, } [ you will, + {d you know, } you can ] really pick it up.  {e i mean, } /']",d you know   you will  d you know  you can  really pick it up  e i mean  ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['you really. - /'],you really  ,%,FEMALE,5
+['it seemed to be influenced by a lot of different music.  /'],it seemed to be influenced by a lot of different music  ,sv,FEMALE,3
+"[""a lot of times you'll hear songs that {d you know, } they're not original,""]",a lot of times youll hear songs that d you know  theyre not original,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['but have been put to a rap kind of a rhythm.  /'],but have been put to a rap kind of a rhythm  ,+,FEMALE,0
+"['{c and, }  {f uh, } [ sounds, + it sounds ] so much different  /']",c and   f uh   sounds  it sounds  so much different  ,sv,FEMALE,3
+"['{c and } yet, [ i, + i ] have a much younger sister who listens to a lot of rap music  /']",c and  yet  i  i  have a much younger sister who listens to a lot of rap music  ,sd,FEMALE,1
+"[""{c and, }  {f uh, } she thinks its pretty funny how often i know all of the words to songs that she's listening to,  /""]",c and   f uh  she thinks its pretty funny how often i know all of the words to songs that shes listening to  ,sd,FEMALE,1
+"['{c and } yet,']",c and  yet,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['she thought they were brand new,']",she thought they were brand new,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+['original pieces. /'],original pieces ,+,FEMALE,0
+"['[ [ [ they, + they do, ] + they do  copy versions, ] + they do cover versions ] [ of, + of, ] {d you know, } {d like } standards, i guess you could call it. /']",   they  they do   they do  copy versions   they do cover versions   of  of  d you know  d like  standards i guess you could call it ,sd,MALE,1
+"[""that's right. /""]",thats right ,ba,FEMALE,6
+"[""<laughter> i think it's kind of absurd, {d you know, } the fact that, {d you know, } [ they don't really, + they don't really ] give, {d you know, } the original artist, or  the original composer,""]",laughter i think its kind of absurd d you know  the fact that d you know   they dont really  they dont really  give d you know  the original artist or  the original composer,sv,MALE,3
+['no. /'],no ,aa,FEMALE,4
+['the credit that is really due to them. /'],the credit that is really due to them ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i guess there was even [ a, + a ] bit of ruckus caused by the m c hammer, who's really, {d you know, } /""]",i guess there was even  a  a  bit of ruckus caused by the m c hammer whos really d you know  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['seems to be the hot one [ of, + of ] today.  /']",seems to be the hot one  of  of  today  ,sv,FEMALE,3
+"['he used, {f um, } wild thing.  /']",he used f um  wild thing  ,sd,FEMALE,1
+"['do you remember [ that, + that ] song. /']",do you remember  that  that  song ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+"['he used, {f um, } - /']",he used f um   ,sd,FEMALE,1
+"[""i can't remember who the artist was on that. /""]",i cant remember who the artist was on that ,sd,FEMALE,1
+['jimi hendrix was the original. /'],jimi hendrix was the original ,sd,MALE,1
+['who? /'],who ,br,FEMALE,30
+['jimi hendrix was the original.  /'],jimi hendrix was the original  ,sd,MALE,1
+"['he wrote <noise>, -/']",he wrote noise ,sd,MALE,1
+"['was it, - /']",was it  ,qy,FEMALE,7
+"[""{d well, } [ ma-, + maybe ] it wasn't that one.  /""]",d well   ma  maybe  it wasnt that one  ,sd,FEMALE,1
+"[""{c because, } [ it was a living, + it was a living ] person that [ i'm, + i'm ] thinking of [ that, +""]",c because   it was a living  it was a living  person that  im  im  thinking of  that ,sd,FEMALE,1
+['okay. /'],okay ,b,MALE,2
+"['{f um, } that ] said, ""you know, hey that, those are my words.""  /']",f um  that  said you know hey that those are my words  ,+,FEMALE,0
+"[""{c and, }  {f uh, } i guess that [ they, + [ because + ] they ] hadn't originally gotten, {f um, } permission,""]",c and   f uh  i guess that  they   because   they  hadnt originally gotten f um  permission,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['from him to use it.  /'],from him to use it  ,+,FEMALE,0
+"['{c and, } [ he, + he ] since then [ has, + has ] amended that, and  paid them his royalties every time [ the, + the ] song goes on  /']",c and   he  he  since then  has  has  amended that and  paid them his royalties every time  the  the  song goes on  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+"[""i don't know  /""]",i dont know  ,h,MALE,15
+"['[ it may have, + it may have ] been somebody else, because [ i think, + i think ] that even jimi hendrix did it,  /']", it may have  it may have  been somebody else because  i think  i think  that even jimi hendrix did it  ,sd,MALE,1
+"['i think that was a cov-, - /']",i think that was a cov  ,sd,MALE,1
+"['{d you know, } come to think of it, i think that was a cover version of, {d like } a john lee hooker song, or something, /']",d you know  come to think of it i think that was a cover version of d like  a john lee hooker song or something ,sd,MALE,1
+['maybe so.  /'],maybe so  ,ba,FEMALE,6
+"['[ i, +']", i ,h,FEMALE,15
+"['{e i mean } it was just like, - /']",e i mean  it was just like  ,sd,MALE,1
+['it was really old. /'],it was really old ,sd,MALE,1
+"[""i, ] can't think. /""]",i  cant think ,+,FEMALE,0
+"['{e i mean } [ i, + i, ] - /']",e i mean   i  i   ,%,MALE,5
+"['[ there are a lot, + there are so many ] different songs,  /']", there are a lot  there are so many  different songs  ,sd,MALE,1
+"[""{e i mean } {d like } the whole thing about cover versions a lot of times.  {e i mean } i've heard some songs [ that, + that ] i just thought were horrendous cover versions of, - /""]",e i mean  d like  the whole thing about cover versions a lot of times  e i mean  ive heard some songs  that  that  i just thought were horrendous cover versions of  ,sd,MALE,1
+"[""i'm like, {d you know, } [ i, + i ] don't want to listen to this.""]",im like d you know   i  i  dont want to listen to this,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['<laughter> because {d you know, } you think of the original is {d like, } - /']",laughter because d you know  you think of the original is d like   ,+,MALE,0
+"['{d you know, } {f oh, } that was really great.  /']",d you know  f oh  that was really great  ,^q,MALE,19
+"['that was [ a, + {d you know, } a ] really good piece of work,  /']",that was  a  d you know  a  really good piece of work  ,^q,MALE,19
+"[""{c and then } when you hear the cover it's like, {d you know, } god,  what are they doing. /""]",c and then  when you hear the cover its like d you know  god  what are they doing ,sv,MALE,3
+['right.  /'],right  ,b,FEMALE,2
+['they destroyed it. /'],they destroyed it ,sv,FEMALE,3
+"['<laughter> [ i, + i ] think a good one was, {f um, } - /']",laughter  i  i  think a good one was f um   ,sv,MALE,3
+"['there was a peter frampton song, /']",there was a peter frampton song ,sd,MALE,1
+"['{f oh, } yeah! /']",f oh  yeah ,ba,FEMALE,6
+"['{c and, then } the cover version, [ i think, + {e i mean, } i thought, ] [  was absolutely, + it was pitiful. ] /']",c and then  the cover version  i think  e i mean  i thought    was absolutely  it was pitiful  ,sv,MALE,3
+"['[ i, + i ] remember seeing the video of it on m t v,  /']", i  i  remember seeing the video of it on m t v  ,sd,FEMALE,1
+['{c and } i thought it was hideous. /'],c and  i thought it was hideous ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+['i did too. /'],i did too ,sv,MALE,3
+"['it was, - /']",it was  ,%,FEMALE,5
+"[""ugh,  i didn't like that either. /""]",ugh  i didnt like that either ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c but } {d you know, } whatever became of peter frampton.  /']",c but  d you know  whatever became of peter frampton  ,qw^d,MALE,41
+"['{e i mean, } there was nothing, - /']",e i mean  there was nothing  ,sv,MALE,3
+"['he was a phenomenon,  /']",he was a phenomenon  ,sv,MALE,3
+"['{e i me-, }  there was no reason for him to really come into, {d you know, } great stardom or anything. /']",e i me   there was no reason for him to really come into d you know  great stardom or anything ,sv,MALE,3
+"['i remember, i saw him in a concert, when i was, -/']",i remember i saw him in a concert when i was ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ i think, + i think ] it, -/']", i think  i think  it ,%,MALE,5
+['i think it was in high school. /'],i think it was in high school ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['i think that probably what did it for him was the fact that he was a good stage performer. /'],i think that probably what did it for him was the fact that he was a good stage performer ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['he was very good.  /'],he was very good  ,sv,FEMALE,3
+"['i remember i saw him in a huge stadium in, {f uh, } philadelphia.  /']",i remember i saw him in a huge stadium in f uh  philadelphia  ,sd,FEMALE,1
+"['it was in j f k stadium, if i can remember. /']",it was in j f k stadium if i can remember ,sd,FEMALE,1
+['{f oh } man. /'],f oh  man ,ba,MALE,6
+['hundreds of thousands of people is what it seemed like. /'],hundreds of thousands of people is what it seemed like ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""[  i've, + i ] graduated back in seventy-nine,  /""]",  ive  i  graduated back in seventynine  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+"['{f um, } {f um. } uh-huh. /']",f um  f um  uhhuh ,b,FEMALE,2
+"[""[ {c but, } + {c but } ] i've really, - /""]", c but   c but   ive really  ,%,MALE,5
+"['[ i, + i ] loved, - /']", i  i  loved  ,sd,MALE,1
+"['{e i mean, } [ i was, + i was ] really into the album oriented music, even then, /']",e i mean   i was  i was  really into the album oriented music even then ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so } i was really familiar [ with a lot, + with a lot ] [ of, + of ] the a o r type music.  /']",c so  i was really familiar  with a lot  with a lot   of  of  the a o r type music  ,sd,MALE,1
+"['{f um, } the album oriented like [ the, + ] {f uh, } james taylor,']",f um  the album oriented like  the   f uh  james taylor,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['and, [ the, + {f uh, } the ] beatles,  /']",and  the  f uh  the  beatles  ,+,MALE,0
+"[""{c and } {d you know, } {e i mean, } a lot of people they go, they're better than the beatles,  /""]",c and  d you know  e i mean  a lot of people they go theyre better than the beatles  ,sd,MALE,1
+"[""{c and } i'm like, {d you know, }""]",c and  im like d you know ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""you don't know what you're talking about. /""]",you dont know what youre talking about ,+,MALE,0
+['no <laughter>. /'],no laughter ,aa,FEMALE,4
+"['{e i mean, } the comparison made between new kids on the block with the beatles <laughter>.   it was just, -/']",e i mean  the comparison made between new kids on the block with the beatles laughter   it was just ,sv,MALE,3
+['you can only laugh <laughter>. /'],you can only laugh laughter ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['you just sort of,  - /']",you just sort of   ,%,MALE,5
+"['{d you know, } {d well } i guess i can just humor them, {d you know } <laughter>.  at this point. /']",d you know  d well  i guess i can just humor them d you know  laughter  at this point ,sv,MALE,3
+['right  /'],right  ,b,FEMALE,2
+"['<laughter> {d well, } they, - /']",laughter d well  they  ,%,FEMALE,5
+"['i guess our age is showing when, [ we, + we ] think that. /']",i guess our age is showing when  we  we  think that ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{c but } {d well, } {d you know, } [ [ i, + i, ] + i've ] liked a lot of the new music.  /""]",c but  d well  d you know    i  i   ive  liked a lot of the new music  ,sd,MALE,1
+"['i think, {f um, }']",i think f um ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, }  when - /']",f um   when  ,+,MALE,0
+"['i saw some promise, {d you know, } [ with, + with ] a lot of the new wave, [ when it, + when it ] came out, {f uh, }']",i saw some promise d you know   with  with  a lot of the new wave  when it  when it  came out f uh ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['back in the mid and early eighties.  /'],back in the mid and early eighties  ,+,MALE,0
+"[""{c and then, } {f um, } i don't know  /""]",c and then  f um  i dont know  ,h,MALE,15
+"[""music [ is kind of in a weird, + it's in a very weird  ] position right now.  /""]",music  is kind of in a weird  its in a very weird   position right now  ,sv,MALE,3
+"['i think that, - /']",i think that  ,%,MALE,5
+"['{e i mean, } i like, {d you know, } [ things + ] {d like } to hear, {d you know, } what they call world music.  which is, {d you know, } using all these natural forms of music  /']",e i mean  i like d you know   things   d like  to hear d you know  what they call world music  which is d you know  using all these natural forms of music  ,sv,MALE,3
+"['{c and, } -/']",c and  ,%,MALE,5
+['like paul simon.  /'],like paul simon  ,qy^d,FEMALE,16
+"['like, -/']",like ,%,FEMALE,5
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['yeah,  /']",yeah  ,ny,MALE,9
+['paul simon. /'],paul simon ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{d well, } {d you know, } really that's not world music.  /""]",d well  d you know  really thats not world music  ,sv,MALE,3
+"[""{c but, }  [ what, + what ] paul simon's doing, i think [ [ is, + is, ] + is ] great because he's, {d you know } [ [ i think, + i think ] that + ] using, {a i guess what they call it is eclectic, } {d you know. }""]",c but    what  what  paul simons doing i think   is  is   is  great because hes d you know    i think  i think  that   using a i guess what they call it is eclectic  d you know ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['drawing from a lot of different sources and making, {d you know, } a synthesis of a new type of music.  {f um, } /']",drawing from a lot of different sources and making d you know  a synthesis of a new type of music  f um  ,+,MALE,0
+['what do you mean by world music? /'],what do you mean by world music ,qw,FEMALE,12
+"['{d well, } world music is, {f um, } - /']",d well  world music is f um   ,sd,MALE,1
+"['[ a lot of the, + a lot of ] [ where they, + where they ] make music that they adapt [ [ to a, + to  another kind of, ] + to another type of ] listener. /']", a lot of the  a lot of   where they  where they  make music that they adapt   to a  to  another kind of   to another type of  listener ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } for example, let's say you're taking {d like } an original brazilian form of music [ and, + ] with a certain style,  /""]",f uh  for example lets say youre taking d like  an original brazilian form of music  and   with a certain style  ,sd,MALE,1
+"[""{c and then } you try to make it a little bit more listenable for, let's say another audience, let's say a north american. /""]",c and then  you try to make it a little bit more listenable for lets say another audience lets say a north american ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, then } when they hear it, [ [ it, + it's  a really, ] + it's ] another form of music,  and,""]",c and then  when they hear it   it  its  a really   its  another form of music  and,sd,MALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+"['{d you know, } sort of, {f um, } trying to draw out the best sources.  /']",d you know  sort of f um  trying to draw out the best sources  ,+,MALE,0
+"['[  the, + the ] best of every type of music. /']",  the  the  best of every type of music ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['because, {e i mean, } there are some, {e i mean, } - /']",because e i mean  there are some e i mean   ,%,MALE,5
+"['[ i, + i ] li-, - /']", i  i  li  ,%,MALE,5
+"['there are some, {d you know, } types of heavy metal that i really like,  /']",there are some d you know  types of heavy metal that i really like  ,sd,MALE,1
+"[""[ {c but, } +  {c but } ] [ i wouldn't, + i wouldn't ] say that [ i, + i ] completely like heavy metal. /""]", c but    c but    i wouldnt  i wouldnt  say that  i  i  completely like heavy metal ,sd,MALE,1
+['no. /'],no ,aa,FEMALE,4
+"['[ i, + i ] think, - /']", i  i  think  ,%,MALE,5
+"[""{d you know, } {c and } it's the same way with, - /""]",d you know  c and  its the same way with  ,sd,MALE,1
+"['{d you know, } world music takes the forms that have really been, {f um, } - /']",d you know  world music takes the forms that have really been f um   ,sd,MALE,1
+"['i guess, i - /']",i guess i  ,%,MALE,5
+"['{d you know, } [ the best example + {e or, } {d you know, } the cream of the crop, ] i guess you could say, - /']",d you know   the best example  e or  d you know  the cream of the crop  i guess you could say  ,sd,MALE,1
+"['[ {c and then, } + {c and then } ] taking [ those, + those ] qualities, and then applying, in the styles, [ that are really, + {f um, } that are ] extremely enjoyable, and then taking, -/']", c and then   c and then   taking  those  those  qualities and then applying in the styles  that are really  f um  that are  extremely enjoyable and then taking ,sd,MALE,1
+"['{c so } then it becomes a kind of music [ of, + of ] its own,  so to speak,  /']",c so  then it becomes a kind of music  of  of  its own  so to speak  ,qy^d,FEMALE,16
+"['{c or, } {f uh, } -/']",c or  f uh  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['yeah,  /']",yeah  ,ny,MALE,9
+['it becomes a kind of music of its own.  /'],it becomes a kind of music of its own  ,sd,MALE,1
+"[""{e i mean, } when you listen to it, it's {f um, } {f uh, } - /""]",e i mean  when you listen to it its f um  f uh   ,sv,MALE,3
+"[""i think that they don't use, elec-, - /""]",i think that they dont use elec  ,sv,MALE,3
+"['some of it, - /']",some of it  ,sv,MALE,3
+"[""it's, - /""]",its  ,%,MALE,5
+"['they use electronic and acoustic interchangeably, /']",they use electronic and acoustic interchangeably ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so, } {d you know, } {d well } a lot of the stuff you hear coming from south africa now, and from west africa, that's considered world music, because it's not particularly using certain types of folk styles. /""]",c so  d you know  d well  a lot of the stuff you hear coming from south africa now and from west africa thats considered world music because its not particularly using certain types of folk styles ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c but, } [ they're, + they're ] trying to make it somewhat more modern.  /""]",c but   theyre  theyre  trying to make it somewhat more modern  ,sd,MALE,1
+"['[ [ i, + i, ] + i, ] - /']",  i  i   i   ,%,MALE,5
+"['[ a good, + another good ] example was i heard miles davis,  /']", a good  another good  example was i heard miles davis  ,sd,MALE,1
+"['{c and } miles davis worked with robbie shoncar,']",c and  miles davis worked with robbie shoncar,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['if you can believe it, {e i mean, } /']",if you can believe it e i mean  ,+,MALE,0
+['uh-huh <laughter>. /'],uhhuh laughter ,b,FEMALE,2
+"[""<static> <laughter> {d you know, } he's a jazz performer,  /""]",static laughter d you know  hes a jazz performer  ,sd,MALE,1
+"[""{c and then } he's playing with robbie shoncar,  /""]",c and then  hes playing with robbie shoncar  ,sd,MALE,1
+"[""[ who's a very good, + he's a very good arranger. ]  /""]", whos a very good  hes a very good arranger   ,sd,MALE,1
+"['{f uh, } arrangement to, {f uh, } - /']",f uh  arrangement to f uh   ,sd,MALE,1
+"[""we're going to have to get off. /""]",were going to have to get off ,ad,MALE,22
+"['the, - /']",the  ,%,FEMALE,5
+"['are they trying to  ((   )) , -/']",are they trying to       ,qy,FEMALE,7
+"[""i don't know.  /""]",i dont know  ,no,MALE,31
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,MALE,5
+"[""((   ))  we've talked our five minutes though. /""]",     weve talked our five minutes though ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['okay,  /']",okay  ,b,MALE,2
+"['{c but, }  {e i mean, } when i heard his album, i heard it and it was just incredible. /']",c but   e i mean  when i heard his album i heard it and it was just incredible ,sd,MALE,1
+"[""i've been listening to that a lot lately. /""]",ive been listening to that a lot lately ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ i, + i ] listened - /']", i  i  listened  ,sd,MALE,1
+"['{c and, }  i heard, - /']",c and   i heard  ,sd,MALE,1
+"['{d you know, } you hear this guitar,  /']",d you know  you hear this guitar  ,sd,MALE,1
+['{c and then } you hear the muted trumpet.  /'],c and then  you hear the muted trumpet  ,sd,MALE,1
+['i - /'],i  ,%,MALE,5
+"['me, - /']",me  ,%,MALE,5
+"['{c and } you never would think [ that they, + that they ] can actually play together  /']",c and  you never would think  that they  that they  can actually play together  ,sv,MALE,3
+"['{c but, } -/']",c but  ,%,MALE,5
+['{f oh } yeah. /'],f oh  yeah ,b,FEMALE,2

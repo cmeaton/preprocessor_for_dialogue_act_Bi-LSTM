@@ -1,0 +1,135 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well } jackie, {f uh, } on taxes, [ i, + i ] guess i would have to say, [ that i, + that my ] opinion is that i do think americans are paying too much in taxes.  /']",d well  jackie f uh  on taxes  i  i  guess i would have to say  that i  that my  opinion is that i do think americans are paying too much in taxes  ,sv,MALE,3
+"[""{f uh, } what's your feeling about that? /""]",f uh  whats your feeling about that ,qo,MALE,25
+['i agree.  /'],i agree  ,aa,FEMALE,4
+['i think taxes are high. /'],i think taxes are high ,sv,FEMALE,3
+"['right,  /']",right  ,b,MALE,2
+"['{f uh, } where you live do you have a state income tax and a sales tax both? /']",f uh  where you live do you have a state income tax and a sales tax both ,qy,MALE,7
+"['{f oh, } yes.  /']",f oh  yes  ,ny,FEMALE,9
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } uh-huh.  /']",f uh  uhhuh  ,bk,MALE,14
+"['in new hampshire we have, {f uh, } {f uh, } [ no, + no, ] what we call broad base taxes.  /']",in new hampshire we have f uh  f uh   no  no  what we call broad base taxes  ,sd,MALE,1
+['no income tax and no sales tax. /'],no income tax and no sales tax ,sd,MALE,1
+['huh. /'],huh ,b,FEMALE,2
+"['{f uh, } we tax business, {f uh, } eight percent,  /']",f uh  we tax business f uh  eight percent  ,sd,MALE,1
+['businesses are taxed eight percent  /'],businesses are taxed eight percent  ,sd,MALE,1
+"['{c and } we have what we call the five b s.  {f uh, }  [ th-, + ] for our taxes.  booze, {f uh, } butts, cigarettes, beds, {f uh, } hotel room tax --']",c and  we have what we call the five b s  f uh    th   for our taxes  booze f uh  butts cigarettes beds f uh  hotel room tax ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- bellies, a meal tax and bets, gambling. /']", bellies a meal tax and bets gambling ,+,MALE,0
+['oh. /'],oh ,b,FEMALE,2
+"['{c so, }  {f uh, } we do have a very low tax rate,  /']",c so   f uh  we do have a very low tax rate  ,sd,MALE,1
+"['{c but } {d you know, } combined with the federal income tax.  i think that americans generally do pay too much in taxes  /']",c but  d you know  combined with the federal income tax  i think that americans generally do pay too much in taxes  ,sv,MALE,3
+['{c and }  ((   )) . -/'],c and        ,%,MALE,5
+['right.  /'],right  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ i, + i ] agree  /']", i  i  agree  ,aa,FEMALE,4
+"[""{c and } i,  ((   ))  think it's about the time of the year when you just start getting, - /""]",c and  i       think its about the time of the year when you just start getting  ,sv,FEMALE,3
+"['{d well } if you do get money back from <throat_clearing> {d like } jobs, - /']",d well  if you do get money back from throatclearing d like  jobs  ,sv,FEMALE,3
+"[""i'm still a student --""]",im still a student ,sd,FEMALE,1
+['uh-huh <<very faint>>. /'],uhhuh very faint ,b,MALE,2
+"['-- {c so, }  {f uh, } i only work part time,  /']", c so   f uh  i only work part time  ,+,FEMALE,0
+"['{c so } [ i, + i ] get a check back  /']",c so   i  i  get a check back  ,sd,FEMALE,1
+['# {c so } # -- -/'], c so    ,%,FEMALE,5
+"[""# {d well } # that's nice. /""]", d well   thats nice ,ba,MALE,6
+"['-- [ from, + from ] taxes # - /']",  from  from  taxes   ,sd,FEMALE,1
+"['{c but, }  # -/']",c but    ,%,FEMALE,5
+"['# [ nice, + # nice ] to get a refund. /']",  nice   nice  to get a refund ,sv,MALE,3
+['yeah <laughter>.  /'],yeah laughter  ,aa,FEMALE,4
+"['it is,  /']",it is  ,sv,FEMALE,3
+"[""{c but } <laughter> it's not much. <laughter>  /""]",c but  laughter its not much laughter  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['do you think that, {f uh, } for whatever taxes we do pay that, {f uh, } we are getting value for it? /']",do you think that f uh  for whatever taxes we do pay that f uh  we are getting value for it ,qy,MALE,7
+['no. /'],no ,nn,FEMALE,13
+['yeah.  /'],yeah  ,aa,MALE,4
+"['{f uh, } [ my, + my ] opinion of taxes is that we just send money to washington or to the state  /']",f uh   my  my  opinion of taxes is that we just send money to washington or to the state  ,sv,MALE,3
+"['{c and } they say they are going to send some back,  /']",c and  they say they are going to send some back  ,sv,MALE,3
+"[""[ it's like  giving yourself a tra-, + it's like one arm giving the other a transfusion.  ] /""]", its like  giving yourself a tra  its like one arm giving the other a transfusion   ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['you know what i mean? /'],you know what i mean ,bh,MALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{f uh, } [ it, + it ] really, {f uh, } - /']",f uh   it  it  really f uh   ,%,MALE,5
+"['i should say one arm giving another arm a transfusion through a leaky tube # [ because, # +']",i should say one arm giving another arm a transfusion through a leaky tube   because  ,sv,MALE,3
+['# yeah. #  /'], yeah   ,b,FEMALE,2
+['there you go <laughter>. /'],there you go laughter ,ba,FEMALE,6
+"[""{d right } because, ] {f uh, } there's an old saying in amongst taxes and politicians that there's a fly paper effect  /""]",d right  because  f uh  theres an old saying in amongst taxes and politicians that theres a fly paper effect  ,+,MALE,0
+['{c and } that is that money tends to stick where it lands first  /'],c and  that is that money tends to stick where it lands first  ,sv,MALE,3
+"['{c and } when you send it to washington or send it to your state capitol, {f uh, } a lot of it stays there and not that much comes back to you. /']",c and  when you send it to washington or send it to your state capitol f uh  a lot of it stays there and not that much comes back to you ,sv,MALE,3
+"['right,  /']",right  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['<cough>.'],cough,x,MALE,8
+"[""i don't know.  /""]",i dont know  ,h,FEMALE,15
+"['i, - /']",i  ,%,FEMALE,5
+"[""don't seem like they are doing much with it,  /""]",dont seem like they are doing much with it  ,sv,FEMALE,3
+"[""((   ))  {e i mean } there's plans there  /""]",     e i mean  theres plans there  ,sv,FEMALE,3
+"['{c and } now that they are voting and people, {d you know, } getting into  ((   ))  drug and that stuff. /']",c and  now that they are voting and people d you know  getting into       drug and that stuff ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['they have nice plans  /'],they have nice plans  ,sv,FEMALE,3
+"[""[ {c and, } +  {f uh, } {c but, } ]  <laughter> they don't always work  /""]", c and    f uh  c but    laughter they dont always work  ,sv,FEMALE,3
+['{c and  then } {d you know } they try to raise taxes more  /'],c and  then  d you know  they try to raise taxes more  ,sv,FEMALE,3
+"[""{c and } i don't what happens with <laughter> all the money because if their plans don't work, - /""]",c and  i dont what happens with laughter all the money because if their plans dont work  ,sv,FEMALE,3
+"['{d you know, } {c but } taxes get raise  /']",d you know  c but  taxes get raise  ,sd,FEMALE,1
+"[""{c so. }   i don't know.  /""]",c so    i dont know  ,h,FEMALE,15
+"[""i'm not really into politics, {f uh } -- /""]",im not really into politics f uh   ,sd,FEMALE,1
+"['that it, -/']",that it ,%,MALE,5
+"[""-- i don't really understand it -- /""]", i dont really understand it  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c but } it's just {d you know } <laughter>, -/""]", c but  its just d you know  laughter ,%,FEMALE,5
+"['{d well, } [ it does it, + it does ] seem that the more taxes that are raised the more the politicians spend.  /']",d well   it does it  it does  seem that the more taxes that are raised the more the politicians spend  ,sv,MALE,3
+"[""{f uh, } it's almost like they will spend as much as [ the, + ] they're allowed to collect.  {d you know. } /""]",f uh  its almost like they will spend as much as  the   theyre allowed to collect  d you know  ,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+"[""{f uh, } there is an interesting proposal that's been going around now for a few years of having a flat tax.  {f uh, } ten percent or thirteen percent.  /""]",f uh  there is an interesting proposal thats been going around now for a few years of having a flat tax  f uh  ten percent or thirteen percent  ,sd,MALE,1
+['there would be no figuring.  /'],there would be no figuring  ,sd,MALE,1
+"['{e i mean } you would take your income tax, - /']",e i mean  you would take your income tax  ,sd,MALE,1
+"['you would have a certain amount, - /']",you would have a certain amount  ,sd,MALE,1
+['{e i mean } you would take you total salary -- /'],e i mean  you would take you total salary  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- those who made under a certain amount wouldn't owe any taxes,  /""]", those who made under a certain amount wouldnt owe any taxes  ,sd,MALE,1
+"['{c and then } there would be a set amount for however many [ people, + {d you know, } dependent  ] you have,  /']",c and then  there would be a set amount for however many  people  d you know  dependent   you have  ,sd,MALE,1
+"[""{c and } you would just pay a flat tax.   no exemptions, no deductions or  anything else [ after + {d you know, } after ] you figure up who's in your family. /""]",c and  you would just pay a flat tax   no exemptions no deductions or  anything else  after  d you know  after  you figure up whos in your family ,sd,MALE,1
+['right.  /'],right  ,b,FEMALE,2
+['huh. /'],huh ,b,FEMALE,2
+['{c and } that would eliminate a lot of the bureaucracy in the i r s  /'],c and  that would eliminate a lot of the bureaucracy in the i r s  ,sv,MALE,3
+['{c and } it would eliminate all these loop holes that the fat cats get away with. /'],c and  it would eliminate all these loop holes that the fat cats get away with ,sv,MALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+['the could be nice <laughter>. /'],the could be nice laughter ,ba,FEMALE,6
+['yeah. /'],yeah ,b,MALE,2
+['huh. /'],huh ,b,FEMALE,2
+"[""[ i, + i'd ] like to see something like that.  /""]", i  id  like to see something like that  ,sv,MALE,3
+['i think it would be fairer  /'],i think it would be fairer  ,sv,MALE,3
+"['{c and } it would put [ a, + {d you know, } a ] lot of the tax attorneys our of business  /']",c and  it would put  a  d you know  a  lot of the tax attorneys our of business  ,sv,MALE,3
+"['{c and } i am sure they will fight it tooth and nail,  /']",c and  i am sure they will fight it tooth and nail  ,sv,MALE,3
+['{c but } i really think a flat tax would be a lot fairer for all americans. /'],c but  i really think a flat tax would be a lot fairer for all americans ,sv,MALE,3
+"['right,  /']",right  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{e i mean } it doesn't seem right that somebody that makes twenty-five or thirty thousand dollars pays four or five thousand dollars in taxes while somebody that makes two hundred and fifty thousand dollars might pay nothing in taxes. /""]",e i mean  it doesnt seem right that somebody that makes twentyfive or thirty thousand dollars pays four or five thousand dollars in taxes while somebody that makes two hundred and fifty thousand dollars might pay nothing in taxes ,sd,MALE,1
+"['right,  /']",right  ,b,FEMALE,2
+['huh. /'],huh ,b,FEMALE,2
+"[""it doesn't seem fair to me. /""]",it doesnt seem fair to me ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""it isn't,  /""]",it isnt  ,sv,FEMALE,3
+"['there is not much out there that is fair,  /']",there is not much out there that is fair  ,sv,FEMALE,3
+"[""that's for sure. /""]",thats for sure ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+['huh.  /'],huh  ,%,FEMALE,5
+['i will agree to that. /'],i will agree to that ,aa,FEMALE,4
+"[""i think your taxes in wisconsin are pretty high.  [ [ i, + i, ] + if i ] am not mistaken, aren't they?   {e i --""]",i think your taxes in wisconsin are pretty high    i  i   if i  am not mistaken arent they   e i ,qy,MALE,7
+"['{f uh, } /']",f uh  ,%,FEMALE,5
+['-- mean } for your state.  /'], mean  for your state  ,+,MALE,0
+"['[ what is, + do you know what  ] your state income tax rate is? /']", what is  do you know what   your state income tax rate is ,qy,MALE,7
+"['{f um, } no -- /']",f um  no  ,nn,FEMALE,13
+['twenty percent? /'],twenty percent ,qy^d,MALE,16
+"['-- [ i, + i ] have no idea,  /']",  i  i  have no idea  ,no,FEMALE,31
+['i just. - /'],i just  ,%,FEMALE,5
+['my dad does it all for me <laughter>. /'],my dad does it all for me laughter ,sd,FEMALE,1
+"['[ just, + you just ] pay it, {f huh } <laughter>. /']", just  you just  pay it f huh  laughter ,bf,MALE,20
+"['<laughter>  i use, -/']",laughter  i use ,%,FEMALE,5
+"[""[ you're like, + you're like ] my daughter who is in college down in massachusetts  /""]", youre like  youre like  my daughter who is in college down in massachusetts  ,sv,MALE,3
+"['{c and, }  {f uh, } she works as a waitress  /']",c and   f uh  she works as a waitress  ,sv,MALE,3
+['{c and } she is attending college full time also -- /'],c and  she is attending college full time also  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } she sends her taxes to me  /'], c and  she sends her taxes to me  ,sd,MALE,1
+['{c and } i figure them up.  /'],c and  i figure them up  ,sd,MALE,1
+['she really has no idea.  /'],she really has no idea  ,sd,MALE,1
+['she gets a refund check  /'],she gets a refund check  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5

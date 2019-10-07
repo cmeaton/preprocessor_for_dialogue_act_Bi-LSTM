@@ -1,0 +1,122 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['(( i )) , {f uh, } try to stay away from cars as much as  possible # in terms of # --']", i   f uh  try to stay away from cars as much as  possible  in terms of  ,sd,MALE,1
+['# <noise> <tv> <laughter>. #'], noise tv laughter ,x,FEMALE,8
+['-- repair.  /'], repair  ,+,MALE,0
+"['{d actually, } {f uh, } that is really a sore  spot with me.  /']",d actually  f uh  that is really a sore  spot with me  ,sd,MALE,1
+"['[ i, + i ] think perhaps the automotive industry is improving  /']", i  i  think perhaps the automotive industry is improving  ,sv,MALE,3
+"['{c but, } {f uh, }  {d like } ten years ago, {f uh, } reliability of automobiles, at least u s automobiles was pretty  dismal  /']",c but  f uh   d like  ten years ago f uh  reliability of automobiles at least u s automobiles was pretty  dismal  ,sv,MALE,3
+"['{c and } not only that, but the, {f uh, } repair capability of, {f uh, } service departments and  dealerships was equally dismal -- /']",c and  not only that but the f uh  repair capability of f uh  service departments and  dealerships was equally dismal  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, }  {f uh, } it seemed that the only way i could  reliably take care of my car was to repair it myself which is not my cup of tea. /']", c and   f uh  it seemed that the only way i could  reliably take care of my car was to repair it myself which is not my cup of tea ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but, }  {f uh, } i, -/']",c but   f uh  i ,%,MALE,5
+['{c so } do you have a car? /'],c so  do you have a car ,qy,FEMALE,7
+['pardon? /'],pardon ,br,MALE,30
+['do you have a car? /'],do you have a car ,qy,FEMALE,7
+"['{d well, } at that time, {d actually, }  i had a volkswagen rabbit -- /']",d well  at that time d actually   i had a volkswagen rabbit  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, }  {f uh, } [ it was, + it was ]  a real lemon.  /']", c and   f uh   it was  it was   a real lemon  ,sd,MALE,1
+"['{f uh, } subsequently i got a, {f uh, } buick century  /']",f uh  subsequently i got a f uh  buick century  ,sd,MALE,1
+"[""{c and } it wasn't as bad. /""]",c and  it wasnt as bad ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, }  {f uh, } last year i bought a honda accord  /']",c but   f uh  last year i bought a honda accord  ,sd,MALE,1
+['{c and } i take it in once every seventy-five hundred miles for its periodic maintenance  /'],c and  i take it in once every seventyfive hundred miles for its periodic maintenance  ,sd,MALE,1
+['{c and } that is it.  /'],c and  that is it  ,sd,MALE,1
+"[""{c and } it's wonderful. /""]",c and  its wonderful ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['we used to have a honda accord  /'],we used to have a honda accord  ,sd,FEMALE,1
+"[""{c and } they're good.  /""]",c and  theyre good  ,sv,FEMALE,3
+"[""they're really good cars.  /""]",theyre really good cars  ,sv,FEMALE,3
+"['every time i get taken to an auto repair place,  {d you know, } every time i go, i get taken.  /']",every time i get taken to an auto repair place  d you know  every time i go i get taken  ,sd,FEMALE,1
+['bad --'],bad ,%,FEMALE,5
+['{f huh. } /'],f huh  ,b,MALE,2
+['-- {d you know. }  /'], d you know   ,+,FEMALE,0
+['woman goes in  /'],woman goes in  ,sv,FEMALE,3
+"['{c and } they go  all right,  we got a sucker.  /']",c and  they go  all right  we got a sucker  ,sv,FEMALE,3
+"[""let's [ ge-, + ] see how much money we can get out of her, #  {d you know } <laughter>. # /""]",lets  ge   see how much money we can get out of her   d you know  laughter  ,^q,FEMALE,19
+['# {f huh. } # /'], f huh   ,b,MALE,2
+"[""that's what happens every time. /""]",thats what happens every time ,sv,FEMALE,3
+['{f huh. } /'],f huh  ,b,MALE,2
+"['# {f uh, } {c so, } # -/']", f uh  c so   ,%,FEMALE,5
+"['# {d so, } [ wha-, + # what ] do you have? /']", d so   wha   what  do you have ,qo,MALE,25
+['i have a pontiac six thousand. /'],i have a pontiac six thousand ,sd,FEMALE,1
+"['all the more reason to, {f uh, } have [ a, + a ] honda. /']",all the more reason to f uh  have  a  a  honda ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['{c but } our honda just got old and just wore out.  /'],c but  our honda just got old and just wore out  ,sd,FEMALE,1
+"[""it was, let's see, eleven years old  /""]",it was lets see eleven years old  ,sd,FEMALE,1
+"['{c and } it [ just, + <lipsmack>  just ] out of it - /']",c and  it  just  lipsmack  just  out of it  ,%,FEMALE,5
+"['[ d-, + ]  {c so } you bought a pontiac? /']", d    c so  you bought a pontiac ,qy,MALE,7
+['huh-uh.  /'],huhuh  ,nn,FEMALE,13
+"[""my [ hu-, + {f uh, } ex-husband's, ] - /""]",my  hu  f uh  exhusbands   ,%,FEMALE,5
+"['this [ is, + ] just happened a couple of weeks ago.  /']",this  is   just happened a couple of weeks ago  ,sd,FEMALE,1
+"[""he's my ex-husband  /""]",hes my exhusband  ,sd,FEMALE,1
+"['{c but } just a few months ago  when he was my husband, {f uh, } his father gave us this car  /']",c but  just a few months ago  when he was my husband f uh  his father gave us this car  ,sd,FEMALE,1
+['{c and }  everything is wrong with it.  /'],c and   everything is wrong with it  ,sd,FEMALE,1
+"['{e i mean, } the power  steering fluid leaks, the oil leaks, the brake fluid leaks, # {d you know, } # /']",e i mean  the power  steering fluid leaks the oil leaks the brake fluid leaks  d you know   ,sd,FEMALE,1
+"['# now thi-, - /']", now thi  ,%,MALE,5
+"['[ wha-, +   # how ] old is the car? /']", wha     how  old is the car ,qw,MALE,12
+"['{f uh, } eighty-seven. /']",f uh  eightyseven ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+"[""{c and } he just doesn't take care of things  /""]",c and  he just doesnt take care of things  ,sd,FEMALE,1
+['[ {c and } + {c but } ] i was awarded the car  /'], c and   c but   i was awarded the car  ,sd,FEMALE,1
+['{c so. }  there is a man in my church that is a mechanic  /'],c so   there is a man in my church that is a mechanic  ,sd,FEMALE,1
+['{c and }  i can trust him.  /'],c and   i can trust him  ,sd,FEMALE,1
+"['{c so } he is trying to get, {d you know, } things fixed on it. /']",c so  he is trying to get d you know  things fixed on it ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+"[""{c but } it's just, {d you know, } leak, leak, leak everywhere.  /""]",c but  its just d you know  leak leak leak everywhere  ,sd,FEMALE,1
+"[""{c but, }  {f uh, } {d you know, } i hate to go into [ a, + a ] repair place because  they'll tell me something is wrong with it and it's not, {d you know, } and charge me twice as much.  /""]",c but   f uh  d you know  i hate to go into  a  a  repair place because  theyll tell me something is wrong with it and its not d you know  and charge me twice as much  ,sv,FEMALE,3
+"['the last time i took it into a repair shop,  /']",the last time i took it into a repair shop  ,sd,FEMALE,1
+['the man told me i needed a master cylinder.  /'],the man told me i needed a master cylinder  ,sd,FEMALE,1
+['{c so } i said okay.  /'],c so  i said okay  ,sd,FEMALE,1
+['{c and } he charged me a hundred and thirty something  dollars <noise>  /'],c and  he charged me a hundred and thirty something  dollars noise  ,sd,FEMALE,1
+"['{c and then, } {f uh, } about a month later, a man was looking at my  car  /']",c and then  f uh  about a month later a man was looking at my  car  ,sd,FEMALE,1
+"['{c and } he asked me, - /']",c and  he asked me  ,sd,FEMALE,1
+"['{d you know, } [ not a man, + not a repair man, ] but just a friend  /']",d you know   not a man  not a repair man  but just a friend  ,sd,FEMALE,1
+['{c and } i was telling him that i just a new master cylinder put on  /'],c and  i was telling him that i just a new master cylinder put on  ,sd,FEMALE,1
+['{c and } he looked  at - /'],c and  he looked  at  ,sd,FEMALE,1
+"[""{c and } he said that's not a new master cylinder -- /""]",c and  he said thats not a new master cylinder  ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+"[""-- {c and } i didn't even know what one was.  /""]", c and  i didnt even know what one was  ,sd,FEMALE,1
+"['{c and, }  {f uh, }  he showed it to me  /']",c and   f uh   he showed it to me  ,sd,FEMALE,1
+"['{c and } it was old, rusty, just awful.  /']",c and  it was old rusty just awful  ,sd,FEMALE,1
+['it was no more new than nothing. /'],it was no more new than nothing ,sd,FEMALE,1
+['{c so } apparently it was the same one that was on there. /'],c so  apparently it was the same one that was on there ,bf,MALE,20
+"['{f uh, } more than likely. /']",f uh  more than likely ,aa,FEMALE,4
+"['[ apparently just, {f uh, } [ re-, +  re-, ] +  {f uh, }  probably filled ] [ the, + the ] brake fluid up  /']", apparently just f uh   re   re    f uh   probably filled   the  the  brake fluid up  ,bf,MALE,20
+['{c and } that was it. /'],c and  that was it ,bf,MALE,20
+"['that was it, probably.  /']",that was it probably  ,aa,FEMALE,4
+"['it was ve-, - /']",it was ve  ,%,FEMALE,5
+['i was so irritated.  /'],i was so irritated  ,sd,FEMALE,1
+"[""{c and } that's happened to me more than once or twice.    [ [ jus-, + just, ] + just ] about every time i've went in somewhere. /""]",c and  thats happened to me more than once or twice      jus  just   just  about every time ive went in somewhere ,sd,FEMALE,1
+"[""{c so } what's the solution to that? i guess find a  reputable service, /""]",c so  whats the solution to that i guess find a  reputable service ,sv,MALE,3
+"['[ {c and, } + {c and } ] you [ ju-, + ]  can hardly find  one, # {d you know. } # /']", c and   c and   you  ju    can hardly find  one  d you know   ,sv,FEMALE,3
+['# {f huh. } # /'], f huh   ,b,MALE,2
+"[""the guy that's doing most of [ my, + my ] car now,  {f uh, } goes to my church  /""]",the guy thats doing most of  my  my  car now  f uh  goes to my church  ,sd,FEMALE,1
+"[""{c and } that's the only reason, {d you know, }  i go to him --""]",c and  thats the only reason d you know   i go to him ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- because i know him  /'], because i know him  ,+,FEMALE,0
+['{c and } i know he will tell me the  truth.  /'],c and  i know he will tell me the  truth  ,sd,FEMALE,1
+"[""{c because } he doesn't even charge me [ for, + for ] doing it  /""]",c because  he doesnt even charge me  for  for  doing it  ,sd,FEMALE,1
+"[""{c so } he's not  going <<mispronounced>> to, {d you know, } take me. /""]",c so  hes not  going mispronounced to d you know  take me ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['i just pay for the parts  /'],i just pay for the parts  ,sd,FEMALE,1
+['{c and } he does it so. /'],c and  he does it so ,sd,FEMALE,1
+"[""{d well } that's wonderful. /""]",d well  thats wonderful ,ba,MALE,6
+['yeah. /'],yeah ,aa,FEMALE,4
+"[""you're lucky. /""]",youre lucky ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['i am,  /']",i am  ,aa,FEMALE,4
+"[""{c so, } i don't know.  /""]",c so  i dont know  ,h,FEMALE,15
+"[""i don't know what  the solution to that is because the place where you buy your car, they're usually the worst one of all.  /""]",i dont know what  the solution to that is because the place where you buy your car theyre usually the worst one of all  ,sv,FEMALE,3
+['we took our honda to the honda dealership  /'],we took our honda to the honda dealership  ,sd,FEMALE,1
+['{c and } they  ended up telling us we needed a brand new engine for our car. /'],c and  they  ended up telling us we needed a brand new engine for our car ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+['yeah.  /'],yeah  ,ny,FEMALE,9
+"['{c and  so, } idiots as we were,  neither one of us knew much about cars,  /']",c and  so  idiots as we were  neither one of us knew much about cars  ,sd,FEMALE,1
+"['[ we, +  {d you know, } they told us we ] just had  to have one  /']", we   d you know  they told us we  just had  to have one  ,sd,FEMALE,1
+['{c and } we bought one.  /'],c and  we bought one  ,sd,FEMALE,1
+"[""we didn't no more need no new engine,  /""]",we didnt no more need no new engine  ,sd,FEMALE,1
+"['give me break, <laughter> {d you know. } /']",give me break laughter d you know  ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+"['{c so } [ it was, + it was ] not good  /']",c so   it was  it was  not good  ,sd,FEMALE,1
+"['{c and, }  {f uh } </tv>. -/']",c and   f uh  tv ,%,FEMALE,5

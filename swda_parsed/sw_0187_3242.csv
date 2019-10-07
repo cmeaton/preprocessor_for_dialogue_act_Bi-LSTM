@@ -1,0 +1,159 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } how did you like that topic? /']",d well  how did you like that topic ,qo,MALE,25
+"[""{f uh, } i don't know,  /""]",f uh  i dont know  ,sd,FEMALE,1
+"[""i've got mixed feelings about the topic. /""]",ive got mixed feelings about the topic ,sd,FEMALE,1
+['do you?  /'],do you  ,qy,MALE,7
+"[""i don't. /""]",i dont ,sd,MALE,1
+['no.  /'],no  ,bf,FEMALE,20
+['okay. /'],okay ,b,FEMALE,2
+"['no,  /']",no  ,aa,MALE,4
+"[""i'm pretty opinionated about that  and many other things as you well know.  /""]",im pretty opinionated about that  and many other things as you well know  ,sd,MALE,1
+['i agree with it.  /'],i agree with it  ,sd,MALE,1
+"['[ i think, + {f uh, } i think ]  a company should be able to test [ at, + ]  [ any, +  any  ] employee any  time they see fit. /']", i think  f uh  i think   a company should be able to test  at     any   any   employee any  time they see fit ,sv,MALE,3
+"['{d well, } -/']",d well  ,%,FEMALE,5
+"[""[ i just, +  i just ] don't think there's  a place in our environment, {d you know } in the work force for drugs, or alcohol either. /""]", i just   i just  dont think theres  a place in our environment d you know  in the work force for drugs or alcohol either ,sv,MALE,3
+"[""{d well, } i don't believe in drugs or alcohol,  /""]",d well  i dont believe in drugs or alcohol  ,sd,FEMALE,1
+"[""{c but } if you'll remember when the teachers had to take the t cat --""]",c but  if youll remember when the teachers had to take the t cat ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['-- they were talking about drug testing us -- /'], they were talking about drug testing us  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } we were laughing that  we'd have to go to that examination to prove we could read and write with a specimen of urine -- /""]", c and  we were laughing that  wed have to go to that examination to prove we could read and write with a specimen of urine  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } we found it belittling. /'], c and  we found it belittling ,sd,FEMALE,1
+['you did? /'],you did ,qy,MALE,7
+"['yeah, /']",yeah ,ny,FEMALE,9
+"['uh-huh.  {d well, } i can sort  of understand that, {f uh, }  /']",uhhuh  d well  i can sort  of understand that f uh   ,sd,MALE,1
+"['{c but } not being a teacher, as you are, {d you know, } [ i, +  i ]  was not quite as sympathetic [ as, +  {d you know, } as ] i probably would have been [ if, +  if ]  kay were a teacher or something. /']",c but  not being a teacher as you are d you know   i   i   was not quite as sympathetic  as   d you know  as  i probably would have been  if   if   kay were a teacher or something ,sd,MALE,1
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,MALE,5
+"[""{c but } then, {d you know, }  at the same token, i'm not against  /""]",c but  then d you know   at the same token im not against  ,sd,FEMALE,1
+['{c because } i look at airline pilots --'],c because  i look at airline pilots ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- bus drivers --'], bus drivers ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {d you know, } people that really  have other peoples' lives in their hands --""]", d you know  people that really  have other peoples lives in their hands ,+,FEMALE,0
+"[""that's right. /""]",thats right ,aa,MALE,4
+['-- truck drivers -- /'], truck drivers  ,+,FEMALE,0
+"[""that's right. /""]",thats right ,aa,MALE,4
+"[""-- it's supposed to be a huge problem  with truck drivers using drugs --""]", its supposed to be a huge problem  with truck drivers using drugs ,sd,FEMALE,1
+"[""{f uh, } that's right -- /""]",f uh  thats right  ,aa,MALE,4
+"['-- and alcohol, /']", and alcohol ,+,FEMALE,0
+['-- {c and } i think it is a big problem with them using drugs --'], c and  i think it is a big problem with them using drugs ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['-- from what you read, {d you know, }  /']", from what you read d you know   ,+,MALE,0
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,MALE,5
+"['{d you know, } in those areas i really,  {d you know, } do believe that maybe we should clean up our, {d you know } --']",d you know  in those areas i really  d you know  do believe that maybe we should clean up our d you know  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['i think so --'],i think so ,sd,MALE,1
+['-- house. /'], house ,+,FEMALE,0
+"['-- too,  /']", too  ,+,MALE,0
+"['[ i, +  i ] agree with it.  /']", i   i  agree with it  ,sd,MALE,1
+"[""{f uh, } i know kay's company, {d you know, }  /""]",f uh  i know kays company d you know   ,sd,MALE,1
+"['they started it couple of years ago,  /']",they started it couple of years ago  ,sd,MALE,1
+"['{c and so } many of the people, even the professional people [ were, +  boy, they were ]  so against them doing that, {d you know, }  /']",c and so  many of the people even the professional people  were   boy they were   so against them doing that d you know   ,sd,MALE,1
+"[""{c and } i thought, jeez, to me it's quite simple,  /""]",c and  i thought jeez to me its quite simple  ,sd,MALE,1
+"[""{f uh, } you either need a job or you don't.  /""]",f uh  you either need a job or you dont  ,^q,MALE,19
+"['[ the, +  the ] job is what provides  all of your needs,  /']", the   the  job is what provides  all of your needs  ,sd,MALE,1
+"[""{c and, }  {f uh, } if they say, hey, you can't do this work, i'd say, hey, i agree,  [ i don't, + i won't ] do that.  /""]",c and   f uh  if they say hey you cant do this work id say hey i agree   i dont  i wont  do that  ,sd,MALE,1
+"[""{c and } i think most of them have agreed to  that now, although they didn't like it at first. /""]",c and  i think most of them have agreed to  that now although they didnt like it at first ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i think it's just like  anything else, a new concept,  {d you know, }  /""]",i think its just like  anything else a new concept  d you know   ,sv,FEMALE,3
+"['as i said, if i have to go to a testing area  with my urine specimen i was insulted, /']",as i said if i have to go to a testing area  with my urine specimen i was insulted ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['it is,  /']",it is  ,aa,MALE,4
+"['i can see where you would think,  /']",i can see where you would think  ,sd,MALE,1
+"['yeah,  /']",yeah  ,%,MALE,5
+"[""{c but } at the same token, in education  we can't do [ drug, + random drug ] testing on kids -- /""]",c but  at the same token in education  we cant do  drug  random drug  testing on kids  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's true, /""]",thats true ,aa,MALE,4
+"['-- {d you know, } {e i mean, } their rights are protected. /']", d you know  e i mean  their rights are protected ,sd,FEMALE,1
+['you bet.  /'],you bet  ,aa,MALE,4
+"['{f oh, } gosh, [ they, +  they ]  would really raise a stink if that was to --']",f oh  gosh  they   they   would really raise a stink if that was to ,sv,MALE,3
+['what -- -/'],what  ,%,FEMALE,5
+['-- happen. /'], happen ,+,MALE,0
+"[""-- {d well, } {c but } [ why, +   if you're going to do teachers or professionals, why ] not do the kids,""]", d well  c but   why    if youre going to do teachers or professionals why  not do the kids,qh,FEMALE,26
+['<breathing>.'],breathing,x,MALE,8
+"[""when we see them and  they're, {d you know, } under the influence. /""]",when we see them and  theyre d you know  under the influence ,+,FEMALE,0
+"['right,  /']",right  ,aa,MALE,4
+"['yes,  /']",yes  ,aa,MALE,4
+['i agree with that.  /'],i agree with that  ,sd,MALE,1
+"[""[ [ i, + i,  ] +  i ] wouldn't be opposed to it at all,  /""]",  i  i     i  wouldnt be opposed to it at all  ,sd,MALE,1
+"[""it's just our bleeding heart <inhaling> liberals that would fight it [ to-, +  tooth ] and nail, {d you know } -- /""]",its just our bleeding heart inhaling liberals that would fight it  to   tooth  and nail d you know   ,sv,MALE,3
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"[""-- {c but, }  {f uh, } {d well, } lynn,  i've enjoyed talking with you.  /""]", c but   f uh  d well  lynn  ive enjoyed talking with you  ,fc,MALE,10
+"[""i don't know how long we're supposed to carry on a conversation, do you? /""]",i dont know how long were supposed to carry on a conversation do you ,qy,MALE,7
+"[""it's three minutes,  /""]",its three minutes  ,sd,FEMALE,1
+"[""{c and } the clicker comes in when it's time to, -/""]",c and  the clicker comes in when its time to ,sd,FEMALE,1
+"[""{f oh, } {d well, } we'd better keep  talking because i've not heard it have we. /""]",f oh  d well  wed better keep  talking because ive not heard it have we ,ad,MALE,22
+['yeah. /'],yeah ,aa,FEMALE,4
+['have you heard it? /'],have you heard it ,qy,MALE,7
+['no. /'],no ,nn,FEMALE,13
+"[""anyway, we both sort of agree on it, don't we --""]",anyway we both sort of agree on it dont we ,qy,MALE,7
+['{d well } --'],d well  ,qy,FEMALE,7
+['-- about random testing. /'], about random testing ,+,MALE,0
+"[""-- do we agree, or unless it's not me <laughter>. -/""]", do we agree or unless its not me laughter ,+,FEMALE,0
+"['<laughter>  {d well, } listen, /']",laughter  d well  listen ,h,MALE,15
+"['{d you know, } here we go again, {e i mean } -- /']",d you know  here we go again e i mean   ,"fo_o_fw_""_by_bc",FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['-- yeah,  {d you know } -- /']", yeah  d you know   ,b,FEMALE,2
+"['if you agree that, {f uh, } -/']",if you agree that f uh  ,sd,MALE,1
+"['-- i believe that truck drivers and  people  that have, - /']", i believe that truck drivers and  people  that have  ,sv,FEMALE,3
+"['even though teachers have  other kids lives in their hands,  [ and + ] if they come in stoned or they come in drunk -- -/']",even though teachers have  other kids lives in their hands   and   if they come in stoned or they come in drunk  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""-- {c and } there was an incident  in my children's high school, where a teacher stayed drunk, /""]", c and  there was an incident  in my childrens high school where a teacher stayed drunk ,sd,FEMALE,1
+['is that right? /'],is that right ,bh,MALE,18
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"[""you just don't think of that happening with teachers -- /""]",you just dont think of that happening with teachers  ,sv,MALE,3
+"['{c and } he, -/']",c and  he ,%,FEMALE,5
+"[""-- i really don't,  /""]", i really dont  ,sd,MALE,1
+"[""when i think of drug testing, i'm thinking of the, {d you know, } outside of education. /""]",when i think of drug testing im thinking of the d you know  outside of education ,sd,MALE,1
+"['{f uh, } {d well, } no,  /']",f uh  d well  no  ,ar,FEMALE,28
+"['{d you know, } we are as susceptible a society --']",d you know  we are as susceptible a society ,sv,FEMALE,3
+['[ sure -- +'], sure  ,aa,MALE,4
+['-- as anybody else -- /'], as anybody else  ,+,FEMALE,0
+"['-- sure, ]  /']", sure   ,+,MALE,0
+"['i know that,  /']",i know that  ,sd,MALE,1
+"['{c but, }  {f uh } --']",c but   f uh  ,sv,MALE,3
+"['-- {c and, }  {f uh } -- -/']", c and   f uh   ,%,FEMALE,5
+"[""-- you don't think of that first hand, normally. /""]", you dont think of that first hand normally ,+,MALE,0
+"['-- yeah,  /']", yeah  ,b,FEMALE,2
+"['{d well, } did you hear on the news where the teacher of the year was up for child molestation. /']",d well  did you hear on the news where the teacher of the year was up for child molestation ,qy,FEMALE,7
+"[""[ isn't that, +""]", isnt that ,bh,MALE,18
+['<laughter>.'],laughter,x,FEMALE,8
+"[""isn't that -- ]""]",isnt that  ,+,MALE,0
+['it was on the news tonight. /'],it was on the news tonight ,sd,FEMALE,1
+"['-- mind boggling,  /']", mind boggling  ,+,MALE,0
+"['goodness,  /']",goodness  ,ba,MALE,6
+"[""[ [ it, +  it is, ] +  it's ] mind bog-, {d you know, } {d well, } {d you know, } - /""]",  it   it is    its  mind bog d you know  d well  d you know   ,sv,MALE,3
+"['i agree with you,  /']",i agree with you  ,sd,MALE,1
+"['i know teachers are just like everybody else,  same   problems --']",i know teachers are just like everybody else  same   problems ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- the same, {f uh, } good qualities as anybody else. /']", the same f uh  good qualities as anybody else ,+,MALE,0
+"[""then, i think, {d you know, }  [ if +  if ] [ it  came, +  push came ] to shove, i'd probably be drug tested --""]",then i think d you know    if   if   it  came   push came  to shove id probably be drug tested ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['-- {d you know, }  /']", d you know   ,+,FEMALE,0
+"['{c because } it does, {d you know, } -/']",c because  it does d you know  ,sd,FEMALE,1
+"['[ you, +  you ] think the benefit would be greater than the, -/']", you   you  think the benefit would be greater than the ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"[""{c because, } {d you know, }  as i say, i'm sitting there fussing and fussing,  /""]",c because  d you know   as i say im sitting there fussing and fussing  ,sd,FEMALE,1
+"['{c and } yet, i know of, {d you know, } one teacher  who was an alcoholic --']",c and  yet i know of d you know  one teacher  who was an alcoholic ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- in school as well as, {d you know, } i presume out, /']", in school as well as d you know  i presume out ,+,FEMALE,0
+"[""{c and } that was in your children's high school, /""]",c and  that was in your childrens high school ,qy^d,MALE,16
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"[""isn't that amazing, /""]",isnt that amazing ,bh,MALE,18
+"['{c and, } {d you know, } my children  brought it to my attention.  /']",c and  d you know  my children  brought it to my attention  ,sd,FEMALE,1
+['i never --'],i never ,sd,FEMALE,1
+"[""[ [ if it, +  if it's -- ] +""]",  if it   if its   ,sv,MALE,3
+['-- was there to see it. /'], was there to see it ,+,FEMALE,0
+"[""-- if it was ] true there,  i'm sure it's true with just about probably to some degree every school there is -- -/""]", if it was  true there  im sure its true with just about probably to some degree every school there is  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {d you know, } {c because } they represent a pretty good, -/']", d you know  c because  they represent a pretty good ,sv,MALE,3
+"[""{c and } that's not giving a good example to students. /""]",c and  thats not giving a good example to students ,sv,FEMALE,3
+"['no,  /']",no  ,aa,MALE,4
+"['certainly not,  /']",certainly not  ,aa,MALE,4
+"['certainly not,  /']",certainly not  ,aa,MALE,4
+"[""they don't need that example  /""]",they dont need that example  ,sv,MALE,3
+"['{c but, } -/']",c but  ,%,MALE,5

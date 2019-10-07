@@ -1,0 +1,153 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['# okay. # /'], okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['# your # family have reunions on a regular basis? /'], your  family have reunions on a regular basis ,qy,MALE,7
+"['probably, once every five years. /']",probably once every five years ,no,FEMALE,31
+['once every five years? /'],once every five years ,qy,MALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['yeah.  /'],yeah  ,b,MALE,2
+"['{f uh, } you have got a pretty big family. /']",f uh  you have got a pretty big family ,qy^d,MALE,16
+['yeah  /'],yeah  ,ny,FEMALE,9
+"['{c and } that is the hardest part about  getting [ the fam-, +  the stuff ] together  /']",c and  that is the hardest part about  getting  the fam   the stuff  together  ,sd,FEMALE,1
+['{c and } everyone is spread out all over timbuktu. /'],c and  everyone is spread out all over timbuktu ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['and you? /'],and you ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['we have a pretty big family,  /']",we have a pretty big family  ,sd,MALE,1
+"['{c but } most of us, - /']",c but  most of us  ,%,MALE,5
+"['{d well, } {f uh, } {f uh, } i am originally from west virginia. /']",d well  f uh  f uh  i am originally from west virginia ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['most of the family is right in the west virginia,  {f uh, } {f uh, } what they call tri-state area, {f uh, } northern west virginia, eastern ohio, southwestern pennsylvania. /']",most of the family is right in the west virginia  f uh  f uh  what they call tristate area f uh  northern west virginia eastern ohio southwestern pennsylvania ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['most everybody is right in that area. /'],most everybody is right in that area ,sd,MALE,1
+['that makes it a lot easier.  /'],that makes it a lot easier  ,sv,FEMALE,3
+['a lot more convenient.  /'],a lot more convenient  ,sv,FEMALE,3
+['that is why we only do it once every five or ten years. /'],that is why we only do it once every five or ten years ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['spec-, - /']",spec  ,%,FEMALE,5
+['<laughter> {c because } it is always that hard  to get everyone together. /'],laughter c because  it is always that hard  to get everyone together ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+['they put one together for our family about  once every june.  /'],they put one together for our family about  once every june  ,sd,MALE,1
+"[""it was on my grandmother's birthday,  /""]",it was on my grandmothers birthday  ,sd,MALE,1
+"['{c but } [ she is, + she is ] gone now. /']",c but   she is  she is  gone now ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['{d see } that is kind of what happened  with ours.  /'],d see  that is kind of what happened  with ours  ,sd,FEMALE,1
+['that is why we have not had one in a long time. /'],that is why we have not had one in a long time ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['# {f uh. } # /'], f uh   ,b,MALE,2
+"['# [ {c so, } + # {c so, } ] to make one successful,  {e i mean, }   {e i mean } what do you all do. /']",  c so    c so   to make one successful  e i mean    e i mean  what do you all do ,qo,FEMALE,25
+"['oh, /']",oh ,^h,MALE,27
+['do you all just start planning real far ahead of time? /'],do you all just start planning real far ahead of time ,qy,FEMALE,7
+['pardon. /'],pardon ,br,MALE,30
+"['{f uh, } do you all start planning real far ahead of time? /']",f uh  do you all start planning real far ahead of time ,qy,FEMALE,7
+"['{d well, } no.  /']",d well  no  ,nn,MALE,13
+['there is kind of a set pattern to it.  /'],there is kind of a set pattern to it  ,sd,MALE,1
+"['there is,  {f uh, } - /']",there is  f uh   ,%,MALE,5
+"['{c so, } {f uh, } the day it happens is ninety-eight percent of the planning usually. /']",c so  f uh  the day it happens is ninetyeight percent of the planning usually ,sd,MALE,1
+"['{f oh, } really <<louder>>. /']",f oh  really louder ,bh,FEMALE,18
+['yeah.  /'],yeah  ,ny,MALE,9
+"['{f uh, } we, {f uh, } get together, at  [ [ the, +  {f uh, }  the ]   park, + {f uh, }  [ the, + {f uh, } the ] park, ] and playground area of the church i was raised in -- /']",f uh  we f uh  get together at    the   f uh   the    park  f uh    the  f uh  the  park  and playground area of the church i was raised in  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- {c and, }  {f uh, } everybody brings lots of  food  /']", c and   f uh  everybody brings lots of  food  ,sd,MALE,1
+['{c and } some put up the volleyball net and sit around and tell stories and catch up and play  volleyball all day and get really fat <laughter>. /'],c and  some put up the volleyball net and sit around and tell stories and catch up and play  volleyball all day and get really fat laughter ,sd,MALE,1
+['<laughter> eat a lot. /'],laughter eat a lot ,qy^d,FEMALE,16
+"['{f oh, } gosh. /']",f oh  gosh ,ba,MALE,6
+['it is a lot harder for us because [ we are +  like i said we are ] spread out -- /'],it is a lot harder for us because  we are   like i said we are  spread out  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- {c and so }  we have to plan anywhere from  six, {d well } really probably a year ahead of time so that everyone, can {f uh, } start their, {f uh, } #  vacation time. # /']", c and so   we have to plan anywhere from  six d well  really probably a year ahead of time so that everyone can f uh  start their f uh    vacation time  ,sd,FEMALE,1
+['# schedule vacation # time  /'], schedule vacation  time  ,b,MALE,2
+['{c and } yeah.  /'],c and  yeah  ,b,MALE,2
+"['we usu-, - /']",we usu  ,%,MALE,5
+"['{f uh, } [ sat, + {f uh, } sunday ] afternoon --']",f uh   sat  f uh  sunday  afternoon ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- or, {f uh, } sometimes it has been like on a  saturday afternoon.  /']", or f uh  sometimes it has been like on a  saturday afternoon  ,+,MALE,0
+"['usually, it is like sunday afternoon  /']",usually it is like sunday afternoon  ,sd,MALE,1
+['{c and } most people do not have  more than {d you know } a couple of hours drive at tops --'],c and  most people do not have  more than d you know  a couple of hours drive at tops ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- to get there and back. /'], to get there and back ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['is that one of your, {f uh, } - /']",is that one of your f uh   ,qy,FEMALE,7
+"['{e i mean, } {f uh, } -/']",e i mean  f uh  ,%,FEMALE,5
+"['{d well, } where i am calling from is southern  mississippi.  /']",d well  where i am calling from is southern  mississippi  ,sd,MALE,1
+"['{c so, } we have got,   {f uh, } {f uh, } my wife and i have, {f uh, } a bit longer  ways to go than most. /']",c so  we have got   f uh  f uh  my wife and i have f uh  a bit longer  ways to go than most ,sd,MALE,1
+"['{c but, }  you also manage to make them. /']",c but   you also manage to make them ,qy^d,FEMALE,16
+"['{f uh, } {d actually, } [ we, + we ] have only made  one of them since we got married about four years ago.']",f uh  d actually   we  we  have only made  one of them since we got married about four years ago,arp_nd,MALE,34
+['yeah. /'],yeah ,b,FEMALE,2
+['one of the family reunions.  /'],one of the family reunions  ,+,MALE,0
+['{c but } we are both  in school  /'],c but  we are both  in school  ,sd,MALE,1
+['{c so } that makes it kind of tough. /'],c so  that makes it kind of tough ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ they usually, +   {f uh, }  they ] have been happening,  {f uh, } just after the summer semester starts. /']", they usually    f uh   they  have been happening  f uh  just after the summer semester starts ,sd,MALE,1
+"[""you can't really get away. /""]",you cant really get away ,qy^d,FEMALE,16
+['usually not.  /'],usually not  ,ng,MALE,29
+['we managed to get to one.  /'],we managed to get to one  ,sd,MALE,1
+['that was before  i started school  /'],that was before  i started school  ,sd,MALE,1
+['{c and } she took that summer off.  /'],c and  she took that summer off  ,sd,MALE,1
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,MALE,5
+"['{d well, } now that we have been talking  about it, [ i, + {f uh, } i ] am kind of getting home sick now. /']",d well  now that we have been talking  about it  i  f uh  i  am kind of getting home sick now ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['<laughter> {c because } it has been over three years  since i have been home --'],laughter c because  it has been over three years  since i have been home ,sd,FEMALE,1
+['{f oh } # goodness. # /'],f oh   goodness  ,ba,MALE,6
+['-- # to see # my grandparents.  /'],  to see  my grandparents  ,+,FEMALE,0
+"['{d well, } [ my, + my ]  grandfather is the only one that is still around. /']",d well   my  my   grandfather is the only one that is still around ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c and }  {d see, } my grandmother is the one that  use to plan this stuff basically. /']",c and   d see  my grandmother is the one that  use to plan this stuff basically ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c so, } unless the aunts and uncles really get on the  ball and put stuff together, it is kind of like.  /']",c so  unless the aunts and uncles really get on the  ball and put stuff together it is kind of like  ,sd,FEMALE,1
+"['she was like the glue,  /']",she was like the glue  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+['i understand.  /'],i understand  ,ba,MALE,6
+['where is home for you? /'],where is home for you ,qw,MALE,12
+"['originally, {f uh, } i, {f uh, } was born in missouri. /']",originally f uh  i f uh  was born in missouri ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c but, }  {f uh, } {d you know, } we have relatives  scattered out all over louisiana, mississippi, {f uh, } here in texas -- /']",c but   f uh  d you know  we have relatives  scattered out all over louisiana mississippi f uh  here in texas  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- {c but } it is harder for everyone to [ get in, + get ] home. /']", c but  it is harder for everyone to  get in  get  home ,sd,FEMALE,1
+['yeah.   /'],yeah   ,b,MALE,2
+"['{d well, } maybe this year you can find a more  central location. /']",d well  maybe this year you can find a more  central location ,qy^d,MALE,16
+"['{d well, } {c but } the majority of them are  [ in, +  {d like, }  just {d like } how you said in ] [ close, + close ] quarters.  /']",d well  c but  the majority of them are   in   d like   just d like  how you said in   close  close  quarters  ,arp_nd,FEMALE,34
+['{c so } it is easier for us few  stragglers to go home. /'],c so  it is easier for us few  stragglers to go home ,sd,FEMALE,1
+"['{f oh, } okay.  /']",f oh  okay  ,bk,MALE,14
+['then the majority of them are still in  the missouri area. /'],then the majority of them are still in  the missouri area ,qy^d,MALE,16
+['yeah. /'],yeah ,ny,FEMALE,9
+['okay.  /'],okay  ,bk,MALE,14
+"['{d you know } our family right now, {f uh, } the most of it,  there is only a few stragglers, {f uh, } with any distance.  /']",d you know  our family right now f uh  the most of it  there is only a few stragglers f uh  with any distance  ,sd,MALE,1
+"['there is one cousin out  in colorado, {f uh, } {f uh, } some cousins over in phoenix, {f uh, }  /']",there is one cousin out  in colorado f uh  f uh  some cousins over in phoenix f uh   ,sd,MALE,1
+"['i got a sister over [ in, + in, ] {f uh, } washington state <barking>.  /']",i got a sister over  in  in  f uh  washington state barking  ,sd,MALE,1
+"['{f uh, } the rest of them are  within, {d you know, } a couple hours drive. /']",f uh  the rest of them are  within d you know  a couple hours drive ,sd,MALE,1
+"['{d well, } {f uh, } how do you all communicate? like to  plan it and every thing.  /']",d well  f uh  how do you all communicate like to  plan it and every thing  ,qo,FEMALE,25
+"['do you all just call each other up on the phone and say this is the weekend we are going to do it,  /']",do you all just call each other up on the phone and say this is the weekend we are going to do it  ,qy,FEMALE,7
+['{c or } do you all like mail out stuff? /'],c or  do you all like mail out stuff ,qrr,FEMALE,33
+['that is pretty much it.  /'],that is pretty much it  ,na,MALE,21
+['yeah.  /'],yeah  ,ny,MALE,9
+"['it is going to be  such and such, {f uh, } weekend  /']",it is going to be  such and such f uh  weekend  ,^q,MALE,19
+"['{c and, }  {f uh, } you all come. /']",c and   f uh  you all come ,^q,MALE,19
+['yeah. /'],yeah ,b,FEMALE,2
+['that is about it <laughter>.  /'],that is about it laughter  ,sd,MALE,1
+['{c and } {d you know } this is  the standard pattern.  /'],c and  d you know  this is  the standard pattern  ,sd,MALE,1
+"['it,  {f uh, } - /']",it  f uh   ,%,MALE,5
+['everybody brings their favorite dish  /'],everybody brings their favorite dish  ,sd,MALE,1
+"['{c and, }   somebody brings the volleyball net,  /']",c and    somebody brings the volleyball net  ,sd,MALE,1
+['<noise> somebody brings a whole lot of ice for  the watermelon  /'],noise somebody brings a whole lot of ice for  the watermelon  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"['{d well, } {f uh, } {f uh, } i guess probably the last one  i went to i met so many people that i had not seen in probably [ ten, + over ten ] years.  /']",d well  f uh  f uh  i guess probably the last one  i went to i met so many people that i had not seen in probably  ten  over ten  years  ,sd,FEMALE,1
+"[""it was like, don't you remember me.  /""]",it was like dont you remember me  ,sd,FEMALE,1
+['{c and } i am like no <<louder>>. /'],c and  i am like no louder ,sd,FEMALE,1
+['am i related to you? /'],am i related to you ,^q,MALE,19
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['i know. /'],i know ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i married your cousin's brother's uncle or something  like that. /""]",i married your cousins brothers uncle or something  like that ,^q,MALE,19
+"['<laughter> do you, - /']",laughter do you  ,%,FEMALE,5
+"['{e i mean, } is that since, [ - /']",e i mean  is that since   ,%,FEMALE,5
+['+ ]  {e i mean } do you have them every year? /'],   e i mean  do you have them every year ,qy,FEMALE,7
+"['{f uh, } yeah,  /']",f uh  yeah  ,ny,MALE,9
+['every year. /'],every year ,sd,MALE,1
+['#  ((   )) . # -/'],        ,x,FEMALE,8
+"['# {c and, }  {f uh, } # still, you wind up meeting people  [ you, + {f uh, } you ] never knew you were related to.  let alone -- /']", c and   f uh   still you wind up meeting people   you  f uh  you  never knew you were related to  let alone  ,qy^d,MALE,16
+['yeah. /'],yeah ,ny,FEMALE,9
+"['-- {c and, } -/']", c and  ,%,MALE,5
+"[""{d well, } i think that is probably why  our is probably so interesting is cause we don't have them that often -- /""]",d well  i think that is probably why  our is probably so interesting is cause we dont have them that often  ,sv,FEMALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['-- {c and then } when we do, and everyone finally does get  together,  /']", c and then  when we do and everyone finally does get  together  ,sd,FEMALE,1
+"['it is like  after the, {d you know, } -/']",it is like  after the d you know  ,%,FEMALE,5

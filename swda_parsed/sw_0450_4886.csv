@@ -1,0 +1,196 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['are you in the middle of anything? /'],are you in the middle of anything ,qy,MALE,7
+['<static> no.  /'],static no  ,nn,MALE,13
+"[""i'm not in the middle of anything.  /""]",im not in the middle of anything  ,sd,MALE,1
+"[""i've just, - /""]",ive just  ,%,MALE,5
+['about the last thing i did - /'],about the last thing i did  ,%,MALE,5
+"['about maybe, {f oh, } close to a year ago now i guess,  [ i, + i ] helped my dad add on another bedroom on to his house.   /']",about maybe f oh  close to a year ago now i guess   i  i  helped my dad add on another bedroom on to his house   ,sd,MALE,1
+"['{c so, } # i guess that, # -/']",c so   i guess that  ,%,MALE,5
+['# the whole thing? # /'], the whole thing  ,qy,MALE,7
+['yeah.   /'],yeah   ,ny,MALE,9
+"['[  that, + that ] was fairly large undertaking.  /']",  that  that  was fairly large undertaking  ,sd,MALE,1
+"[""[ [  a, + a, ] + it's a ] bedroom and a walk-in closet and a bathroom all on one side of the house. /""]",   a  a   its a  bedroom and a walkin closet and a bathroom all on one side of the house ,sd,MALE,1
+['did the framing and all? /'],did the framing and all ,qy,MALE,7
+"['{f oh, } we did it all except for the sheetrocking. /']",f oh  we did it all except for the sheetrocking ,na,MALE,21
+['{f huh. } /'],f huh  ,b,MALE,2
+"[""that was the only thing we didn't, {d you know, }  putting the ceiling up and  things like that  /""]",that was the only thing we didnt d you know   putting the ceiling up and  things like that  ,sd,MALE,1
+"[""[ [ we don't, + we, ] + we weren't ] sure how to do that  /""]",  we dont  we   we werent  sure how to do that  ,sd,MALE,1
+['{c and. } -/'],c and  ,%,MALE,5
+['{c and } i did all the sheetrocking <laughter> and the interior work <throat_clearing>. /'],c and  i did all the sheetrocking laughter and the interior work throatclearing ,sd,MALE,1
+"['<laughter> yeah,  /']",laughter yeah  ,aa,MALE,4
+"[""that's the exact opposite.  /""]",thats the exact opposite  ,sd,MALE,1
+"['we [ did all, +  put the roof up and did all ] the roofing and [ the, + ]  put all the interior walls up.  /']",we  did all   put the roof up and did all  the roofing and  the    put all the interior walls up  ,sd,MALE,1
+"[""we just didn't do any of the sheetrock wall work  /""]",we just didnt do any of the sheetrock wall work  ,sd,MALE,1
+"[""{c and } that's it because you have, {d you know,  } get those joints to go together -- /""]",c and  thats it because you have d you know   get those joints to go together  ,sd,MALE,1
+"['ye-, /']",ye ,b,MALE,2
+"['-- {c and } whatever you have to put in there [ to get  the, s-, + to take the gaps ] out between the sheets  --']", c and  whatever you have to put in there  to get  the s  to take the gaps  out between the sheets  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- and on the ceiling and all that. - /'], and on the ceiling and all that  ,+,MALE,0
+"[""[ i di-, + we didn't ] know a thing about any of that  /""]", i di  we didnt  know a thing about any of that  ,sd,MALE,1
+"['{c and # so, } # -/']",c and  so   ,%,MALE,5
+"[""# my # wife wishes i hadn't done that. /""]", my  wife wishes i hadnt done that ,sd,MALE,1
+['<laughter>.'],laughter,sd,MALE,1
+"[""[ it's, +  it looked ] very hard to do  /""]", its   it looked  very hard to do  ,+,MALE,0
+"['{c so, } -/']",c so  ,%,MALE,5
+"['we figured {d well } just, - /']",we figured d well  just  ,%,MALE,5
+"[""i didn't think we could do it and make it look professional.  /""]",i didnt think we could do it and make it look professional  ,sd,MALE,1
+"['{c so, }  we [ left it, + left it ] to somebody who does it for a living.  /']",c so   we  left it  left it  to somebody who does it for a living  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+['i think it takes about three or four times before it gets easy. /'],i think it takes about three or four times before it gets easy ,sv,MALE,3
+['probably so  /'],probably so  ,aa,MALE,4
+"['{c and } [ i, +']",c and   i ,sd,MALE,1
+"[""we'd ] never done it  /""]",wed  never done it  ,+,MALE,0
+['{c so } --'],c so  ,sd,MALE,1
+"[""yeah <sniffing>. /   *[[should be 'b']]""]",yeah sniffing    should be b,+,MALE,0
+['-- we just left it alone.  /'], we just left it alone  ,+,MALE,0
+"[""{c but }  that's, - /""]",c but   thats  ,%,MALE,5
+"[""i guess, i'm only twenty-one  /""]",i guess im only twentyone  ,sd,MALE,1
+"[""{c so } [ [ i, + my, ] + my ] vast experience of [ home, + home ] owner's knowledge is not very much.  /""]",c so    i  my   my  vast experience of  home  home  owners knowledge is not very much  ,sd,MALE,1
+"[""{c so } it's just what i have to do, more or less, around the house, {d you know, } for my parents  /""]",c so  its just what i have to do more or less around the house d you know  for my parents  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['did [ [ you, + you ] framed   it in f-, +  {f uh, }  [ [ on, +   on, ] + ]  you framed in ] new square footage  /']",did   you  you  framed   it in f   f uh     on    on     you framed in  new square footage  ,qy^d,MALE,16
+"['{c or } was it stuff that was already, {f uh, } # enclosed? # /']",c or  was it stuff that was already f uh   enclosed  ,qy,MALE,7
+['# it was brand # new. /'], it was brand  new ,sd,MALE,1
+['brand new #  ((   )) . # /'],brand new         ,b^m,MALE,24
+['# we started # with the backyard and turned it into part of the house  /'], we started  with the backyard and turned it into part of the house  ,sd,MALE,1
+"['{c so } # it was, # -/']",c so   it was  ,%,MALE,5
+"['# [ {c a-, } + {c and } ] # [ you knew how, + you knew how ] to do the framing? /']",  c a   c and     you knew how  you knew how  to do the framing ,qy,MALE,7
+"['{f uh, } {d well } my dad knew how to do most of it, # {d you know. } # /']",f uh  d well  my dad knew how to do most of it  d you know   ,no,MALE,31
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""[ [ he, + he'd, ] + we'd ] gotten a couple of books  /""]",  he  hed   wed  gotten a couple of books  ,sd,MALE,1
+['{c and then } he just started doing it.  /'],c and then  he just started doing it  ,sd,MALE,1
+"[""i don't know.  /""]",i dont know  ,h,MALE,15
+"['[  he, + {d well } he ] did all the flooring himself.  /']",  he  d well  he  did all the flooring himself  ,sd,MALE,1
+"['he put [ the whole, + the whole ] floor in  /']",he put  the whole  the whole  floor in  ,sd,MALE,1
+['{c and then } i just started with the walls and the roof and  started there.  /'],c and then  i just started with the walls and the roof and  started there  ,sd,MALE,1
+"['{c and then } we [ were, + ] put [ a, + {d like } a, ] [ not, + not ] necessarily a garage, but just {d like } a,  off the side of that - /']",c and then  we  were   put  a  d like  a   not  not  necessarily a garage but just d like  a  off the side of that  ,sd,MALE,1
+"[""after we had the house part made, we just decided we'd carry the roof out a little bit farther and put a carport more or less.  /""]",after we had the house part made we just decided wed carry the roof out a little bit farther and put a carport more or less  ,sd,MALE,1
+"[""[  it's not, + {d you know, } it's not ] enclosed.  /""]",  its not  d you know  its not  enclosed  ,sd,MALE,1
+"[""it's just somewhere to drive another car [ to, + to ] park  /""]",its just somewhere to drive another car  to  to  park  ,sd,MALE,1
+"[""{c and } it's, -/""]",c and  its ,%,MALE,5
+"['[ do, + do ] you build on slabs down there or did you build it up off the ground? /']", do  do  you build on slabs down there or did you build it up off the ground ,qy,MALE,7
+"[""{f uh, } it's off the ground. /""]",f uh  its off the ground ,sd,MALE,1
+['on the piers? /'],on the piers ,qy,MALE,7
+['uh-huh.  /'],uhhuh  ,ny,MALE,9
+"[""it's on about --""]",its on about ,sd,MALE,1
+"['did, -/']",did ,%,MALE,5
+"['-- {f uh, } twenty-two inch piers, something like that. /']", f uh  twentytwo inch piers something like that ,+,MALE,0
+['you had those # poured # -- /'],you had those  poured   ,qy^d,MALE,16
+['# {d so. }  # -/'], d so    ,%,MALE,5
+['-- {c or } you did them yourself? /'], c or  you did them yourself ,qy,MALE,7
+"['{f uh, } no,  /']",f uh  no  ,nn,MALE,13
+"['[ those, + those ] are, - /']", those  those  are  ,%,MALE,5
+['we did those ourselves  /'],we did those ourselves  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+['you just put forms in the ground and fill them with concrete? /'],you just put forms in the ground and fill them with concrete ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['{f huh. } /'],f huh  ,b,MALE,2
+"['exactly,  /']",exactly  ,na,MALE,21
+"[""{c so. }   # it's, # -/""]",c so     its  ,%,MALE,5
+"['# {d well, } # the last thing i did completely myself was an outside deck which i was pretty proud of <laughter> <noise>. /']", d well   the last thing i did completely myself was an outside deck which i was pretty proud of laughter noise ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ those ar-, + those are, ] - /']", those ar  those are   ,%,MALE,5
+"[""[ we'd, + i've  ] done one,  /""]", wed  ive   done one  ,sd,MALE,1
+['i helped somebody do one of those before.  /'],i helped somebody do one of those before  ,sd,MALE,1
+"['[  those are, + those are, ]  {d you know, } - /']",  those are  those are   d you know   ,%,MALE,5
+['you can  buy them in kits  /'],you can  buy them in kits  ,sd,MALE,1
+"[""{c but } we didn't do that way.  /""]",c but  we didnt do that way  ,sd,MALE,1
+"[""{c but } it's, -/""]",c but  its ,%,MALE,5
+['no  /'],no  ,ar,MALE,28
+['i designed it from scratch and # [ did it # + --'],i designed it from scratch and   did it   ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+['-- did a ] pretty good job.  /'], did a  pretty good job  ,+,MALE,0
+['those are nice.  /'],those are nice  ,sv,MALE,3
+"[""they're pretty forgiving, {d you know. }  /""]",theyre pretty forgiving d you know   ,sv,MALE,3
+['you can always tear # stuff out and redo it.  /'],you can always tear  stuff out and redo it  ,sd,MALE,1
+"[""it's a, # -/""]",its a  ,%,MALE,5
+"['#  yeah,  /']",  yeah  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"[""#  that's not near,""]",  thats not near,sv,MALE,3
+['like building a house or anything  /'],like building a house or anything  ,+,MALE,0
+"['{c but, } -/']",c but  ,%,MALE,5
+"['yeah,  /']",yeah  ,aa,MALE,4
+['those are nice.  /'],those are nice  ,sv,MALE,3
+"[""especially when you get done, you've got something, {d you know. }  /""]",especially when you get done youve got something d you know   ,sv,MALE,3
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+['i like them.  /'],i like them  ,sd,MALE,1
+['you just sit down [ on -- +'],you just sit down  on  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- on ] the deck and do whatever.  # have # --'], on  the deck and do whatever   have  ,+,MALE,0
+['# [ i # + --'],  i   ,sd,MALE,1
+['-- a barbecue  /'], a barbecue  ,+,MALE,0
+"['{c or, } -/']",c or  ,%,MALE,5
+"['-- i ] built it two levels  and with a big toy box and some benches and, {f uh, } a backrest and all that stuff.  /']", i  built it two levels  and with a big toy box and some benches and f uh  a backrest and all that stuff  ,+,MALE,0
+"['i, -/']",i ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+['that sounds nice. /'],that sounds nice ,ba,MALE,6
+"['all done by yourself, {f huh? } /']",all done by yourself f huh  ,qy,MALE,7
+['i had # --'],i had  ,sd,MALE,1
+"['# designed, # /']", designed  ,%,MALE,5
+['-- a friend with a tractor who dug the pier holes  /'], a friend with a tractor who dug the pier holes  ,+,MALE,0
+"['{c so } we could pour concrete and support it with [ a, + a ] nice firm four by four posts.   /']",c so  we could pour concrete and support it with  a  a  nice firm four by four posts   ,sd,MALE,1
+"['[ {c and, } +  {f uh } --']", c and    f uh  ,sd,MALE,1
+['</static> yeah. /'],static yeah ,b,MALE,2
+['-- {c and then } ] the rest of it i just did.  /'], c and then   the rest of it i just did  ,+,MALE,0
+"['[ a, + a ] contractor friend helped me, {f uh, } with some of the, {f uh, } foundation work  /']", a  a  contractor friend helped me f uh  with some of the f uh  foundation work  ,sd,MALE,1
+"['{c but, }  {f uh, }  it was pretty, - /']",c but   f uh   it was pretty  ,%,MALE,5
+['it was about four or five hundred square feet.  /'],it was about four or five hundred square feet  ,sd,MALE,1
+['the same size as the addition that i just put on  /'],the same size as the addition that i just put on  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+"[""[  that's pretty, + that's a good ] size deck. /""]",  thats pretty  thats a good  size deck ,ba,MALE,6
+['<throat_clearing> yeah. /'],throatclearing yeah ,aa,MALE,4
+"['# {c so, }  yeah.  /']", c so   yeah  ,b,MALE,2
+"[""that's, # -/""]",thats  ,%,MALE,5
+"[""# it's, {f uh, } # not that expensive.  /""]", its f uh   not that expensive  ,sd,MALE,1
+"['i think it cost me three dollars a square foot and, {f uh, } {d you know, } no less than that. /']",i think it cost me three dollars a square foot and f uh  d you know  no less than that ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""that's not, -/""]",thats not ,ba,MALE,6
+"['[ co-, + cost ] me about [ five hundred dollars, + six hundred dollars ] all together. /']", co  cost  me about  five hundred dollars  six hundred dollars  all together ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""that's good.  /""]",thats good  ,ba,MALE,6
+"[""that's not bad at all.  /""]",thats not bad at all  ,ba,MALE,6
+"[""# didn't # --""]", didnt  ,%,MALE,5
+['# yeah. # /'], yeah  ,b,MALE,2
+"['-- have to, - /']", have to  ,+,MALE,0
+"['[ th-, + the ] wood  (( may )) - /']", th  the  wood   may   ,%,MALE,5
+"['it got surprising as to the fact that how much wood is, {d you know. }  /']",it got surprising as to the fact that how much wood is d you know   ,sv,MALE,3
+"['[ to get, + to get ] good lumber it costs, - /']", to get  to get  good lumber it costs  ,%,MALE,5
+"[""i don't know about dallas,  {c but }  [ arou-, + ] even in this little town, [ it's, + it's ] not cheap at all.  /""]",i dont know about dallas  c but    arou   even in this little town  its  its  not cheap at all  ,sv,MALE,3
+['i was surprised. /'],i was surprised ,sd,MALE,1
+"[""i'd be surprised if it wasn't, {f uh, } # cheaper where you are. # /""]",id be surprised if it wasnt f uh   cheaper where you are  ,sv,MALE,3
+"[""# it's probably more there. # /""]", its probably more there  ,sv,MALE,3
+"['{d well, } yeah.  /']",d well  yeah  ,aa,MALE,4
+['it probably comes from where you are. /'],it probably comes from where you are ,sv,MALE,3
+"['<laughter> yeah,  /']",laughter yeah  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+['[ that + --'], that  ,aa,MALE,4
+['most <throat_clearing>. -/'],most throatclearing ,%,MALE,5
+['-- it ] probably does.  /'], it  probably does  ,+,MALE,0
+"[""[ i, + i'm ] not sure  /""]", i  im  not sure  ,h,MALE,15
+"['{c but, } -/']",c but  ,%,MALE,5
+"[""when i drive through that area, that's all i see is --""]",when i drive through that area thats all i see is ,sd,MALE,1
+['<noise> yeah.  /'],noise yeah  ,b,MALE,2
+"[""it's nothing but woods [ up here, + # down here. ] # /""]",its nothing but woods  up here   down here   ,sd,MALE,1
+"['-- # [ pressure treated,  + # pressure treated lumber yards. ] /']",   pressure treated    pressure treated lumber yards  ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""[ [ i don't, + i haven't, ] + {e i mean, } i haven't, ] - /""]",  i dont  i havent   e i mean  i havent   ,%,MALE,5
+"['i used  to live in dallas.   in arlington, actually. /']",i used  to live in dallas   in arlington actually ,sd,MALE,1
+"['[ {c and, } + {c but } ] that was just when i was a kid  /']", c and   c but   that was just when i was a kid  ,sd,MALE,1
+"[""{c so } i don't really know what the cost of living is even {d like } in dallas anymore.  /""]",c so  i dont really know what the cost of living is even d like  in dallas anymore  ,sd,MALE,1
+"[""{c but } [ it's, + i don't know, we're ] a college town  /""]",c but   its  i dont know were  a college town  ,h,MALE,15
+"[""{c so } that doesn't help us out any. /""]",c so  that doesnt help us out any ,sd,MALE,1
+['right.  /'],right  ,aa,MALE,4
+['east texas. /'],east texas ,sd,MALE,1
+"['((   ))  we have, - /']",     we have  ,%,MALE,5
+"['gas is a [ dollar t-, + dollar twelve ] a gallon,  /']",gas is a  dollar t  dollar twelve  a gallon  ,sd,MALE,1
+['{c so } --'],c so  ,sv,MALE,3
+['{f huh. } /'],f huh  ,b,MALE,2
+"[""-- that's probably about what you're paying  /""]", thats probably about what youre paying  ,+,MALE,0
+['{c so. } -/'],c so  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""my current project is a walkway which i'm building around the house and out to the backyard [ to, + ] {f uh, } {d you know, } digging it out and laying sand and  putting, {f uh, } pavers on top of that  /""]",my current project is a walkway which im building around the house and out to the backyard  to   f uh  d you know  digging it out and laying sand and  putting f uh  pavers on top of that  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+['yeah. /'],yeah ,b,MALE,2
+"[""that's a # lot easier. # /""]",thats a  lot easier  ,sv,MALE,3
+"[""# you've # got something going all the time. /""]", youve  got something going all the time ,ba,MALE,6

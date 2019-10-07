@@ -1,0 +1,366 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,%,FEMALE,5
+['what kind of things do you like to do in your spare time? /'],what kind of things do you like to do in your spare time ,qw,FEMALE,12
+"['{d well, } {f uh, } i have two children, /']",d well  f uh  i have two children ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c so } i do not have a whole lot of spare time right now. /'],c so  i do not have a whole lot of spare time right now ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['one of the things that i have made time for is, {f uh, } playing softball. /']",one of the things that i have made time for is f uh  playing softball ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i really enjoy, - /']",i really enjoy  ,sd,FEMALE,1
+"['i enjoy softball,  /']",i enjoy softball  ,sd,FEMALE,1
+['{c but } i enjoy all kind of sports.  /'],c but  i enjoy all kind of sports  ,sd,FEMALE,1
+['i enjoy watching and participating.  /'],i enjoy watching and participating  ,sd,FEMALE,1
+"['i really like water sports like swimming and skiing,  /']",i really like water sports like swimming and skiing  ,sd,FEMALE,1
+['{c but } i do not get to do that too often. /'],c but  i do not get to do that too often ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and then } [ i, + i ]  really enjoy sewing,  /']",c and then   i  i   really enjoy sewing  ,sd,FEMALE,1
+['{c but } i do not get much of a chance to just really sit down and do much sewing.  /'],c but  i do not get much of a chance to just really sit down and do much sewing  ,sd,FEMALE,1
+['how about you? /'],how about you ,qo,FEMALE,25
+"['{f oh, } i, {f uh, } like sports type things too.  /']",f oh  i f uh  like sports type things too  ,sd,FEMALE,1
+"['we like to get out and walk,  /']",we like to get out and walk  ,sd,FEMALE,1
+['{c and } we like the water sports too. /'],c and  we like the water sports too ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } like you, unless you have a pool in your backyard, it is kind of hard to get to do that --']",c but  like you unless you have a pool in your backyard it is kind of hard to get to do that ,sd,FEMALE,1
+"['i, know it.  /']",i know it  ,aa,FEMALE,4
+['it is. /'],it is ,aa,FEMALE,4
+['-- very often. /'], very often ,+,FEMALE,0
+['do you work full time? /'],do you work full time ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,FEMALE,9
+"['{d well, } part time.  /']",d well  part time  ,arp_nd,FEMALE,34
+['we --'],we ,sd,FEMALE,1
+['part time. /'],part time ,b^m,FEMALE,24
+['-- are going to have a baby in july. /'], are going to have a baby in july ,+,FEMALE,0
+['oh. /'],oh ,b,FEMALE,2
+"['{c so } part of my big hobby has been <laughter> trying to put together a nursery and all that kind of stuff, lately. /']",c so  part of my big hobby has been laughter trying to put together a nursery and all that kind of stuff lately ,sd,FEMALE,1
+['right.  /'],right  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['that definitely takes over your time. /'],that definitely takes over your time ,sv,FEMALE,3
+"['yeah, /']",yeah ,aa,FEMALE,4
+['<laughter>.'],laughter,x,FEMALE,8
+['it does.  /'],it does  ,sv,FEMALE,3
+"['i have been, -/']",i have been ,%,FEMALE,5
+['is this going to be your first? /'],is this going to be your first ,qy,FEMALE,7
+['yes.  /'],yes  ,ny,FEMALE,9
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['oh. /'],oh ,b,FEMALE,2
+['i have been doing some cross-stitch for something i wanted to put in the nursery.  /'],i have been doing some crossstitch for something i wanted to put in the nursery  ,sd,FEMALE,1
+"['{c so, } i have not --']",c so  i have not ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- done that in years,  /']", done that in years  ,+,FEMALE,0
+['{c but } i have kind of enjoyed that. /'],c but  i have kind of enjoyed that ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['it is just hard to find the time to sit there and do it. /'],it is just hard to find the time to sit there and do it ,sd,FEMALE,1
+['right.  /'],right  ,aa,FEMALE,4
+"['{d well, } that is, - /']",d well  that is  ,%,FEMALE,5
+['it sure is fun to do that kind of thing because then you have got something to show for it. /'],it sure is fun to do that kind of thing because then you have got something to show for it ,sv,FEMALE,3
+"['right,  /']",right  ,aa,FEMALE,4
+['yeah. /'],yeah ,aa,FEMALE,4
+['yeah.  /'],yeah  ,b,FEMALE,2
+['that is neat. /'],that is neat ,ba,FEMALE,6
+['{c and } i guess i kind of consider shopping a hobby <laughter>. /'],c and  i guess i kind of consider shopping a hobby laughter ,sd,FEMALE,1
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['i do too. /'],i do too ,sd,FEMALE,1
+"['i just go out [ just to, + just to ] enjoy it and not --']",i just go out  just to  just to  enjoy it and not ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- really spend money sometimes,']", really spend money sometimes,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['just look. /'],just look ,+,FEMALE,0
+"['{c but }  you will probably find after your children get bigger, {f uh, } like when they want things like tricycles, toys, things that cost quite a lot in the store,  you can find that kind of stuff at garage sales for just a few  dollars. /']",c but   you will probably find after your children get bigger f uh  like when they want things like tricycles toys things that cost quite a lot in the store  you can find that kind of stuff at garage sales for just a few  dollars ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['we --'],we ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['-- bought some baby clothes, {d yeah, } last weekend at a garage sale. /']", bought some baby clothes d yeah  last weekend at a garage sale ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c so, } i am, - /']",c so  i am  ,sd,FEMALE,1
+['i have become a garage sale shopper. /'],i have become a garage sale shopper ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['{c and } it is fun. /'],c and  it is fun ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['on the weekends i drive around,  look to see, {d you know, } who is selling what.  /']",on the weekends i drive around  look to see d you know  who is selling what  ,sd,FEMALE,1
+['{c and } i found my little daughter some tap shoes for her tap class.'],c and  i found my little daughter some tap shoes for her tap class,sd,FEMALE,1
+['oh <laughter>. /'],oh laughter ,b,FEMALE,2
+"['and just, {d you know, } all kinds of things like that,  that you would probably pay thirty dollars for,  /']",and just d you know  all kinds of things like that  that you would probably pay thirty dollars for  ,+,FEMALE,0
+['{c and } i got them for two  dollars <laughter>. /'],c and  i got them for two  dollars laughter ,sd,FEMALE,1
+['wow!  /'],wow  ,ba,FEMALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['-- at a lot of places. /'], at a lot of places ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['it is.  /'],it is  ,aa,FEMALE,4
+"['[ it, + it ] does take more time.  /']", it  it  does take more time  ,sv,FEMALE,3
+"['{c but } i do not work,  /']",c but  i do not work  ,sd,FEMALE,1
+"['{c so, } {f uh, } that is something i have decided i am going to make sure my kids  [ have a, + have a ] happy growing up years  /']",c so  f uh  that is something i have decided i am going to make sure my kids   have a  have a  happy growing up years  ,sd,FEMALE,1
+"['{c and } <laughter>, -/']",c and  laughter ,%,FEMALE,5
+"['right,  /']",right  ,aa,FEMALE,4
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['i think that is important too.  /'],i think that is important too  ,sd,FEMALE,1
+['i am not --'],i am not ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- going to work --'], going to work ,+,FEMALE,0
+"['{d well, }']",d well ,ba,FEMALE,6
+['-- after the baby comes. /'], after the baby comes ,+,FEMALE,0
+"['{d well, } that is good. /']",d well  that is good ,+,FEMALE,0
+"['{d so, } i --']",d so  i ,sd,FEMALE,1
+"['i am glad, /']",i am glad ,ba,FEMALE,6
+"['-- guess, hopefully i will have more time for hobbies.  /']", guess hopefully i will have more time for hobbies  ,+,FEMALE,0
+['i do not know <laughter>. /'],i do not know laughter ,h,FEMALE,15
+"['{d well, } at first, when you first have a baby, [ you, + ] {f uh, } seems to take every moment of your time.  partly because you are not  used to, {d you know, } juggling your time around like that.  /']",d well  at first when you first have a baby  you   f uh  seems to take every moment of your time  partly because you are not  used to d you know  juggling your time around like that  ,sd,FEMALE,1
+"['{c but, }']",c but ,sv,FEMALE,3
+['right. /'],right ,aa,FEMALE,4
+"['eventually [ the, + ] [ you will, + you will ]  be doing lots of stuff.  /']",eventually  the    you will  you will   be doing lots of stuff  ,+,FEMALE,0
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but } i think, my husband is real into sports too.  /']",c but  i think my husband is real into sports too  ,sd,FEMALE,1
+['he plays on a t i softball team and the church softball team.  /'],he plays on a t i softball team and the church softball team  ,sd,FEMALE,1
+"['{c and } by the time he plays two games a week and i play a game a week, we go to lots of softball <laughter>. /']",c and  by the time he plays two games a week and i play a game a week we go to lots of softball laughter ,sd,FEMALE,1
+['wow!  /'],wow  ,ba,FEMALE,6
+['yeah  /'],yeah  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c but } the kids enjoy going because there's usually a lot of other kids for them to play with  /""]",c but  the kids enjoy going because theres usually a lot of other kids for them to play with  ,sd,FEMALE,1
+"['and [ we, + ] that is getting outside  and, {d you know, } doing things they like to do too.  /']",and  we   that is getting outside  and d you know  doing things they like to do too  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+['{c so } that is good.  /'],c so  that is good  ,ba,FEMALE,6
+"['a whole fam-, - /']",a whole fam  ,bf,FEMALE,20
+['your whole family can enjoy those hobbies. /'],your whole family can enjoy those hobbies ,bf,FEMALE,20
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['{c and } one other thing we are doing this year is, {f uh, } we bought wet and  wild passes. /']",c and  one other thing we are doing this year is f uh  we bought wet and  wild passes ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['we have never done that before,  /']",we have never done that before  ,sd,FEMALE,1
+['{c but } the kids are always wanting  to play in the water.  /'],c but  the kids are always wanting  to play in the water  ,sd,FEMALE,1
+"['{c and, } {f uh, } like you said, unless you have a pool in your backyard or  access to a good place to play, it is kind of hard.  /']",c and  f uh  like you said unless you have a pool in your backyard or  access to a good place to play it is kind of hard  ,sd,FEMALE,1
+"[""{c and, } {f uh, }  they have real good kiddie areas, {f uh, } at both of the wet and wild's around here.  /""]",c and  f uh   they have real good kiddie areas f uh  at both of the wet and wilds around here  ,sd,FEMALE,1
+"['{c so, } we are planning on going two or three times a week <laughter>. /']",c so  we are planning on going two or three times a week laughter ,sd,FEMALE,1
+"['{f oh, } wow.  /']",f oh  wow  ,ba,FEMALE,6
+['that will make the summer go by in a hurry. /'],that will make the summer go by in a hurry ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['i think it will. /'],i think it will ,sd,FEMALE,1
+['keep the kids busy. /'],keep the kids busy ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['{c because } my oldest daughter is in school,  /']",c because  my oldest daughter is in school  ,sd,FEMALE,1
+['{c and } she gets bored real fast when she is home with nothing to do. /'],c and  she gets bored real fast when she is home with nothing to do ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['{c so, } i think that will be a lot of fun. /']",c so  i think that will be a lot of fun ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['{c so } we are looking forward to that. /'],c so  we are looking forward to that ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{f uh, } do you consider yard work a hobby  at all  /']",f uh  do you consider yard work a hobby  at all  ,qy,FEMALE,7
+['{c or } is that just a chore?  <laughter>. /'],c or  is that just a chore  laughter ,qrr,FEMALE,33
+"['<laughter> {d well, } when i got married,  i thought it was going to be fun <laughter>. /']",laughter d well  when i got married  i thought it was going to be fun laughter ,sd,FEMALE,1
+['uh-huh  /'],uhhuh  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c but } my husband and i both, i think, consider it a chore.  /']",c but  my husband and i both i think consider it a chore  ,sd,FEMALE,1
+"[""it's, -/""]",its ,%,FEMALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+['our yard has had so many problems.  /'],our yard has had so many problems  ,sd,FEMALE,1
+['it has completely died out two times. /'],it has completely died out two times ,sd,FEMALE,1
+"['{f oh, } no. /']",f oh  no ,ba,FEMALE,6
+"['{c and, } {f uh, } we have had to start all over trying to plant grass.  /']",c and  f uh  we have had to start all over trying to plant grass  ,sd,FEMALE,1
+['{c so } it has become a chore <laughter>. /'],c so  it has become a chore laughter ,sd,FEMALE,1
+['huh.  /'],huh  ,b,FEMALE,2
+['do you and your husband like to work in the yard? /'],do you and your husband like to work in the yard ,qy,FEMALE,7
+"['{f oh, } {d well, } we like it once in a while but not as often as we have to do it <laughter>. /']",f oh  d well  we like it once in a while but not as often as we have to do it laughter ,arp_nd,FEMALE,34
+['yeah. /'],yeah ,b,FEMALE,2
+"['i like to put flowers out and, {d you know, }']",i like to put flowers out and d you know ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['a few little things like that.  /'],a few little things like that  ,+,FEMALE,0
+['{c but } as far as --'],c but  as far as ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- mowing every week, and finding time --']", mowing every week and finding time ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- to get all that stuff done,']", to get all that stuff done,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['it gets to be a chore. /'],it gets to be a chore ,+,FEMALE,0
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['that is true. /'],that is true ,aa,FEMALE,4
+['seems like sometimes hobbies do that.  /'],seems like sometimes hobbies do that  ,sv,FEMALE,3
+['they kind of take over and turn into work instead of --'],they kind of take over and turn into work instead of ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- fun. /'], fun ,+,FEMALE,0
+"['{d well, } that is how sewing.  /']",d well  that is how sewing  ,sd,FEMALE,1
+"['i love to sew,  /']",i love to sew  ,sd,FEMALE,1
+"['{c and, } {f uh, } i wish i had more time to do it.  /']",c and  f uh  i wish i had more time to do it  ,sd,FEMALE,1
+"['{c but } sometimes i will get started on a project and then finishing it is more of a chore than <laughter>, -/']",c but  sometimes i will get started on a project and then finishing it is more of a chore than laughter ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['if it does not go quite, quite right. /']",if it does not go quite quite right ,bf,FEMALE,20
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['another thing i enjoy doing is cooking.  /'],another thing i enjoy doing is cooking  ,sd,FEMALE,1
+"['[ i, + i ] like especially, - /']", i  i  like especially  ,sd,FEMALE,1
+"['it is real strange,  /']",it is real strange  ,sd,FEMALE,1
+['{c but } i like to cook for other people.  /'],c but  i like to cook for other people  ,sd,FEMALE,1
+"['{d like } i have a friend that is, {f uh, } pregnant  /']",d like  i have a friend that is f uh  pregnant  ,sd,FEMALE,1
+"[""{c but } she can't get up and walk around right now. /""]",c but  she cant get up and walk around right now ,sd,FEMALE,1
+"['{f oh, } no. /']",f oh  no ,ba,FEMALE,6
+"['{d so, } i enjoy, {d you know, } cooking things to take over to her house  /']",d so  i enjoy d you know  cooking things to take over to her house  ,sd,FEMALE,1
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['{f oh, } that is nice. /']",f oh  that is nice ,ba,FEMALE,6
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{c and } [ it, + it ] is fun for me to  do that.  /']",c and   it  it  is fun for me to  do that  ,sd,FEMALE,1
+"['[ it is, + it is ] something i enjoy doing.  /']", it is  it is  something i enjoy doing  ,sd,FEMALE,1
+"['it is funny though, it is like i do not really want to cook for us <laughter>. /']",it is funny though it is like i do not really want to cook for us laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""it is kind of like when you are a kid [ and, + and ]  someone else's house was fun to clean,  /""]",it is kind of like when you are a kid  and  and   someone elses house was fun to clean  ,sv,FEMALE,3
+['{c but } --'],c but  ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['your, -/']",your ,%,FEMALE,5
+['-- you did not want to do your own <laughter>. /'], you did not want to do your own laughter ,+,FEMALE,0
+['<laughter> how funny.  /'],laughter how funny  ,ba,FEMALE,6
+"['i think i will enjoy cooking more when i am not working, when i --']",i think i will enjoy cooking more when i am not working when i ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- do not get home until five-thirty or six, and i have to cook and clean up, /']", do not get home until fivethirty or six and i have to cook and clean up ,+,FEMALE,0
+"['{f oh, } yeah. /']",f oh  yeah ,aa,FEMALE,4
+"['[ it is not, + it is not ] fun.  /']", it is not  it is not  fun  ,sd,FEMALE,1
+['{c but } i think  i will like it better. /'],c but  i think  i will like it better ,sd,FEMALE,1
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['when you are home --'],when you are home ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- [ it's, + ] it makes a difference.  /""]",  its   it makes a difference  ,+,FEMALE,0
+['it sure does. /'],it sure does ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d well, } do you guys go camping or anything like that? /']",d well  do you guys go camping or anything like that ,qy,FEMALE,7
+"['{f uh, } yeah,  /']",f uh  yeah  ,ny,FEMALE,9
+['we have done a little bit of camping.  /'],we have done a little bit of camping  ,sd,FEMALE,1
+['we like that.  /'],we like that  ,sd,FEMALE,1
+"[""it's, - /""]",its  ,%,FEMALE,5
+"['there again, it is just so hard to find time to get away --']",there again it is just so hard to find time to get away ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- for a whole weekend. /'], for a whole weekend ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } that is something that we are planning to do not this weekend, but the next.  /']",d well  that is something that we are planning to do not this weekend but the next  ,sd,FEMALE,1
+"['my parents go camping a lot,  /']",my parents go camping a lot  ,sd,FEMALE,1
+['{c and } they invited  the kids and my husband and me to go with them  /'],c and  they invited  the kids and my husband and me to go with them  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['oh.   /'],oh   ,b,FEMALE,2
+['that sounds fun. /'],that sounds fun ,ba,FEMALE,6
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['we are really looking forward to it.  /'],we are really looking forward to it  ,sd,FEMALE,1
+['the girls love it.  /'],the girls love it  ,sd,FEMALE,1
+"['they have been a couple of times, and, {f uh, } just getting to  be outside, {d you know, } all the time and sleep in a tent.  [ and + ] that is really fun to them.  /']",they have been a couple of times and f uh  just getting to  be outside d you know  all the time and sleep in a tent   and   that is really fun to them  ,sd,FEMALE,1
+"['{c so, }']",c so ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['we are looking forward to that. /'],we are looking forward to that ,+,FEMALE,0
+"['{d well, } that sounds nice.  /']",d well  that sounds nice  ,ba,FEMALE,6
+"['[ i, + i ]  think that would be a good family thing --']", i  i   think that would be a good family thing ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['i --'],i ,sd,FEMALE,1
+['-- to start doing --'], to start doing ,+,FEMALE,0
+['-- think so. /'], think so ,+,FEMALE,0
+['-- more often. /'], more often ,+,FEMALE,0
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['[ my, + {f uh, } my ] husband loves to fish.  /']", my  f uh  my  husband loves to fish  ,sd,FEMALE,1
+"['i am not much into fishing,  /']",i am not much into fishing  ,sd,FEMALE,1
+"['{c but, } {f uh, } my daughter thinks she wants to learn how to fish  /']",c but  f uh  my daughter thinks she wants to learn how to fish  ,sd,FEMALE,1
+['{c so } --'],c so  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- i think it will be real good for them <laughter>. /'], i think it will be real good for them laughter ,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+['they can go fishing. /'],they can go fishing ,sd,FEMALE,1
+"['yeah, /']",yeah ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['we have camped with some friends who have young children  /'],we have camped with some friends who have young children  ,sd,FEMALE,1
+"['{c and, }']",c and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } if you can find some place where those little sunfish are right around the shore where they can just pull in a line. /']",f uh  if you can find some place where those little sunfish are right around the shore where they can just pull in a line ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f oh, } they have so much fun doing that. /']",f oh  they have so much fun doing that ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['{c and } they think they are really great fishermen --'],c and  they think they are really great fishermen ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['-- because they are catching so many <laughter>. /'], because they are catching so many laughter ,+,FEMALE,0
+"['{f oh, } i know.  /']",f oh  i know  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{f uh, } she is really looking  forward.  /']",f uh  she is really looking  forward  ,sd,FEMALE,1
+"['i am hoping, - /']",i am hoping  ,sd,FEMALE,1
+"['that is another thing though, when sometimes your, {f uh, } hobbies  can interfere with each other. /']",that is another thing though when sometimes your f uh  hobbies  can interfere with each other ,sd,FEMALE,1
+['{c because } my husband is afraid he is going to have a softball tournament that weekend. /'],c because  my husband is afraid he is going to have a softball tournament that weekend ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c and } i am saying, no, no <laughter>. /']",c and  i am saying no no laughter ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['skip this tournament <laughter>. /'],skip this tournament laughter ,bf,FEMALE,20
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['if you are doing a lot of things, sometimes you have conflicts,  /']",if you are doing a lot of things sometimes you have conflicts  ,sv,FEMALE,3
+['{c and } you have to decide what you enjoy the most. /'],c and  you have to decide what you enjoy the most ,sv,FEMALE,3
+['right. /'],right ,aa,FEMALE,4
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+['do you do any other crafts or anything besides your sewing? /'],do you do any other crafts or anything besides your sewing ,qy,FEMALE,7
+"['{d well, } not really right now.  /']",d well  not really right now  ,ng,FEMALE,29
+"['i keep thinking  when the kids get bigger and i have a little more time, {f uh, } [ i might take up, + ]  [ there is, + ] i would love to cross-stitch.  /']",i keep thinking  when the kids get bigger and i have a little more time f uh   i might take up     there is   i would love to crossstitch  ,sd,FEMALE,1
+"['i think cross-stitching is so pretty,  /']",i think crossstitching is so pretty  ,sv,FEMALE,3
+['{c but } i have never done any. /'],c but  i have never done any ,sd,FEMALE,1
+['it is not too hard.   /'],it is not too hard   ,sv,FEMALE,3
+"['it is, -/']",it is ,%,FEMALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+['i do not think it is as hard as {d like } knitting or --'],i do not think it is as hard as d like  knitting or ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- crochet or something like that. /'], crochet or something like that ,+,FEMALE,0
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['[ i, + i ] crocheted when i was  younger.  /']", i  i  crocheted when i was  younger  ,sd,FEMALE,1
+"['it is funny, when i was in high school, i made a blanket.  /']",it is funny when i was in high school i made a blanket  ,sd,FEMALE,1
+"['{c and, } - /']",c and   ,%,FEMALE,5
+"[""{c but } {d you know, }  i can't even remember how i did it now <laughter>. /""]",c but  d you know   i cant even remember how i did it now laughter ,sd,FEMALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['it has been so long since i did it that  /'],it has been so long since i did it that  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['i started [ to s-, + ] to knit a sweater. /']",i started  to s   to knit a sweater ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } i got off on my rows somehow,  /']",c and  i got off on my rows somehow  ,sd,FEMALE,1
+['{c and so }  what should have been the back all of a sudden was on the front. /'],c and so   what should have been the back all of a sudden was on the front ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+['{c and then } i tore it out and threw it down.  /'],c and then  i tore it out and threw it down  ,sd,FEMALE,1
+"['<laughter> {c and } i never have,']",laughter c and  i never have,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['picked it back up again,  /']",picked it back up again  ,+,FEMALE,0
+"[""{c and } now i can't remember anything about it <laughter>. /""]",c and  now i cant remember anything about it laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } i did the same thing.  /']",d well  i did the same thing  ,sd,FEMALE,1
+"['{f uh, }  when i was pregnant with my first daughter, i was really bored,  /']",f uh   when i was pregnant with my first daughter i was really bored  ,sd,FEMALE,1
+['{c and } i bought one of those latch hook rug kits. /'],c and  i bought one of those latch hook rug kits ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+['it was a real pretty rug.  /'],it was a real pretty rug  ,sd,FEMALE,1
+"['{c and } i thought, {d well }  i could use this as a gift or something, {d you know. }  /']",c and  i thought d well   i could use this as a gift or something d you know   ,sd,FEMALE,1
+"['{c and } {f oh, } <sigh>  it was so, - /']",c and  f oh  sigh  it was so  ,sd,FEMALE,1
+"['it was beautiful,  /']",it was beautiful  ,sd,FEMALE,1
+['{c but } i did not realize how long it took.  /'],c but  i did not realize how long it took  ,sd,FEMALE,1
+"['{c and } i got about  [ two, + two-thirds ] of it done, /']",c and  i got about   two  twothirds  of it done ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c and then } i just, - /']",c and then  i just  ,sd,FEMALE,1
+['i had the baby <laughter>. /'],i had the baby laughter ,sd,FEMALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['{c and then } it was just like --'],c and then  it was just like ,sd,FEMALE,1
+['forget it. /'],forget it ,^2,FEMALE,23
+['-- i forgot all about it.  /'], i forgot all about it  ,+,FEMALE,0
+"['{c and } every once in a  while i will be digging through the closet,  /']",c and  every once in a  while i will be digging through the closet  ,sd,FEMALE,1
+['{c and } i will find that thing.  /'],c and  i will find that thing  ,sd,FEMALE,1
+"['{c and } i will think, {f oh, } maybe i ought to get the rest of that out, {d you know, } and finish it. /']",c and  i will think f oh  maybe i ought to get the rest of that out d you know  and finish it ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but, } {f uh, } for a while there latch hook rugs were a real big, {f uh, } hobby. /']",c but  f uh  for a while there latch hook rugs were a real big f uh  hobby ,sd,FEMALE,1
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['i remember that. /'],i remember that ,sd,FEMALE,1
+['it seemed like people did them a lot. /'],it seemed like people did them a lot ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f uh, } {f uh, } people do not do that much any more.  /']",f uh  f uh  people do not do that much any more  ,sd,FEMALE,1
+"['{c so, } it was something easy i could do <laughter>. /']",c so  it was something easy i could do laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+['they are pretty easy. /'],they are pretty easy ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d well, } it has been real good talking to you. /']",d well  it has been real good talking to you ,fc,FEMALE,10
+['yeah.  /'],yeah  ,fc,FEMALE,10
+['you too. /'],you too ,fc,FEMALE,10
+['{c and } i hope you enjoy your camping trip. /'],c and  i hope you enjoy your camping trip ,fc,FEMALE,10
+"['{f oh, } thank you.  /']",f oh  thank you  ,ft,FEMALE,43
+['{c and } thanks for calling. /'],c and  thanks for calling ,ft,FEMALE,43
+"['uh-huh.  / *[[used to mean ""you\'re welcome""]]']",uhhuh   used to mean youre welcome,"fo_o_fw_""_by_bc",FEMALE,0
+['bye. /'],bye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

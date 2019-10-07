@@ -1,0 +1,182 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<throat_clearing> hello. /'],throatclearing hello ,fp,MALE,32
+['hello.  /'],hello  ,fp,FEMALE,32
+['my name is nola.  /'],my name is nola  ,fp,FEMALE,32
+"[""i'm in plano, <<pause>> texas. /""]",im in plano pause texas ,fp,FEMALE,32
+"['hi nola,  /']",hi nola  ,fp,MALE,32
+"[""i'm steve.  /""]",im steve  ,fp,MALE,32
+"[""i'm in dallas, texas. /""]",im in dallas texas ,fp,MALE,32
+['not too far away. /'],not too far away ,sv,FEMALE,3
+"['no,  /']",no  ,aa,MALE,4
+"[""that's unusual. /""]",thats unusual ,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"['<noise> seems like # usually, # -/']",noise seems like  usually  ,sv,MALE,3
+"[""# i've # had some from plano, too. /""]", ive  had some from plano too ,sd,FEMALE,1
+['{f oh } yeah. <rustling> <<paper shuffling>>  /'],f oh  yeah rustling paper shuffling  ,b,MALE,2
+['i think all mine have been east coast people so far <lipsmack> <sigh>. /'],i think all mine have been east coast people so far lipsmack sigh ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['# okay # -- /'], okay   ,b,FEMALE,2
+"['# {d so, }  # -/']", d so    ,%,MALE,5
+"[""-- {f um, } let's see. /""]", f um  lets see ,^h,FEMALE,27
+"['[ s-, + social ] changes, /']", s  social  changes ,sd,MALE,1
+['social changes. /'],social changes ,b,FEMALE,2
+"[""what's that mean? <noise>. /""]",whats that mean noise ,qw,MALE,12
+"['that sounds like not as recent social changes, too,  {d like } back to the sixties or fifties, i guess <noise>. /']",that sounds like not as recent social changes too  d like  back to the sixties or fifties i guess noise ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['<noise> think we can handle that? /'],noise think we can handle that ,qy,FEMALE,7
+['yeah. /'],yeah ,b,MALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i definitely, - /']",i definitely  ,%,MALE,5
+"[""{e i mean }    there's plenty of things to talk about there.   /""]",e i mean     theres plenty of things to talk about there   ,sv,MALE,3
+"[""<noise> that's a, -/""]",noise thats a ,%,MALE,5
+"['<laughter>  okay, {f uh, }  /']",laughter  okay f uh   ,b,FEMALE,2
+['shall i go ahead and push one? /'],shall i go ahead and push one ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+['sure. /'],sure ,na,MALE,21
+['okay <tone> <<telephone tone>>.  /'],okay tone telephone tone  ,aa,FEMALE,4
+['you want to go ahead and start? <noise>. /'],you want to go ahead and start noise ,qy,FEMALE,7
+"['{f uh, } i was hoping that you would  /']",f uh  i was hoping that you would  ,sd,MALE,1
+"['{c but, }  # {f oh, } # -/']",c but    f oh   ,%,MALE,5
+['# oh # <laughter>. /'], oh  laughter ,b,FEMALE,2
+"['<laughter> in social changes is that, - /']",laughter in social changes is that  ,sd,MALE,1
+"['{f uh, } it seems to me that,  {f uh, } -/']",f uh  it seems to me that  f uh  ,sv,MALE,3
+['# that involves # --'], that involves  ,sv,FEMALE,3
+"['# does that, # -/']", does that  ,%,MALE,5
+['-- a lot of different --'], a lot of different ,+,FEMALE,0
+"['[ y-, +']", y ,aa,MALE,4
+"['-- areas, # i think. # /']", areas  i think  ,+,FEMALE,0
+['# yeah. ] #  /'], yeah    ,+,MALE,0
+"['like a lot,  /']",like a lot  ,sv,MALE,3
+"['it seems like  the rich are getting richer and the poor are getting poorer, is even more,']",it seems like  the rich are getting richer and the poor are getting poorer is even more,sv,MALE,3
+['<noise>.'],noise,x,FEMALE,8
+['true today.  {d you know? } /'],true today  d you know  ,+,MALE,0
+"['<lipsmack> yeah,  /']",lipsmack yeah  ,aa,FEMALE,4
+['there is [ a -- +'],there is  a  ,sv,FEMALE,3
+"['s-, -/']",s ,%,MALE,5
+"['-- a ] big difference in the, {f uh, }  economic, {f um, } status of, {f uh, } people although i think that has been true, {f uh, } always.  /']", a  big difference in the f uh   economic f um  status of f uh  people although i think that has been true f uh  always  ,+,FEMALE,0
+"[""{f um, } <<pause>> perhaps there's less of the middle range then there was. /""]",f um  pause perhaps theres less of the middle range then there was ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""it's like people are starting to  give up hope  /""]",its like people are starting to  give up hope  ,sv,MALE,3
+['{c and } they start out very poor.  /'],c and  they start out very poor  ,sv,MALE,3
+"[""let's see,  /""]",lets see  ,^h,MALE,27
+"[""that's a bad tangent to get on.  /""]",thats a bad tangent to get on  ,sv,MALE,3
+['what else has changed between the sixties and the eighties --'],what else has changed between the sixties and the eighties ,qh,MALE,26
+"['<lipsmack> # {f uh, } # /']",lipsmack  f uh   ,%,FEMALE,5
+['-- # and # the nineties?  /'],  and  the nineties  ,+,MALE,0
+['no. /'],no ,"fo_o_fw_""_by_bc",MALE,0
+"['i think, {f uh, } [ m-, + <<pause>> in my ]  situation, - /']",i think f uh   m  pause in my   situation  ,sd,FEMALE,1
+['i have three children  /'],i have three children  ,sd,FEMALE,1
+"[""{c and } we're, {f uh, } home schooling.  /""]",c and  were f uh  home schooling  ,sd,FEMALE,1
+"['{c so, }  [ education, +  {d you know, } things that relate [ t-, + to ] education, ] {f um, } <sigh> are things that  i think about a lot.  /']",c so    education   d you know  things that relate  t  to  education  f um  sigh are things that  i think about a lot  ,sd,FEMALE,1
+"['{f um, } <lipsmack>  [ i think that, + {c and } i think that ]  involves social changes a lot.  /']",f um  lipsmack   i think that  c and  i think that   involves social changes a lot  ,sv,FEMALE,3
+"['{f uh, } for instance <noise>, i think the schools are having more and  more problems because of, {f uh, } things that are happening socially in the world around them  and [ [ in, + in, ]  t-, + ] because of their parents  /']",f uh  for instance noise i think the schools are having more and  more problems because of f uh  things that are happening socially in the world around them  and   in  in   t   because of their parents  ,sv,FEMALE,3
+"['{c and } things that  are being taught in the home are not taught in the home, rather. more not than are.   and children being put in day-care centers from very early, - /']",c and  things that  are being taught in the home are not taught in the home rather more not than are   and children being put in daycare centers from very early  ,sv,FEMALE,3
+"['[ {c and, } + {c and } ] i think that a lot of these things that have been happening, such as the day-care centers  and things, are having a big effect on the social changes.  /']", c and   c and   i think that a lot of these things that have been happening such as the daycare centers  and things are having a big effect on the social changes  ,sv,FEMALE,3
+"[""because of the way children are being raised, they're not learning the values they need to learn. /""]",because of the way children are being raised theyre not learning the values they need to learn ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and } [ they're not, + {f um, } [ th-, + they ] don't ]  have the self-esteem that they need to have  /""]",c and   theyre not  f um   th  they  dont   have the selfesteem that they need to have  ,sv,FEMALE,3
+"[""{c and } they don't have [ the, + {f um, } a ]  solid family life that they need to have to confidently [ and + ] deal with the things in the world.  /""]",c and  they dont have  the  f um  a   solid family life that they need to have to confidently  and   deal with the things in the world  ,sv,FEMALE,3
+"[""{c and, }  {f uh, } i think we're seeing a lot of rebellion and things because of that   and the things like  the [ gang, + gang ] things that are happening  /""]",c and   f uh  i think were seeing a lot of rebellion and things because of that   and the things like  the  gang  gang  things that are happening  ,sv,FEMALE,3
+"['[ {c and, } +  {c and, } ]  {f um } <lipsmack>, -/']", c and    c and    f um  lipsmack ,%,FEMALE,5
+['yeah.  /'],yeah  ,aa,MALE,4
+"['it seems, so that, - /']",it seems so that  ,sv,MALE,3
+"['yeah,  /']",yeah  ,%,MALE,5
+['that is a pretty big change.  /'],that is a pretty big change  ,sv,MALE,3
+"['it seems, even not just single parent families but with no guidance - /']",it seems even not just single parent families but with no guidance  ,sv,MALE,3
+"['{c but }  it seems like,']",c but   it seems like,sv,MALE,3
+['<noise>.'],noise,x,FEMALE,8
+"[""some of these even ladies [ that, + that'll ] work and have,""]",some of these even ladies  that  thatll  work and have,+,MALE,0
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['# a baby # and then, {d you know, }  after two or three months,']", a baby  and then d you know   after two or three months,+,MALE,0
+['<noise>.'],noise,x,FEMALE,8
+['go back to work.'],go back to work,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""# {f oh } it's, # -/""]", f oh  its  ,%,FEMALE,5
+"['# {d you know, } #  /']", d you know    ,+,MALE,0
+"[""{d well } [ [ that, + that, ] +  {e i mean } that's ] very, young for # a baby. # /""]",d well    that  that    e i mean  thats  very young for  a baby  ,sv,MALE,3
+"[""# that's # really sad.  /""]", thats  really sad  ,sv,FEMALE,3
+"['i think that a lot of  people, - /']",i think that a lot of  people  ,sv,FEMALE,3
+['{c and } they think they have to #  /'],c and  they think they have to   ,sv,FEMALE,3
+"['{c but, }  # -/']",c but    ,%,FEMALE,5
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""[ i, + i ] think that if they really tried,  they wouldn't have to. #  /""]", i  i  think that if they really tried  they wouldnt have to   ,sv,FEMALE,3
+"['{c and, }  #']",c and   ,sv,FEMALE,3
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""[ i, + i ] think that if they didn't [ that, + ]   and it became more of the standard not to that, {f uh, } i don't know maybe companies  would start paying men more so that their wives could stay home.  # {d you # --""]", i  i  think that if they didnt  that     and it became more of the standard not to that f uh  i dont know maybe companies  would start paying men more so that their wives could stay home   d you  ,+,FEMALE,0
+['# yeah. # /'], yeah  ,b,MALE,2
+"['-- know? }  and have a more solid,  {f uh, } foundation for the kids. /']", know   and have a more solid  f uh  foundation for the kids ,+,FEMALE,0
+['<noise> yeah.  /'],noise yeah  ,b,MALE,2
+"[""{e i mean } they're going to, - /""]",e i mean  theyre going to  ,sv,MALE,3
+"[""{d like } you said, {e i mean, } [ there's, + they might ] be saving money,  /""]",d like  you said e i mean   theres  they might  be saving money  ,sv,MALE,3
+"[""{e i mean } even if  they had to pay more now,  {e i mean } in the long run it's going to cost society more to --""]",e i mean  even if  they had to pay more now  e i mean  in the long run its going to cost society more to ,sv,MALE,3
+"[""that's # right. # /""]",thats  right  ,aa,FEMALE,4
+['-- # force # two people to work. even though --'],  force  two people to work even though ,+,MALE,0
+"[""# [ it's already, # +""]",  its already  ,sv,FEMALE,3
+"[""-- # it's higher # productivity is short-term. /""]",  its higher  productivity is shortterm ,+,MALE,0
+['it already ] costs society much more because of it.  /'],it already  costs society much more because of it  ,+,FEMALE,0
+"['{d you know } it, - /']",d you know  it  ,sv,FEMALE,3
+"[""trying to do all these programs like headstart and things like those.    you wouldn't have to do that if mothers would stay home with  their children and do things with them, {d you know. } /""]",trying to do all these programs like headstart and things like those    you wouldnt have to do that if mothers would stay home with  their children and do things with them d you know  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""{f um, } there's, - /""]",f um  theres  ,%,FEMALE,5
+"['{c and } i think, {f uh, }  a lot of it is selfishness.  /']",c and  i think f uh   a lot of it is selfishness  ,sv,FEMALE,3
+['people have become very selfish.  /'],people have become very selfish  ,sv,FEMALE,3
+"[""they don't want to stay home with the kids --""]",they dont want to stay home with the kids ,sv,FEMALE,3
+"['[ y-, + yeah ] <breathing>. /']", y  yeah  breathing ,b,MALE,2
+['-- or something like that.  /'], or something like that  ,+,FEMALE,0
+"[""there are a lot  of two parent, {f um, } <noise> <<pause>> situations where the woman goes back to work  because that's what she wants to do, <noise> {d you know. } /""]",there are a lot  of two parent f um  noise pause situations where the woman goes back to work  because thats what she wants to do noise d you know  ,sv,FEMALE,3
+['{f oh } rather than she needs the money --'],f oh  rather than she needs the money ,^2,MALE,23
+"['# rather than that, #']", rather than that ,sv,FEMALE,3
+['-- # just she wants the # --'],  just she wants the  ,+,MALE,0
+['she has to have the money # particularly. # /'],she has to have the money  particularly  ,+,FEMALE,0
+['-- # stimulating # environment <noise>. /'],  stimulating  environment noise ,+,MALE,0
+"[""<noise> {c or, }  maybe there's a small  need for money  /""]",noise c or   maybe theres a small  need for money  ,sv,FEMALE,3
+"['{c so } she does it partly because of the money but partly for herself, too <noise>.']",c so  she does it partly because of the money but partly for herself too noise,sv,FEMALE,3
+"['# {f huh. }  it, # -/']", f huh   it  ,%,MALE,5
+"['# {d you know, } # /']", d you know   ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"[""it's interesting [ how, +  w-, ]  {f uh, } - /""]",its interesting  how   w   f uh   ,sv,MALE,3
+['home study.     is that what you # said? # /'],home study     is that what you  said  ,qy,MALE,7
+['# home # school. /'], home  school ,sd,FEMALE,1
+['home school. /'],home school ,b^m,MALE,24
+['<lipsmack> yeah. /'],lipsmack yeah ,aa,FEMALE,4
+"['[ is that, + {f uh, } [ is, + is ] it ]  like, {f uh, } a preschool level then or  # through # --']", is that  f uh   is  is  it   like f uh  a preschool level then or   through  ,qy,MALE,7
+['# no. # /'], no  ,nn,FEMALE,13
+"['-- grade school # or, # -/']", grade school  or  ,+,MALE,0
+"['# [ i # + , i ] have, {f uh, } one going into  fourth grade and one starting kindergarten and then a preschooler.']",  i    i  have f uh  one going into  fourth grade and one starting kindergarten and then a preschooler,sd,FEMALE,1
+"['# {f oh } i s-, # -/']", f oh  i s  ,%,MALE,5
+['# and # one on the way <laughter>. /'], and  one on the way laughter ,+,FEMALE,0
+"['{f oh, } {d well } you sound busy <laughter>.  /']",f oh  d well  you sound busy laughter  ,sv,MALE,3
+"[""{c so } you're teaching them,""]",c so  youre teaching them,qy^d,MALE,16
+['yes. /'],yes ,ny,FEMALE,9
+"['completely <<very faintly>>, /']",completely very faintly ,+,MALE,0
+['yes. /'],yes ,ny,FEMALE,9
+['{f huh. } /'],f huh  ,b,MALE,2
+"[""{c and } i think, {f uh, } it's becoming,  {f uh, } more popular then it has been for a while, i think.  /""]",c and  i think f uh  its becoming  f uh  more popular then it has been for a while i think  ,sv,FEMALE,3
+"[""home schooling's always been   around  /""]",home schoolings always been   around  ,sd,FEMALE,1
+"['{c but, }  {f uh, } i can see more and more families going to it because  of the problems in the schools.   <noise>  /']",c but   f uh  i can see more and more families going to it because  of the problems in the schools   noise  ,sd,FEMALE,1
+"['{f um, } {c and } a lot of it is discipline problems. /']",f um  c and  a lot of it is discipline problems ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['a lot of it is,  /']",a lot of it is  ,sv,FEMALE,3
+['{c and } you can tell which kids  have been in day-care centers.  /'],c and  you can tell which kids  have been in daycare centers  ,sv,FEMALE,3
+"[""[ it, + it's ] really obvious to look at them  and watch the way they act and things.""]", it  its  really obvious to look at them  and watch the way they act and things,sv,FEMALE,3
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""# that,  # {f um, } <lipsmack> they've   been raised in a day-care center. /""]", that   f um  lipsmack theyve   been raised in a daycare center ,+,FEMALE,0
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""that's pretty sad because,  {e i mean, } i don't know, something's got to change with the schools.  /""]",thats pretty sad because  e i mean  i dont know somethings got to change with the schools  ,sv,MALE,3
+"[""that's what it all  boils down to in the end, usually anyway. /""]",thats what it all  boils down to in the end usually anyway ,sv,MALE,3
+"[""<lipsmack> {d well, } i think # it's going to, #""]",lipsmack d well  i think  its going to ,sv,FEMALE,3
+"[""# when they're young, # -/""]", when theyre young  ,bf,MALE,20
+['change in the homes before anything --'],change in the homes before anything ,+,FEMALE,0
+['yeah <<very faint>>. /'],yeah very faint ,b,MALE,2
+['-- changes anywhere else.  /'], changes anywhere else  ,+,FEMALE,0
+"['the home  is the base,  /']",the home  is the base  ,sv,FEMALE,3
+"[""it's the basic unit.  /""]",its the basic unit  ,sv,FEMALE,3
+"[""{c and } that's [ the, + ] where it  all starts  /""]",c and  thats  the   where it  all starts  ,sv,FEMALE,3
+"[""{c and } if we don't start making changes in the homes - /""]",c and  if we dont start making changes in the homes  ,sv,FEMALE,3
+['{c and } <noise> maybe part of that is educating parents better. /'],c and  noise maybe part of that is educating parents better ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['{c and } educating, {f uh, } {d you know } <sigh>, -/']",c and  educating f uh  d you know  sigh ,%,FEMALE,5
+"[""# changing people's expectations. # /""]", changing peoples expectations  ,bf,MALE,20
+"['# i know [ they do do some, # +  they do have some ] classes in,  {f um, } high schools <lipsmack> and things for kids to, {f uh, } give them  an idea of what <<pause>> family life is like [ and the, + {f uh, } {d you know, }  and, {f uh, } that ] kind of thing  /']", i know  they do do some    they do have some  classes in  f um  high schools lipsmack and things for kids to f uh  give them  an idea of what pause family life is like  and the  f uh  d you know   and f uh  that  kind of thing  ,sd,FEMALE,1
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,FEMALE,5

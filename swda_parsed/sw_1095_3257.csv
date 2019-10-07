@@ -1,0 +1,154 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['what do you like to watch on television  ((   )) ? /'],what do you like to watch on television       ,qw,FEMALE,12
+"['{d well, } i guess a lot of the, {f uh, } - /']",d well  i guess a lot of the f uh   ,sd,FEMALE,1
+"[""something that's kind of more of a comedy.  /""]",something thats kind of more of a comedy  ,sd,FEMALE,1
+"['we do have, {f uh, } cable,  /']",we do have f uh  cable  ,sd,FEMALE,1
+"['{c and }   we have premium stations like h b o and showtime and such,  /']",c and    we have premium stations like h b o and showtime and such  ,sd,FEMALE,1
+"['{c and } i guess a lot of times when i first turn the t v on, [ i, + i ]  normally go to those, because i pay for them <laughter> -- /']",c and  i guess a lot of times when i first turn the t v on  i  i   normally go to those because i pay for them laughter  ,sd,FEMALE,1
+['yes <laughter>. /'],yes laughter ,b,FEMALE,2
+"[""-- i guess [ i, + i ]  want to see if there's anything i really want to see there, so i don't end up watching the, {f um, } prime time on some of the standard channels as much, i tend to go to my premium channels first, /""]", i guess  i  i   want to see if theres anything i really want to see there so i dont end up watching the f um  prime time on some of the standard channels as much i tend to go to my premium channels first ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{d well }  we have cable,  /']",d well   we have cable  ,sd,FEMALE,1
+"['{c but } we only have cinemax,  /']",c but  we only have cinemax  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } i think our favorite  night is, {f uh, } monday night,  /']", f uh  i think our favorite  night is f uh  monday night  ,+,FEMALE,0
+['{c and } we start out with evening shade --'],c and  we start out with evening shade ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and major dad,  /']", and major dad  ,+,FEMALE,0
+['{c and } --'],c and  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- i think that's the one night that we really try to watch television.  /""]", i think thats the one night that we really try to watch television  ,+,FEMALE,0
+['{d you know } --'],d you know  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- my husband's always got it on.  /""]", my husbands always got it on  ,+,FEMALE,0
+"[""i'm not always sitting down,  /""]",im not always sitting down  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"[""monday night's pretty good with murphy brown --""]",monday nights pretty good with murphy brown ,sv,FEMALE,3
+['yes. /'],yes ,aa,FEMALE,4
+['-- and designing women. /'], and designing women ,+,FEMALE,0
+"['yes,  /']",yes  ,aa,FEMALE,4
+['yes.  /'],yes  ,aa,FEMALE,4
+"['[ i just, + i love ]  [ that, + [ all those, + ] that ] two hours -- /']", i just  i love    that   all those   that  two hours  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {f uh, } now tonight i just finished  up with that a woman called jackie,  /']", c and  f uh  now tonight i just finished  up with that a woman called jackie  ,sd,FEMALE,1
+['[ did you watch + --'], did you watch  ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- did you watch ] it? /'], did you watch  it ,+,FEMALE,0
+"['we had watched it, {f uh, } i guess sunday  night and monday night,  /']",we had watched it f uh  i guess sunday  night and monday night  ,na,FEMALE,21
+"[""{c but } we didn't get to watch it tonight. /""]",c but  we didnt get to watch it tonight ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ it, + it ]  was pretty good,  /']", it  it   was pretty good  ,sv,FEMALE,3
+"['[ it, + ] {f uh, } sometimes i like a dramatization,  /']", it   f uh  sometimes i like a dramatization  ,sd,FEMALE,1
+"['{c and } i like, {f uh, } u s a,  when they had their, {f uh, } {f uh, } mystery movies and things, their --']",c and  i like f uh  u s a  when they had their f uh  f uh  mystery movies and things their ,sd,FEMALE,1
+['uh-huh./'],uhhuh,b,FEMALE,2
+['-- made for t v movies -- /'], made for t v movies  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {f uh, } i like those.  /']", c and  f uh  i like those  ,sd,FEMALE,1
+"['we very seldom watch any, {f uh, } public television, channel thirteen.  /']",we very seldom watch any f uh  public television channel thirteen  ,sd,FEMALE,1
+['do you watch it much? /'],do you watch it much ,qy,FEMALE,7
+"[""the only night we tend to watch some of that is on sunday nights, starting fairly late, {d like } i'm talking  ten o'clock and  maybe toward midnight.  /""]",the only night we tend to watch some of that is on sunday nights starting fairly late d like  im talking  ten oclock and  maybe toward midnight  ,sd,FEMALE,1
+['they have some british comedy --'],they have some british comedy ,sv,FEMALE,3
+['yes. /'],yes ,b,FEMALE,2
+"[""-- that [ we've, + we've ] really liked,  /""]", that  weve  weve  really liked  ,+,FEMALE,0
+"[""{c and } there's a variety.  /""]",c and  theres a variety  ,sd,FEMALE,1
+"['some of them is, {f uh, } black adder or good neighbors or yes, prime minister and are you being served? /']",some of them is f uh  black adder or good neighbors or yes prime minister and are you being served ,qy^d,FEMALE,16
+['<laughter>.'],laughter,x,FEMALE,8
+"['[ they, + they ] rotate those around,  /']", they  they  rotate those around  ,sd,FEMALE,1
+"['{c and, } {f um, } we like that british comedy.   /']",c and  f um  we like that british comedy   ,sd,FEMALE,1
+"['british comedy is very fast,  /']",british comedy is very fast  ,sv,FEMALE,3
+['you really have to --'],you really have to ,sv,FEMALE,3
+['yes --'],yes ,aa,FEMALE,4
+['-- listen -- /'], listen  ,+,FEMALE,0
+['-- {c but. } -/'], c but  ,%,FEMALE,5
+"[""now we haven't watched any of those. /""]",now we havent watched any of those ,sd,FEMALE,1
+"[""they're real good,  /""]",theyre real good  ,sv,FEMALE,3
+"['{c but } they do come on  kind of late,  /']",c but  they do come on  kind of late  ,sv,FEMALE,3
+['{c but } we really do enjoy those.  /'],c but  we really do enjoy those  ,sd,FEMALE,1
+['sometimes we get to watching some stuff on the discovery channel. /'],sometimes we get to watching some stuff on the discovery channel ,sd,FEMALE,1
+"['yes,  /']",yes  ,b,FEMALE,2
+['now we have watched some things on that. /'],now we have watched some things on that ,sd,FEMALE,1
+"[""{c and } i'm amazed sometimes what i see on there.  /""]",c and  im amazed sometimes what i see on there  ,sd,FEMALE,1
+"[""{c but } i'm very intrigued.  /""]",c but  im very intrigued  ,sd,FEMALE,1
+"['[ i, + one time i ]  was watching an operation,  /']", i  one time i   was watching an operation  ,sd,FEMALE,1
+"['{c and } i thought, {d gee, }']",c and  i thought d gee ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""i don't believe i'm watching. /""]",i dont believe im watching ,+,FEMALE,0
+"['<laughter> yeah,  /']",laughter yeah  ,b,FEMALE,2
+"['we had, {f uh, } - /']",we had f uh   ,%,FEMALE,5
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+"['my husband loves [ to, + {f uh, } that ]  male syndrome of flicking that channel,  /']",my husband loves  to  f uh  that   male syndrome of flicking that channel  ,sd,FEMALE,1
+"[""{c so, }  <laughter> {d you know, } {c and } he's sit in front of it  /""]",c so   laughter d you know  c and  hes sit in front of it  ,sd,FEMALE,1
+"['[ {c and, } + {c and } ] he went by  /']", c and   c and   he went by  ,sd,FEMALE,1
+"['{c and } he said, whoops,  /']",c and  he said whoops  ,sd,FEMALE,1
+"['{c and } he backed up,  /']",c and  he backed up  ,sd,FEMALE,1
+"[""{c and, } {d you know, } there's this surgery going on as we're eating our dinner <laughter> --""]",c and  d you know  theres this surgery going on as were eating our dinner laughter ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- <laughter> {d you know, }  /']", laughter d you know   ,+,FEMALE,0
+"[""{c and }  i'm saying let's move right on <laughter>. /""]",c and   im saying lets move right on laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['right,  /']",right  ,b,FEMALE,2
+"['right, /']",right ,b,FEMALE,2
+['{c but } our grandchildren like that discovery channel --'],c but  our grandchildren like that discovery channel ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- if they're over here, because lots of times it will have things on, {f uh, } animals -- /""]", if theyre over here because lots of times it will have things on f uh  animals  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } they just thoroughly, {d you know, }  enjoy that -- /']", c and  they just thoroughly d you know   enjoy that  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- in fact,   i think they were watching something on, {f uh, } whales, or killer [ sh-, + sharks, ] one or the other --']", in fact   i think they were watching something on f uh  whales or killer  sh  sharks  one or the other ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- couple of weeks ago over here -- /'], couple of weeks ago over here  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {f uh, } {c so } we have watched that -- /']", c and  f uh  c so  we have watched that  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, } {f uh, } otherwise, of course  my husband's into the football -- /""]", c and  f uh  otherwise of course  my husbands into the football  ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""-- {c and, } <inhaling> {d you know, }  i will watch that some if i'm reading or doing something else, {d you know } --""]", c and  inhaling d you know   i will watch that some if im reading or doing something else d you know  ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- with him. /'], with him ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i'm not into watching sports.  /""]",im not into watching sports  ,sv,FEMALE,3
+"['now my husband likes to watch football,  /']",now my husband likes to watch football  ,sd,FEMALE,1
+"[""he's not really into, {f uh, }  baseball or basketball too much,  /""]",hes not really into f uh   baseball or basketball too much  ,sd,FEMALE,1
+"[""{c but, } {f uh, } football,  soon as it's fall, then he likes --""]",c but  f uh  football  soon as its fall then he likes ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['-- to watch college on saturday,  and then of course cowboys on sunday. /']", to watch college on saturday  and then of course cowboys on sunday ,+,FEMALE,0
+"['<laughter> yes,  /']",laughter yes  ,b,FEMALE,2
+"[""{c and } sometimes now  we're getting that, {f uh, } the other football where they play it inside,  /""]",c and  sometimes now  were getting that f uh  the other football where they play it inside  ,sd,FEMALE,1
+"['{c and }  {d you know, }  ((   )) [ this is a, + {d you know, } this is too ] much <laughter>, /']",c and   d you know        this is a  d you know  this is too  much laughter ,sv,FEMALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"['saturdays and sunday, this is fine,  /']",saturdays and sunday this is fine  ,sv,FEMALE,3
+['{c but } do we have to carry this on into the summer and the spring <laughter> --'],c but  do we have to carry this on into the summer and the spring laughter ,qh,FEMALE,26
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- {d you know, } all of that,  /']", d you know  all of that  ,+,FEMALE,0
+"[""{c and, }  {f uh, }  {c but } [ he will, + {f uh, } he'll ] flip around,  /""]",c and   f uh   c but   he will  f uh  hell  flip around  ,sd,FEMALE,1
+"['i think the other night we had  on, {f uh, } {f uh, } [ it was a, + it was car ] races, some kind of car races where they were bumping over hills and flying into the air and coming down.  /']",i think the other night we had  on f uh  f uh   it was a  it was car  races some kind of car races where they were bumping over hills and flying into the air and coming down  ,sd,FEMALE,1
+"[""i don't know what channel he found that on -- /""]",i dont know what channel he found that on  ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['-- {c and, } {f uh, } {c but } he will turn  that on, especially [ [ [ for, + if, ] + again, ] + if our, ] {f uh, } oldest grandson is  over here.  /']", c and  f uh  c but  he will turn  that on especially    for  if   again   if our  f uh  oldest grandson is  over here  ,sd,FEMALE,1
+"[""he's ten -- /""]",hes ten  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, } {f uh, } they'll find  something like that and just absolutely sit glued to it, [ i, + ] {d you know, } /""]", c and  f uh  theyll find  something like that and just absolutely sit glued to it  i   d you know  ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""i keep telling them it's the same mentality <laughter>  {d you know, }  /""]",i keep telling them its the same mentality laughter  d you know   ,sd,FEMALE,1
+"[""{c and } something's wrong,  /""]",c and  somethings wrong  ,sd,FEMALE,1
+"[""[ [ {c and, } + {f uh, } {c but, } ] + {f uh, } {c and } ] we very seldom watch television on a friday night or saturday night, because we're not home -- /""]",  c and   f uh  c but    f uh  c and   we very seldom watch television on a friday night or saturday night because were not home  ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- [ {c and, } + {f uh, } {c so, } {c and } ]  sundays, {f uh, } we usually have, all of our kids are over on sunday,  /']",  c and   f uh  c so  c and    sundays f uh  we usually have all of our kids are over on sunday  ,sd,FEMALE,1
+"[""{c so, } {d you know, } we don't get into that, except that sometimes we'll get into their home videos -- /""]",c so  d you know  we dont get into that except that sometimes well get into their home videos  ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+['-- do you ever watch that? /'], do you ever watch that ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['the, - /']",the  ,%,FEMALE,5
+['you mean talking about the funny home videos and  stuff -- /'],you mean talking about the funny home videos and  stuff  ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['uh-huh -- /'],uhhuh  ,ny,FEMALE,9
+"['-- yeah,  /']", yeah  ,ny,FEMALE,9
+['those are pretty good --'],those are pretty good ,sv,FEMALE,3
+['-- that are sometimes so dumb <laughter>. /'], that are sometimes so dumb laughter ,^2,FEMALE,23
+"['-- <laughter> but true to life,  /']", laughter but true to life  ,+,FEMALE,0
+"['{e i mean, } some of the, -/']",e i mean  some of the ,sv,FEMALE,3
+"['{c but } very true to life,  /']",c but  very true to life  ,sv,FEMALE,3
+"[""{e i mean, } i've seen our family in several of those situations <laughter>. /""]",e i mean  ive seen our family in several of those situations laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8

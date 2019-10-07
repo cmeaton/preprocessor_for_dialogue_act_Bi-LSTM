@@ -1,0 +1,445 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<music> hello. /'],music hello ,fp,MALE,32
+['hello. /'],hello ,fp,MALE,32
+"['hey, how you doing? /']",hey how you doing ,fp,MALE,32
+"['not bad,  /']",not bad  ,fp,MALE,32
+['not bad.  /'],not bad  ,fp,MALE,32
+"[""what's your name? /""]",whats your name ,fp,MALE,32
+['fernando. /'],fernando ,fp,MALE,32
+['fernando.  /'],fernando  ,b^m,MALE,24
+['my name is nick. /'],my name is nick ,fp,MALE,32
+['wait.  /'],wait  ,ad,MALE,22
+['let me turn off my stereo here </music>. /'],let me turn off my stereo here music ,oo_co_cc,MALE,36
+['sure <cough>. /'],sure cough ,aa,MALE,4
+"[""{c because } i've been, {d like, }  waiting, {d like, }   for about ten minutes to get connected to somebody. /""]",c because  ive been d like   waiting d like    for about ten minutes to get connected to somebody ,sd,MALE,1
+['really? /'],really ,bh,MALE,18
+['yeah. /'],yeah ,ny,MALE,9
+['phew <<almost like a whistling sound>>.  /'],phew almost like a whistling sound  ,ba,MALE,6
+"[""# man, i'm, # -/""]", man im  ,%,MALE,5
+['# yeah. #  /'], yeah   ,b,MALE,2
+"['what time is it over th-,  /']",what time is it over th  ,qw,MALE,12
+"['[ are you, + are you ] in dallas? /']", are you  are you  in dallas ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+['no.  /'],no  ,nn,MALE,13
+"[""i'm in detroit.  /""]",im in detroit  ,sd,MALE,1
+"[""{c or } not detroit.   i'm in, {f uh, } california. /""]",c or  not detroit   im in f uh  california ,ar,MALE,28
+['are you? /'],are you ,bh,MALE,18
+['yeah.  /'],yeah  ,ny,MALE,9
+['#  (( i )) . # -/'],   i    ,%,MALE,5
+"['# because # every time i got through, i went to dallas, texas. /']", because  every time i got through i went to dallas texas ,sd,MALE,1
+['really? /'],really ,bh,MALE,18
+['yeah.  /'],yeah  ,ny,MALE,9
+"[""i'm in north carolina. /""]",im in north carolina ,sd,MALE,1
+['oh.  /'],oh  ,b,MALE,2
+"[""{d well, } you're on the, {f uh, } - /""]",d well  youre on the f uh   ,bf,MALE,20
+"[""let's see, /""]",lets see ,^h,MALE,27
+['on the other coast <laughter>. /'],on the other coast laughter ,^2,MALE,23
+"['yeah,  /']",yeah  ,aa,MALE,4
+['twenty-one <<sounds like he is talking  to someone other than speaker>>.  /'],twentyone sounds like he is talking  to someone other than speaker  ,t3,MALE,35
+['yeah.  /'],yeah  ,%,MALE,5
+"[""shoot man, it's, what, midnight almost? /""]",shoot man its what midnight almost ,qy^d,MALE,16
+['what?  /'],what  ,br,MALE,30
+"['yeah,  /']",yeah  ,ny,MALE,9
+['yeah.  /'],yeah  ,ny,MALE,9
+"[""it's, {f uh, } - /""]",its f uh   ,%,MALE,5
+"[""i'm watching saturday night live here. /""]",im watching saturday night live here ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['<laughter> okay.  /'],laughter okay  ,b,MALE,2
+['all right.  /'],all right  ,b,MALE,2
+"[""{d well } i guess we're supposed to talk,  /""]",d well  i guess were supposed to talk  ,sd,MALE,1
+['what about  /'],what about  ,qw,MALE,12
+['credit # card? # /'],credit  card  ,qy,MALE,7
+"['# [ w-, # + wait. ]  /']",  w   wait   ,ad,MALE,22
+"['[ [ wh-, + what did, ] + [ how, +  how ] did ] you get to know about the t i thing? /']",  wh  what did    how   how  did  you get to know about the t i thing ,qw,MALE,12
+"['{f oh, } one of my instructors, {f uh, }  said that they were doing something like  this  /']",f oh  one of my instructors f uh   said that they were doing something like  this  ,sd,MALE,1
+['{c and. } -/'],c and  ,%,MALE,5
+"['[ wha-, + what ] are you working on <breathing>? /']", wha  what  are you working on breathing ,qw,MALE,12
+"['[ a, + a ] masters in, {f uh, } information systems. /']", a  a  masters in f uh  information systems ,sd,MALE,1
+['really.  /'],really  ,bh,MALE,18
+"[""i'm doing my masters  [ in, + in ] computer science and computer engineering. /""]",im doing my masters   in  in  computer science and computer engineering ,sd,MALE,1
+['yeah?  /'],yeah  ,bh,MALE,18
+['where at? /'],where at ,qw,MALE,12
+['at north carolina state university. /'],at north carolina state university ,sd,MALE,1
+['hey.  /'],hey  ,ba,MALE,6
+['how do you like it out there <clicking>? /'],how do you like it out there clicking ,qw,MALE,12
+"[""{f uh, } i don't. because, {f uh, } i come from  [ a lot, + a bigger ] city than this one  /""]",f uh  i dont because f uh  i come from   a lot  a bigger  city than this one  ,sd,MALE,1
+['{c and } --'],c and  ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""-- # [ i, + i'm ] # in raleigh #  /""]",   i  im   in raleigh   ,+,MALE,0
+"['{c and, }  # -/']",c and    ,%,MALE,5
+['# oh. #  /'], oh   ,b,MALE,2
+['raleigh durham.  /'],raleigh durham  ,bf,MALE,20
+['yeah. /'],yeah ,%,MALE,5
+['yeah.  /'],yeah  ,aa,MALE,4
+['that area.  /'],that area  ,sd,MALE,1
+"[""{c and } it's really small.  /""]",c and  its really small  ,sd,MALE,1
+"['[ all, + all ] you have is like towns built around universities. /']", all  all  you have is like towns built around universities ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['like chapel hill? /'],like chapel hill ,qy^d,MALE,16
+['yeah.  /'],yeah  ,ny,MALE,9
+"[""{c so } [ it, + it's ] basically a  bunch of small towns anyway.  /""]",c so   it  its  basically a  bunch of small towns anyway  ,sd,MALE,1
+['kind of quaint little towns #  /'],kind of quaint little towns   ,sd,MALE,1
+['{c but } they # --'],c but  they  ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""-- don't have a whole lot there. /""]", dont have a whole lot there ,+,MALE,0
+['where you at? /'],where you at ,qw,MALE,12
+"[""{f uh, } {d well, } i'm in monterey, california  right now <barking>.  /""]",f uh  d well  im in monterey california  right now barking  ,sd,MALE,1
+['yeah. /'],yeah ,%,MALE,5
+"['{f oh, } okay.  /']",f oh  okay  ,bk,MALE,14
+"[""[ {d so, } + {d so } ] {e i mean, }  it's like [ this, + this ] town probably has   {d like } two hundred and fifty thousand people  /""]", d so   d so   e i mean   its like  this  this  town probably has   d like  two hundred and fifty thousand people  ,sd,MALE,1
+"[""{c and } that's about it. /""]",c and  thats about it ,sd,MALE,1
+['two hundred fifty? /'],two hundred fifty ,br,MALE,30
+['yeah. /'],yeah ,aa,MALE,4
+['okay.  /'],okay  ,bk,MALE,14
+"[""[ [ it, + it's, ] + it's ] a lot bigger than  monterey is.  /""]",  it  its   its  a lot bigger than  monterey is  ,sd,MALE,1
+"[""{c but } we're [ just, + {f uh, } just ] south of, {f uh, } san jose and san francisco. /""]",c but  were  just  f uh  just  south of f uh  san jose and san francisco ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"[""{c and } it's only [ a couple of hours away +   {e or } a hour away ] [ to a, + {d you know, } to a ] large city. /""]",c and  its only  a couple of hours away    e or  a hour away   to a  d you know  to a  large city ,sd,MALE,1
+"['[ {d so, } + {d so } ] where do you go?  /']", d so   d so   where do you go  ,qw,MALE,12
+['do you go to berkeley? /'],do you go to berkeley ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+['no.  /'],no  ,nn,MALE,13
+"[""[ i go to the, + it's the ] naval  postgraduate school out here. /""]", i go to the  its the  naval  postgraduate school out here ,sd,MALE,1
+"['{f oh, } okay.  /']",f oh  okay  ,bk,MALE,14
+"['because, {f uh, } i was looking [ at, + at ] the,']",because f uh  i was looking  at  at  the,sd,MALE,1
+['<cough>.'],cough,x,MALE,8
+['doctorate degree in computer science center at berkeley <sigh>. /'],doctorate degree in computer science center at berkeley sigh ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } they're asking {d like } for a,  {f uh, } g p a of like three point seven or  # something # --""]",c and  theyre asking d like  for a  f uh  g p a of like three point seven or   something  ,sd,MALE,1
+['# <thumping> uh-huh. # /'], thumping uhhuh  ,b,MALE,2
+['-- like that.  /'], like that  ,+,MALE,0
+"[""{c and } {d like } they're looking  {d like } for, {f uh, } g r e like  ninety-nine percentile and # this and that. # /""]",c and  d like  theyre looking  d like  for f uh  g r e like  ninetynine percentile and  this and that  ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""{c and } it's like, -/""]",c and  its like ,%,MALE,5
+"[""{d well, } that's what they look for.   /""]",d well  thats what they look for   ,sd,MALE,1
+"['whether or not they get it is hard to say <noise> <<sounds like a chair is drug across the floor>>. /  *[[ spelling:  ""dragged"", not ""drug"" in this case ]]']",whether or not they get it is hard to say noise sounds like a chair is drug across the floor    spelling  dragged not drug in this case ,sd,MALE,1
+"['<swallowing> yeah,  /']",swallowing yeah  ,aa,MALE,4
+['i know.  /'],i know  ,sd,MALE,1
+"[""[ that's why, + that's why ] i didn't apply.  /""]", thats why  thats why  i didnt apply  ,sd,MALE,1
+"['{e i mean, } [ it was {d like } -- +']",e i mean   it was d like   ,sd,MALE,1
+['yeah <talking>. /'],yeah talking ,b,MALE,2
+"['-- for me, it was {d like } ] practically  impossible to get between {d like } ninety and,']", for me it was d like   practically  impossible to get between d like  ninety and,+,MALE,0
+['<talking>.'],talking,x,MALE,8
+"['ninety-nine percentile [ on the, + on the ] # verbal part. # /']",ninetynine percentile  on the  on the   verbal part  ,+,MALE,0
+['# yeah.  /'], yeah  ,aa,MALE,4
+"[""it's # pretty tough.  /""]",its  pretty tough  ,sv,MALE,3
+"[""it's pretty tough </talking>.  /""]",its pretty tough talking  ,sv,MALE,3
+"['i, - /']",i  ,%,MALE,5
+"[""{f uh, } let's face it, {d you know. }  /""]",f uh  lets face it d you know   ,h,MALE,15
+"['{c and, } {d you know, } i, {d you know, } did the, {d you know, } - /']",c and  d you know  i d you know  did the d you know   ,%,MALE,5
+"['as far as, - /']",as far as  ,%,MALE,5
+"['i found it a lot of times with, regards to education, {d you know, } the school only takes you so far, {d you know. }  /']",i found it a lot of times with regards to education d you know  the school only takes you so far d you know   ,sd,MALE,1
+"[""it's what you do.""]",its what you do,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['you know.  /'],you know  ,+,MALE,0
+"[""{c so, }  {f uh, } i don't lose any  [ sleep, + sleep ] over stuff like that. /""]",c so   f uh  i dont lose any   sleep  sleep  over stuff like that ,sd,MALE,1
+"['{d so, } [ are, + are ] you going to go for your doctorate? /']",d so   are  are  you going to go for your doctorate ,qy,MALE,7
+['probably not.  /'],probably not  ,nn,MALE,13
+"[""{d see } i'm in the navy. /""]",d see  im in the navy ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and, }  {f uh, } {d you know, } most of the  navy funds that i probably won't do it until i, - /""]",c and   f uh  d you know  most of the  navy funds that i probably wont do it until i  ,sd,MALE,1
+"['if i do do it, it will be after i get out of the navy. /']",if i do do it it will be after i get out of the navy ,sd,MALE,1
+['when do you get out? /'],when do you get out ,qw,MALE,12
+"['{f oh, } probably be another twelve years. /']",f oh  probably be another twelve years ,sd,MALE,1
+"['{f oh, } okay <laughter>. /']",f oh  okay laughter ,bk,MALE,14
+"[""{f oh, } {d you know } i like what # i'm doing right now. # /""]",f oh  d you know  i like what  im doing right now  ,sd,MALE,1
+"['# [ {c but, } +  {f uh, } {c but } ] what if # they pay for it? /']",  c but    f uh  c but   what if  they pay for it ,qo,MALE,25
+['excuse me? /'],excuse me ,br,MALE,30
+['<swallowing> what if they pay for? /'],swallowing what if they pay for ,qo,MALE,25
+['if they pay for a p h d? /'],if they pay for a p h d ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+"['nah,  /']",nah  ,nn,MALE,13
+"[""they won't pay for it.  /""]",they wont pay for it  ,sd,MALE,1
+"[""[ they've, +   i think they have ] maybe two people a year go get,  (( get ))  their # p h d. # /""]", theyve    i think they have  maybe two people a year go get   get   their  p h d  ,sd,MALE,1
+"['# because # [ i know, + i know ] a couple of  people here that work for, {f uh, } <inhaling> the army.  # {f uh, } # /']", because   i know  i know  a couple of  people here that work for f uh  inhaling the army   f uh   ,sd,MALE,1
+['# yeah. #  /'], yeah   ,b,MALE,2
+"['they civilians or, {f uh, } military? /']",they civilians or f uh  military ,qy,MALE,7
+"[""[ i think, + i think ] they're military.  /""]", i think  i think  theyre military  ,sd,MALE,1
+"['# {c but, }  {e i # --']", c but   e i  ,sd,MALE,1
+['# uh-huh <popping>. # /'], uhhuh popping  ,b,MALE,2
+"['-- mean, } the guy is still in. /']", mean  the guy is still in ,+,MALE,0
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# {c and, }  # {f uh, } [ h-, + {f uh, } he ]  works over in maryland <swallowing>. /']", c and    f uh   h  f uh  he   works over in maryland swallowing ,sd,MALE,1
+['uh-huh <talking>. /'],uhhuh talking ,b,MALE,2
+"[""{c and so } he's doing his masters here.  /""]",c and so  hes doing his masters here  ,sd,MALE,1
+['they gave him {d like } a scholarship {d like } for a year. /'],they gave him d like  a scholarship d like  for a year ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""# {c and } # he's doing it in {d like, } in a year and a summer. /""]", c and   hes doing it in d like  in a year and a summer ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and so } he's getting that  /""]",c and so  hes getting that  ,sd,MALE,1
+"['{c and, }  {f uh } --']",c and   f uh  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- they said {d like } they got a lot of benefits and that.  /'], they said d like  they got a lot of benefits and that  ,+,MALE,0
+"[""that's why you want to join. /""]",thats why you want to join ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# {c but, }  {f uh, } # this guy, - /']", c but   f uh   this guy  ,%,MALE,5
+['{e i mean } you can earn a lot more money  /'],e i mean  you can earn a lot more money  ,sd,MALE,1
+"['{c so } you say, - /']",c so  you say  ,h,MALE,15
+"[""i go why you still there if you can earn a lot more money,  once you've get [ [ your, + your, ] + your ] masters. /""]",i go why you still there if you can earn a lot more money  once youve get   your  your   your  masters ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['they go, {d well } they got a lot of benefits that would go with it  /']",they go d well  they got a lot of benefits that would go with it  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"[""{d well, } [ a lot of times it's, + {d you know, } a lot of times it's ] not the money <barking> [ that keeps pe-, + that keeps people ] # (( in )) . # /""]",d well   a lot of times its  d you know  a lot of times its  not the money barking  that keeps pe  that keeps people    in    ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""[ they, + they ] like what they're doing.  /""]", they  they  like what theyre doing  ,sv,MALE,3
+"[""[ they, + {d you know, } they ] feel good about what they're doing.  /""]", they  d you know  they  feel good about what theyre doing  ,sv,MALE,3
+['# that type of thing.  /'], that type of thing  ,h,MALE,15
+"[""it's more <popping>, # -/""]",its more popping  ,%,MALE,5
+"['# {c but } [ {e i mean, } + {e i mean, } ] you, - /']", c but   e i mean   e i mean   you  ,%,MALE,5
+"['the, - /']",the  ,%,MALE,5
+"['# once you get your masters, you can be earning [ between, + anywhere between ] {d like } thirty-seven, forty-five thousand a year. /']", once you get your masters you can be earning  between  anywhere between  d like  thirtyseven fortyfive thousand a year ,sd,MALE,1
+['uh-huh <barking>. /'],uhhuh barking ,b,MALE,2
+['[ {c and } -- +'], c and   ,sd,MALE,1
+"['{f oh, } easily,  /']",f oh  easily  ,aa,MALE,4
+"[""# i'm sure. # /""]", im sure  ,sv,MALE,3
+"[""-- # {c and } ] that's # not what they're paying. /""]",  c and   thats  not what theyre paying ,+,MALE,0
+['no.  /'],no  ,aa,MALE,4
+"['{d well, } it depends on what rank you are, #  of course </barking>. # /']",d well  it depends on what rank you are   of course barking  ,arp_nd,MALE,34
+['# yeah.  /'], yeah  ,aa,MALE,4
+"['#  yeah,  /']",  yeah  ,aa,MALE,4
+['i know <laughter>. /'],i know laughter ,sd,MALE,1
+"[""{e i mean, } like i say, [ [ if you're, + if you're, ] +  {d you know, } if you're ] at an upper level in the rank category, {d you know, }  you're probably pulling down close to seventy grand a year. /""]",e i mean  like i say   if youre  if youre    d you know  if youre  at an upper level in the rank category d you know   youre probably pulling down close to seventy grand a year ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{c but } that's, {f uh, } -/""]",c but  thats f uh  ,%,MALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+['those are few and far between # though. # /'],those are few and far between  though  ,sd,MALE,1
+['# yeah. #  /'], yeah   ,b,MALE,2
+"[""# [ it's like, # +""]",  its like  ,sd,MALE,1
+['# <laughter>. #'], laughter ,x,MALE,8
+"[""it's like, ] {f uh, } in i b m.  /""]",its like  f uh  in i b m  ,+,MALE,0
+"['in i b m, you can get certain points -- /']",in i b m you can get certain points  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and, } {f uh, } everyone's a manager.  /""]", c and  f uh  everyones a manager  ,sd,MALE,1
+"['{c but } nobody can get one more point to become, {d you know, } {d like } whatever you need to earn # so much money. # /']",c but  nobody can get one more point to become d you know  d like  whatever you need to earn  so much money  ,sd,MALE,1
+['# yeah.  /'], yeah  ,b,MALE,2
+"[""since # i imagine it's fairly # competitive. # /""]",since  i imagine its fairly  competitive  ,sv,MALE,3
+['# yeah.  /'], yeah  ,aa,MALE,4
+"[""# it's like, - /""]", its like  ,%,MALE,5
+['no  /'],no  ,ar,MALE,28
+"['{e [ i, + i ] mean, }  i b m is like, - /']",e  i  i  mean   i b m is like  ,sd,MALE,1
+"[""there's a joke about i b m which says, {d you know, } it's like, {f uh, } - /""]",theres a joke about i b m which says d you know  its like f uh   ,sd,MALE,1
+"['[ all, + all ]  the major companies get into [ a, + a ] boating race, right? /']", all  all   the major companies get into  a  a  boating race right ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and so, } i b m says {d well }  [ we have, + we have ] to have a team, right. /']",c and so  i b m says d well    we have  we have  to have a team right ,sd,MALE,1
+['uh-huh <noise>. /'],uhhuh noise ,b,MALE,2
+['{c and then } they come in last  /'],c and then  they come in last  ,sd,MALE,1
+"['{c and } they have this whole team, {d you know, } analyze why they came in last right. because the  (( person ))  asked for it. /']",c and  they have this whole team d you know  analyze why they came in last right because the   person   asked for it ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['saying, - /']",saying  ,%,MALE,5
+"['he goes, {f uh, }  the problem was  that there were five people saying  row, row, row and one person rowing, right. /']",he goes f uh   the problem was  that there were five people saying  row row row and one person rowing right ,sd,MALE,1
+['# <laughter>. #'], laughter ,x,MALE,8
+"['# {c so } he goes, # [ have you come up with  a -lution, + {f uh, } have you come up with a solution? ]  /']", c so  he goes   have you come up with  a lution  f uh  have you come up with a solution   ,sd,MALE,1
+"['they go, yeah,  /']",they go yeah  ,sd,MALE,1
+['change the rower # <laughter>.  /'],change the rower  laughter  ,^q,MALE,19
+"[""{d you know, } it's like  everyone's a, #""]",d you know  its like  everyones a ,sd,MALE,1
+['# <laughter>. #'], laughter ,x,MALE,8
+['manager  /'],manager  ,+,MALE,0
+"[""{c but, } {d you know, } # it's like # --""]",c but  d you know   its like  ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+['-- [ only use + ] {d like } one person does the work  /'],  only use   d like  one person does the work  ,+,MALE,0
+['{c so. } -/'],c so  ,%,MALE,5
+['too many chiefs and # not enough indians. # /'],too many chiefs and  not enough indians  ,bf,MALE,20
+['# yeah.  /'], yeah  ,aa,MALE,4
+['{d so. }  # -/'],d so    ,%,MALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"['[ that can be, + [ that, +  that ] can really slow ] you down. /']", that can be   that   that  can really slow  you down ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""{d well, } that's the way it works.  /""]",d well  thats the way it works  ,sv,MALE,3
+"[""{e i mean, } [ that's, + that's ] why they're having problems.  /""]",e i mean   thats  thats  why theyre having problems  ,sv,MALE,3
+"[""{e i mean, } everyone's a manager  /""]",e i mean  everyones a manager  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"[""i didn't realize that. /""]",i didnt realize that ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{e i mean, } [ it's like, + it's like ] the people that actually do the work there --""]",e i mean   its like  its like  the people that actually do the work there ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- are, {f uh, } very few.  /']", are f uh  very few  ,+,MALE,0
+"['{c and then } the other people just plan it, {d you know. }  /']",c and then  the other people just plan it d you know   ,sd,MALE,1
+"[""[ it's like, + # it's like ] [ have you, + [ have # -- +""]", its like   its like   have you   have   ,qy,MALE,7
+['#  ((   ))  push paper around. # /'],       push paper around  ,^2,MALE,23
+"['-- have ] you ] ever seen the commercial {d like }  for federal express [ where the, + with, {f uh, } the ] think tank?']", have  you  ever seen the commercial d like   for federal express  where the  with f uh  the  think tank,+,MALE,0
+['uh-huh. /'],uhhuh ,ny,MALE,9
+"['{d you know, }  /']",d you know   ,+,MALE,0
+"['{d like } all these people  are just [ standing, + sitting ] around, just going, {d you know, } {d like } what shall we do?  /']",d like  all these people  are just  standing  sitting  around just going d you know  d like  what shall we do  ,sd,MALE,1
+['has anybody thought of anything? /'],has anybody thought of anything ,^q,MALE,19
+['<cough>.'],cough,x,MALE,8
+['no.  /'],no  ,^q,MALE,19
+"['{c and then } this guy from [ federal, +  federal ] express comes along.  /']",c and then  this guy from  federal   federal  express comes along  ,sd,MALE,1
+"[""they go what's that?  this track which it's going around  the world  /""]",they go whats that  this track which its going around  the world  ,sd,MALE,1
+"['{c and } they can tell you where your package is anywhere, any time. /']",c and  they can tell you where your package is anywhere any time ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and so } it's {d like } the same thing with i b m.    {d you know, }  /""]",c and so  its d like  the same thing with i b m    d you know   ,sv,MALE,3
+['{c so } they have this think tank.  /'],c so  they have this think tank  ,sd,MALE,1
+['{c and } they got to come up with ideas.  /'],c and  they got to come up with ideas  ,sd,MALE,1
+"['{c but, }  {d see, } {f uh, } [ the, + the ] thing is, that i b m is so stabilized that # everybody will buy their stuff. # /']",c but   d see  f uh   the  the  thing is that i b m is so stabilized that  everybody will buy their stuff  ,sd,MALE,1
+['# <popping> yeah.  /'], popping yeah  ,aa,MALE,4
+"['# {f oh, } yeah.  /']", f oh  yeah  ,aa,MALE,4
+"[""[ they've got a, + they've got basically [ a, + {f uh, } {d you know, } a ] ] lock  on a lot of the market. /""]", theyve got a  theyve got basically  a  f uh  d you know  a   lock  on a lot of the market ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['{c and } a lot of times you figure, {d you know, }  with the support that they provide, {d you know, } - /']",c and  a lot of times you figure d you know   with the support that they provide d you know   ,sv,MALE,3
+"[""people generally go  with that because they figure that [ the, + ]  {d you know, } you probably won't get fired for  getting i b m material.  /""]",people generally go  with that because they figure that  the    d you know  you probably wont get fired for  getting i b m material  ,sv,MALE,3
+"[""whereas if  you try something different, [ they'll -- +""]",whereas if  you try something different  theyll  ,sv,MALE,3
+['{c and } it fails  /'],c and  it fails  ,^2,MALE,23
+"[""{c and } # you're dead. # /""]",c and   youre dead  ,^2,MALE,23
+"[""-- # they'll ] say # yeah,  /""]",  theyll  say  yeah  ,+,MALE,0
+"[""[ why didn't you buy, + #  why didn't you try ] something more mainline. # /""]", why didnt you buy    why didnt you try  something more mainline  ,^q,MALE,19
+['# yeah.  /'], yeah  ,b,MALE,2
+"[""{d well } i b m # doesn't fire anybody. #  /""]",d well  i b m  doesnt fire anybody   ,sd,MALE,1
+['{c because } # --'],c because   ,sd,MALE,1
+['# <throat_clearing> no. # /'], throatclearing no  ,aa,MALE,4
+"['-- {f uh, } what they do is [ they, + they ]  put you in a different job.']", f uh  what they do is  they  they   put you in a different job,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['which [ y-, + you ] actually are like  sitting around not doing anything.  /']",which  y  you  actually are like  sitting around not doing anything  ,+,MALE,0
+['{c so } you quit. /'],c so  you quit ,sd,MALE,1
+['{f uh. } /'],f uh  ,b,MALE,2
+"[""{e i mean } that's their policy.  /""]",e i mean  thats their policy  ,sd,MALE,1
+"[""they never fire anybody unless you're caught doing something illegally. /""]",they never fire anybody unless youre caught doing something illegally ,sd,MALE,1
+"['illegal or something # like that,  /']",illegal or something  like that  ,bf,MALE,20
+['yeah. # /'],yeah  ,b,MALE,2
+"['# yeah,  /']", yeah  ,b,MALE,2
+"[""{d like } # if you're stealing something  or doing anything like that <swallowing>. /""]",d like   if youre stealing something  or doing anything like that swallowing ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but } they won't let you off.  /""]",c but  they wont let you off  ,sd,MALE,1
+"[""what they'll do is {d like } - /""]",what theyll do is d like   ,sd,MALE,1
+"[""<sigh> suppose, {d you know, } {d like } you're a manager.  /""]",sigh suppose d you know  d like  youre a manager  ,sd,MALE,1
+"[""{c so } they'll # put # --""]",c so  theyll  put  ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['-- you into keeping up the paper, {d you know. }  /']", you into keeping up the paper d you know   ,+,MALE,0
+"[""it's like how much paper is going in?  /""]",its like how much paper is going in  ,sd,MALE,1
+['{c and then } # you # --'],c and then   you  ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""-- say that's not my job,  /""]", say thats not my job  ,+,MALE,0
+['{c so } you quit. /'],c so  you quit ,sd,MALE,1
+"[""{c so, }  in other words, that's the way they # force # --""]",c so   in other words thats the way they  force  ,bf,MALE,20
+['# right. # /'], right  ,aa,MALE,4
+['-- people out <cough>.  /'], people out cough  ,+,MALE,0
+"[""that's why they can say,  {d you know, } there's # no layoff # --""]",thats why they can say  d you know  theres  no layoff  ,sd,MALE,1
+['# right. # /'], right  ,b,MALE,2
+['-- policy.  /'], policy  ,+,MALE,0
+"[""{c but } [ it does-, + they don't ]  really say that, {d you know, }  /""]",c but   it does  they dont   really say that d you know   ,sd,MALE,1
+"[""[ you're, + you're ] always going to have great # career # --""]", youre  youre  always going to have great  career  ,^q,MALE,19
+['# right. # /'], right  ,b,MALE,2
+['-- conditions.  /'], conditions  ,+,MALE,0
+"[""[ he-, + hey, ] that's kind # of sad. # /""]", he  hey  thats kind  of sad  ,sv,MALE,3
+"['# no,  /']", no  ,ar,MALE,28
+"[""{c but } # {e i mean, } [ it's like, + it's like ]  [ they, + they ] have just {d like } different policy.  /""]",c but   e i mean   its like  its like    they  they  have just d like  different policy  ,sd,MALE,1
+"[""i don't know.  /""]",i dont know  ,h,MALE,15
+['my dad works for them  /'],my dad works for them  ,sd,MALE,1
+"[""{c but } it's  like i b m {d like } never in their commercials, they never put down any other company,  {d you know. }  /""]",c but  its  like i b m d like  never in their commercials they never put down any other company  d you know   ,sd,MALE,1
+"[""it's like --""]",its like ,sd,MALE,1
+['no. /'],no ,aa,MALE,4
+"[""-- they won't say, -/""]", they wont say ,+,MALE,0
+"[""{d well, } they're the standard right now.  /""]",d well  theyre the standard right now  ,sv,MALE,3
+"['{c or } as far as that goes, {d you know, } people think of computers, they think of i b m a lot of times.  /']",c or  as far as that goes d you know  people think of computers they think of i b m a lot of times  ,sv,MALE,3
+"['{c and } the main, -/']",c and  the main ,%,MALE,5
+['yeah.  /'],yeah  ,aa,MALE,4
+['{c because } {d see } what happens is they have a good backup policy. /'],c because  d see  what happens is they have a good backup policy ,sd,MALE,1
+['<cough>.'],cough,x,MALE,8
+['{c and } anybody can fix it. /'],c and  anybody can fix it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and so } that's what you're going to go for. /""]",c and so  thats what youre going to go for ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""{d well, } {d you know, } [ [ that's, + that's a, ] +  that's a ] big # thing. # /""]",d well  d you know    thats  thats a    thats a  big  thing  ,sv,MALE,3
+"[""# [ {c and, } +  # {c and, } ] {d you know, } it's  like, for example, {d like } leading edge. /""]",  c and     c and   d you know  its  like for example d like  leading edge ,sd,MALE,1
+['have you ever heard of leading edge? /'],have you ever heard of leading edge ,qy,MALE,7
+['yeah.  /'],yeah  ,ny,MALE,9
+['they are out of korea right. /'],they are out of korea right ,qy,MALE,7
+['what? /'],what ,br,MALE,30
+['leading edge.  /'],leading edge  ,sd,MALE,1
+"[""don't they pro-, -/""]",dont they pro ,qy,MALE,7
+"['[ they, + they ] made {d like, }  {f uh, }  small personal computers. /']", they  they  made d like   f uh   small personal computers ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['small p c -s.  /'],small p c s  ,b^m,MALE,24
+"[""((   ))  they're out of korea right? /""]",     theyre out of korea right ,qy,MALE,7
+"[""i don't know.  /""]",i dont know  ,no,MALE,31
+"[""i don't know.  /""]",i dont know  ,no,MALE,31
+"[""{c but } [ what they do is, + what they did, i don't know, is ] buy all the parts that i b m would throw away.""]",c but   what they do is  what they did i dont know is  buy all the parts that i b m would throw away,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['and build an i b m p c with all the parts  that i b m would throw away. /'],and build an i b m p c with all the parts  that i b m would throw away ,+,MALE,0
+"['# {f oh, } yeah <laughter>. # /']", f oh  yeah laughter  ,b,MALE,2
+['# yeah. # /'], yeah  ,b,MALE,2
+['<cough>.'],cough,x,MALE,8
+"['((   ))  for example, you test a chip.  /']",     for example you test a chip  ,sd,MALE,1
+"[""it can't last seven years  /""]",it cant last seven years  ,sd,MALE,1
+['{c but } it can last five.  /'],c but  it can last five  ,sd,MALE,1
+"[""i b m says let's throw it away.  /""]",i b m says lets throw it away  ,sd,MALE,1
+"[""leading edge will say we'll buy it from you. /""]",leading edge will say well buy it from you ,sd,MALE,1
+['okay. /'],okay ,b,MALE,2
+"[""{c and so } that's, - /""]",c and so  thats  ,%,MALE,5
+"[""{e i mean, } they're still around i think. /""]",e i mean  theyre still around i think ,sd,MALE,1
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""[ i've seen, + {d well } i've seen ]  them around # anyway. {d you know }  ((   )) . # /""]", ive seen  d well  ive seen   them around  anyway d you know         ,sd,MALE,1
+"[""# <clicking> <swallowing> {c so, }  that's what they do.  #  /""]", clicking swallowing c so   thats what they do    ,sd,MALE,1
+"['they buy [ all, + all ] the things that i b m throws away  /']",they buy  all  all  the things that i b m throws away  ,sd,MALE,1
+"[""[ {c and } they  ((   )) , +   {c and } that's ] why they're so  compatible.""]", c and  they          c and  thats  why theyre so  compatible,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['because {e i mean } - /'],because e i mean   ,+,MALE,0
+"[""{c and }   by the time you have computer for five years, you're going to throw it away anyway. # {d you know. } # /""]",c and    by the time you have computer for five years youre going to throw it away anyway  d you know   ,sv,MALE,3
+['# most people do. #  /'], most people do   ,sv,MALE,3
+['{c or } they have to anyway. /'],c or  they have to anyway ,sv,MALE,3
+"[""{d well, } {e i mean, } there's {d like, }   {d well } - /""]",d well  e i mean  theres d like    d well   ,%,MALE,5
+"['in a way you realize, - /']",in a way you realize  ,h,MALE,15
+"['{e i mean, } [ one t-, + one of my teachers ] got this computer which, {d you know, } - /']",e i mean   one t  one of my teachers  got this computer which d you know   ,sd,MALE,1
+"[""it's {d like, }  {f uh, } voice, {f uh, } synthesizing stuff. /""]",its d like   f uh  voice f uh  synthesizing stuff ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } he got that.  /'],c and  he got that  ,sd,MALE,1
+"[""he said, {d you know, }  it's like, {f uh, } - /""]",he said d you know   its like f uh   ,sd,MALE,1
+"[""<swallowing> i was testing it  / *[[ listen to this sequence that begins here and ends with a.215 utt 11.  i can't tell how much speaker a is quoting, and how much he'she is directly addressing speaker b.]]""]",swallowing i was testing it    listen to this sequence that begins here and ends with a215 utt 11  i cant tell how much speaker a is quoting and how much heshe is directly addressing speaker b,^q,MALE,19
+['{c and } it was wonderful.  /'],c and  it was wonderful  ,^q,MALE,19
+"['{c and then } when you tried to erase and  correct, {d you know, } all the errors in your voice, it takes up all your memory. /']",c and then  when you tried to erase and  correct d you know  all the errors in your voice it takes up all your memory ,^q,MALE,19
+['# wow. # /'], wow  ,ba,MALE,6
+"['# {c and } i want more, # {d you know. }  /']", c and  i want more  d you know   ,^q,MALE,19
+"[""{c and } it's like jesus christ, {d you know, } - /""]",c and  its like jesus christ d you know   ,^q,MALE,19
+"[""it's like why do you want more.  /""]",its like why do you want more  ,^q,MALE,19
+"[""because it's {d like }  one second of recording.  /""]",because its d like   one second of recording  ,^q,MALE,19
+['{e i mean } you put into wave --  /'],e i mean  you put into wave   ,^q,MALE,19
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } you want to correct the errors into wave,  /']", c and  you want to correct the errors into wave  ,^q,MALE,19
+"['it takes so much, - /']",it takes so much  ,^q,MALE,19
+"[""{e i mean, }   it's like, - /""]",e i mean    its like  ,^q,MALE,19
+['of course it does.  /'],of course it does  ,^q,MALE,19
+"['{e i mean, }  by the times it transforms into wave by mark off model  /']",e i mean   by the times it transforms into wave by mark off model  ,^q,MALE,19
+"['{c and } you put it in there,  /']",c and  you put it in there  ,^q,MALE,19
+['{c and } you want to correct those.  /'],c and  you want to correct those  ,^q,MALE,19
+"[""{c and  then, } {d you know, } you're trying to make  [ the, + the ] wave smooth  /""]",c and  then  d you know  youre trying to make   the  the  wave smooth  ,^q,MALE,19
+"['{c so } you can approximately, - /']",c so  you can approximately  ,^q,MALE,19
+"[""of course it's going to take a lot. #  /""]",of course its going to take a lot   ,^q,MALE,19
+"['[ imagine, + imagine # -- ]']", imagine  imagine   ,sd,MALE,1
+"[""# it's amazing.  /""]", its amazing  ,ba,MALE,6
+['yeah. # /'],yeah  ,b,MALE,2
+"['-- what it is for us to make mark off models, {d you know. }  /']", what it is for us to make mark off models d you know   ,+,MALE,0
+"[""it's like, <laughter> jesus christ. -/""]",its like laughter jesus christ ,sd,MALE,1
+"[""{d well, } [ when you get, + {d you know, } when you get ]  right down to it, [ the, + {f uh, } the ] more they can do for you, [ [ the more, + {f uh, } {d like }  {e i say, } the more, ] + the more ] memory they're going to # require. # /""]",d well   when you get  d you know  when you get   right down to it  the  f uh  the  more they can do for you   the more  f uh  d like   e i say  the more   the more  memory theyre going to  require  ,sd,MALE,1
+['# yeah. #  /'], yeah   ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"['[ both, + both ] in terms in ram  as well as, {f uh, } {d you know, } # standard # --']", both  both  in terms in ram  as well as f uh  d you know   standard  ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"['-- memory or [ disk mem-, + # disk base, ]  /']", memory or  disk mem   disk base   ,+,MALE,0
+['{c so. }  # -/'],c so    ,%,MALE,5
+"['# {d well, } like # they say, {d like } nobody can  get enough, {d you know. }  /']", d well  like  they say d like  nobody can  get enough d you know   ,sv,MALE,3
+"[""it's like  once you have # something, - /""]",its like  once you have  something  ,sv,MALE,3
+"[""(( {c and } it's like ))  # -- -/""]", c and  its like     ,%,MALE,5
+"['# {f oh, } yeah.  /']", f oh  yeah  ,aa,MALE,4
+"['you find out more, # /']",you find out more  ,sv,MALE,3
+['-- i was watching this program on t v yesterday.  /'], i was watching this program on t v yesterday  ,sd,MALE,1
+['in nineteen seventy-six --'],in nineteen seventysix ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- nasa came up with three d graphics.  /'], nasa came up with three d graphics  ,+,MALE,0
+['right. /'],right ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } they were showing this  {d like } [ three d g-, + three d graphics ] view of {d like, } -/']",c and  they were showing this  d like   three d g  three d graphics  view of d like  ,sd,MALE,1
+['like the  ((   ))  deal? /'],like the       deal ,qy^d,MALE,16
+['what?  /'],what  ,br,MALE,30
+"['# no,  /']", no  ,nn,MALE,13
+"['no,  /']",no  ,nn,MALE,13
+['no. # /'],no  ,nn,MALE,13
+['# like a hologram? # /'], like a hologram  ,qy^d,MALE,16
+"['[ this is like, + # this is like # -- ]']", this is like   this is like   ,sd,MALE,1
+"['# with just graphics [ on, + on ] a, # -/']", with just graphics  on  on  a  ,bf,MALE,20
+['-- video game stuff.  /'], video game stuff  ,+,MALE,0
+['# okay? # /'], okay  ,^g,MALE,40
+['# okay <cough>. # /'], okay cough  ,bk,MALE,14
+"['{c but } the only thing was, that it was just lines,  /']",c but  the only thing was that it was just lines  ,sd,MALE,1
+['okay.  /'],okay  ,%,MALE,5
+"['like if you </breathing>, -/']",like if you breathing ,%,MALE,5

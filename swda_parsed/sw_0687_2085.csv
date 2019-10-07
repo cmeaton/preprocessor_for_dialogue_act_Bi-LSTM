@@ -1,0 +1,209 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hi.  /'],hi  ,fp,FEMALE,32
+['how are you doing? /'],how are you doing ,fp,FEMALE,32
+"['what,  /']",what  ,br,MALE,30
+"[""i couldn't hear you? /""]",i couldnt hear you ,sd,MALE,1
+"['i said, how are you doing? /']",i said how are you doing ,fp,FEMALE,32
+"[""i'm doing fine.  /""]",im doing fine  ,fp,MALE,32
+"[""i'm, {f uh, }  just editing a spreadsheet right now.  /""]",im f uh   just editing a spreadsheet right now  ,sd,MALE,1
+"[""i'm trying to figure out how i can retire without  having to work until i'm ninety-five. /""]",im trying to figure out how i can retire without  having to work until im ninetyfive ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""we've been doing that too <laughter>.  /""]",weve been doing that too laughter  ,sd,FEMALE,1
+"[""we're trying to retire in our fifties. /""]",were trying to retire in our fifties ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""this is a very appropriate  topic for our, {f uh, } conversation today because what i'm figuring out is that i'm  going to have to put in a lot more money than what i'm making <laughter>. /""]",this is a very appropriate  topic for our f uh  conversation today because what im figuring out is that im  going to have to put in a lot more money than what im making laughter ,sd,MALE,1
+"['<laughter>  good luck on that one, then. /']",laughter  good luck on that one then ,"fo_o_fw_""_by_bc",FEMALE,0
+['what is that? /'],what is that ,br,MALE,30
+"['i said good luck on that one, then. /']",i said good luck on that one then ,sd,FEMALE,1
+"[""{d well, } we've got a pretty good  situation, my wife and i, since our property is already paid for.  /""]",d well  weve got a pretty good  situation my wife and i since our property is already paid for  ,sv,MALE,3
+"['{d you know, } the main  things that i like about [ the +  {f uh, } <talking> <<someone in background>> the ] job benefits --']",d you know  the main  things that i like about  the   f uh  talking someone in background the  job benefits ,sd,MALE,1
+['huh-uh. /'],huhuh ,b,FEMALE,2
+"[""-- would be [ the, +  {f uh, } the ]  availability of the health insurance  and the availability of, {f uh, } {d you know, }  being able to transfer [ around, +  inside ] the organization without having, {d you know, }  when they cut off a system and they don't just can everybody that is working on it,  like some companies i know of.  /""]", would be  the   f uh  the   availability of the health insurance  and the availability of f uh  d you know   being able to transfer  around   inside  the organization without having d you know   when they cut off a system and they dont just can everybody that is working on it  like some companies i know of  ,+,MALE,0
+"['{d you know, } they give you an opportunity  to either transfer into an [ on going, +  on going ] project. -/']",d you know  they give you an opportunity  to either transfer into an  on going   on going  project ,sd,MALE,1
+['{d so } you work for it t i then <music>.  /'],d so  you work for it t i then music  ,qy^d,FEMALE,16
+"[""<<pause>> you can't say? /""]",pause you cant say ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,MALE,9
+['yeah. /'],yeah ,b^m,FEMALE,24
+['what? /'],what ,br,MALE,30
+"['yes,  /']",yes  ,ny,FEMALE,9
+['you do.  /'],you do  ,sd,FEMALE,1
+"['{d well, } i work for  d i s d  /']",d well  i work for  d i s d  ,sd,FEMALE,1
+"[""{c and } i don't know what your talking about when you say health insurance,  /""]",c and  i dont know what your talking about when you say health insurance  ,sd,FEMALE,1
+"[""{c but } dallas doesn't pay.  /""]",c but  dallas doesnt pay  ,sd,FEMALE,1
+"['it pays most of mine, {d you know, }  /']",it pays most of mine d you know   ,sd,FEMALE,1
+"['{d now, }  after you work  (( i think ))  five years, they begin to pay most of it.  /']",d now   after you work   i think   five years they begin to pay most of it  ,sd,FEMALE,1
+"['{c but } then, for [ the, +  the ] family, {d you know, } i put my kids on my policy.  /']",c but  then for  the   the  family d you know  i put my kids on my policy  ,sd,FEMALE,1
+"[""it's like two hundred dollars -- /""]",its like two hundred dollars  ,sd,FEMALE,1
+['huh-uh. /'],huhuh ,b,MALE,2
+"[""-- {c and } it's gone up quite a bit  /""]", c and  its gone up quite a bit  ,sd,FEMALE,1
+"[""{c and } they predict, {d you know, } of course, it's going to keep going up.  /""]",c and  they predict d you know  of course its going to keep going up  ,sd,FEMALE,1
+"['i wish they could go on  and pay for all of our coverage, at some point.  /']",i wish they could go on  and pay for all of our coverage at some point  ,sd,FEMALE,1
+"['{c and } benefits, {d you know, } - /']",c and  benefits d you know   ,sd,FEMALE,1
+"[""i'd like to see child care paid for or on-site child care sometime.  /""]",id like to see child care paid for or onsite child care sometime  ,sd,FEMALE,1
+"['i think that would be a  ((   )) , -/']",i think that would be a       ,sd,FEMALE,1
+['huh-uh. /'],huhuh ,b,MALE,2
+['{c and } it would make women go to  work sometime if they knew their kids were being taken care of.  /'],c and  it would make women go to  work sometime if they knew their kids were being taken care of  ,sv,FEMALE,3
+['they could go visit them during the day.  /'],they could go visit them during the day  ,sd,FEMALE,1
+['what? /'],what ,^g,FEMALE,40
+['yeah  /'],yeah  ,b,MALE,2
+"[""that's {f uh, } something i  hadn't really thought about because we don't have children.  /""]",thats f uh  something i  hadnt really thought about because we dont have children  ,sd,MALE,1
+"['{c but, } i can see how it  would be [ a +  a ] real benefit.  /']",c but  i can see how it  would be  a   a  real benefit  ,sd,MALE,1
+['(( yes ))  /'], yes   ,ny,MALE,9
+['i do. /'],i do ,sd,MALE,1
+"[""{d well, } we keep a shelter,   also monies that we're going to pay in for child care too.  /""]",d well  we keep a shelter   also monies that were going to pay in for child care too  ,sd,FEMALE,1
+"['{d you know, } go on and pay a lump  sum  /']",d you know  go on and pay a lump  sum  ,sd,FEMALE,1
+"[""{c and } as long as you pay that amount you're okay.  /""]",c and  as long as you pay that amount youre okay  ,sd,FEMALE,1
+"[""{c but } if you paid  in more than you actually used, and the same thing for insurance, what you predict  your going to be paying for insurance, as long as you [ pay, +   actually pay ] out that amount of money, you're okay.  /""]",c but  if you paid  in more than you actually used and the same thing for insurance what you predict  your going to be paying for insurance as long as you  pay    actually pay  out that amount of money youre okay  ,sd,FEMALE,1
+"['{c but } if you pay out less,  then you lose that money. /']",c but  if you pay out less  then you lose that money ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,MALE,5
+"[""i don't like that part,  /""]",i dont like that part  ,sd,FEMALE,1
+"[""{c but } you don't have to do that option if you don't want to. /""]",c but  you dont have to do that option if you dont want to ,sd,FEMALE,1
+"['{d well, } [ that could be, +   i could see where that would be ] important. /']",d well   that could be    i could see where that would be  important ,sd,MALE,1
+"['{c and then } we got that cafeteria plan,  /']",c and then  we got that cafeteria plan  ,sd,FEMALE,1
+['do you have that? /'],do you have that ,qy,FEMALE,7
+['no. /'],no ,nn,MALE,13
+['no. /'],no ,b^m,FEMALE,24
+"[""i don't know what it's  (( about )) . /""]",i dont know what its   about   ,sd,MALE,1
+"['you can, {f uh, } - /']",you can f uh   ,%,FEMALE,5
+"['{d well } you, - /']",d well  you  ,%,FEMALE,5
+"[""let's see, [ it, +  it ]  shelters you're money that you pay [ for, +  for ] insurance.  /""]",lets see  it   it   shelters youre money that you pay  for   for  insurance  ,sd,FEMALE,1
+['it takes it out of your salary before taxes. /'],it takes it out of your salary before taxes ,sd,FEMALE,1
+"['{f oh, }  okay.  /']",f oh   okay  ,b,MALE,2
+"['yeah,  /']",yeah  ,ny,MALE,9
+['yeah  /'],yeah  ,ny,MALE,9
+['we got that. /'],we got that ,sd,MALE,1
+['okay. /'],okay ,b,FEMALE,2
+['pretax insurance? /'],pretax insurance ,bf,MALE,20
+['yeah. /'],yeah ,aa,FEMALE,4
+['yeah. /'],yeah ,b^m,MALE,24
+"['{c but } we call it the cafeteria plan,  /']",c but  we call it the cafeteria plan  ,sd,FEMALE,1
+['i wonder why. /'],i wonder why ,sd,FEMALE,1
+['um? /'],um ,br,MALE,30
+"['i said, i wonder why. /']",i said i wonder why ,sd,FEMALE,1
+"[""{f oh, } it's probably what the first  guy who did it, called it. /""]",f oh  its probably what the first  guy who did it called it ,sv,MALE,3
+['cafeteria? /'],cafeteria ,"fo_o_fw_""_by_bc",FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+['he was probably in the  cafeteria when he thought of it <laughter>. /'],he was probably in the  cafeteria when he thought of it laughter ,sv,MALE,3
+['<laughter> maybe  /'],laughter maybe  ,aap_am,FEMALE,39
+"[""{c so. }  let's  see what else can we do?  /""]",c so   lets  see what else can we do  ,qo,FEMALE,25
+"['changes, -/']",changes ,%,FEMALE,5
+"[""i'll tell you what we could do. /""]",ill tell you what we could do ,sd,MALE,1
+['what? /'],what ,qw,FEMALE,12
+"['we could prohibit people from being  hired that are historically going to cost the company money. {d you know, }  do a little bit better research on who gets hired -- /']",we could prohibit people from being  hired that are historically going to cost the company money d you know   do a little bit better research on who gets hired  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c because } {d you know, } -/']", c because  d you know  ,%,MALE,5
+"['you mean, {d like } for health insurance? /']",you mean d like  for health insurance ,bf,FEMALE,20
+"['{d well, } not only just health  insurance, {e i mean } for the whole benefit of the company.  /']",d well  not only just health  insurance e i mean  for the whole benefit of the company  ,aap_am,MALE,39
+"['{d see, } i look at it this way.    if the company folds, i got to go find a job. /']",d see  i look at it this way    if the company folds i got to go find a job ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['okay.  /'],okay  ,b,MALE,2
+"[""{d now, } if we got somebody  in a position to affect the way the company performs, just about anybody in the company,  and they're not doing their job or they're not capable of doing their job,  then we should find (a) a place to put them or (b) {d you know, } boot them out. /""]",d now  if we got somebody  in a position to affect the way the company performs just about anybody in the company  and theyre not doing their job or theyre not capable of doing their job  then we should find a a place to put them or b d you know  boot them out ,sv,MALE,3
+"[""{d well, } that's easier done in a  company than it is in, {f uh, } school teaching. /""]",d well  thats easier done in a  company than it is in f uh  school teaching ,sv,FEMALE,3
+"[""{d well, } frankly, i think school  teachers ought to get about ten times what they're getting paid. /""]",d well  frankly i think school  teachers ought to get about ten times what theyre getting paid ,sv,MALE,3
+['<breathing> thank you <laughter>. /'],breathing thank you laughter ,ba,FEMALE,6
+['what? /'],what ,br,MALE,30
+"['i said, thank you. /']",i said thank you ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+"[""we're both school teachers. /""]",were both school teachers ,sd,FEMALE,1
+"[""{f oh, } [ i'm, +  i'm, ] -/""]",f oh   im   im  ,%,MALE,5
+"[""{c but } it's hard to get rid of  a teacher if they're not good. /""]",c but  its hard to get rid of  a teacher if theyre not good ,sd,FEMALE,1
+['i know. /'],i know ,sd,MALE,1
+"[""it's almost impossible. /""]",its almost impossible ,sd,FEMALE,1
+"[""{d well, } there's two schools of  thought on that.  /""]",d well  theres two schools of  thought on that  ,sd,MALE,1
+"[""{d you know, } [ i, +  i'm ] looking at trying to get into a university job position as a a professor -- /""]",d you know   i   im  looking at trying to get into a university job position as a a professor  ,sd,MALE,1
+['huh-uh. /'],huhuh ,b,FEMALE,2
+['-- i got about eight years of education  ahead of me before i can do that -- /'], i got about eight years of education  ahead of me before i can do that  ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"[""-- {c but, } once you get that  job with the university, you've got ten years of probation. /""]", c but  once you get that  job with the university youve got ten years of probation ,sd,MALE,1
+['huh-uh. /'],huhuh ,b,FEMALE,2
+['then you have tenure.  /'],then you have tenure  ,sd,MALE,1
+"[""{c and } they can't fire you. /""]",c and  they cant fire you ,sd,MALE,1
+['huh-uh. /'],huhuh ,b,FEMALE,2
+"[""{d well, } {d you know, } in a  situation like that, i don't know if that's good or  bad.  /""]",d well  d you know  in a  situation like that i dont know if thats good or  bad  ,sd,MALE,1
+"[""i do know that i've had tenured  professors that were just sorry. /""]",i do know that ive had tenured  professors that were just sorry ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c and } i've also had tenured  professors that were the best things on two legs. /""]",c and  ive also had tenured  professors that were the best things on two legs ,sd,MALE,1
+"['{d well, } they did away with tenure  in teaching along time ago, {d you know, } in the public schools. /']",d well  they did away with tenure  in teaching along time ago d you know  in the public schools ,sd,FEMALE,1
+['{c but } in addition. -/'],c but  in addition ,%,MALE,5
+['it makes you more at ease.  /'],it makes you more at ease  ,sd,FEMALE,1
+"[""{d you know, } you knew you weren't going to lose your job unless you really did something horrendous. /""]",d you know  you knew you werent going to lose your job unless you really did something horrendous ,sd,FEMALE,1
+"[""{d well, } [ they, +  they ] really  can't fire you without cause,  /""]",d well   they   they  really  cant fire you without cause  ,sd,MALE,1
+"['{d you know } the governments taken care of that,  /']",d you know  the governments taken care of that  ,sd,MALE,1
+"[""{c but, } {f um, } what i'm looking at is, {d you know, } there are a lot of teachers that aren't  getting paid what they need to be getting paid,  /""]",c but  f um  what im looking at is d you know  there are a lot of teachers that arent  getting paid what they need to be getting paid  ,sv,MALE,3
+"[""{c and } there are some  teachers <noise> out there that aren't worth having around as janitors. /""]",c and  there are some  teachers noise out there that arent worth having around as janitors ,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+"[""{d you know, } {c and } i could see a  point protecting someone's position,  /""]",d you know  c and  i could see a  point protecting someones position  ,sd,MALE,1
+"[""{c but, } on the other hand, i don't think [ it, +   {d you know, } that ] someone that teaches, {f uh, } say shop, for instance, should have to have degree at all. /""]",c but  on the other hand i dont think  it    d you know  that  someone that teaches f uh  say shop for instance should have to have degree at all ,sv,MALE,3
+"[""{d well } they don't. /""]",d well  they dont ,sd,FEMALE,1
+['{d well. } -/'],d well  ,%,MALE,5
+"[""in some places they don't. /""]",in some places they dont ,sd,FEMALE,1
+"[""in some places that don't. /""]",in some places that dont ,sd,MALE,1
+['do they? /'],do they ,qy,FEMALE,7
+"['{c but, } {d you know, } [ you, +  you ]  get specialized education now, for instance, take computer science.  /']",c but  d you know   you   you   get specialized education now for instance take computer science  ,sd,MALE,1
+"[""we've got kids twenty  years old, right now, that could beat any computer professor at micro computer applications.  /""]",weve got kids twenty  years old right now that could beat any computer professor at micro computer applications  ,sv,MALE,3
+['i know we could.   /'],i know we could   ,sv,MALE,3
+"[""{c and } these people can't even get jobs doing  anything besides digging ditches, because there's no comprehensive test  that they can take, that would allow them [ to, +  to ] step into that  position without having to go through the rigamarole of college. /""]",c and  these people cant even get jobs doing  anything besides digging ditches because theres no comprehensive test  that they can take that would allow them  to   to  step into that  position without having to go through the rigamarole of college ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, } i went to college  late on in life  /']",d you know  i went to college  late on in life  ,sd,MALE,1
+"[""{c and } i realize that hey, it's nothing but four years of endurance  /""]",c and  i realize that hey its nothing but four years of endurance  ,sd,MALE,1
+"['{c and } you might be teachable,  /']",c and  you might be teachable  ,sd,MALE,1
+['{d you } know what i mean? /'],d you  know what i mean ,^g,MALE,40
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{e i mean, } my agree is absolutely worthless. /*[[listen; agree is probably degree]]']",e i mean  my agree is absolutely worthless listen agree is probably degree,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"[""it's my experience [ and, +  and ]  my knowledge [ that, +  that ] is beneficial,  /""]",its my experience  and   and   my knowledge  that   that  is beneficial  ,sv,MALE,3
+"['{c but } then, {d you know, } like i said, i came in backwards. /']",c but  then d you know  like i said i came in backwards ,sd,MALE,1
+['what did you get your degree at? /'],what did you get your degree at ,qw,FEMALE,12
+['industrial marketing. /'],industrial marketing ,sd,MALE,1
+"[""{c and } what's your job now? /""]",c and  whats your job now ,qw,FEMALE,12
+"[""{d well, } actually i'm selling computer  software.  /""]",d well  actually im selling computer  software  ,sd,MALE,1
+"['{c but, } the two are mutually exclusive.  because, <noise> [ the, + the ]  experience that got me the job that i got now, was my experience in the  construction field, prior to going to college --']",c but  the two are mutually exclusive  because noise  the  the   experience that got me the job that i got now was my experience in the  construction field prior to going to college ,sd,MALE,1
+['huh-uh. /'],huhuh ,b,FEMALE,2
+"['-- not my degree, which is i think kind of bizarre. /']", not my degree which is i think kind of bizarre ,+,MALE,0
+['maybe.  /'],maybe  ,aap_am,FEMALE,39
+"['all right,  /']",all right  ,%,FEMALE,5
+['what else could we change?  /'],what else could we change  ,qo,FEMALE,25
+"[""{f oh, } i'd like to see flexible hours.  and teaching,""]",f oh  id like to see flexible hours  and teaching,sd,FEMALE,1
+"['{d well } {f uh, }']",d well  f uh ,sd,MALE,1
+"['shared, job sharing,']",shared job sharing,+,FEMALE,0
+"[""[ [ we've, +""]",  weve ,+,MALE,0
+['more of that. /'],more of that ,+,FEMALE,0
+"[""we've, ] +  we've ] already got that. /""]",weve    weve  already got that ,+,MALE,0
+"[""{d well, } {d see, } we've got a little  bit of it, but not much.  /""]",d well  d see  weve got a little  bit of it but not much  ,sd,FEMALE,1
+['it would be nice if you had full insurance coverage if you  were doing job sharing.  /'],it would be nice if you had full insurance coverage if you  were doing job sharing  ,sv,FEMALE,3
+['what else.  /'],what else  ,t1,FEMALE,37
+"[""i'd like to be able [ to, +  to ]  evaluate your boss  /""]",id like to be able  to   to   evaluate your boss  ,sd,FEMALE,1
+"['{c and } it really carry some weight,  /']",c and  it really carry some weight  ,sd,FEMALE,1
+['{c and } you get to choose your boss. /'],c and  you get to choose your boss ,sd,FEMALE,1
+"['{d well, } - /']",d well   ,%,MALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+"['supervisor  evaluations have always been a tough one.  especially in my line, because, {d you know, }  my supervisor has nothing to with my job, except to make sure i get my check. /']",supervisor  evaluations have always been a tough one  especially in my line because d you know   my supervisor has nothing to with my job except to make sure i get my check ,sv,MALE,3
+['huh-uh. /'],huhuh ,b,FEMALE,2
+['<laughter>.'],laughter,x,MALE,8
+"['{d well, } {c so } you get to evaluate him though? /']",d well  c so  you get to evaluate him though ,qy,FEMALE,7
+"['{d well, } not really.  /']",d well  not really  ,ng,MALE,29
+"[""{d you know, }  {e i mean, } [ there's, +  what's ] to evaluate about him, {d you know, }  /""]",d you know   e i mean   theres   whats  to evaluate about him d you know   ,qh,MALE,26
+"['{e i mean, } [ my, +  my, ]  supervisor level is {d like } practically zero.  /']",e i mean   my   my   supervisor level is d like  practically zero  ,sd,MALE,1
+['i run the whole show.  /'],i run the whole show  ,sd,MALE,1
+"['{c and } when i need something,  i tell my boss  /']",c and  when i need something  i tell my boss  ,sd,MALE,1
+"[""{c and } he gets it for me, because he knows, that i know, what i'm doing. /""]",c and  he gets it for me because he knows that i know what im doing ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{d you know, } {c and } {f uh, }  [ that, +  that ] is something that i think needs to be expanded on, specially in the large market place.   {d you know, } the major corporation, because so often, {d you know, } you get  a guy who's got eight or nine or ten people working for him in separate areas --""]",d you know  c and  f uh    that   that  is something that i think needs to be expanded on specially in the large market place   d you know  the major corporation because so often d you know  you get  a guy whos got eight or nine or ten people working for him in separate areas ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- so to speak.  /'], so to speak  ,+,MALE,0
+"[""{d you know, }  [ it's, +  it's ] hard for me to, {d you know, } especially since i'm in marketing sales, {d you know, }  /""]",d you know    its   its  hard for me to d you know  especially since im in marketing sales d you know   ,sd,MALE,1
+"[""i make more than my boss.   because he's salary and i'm not.  /""]",i make more than my boss   because hes salary and im not  ,sd,MALE,1
+['i make as much as i earn.  /'],i make as much as i earn  ,sd,MALE,1
+"[""{d you know, } if i don't make a sale, i don't make anything <laughter>. /""]",d you know  if i dont make a sale i dont make anything laughter ,sd,MALE,1
+['huh-uh. /'],huhuh ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{d well } it's tough,  /""]",d well  its tough  ,sv,MALE,3
+"['{c but, } {f uh, } {d you know, } there are requirements, and  quotas, what not, for me to make,  /']",c but  f uh  d you know  there are requirements and  quotas what not for me to make  ,sd,MALE,1
+"[""{c but, } {f um, } the bottom line [ on, +  on ] that kind of thing is, {d you know, } we have a lot of  people, especially in major corporations, who aren't doing a damn thing.  /""]",c but  f um  the bottom line  on   on  that kind of thing is d you know  we have a lot of  people especially in major corporations who arent doing a damn thing  ,sv,MALE,3
+"[""they're just there.  /""]",theyre just there  ,sv,MALE,3
+"['{d you know, } the work they do could be totally eliminated,  /']",d you know  the work they do could be totally eliminated  ,sv,MALE,3
+"[""{c and } not that they aren't worth or not that they aren't trying or anything. but,  it's just that their jobs are useless.  /""]",c and  not that they arent worth or not that they arent trying or anything but  its just that their jobs are useless  ,sv,MALE,3
+"['take, for instance, {f um, } a large  construction company i used to work for.  ed swampers.  /']",take for instance f um  a large  construction company i used to work for  ed swampers  ,ad,MALE,22
+"[""swampers is a guy, who's in the union.  /""]",swampers is a guy whos in the union  ,sd,MALE,1
+"[""he's a laborer.  /""]",hes a laborer  ,sd,MALE,1
+"[""{c and } he's assigned to, -/""]",c and  hes assigned to ,sd,MALE,1

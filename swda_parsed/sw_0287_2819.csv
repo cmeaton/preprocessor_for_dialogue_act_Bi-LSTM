@@ -1,0 +1,231 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+"[""{c so, }  {f um, } [ how do think, + how do you think ] we've changed in the last ten to twenty years? /""]",c so   f um   how do think  how do you think  weve changed in the last ten to twenty years ,qw,MALE,12
+"[""{f uh, } i'm at a little bit of a loss,  /""]",f uh  im at a little bit of a loss  ,sd,MALE,1
+"[""{d you know, } i don't know,  /""]",d you know  i dont know  ,h,MALE,15
+"['ten years ago, - /']",ten years ago  ,%,MALE,5
+"[""{d see } [ i'm what, + i'm ] about, {f uh, } twenty-eight now  /""]",d see   im what  im  about f uh  twentyeight now  ,sd,MALE,1
+['{c so } --'],c so  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- when i was eighteen, - /']", when i was eighteen  ,+,MALE,0
+"[""things haven't changed a whole lot. /""]",things havent changed a whole lot ,sd,MALE,1
+['really. /'],really ,b,MALE,2
+"[""people are being [ [ a little more, + {f oh, } i don't know, a little le-, ] + a little less ] bigoted in some ways,  /""]",people are being   a little more  f oh  i dont know a little le   a little less  bigoted in some ways  ,sv,MALE,3
+"[""i don't know -- /""]",i dont know  ,h,MALE,15
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- seems to me. /'], seems to me ,sv,MALE,3
+"['{d well, } -/']",d well  ,%,MALE,5
+"[""i guess i'm like my parents.  /""]",i guess im like my parents  ,sd,MALE,1
+"['the younger generation gets away with hell,  /']",the younger generation gets away with hell  ,sv,MALE,3
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,MALE,5
+['<laughter>  yeah. /'],laughter  yeah ,b,MALE,2
+"['{d well, } it seems to me that civic freedoms are more restricted  /']",d well  it seems to me that civic freedoms are more restricted  ,sv,MALE,3
+"[""{c but } that may just be because i've changed.  /""]",c but  that may just be because ive changed  ,sd,MALE,1
+"['{d you know, } i used to live up north.  /']",d you know  i used to live up north  ,sd,MALE,1
+"['down here, dallas, seems to me, the police are militant -- /']",down here dallas seems to me the police are militant  ,sv,MALE,3
+['really. /'],really ,b,MALE,2
+"['-- {c but, }  {f uh, } -/']", c but   f uh  ,%,MALE,5
+"[""where'd you live up, - /""]",whered you live up  ,qw,MALE,12
+"[""where'd you live at, /""]",whered you live at ,qw^d,MALE,41
+"['i lived in akron, ohio. /']",i lived in akron ohio ,sd,MALE,1
+"['{f oh, } did you?  /']",f oh  did you  ,bh,MALE,18
+"[""i'm from  ((   )) , illinois,  /""]",im from       illinois  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+['oh. /'],oh ,b,MALE,2
+"['[ how long, + how long ] you been in dallas? /']", how long  how long  you been in dallas ,qw,MALE,12
+"['{f oh, } about eight years. /']",f oh  about eight years ,sd,MALE,1
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+"[""in fact in the eight years i've been here it seems to me it [ gets more and  more, + gets to be more and more ] restrictive place to live.""]",in fact in the eight years ive been here it seems to me it  gets more and  more  gets to be more and more  restrictive place to live,sv,MALE,3
+"['yeah, {f uh } -- /']",yeah f uh   ,b,MALE,2
+"['i think, /']",i think ,+,MALE,0
+"[""-- {d you know, } {f uh, } as you're talking like police and stuff like that it's definitely a tough job to do. /""]", d you know  f uh  as youre talking like police and stuff like that its definitely a tough job to do ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i think it's, - /""]",i think its  ,%,MALE,5
+"['crime has [ gone, + ] got a lot worse in the [ last -- +']",crime has  gone   got a lot worse in the  last  ,sv,MALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,MALE,4
+['i agree. /'],i agree ,sd,MALE,1
+"['-- last ] ten, fifteen years,  /']", last  ten fifteen years  ,+,MALE,0
+['{c and } maybe that has a lot to do with it. /'],c and  maybe that has a lot to do with it ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ i, + i ] definitely think that has gotten a lot worse,  /']", i  i  definitely think that has gotten a lot worse  ,sv,MALE,3
+"[""{c and } {d you know, } [ i, + i ] think there's, - /""]",c and  d you know   i  i  think theres  ,%,MALE,5
+['to me there seems to be a little bit of a decline in the family values. /'],to me there seems to be a little bit of a decline in the family values ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's true. /""]",thats true ,ba,MALE,6
+"['{d so, } -/']",d so  ,%,MALE,5
+"[""that's true, /""]",thats true ,ba,MALE,6
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,MALE,5
+"[""i'd say my own personal lifestyle has improved -- /""]",id say my own personal lifestyle has improved  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- {c but } that's more a matter of, - /""]", c but  thats more a matter of  ,%,MALE,5
+['{d you know } --'],d you know  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- i'm no longer a teenager in high school. /""]", im no longer a teenager in high school ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i think there's more pressure {d like } on both parents to work, and  things like that than there used to be  /""]",i think theres more pressure d like  on both parents to work and  things like that than there used to be  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+['hello.  /'],hello  ,t3,MALE,35
+"[""somebody's at the door. /""]",somebodys at the door ,sd,MALE,1
+['{d so. } -/'],d so  ,%,MALE,5
+['hang on just a second. /'],hang on just a second ,ad,MALE,22
+['okay. /'],okay ,aa,MALE,4
+['<noise>  <<talking off phone>>. okay. /'],noise  talking off phone okay ,t3,MALE,35
+"[""{c but, }  {f uh, } i don't know,  /""]",c but   f uh  i dont know  ,h,MALE,15
+"[""[ that's just, + that's one ] thing [ i see, + i see ] a lot more, {d you know, } double income families and a lot more {d like } baby sitters raising the kids and things like that, i guess. /""]", thats just  thats one  thing  i see  i see  a lot more d you know  double income families and a lot more d like  baby sitters raising the kids and things like that i guess ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's true,  /""]",thats true  ,ba,MALE,6
+"[""it's getting more and more expensive to live. /""]",its getting more and more expensive to live ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's for sure. /""]",thats for sure ,ba,MALE,6
+"[""[ you can't, + you can't ] make it, /""]", you cant  you cant  make it ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['without it hardly, - /']",without it hardly  ,%,MALE,5
+"[""that's right. /""]",thats right ,ba,MALE,6
+"['i guess, when i was growing up, [ it was, + it was ] still the ideal to [ get a, + get a ] home and buy house,  /']",i guess when i was growing up  it was  it was  still the ideal to  get a  get a  home and buy house  ,sd,MALE,1
+['((   ))  {c and } these days you see a lot of people living in apartments --'],     c and  these days you see a lot of people living in apartments ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- forever -- /'], forever  ,+,MALE,0
+['yeah -- /'],yeah  ,b,MALE,2
+"[""-- {d you know, } you just don't buy a house, /""]", d you know  you just dont buy a house ,sv,MALE,3
+"[""-- just because they can't get into one,  /""]", just because they cant get into one  ,^2,MALE,23
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's right.  /""]",thats right  ,ba,MALE,6
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""the ways our tax laws and stuff are structured, you can't ever catch a break until you can get into a house --""]",the ways our tax laws and stuff are structured you cant ever catch a break until you can get into a house ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- in a lot of ways,  /']", in a lot of ways  ,+,MALE,0
+"['{c so. }   yeah,  /']",c so    yeah  ,b,MALE,2
+"[""[ that's, +  that's ] a good point  /""]", thats   thats  a good point  ,ba,MALE,6
+"[""{c so, }  i'm trying to think of anything else that's changed over the last ten or twenty years. /""]",c so   im trying to think of anything else thats changed over the last ten or twenty years ,^h,MALE,27
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""for me it's kind of hard,  /""]",for me its kind of hard  ,sd,MALE,1
+"[""i don't know.  /""]",i dont know  ,h,MALE,15
+"['i think, - /']",i think  ,%,MALE,5
+"[""i don't know, i think the middle class is shrinking and the, {f uh, } lower class is expanding -- /""]",i dont know i think the middle class is shrinking and the f uh  lower class is expanding  ,sv,MALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,MALE,4
+['i agree. /'],i agree ,aa,MALE,4
+"[""-- {c and } sooner or later [ there's going to, + there's going to ] be a turn around. /""]", c and  sooner or later  theres going to  theres going to  be a turn around ,sv,MALE,3
+"['{d well, } i hope so,  {d you know, } at some point  /']",d well  i hope so  d you know  at some point  ,sd,MALE,1
+"[""{c but } i don't know at what point, /""]",c but  i dont know at what point ,sd,MALE,1
+"[""{c but } i think it's going to be at the expense of the middle class, {f uh } -- /""]",c but  i think its going to be at the expense of the middle class f uh   ,sv,MALE,3
+"['yeah, /']",yeah ,b,MALE,2
+"['-- {c so, }  usually is --']", c so   usually is ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['-- i think. /'], i think ,+,MALE,0
+"[""it's, {f uh, } -/""]",its f uh  ,%,MALE,5
+"[""it's hard for me to say.  /""]",its hard for me to say  ,sd,MALE,1
+"[""i hope it happens, because i'd be one of those that gets caught.  /""]",i hope it happens because id be one of those that gets caught  ,sd,MALE,1
+"[""{c but } on the other hand, there's a lot of injustice that needs to [ be, + be ] changed. /""]",c but  on the other hand theres a lot of injustice that needs to  be  be  changed ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""that's right.  /""]",thats right  ,ba,MALE,6
+['do you work at t i? /'],do you work at t i ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['do you? /'],do you ,bh,MALE,18
+['yeah. /'],yeah ,ny,MALE,9
+"['what, {f uh, } department do you work in? /']",what f uh  department do you work in ,qw,MALE,12
+"[""i'm in semiconductor. /""]",im in semiconductor ,sd,MALE,1
+['are you?  /'],are you  ,bh,MALE,18
+"[""i'm in semiconductor division too. /""]",im in semiconductor division too ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d so. }   how long you been with them, since you moved down here? /']",d so    how long you been with them since you moved down here ,qw,MALE,12
+"['about eight years,  /']",about eight years  ,sd,MALE,1
+['yeah. /'],yeah ,%,MALE,5
+"[""{f um, } i'm over at the center one building. /""]",f um  im over at the center one building ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['so am i. /'],so am i ,sd,MALE,1
+['are you really.  /'],are you really  ,ba,MALE,6
+['what floor? /'],what floor ,qw,MALE,12
+['two. /'],two ,sd,MALE,1
+"[""i'm on the seventh floor. /""]",im on the seventh floor ,sd,MALE,1
+"['{d well, } -/']",d well  ,%,MALE,5
+['how about that.  /'],how about that  ,ba,MALE,6
+"[""{d well, } it's a small world.  /""]",d well  its a small world  ,sd,MALE,1
+"[""[ {c so, } +  {c so } ] let's see,  /""]", c so    c so   lets see  ,^h,MALE,27
+"['second floor, you work with, {f uh, } linear. /']",second floor you work with f uh  linear ,qy^d,MALE,16
+['yeah. /'],yeah ,ny,MALE,9
+"['[ [ do you. +  do you, ] + {f uh, } do you ] know alec morton? /']",  do you   do you   f uh  do you  know alec morton ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""i've probably seen him around. /""]",ive probably seen him around ,sd,MALE,1
+"['{f oh, } you do, {f huh. }  /']",f oh  you do f huh   ,ba,MALE,6
+"['{d well, } he comes up and pushes us around  /']",d well  he comes up and pushes us around  ,sd,MALE,1
+"[""[ {c so, } + {f uh, } {c so } ] i'm pretty familiar with, -/""]", c so   f uh  c so   im pretty familiar with ,sd,MALE,1
+['are you d a d or something up there? /'],are you d a d or something up there ,qy,MALE,7
+['{f huh? } /'],f huh  ,br,MALE,30
+['are you d a d or something? /'],are you d a d or something ,qy,MALE,7
+['yeah <laughter>.  /'],yeah laughter  ,ny,MALE,9
+"['yep,  /']",yep  ,ny,MALE,9
+['you must know him.  /'],you must know him  ,sv,MALE,3
+['his reputation precedes him. /'],his reputation precedes him ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{d well, } seventh floor. /']",d well  seventh floor ,sd,MALE,1
+"['yeah, /']",yeah ,b,MALE,2
+"['t a d, /']",t a d ,sd,MALE,1
+"['{d well, } {f uh, } [ he, + {f uh, } boy, he ] comes up there and gives us all kinds of grief.  /']",d well  f uh   he  f uh  boy he  comes up there and gives us all kinds of grief  ,sd,MALE,1
+"[""[ they, + they ] say it's what makes him happy is to give us d a d -ers grief,  /""]", they  they  say its what makes him happy is to give us d a d ers grief  ,sd,MALE,1
+['{c so } i can believe it  /'],c so  i can believe it  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+['{d well. } -/'],d well  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""let's see, if you've been in dallas eight years, i guess that's about how long, - /""]",lets see if youve been in dallas eight years i guess thats about how long  ,sv,MALE,3
+"[""i've been in here about eight years, too, i guess.  /""]",ive been in here about eight years too i guess  ,sd,MALE,1
+"['{f um, } been with t i like twelve,  /']",f um  been with t i like twelve  ,sd,MALE,1
+['{c but } i started out in lubbock. /'],c but  i started out in lubbock ,sd,MALE,1
+"['lubbock is, - /']",lubbock is  ,sd,MALE,1
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"[""i guess if this is the only place you've lived, lubbock is a lot different than dallas. /""]",i guess if this is the only place youve lived lubbock is a lot different than dallas ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['flat, dry --']",flat dry ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- and dirty, /']", and dirty ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c but } the people all seem to be a lot more laid back, too,  /']",c but  the people all seem to be a lot more laid back too  ,sd,MALE,1
+"['{e i mean, } here in dallas everything is just real rush, rush. /']",e i mean  here in dallas everything is just real rush rush ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i lived in the country for several years,  /']",i lived in the country for several years  ,sd,MALE,1
+['{c and } living in the city is a whole different --'],c and  living in the city is a whole different ,sd,MALE,1
+['{f oh } yeah. /'],f oh  yeah ,b,MALE,2
+"['-- {f uh, } social structure  /']", f uh  social structure  ,+,MALE,0
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,MALE,5
+"['{d well, } i got some friends that, {f uh, } - /']",d well  i got some friends that f uh   ,sd,MALE,1
+['seems like he went to school at {d like } devry.  /'],seems like he went to school at d like  devry  ,sd,MALE,1
+['is there a devry in akron? /'],is there a devry in akron ,qy,MALE,7
+"[""i don't even know -- /""]",i dont even know  ,no,MALE,31
+"['oh, /']",oh ,bk,MALE,14
+"[""-- i haven't been up there in years. /""]", i havent been up there in years ,sd,MALE,1
+"['{f oh, } i see,  /']",f oh  i see  ,bk,MALE,14
+"['{d well, } he went to school somewhere in ohio,  /']",d well  he went to school somewhere in ohio  ,sd,MALE,1
+"[""{c and } he's from that area,  /""]",c and  hes from that area  ,sd,MALE,1
+"['{c and, }  {f uh, } he works over in the [ park, + park ] central building i think  /']",c and   f uh  he works over in the  park  park  central building i think  ,sd,MALE,1
+"[""{c but, } {f uh, } i haven't talked to him in a while,  /""]",c but  f uh  i havent talked to him in a while  ,sd,MALE,1
+"['{c but, }  {f um, } yeah,  /']",c but   f um  yeah  ,%,MALE,5
+"['[ he, + he ] misses it.  /']", he  he  misses it  ,sd,MALE,1
+"['he used to go back twice or three times a year, {d you know, } because he missed it.  /']",he used to go back twice or three times a year d you know  because he missed it  ,sd,MALE,1
+"[""sounds like you haven't been back there in a while. /""]",sounds like you havent been back there in a while ,sv,MALE,3
+"['no,  /']",no  ,aa,MALE,4
+"[""i haven't been back in [ fi-, +  ten, fifteen ] years. /""]",i havent been back in  fi   ten fifteen  years ,sd,MALE,1
+['you still have relatives back there  /'],you still have relatives back there  ,qy^d,MALE,16
+"['{c or, } -/']",c or  ,%,MALE,5
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['i do,  /']",i do  ,sd,MALE,1
+"[""i just haven't had a chance to get back <laughter>. /""]",i just havent had a chance to get back laughter ,sd,MALE,1
+['oh. /'],oh ,b,MALE,2
+['catch them next year probably. /'],catch them next year probably ,sv,MALE,3
+['really.  /'],really  ,b,MALE,2
+"[""{d well, } let's see,  /""]",d well  lets see  ,^h,MALE,27
+"['[ how, + how ] long are we supposed to talk here? /']", how  how  long are we supposed to talk here ,qw,MALE,12
+"[""i don't know,  /""]",i dont know  ,no,MALE,31
+"['i think we ran out of [ social, +']",i think we ran out of  social ,sv,MALE,3
+['<laughter>.'],laughter,x,MALE,8
+"['social ] changes to talk about,  /']",social  changes to talk about  ,+,MALE,0
+['{c so. } -/'],c so  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+['{d well } my kids are probably needing me to go  /'],d well  my kids are probably needing me to go  ,sd,MALE,1
+['{c so } -- -/'],c so   ,%,MALE,5
+"['okay, /']",okay ,b,MALE,2
+"['-- all right,  /']", all right  ,fc,MALE,10
+"[""{d well, } it's nice talking to you. /""]",d well  its nice talking to you ,fc,MALE,10
+"['yeah, /']",yeah ,fc,MALE,10
+['talk to you later. /'],talk to you later ,fc,MALE,10
+"['all righty,  /']",all righty  ,fc,MALE,10
+['bye. /'],bye ,fc,MALE,10
+['bye. /'],bye ,fc,MALE,10

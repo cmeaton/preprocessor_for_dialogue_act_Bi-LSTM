@@ -1,0 +1,118 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hello /'],hello ,fp,FEMALE,32
+['hello /'],hello ,fp,FEMALE,32
+['hi. /'],hi ,fp,FEMALE,32
+['hi. /'],hi ,fp,FEMALE,32
+"[""<inhaling>  my name's gail.  /""]",inhaling  my names gail  ,fp,FEMALE,32
+"[""i'm calling from texas. /""]",im calling from texas ,fp,FEMALE,32
+"[""i'm sandy.  /""]",im sandy  ,fp,FEMALE,32
+"[""i'm in texas, too. /""]",im in texas too ,fp,FEMALE,32
+"['{f oh, } what a deal. /']",f oh  what a deal ,ba,FEMALE,6
+['<laughter>.'],laughter,x,FEMALE,8
+['took long enough to find you. /'],took long enough to find you ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['seems like they take forever any more,  /']",seems like they take forever any more  ,sv,FEMALE,3
+"['[ {c but, } + {f um, } {d so } ] did you hear what the topic was -- /']", c but   f um  d so   did you hear what the topic was  ,qy,FEMALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"['-- did she tell you,  /']", did she tell you  ,qy,FEMALE,7
+['okay. /'],okay ,%,FEMALE,5
+['yeah. /'],yeah ,ny,FEMALE,9
+"['great,  /']",great  ,ba,FEMALE,6
+"[""{d well, } if you're ready, then, {f uh, } i'll just go ahead and start. /""]",d well  if youre ready then f uh  ill just go ahead and start ,qy,FEMALE,7
+"['okay, /']",okay ,na,FEMALE,21
+"['okay,  /']",okay  ,bk,FEMALE,14
+['hold on <beep>.  /'],hold on beep  ,ad,FEMALE,22
+"['okay,  /']",okay  ,%,FEMALE,5
+"[""{d well } i guess we're supposed to talk about the changing roles of women. /""]",d well  i guess were supposed to talk about the changing roles of women ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""seems like, {f um, } to me, everything is just changing so much that it's almost like, {f um, } you can't keep up with things any more,  /""]",seems like f um  to me everything is just changing so much that its almost like f um  you cant keep up with things any more  ,sv,FEMALE,3
+"[""{c and } [ everything is, {f uh, } ther-, + ] everyone's striving so much to make it equal between men and women,  /""]",c and   everything is f uh  ther   everyones striving so much to make it equal between men and women  ,sv,FEMALE,3
+"[""i personally, i'm a stay home mom,  /""]",i personally im a stay home mom  ,sd,FEMALE,1
+['{c and } i like it the way it used to be. /'],c and  i like it the way it used to be ,sd,FEMALE,1
+['so am i. /'],so am i ,sd,FEMALE,1
+"['are you, /']",are you ,b,FEMALE,2
+"[""{d you know, } i think it's kind of coming back around to that, don't you,  /""]",d you know  i think its kind of coming back around to that dont you  ,sv,FEMALE,3
+"[""{e i mean, } that there's a lot more people that stay home now than before,  /""]",e i mean  that theres a lot more people that stay home now than before  ,sv,FEMALE,3
+"['{c but } i guess more than anything i think maybe people were just kind of wanting to have the choice of what they could do, {d you know } -- /']",c but  i guess more than anything i think maybe people were just kind of wanting to have the choice of what they could do d you know   ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- i don't know,  /""]", i dont know  ,h,FEMALE,15
+"[""{e i mean } i think sometimes some of [ the, + the ] women's lib though, is kind of like they wanted it all, {d you know, }  /""]",e i mean  i think sometimes some of  the  the  womens lib though is kind of like they wanted it all d you know   ,sv,FEMALE,3
+"[""{c and } you can't have everything -- /""]",c and  you cant have everything  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- [ [ i don't, + i don't think that you can have, ] +  {e i mean, } there's no way i could have ] a career and then be the kind of mom that i want to be -- /""]",   i dont  i dont think that you can have    e i mean  theres no way i could have  a career and then be the kind of mom that i want to be  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- {c and } to me that's more important. /""]", c and  to me thats more important ,sv,FEMALE,3
+"['[ ho-, + how ] many kids do you have? /']", ho  how  many kids do you have ,qw,FEMALE,12
+['two. /'],two ,sd,FEMALE,1
+['two? /'],two ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['are they young,  /']",are they young  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+['five and two. /'],five and two ,sd,FEMALE,1
+['five and two.  /'],five and two  ,b^m,FEMALE,24
+"['i have two,  /']",i have two  ,sd,FEMALE,1
+"['{c and } mine are two and nine months,  /']",c and  mine are two and nine months  ,sd,FEMALE,1
+"['{c so, } {f um, } [ being, + being ] home is real, - /']",c so  f um   being  being  home is real  ,%,FEMALE,5
+"[""[ i, + i ] just am fortunate because i don't know a real lot of moms that get to stay home,  /""]", i  i  just am fortunate because i dont know a real lot of moms that get to stay home  ,sv,FEMALE,3
+"[""{c and, }  {f uh, } [ i just, + it's just ] weird that i was just talking to somebody this morning [ who's, + who's ] [ a working, {f uh, } lady, + a working mom, ]  /""]",c and   f uh   i just  its just  weird that i was just talking to somebody this morning  whos  whos   a working f uh  lady  a working mom   ,sd,FEMALE,1
+"['{c and, }  {d you know, } these people have secretaries and these high power jobs,  /']",c and   d you know  these people have secretaries and these high power jobs  ,sd,FEMALE,1
+"['{c and } it just seems like, {f um, } - /']",c and  it just seems like f um   ,%,FEMALE,5
+"['[ she, + she ] told me now her daughter took her first steps at the day care,  /']", she  she  told me now her daughter took her first steps at the day care  ,sd,FEMALE,1
+"[""{c and, }  {f uh, } [ [ [ i just think, + i, ] + i, ] + i just don't agree with that. ]  /""]",c and   f uh     i just think  i   i   i just dont agree with that   ,sv,FEMALE,3
+"['i think it should be that people should get back to staying home [ and, + and ] being [ family, + more family ] oriented [ than, + than ] not.  /']",i think it should be that people should get back to staying home  and  and  being  family  more family  oriented  than  than  not  ,sv,FEMALE,3
+"[""{d you know, } it seems like  everybody's always so busy with everything that they're doing that there's no time for this and that and the other,  /""]",d you know  it seems like  everybodys always so busy with everything that theyre doing that theres no time for this and that and the other  ,sv,FEMALE,3
+"[""{c and } i hope it just doesn't get to where, {d you know, } there's [ more women, + more and more women ] going into the work force. /""]",c and  i hope it just doesnt get to where d you know  theres  more women  more and more women  going into the work force ,sv,FEMALE,3
+"['{d well, } i agree,  /']",d well  i agree  ,aa,FEMALE,4
+"[""{e i mean, } {c but, }  [ i, + i ] hate for them to make people feel bad that have to work, too, saying, {d you know, } you should stay home, {d you know, } otherwise your children aren't going to, {d you know, } turn out, or whatever --""]",e i mean  c but    i  i  hate for them to make people feel bad that have to work too saying d you know  you should stay home d you know  otherwise your children arent going to d you know  turn out or whatever ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- because that's not fair to, {d you know, } {d like } the single moms that have to work,  /""]", because thats not fair to d you know  d like  the single moms that have to work  ,+,FEMALE,0
+"[""{c or, }  if they wouldn't be able to make ends meet --""]",c or   if they wouldnt be able to make ends meet ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- not working or whatever,  /']", not working or whatever  ,+,FEMALE,0
+"[""{e i mean, } i think it's got to be a personal choice,  /""]",e i mean  i think its got to be a personal choice  ,sv,FEMALE,3
+"[""{c and, }  it's nice [ that, + that ] we could have the choice to stay home. /""]",c and   its nice  that  that  we could have the choice to stay home ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""{d well } i find that [ [ i, + whenever i have to, ] + whenever i'm ] in a group of people and we're discussing things, - /""]",d well  i find that   i  whenever i have to   whenever im  in a group of people and were discussing things  ,sd,FEMALE,1
+"[""{d like } just over the weekend i visited my family, and some cousins i hadn't seen in a long time,  /""]",d like  just over the weekend i visited my family and some cousins i hadnt seen in a long time  ,sd,FEMALE,1
+"[""{c and } everyone's all interested in what everybody's doing,  /""]",c and  everyones all interested in what everybodys doing  ,sd,FEMALE,1
+"['{c and, }  {f uh, } {d you know, } {d well, } i had my baby with me,  /']",c and   f uh  d you know  d well  i had my baby with me  ,sd,FEMALE,1
+"['{c and } i found that all i talked about was my baby,']",c and  i found that all i talked about was my baby,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['which was fine with me,  /']",which was fine with me  ,+,FEMALE,0
+"[""{c but } it's like, {d you know, } here these people are,  /""]",c but  its like d you know  here these people are  ,sd,FEMALE,1
+"[""they're going to school, getting degrees, making all this money,  /""]",theyre going to school getting degrees making all this money  ,sd,FEMALE,1
+"[""{c and, } {d you know, } they kind of looked at me like i was from the dark ages, <laughter> {d you know, } [ like i, + ] because i didn't have really all that much to talk about, {f uh, } where career and things like that were concerned,  /""]",c and  d you know  they kind of looked at me like i was from the dark ages laughter d you know   like i   because i didnt have really all that much to talk about f uh  where career and things like that were concerned  ,sd,FEMALE,1
+['{c and } you kind of feel little bit like an outcast for a while --'],c and  you kind of feel little bit like an outcast for a while ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- in social situations sometimes,  /']", in social situations sometimes  ,+,FEMALE,0
+"[""which is too bad, because, {d you know, } [ [ i, + i feel like i don't, ] + obviously i don't ] get paid for my job,  /""]",which is too bad because d you know    i  i feel like i dont   obviously i dont  get paid for my job  ,sd,FEMALE,1
+['{c but } i should get paid at least double what my husband makes <laughter> working in an office for staying home -- /'],c but  i should get paid at least double what my husband makes laughter working in an office for staying home  ,sv,FEMALE,3
+['yeah <laughter>. /'],yeah laughter ,b,FEMALE,2
+"[""-- that's what i figure,  /""]", thats what i figure  ,aa,FEMALE,4
+"[""<laughter> i'm worth a lot just for what i do every day,  /""]",laughter im worth a lot just for what i do every day  ,sv,FEMALE,3
+"[""{c but, } {d you know, } i don't know,  /""]",c but  d you know  i dont know  ,h,FEMALE,15
+"['this is kind of a, {f um, } - /']",this is kind of a f um   ,%,FEMALE,5
+"[""[ at, + at ] least here i've noticed, - /""]", at  at  least here ive noticed  ,%,FEMALE,5
+"[""i'm not from here,  /""]",im not from here  ,sd,FEMALE,1
+"[""i'm from colorado,  /""]",im from colorado  ,sd,FEMALE,1
+"[""{c but } i've really noticed that there are [ a lot of, + {f uh, } a lot more ] people that are more comfortable, at least, with some women being home  [ and, + ] at least in the circles i've travelled and in the church that i go to, {d you know, }  /""]",c but  ive really noticed that there are  a lot of  f uh  a lot more  people that are more comfortable at least with some women being home   and   at least in the circles ive travelled and in the church that i go to d you know   ,sv,FEMALE,3
+['that - /'],that  ,%,FEMALE,5
+"[""men don't treat you like you don't know anything, generally --""]",men dont treat you like you dont know anything generally ,sv,FEMALE,3
+['yeah <laughter>. /'],yeah laughter ,b,FEMALE,2
+['-- speaking. /'], speaking ,+,FEMALE,0
+"['{d well, } {c and } i think a lot of companies are realizing this and  offering more opportunities as far as {d like } job sharing or, {d you know, } even having a day care on site and that kind of stuff,  /']",d well  c and  i think a lot of companies are realizing this and  offering more opportunities as far as d like  job sharing or d you know  even having a day care on site and that kind of stuff  ,sv,FEMALE,3
+"[""{c and } i think that's really important --""]",c and  i think thats really important ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- [ that, + that ] they do that  /']",  that  that  they do that  ,+,FEMALE,0
+"[""{c and } they realize there's a need for that,  /""]",c and  they realize theres a need for that  ,sv,FEMALE,3
+"[""{c and, }  {f um, } i don't know,  /""]",c and   f um  i dont know  ,h,FEMALE,15
+"['i found when i did do some work when my son was young, it was like contract work,  /']",i found when i did do some work when my son was young it was like contract work  ,sd,FEMALE,1
+"[""{c and } it wasn't where i had to be there every day,  /""]",c and  it wasnt where i had to be there every day  ,sd,FEMALE,1
+"['{c but, }  {e i mean, } we were going to the doctor once a week,  /']",c but   e i mean  we were going to the doctor once a week  ,sd,FEMALE,1
+"[""{c so, } i don't know how you could have a full time job and ever have any vacation time to do anything besides go to the <laughter> doctor. /""]",c so  i dont know how you could have a full time job and ever have any vacation time to do anything besides go to the laughter doctor ,sv,FEMALE,3
+"['<laughter> yeah,  /']",laughter yeah  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['i can see where that would definitely hinder the problem,  /']",i can see where that would definitely hinder the problem  ,ba,FEMALE,6
+['definitely.  /'],definitely  ,aa,FEMALE,4
+"['{d well, } -/']",d well  ,%,FEMALE,5

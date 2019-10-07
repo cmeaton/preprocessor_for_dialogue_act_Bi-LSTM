@@ -1,0 +1,233 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['where do you live? /'],where do you live ,qw,FEMALE,12
+"['{f uh, } in the houston area. /']",f uh  in the houston area ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{d well, } i used to.  /']",d well  i used to  ,sd,FEMALE,1
+['i lived there for a long time.  /'],i lived there for a long time  ,sd,FEMALE,1
+"[""{c but } i'm now in palo alto, california which is, i think, the recycling capital of the world. /""]",c but  im now in palo alto california which is i think the recycling capital of the world ,sd,FEMALE,1
+"[""{f oh, } that's great. /""]",f oh  thats great ,ba,FEMALE,6
+"['{c so, } we have many recycling activities  /']",c so  we have many recycling activities  ,sd,FEMALE,1
+"[""{c and }  i'm, [ and + ] in full, {f uh, } support of all of them. /""]",c and   im  and   in full f uh  support of all of them ,sd,FEMALE,1
+"['{f oh, } we are too.  /']",f oh  we are too  ,sd,FEMALE,1
+"['our community is, {f uh, }  just starting to get organized about it.  /']",our community is f uh   just starting to get organized about it  ,sd,FEMALE,1
+"['they just opened up a recycling center where we go and donate  [ our, + our ] things and dump them off ourselves. /']",they just opened up a recycling center where we go and donate   our  our  things and dump them off ourselves ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, }  {f uh, } it, -/']",c and   f uh  it ,%,FEMALE,5
+"[""{d well, } that's something  /""]",d well  thats something  ,ba,FEMALE,6
+"[""{c but } [ it, + it ] seems to  me that we've gotten a whole lot better, {f um, } cooperation out here, {f uh, }  by setting it up so that we pay just a little bit extra, {f uh, }  /""]",c but   it  it  seems to  me that weve gotten a whole lot better f um  cooperation out here f uh   by setting it up so that we pay just a little bit extra f uh   ,sd,FEMALE,1
+"[""{d actually } i don't think we pay very much extra at all too,  /""]",d actually  i dont think we pay very much extra at all too  ,sd,FEMALE,1
+"['{c but } the, {f uh, } garbage men,']",c but  the f uh  garbage men,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['come by, {f uh, } on your regular garbage day and pick  up the recycling out at the curb. /']",come by f uh  on your regular garbage day and pick  up the recycling out at the curb ,+,FEMALE,0
+"[""i think that's great.  /""]",i think thats great  ,sv,FEMALE,3
+"[""there's a few places in houston  where they're trying that out.  /""]",theres a few places in houston  where theyre trying that out  ,sd,FEMALE,1
+"[""i don't know [ if it's, the, +    if they've done it ] citywide yet or not  where they have the color coded, {f uh, } bags and, {f uh, } bins. /""]",i dont know  if its the     if theyve done it  citywide yet or not  where they have the color coded f uh  bags and f uh  bins ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['we have burlap sacks, /']",we have burlap sacks ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c and } they give us one for aluminum  and, {f uh, } steel, one for metals,']",c and  they give us one for aluminum  and f uh  steel one for metals,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['and one for glass,  /']",and one for glass  ,+,FEMALE,0
+['{c and then } you can either  bundle your newspapers or put them in grocery bags.  /'],c and then  you can either  bundle your newspapers or put them in grocery bags  ,sd,FEMALE,1
+"['{c so, }  [ we have, +  we leave ] three little piles,']",c so    we have   we leave  three little piles,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['that  (( they need out ))  on the curb every  thursday  /'],that   they need out   on the curb every  thursday  ,+,FEMALE,0
+"[""{c and } the garbage men come by and, {f uh, } collect them and leave us new bags  when ours get old and  ratty or leave the ones if they're still in good shape. /""]",c and  the garbage men come by and f uh  collect them and leave us new bags  when ours get old and  ratty or leave the ones if theyre still in good shape ,sd,FEMALE,1
+"[""{f oh, } that's great. /""]",f oh  thats great ,ba,FEMALE,6
+"['{c and, }  [ the, + it ] really pays for itself  because, {f oh, } then the city,']",c and    the  it  really pays for itself  because f oh  then the city,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['gets the money from the recycling. /'],gets the money from the recycling ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""[ we're, + we're ] all for it.  /""]", were  were  all for it  ,sd,FEMALE,1
+"['our,  {f um, } - /']",our  f um   ,%,FEMALE,5
+"[""we've got several bins [ in our, + [ on, + in ] our ] garage where we, {f uh, } {d you know, }  sort things out [ and, + and ] take it [ to, + to ] the appropriate places. /""]",weve got several bins  in our   on  in  our  garage where we f uh  d you know   sort things out  and  and  take it  to  to  the appropriate places ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['the one thing i wish we could recycle is magazines.  /'],the one thing i wish we could recycle is magazines  ,sd,FEMALE,1
+"[""{c but } they claim that because of the way they're bound they,  {f uh, } it's too expensive to recycle them.  /""]",c but  they claim that because of the way theyre bound they  f uh  its too expensive to recycle them  ,sd,FEMALE,1
+"['at my office,']",at my office,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['we have two big cardboard boxes in the library where  everybody goes to pick up their mail,  /']",we have two big cardboard boxes in the library where  everybody goes to pick up their mail  ,+,FEMALE,0
+"[""{c and } they're,  {f uh, } - /""]",c and  theyre  f uh   ,%,FEMALE,5
+"[""one's for white paper  /""]",ones for white paper  ,sd,FEMALE,1
+"[""{c and } one's for colored paper  /""]",c and  ones for colored paper  ,sd,FEMALE,1
+"['{c so } anything like manuscripts or computer paper or  so-,']",c so  anything like manuscripts or computer paper or  so,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['things like that goes in those boxes,  /']",things like that goes in those boxes  ,+,FEMALE,0
+"['{c but } we get tons of  catalogs and  things like that and magazines,  /']",c but  we get tons of  catalogs and  things like that and magazines  ,sd,FEMALE,1
+"[""{c and } there's no way to get  rid of them.  /""]",c and  theres no way to get  rid of them  ,sv,FEMALE,3
+['it just seems like such a waste. /'],it just seems like such a waste ,sv,FEMALE,3
+"['{f oh, } it does.  /']",f oh  it does  ,aa,FEMALE,4
+['it does.  /'],it does  ,aa,FEMALE,4
+"[""{c but } i'm sure that  they can, {f uh, } find some sort of, {f uh, } use for them if, {d you know, } {d you know, }   there, - /""]",c but  im sure that  they can f uh  find some sort of f uh  use for them if d you know  d you know    there  ,sv,FEMALE,3
+"[""i've seen talk about, {f uh, } using garbage for, {f uh, } energy. /""]",ive seen talk about f uh  using garbage for f uh  energy ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and so, } {d you know, } you could also apply the  magazines toward that. /']",c and so  d you know  you could also apply the  magazines toward that ,sv,FEMALE,3
+"['{d well, } that would be a help.  /']",d well  that would be a help  ,ba,FEMALE,6
+['i wish they would  do that here.  /'],i wish they would  do that here  ,sd,FEMALE,1
+"[""we have got so little landfill space left that we're going to run  out before the end of this decade. /""]",we have got so little landfill space left that were going to run  out before the end of this decade ,sv,FEMALE,3
+['yes. /'],yes ,aa,FEMALE,4
+"[""{c and } it's really going to be a mess when they  have to start hunting for places to put the things. /""]",c and  its really going to be a mess when they  have to start hunting for places to put the things ,sv,FEMALE,3
+"['{f oh, } i know it. /']",f oh  i know it ,aa,FEMALE,4
+"['we did have, {f uh, } another novel, {f uh, } experiment  start this year.  /']",we did have f uh  another novel f uh  experiment  start this year  ,sd,FEMALE,1
+['now we can put all our yard clippings out. /'],now we can put all our yard clippings out ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['[ you can, +  you buy ] these super giant heavy-duty  paper bags,  /']", you can   you buy  these super giant heavyduty  paper bags  ,sd,FEMALE,1
+"[""they're about four-feet high. /""]",theyre about fourfeet high ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } you get them for i think it's about fifty cents  apiece at the grocery store you, {f um, } usually buy them by the dozen. /""]",c and  you get them for i think its about fifty cents  apiece at the grocery store you f um  usually buy them by the dozen ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and then } you put all your [ lar-, + ]  yard clippings and, {f uh, } leaf rakings and  anything that will be  (( compostible )) . /']",c and then  you put all your  lar    yard clippings and f uh  leaf rakings and  anything that will be   compostible   ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"['[ {c and } those + {c and } [ they, + the ] ] garbage men  also pick those up on thursdays. /']", c and  those  c and   they  the   garbage men  also pick those up on thursdays ,sd,FEMALE,1
+"[""{f oh, } that's great. /""]",f oh  thats great ,ba,FEMALE,6
+"['{c and then } [ the, + {f uh, } they ] take them to a special  part of our dump where (( composting ))  is now in full swing,  /']",c and then   the  f uh  they  take them to a special  part of our dump where  composting   is now in full swing  ,sd,FEMALE,1
+"['{c and } at the end of  every year, {f uh, } they sell all the composts to nurserymen and to local people who  want to put it on their flower beds <laughter>. /']",c and  at the end of  every year f uh  they sell all the composts to nurserymen and to local people who  want to put it on their flower beds laughter ,sd,FEMALE,1
+"['right,  /']",right  ,b,FEMALE,2
+"[""{d well, } that's a great idea.  /""]",d well  thats a great idea  ,ba,FEMALE,6
+"['i wish  we were  that, {f uh, } involved in,   {f uh, } or that our city was [ so involved in, +  that involved in ] recycling,']",i wish  we were  that f uh  involved in   f uh  or that our city was  so involved in   that involved in  recycling,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['like that  /'],like that  ,+,FEMALE,0
+"[""{c because, } {d you know, } i've talked to  many people  /""]",c because  d you know  ive talked to  many people  ,sd,FEMALE,1
+"[""{c and } we wouldn't mind going its extra effort to do it.  {f uh, } /""]",c and  we wouldnt mind going its extra effort to do it  f uh  ,sd,FEMALE,1
+"[""if they make it so that it's not a horrendous  inconvenience, i think most people would. /""]",if they make it so that its not a horrendous  inconvenience i think most people would ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{f oh, } yeah.   {d you know, }  /']",f oh  yeah   d you know   ,aa,FEMALE,4
+"[""{c and }  i don't mind, {d you know, }  /""]",c and   i dont mind d you know   ,sd,FEMALE,1
+"['at first it was [ the, + the ] little extra money that you got, {d you know, }  returning the cans in and stuff like that. /']",at first it was  the  the  little extra money that you got d you know   returning the cans in and stuff like that ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c but } {d now, } {d you know, } i don't mind as long as  things are getting recycled, {d you know, }  that we don't get reimbursed. /""]",c but  d now  d you know  i dont mind as long as  things are getting recycled d you know   that we dont get reimbursed ,sd,FEMALE,1
+"['no,  /']",no  ,aa,FEMALE,4
+"[""i think [ it's, + it's, ] to me more of a  convenience to have them come pick it up,""]",i think  its  its  to me more of a  convenience to have them come pick it up,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['then to get that two cents when you take it to the store. /'],then to get that two cents when you take it to the store ,+,FEMALE,0
+"['{f oh, } [ i, + {f oh, } i ] know it. /']",f oh   i  f oh  i  know it ,aa,FEMALE,4
+"['we still have bins at the grocery stores  where you can turn in bottles and  cans,']",we still have bins at the grocery stores  where you can turn in bottles and  cans,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['for cash.  /'],for cash  ,+,FEMALE,0
+"[""{c but } so few people, {f uh, } have enough  to make that worthwhile you'd spend more in gas getting down there then you get back. /""]",c but  so few people f uh  have enough  to make that worthwhile youd spend more in gas getting down there then you get back ,sv,FEMALE,3
+['right.  /'],right  ,aa,FEMALE,4
+['yes.  /'],yes  ,aa,FEMALE,4
+"['[ {c and then }  the, +  {c plus } the ] time that you waste standing in line is valuable also. /']", c and then   the   c plus  the  time that you waste standing in line is valuable also ,sv,FEMALE,3
+['{d now } do the grocery stores in houston have  recycling for their paper bags and plastic bags? /'],d now  do the grocery stores in houston have  recycling for their paper bags and plastic bags ,qy,FEMALE,7
+"['we have, - /']",we have  ,%,FEMALE,5
+"['i know [ of one that, +   the one that ] we use, {f uh, } has, {f uh, } recycling for the bags. /']",i know  of one that    the one that  we use f uh  has f uh  recycling for the bags ,na,FEMALE,21
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ {c and, } + {f uh, } {c and } ] they're  promoting the cloth bags. {d you know, } the [ reus-, + reusable ] cloth bags. /""]", c and   f uh  c and   theyre  promoting the cloth bags d you know  the  reus  reusable  cloth bags ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } we can get a nickel apiece  for any paper bags that we bring back to be reused. /']",d well  we can get a nickel apiece  for any paper bags that we bring back to be reused ,sd,FEMALE,1
+"[""{f oh, } that's great. /""]",f oh  thats great ,ba,FEMALE,6
+['they just take it off like they do a coupon.  /'],they just take it off like they do a coupon  ,sd,FEMALE,1
+"['(( they can just ))  subtract it from your bill, /']", they can just   subtract it from your bill ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c and } they have a giant bin by the front  door for the plastic bags, /']",c and  they have a giant bin by the front  door for the plastic bags ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } they say, [ y-, + ] as long as it's clean  they don't want a plastic bag that's full of goop <laughter>. /""]",c and  they say  y   as long as its clean  they dont want a plastic bag thats full of goop laughter ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"[""here they don't want your rotted tomatoes. /""]",here they dont want your rotted tomatoes ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['{c but } they want any clean and dry plastic  bag  /'],c but  they want any clean and dry plastic  bag  ,sd,FEMALE,1
+"['{c so } i keep, - /']",c so  i keep  ,%,FEMALE,5
+"[""{c and } the thing is, i hardly have room now for all the things that we're saving  it to recycle,  /""]",c and  the thing is i hardly have room now for all the things that were saving  it to recycle  ,sd,FEMALE,1
+"[""{c so }  right outside the back door, i've got the two burlap bags hung up for the cans and bottles, /""]",c so   right outside the back door ive got the two burlap bags hung up for the cans and bottles ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } [ wi-, + ] there, right outside [ the, + that ]  place where the garbage can is we have the bag for the newspapers, /']",c and   wi   there right outside  the  that   place where the garbage can is we have the bag for the newspapers ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c and } now we've got the bag for the plastic bags <laughter>. /""]",c and  now weve got the bag for the plastic bags laughter ,sd,FEMALE,1
+"['i understand, {f uh, }  /']",i understand f uh   ,ba,FEMALE,6
+"[""my husband  about once a weekend he'll go, {f uh, } to a couple of areas where he knows that the people just throw cans out. /""]",my husband  about once a weekend hell go f uh  to a couple of areas where he knows that the people just throw cans out ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"[""{c and } he'll go pick them up  because he just can't stand that.  /""]",c and  hell go pick them up  because he just cant stand that  ,sd,FEMALE,1
+"['[ he, + he, ] -/']", he  he  ,%,FEMALE,5
+"['{d well, } how nice,  /']",d well  how nice  ,ba,FEMALE,6
+"[""that's great. /""]",thats great ,ba,FEMALE,6
+"[""{c and, } {f uh, } it's so, {d you know, } - /""]",c and  f uh  its so d you know   ,%,FEMALE,5
+"['[ he, + we ] have all our piles [ of, + of ] recyclables also. /']", he  we  have all our piles  of  of  recyclables also ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""i remember at christmas [ the, + the ] only thing that i'm, - /""]",i remember at christmas  the  the  only thing that im  ,sd,FEMALE,1
+"['when you were talking about the composting,  the only thing that our city did that was they [ di-, +  {f uh, } provided ] a place for us to take our christmas trees.']",when you were talking about the composting  the only thing that our city did that was they  di   f uh  provided  a place for us to take our christmas trees,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } [ to +  for them to ] mulch.']",f uh   to   for them to  mulch,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ for, + for ] city use. /']", for  for  city use ,+,FEMALE,0
+"[""{d well, } that's, - /""]",d well  thats  ,%,FEMALE,5
+"['they just put all our  christmas trees in the regular, {f uh, } compost,']",they just put all our  christmas trees in the regular f uh  compost,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['pickup  /'],pickup  ,+,FEMALE,0
+"['{c so } they did say that you had to  put it out within, i think it was, {f uh, } three weeks after,']",c so  they did say that you had to  put it out within i think it was f uh  three weeks after,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['christmas. /'],christmas ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"['{c and, }  {f uh, } otherwise you would have to treat it  like you would any other lawn refuse.  /']",c and   f uh  otherwise you would have to treat it  like you would any other lawn refuse  ,sd,FEMALE,1
+['it would have to be cut into four-foot lengths. /'],it would have to be cut into fourfoot lengths ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c so, } (( {d you know } )) ,  if we have branches or something,']",c so   d you know     if we have branches or something,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['they have to be cut in four-foot lengths,  /']",they have to be cut in fourfoot lengths  ,+,FEMALE,0
+"['{c but } otherwise, {f uh, } they have to be in one of their paper bags. /']",c but  otherwise f uh  they have to be in one of their paper bags ,sd,FEMALE,1
+"['{d well, } that sounds like you all really have [ a, + a ]  great system worked out there. /']",d well  that sounds like you all really have  a  a   great system worked out there ,bf,FEMALE,20
+"['{c and } they even picked up our,  {f uh, } styrofoam [ pl-, +  packing ] materials.  /']",c and  they even picked up our  f uh  styrofoam  pl   packing  materials  ,sd,FEMALE,1
+"[""[ they brought, +  {f uh, }  the week after christmas  they left ] a plastic bag on everybody's front doorknob with a little note on it saying, we're trying something new next week only,""]", they brought   f uh   the week after christmas  they left  a plastic bag on everybodys front doorknob with a little note on it saying were trying something new next week only,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['if you have any, {f uh, }  of those little, {f uh, } styrofoam peanuts that,']",if you have any f uh   of those little f uh  styrofoam peanuts that,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['any of your christmas presents were packed in,  put them in this bag and  leave it out with your recycling  /']",any of your christmas presents were packed in  put them in this bag and  leave it out with your recycling  ,+,FEMALE,0
+"[""{c and } we'll, {f uh, }  take all of those back and try to recycle them. /""]",c and  well f uh   take all of those back and try to recycle them ,^q,FEMALE,19
+['right.  /'],right  ,b,FEMALE,2
+"[""{d well, } see that's one, -/""]",d well  see thats one ,%,FEMALE,5
+"['{c but } i, - /']",c but  i  ,%,FEMALE,5
+"[""that's not going to be a regular feature.  /""]",thats not going to be a regular feature  ,sd,FEMALE,1
+['that was just a one time thing right after christmas. /'],that was just a one time thing right after christmas ,sd,FEMALE,1
+"['{d well, } the, - /']",d well  the  ,%,FEMALE,5
+"['{c but, }  {f uh, }  something [ nee-, + does need ] to be done about the styrofoam that, {f uh, } -/']",c but   f uh   something  nee  does need  to be done about the styrofoam that f uh  ,sv,FEMALE,3
+"['{d well, } those things must take up a huge  amount of space in landfills. /']",d well  those things must take up a huge  amount of space in landfills ,sv,FEMALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,FEMALE,4
+"[""{e i mean, } they don't, {f uh, } {f uh, } -/""]",e i mean  they dont f uh  f uh  ,%,FEMALE,5
+"[""they don't mash <laughter>. /""]",they dont mash laughter ,sv,FEMALE,3
+['no. /'],no ,aa,FEMALE,4
+"[""they don't compress at all.  /""]",they dont compress at all  ,sv,FEMALE,3
+['{c and } they stay forever. /'],c and  they stay forever ,sv,FEMALE,3
+['right.  /'],right  ,aa,FEMALE,4
+"[""{c and } i've seen where some places have  taken a plastic  and, {f uh, } they're recycling them into other plastics.""]",c and  ive seen where some places have  taken a plastic  and f uh  theyre recycling them into other plastics,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['and the styrofoam also into insulation and things like  that  /'],and the styrofoam also into insulation and things like  that  ,+,FEMALE,0
+['{c and } i think that would be great if they could get something organized along those lines. /'],c and  i think that would be great if they could get something organized along those lines ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['i do too.  /'],i do too  ,aa,FEMALE,4
+['the difficulty with that is that  very few people have enough to make  it worthwhile.  /'],the difficulty with that is that  very few people have enough to make  it worthwhile  ,sv,FEMALE,3
+"['[ it,  + they ] really have  to rely on businesses that generate a lot of that stuff. /']", it   they  really have  to rely on businesses that generate a lot of that stuff ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+"[""{f uh, } {c because } otherwise, {f uh, } {d you know, }  they're not going to go house-to-house collecting it,  /""]",f uh  c because  otherwise f uh  d you know   theyre not going to go housetohouse collecting it  ,sv,FEMALE,3
+"[""{c and } you're not going to bother if you have one  bag full,""]",c and  youre not going to bother if you have one  bag full,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['to drive all the way to some recycling center  to turn in just your little plastic peanuts <laughter>. /'],to drive all the way to some recycling center  to turn in just your little plastic peanuts laughter ,+,FEMALE,0
+['right <laughter>.  /'],right laughter  ,aa,FEMALE,4
+"['{f oh, } i was thinking about,  {d you know, } {d like } [ the, + {f uh, } the ] styrofoam used at, {f uh, } the fast-food restaurants,']",f oh  i was thinking about  d you know  d like   the  f uh  the  styrofoam used at f uh  the fastfood restaurants,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['that if everybody, {f uh, } - /']",that if everybody f uh   ,+,FEMALE,0
+"['{c and so, } - /']",c and so   ,%,FEMALE,5
+"['yeah,  /']",yeah  ,%,FEMALE,5
+['i know {d like } our cafeteria here uses a lot of styrofoam  /'],i know d like  our cafeteria here uses a lot of styrofoam  ,sd,FEMALE,1
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,FEMALE,5
+"['now we quit that about [ two years ago, +  {e no, }  three years ago ] when we got china mugs for everybody. /']",now we quit that about  two years ago   e no   three years ago  when we got china mugs for everybody ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"[""[ {c so, } + {c and } ] the only difficulty with that  is that we're in the middle of a five-year drought  /""]", c so   c and   the only difficulty with that  is that were in the middle of a fiveyear drought  ,sd,FEMALE,1
+"[""{c and so } [ i-, + it's ] a real difficult  choice whether we want styrofoam cups to fill up our landfills or, {f uh, } china cups to use up our water <laughter>. /""]",c and so   i  its  a real difficult  choice whether we want styrofoam cups to fill up our landfills or f uh  china cups to use up our water laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c but } at the moment we're using the china cups, /""]",c but  at the moment were using the china cups ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c and } everybody gets one at the beginning of the year,  /']",c and  everybody gets one at the beginning of the year  ,sd,FEMALE,1
+"['{c and then, } {f uh, } your  supposed to keep it recycled every day. /']",c and then  f uh  your  supposed to keep it recycled every day ,sd,FEMALE,1
+"[""{d well, } that's good.  /""]",d well  thats good  ,ba,FEMALE,6
+"[""that's a, -/""]",thats a ,%,FEMALE,5
+['<<very faint>> yeah. /'],very faint yeah ,b,FEMALE,2
+['they should last awhile <laughter>. /'],they should last awhile laughter ,sv,FEMALE,3
+"[""{d well, } let us hope that everybody's going  to be paying more attention to this and that we will get, {f uh, } better reuse of things  /""]",d well  let us hope that everybodys going  to be paying more attention to this and that we will get f uh  better reuse of things  ,sv,FEMALE,3
+"['{c because, } -/']",c because  ,%,FEMALE,5
+['i believe we are.  /'],i believe we are  ,sv,FEMALE,3
+"['[ (( i h-, )) + i have ] to  believe everybody is starting to pay attention and take heed of what is happening. /']",  i h   i have  to  believe everybody is starting to pay attention and take heed of what is happening ,sv,FEMALE,3
+['yep. /'],yep ,b,FEMALE,2
+"['{c and so } [ it will, + it will ] be good,']",c and so   it will  it will  be good,sv,FEMALE,3
+['it sure will. /'],it sure will ,aa,FEMALE,4
+['in the long run.  /'],in the long run  ,+,FEMALE,0
+"['{d well, } i enjoyed it. /']",d well  i enjoyed it ,fc,FEMALE,10
+"['{d well, } good to talk, /']",d well  good to talk ,fc,FEMALE,10

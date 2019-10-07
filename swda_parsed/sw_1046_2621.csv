@@ -1,0 +1,395 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well } a lot of women are [ knowl-, +  as knowledge ] about football as i am. /']",d well  a lot of women are  knowl   as knowledge  about football as i am ,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"['can i guess your favorite team, if you had one, might be the steelers. /']",can i guess your favorite team if you had one might be the steelers ,qy,MALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{d well, } i can understand that.  /']",d well  i can understand that  ,sd,MALE,1
+"['[ i, + {d you know, } i ] kind of like the cowboys, too. /']", i  d you know  i  kind of like the cowboys too ,sd,MALE,1
+['# do you? # /'], do you  ,qy,FEMALE,7
+"[""# they've had # some great games in the past. /""]", theyve had  some great games in the past ,na,MALE,21
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['[ i, + i ] always enjoy watching [ [ the stal-, + the, ] + ] dallas and pittsburgh together.']", i  i  always enjoy watching   the stal  the    dallas and pittsburgh together,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['me too. /'],me too ,aa,MALE,4
+['{d you know. } /'],d you know  ,+,FEMALE,0
+"[""it wasn't nearly as much fun when bradshaw was playing for you guys, i'll tell you. /""]",it wasnt nearly as much fun when bradshaw was playing for you guys ill tell you ,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"['he lives in the dallas area now, as a matter of fact. /']",he lives in the dallas area now as a matter of fact ,sd,MALE,1
+['does he really? /'],does he really ,qy,FEMALE,7
+"[""{d well, }  {d actually, } it's probably closer to fort worth,  /""]",d well   d actually  its probably closer to fort worth  ,sd,MALE,1
+"[""{c but } [ it's, + it's ] in the same area.  /""]",c but   its  its  in the same area  ,sd,MALE,1
+"['he [ bought, + {f uh, } bought ] a big horse farm out in a little town called roanoke, texas. /']",he  bought  f uh  bought  a big horse farm out in a little town called roanoke texas ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c but } he pops up on the dallas scene quite often. /'],c but  he pops up on the dallas scene quite often ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['as a matter of fact, there was some talk about trying to get him involved with the team management in some sort of a coaching job. /']",as a matter of fact there was some talk about trying to get him involved with the team management in some sort of a coaching job ,sd,MALE,1
+"['{f oh, } wo-, - /']",f oh  wo  ,ba,FEMALE,6
+"[""i wonder if he'd ever do that. /""]",i wonder if hed ever do that ,qy^d,FEMALE,16
+"[""i don't know,  /""]",i dont know  ,no,MALE,31
+"[""he'd be good at it.  /""]",hed be good at it  ,sv,MALE,3
+"[""he's such a motivator, [ he, + ]""]",hes such a motivator  he  ,sv,MALE,3
+['# yes.  # /'], yes   ,aa,FEMALE,4
+"['# primarily, # {d you know, } with the quarterbacks. /']", primarily  d you know  with the quarterbacks ,+,MALE,0
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['# that # would be his specialty.  /'], that  would be his specialty  ,sv,MALE,3
+"['[  i wished, + i wished ] they could work something,  /']",  i wished  i wished  they could work something  ,sv,MALE,3
+['i really like him.  /'],i really like him  ,sd,MALE,1
+['i really do. /'],i really do ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['{d well } what about the houston oilers.  /'],d well  what about the houston oilers  ,qo,FEMALE,25
+['do you like them? /'],do you like them ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+"[""i'd love to see dallas and houston play in a super bowl.  /""]",id love to see dallas and houston play in a super bowl  ,sd,MALE,1
+['that would be really great. /'],that would be really great ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['that may not ever happen,  /']",that may not ever happen  ,sv,MALE,3
+"[""i don't know. /""]",i dont know ,h,MALE,15
+['# <breathing> <laughter>.  #'], breathing laughter  ,x,FEMALE,8
+"['# {f uh, } houston # has had some wonderful talent, {d you know, } down through the years  /']", f uh  houston  has had some wonderful talent d you know  down through the years  ,sv,MALE,3
+['{c and } in the earlier years they really had some super teams. /'],c and  in the earlier years they really had some super teams ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{c and } warren moon,']",c and  warren moon,sv,FEMALE,3
+"[""# that's right.  # /""]", thats right   ,ba,MALE,6
+"['# [ is, + is ] # proving himself quite well right now. /']",  is  is   proving himself quite well right now ,+,FEMALE,0
+"['he certainly is,  /']",he certainly is  ,aa,MALE,4
+"[""he's very good. /""]",hes very good ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""he's very good. /""]",hes very good ,sv,MALE,3
+"[""he's one of the few, {f uh, } black quarterbacks that there are. /""]",hes one of the few f uh  black quarterbacks that there are ,sv,FEMALE,3
+"[""that's right.  /""]",thats right  ,aa,MALE,4
+"['randall cunningham was with philadelphia, i guess last year,  /']",randall cunningham was with philadelphia i guess last year  ,sv,MALE,3
+"[""{c but } he's no longer with the team.  /""]",c but  hes no longer with the team  ,sd,MALE,1
+"[""<<pause>> {c so, } you're right,  /""]",pause c so  youre right  ,sv,MALE,3
+"['there are very few black quarterbacks, or at least that are starting anyway. /']",there are very few black quarterbacks or at least that are starting anyway ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['how do you think the steelers are going to do this year.  /'],how do you think the steelers are going to do this year  ,qo,MALE,25
+['you have any idea. /'],you have any idea ,qy,MALE,7
+"[""i don't know,  /""]",i dont know  ,no,FEMALE,31
+"['i hope [ they, + they ] do better.  /']",i hope  they  they  do better  ,sv,FEMALE,3
+"['[  they, + they ] - /']",  they  they   ,%,FEMALE,5
+"[""during the past couple of years they've been doing a little bit better. /""]",during the past couple of years theyve been doing a little bit better ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but, } {f uh, } [ i think they still have a little, + i think they're ] still such [ a, + a ] young team i think they still have a little bit to go before they reach the potential,""]",c but  f uh   i think they still have a little  i think theyre  still such  a  a  young team i think they still have a little bit to go before they reach the potential,sv,FEMALE,3
+['# yeah. # /'], yeah  ,b,MALE,2
+['# <throat_clearing> # that it did when ever bradshaw was playing. /'], throatclearing  that it did when ever bradshaw was playing ,+,FEMALE,0
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,MALE,2
+['that was just such super team. /'],that was just such super team ,sv,MALE,3
+"['{c or, } if they even reach that potential again, {d you know, } they may never reach that again. /']",c or  if they even reach that potential again d you know  they may never reach that again ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{d well } that's a tough, - /""]",d well  thats a tough  ,ba,MALE,6
+"['it would be tough to do,  /']",it would be tough to do  ,sv,MALE,3
+['it really would. /'],it really would ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['they have such a super team for years, that won what, four super bowls? /']",they have such a super team for years that won what four super bowls ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['four in a row. /'],four in a row ,sd,FEMALE,1
+['four in a row.  /'],four in a row  ,sd,MALE,1
+"[""i don't know if that could ever be duplicated again or not. /""]",i dont know if that could ever be duplicated again or not ,sd,MALE,1
+"[""{f oh, } i don't know. /""]",f oh  i dont know ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+['# shooting # for one for the thumb now is what they were saying. /'], shooting  for one for the thumb now is what they were saying ,sd,FEMALE,1
+"[""that's right <laughter>.  /""]",thats right laughter  ,ba,MALE,6
+"['{c and, } -/']",c and  ,%,MALE,5
+"['{c but } basically everyone that was on the team then is gone now,  /']",c but  basically everyone that was on the team then is gone now  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"[""that's right. /""]",thats right ,ba,MALE,6
+['i think mike webster was left  /'],i think mike webster was left  ,sv,FEMALE,3
+"['{c but } then [ he, + he ] just left. /']",c but  then  he  he  just left ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+['{f uh. } /'],f uh  ,%,FEMALE,5
+"['he may have been the last of the old guard,  /']",he may have been the last of the old guard  ,sv,MALE,3
+"[""i don't know. /""]",i dont know ,h,MALE,15
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['i think he is,  /']",i think he is  ,sv,FEMALE,3
+['i think he was. /'],i think he was ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+['they had such a super team. /'],they had such a super team ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['have you been following the big draft that occurred yesterday? /'],have you been following the big draft that occurred yesterday ,qy,MALE,7
+"['<throat_clearing>  no,  /']",throatclearing  no  ,nn,FEMALE,13
+"[""i didn't. /""]",i didnt ,sd,FEMALE,1
+['i see. /'],i see ,bk,MALE,14
+['huh-uh. /'],huhuh ,b,FEMALE,2
+"[""there's quite a bit of activity now,  /""]",theres quite a bit of activity now  ,sv,MALE,3
+"['of course they had so many, {d you know, } nice, {f uh, } choices because their record was so lousy the last few years.  /']",of course they had so many d you know  nice f uh  choices because their record was so lousy the last few years  ,sv,MALE,3
+"['they picked up,']",they picked up,sd,MALE,1
+['# {f uh. }  # /'], f uh    ,%,FEMALE,5
+"['# {d you # know, } quite a few of the, - /']", d you  know  quite a few of the  ,+,MALE,0
+['of course you never know.  /'],of course you never know  ,sv,MALE,3
+"['the guys they pick, {d you know, } [ m-, + may ] never play a game.  /']",the guys they pick d you know   m  may  never play a game  ,sv,MALE,3
+"['you [ jus-, + ] never know,  /']",you  jus   never know  ,sv,MALE,3
+"[""[ it's, + it's ] a gamble,  /""]", its  its  a gamble  ,sv,MALE,3
+['it really is. /'],it really is ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['they may get hurt, or, not be able to participate at that level, if {d you know, } -/']",they may get hurt or not be able to participate at that level if d you know  ,sd,MALE,1
+"['{d well } who would you say is your favorite player, or has ever been your favorite player? /']",d well  who would you say is your favorite player or has ever been your favorite player ,qw,FEMALE,12
+['ever been? /'],ever been ,qy,MALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['probably an old guy that played, probably before you were born <laughter>, /']",probably an old guy that played probably before you were born laughter ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['his name was sam huff.  /'],his name was sam huff  ,sd,MALE,1
+['he used to play for the new york giants. /'],he used to play for the new york giants ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""that was one of the toughest guys that i've ever seen in my life,""]",that was one of the toughest guys that ive ever seen in my life,sd,MALE,1
+['# really.  # /'], really   ,b,FEMALE,2
+"['# as # far as, {d you know, } dedication.  /']", as  far as d you know  dedication  ,+,MALE,0
+['he just went all out every single play. /'],he just went all out every single play ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['of course, there have been some other great ones too, dick butkis, and  bradshaw, {d you know, }  /']",of course there have been some other great ones too dick butkis and  bradshaw d you know   ,sv,MALE,3
+"[""there's been so many. /""]",theres been so many ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['ye-, -/']",ye ,%,FEMALE,5
+"['{c but } if i had to pick one, i would probably pick sam huff, as a matter of fact. /']",c but  if i had to pick one i would probably pick sam huff as a matter of fact ,sd,MALE,1
+"[""{f oh, } {d you know, } that's really funny, {f um, }  /""]",f oh  d you know  thats really funny f um   ,sv,FEMALE,3
+"['{d well, } [ i, + i ] come from a large family  /']",d well   i  i  come from a large family  ,sd,FEMALE,1
+"[""{c and, } [ the-, + there's ] quite a few boys  /""]",c and   the  theres  quite a few boys  ,sd,FEMALE,1
+"[""{c so } that's kind of how i got in with the football.  /""]",c so  thats kind of how i got in with the football  ,sd,FEMALE,1
+['{c either } watch that {c or } watch nothing. /'],c either  watch that c or  watch nothing ,sd,FEMALE,1
+"[""that's right. /""]",thats right ,b,MALE,2
+"['{c and, } {f um, } at one time i could name all the players on the steelers, {d you know. } /']",c and  f um  at one time i could name all the players on the steelers d you know  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ {c and, } + {c but, } ] even when bradshaw was playing, [ i, + i ] don't know, [ i, + i ] didn't particularly care for him, /""]", c and   c but   even when bradshaw was playing  i  i  dont know  i  i  didnt particularly care for him ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['# i # thought he was kind of cocky or something. /'], i  thought he was kind of cocky or something ,sd,FEMALE,1
+"['# he  is,  /']", he  is  ,sv,MALE,3
+"['he is, # /']",he is  ,sv,MALE,3
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['of course [ the-, + ] a quarterback has a big ego. /']",of course  the   a quarterback has a big ego ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ they really d-, + they ] have to have,  /']", they really d  they  have to have  ,sv,MALE,3
+"[""they can't survive. /""]",they cant survive ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['they always think they can win, {d you know, } which is the way it should be. /']",they always think they can win d you know  which is the way it should be ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""boy, he never gave up, i'll tell you. /""]",boy he never gave up ill tell you ,sd,MALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+"['him and franco harris,  /']",him and franco harris  ,sd,FEMALE,1
+"[""i really didn't care for the either two of them. /""]",i really didnt care for the either two of them ,sd,FEMALE,1
+"['# uh-huh,  /']", uhhuh  ,b,MALE,2
+"['uh-huh, # /']",uhhuh  ,b,MALE,2
+"['# {e i mean } # they were good,  /']", e i mean   they were good  ,sv,FEMALE,3
+"[""{c but, } i, {d you know, } you couldn't deny that. /""]",c but  i d you know  you couldnt deny that ,sv,FEMALE,3
+['# {f oh } yeah. # /'], f oh  yeah  ,b,MALE,2
+"[""# {c but } [ i # didn't, + [ i thought, + ] {d you know, } {d well } i just didn't ] really care for either one of them. /""]", c but   i  didnt   i thought   d you know  d well  i just didnt  really care for either one of them ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } today, <throat_clearing>  my favorites out of those guys were probably, {f um, } lambert,']",f uh  today throatclearing  my favorites out of those guys were probably f um  lambert,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['ham,']",ham,+,FEMALE,0
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# and, # {f uh, } stallworth and swan. /']", and  f uh  stallworth and swan ,+,FEMALE,0
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"['absolutely,  /']",absolutely  ,aa,MALE,4
+"[""i can't disagree with that.  /""]",i cant disagree with that  ,aa,MALE,4
+"['they were super players,  /']",they were super players  ,sv,MALE,3
+['they really were. /'],they really were ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['they really, -/']",they really ,%,MALE,5
+"[""[ [ [ i, + i, ] + i  like, ] + {a not just with the pittsburgh, } i like ] watching on saturday afternoons when they'll have {d like } [ the plays + {e or } [ the, + the ] best plays ] [ from, +""]",   i  i   i  like   a not just with the pittsburgh  i like  watching on saturday afternoons when theyll have d like   the plays  e or   the  the  best plays   from ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# {d you # know, } from ] the week or something. /']", d you  know  from  the week or something ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['highlights, yeah. /']",highlights yeah ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i love watching that.  /'],i love watching that  ,sd,FEMALE,1
+"['then i like watching their bloopers too, {d you know } <laughter>. /']",then i like watching their bloopers too d you know  laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""that's kind of funny too, as a matter of fact <laughter>.  /""]",thats kind of funny too as a matter of fact laughter  ,sv,MALE,3
+"['some of them [ a, + a ] bit embarrassing.  /']",some of them  a  a  bit embarrassing  ,sv,MALE,3
+"['yeah,  /']",yeah  ,%,MALE,5
+"['{d well } they make mistakes too, i guess. /']",d well  they make mistakes too i guess ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['uh-huh, /']",uhhuh ,b,FEMALE,2
+"['# absol-, # -/']", absol  ,%,MALE,5
+"[""# it's # funny that more people don't get hurt.""]", its  funny that more people dont get hurt,sv,FEMALE,3
+['absolutely. /'],absolutely ,aa,MALE,4
+"['{d you know, } especially, i would say the receivers,']",d you know  especially i would say the receivers,+,FEMALE,0
+"['# uh-huh,  /']", uhhuh  ,b,MALE,2
+"['oh they, #']",oh they ,%,MALE,5
+"[""# when they're in # the air and they get tackled. /""]", when theyre in  the air and they get tackled ,+,FEMALE,0
+['they take such a beating. /'],they take such a beating ,+,MALE,0
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,FEMALE,4
+"[""it's funny some of their necks don't get broken. /""]",its funny some of their necks dont get broken ,sv,FEMALE,3
+"['absolutely,  /']",absolutely  ,aa,MALE,4
+"[""i don't know how they do it.  /""]",i dont know how they do it  ,sd,MALE,1
+"[""[  it's, + it ] must just take a hundred percent concentration, i guess, because they know they're going to get hit,  /""]",  its  it  must just take a hundred percent concentration i guess because they know theyre going to get hit  ,sv,MALE,3
+"[""it's just a matter of how hard, {d you know, } or where. /""]",its just a matter of how hard d you know  or where ,sv,MALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['an they have to be in ideal physical shape, basically. /']",an they have to be in ideal physical shape basically ,sv,FEMALE,3
+"['{f oh, } absolutely.  /']",f oh  absolutely  ,aa,MALE,4
+"[""they look like sometimes they're just broken in two like a match stem. /""]",they look like sometimes theyre just broken in two like a match stem ,sv,MALE,3
+['<throat_clearing>  <laughter>.'],throatclearing  laughter,x,FEMALE,8
+"['gosh, what a beating, - /']",gosh what a beating  ,sv,MALE,3
+"['they really do take a beating,  /']",they really do take a beating  ,sv,MALE,3
+['they really do. /'],they really do ,sv,MALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well } what did you think of, {f um. }  a couple years ago for the bears, the refrigerator. /']",d well  what did you think of f um   a couple years ago for the bears the refrigerator ,qo,FEMALE,25
+"['i think he was just probably a passing phenomena, i think <laughter>. /']",i think he was just probably a passing phenomena i think laughter ,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"[""[ i, + ] [ i'm + ] knowing what, {d you know, } - /""]", i    im   knowing what d you know   ,%,MALE,5
+"[""of course, mike ditka was in dallas for years and years as coach, [ is knowing his, + ] {e or, } {d you know, } knowing of his temperament, i'm just surprised he ever, {d you know, } kept the guy around,  /""]",of course mike ditka was in dallas for years and years as coach  is knowing his   e or  d you know  knowing of his temperament im just surprised he ever d you know  kept the guy around  ,sv,MALE,3
+['i really am.  /'],i really am  ,sv,MALE,3
+"[""[  he's such a, + he's ] about a half hot head anyway, such a temper. /""]",  hes such a  hes  about a half hot head anyway such a temper ,sv,MALE,3
+"[""{f oh, } {d you know, } {c and } to me [ he does, + {f um, } {f oh, } he's ] just so big and fat, /""]",f oh  d you know  c and  to me  he does  f um  f oh  hes  just so big and fat ,sv,FEMALE,3
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""# he # doesn't even look like he's in shape.  /""]", he  doesnt even look like hes in shape  ,sv,FEMALE,3
+"[""he's just so big, no one can move him. /""]",hes just so big no one can move him ,sv,FEMALE,3
+"[""that's right, yeah,  /""]",thats right yeah  ,ba,MALE,6
+['absolutely.  /'],absolutely  ,aa,MALE,4
+"[""there's just so much mass there, i guess they just can't, - /""]",theres just so much mass there i guess they just cant  ,sv,MALE,3
+"[""i don't know, {d you know, }  /""]",i dont know d you know   ,h,MALE,15
+"['i, - /']",i  ,%,MALE,5
+"['[ probably + the guy is, {d you know, } probably ] physically strong.  /']", probably  the guy is d you know  probably  physically strong  ,sv,MALE,3
+"['i, {d you know, } - /']",i d you know   ,%,MALE,5
+['obviously not very fast. /'],obviously not very fast ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c but } i guess it's just, like you say, a mass that nobody can seem [ t-, + to ] get out of the way.  /""]",c but  i guess its just like you say a mass that nobody can seem  t  to  get out of the way  ,sv,MALE,3
+"['as far as him scoring touch downs, {d you know, } i think that was kind of weird. /']",as far as him scoring touch downs d you know  i think that was kind of weird ,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"['dallas has a guy, {f uh, } his name is nate newton,  /']",dallas has a guy f uh  his name is nate newton  ,sd,MALE,1
+['{d now } he has a real weight problem too.   /'],d now  he has a real weight problem too   ,sv,MALE,3
+"['he fights it every single year,  /']",he fights it every single year  ,sv,MALE,3
+"['{c but, } he manages to still keep playing,  /']",c but  he manages to still keep playing  ,sd,MALE,1
+"['{c but, }']",c but ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['# he # has a terrible weight problem. /'], he  has a terrible weight problem ,+,MALE,0
+['wow. /'],wow ,ba,FEMALE,6
+"['they wa-, - /']",they wa  ,%,MALE,5
+['the coaches watch him all year long.  /'],the coaches watch him all year long  ,sd,MALE,1
+"[""[ they, + they ] weigh him several times a year just to make sure he's not, {d you know, } completely out of control. /""]", they  they  weigh him several times a year just to make sure hes not d you know  completely out of control ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } i guess most every team [ has so-, + has someone ] like that,  /']",c but  i guess most every team  has so  has someone  like that  ,sv,MALE,3
+"[""i don't, -/""]",i dont ,%,MALE,5
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+"[""[ there's, + there ] are some really big guys playing in football. /""]", theres  there  are some really big guys playing in football ,sv,FEMALE,3
+"['absolutely they get bigger and bigger, it seems every year. /']",absolutely they get bigger and bigger it seems every year ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i guess you have [ [ to + to, ] + {d you know, } to ] stay in the game i guess. /']",i guess you have   to  to   d you know  to  stay in the game i guess ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['you would,  uh-huh. /']",you would  uhhuh ,aa,FEMALE,4
+['yeah. /'],yeah ,b,MALE,2
+"['{f um, } {d now } who, - /']",f um  d now  who  ,%,FEMALE,5
+"['would you say that you have a fav-, - /']",would you say that you have a fav  ,qy,FEMALE,7
+"['{e i mean } other than dallas, would you say that you have, {f uh, } a favorite quarterback.  /']",e i mean  other than dallas would you say that you have f uh  a favorite quarterback  ,qy,FEMALE,7
+"[""{e i mean } the quarterback's seem to get most of [ the, + the ] attention, {d you know. } /""]",e i mean  the quarterbacks seem to get most of  the  the  attention d you know  ,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,ny,MALE,9
+"['sure,  /']",sure  ,sd,MALE,1
+"[""{d well, } [ you'd have to, {f uh, } + {e or } i would have to ] say, {d you know, } someone like montana, i guess, who's done so well for so many years. /""]",d well   youd have to f uh   e or  i would have to  say d you know  someone like montana i guess whos done so well for so many years ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ [ i re-, + i, ] + i ] enjoy watching him play. /']",  i re  i   i  enjoy watching him play ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['his age is about to catch up with him though. /'],his age is about to catch up with him though ,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"[""he's no spring chicken anymore. /""]",hes no spring chicken anymore ,sv,MALE,3
+"['# no,  /']", no  ,b,FEMALE,2
+"[""{c but } he's still performing. # /""]",c but  hes still performing  ,sv,FEMALE,3
+"[""# {c and } like you say warren moon's an excellent,  /""]", c and  like you say warren moons an excellent  ,sv,MALE,3
+"[""warren moon's an # excellent. - /""]",warren moons an  excellent  ,sv,MALE,3
+"[""{c but } he's very exciting to watch. /""]",c but  hes very exciting to watch ,sv,MALE,3
+"['yes he is, /']",yes he is ,aa,FEMALE,4
+"['# uh-huh,  /']", uhhuh  ,b,MALE,2
+['sure. # /'],sure  ,b,MALE,2
+"['# [ [ i, + i, ] + # i ] enjoy watching him also. /']",   i  i    i  enjoy watching him also ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['absolutely. /'],absolutely ,aa,MALE,4
+"['what about, {f uh, } marino? /']",what about f uh  marino ,qo,FEMALE,25
+"[""{f uh, } i'm, - /""]",f uh  im  ,%,MALE,5
+"[""obviously he's a very good quarterback,  /""]",obviously hes a very good quarterback  ,h,MALE,15
+"[""[ i'd, + i ] never was, {d you know, } [ too, + ] [ a whole lot of, + ] a big fan, {d you know. } /""]", id  i  never was d you know   too    a whole lot of   a big fan d you know  ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['he may, uh-huh. /']",he may uhhuh ,sv,MALE,3
+['yes  /'],yes  ,ny,MALE,9
+"['he was,  /']",he was  ,sd,MALE,1
+"[""i believe that's right at one point in time.  /""]",i believe thats right at one point in time  ,sv,MALE,3
+"['ye-, - /']",ye  ,%,MALE,5
+"[""{c but } he's a very young fellow. /""]",c but  hes a very young fellow ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""of course a quarterback can look so good [ if he's got a lot, + if he's got ] a good supporting cast, {d you know. } /""]",of course a quarterback can look so good  if hes got a lot  if hes got  a good supporting cast d you know  ,sv,MALE,3
+"[""# that's true,  /""]", thats true  ,ba,FEMALE,6
+"[""that's true. # /""]",thats true  ,ba,FEMALE,6
+"['# if not, he gets # beat to death like poor old troy aikman has the last couple of years anyway,  /']", if not he gets  beat to death like poor old troy aikman has the last couple of years anyway  ,sv,MALE,3
+"['you kno-, - /']",you kno  ,%,MALE,5
+"['we-, - /']",we  ,%,MALE,5
+"['dallas did better last year,  /']",dallas did better last year  ,sv,MALE,3
+"[""hopefully they'll do better this year. /""]",hopefully theyll do better this year ,sv,MALE,3
+"['<talking>  <<talking to someone else in the room>> {f uh, } probably around twelve, uh-huh.  /']",talking  talking to someone else in the room f uh  probably around twelve uhhuh  ,t3,FEMALE,35
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{f uh, } [ i didn't, + i don't ] know,  /""]",f uh   i didnt  i dont  know  ,h,FEMALE,15
+"['[ i, + i ] just think, {d you know } marino will get better  /']", i  i  just think d you know  marino will get better  ,sv,FEMALE,3
+"[""{c and, } {f uh, } his team's not as good as what it was when he went to the super bowl,""]",c and  f uh  his teams not as good as what it was when he went to the super bowl,sv,FEMALE,3
+"[""# that's right. # /""]", thats right  ,ba,MALE,6
+"['# {d you know, }  /']", d you know   ,+,FEMALE,0
+['# {c so. } -/'], c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""miami's had some down years, too. /""]",miamis had some down years too ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but } they all do, i guess,  /']",c but  they all do i guess  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['yeah  /'],yeah  ,b,FEMALE,2
+"[""<laughter>.  that's true,  /""]",laughter  thats true  ,ba,FEMALE,6
+"['ye-, - /']",ye  ,%,FEMALE,5
+"['{c and } with age comes,']",c and  with age comes,sv,FEMALE,3
+"['# yeah,  /']", yeah  ,b,MALE,2
+['with - /'],with  ,%,MALE,5
+"['yeah, # /']",yeah  ,%,MALE,5
+"['# {d you know, } - /']", d you know   ,+,FEMALE,0
+"['[ the, + # the ] - /']", the   the   ,%,FEMALE,5
+"[""i'm sure arthritis sets in with them,""]",im sure arthritis sets in with them,sv,FEMALE,3
+"['{f oh } yes, # very much so. # /']",f oh  yes  very much so  ,aa,MALE,4
+['# {d you know. } # /'], d you know   ,+,FEMALE,0
+"['hip injuries and things like that, yeah. /']",hip injuries and things like that yeah ,^2,MALE,23
+"['right,  /']",right  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ that, +  that ] forces a lot of the guys to get out of the game. /']", that   that  forces a lot of the guys to get out of the game ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""{c and } they're so young, /""]",c and  theyre so young ,sv,FEMALE,3
+"[""# that's right. # /""]", thats right  ,ba,MALE,6
+"[""# {c but, } they're # retired, {d you know, }  /""]", c but  theyre  retired d you know   ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i read [ some time, + ] {d well } not too long ago that the average, {f uh, } professional career only lasts seven years. /']",i read  some time   d well  not too long ago that the average f uh  professional career only lasts seven years ,sd,MALE,1
+"[""{c so } [ that's + when you think about it, that's ] really not a very long time, of course. /""]",c so   thats  when you think about it thats  really not a very long time of course ,sv,MALE,3
+"['{f oh } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+['{c but } then you think about how many have been in there longer than that. /'],c but  then you think about how many have been in there longer than that ,sv,FEMALE,3
+"[""{c but } if the average is seven years that means a lot of guys don't make it seven years, {d you know. } /""]",c but  if the average is seven years that means a lot of guys dont make it seven years d you know  ,sd,MALE,1
+"['<throat_clearing>  yeah,  /']",throatclearing  yeah  ,b,FEMALE,2
+['a lot of them would have to get out {d like } in just a couple. /'],a lot of them would have to get out d like  in just a couple ,sd,FEMALE,1
+"[""that's ri-, -/""]",thats ri ,%,MALE,5
+"[""holy smokes, [ i didn't + ] <noise> that doesn't seem like very long. /""]",holy smokes  i didnt   noise that doesnt seem like very long ,sv,FEMALE,3
+"[""[ that's, + that's ] a pretty short career on average. /""]", thats  thats  a pretty short career on average ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""of course they play their, {d you know, } cards right and do some good investments, <door> [ they'll, + {d you know, } they'll ] do all right. /""]",of course they play their d you know  cards right and do some good investments door  theyll  d you know  theyll  do all right ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c but } a lot of them don't, unfortunately. /""]",c but  a lot of them dont unfortunately ,sv,MALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{f um, } what do you think of the, {f uh, } l a raiders,  /']",f um  what do you think of the f uh  l a raiders  ,qo,FEMALE,25
+"['used to [ the, + the ] oakland? -/']",used to  the  the  oakland ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""[ they, + they're ] always branded, {d you know, } as a bunch of outlaws  /""]", they  theyre  always branded d you know  as a bunch of outlaws  ,sv,MALE,3
+"['{c and, }']",c and ,sv,MALE,3
+['# <laughter>.  #'], laughter  ,x,FEMALE,8
+"[""# [ if # their, + if their, ] {d you know, } arrest record [ won't let abl-, + won't let ] them play anywhere else, [ they seem to go to, + they seem to go to ] the raiders. /""]",  if  their  if their  d you know  arrest record  wont let abl  wont let  them play anywhere else  they seem to go to  they seem to go to  the raiders ,+,MALE,0
+['# <laughter>.  #'], laughter  ,x,FEMALE,8
+"['# {c but } # that just may be, {d you know, } perceived, - /']", c but   that just may be d you know  perceived  ,sv,MALE,3
+"['{d you know } perception, - /']",d you know  perception  ,sv,MALE,3
+"[""i don't know. /""]",i dont know ,h,MALE,15
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""# al # davis [ is, + he's ] a kind of strange character, [ strange, + strange ] looking guy.  /""]", al  davis  is  hes  a kind of strange character  strange  strange  looking guy  ,sv,MALE,3
+"[""apparently he's kind of a wild guy,  /""]",apparently hes kind of a wild guy  ,sv,MALE,3
+"[""i don't really know for sure.  /""]",i dont really know for sure  ,h,MALE,15
+"[""they've had some excellent teams, though, obviously. /""]",theyve had some excellent teams though obviously ,sv,MALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+['they have. /'],they have ,sv,FEMALE,3
+"[""i'm not sure they've yet decided where they want to play,  /""]",im not sure theyve yet decided where they want to play  ,sv,MALE,3
+"['they keeping talk about, {d you know, } going, -/']",they keeping talk about d you know  going ,sv,MALE,3

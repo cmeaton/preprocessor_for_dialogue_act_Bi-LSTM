@@ -1,0 +1,199 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['kay. /'],kay ,"fo_o_fw_""_by_bc",MALE,0
+['okay. /'],okay ,b,FEMALE,2
+"[""i guess we're talking about exercise, {f huh? } /""]",i guess were talking about exercise f huh  ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['{d well } first of all  [ i, + i ] [ ha-, + have ] to ask you [ how, + how ] old you are? /']",d well  first of all   i  i   ha  have  to ask you  how  how  old you are ,qw,FEMALE,12
+"['{f oh, } i am twenty-seven. /']",f oh  i am twentyseven ,sd,MALE,1
+"['twenty-seven,  /']",twentyseven  ,b^m,FEMALE,24
+['okay.  /'],okay  ,b,FEMALE,2
+"['{d well, }  i am quite a bit older than you are <laughter>. /']",d well   i am quite a bit older than you are laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{c but, }  no.  /']",c but   no  ,"fo_o_fw_""_by_bc",FEMALE,0
+['i think exercise is  extremely important  /'],i think exercise is  extremely important  ,sv,FEMALE,3
+['{c and } [ i + i ] do exercise on a regular basis. /'],c and   i  i  do exercise on a regular basis ,sd,FEMALE,1
+['you do?  /'],you do  ,bh,MALE,18
+['what type of exercise do you do? /'],what type of exercise do you do ,qw,MALE,12
+"['{d well, } i do, {f uh, } jazzercise --']",d well  i do f uh  jazzercise ,sd,FEMALE,1
+['{f oh } you do. /'],f oh  you do ,bf,MALE,20
+"['-- which is an aerobic, {f uh, } <smack> program  that, - /']", which is an aerobic f uh  smack program  that  ,+,FEMALE,0
+['are you familiar with it? /'],are you familiar with it ,qy,FEMALE,7
+['yes. /'],yes ,ny,MALE,9
+"[""it's, {f uh, } {d you know, } a national  company  /""]",its f uh  d you know  a national  company  ,sd,FEMALE,1
+['{c and } we have a jazzercise center here in plano that has classes {d like } all day long  /'],c and  we have a jazzercise center here in plano that has classes d like  all day long  ,sd,FEMALE,1
+"['{c so } you can, -/']",c so  you can ,%,FEMALE,5
+['are they different from aerobics  /'],are they different from aerobics  ,qy,MALE,7
+['{c or } is it the same thing? /'],c or  is it the same thing ,qrr,MALE,33
+['no  /'],no  ,nn,FEMALE,13
+"[""[ it's really, + it's ]  an aerobic routine.  /""]", its really  its   an aerobic routine  ,sd,FEMALE,1
+"['[ yo-, + you ] warm up  /']", yo  you  warm up  ,sd,FEMALE,1
+"['{c and then } you have thirty minutes of aerobic activity starting,  {d you know, } slowly and then working up to, {f uh, } {d you know, } a high  heart rate  /']",c and then  you have thirty minutes of aerobic activity starting  d you know  slowly and then working up to f uh  d you know  a high  heart rate  ,sd,FEMALE,1
+['{c and then } you gradually go down again. /'],c and then  you gradually go down again ,sd,FEMALE,1
+['{c and } you do that every day  /'],c and  you do that every day  ,qy^d,MALE,16
+"['{c or, } -/']",c or  ,%,MALE,5
+"['no,  /']",no  ,nn,FEMALE,13
+['i only do it <throat_clearing>  probably two or three times a week. /'],i only do it throatclearing  probably two or three times a week ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+['the minimum they want you to do is three times a week. /'],the minimum they want you to do is three times a week ,sd,FEMALE,1
+['{c and } this is a club  /'],c and  this is a club  ,qy^d,MALE,16
+"['{c or, }  {f uh, } do you belong to a group? /']",c or   f uh  do you belong to a group ,qrr,MALE,33
+"[""<smack> {d well, } it's really a <smack> - /""]",smack d well  its really a smack  ,sd,FEMALE,1
+"[""{e i mean }  <noise> it's called a center  /""]",e i mean   noise its called a center  ,sd,FEMALE,1
+['{c and } you buy as many classes as you want to <noise>  at a time  /'],c and  you buy as many classes as you want to noise  at a time  ,sd,FEMALE,1
+['{c and then } you just go in whenever you can.  /'],c and then  you just go in whenever you can  ,sd,FEMALE,1
+"['{c so, }  {d like }  i usually choose to go at nine thirty in the morning or a nine fifteen class or a ten thirty class in the mornings. /']",c so   d like   i usually choose to go at nine thirty in the morning or a nine fifteen class or a ten thirty class in the mornings ,sd,FEMALE,1
+['do you go with friends  /'],do you go with friends  ,qy,MALE,7
+['{c or } do you go alone? /'],c or  do you go alone ,qrr,MALE,33
+"['<smack> no,  /']",smack no  ,nn,FEMALE,13
+['i go by myself  /'],i go by myself  ,sd,FEMALE,1
+"[""{c and } that's one of the frustrating things cause i can find very few people to go with me -- /""]",c and  thats one of the frustrating things cause i can find very few people to go with me  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- {c and } most of my friends  that are my age don't exercise <laughter>  /""]", c and  most of my friends  that are my age dont exercise laughter  ,sd,FEMALE,1
+['{c or } they might play tennis -- /'],c or  they might play tennis  ,sd,FEMALE,1
+['<laughter>  uh-huh. /'],laughter  uhhuh ,b,MALE,2
+"[""-- {c and } since i am not a tennis player,  {f uh, } {d you know, } i don't get that,  /""]", c and  since i am not a tennis player  f uh  d you know  i dont get that  ,sd,FEMALE,1
+"['{c but } [ [ i am, + {d you know, } i am between, ] + i am in ] my late forties  -- /']",c but    i am  d you know  i am between   i am in  my late forties   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c so, }  {f uh, } there aren't many people,  {d you know, } that want to do that. /""]", c so   f uh  there arent many people  d you know  that want to do that ,sd,FEMALE,1
+['oh <<very faint>>. /'],oh very faint ,b,MALE,2
+"['most of the people that are in the  classes are young mothers.  {d you know, } [ with + with ] children between the ages, -/']",most of the people that are in the  classes are young mothers  d you know   with  with  children between the ages ,sd,FEMALE,1
+['{f oh } yeah  /'],f oh  yeah  ,aa,MALE,4
+"['<laughter> young mothers or, -/']",laughter young mothers or ,b^m,MALE,24
+['young mothers.  /'],young mothers  ,sd,FEMALE,1
+"['{d you know, } young women,']",d you know  young women,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['with small children --'],with small children ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- are the ones that i find.  /'], are the ones that i find  ,+,FEMALE,0
+"['{d well, } what do you do? /']",d well  what do you do ,qw,FEMALE,12
+"[""{f uh, } i really don't have a routine.  /""]",f uh  i really dont have a routine  ,sd,MALE,1
+['i  like playing basketball.  /'],i  like playing basketball  ,sd,MALE,1
+['we just bought a new home with a basketball hoop  /'],we just bought a new home with a basketball hoop  ,sd,MALE,1
+['{c and } --'],c and  ,sd,MALE,1
+"['{f oh, } great. /']",f oh  great ,ba,FEMALE,6
+"[""-- that's what i do every day. /""]", thats what i do every day ,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+['do you play every day? /'],do you play every day ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+['pretty much.  /'],pretty much  ,sd,MALE,1
+['when my wife lets me. /'],when my wife lets me ,sd,MALE,1
+"['{d well, } {d now } who do you play with?  /']",d well  d now  who do you play with  ,qw,FEMALE,12
+['do you have friends that play with you  /'],do you have friends that play with you  ,qy,FEMALE,7
+"['{c or } just, -/']",c or  just ,%,FEMALE,5
+"['no,  /']",no  ,nn,MALE,13
+['i just shoot around by myself. /'],i just shoot around by myself ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and, } {f uh, } that's about it.  /""]",c and  f uh  thats about it  ,sd,MALE,1
+"['i use to play soccer a lot in high school,  /']",i use to play soccer a lot in high school  ,sd,MALE,1
+"[""{c but } when i graduated i haven't done much.  /""]",c but  when i graduated i havent done much  ,sd,MALE,1
+"[""i don't have a problem.  /""]",i dont have a problem  ,sd,MALE,1
+"['i know i have to do more aerobics,  /']",i know i have to do more aerobics  ,sd,MALE,1
+"[""{c but } i don't have a  problem  with weight.  /""]",c but  i dont have a  problem  with weight  ,sd,MALE,1
+['i could eat all day and not gain an ounce <laughter>. /'],i could eat all day and not gain an ounce laughter ,sd,MALE,1
+"[""{d well } {d see, } [ that's, + that's ]  [ th-, + ] really good  /""]",d well  d see   thats  thats    th   really good  ,sv,FEMALE,3
+"['{c and } i think that keeps [ a lot, + some ] people from exercising. /']",c and  i think that keeps  a lot  some  people from exercising ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{e i mean, } i don't have a problem with  weight either,  /""]",e i mean  i dont have a problem with  weight either  ,sd,FEMALE,1
+"[""{c but } i think i don't have a problem because i exercise.""]",c but  i think i dont have a problem because i exercise,sd,FEMALE,1
+['you # do exercise. # /'],you  do exercise  ,bf,MALE,20
+['# {d you know } #  /'], d you know    ,+,FEMALE,0
+"['{e i mean, } people are  always saying to me, how do you stay thin <noise>  /']",e i mean  people are  always saying to me how do you stay thin noise  ,sd,FEMALE,1
+"[""{c and } it's because i <noise> exercise -- /""]",c and  its because i noise exercise  ,sd,FEMALE,1
+"['you do it <noise>, /']",you do it noise ,bf,MALE,20
+['-- {c but } i also watch what i eat.'], c but  i also watch what i eat,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know, }  /']",d you know   ,+,FEMALE,0
+"[""{c but } you'll come,  /""]",c but  youll come  ,sv,FEMALE,3
+"[""being twenty-seven, you don't really have to worry about your heart rate  and that yet -- /""]",being twentyseven you dont really have to worry about your heart rate  and that yet  ,sv,FEMALE,3
+['yeah  /'],yeah  ,b,MALE,2
+['{c and } i -- -/'],c and  i  ,%,MALE,5
+['-- {c but } as you get older you will. /'], c but  as you get older you will ,sv,FEMALE,3
+"[""-- {d well } everyone's told me my waist  line is going to expand one of these days,  /""]", d well  everyones told me my waist  line is going to expand one of these days  ,sd,MALE,1
+"[""{c but } <noise> i don't know <laughter>. /""]",c but  noise i dont know laughter ,sd,MALE,1
+"['{d well, } it might not <laughter>. /']",d well  it might not laughter ,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+"['mine, - /']",mine  ,%,FEMALE,5
+"[""{c because } everybody's been  telling me that too  /""]",c because  everybodys been  telling me that too  ,sd,FEMALE,1
+"[""{c and } so far it hasn't happened, {d you know, }  /""]",c and  so far it hasnt happened d you know   ,sd,FEMALE,1
+"['{c and }  [ i, + i ] just feel like, {d you know, } <noise> you have to constantly <noise> weigh yourself --']",c and    i  i  just feel like d you know  noise you have to constantly noise weigh yourself ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- and just keep an eye on it  and cut back if it <talking> starts to get {d you know, } too high. /']", and just keep an eye on it  and cut back if it talking starts to get d you know  too high ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+['i guess i enjoy sports a lot  /'],i guess i enjoy sports a lot  ,sd,MALE,1
+"[""{c so } that's why i've kept active in that way. /""]",c so  thats why ive kept active in that way ,sd,MALE,1
+['yeah.   /'],yeah   ,b,FEMALE,2
+"[""{c but } you don't play any other sports but basketball? /""]",c but  you dont play any other sports but basketball ,qy^d,FEMALE,16
+"['{f uh, } basketball,  /']",f uh  basketball  ,sd,MALE,1
+"['volleyball, {f uh, }  /']",volleyball f uh   ,sd,MALE,1
+"[""too bad it's not <noise> really heavy as far as recreation or hobby,  /""]",too bad its not noise really heavy as far as recreation or hobby  ,sd,MALE,1
+['i do that. /'],i do that ,sd,MALE,1
+"['{c but, }  do you ski?  /']",c but   do you ski  ,qy,FEMALE,7
+"['being in utah,  i was wondering # if you ski. # /']",being in utah  i was wondering  if you ski  ,qy^d,FEMALE,16
+"['# {f uh, } i use # to,  /']", f uh  i use  to  ,sd,MALE,1
+"['{c but } it got too expensive,  /']",c but  it got too expensive  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+['{f oh } did it really? /'],f oh  did it really ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,MALE,9
+"['{c cause } i know that skiing in utah  [ is, + is ] suppose to be <static> great. /']",c cause  i know that skiing in utah   is  is  suppose to be static great ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+['a lot of people do that -- /'],a lot of people do that  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- [ {c and } + <noise> {c but, } ]   <noise> {d well } [ i just + <<sounds like>> i ] never find the time.  /']",  c and   noise c but     noise d well   i just  sounds like i  never find the time  ,sd,MALE,1
+['i had rather do other things. /'],i had rather do other things ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } i have never skied before,  /']",d well  i have never skied before  ,sd,FEMALE,1
+['{c but } i have friends that go to utah all the time #  /'],c but  i have friends that go to utah all the time   ,sd,FEMALE,1
+"[""{c and } they think it's really # -- -/""]",c and  they think its really   ,sd,FEMALE,1
+['# {f oh } they come up here. # /'], f oh  they come up here  ,bf,MALE,20
+['-- {c and } they ski.  /'], c and  they ski  ,sd,FEMALE,1
+"[""i guess there's  a place where you can ski,  /""]",i guess theres  a place where you can ski  ,sd,FEMALE,1
+"['{d well }  is it tahoe? where you ski from,  /']",d well   is it tahoe where you ski from  ,qy,FEMALE,7
+['no  /'],no  ,ar,FEMALE,28
+"[""that's nevada to # california # --""]",thats nevada to  california  ,sd,FEMALE,1
+"[""# that's in nevada. # /""]", thats in nevada  ,sd,MALE,1
+['-- i guess. /'], i guess ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i am thinking about where you can ski over the state line. /'],i am thinking about where you can ski over the state line ,sd,FEMALE,1
+"['{f oh, } yeah  /']",f oh  yeah  ,b,MALE,2
+"['{c but, } -/']",c but  ,%,MALE,5
+"[""{c but } [ there's a fun-, +  there is a place in utah called a funny ] name. /""]",c but   theres a fun   there is a place in utah called a funny  name ,sd,FEMALE,1
+"[""there's snow bird or alta. /""]",theres snow bird or alta ,sd,MALE,1
+"[""{c but } it's like, {f oh, } heavenly.  /""]",c but  its like f oh  heavenly  ,sd,FEMALE,1
+['is that it? /'],is that it ,qy,FEMALE,7
+['heavenly? /'],heavenly ,br,MALE,30
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""i think it's called heavenly. /""]",i think its called heavenly ,sd,FEMALE,1
+"[""{f huh. }  i've never heard # of that one. # /""]",f huh   ive never heard  of that one  ,sd,MALE,1
+"[""# you've never # heard of that? /""]", youve never  heard of that ,qy^d,FEMALE,16
+['huh-uh. /'],huhuh ,nn,MALE,13
+"[""{d well, } maybe it isn't in utah. /""]",d well  maybe it isnt in utah ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""{c but } they said they've skied heavenly  /""]",c but  they said theyve skied heavenly  ,sd,FEMALE,1
+"['{c and } <laughter> it sounded like,  <laughter> {d you know, } that they skied really  well, [ and + ]  when they are actually talking about a place.  /']",c and  laughter it sounded like  laughter d you know  that they skied really  well  and    when they are actually talking about a place  ,sd,FEMALE,1
+"[""it's kind of funny. /""]",its kind of funny ,sv,FEMALE,3
+"['do they exercise much [ or, + ]  {e i mean } for skiing?  /']",do they exercise much  or    e i mean  for skiing  ,qy,MALE,7
+"['i know when i went, you can get sore easily  /']",i know when i went you can get sore easily  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+['{f oh } yeah.  /'],f oh  yeah  ,aa,FEMALE,4
+['you can get really sore.  /'],you can get really sore  ,sd,FEMALE,1
+"['i know you, - /']",i know you  ,%,FEMALE,5
+"[""{e i mean }  i've talked to people,  /""]",e i mean   ive talked to people  ,sd,FEMALE,1
+"[""{c but } most of these people ski enough  so that they don't get sore. /""]",c but  most of these people ski enough  so that they dont get sore ,sd,FEMALE,1
+['{f oh } yeah.  /'],f oh  yeah  ,b,MALE,2
+['((   ))  is one or two timer a year  if i do go on them  /'],     is one or two timer a year  if i do go on them  ,sd,MALE,1
+['{c and } i am really sore after. /'],c and  i am really sore after ,sd,MALE,1
+"['{c and then, } is it your quadriceps that are the worst? /']",c and then  is it your quadriceps that are the worst ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+"['in your legs and, -/']",in your legs and ,qy^d,FEMALE,16
+"['my legs really, really ache. /']",my legs really really ache ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but, }  that's, <noise> - /""]",c but   thats noise  ,%,MALE,5
+['i am using <noise> muscles that i have never used before. /'],i am using noise muscles that i have never used before ,sd,MALE,1
+"['{d well, } - /']",d well   ,%,FEMALE,5
+"[""{c and } it's strange that you  can do, like i did aerobics, {d you know, } all the time  /""]",c and  its strange that you  can do like i did aerobics d you know  all the time  ,sd,FEMALE,1
+['{c and then } i went horseback riding  /'],c and then  i went horseback riding  ,sd,FEMALE,1
+['{c and } still i was so sore  /'],c and  still i was so sore  ,sd,FEMALE,1
+"[""{c and } i couldn't get over, -/""]",c and  i couldnt get over ,sd,FEMALE,1

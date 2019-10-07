@@ -1,0 +1,324 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+"[""let's see.  /""]",lets see  ,^h,MALE,27
+"['i think, {f uh, } - /']",i think f uh   ,%,MALE,5
+"[""i guess, if i call i'm supposed to start.  /""]",i guess if i call im supposed to start  ,sv,MALE,3
+"[""i think, {f uh, } that's the way everybody has done it so far. /""]",i think f uh  thats the way everybody has done it so far ,sd,MALE,1
+['okay. /'],okay ,aa,FEMALE,4
+"['{c but, } anyway i think that, {f um, } we are paying a lot in taxes,  /']",c but  anyway i think that f um  we are paying a lot in taxes  ,sv,MALE,3
+"['{c but } i think that we have a government and we have a lot of freedoms,  and we have a lot of things that the governments do with our money.  /']",c but  i think that we have a government and we have a lot of freedoms  and we have a lot of things that the governments do with our money  ,sv,MALE,3
+"[""{f um, }  we're probably one of  [ the, + the  ] only countries in the world that has all the things that we have.  /""]",f um   were probably one of   the  the   only countries in the world that has all the things that we have  ,sv,MALE,3
+"['the, {d you know, } - /']",the d you know   ,%,MALE,5
+"['as far as the quality of the streets, the school systems, {f um, } the hospital stuff that the government gives money to.  {f um, } the, {d you know, } all the things that the government does like that.  [ i, + {f uh, } i ] think they need to manage it a little bit better,  /']",as far as the quality of the streets the school systems f um  the hospital stuff that the government gives money to  f um  the d you know  all the things that the government does like that   i  f uh  i  think they need to manage it a little bit better  ,sv,MALE,3
+"[""{c but } i don't think, {f uh, } anybody is just going to come in and fix it in a couple of weeks,  because  they've been messing it up for many years, now.  /""]",c but  i dont think f uh  anybody is just going to come in and fix it in a couple of weeks  because  theyve been messing it up for many years now  ,sv,MALE,3
+"['{c so, } -/']",c so  ,%,MALE,5
+['i have to agree that <laughter>. /  *[[listen]]'],i have to agree that laughter   listen,aa,FEMALE,4
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and } you're right.  /""]",c and  youre right  ,aa,FEMALE,4
+"['[ [ we, + {e i mean, } we, ] + {d you know, } we ] do have a good government.  /']",  we  e i mean  we   d you know  we  do have a good government  ,sv,FEMALE,3
+"['we do have a lot of things [ that, + {d you know, } that, ] {d you know, } the taxes are there to support,  /']",we do have a lot of things  that  d you know  that  d you know  the taxes are there to support  ,sv,FEMALE,3
+"[""{c but } i do think they're mismanaged  /""]",c but  i do think theyre mismanaged  ,sv,FEMALE,3
+"[""{c and } i think that sometimes it's [ too easy of a, + i don't know, to easy of an ] answer.  /""]",c and  i think that sometimes its  too easy of a  i dont know to easy of an  answer  ,sv,FEMALE,3
+"[""it seems to say, i'll tax them if you can't get enough money, instead of trying to figure out how to cut budgets or cut spending [ or, + or, ] {d you know, } get all of the waste out of the spending. /""]",it seems to say ill tax them if you cant get enough money instead of trying to figure out how to cut budgets or cut spending  or  or  d you know  get all of the waste out of the spending ,sv,FEMALE,3
+['huh-uh. /'],huhuh ,b,MALE,2
+"[""{f uh, } i don't know what y'all are paying in dallas,  /""]",f uh  i dont know what yall are paying in dallas  ,qh,FEMALE,26
+"['{c but, } {d you know, } it seems like we pay the  (( state )) , - /']",c but  d you know  it seems like we pay the   state    ,sv,FEMALE,3
+"[""{d you know } there's a, - /""]",d you know  theres a  ,%,FEMALE,5
+"['the taxes set by, {d you know, } the state and the city can add theirs,  /']",the taxes set by d you know  the state and the city can add theirs  ,sv,FEMALE,3
+"['{c and } the county adds theirs,  /']",c and  the county adds theirs  ,sv,FEMALE,3
+"[""{c and, } {d you know, } we're paying almost eight percent sales tax, right now.  which seems to me nuts.  /""]",c and  d you know  were paying almost eight percent sales tax right now  which seems to me nuts  ,sv,FEMALE,3
+['i came from california  /'],i came from california  ,sd,FEMALE,1
+"['{c and, } {d you know, } when i left there, we paid six cents on the dollar,  /']",c and  d you know  when i left there we paid six cents on the dollar  ,sd,FEMALE,1
+['{c and } that was {d like } one of the highest in the nation. /'],c and  that was d like  one of the highest in the nation ,sd,FEMALE,1
+['right.  /'],right  ,b,MALE,2
+"[""i think it's seven here. /""]",i think its seven here ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['seven point something. /'],seven point something ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['ourselves is seven point seven five. /'],ourselves is seven point seven five ,sd,FEMALE,1
+['huh-uh. /'],huhuh ,b,MALE,2
+['whole state. /'],whole state ,sd,FEMALE,1
+['yeah  <laughter>. /'],yeah  laughter ,b,MALE,2
+['it drives me crazy.  /'],it drives me crazy  ,sd,FEMALE,1
+"[""i'm thinking, {d you know, } everybody is sitting here screaming about, we don't want a state income tax,  /""]",im thinking d you know  everybody is sitting here screaming about we dont want a state income tax  ,sv,FEMALE,3
+['{c but } yet they allow the sales tax to go up and up and up and up  /'],c but  yet they allow the sales tax to go up and up and up and up  ,sv,FEMALE,3
+"[""{c and } they don't do anything about it.""]",c and  they dont do anything about it,sv,FEMALE,3
+['right. /'],right ,aa,MALE,4
+['{d you know. } /'],d you know  ,+,FEMALE,0
+['where are you at?  /'],where are you at  ,qw,MALE,12
+['what state? /'],what state ,qw,MALE,12
+"[""i'm in lubbock, texas. /""]",im in lubbock texas ,sd,FEMALE,1
+"['{f oh, } really. /']",f oh  really ,bh,MALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+['yeah.  /'],yeah  ,b,MALE,2
+"[""there's, - /""]",theres  ,%,MALE,5
+"[""[ we're still, + we're still ] one of few that don't have the, {f uh, } state tax  ((   )) . /""]", were still  were still  one of few that dont have the f uh  state tax       ,sd,MALE,1
+"[""that's true.  /""]",thats true  ,aa,FEMALE,4
+"['{c and } i did pay state tax in california,  /']",c and  i did pay state tax in california  ,sd,FEMALE,1
+"['{c but } my goodness,  /']",c but  my goodness  ,ba,FEMALE,6
+"['[ that, + that,  ] - /']", that  that    ,%,FEMALE,5
+"['[ the, +   what did you call it, the ] sales tax, is just getting outrageous to pay. /']", the    what did you call it the  sales tax is just getting outrageous to pay ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""that's true. /""]",thats true ,aa,MALE,4
+"[""you don't sound like you're from dallas.  /""]",you dont sound like youre from dallas  ,sv,FEMALE,3
+"['where [ do you, + do you ] come from originally  /']",where  do you  do you  come from originally  ,qw,FEMALE,12
+['texas? /'],texas ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,MALE,9
+['i do.  /'],i do  ,sd,MALE,1
+"[""i've lived [ in, + in  ] the dallas area here since i was like four. /""]",ive lived  in  in   the dallas area here since i was like four ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"[""{d so. }  {f uh, } it's, i don't know, an urban area, i guess  /""]",d so   f uh  its i dont know an urban area i guess  ,sv,MALE,3
+['whatever.    /'],whatever    ,"fo_o_fw_""_by_bc",MALE,0
+"[""i don't know. /""]",i dont know ,sd,MALE,1
+"['[ you just, + you just ] managed to escape the real texan accent, /']", you just  you just  managed to escape the real texan accent ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,MALE,9
+['i thought maybe you had come from somewhere else and had some experience with taxes there. /'],i thought maybe you had come from somewhere else and had some experience with taxes there ,sv,FEMALE,3
+['no.  /'],no  ,ar,MALE,28
+['no.  /'],no  ,ar,MALE,28
+"[""i've just lived here,  /""]",ive just lived here  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but, } i don't know,  /""]",c but  i dont know  ,%,MALE,5
+"['i do,  /']",i do  ,%,MALE,5
+"['i can think of all the biblical things about it, too.  /']",i can think of all the biblical things about it too  ,sd,MALE,1
+"['[ where, + what ] did they say to, {f uh, } - /']", where  what  did they say to f uh   ,%,MALE,5
+"[""i can't think of the scripture.  /""]",i cant think of the scripture  ,sd,MALE,1
+"[""render unto caesar's what is caesar's. /  *[[listen]]""]",render unto caesars what is caesars   listen,^q,MALE,19
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"['{d so, } {d you know, } [ even, + even  ] in the story where they had to pay the taxes, the disciples,']",d so  d you know   even  even   in the story where they had to pay the taxes the disciples,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""and, {f uh, } jesus said the money in the fish's mouth or in the fisher, inside the fish.  /""]",and f uh  jesus said the money in the fishs mouth or in the fisher inside the fish  ,+,MALE,0
+"['{c and, } {f uh, } i thought of those two things when [ i was, + i was ] holding for a long time. /']",c and  f uh  i thought of those two things when  i was  i was  holding for a long time ,sd,MALE,1
+"['{f oh, } were you really,']",f oh  were you really,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['trying to find someone at home? /'],trying to find someone at home ,+,FEMALE,0
+['yeah. /'],yeah ,ny,MALE,9
+"['{d well, } {d you know, } {f um, } back then what they tried to do, {d you know, } - /']",d well  d you know  f um  back then what they tried to do d you know   ,sd,FEMALE,1
+"['the  ((   )) would always try to stump jesus, try to give him something that would contradict himself, /']",the      would always try to stump jesus try to give him something that would contradict himself ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""{c and so } that's what they were trying to do with the tax situation.  /""]",c and so  thats what they were trying to do with the tax situation  ,sd,FEMALE,1
+"[""{c and, } of course, that's when he said well you render unto caesar's what is caesar's,  /""]",c and  of course thats when he said well you render unto caesars what is caesars  ,sd,FEMALE,1
+"[""you render unto god what is god's. /""]",you render unto god what is gods ,^q,FEMALE,19
+['right. /'],right ,b,MALE,2
+"['{c and, } {f uh, } {d you know, } of course, there, - /']",c and  f uh  d you know  of course there  ,%,FEMALE,5
+"[""i don't think they really cared about the answer, /""]",i dont think they really cared about the answer ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+['they just wanted to try and catch him in something <laughter>. /'],they just wanted to try and catch him in something laughter ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['[ {c but, } +  {c but } ] i believe in paying taxes  /']", c but    c but   i believe in paying taxes  ,sv,FEMALE,3
+"['{c and, }  {e i mean, } yeah,  /']",c and   e i mean  yeah  ,%,FEMALE,5
+"['like everybody else, i try to take as many deductions as i can, /']",like everybody else i try to take as many deductions as i can ,sd,FEMALE,1
+"['{f oh, } sure. /']",f oh  sure ,ba,MALE,6
+"[""((   ))  {d you know, } i don't want to pay more than i have to, /""]",     d you know  i dont want to pay more than i have to ,sd,FEMALE,1
+['sure. /'],sure ,ba,MALE,6
+"['{c and } i get outraged when i feel like they go up for useless reasons,  /']",c and  i get outraged when i feel like they go up for useless reasons  ,sv,FEMALE,3
+"[""{c but } i believe that they're necessary. /""]",c but  i believe that theyre necessary ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"['{d so, } i really do, /']",d so  i really do ,sd,FEMALE,1
+['yeah  /'],yeah  ,b,MALE,2
+"['are, -/']",are ,%,MALE,5
+"['[ do you, + do you ] deal with taxes much in what you do when you work  /']", do you  do you  deal with taxes much in what you do when you work  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['no,  /']",no  ,nn,MALE,13
+['not really.  /'],not really  ,sd,MALE,1
+"[""[ i've, + i ] spends a lot of time with our income tax, though.  [ this, + especially, this  ] year and last year.  /""]", ive  i  spends a lot of time with our income tax though   this  especially this   year and last year  ,sd,MALE,1
+"['{f um, } i have been married for just a few years,  /']",f um  i have been married for just a few years  ,sd,MALE,1
+"[""{c so } i've had to really switch around from the e z form to the, {f uh, } -/""]",c so  ive had to really switch around from the e z form to the f uh  ,sd,MALE,1
+['schedule a /'],schedule a ,^2,FEMALE,23
+['right  <laughter>. /'],right  laughter ,aa,MALE,4
+"['{d well, } yeah. /']",d well  yeah ,b,FEMALE,2
+['all the deductions and all that. /'],all the deductions and all that ,sd,MALE,1
+"['did you notice that when they passed the new simplified tax act, it seemed like it made everything harder? /']",did you notice that when they passed the new simplified tax act it seemed like it made everything harder ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,MALE,9
+['it really did. /'],it really did ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['[ i, + i ] saw,  that, too. /']", i  i  saw  that too ,sd,MALE,1
+"[""i didn't notice anything simplified about it, except that they took away the deductions,""]",i didnt notice anything simplified about it except that they took away the deductions,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['the interest and,']",the interest and,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+['other things <laughter>. /'],other things laughter ,+,FEMALE,0
+"[""we're looking at buying a house, /""]",were looking at buying a house ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['{c and } that was one of the main pluses that we have about buying a house. /'],c and  that was one of the main pluses that we have about buying a house ,sd,MALE,1
+['{c and } it will help tremendously. /'],c and  it will help tremendously ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['we bought ours five years ago  /'],we bought ours five years ago  ,sd,FEMALE,1
+"[""{c and } it's - /""]",c and  its  ,%,FEMALE,5
+"['the one thing, - /']",the one thing  ,%,FEMALE,5
+['it seems like you make those payments every month  /'],it seems like you make those payments every month  ,sv,FEMALE,3
+"[""{c and } at the end of the year you've paid all interest and no principles. /""]",c and  at the end of the year youve paid all interest and no principles ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+['{c so } that will definitely help in taxes and what you will get back. /'],c so  that will definitely help in taxes and what you will get back ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"[""there's a thing  i just, - /""]",theres a thing  i just  ,%,MALE,5
+"[""i've been trying to learn as much as i can about it,  /""]",ive been trying to learn as much as i can about it  ,sd,MALE,1
+"['if you pay, - /']",if you pay  ,%,MALE,5
+"['i know i get paid twice a month, every two weeks, /']",i know i get paid twice a month every two weeks ,sd,MALE,1
+['huh-uh. /'],huhuh ,b,FEMALE,2
+"[""that's once a month. /""]",thats once a month ,sd,MALE,1
+['huh-uh. /'],huhuh ,b,FEMALE,2
+"['{d well, } i get twenty six paychecks,']",d well  i get twenty six paychecks,sd,MALE,1
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+['which would come out to be in thirteen months.  /'],which would come out to be in thirteen months  ,+,MALE,0
+"['{c so } if you pay your rent or your house payment every two weeks,']",c so  if you pay your rent or your house payment every two weeks,sv,MALE,3
+['huh-uh. /'],huhuh ,b,FEMALE,2
+"[""instead of once a month, you'll come out paying [ a, + ] {f uh, } one month extra every year. /""]",instead of once a month youll come out paying  a   f uh  one month extra every year ,+,MALE,0
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"['{c and } [ it will, + if have you a thirty year note, it will ] take like seven or  plus years off of your note. /']",c and   it will  if have you a thirty year note it will  take like seven or  plus years off of your note ,sv,MALE,3
+"[""that's right.  /""]",thats right  ,aa,FEMALE,4
+"['my parents, {f uh, } bought a home in san diego about four or  five years ago, /']",my parents f uh  bought a home in san diego about four or  five years ago ,sd,FEMALE,1
+['<throat_clearing>.'],throatclearing,x,MALE,8
+['{c and } they did that.  /'],c and  they did that  ,sd,FEMALE,1
+"['they thought their payment was automatically taken out like every other wednesday, /']",they thought their payment was automatically taken out like every other wednesday ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"[""{c and } that's exactly right.  /""]",c and  thats exactly right  ,aa,FEMALE,4
+"['everyone, - /']",everyone  ,%,FEMALE,5
+"[""though the note is thirty years,  she said it's going be paid off in twenty or twenty one years,""]",though the note is thirty years  she said its going be paid off in twenty or twenty one years,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['or something like that. /'],or something like that ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['just because of exactly what you said, /']",just because of exactly what you said ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""you're making one more month's payment every year. /""]",youre making one more months payment every year ,sd,FEMALE,1
+"[""{c and } that's going on the principle,  /""]",c and  thats going on the principle  ,sd,MALE,1
+"[""it doesn't pay any interest, /""]",it doesnt pay any interest ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c or, }']",c or ,sd,MALE,1
+"[""usually it doesn't. /""]",usually it doesnt ,+,MALE,0
+"[""that's a good way to do it. /  *[[ba]]""]",thats a good way to do it   ba,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['{c and } when we bought this house, we looked at doing a fifteen year note, because it added more to the payment,']",c and  when we bought this house we looked at doing a fifteen year note because it added more to the payment,sd,FEMALE,1
+['huh-uh. /'],huhuh ,b,MALE,2
+"['but not significant amounts, {d you know, }  /']",but not significant amounts d you know   ,+,FEMALE,0
+['it was a good payoff for being able to pay it off sooner. /'],it was a good payoff for being able to pay it off sooner ,sv,FEMALE,3
+['right.  /'],right  ,aa,MALE,4
+"[""that's what we're looking at, fifteen or maybe twenty. /""]",thats what were looking at fifteen or maybe twenty ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""we're not going to go longer than twenty. /""]",were not going to go longer than twenty ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but, } we're taking our time.  /""]",c but  were taking our time  ,sd,MALE,1
+"[""we're going to try to make our decision by july. /""]",were going to try to make our decision by july ,sd,MALE,1
+"[""{d well, } that's good, though. /""]",d well  thats good though ,ba,FEMALE,6
+"['{d well, } we just started two or three weeks ago. /']",d well  we just started two or three weeks ago ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } we're not going to just kill ourselves  /""]",c and  were not going to just kill ourselves  ,sd,MALE,1
+['just two or three houses a week at the most. /'],just two or three houses a week at the most ,sd,MALE,1
+"[""{d well, } that's good, though. /""]",d well  thats good though ,ba,FEMALE,6
+['yeah. /'],yeah ,aa,MALE,4
+"[""is it kind of a buyer's market down there? /""]",is it kind of a buyers market down there ,qy,FEMALE,7
+['absolutely.  /'],absolutely  ,na,MALE,21
+['yeah. /'],yeah ,ny,MALE,9
+"[""{d well, } that's good. /""]",d well  thats good ,ba,FEMALE,6
+['credit union has nine percent interest. /'],credit union has nine percent interest ,sd,MALE,1
+"[""that's pretty excellent. /""]",thats pretty excellent ,ba,FEMALE,6
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""{c so } that's, - /""]",c so  thats  ,%,MALE,5
+"[""i don't know,  /""]",i dont know  ,%,MALE,5
+"[""we couldn't think of a better time to buy than now. /""]",we couldnt think of a better time to buy than now ,sd,MALE,1
+"[""that's good. /""]",thats good ,ba,FEMALE,6
+"[""{c but, } anyway.  {d well, } {f um, } i can't think of a whole lot more to say. /""]",c but  anyway  d well  f um  i cant think of a whole lot more to say ,fc,MALE,10
+"[""{d well, } i can't either.  /""]",d well  i cant either  ,fc,FEMALE,10
+"['i appreciate the call, though. /']",i appreciate the call though ,fc,FEMALE,10
+['yeah.  /'],yeah  ,fc,MALE,10
+"['me, too. /']",me too ,fc,MALE,10
+['i enjoyed talking to you. /'],i enjoyed talking to you ,fc,FEMALE,10
+"['yeah,  /']",yeah  ,fc,MALE,10
+['same here.  /'],same here  ,fc,MALE,10
+"['my wife, {f uh, } she went to, {f uh, } the school out there in lubbock. /']",my wife f uh  she went to f uh  the school out there in lubbock ,fc,MALE,10
+['in lubbock? /'],in lubbock ,qy,FEMALE,7
+['she was there for two or three years before we got married.  /'],she was there for two or three years before we got married  ,na,MALE,21
+"['i guess, before i even met her. /']",i guess before i even met her ,sd,MALE,1
+['<<speaker is talking to child in background>>.  just a second. /'],speaker is talking to child in background  just a second ,t3,FEMALE,35
+['okay. /'],okay ,b,MALE,2
+['go ahead. /'],go ahead ,ad,FEMALE,22
+"['{c but } anyway, -/']",c but  anyway ,%,MALE,5
+['{c so } she was at school out here? /'],c so  she was at school out here ,qy,FEMALE,7
+['she went to school there. /'],she went to school there ,na,MALE,21
+"['{d well, } what was her name? /']",d well  what was her name ,qw,FEMALE,12
+['cathy walker. /'],cathy walker ,sd,MALE,1
+['no.  /'],no  ,nn,FEMALE,13
+"[""i didn't know any walker's. /""]",i didnt know any walkers ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d well, } good luck in your house hunting. /']",d well  good luck in your house hunting ,fc,FEMALE,10
+['yeah.  /'],yeah  ,fc,MALE,10
+['thanks a lot.   /'],thanks a lot   ,fc,MALE,10
+"[""[ you, + y'all ] work at t i? /""]", you  yall  work at t i ,qy,MALE,7
+['i do. /'],i do ,na,FEMALE,21
+['you do. /'],you do ,bh,MALE,18
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"[""i'm in human resources. /""]",im in human resources ,sd,FEMALE,1
+"['{f oh, } really. /']",f oh  really ,bh,MALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+"[""that's interesting.  /""]",thats interesting  ,ba,MALE,6
+['i work in the  (( waiver )) . /'],i work in the   waiver   ,sd,MALE,1
+"['do you really,  /']",do you really  ,bh,FEMALE,18
+"[""{c because } that's, - /""]",c because  thats  ,%,FEMALE,5
+['i work with elma. /'],i work with elma ,sd,FEMALE,1
+"['{f oh, } really. /']",f oh  really ,bh,MALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+['yeah. /'],yeah ,b,MALE,2
+"['{c and } i used to work, - /']",c and  i used to work  ,sd,FEMALE,1
+"['[ i, + i ] did all of their  (( capital ))  and financial planning for about eight years. /']", i  i  did all of their   capital   and financial planning for about eight years ,sd,FEMALE,1
+"['{f oh, } wow. /']",f oh  wow ,ba,MALE,6
+['{c and then } i have been in human resources for the last two years  /'],c and then  i have been in human resources for the last two years  ,sd,FEMALE,1
+"['{c and } i work with those same people all those nine years,  /']",c and  i work with those same people all those nine years  ,sd,FEMALE,1
+"['{c so, }']",c so ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['i feel kind of part of the  (( staff )) . /'],i feel kind of part of the   staff   ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i'm, {f uh, } turning in a capital request right now, /""]",im f uh  turning in a capital request right now ,sd,MALE,1
+['you are. /'],you are ,bh,FEMALE,18
+['yeah.  /'],yeah  ,ny,MALE,9
+"[""that's funny that's where you're from. /""]",thats funny thats where youre from ,sv,MALE,3
+['what are trying to get? /  *[[listen]]'],what are trying to get   listen,qw,FEMALE,12
+['a machine that puts  (( back grind ))  tape on and off the  (( waivers )) . /'],a machine that puts   back grind   tape on and off the   waivers   ,sd,MALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+['okay.  /'],okay  ,bk,FEMALE,14
+['{c so } you work in  (( back grind )) ? /'],c so  you work in   back grind   ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,MALE,9
+"[""[ i'm, +  i'm ] sort of an acting process engineer. /""]", im   im  sort of an acting process engineer ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"['not officially,  /']",not officially  ,sd,MALE,1
+"[""{c but } that's pretty much what i do. /""]",c but  thats pretty much what i do ,sd,MALE,1
+"[""that's what you do, {f uh, } /""]",thats what you do f uh  ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,MALE,9
+['{c and } do you  ((   )) ? -/'],c and  do you       ,qy,FEMALE,7
+['right  /'],right  ,na,MALE,21
+['{c and }  ((   )) . -/'],c and        ,%,MALE,5
+['{d well } good deal.  /'],d well  good deal  ,ba,FEMALE,6
+['what did you think of sam? /'],what did you think of sam ,qo,FEMALE,25
+"['{f uh, } {f oh, } i like him,  /']",f uh  f oh  i like him  ,sd,MALE,1
+"[""he's hard,  /""]",hes hard  ,sv,MALE,3
+['{c but } we needed that. /'],c but  we needed that ,sv,MALE,3
+"[""{d well, } that's good. /""]",d well  thats good ,ba,FEMALE,6
+['yeah  /'],yeah  ,b,MALE,2
+"[""he's, -/""]",hes ,%,MALE,5
+"['he was very good for lubbock when he came to, {d you know, } - /']",he was very good for lubbock when he came to d you know   ,sv,FEMALE,3
+"['it was the same kind of thing,  /']",it was the same kind of thing  ,sv,FEMALE,3
+['he had a lot of good results. /'],he had a lot of good results ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""[ that's, + that's ] what he said here. /""]", thats  thats  what he said here ,sd,MALE,1
+['good. /'],good ,ba,FEMALE,6
+"[""he's gotten us into a linear flow that we've never been in before. /""]",hes gotten us into a linear flow that weve never been in before ,sd,MALE,1
+"['{d well, } good. /']",d well  good ,ba,FEMALE,6
+"[""that's been a real big plus. /""]",thats been a real big plus ,sv,MALE,3
+['good. /'],good ,ba,FEMALE,6
+"[""he's broadened, [ our, + ] {f um, } the devices that we're making, too,""]",hes broadened  our   f um  the devices that were making too,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,FEMALE,2
+['which has made us as lot more stable. /'],which has made us as lot more stable ,+,MALE,0
+"[""{d well, } that's good. /""]",d well  thats good ,ba,FEMALE,6
+"['anyway, {d well, } it was nice to talk to you. /']",anyway d well  it was nice to talk to you ,fc,MALE,10
+"['{d well, } you too,  /']",d well  you too  ,fc,FEMALE,10
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"[""they're are going to interrupt us any minute now,  /""]",theyre are going to interrupt us any minute now  ,fc,MALE,10
+['i can tell. /'],i can tell ,fc,MALE,10
+"['{d well, } i know they will,  /']",d well  i know they will  ,fc,FEMALE,10
+['{c and } besides my daughter wants me to put her to bed. /'],c and  besides my daughter wants me to put her to bed ,fc,FEMALE,10
+"['okay,  /']",okay  ,fc,MALE,10
+"['yeah,  /']",yeah  ,fc,MALE,10
+"['me, too. /']",me too ,fc,MALE,10
+"['{d well, } have a good day. /']",d well  have a good day ,fc,FEMALE,10
+"['you, too.  /']",you too  ,fc,MALE,10
+['bye. /'],bye ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

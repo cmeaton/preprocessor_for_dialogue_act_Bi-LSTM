@@ -1,0 +1,182 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{f uh, } the last movie that i saw, - /']",f uh  the last movie that i saw  ,sd,FEMALE,1
+"[""[ i, + i ] don't go to that many  /""]", i  i  dont go to that many  ,sd,FEMALE,1
+"[""{c so } i'll just have to talk about the ones that i went to see,  /""]",c so  ill just have to talk about the ones that i went to see  ,sd,FEMALE,1
+"['{c but, }']",c but ,sd,FEMALE,1
+['okay. /'],okay ,b,FEMALE,2
+"['{f uh, } it was awakenings with, {f uh, } robin williams and, {f uh, } peter deniro. /']",f uh  it was awakenings with f uh  robin williams and f uh  peter deniro ,+,FEMALE,0
+"['yes,  /']",yes  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['have you seen it. /'],have you seen it ,qy^d,FEMALE,16
+['no  /'],no  ,nn,FEMALE,13
+"[""unfortunately i haven't,  /""]",unfortunately i havent  ,sd,FEMALE,1
+"[""i heard it's really good,  /""]",i heard its really good  ,sd,FEMALE,1
+['{c but. } -/'],c but  ,%,FEMALE,5
+['it is.  /'],it is  ,sv,FEMALE,3
+['i just have to take my hat off to peter deniro. /'],i just have to take my hat off to peter deniro ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""he is one of the best actors i've ever seen.  /""]",he is one of the best actors ive ever seen  ,sv,FEMALE,3
+"[""it's, - /""]",its  ,%,FEMALE,5
+"[""there's a point where, - /""]",theres a point where  ,%,FEMALE,5
+"['[ the, + {f uh, } the ] show is about these, {f uh, } catatonic type people that, - /']", the  f uh  the  show is about these f uh  catatonic type people that  ,sd,FEMALE,1
+"['this doctor discovers a drug that brings them back to [ the, + the ] living, more or  less,  /']",this doctor discovers a drug that brings them back to  the  the  living more or  less  ,sd,FEMALE,1
+['{c but } it wears off. /'],c but  it wears off ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } the way it wears off is he goes through all these spastic, {d you know, } {f uh, } - /']",c and  the way it wears off is he goes through all these spastic d you know  f uh   ,sd,FEMALE,1
+"['it starts off with like a tic, /']",it starts off with like a tic ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and then } it gets to where he can't, {d you know, } control his movements at all.  /""]",c and then  it gets to where he cant d you know  control his movements at all  ,sd,FEMALE,1
+['{c and } it was just so realistic.  /'],c and  it was just so realistic  ,sd,FEMALE,1
+"[""the way, {d you know, } you have to just keep reminding yourself that he's an actor. /""]",the way d you know  you have to just keep reminding yourself that hes an actor ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['what does, {f uh, } - /']",what does f uh   ,qw,FEMALE,12
+['is - /'],is  ,%,FEMALE,5
+"['[ robby, + robin ] williams, does he have a funny part in it? /']", robby  robin  williams does he have a funny part in it ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['it was [ very serious,  + very se-,  ] -/']",it was  very serious   very se   ,sd,FEMALE,1
+['{f oh } how does he do serious. /'],f oh  how does he do serious ,qo,FEMALE,25
+"[""he's good,  /""]",hes good  ,sv,FEMALE,3
+"[""[ he's, + he's ] talented,  /""]", hes  hes  talented  ,sv,FEMALE,3
+"['boy, he is. /']",boy he is ,ba,FEMALE,6
+"[""i've only seen him in funny stuff  /""]",ive only seen him in funny stuff  ,sd,FEMALE,1
+['{c and so. } -/'],c and so  ,%,FEMALE,5
+"['i know,  /']",i know  ,b,FEMALE,2
+['me too.  /'],me too  ,sd,FEMALE,1
+"['{c but, }  {f uh, } {d well, } what was that show, {f um, } <barking>  [ gar-, + {f uh, } garf-, ] - /']",c but   f uh  d well  what was that show f um  barking   gar  f uh  garf   ,qw^d,FEMALE,41
+['i want to say garfield   /'],i want to say garfield   ,sd,FEMALE,1
+"[""{c but } that wasn't it. /""]",c but  that wasnt it ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{f uh, } [ garp, + the world according to garp.  ] /']",f uh   garp  the world according to garp   ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['the world according to garp.  /'],the world according to garp  ,sd,FEMALE,1
+"[""he wasn't always funny in that show, was he. /""]",he wasnt always funny in that show was he ,qy,FEMALE,7
+"[""i didn't [ read, + see ] [ the, + the  ] movie,  /""]",i didnt  read  see   the  the   movie  ,no,FEMALE,31
+['i read the book  /'],i read the book  ,sd,FEMALE,1
+"['{c but } i, -/']",c but  i ,%,FEMALE,5
+['i did too.  /'],i did too  ,sd,FEMALE,1
+"[""that's why i was thinking it couldn't be just a totally funny part </barking>. /""]",thats why i was thinking it couldnt be just a totally funny part barking ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['in fact, it got some pretty serious deep parts in it  /']",in fact it got some pretty serious deep parts in it  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['{d well } what have you seen? /'],d well  what have you seen ,qw,FEMALE,12
+['i think the last movie that we went out to see was dances with wolves. /'],i think the last movie that we went out to see was dances with wolves ,sd,FEMALE,1
+"['{f oh, } i saw it. /']",f oh  i saw it ,sd,FEMALE,1
+"['good,  /']",good  ,b,FEMALE,2
+"[""we've both seen one <laughter>.  /""]",weve both seen one laughter  ,sd,FEMALE,1
+['did you cry through it? /'],did you cry through it ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['the whole way <laughter>. /'],the whole way laughter ,sd,FEMALE,1
+"['it was telling a friend, [ i, + i ] said, i only cried twice,  /']",it was telling a friend  i  i  said i only cried twice  ,sd,FEMALE,1
+"['{c but } each was about half an hour long,  /']",c but  each was about half an hour long  ,^q,FEMALE,19
+['{d so. } -/'],d so  ,%,FEMALE,5
+['<laughter> where did you cry. /'],laughter where did you cry ,qw^d,FEMALE,41
+"[""{f um, } let's see,  /""]",f um  lets see  ,^h,FEMALE,27
+"['[ when i, + each time that i  ] thought that the indians were going to get killed, i cried. /']", when i  each time that i   thought that the indians were going to get killed i cried ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } i cried the first time when [ the, + {f um, } the ] wagon man got killed, when they attacked him. /']",f um  i cried the first time when  the  f um  the  wagon man got killed when they attacked him ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, }  {f uh, } i think from there on, all the way through the movie. - /']",c and   f uh  i think from there on all the way through the movie  ,sd,FEMALE,1
+"[""let's see what else did it.  {f um, } what other parts.  /""]",lets see what else did it  f um  what other parts  ,^h,FEMALE,27
+"[""i can't remember any of the other parts right off now. /""]",i cant remember any of the other parts right off now ,sd,FEMALE,1
+['i cried when the horse got killed and when the wolf got killed <laughter>. /'],i cried when the horse got killed and when the wolf got killed laughter ,sd,FEMALE,1
+"['we-, - /']",we  ,%,FEMALE,5
+"[""i don't remember when the horse got killed. /""]",i dont remember when the horse got killed ,sd,FEMALE,1
+"['{f oh, } th-, - /']",f oh  th  ,%,FEMALE,5
+['when he was riding back to the settlement and they shot his horse out from under him. /'],when he was riding back to the settlement and they shot his horse out from under him ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['{c and then } [ he, + {f uh, } the next day he ] looked out there and saw those buzzards, {d you know } <barking>. /']",c and then   he  f uh  the next day he  looked out there and saw those buzzards d you know  barking ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } that horse has been such a pal to him,']",c and  that horse has been such a pal to him,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['when he was alone.  /'],when he was alone  ,+,FEMALE,0
+"[""you can tell i'm an animal lover,  /""]",you can tell im an animal lover  ,sv,FEMALE,3
+['you can hear my dog </barking>. /'],you can hear my dog barking ,sv,FEMALE,3
+"[""<laughter> unfortunately we don't have any animals,  /""]",laughter unfortunately we dont have any animals  ,sd,FEMALE,1
+"['{c so, }  {f uh. } -/']",c so   f uh  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['it was a beautiful story,  /']",it was a beautiful story  ,sv,FEMALE,3
+['it really was. /'],it really was ,sv,FEMALE,3
+"['it, - /']",it  ,%,FEMALE,5
+"['there was a lot of pretty scenery, too, in that movie. /']",there was a lot of pretty scenery too in that movie ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['what did you think about the buffalo scenes. /'],what did you think about the buffalo scenes ,qw^d,FEMALE,41
+"['{f oh, } i thought it was awful,']",f oh  i thought it was awful,sv,FEMALE,3
+"['that was, /']",that was ,aa,FEMALE,4
+"['and so graphic, /']",and so graphic ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{e i mean } i hadn't even imagined it, {d you know. }  /""]",e i mean  i hadnt even imagined it d you know   ,sd,FEMALE,1
+['i think we all heard the story of the slaughter of the buffalo. /'],i think we all heard the story of the slaughter of the buffalo ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } i had a friend who had fixed some, {f uh, } [ chili, + buffalo chili ] [ and, + ]  about a week before went to see the movie. /']",f um  i had a friend who had fixed some f uh   chili  buffalo chili   and    about a week before went to see the movie ,sd,FEMALE,1
+"['{f oh, } {f oh. } /']",f oh  f oh  ,b,FEMALE,2
+"['of course they raise them now, {d you know, } to eat. /']",of course they raise them now d you know  to eat ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['yeah,   /']",yeah   ,b,FEMALE,2
+"[""it's not, -/""]",its not ,%,FEMALE,5
+"['{c but } [ she, + we ] were both feeling so guilty about enjoying this chili after seeing that. /']",c but   she  we  were both feeling so guilty about enjoying this chili after seeing that ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""{d well } at least you know that it wasn't same situation that the buffalo died in. /""]",d well  at least you know that it wasnt same situation that the buffalo died in ,sd,FEMALE,1
+['no  /'],no  ,aa,FEMALE,4
+"[""it wasn't <laughter>. /""]",it wasnt laughter ,sd,FEMALE,1
+"['{f um, } i thought the scenes when the buffalos running, though, were beautiful,  /']",f um  i thought the scenes when the buffalos running though were beautiful  ,sv,FEMALE,3
+['{d like } that was great. /'],d like  that was great ,sv,FEMALE,3
+"['{f oh, }  yeah. /']",f oh   yeah ,aa,FEMALE,4
+['{c and } there were so many of them.  /'],c and  there were so many of them  ,sd,FEMALE,1
+"[""i didn't know that, that many buffaloes alive, much less in one place. /""]",i didnt know that that many buffaloes alive much less in one place ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['really. /'],really ,b,FEMALE,2
+['{d so } that was pretty. /'],d so  that was pretty ,sv,FEMALE,3
+"['{c and } to think about how it just changed the whole landscape, {d you know, } you could follow [ this, + this ] beaten down path, /']",c and  to think about how it just changed the whole landscape d you know  you could follow  this  this  beaten down path ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['{c and } it sounded like thunder and earthquakes and that sort of thing. /'],c and  it sounded like thunder and earthquakes and that sort of thing ,sv,FEMALE,3
+"['i wonder how they kept up with them, though,  /']",i wonder how they kept up with them though  ,sd,FEMALE,1
+['it seemed like the buffaloes were moving so fast. /'],it seemed like the buffaloes were moving so fast ,sd,FEMALE,1
+['i know. /'],i know ,aa,FEMALE,4
+"['i guess they graze, though,  /']",i guess they graze though  ,sd,FEMALE,1
+"[""that wouldn't  (( be a ))  problem. /""]",that wouldnt   be a   problem ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{f uh, } have you seen any of the behind the scenes, {f uh, } [ of, + of ] that movie. /']",f uh  have you seen any of the behind the scenes f uh   of  of  that movie ,qy^d,FEMALE,16
+"['no,  /']",no  ,nn,FEMALE,13
+['huh-uh. /'],huhuh ,nn,FEMALE,13
+"['it was, - /']",it was  ,%,FEMALE,5
+"['they tried to keep it, {d you know, } as very close to real. /']",they tried to keep it d you know  as very close to real ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{e i mean } {d like } kevin costner did all of his own scenes  /'],e i mean  d like  kevin costner did all of his own scenes  ,sd,FEMALE,1
+"['{c and, }  {f uh, } they had to teach a wolf how [ to, + to ] howl. /']",c and   f uh  they had to teach a wolf how  to  to  howl ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""that's the, part they had trouble finding was wolves <barking>. /""]",thats the part they had trouble finding was wolves barking ,sd,FEMALE,1
+"[""i guess they're just not domesticated,  /""]",i guess theyre just not domesticated  ,sv,FEMALE,3
+"['[ {c or, } +  {c or, } ] -/']", c or    c or   ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['what, - /']",what  ,%,FEMALE,5
+"[""they just don't howl that much anymore. /""]",they just dont howl that much anymore ,sv,FEMALE,3
+['i could bring them in with my dogs and set a siren off  /'],i could bring them in with my dogs and set a siren off  ,sd,FEMALE,1
+"[""{c and } that's all they'd have to do <laughter>. /""]",c and  thats all theyd have to do laughter ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{d well } that's funny. /""]",d well  thats funny ,ba,FEMALE,6
+"[""{d well, } i think we've made it. /""]",d well  i think weve made it ,sv,FEMALE,3
+"['{f oh } is that five minutes,  /']",f oh  is that five minutes  ,qy^d,FEMALE,16
+"['is that, -/']",is that ,%,FEMALE,5
+"[""i don't know,  /""]",i dont know  ,no,FEMALE,31
+['is it five or three. /'],is it five or three ,qy,FEMALE,7
+"['okay, {f oh, }  /']",okay f oh   ,bk,FEMALE,14
+"[""i'm not sure. /""]",im not sure ,no,FEMALE,31
+"[""i'm not either. /""]",im not either ,sd,FEMALE,1
+"['okay,  /']",okay  ,b,FEMALE,2
+"[""{d well } i think [ [ we're, + we're, ] + we've ] done okay, though. /""]",d well  i think   were  were   weve  done okay though ,sv,FEMALE,3
+"['okay,  /']",okay  ,b,FEMALE,2
+['me too. /'],me too ,aa,FEMALE,4
+['{d well } thank you for calling. /'],d well  thank you for calling ,fc,FEMALE,10
+['{d well } thank you. /'],d well  thank you ,fc,FEMALE,10
+"['{c and } i hope you enjoy some more good movies late-, /']",c and  i hope you enjoy some more good movies late ,fc,FEMALE,10
+"['yeah,  /']",yeah  ,fc,FEMALE,10
+['you too. /'],you too ,fc,FEMALE,10
+"['bye, bye. /']",bye bye ,fc,FEMALE,10
+"['bye, bye. /']",bye bye ,fc,FEMALE,10

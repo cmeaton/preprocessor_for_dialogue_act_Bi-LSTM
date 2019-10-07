@@ -1,0 +1,191 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hello? /'],hello ,fp,MALE,32
+['hello. /'],hello ,fp,FEMALE,32
+['how you doing? /'],how you doing ,fp,MALE,32
+['fine. /'],fine ,fp,FEMALE,32
+"[""i'm lee with, {f uh, } {f uh, } - /""]",im lee with f uh  f uh   ,sd,MALE,1
+"[""i'm over here in plano, texas. /""]",im over here in plano texas ,sd,MALE,1
+['okay.  /'],okay  ,b,FEMALE,2
+"['let me ask you something, can i run a minute and shut my radio off? /']",let me ask you something can i run a minute and shut my radio off ,qy,FEMALE,7
+"['{f oh, } sure. /']",f oh  sure ,na,MALE,21
+['okay. /'],okay ,bk,FEMALE,14
+['<sniffing> <cough> oh. /'],sniffing cough oh ,b,MALE,2
+['okay. /'],okay ,b,FEMALE,2
+['where are you calling from  /'],where are you calling from  ,qw,MALE,12
+['{c or } --'],c or  ,qw,MALE,12
+['arlington. /'],arlington ,sd,FEMALE,1
+['-- where are you at? /'], where are you at ,+,MALE,0
+"['arlington, texas. /']",arlington texas ,sd,FEMALE,1
+['arlington. /'],arlington ,b^m,MALE,24
+['yes. /'],yes ,aa,FEMALE,4
+"[""{d well, } there's a lot of [ s-, + stuff ] going on in arlington these days. /""]",d well  theres a lot of  s  stuff  going on in arlington these days ,sv,MALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+['not all good stuff. /'],not all good stuff ,sv,FEMALE,3
+['are you involved in any of that? /'],are you involved in any of that ,qy,MALE,7
+['no. /'],no ,nn,FEMALE,13
+['no. /'],no ,b^m,MALE,24
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i'm [ not, + not ] personally. /""]",im  not  not  personally ,sd,FEMALE,1
+"['<inhaling> {d well, } {f uh, } <breathing> what benefits do, - /']",inhaling d well  f uh  breathing what benefits do  ,qw,MALE,12
+"['{d now, } do you work? /']",d now  do you work ,qy,MALE,7
+"[""i'm going to school right now. /""]",im going to school right now ,sd,FEMALE,1
+"['{f oh, } you are? /']",f oh  you are ,bh,MALE,18
+['i can tell you about my last job or --'],i can tell you about my last job or ,oo_co_cc,FEMALE,36
+['okay. /'],okay ,aa,MALE,4
+"[""-- whatever you want to talk about that or my husband's or what i think. /""]", whatever you want to talk about that or my husbands or what i think ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""i've got a lot of, -/""]",ive got a lot of ,sd,FEMALE,1
+"['{c because } [ i, + i ] work for myself -- /']",c because   i  i  work for myself  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and so, } {f uh, } <sniffing> there's a lot [ that i, + that i ] guess i do miss, {f uh, } a lot of benefits from working for a big corporation.  /""]", c and so  f uh  sniffing theres a lot  that i  that i  guess i do miss f uh  a lot of benefits from working for a big corporation  ,sv,MALE,3
+"['i miss, {f uh } --']",i miss f uh  ,sd,MALE,1
+['yes. /'],yes ,b,FEMALE,2
+['-- insurance and --'], insurance and ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"['-- {f uh, } the steady paychecks that come. /']", f uh  the steady paychecks that come ,+,MALE,0
+['yes. /'],yes ,b,FEMALE,2
+"['{c but, } {f uh, } -/']",c but  f uh  ,%,MALE,5
+"['yes,  /']",yes  ,b,FEMALE,2
+"[""i've been in my own business, mary kay, in fact,  /""]",ive been in my own business mary kay in fact  ,sd,FEMALE,1
+"[""i'm selling in out now to go to school full time  /""]",im selling in out now to go to school full time  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+"['{f oh, } is that right? /']",f oh  is that right ,bh,MALE,18
+"['-- i enjoyed the freedom of having that, {d you know, }  /']", i enjoyed the freedom of having that d you know   ,+,FEMALE,0
+['go to work when i wanted to or not -- /'],go to work when i wanted to or not  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c but, } {d you know, } the benefits weren't there. /""]", c but  d you know  the benefits werent there ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"['# {d so, } # -/']", d so   ,%,FEMALE,5
+"['[ i, + {f uh, } i ] own part of a roofing company. /']", i  f uh  i  own part of a roofing company ,sd,MALE,1
+"['{f oh, } do you? /']",f oh  do you ,bh,FEMALE,18
+"['[ in the, + in the ] dallas, fort worth area. /']", in the  in the  dallas fort worth area ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } {d you know, } unfortunately [ we, + we ] were part [ of a, + of a ] [ bigger, + bigger ] company -- /']",c and  f uh  d you know  unfortunately  we  we  were part  of a  of a   bigger  bigger  company  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } [ [ they, + {f uh, } {d you know, } we, ] + we ] had all the benefits there  /']", c and    they  f uh  d you know  we   we  had all the benefits there  ,sd,MALE,1
+"['[ {c and, } + {c and } ] i do miss that.']", c and   c and   i do miss that,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, }  /']",d you know   ,+,MALE,0
+"['{c but, } {f uh, } on the other hand, [ [ i, + i, ] + {f uh, } i ] enjoy having [ the, + the ] time --']",c but  f uh  on the other hand   i  i   f uh  i  enjoy having  the  the  time ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['-- that i have with my family and --'], that i have with my family and ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- being able to, {d you know, } work when i want  /']", being able to d you know  work when i want  ,+,MALE,0
+"['{c and, } -/']",c and  ,%,MALE,5
+"['i think today the thing that i, {f uh, } would appreciate the most, - /']",i think today the thing that i f uh  would appreciate the most  ,sd,FEMALE,1
+"['{f uh, } {c because } my husband gets,']",f uh  c because  my husband gets,sd,FEMALE,1
+['<sniffing>.'],sniffing,x,MALE,8
+"['his medical through his company,  /']",his medical through his company  ,+,FEMALE,0
+['{c but } we have --'],c but  we have ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- to pay for mine  /'], to pay for mine  ,+,FEMALE,0
+"[""{c and } [ we're the only one, + i'm the only one ] that's being insured  /""]",c and   were the only one  im the only one  thats being insured  ,sd,FEMALE,1
+['[ {c and } -- +'], c and   ,sd,FEMALE,1
+"['{f oh, } is that right? /']",f oh  is that right ,bh,MALE,18
+"['-- {c and } ] we pay the same amount that someone over there that has four children has, {e i mean, } <laughter>  /']", c and   we pay the same amount that someone over there that has four children has e i mean  laughter  ,+,FEMALE,0
+"[""{c so } it's kind of, -/""]",c so  its kind of ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['{c and } i would, - /']",c and  i would  ,%,FEMALE,5
+"['i really, - /']",i really  ,%,FEMALE,5
+['{c and } the way medical expenses are --'],c and  the way medical expenses are ,sv,FEMALE,3
+"[""it's, -/""]",its ,%,MALE,5
+"[""-- i think that's probably one of the biggest --""]", i think thats probably one of the biggest ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+['-- benefits --'], benefits ,+,FEMALE,0
+"['[ it, + it, ] -/']", it  it  ,%,MALE,5
+"['-- [ to ha-, + # you need to have. # ] /']",  to ha   you need to have   ,+,FEMALE,0
+"['# yeah,  /']", yeah  ,aa,MALE,4
+"[""i'll tell you what,  /""]",ill tell you what  ,"fo_o_fw_""_by_bc",MALE,0
+['# that is the single most --'], that is the single most ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- {f uh, } benefit [ that i, + that i ] enjoyed, and i do miss  /']", f uh  benefit  that i  that i  enjoyed and i do miss  ,+,MALE,0
+"['{c because } i looked into picking up some, {f uh, } medical insurance [ for my, + just for my ] family, {d you know, }  [ just, + ] - /']",c because  i looked into picking up some f uh  medical insurance  for my  just for my  family d you know    just    ,sd,MALE,1
+['and it is  unbelievable --'],and it is  unbelievable ,sv,MALE,3
+"[""it's out of sight. /""]",its out of sight ,aa,FEMALE,4
+['-- how much you have to pay for it. /'], how much you have to pay for it ,+,MALE,0
+"['right,  /']",right  ,aa,FEMALE,4
+"[""it's out of sight. /""]",its out of sight ,aa,FEMALE,4
+"['{c and, } {f uh, } yeah, /']",c and  f uh  yeah ,b,MALE,2
+"[""even at a group rate, i couldn't believe how much --""]",even at a group rate i couldnt believe how much ,sd,FEMALE,1
+"['{f oh, } yeah -- /']",f oh  yeah  ,aa,MALE,4
+"['-- is our, -/']", is our ,+,FEMALE,0
+['-- even at a group rate.  /'], even at a group rate  ,aa,MALE,4
+"[""{f uh, } [ it's, + it's ] unbelievable  /""]",f uh   its  its  unbelievable  ,sv,MALE,3
+"['{c and, } {f uh, } the amount that you have to pay [ for, + {d you know, } for ] kids  /']",c and  f uh  the amount that you have to pay  for  d you know  for  kids  ,sd,MALE,1
+"[""[ {c and, } + {c and } ] if you want to add dental to it, {e i mean, } [ that's -- +""]", c and   c and   if you want to add dental to it e i mean   thats  ,sd,MALE,1
+"['right,  /']",right  ,b,FEMALE,2
+['# it goes up. # /'], it goes up  ,^2,FEMALE,23
+['-- # that ] eats # even more. /'],  that  eats  even more ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"['{d so, } yeah,  /']",d so  yeah  ,b,MALE,2
+"['i guess [ what, + ] the other benefits [ [ that, + {f uh, } that i, ] + {f uh, } that i ] miss, i guess is, {f uh, } {d you know, } some of the bonuses and stuff [ that + --']",i guess  what   the other benefits   that  f uh  that i   f uh  that i  miss i guess is f uh  d you know  some of the bonuses and stuff  that  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- that ] goes on with just being involved with a big company, {d you know }  /']", that  goes on with just being involved with a big company d you know   ,+,MALE,0
+"[""{c and } <inhaling> course, these days, you can't count on that because <breathing> <laughter> -- -/""]",c and  inhaling course these days you cant count on that because breathing laughter  ,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+"['-- {f uh, } {d you know, } i feel bad for the people that are involved in that, {f uh, } g m deal there in --']", f uh  d you know  i feel bad for the people that are involved in that f uh  g m deal there in ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['-- in arlington  /'], in arlington  ,+,MALE,0
+"[""{c and } i'm sure it will be, {d you know, } quite a few people are affected by that  /""]",c and  im sure it will be d you know  quite a few people are affected by that  ,sv,MALE,3
+"['{d so, } -/']",d so  ,%,MALE,5
+"['right,  /']",right  ,aa,FEMALE,4
+"[""it's going to hurt the city,  /""]",its going to hurt the city  ,sv,FEMALE,3
+"['{c although, } {f uh, } i will personally tell you, i used to work at a bank,  /']",c although  f uh  i will personally tell you i used to work at a bank  ,sd,FEMALE,1
+"['{c and } i would see the g m people come in when [ they were, + they would ] shut down to retool. /']",c and  i would see the g m people come in when  they were  they would  shut down to retool ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['they were paid that whole time  /'],they were paid that whole time  ,sd,FEMALE,1
+"[""{c and } i don't know, if you're aware of this r-, -/""]",c and  i dont know if youre aware of this r ,qy^d,FEMALE,16
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+"['yes,  /']",yes  ,ny,FEMALE,9
+"['they come in there,  /']",they come in there  ,sd,FEMALE,1
+"['{d just, } they go off fishing and stuff and come in [ and, + ] every friday, and go to the safety deposit box,  /']",d just  they go off fishing and stuff and come in  and   every friday and go to the safety deposit box  ,sd,FEMALE,1
+"[""{c and } i'm sitting there making a hundred dollars a week, {d you know }  /""]",c and  im sitting there making a hundred dollars a week d you know   ,sd,FEMALE,1
+"['[ {c and, } +']", c and  ,%,FEMALE,5
+['is that right? /'],is that right ,bh,MALE,18
+"['{c and } ] they had all these gr-, - /']",c and   they had all these gr  ,+,FEMALE,0
+"['[ i, + i ] really believe they have done this to themselves, in a way, because of the unions being # so stocked. # /']", i  i  really believe they have done this to themselves in a way because of the unions being  so stocked  ,sv,FEMALE,3
+"['# the union,  /']", the union  ,b^m,MALE,24
+['# yeah. /'], yeah ,aa,MALE,4
+"[""{c and } right now, anybody's that's laid off from g m will have a full year's paycheck.  /""]",c and  right now anybodys thats laid off from g m will have a full years paycheck  ,sd,FEMALE,1
+['i just read this in the paper the other day. /'],i just read this in the paper the other day ,sd,FEMALE,1
+['is that right? /'],is that right ,bh,MALE,18
+"[""plus probably an additional six months through [ the, + the ] worker's stuff that they have [ [ at, + at, ] + {f uh, } through ] the company  /""]",plus probably an additional six months through  the  the  workers stuff that they have   at  at   f uh  through  the company  ,sv,FEMALE,3
+"[""{c so } [ i'm sor-, + {d you know, } i'm sorry ] it's happening --""]",c so   im sor  d you know  im sorry  its happening ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- because it's going to hurt,  /""]", because its going to hurt  ,+,FEMALE,0
+"[""{c but } i don't feel as sorry for them, /""]",c but  i dont feel as sorry for them ,sd,FEMALE,1
+['{d well } -- -/'],d well   ,%,MALE,5
+['# if my husband # --'], if my husband  ,sd,FEMALE,1
+"['-- # really the, # -/']",  really the  ,%,MALE,5
+"[""-- were laid off tomorrow, we'd get one more check  /""]", were laid off tomorrow wed get one more check  ,+,FEMALE,0
+['{c and } that would be it. /'],c and  that would be it ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""really the ones it's going to hurt [ is, + is ] actually [ the, + the ] businesses around --""]",really the ones its going to hurt  is  is  actually  the  the  businesses around ,sv,MALE,3
+['yes. /'],yes ,aa,FEMALE,4
+['-- in that area. /'], in that area ,+,MALE,0
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,FEMALE,4
+"[""that's already --""]",thats already ,sd,FEMALE,1
+"[""{d you know, } that's the ones [ [ that -- +""]",d you know  thats the ones   that  ,sv,MALE,3
+['-- hurting. /'], hurting ,+,FEMALE,0
+"[""-- that ] + that's ] going to hurt because they depend on that, {f uh, } /""]", that   thats  going to hurt because they depend on that f uh  ,+,MALE,0
+"[""{c but } i think there's a case,""]",c but  i think theres a case,sv,FEMALE,3
+['<sniffing>.'],sniffing,x,MALE,8
+"['where benefits have gotten, - /']",where benefits have gotten  ,+,FEMALE,0
+['they voted them in  /'],they voted them in  ,sd,FEMALE,1
+"['{c and } they got so good, {e i mean, } like two dollars for a prescription --']",c and  they got so good e i mean  like two dollars for a prescription ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['-- no deductible on the medical, all these things, {d you know } -- /']", no deductible on the medical all these things d you know   ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+['-- {c and } it made the prices of cars go up  /'], c and  it made the prices of cars go up  ,sv,FEMALE,3
+['[ {c and } -- +'], c and   ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and, } ] {d you know, } the, - /']", c and   d you know  the  ,+,FEMALE,0
+"['[ [ i, + we, ] + i ] believe in unions,  /']",  i  we   i  believe in unions  ,sd,FEMALE,1
+['{c but } they went too far. /'],c but  they went too far ,sv,FEMALE,3
+"[""{d well, } i'll tell you, [ i -- +""]",d well  ill tell you  i  ,sd,MALE,1
+"[""{e i mean, } i can't make eighteen dollars an hour. /""]",e i mean  i cant make eighteen dollars an hour ,sd,FEMALE,1
+"[""-- i've ] had my fill of unions <laughter>.  /""]", ive  had my fill of unions laughter  ,+,MALE,0
+"['i, -/']",i ,%,MALE,5
+"['[ i + {e mean, } i ] know someone out here that makes eighteen dollars an hour. /']", i  e mean  i  know someone out here that makes eighteen dollars an hour ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2

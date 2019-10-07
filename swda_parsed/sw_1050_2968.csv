@@ -1,0 +1,348 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['what do you read?   /'],what do you read   ,qw,FEMALE,12
+['<child_talking>.'],childtalking,x,FEMALE,8
+"['{f uh, } {d well, } i read everything, {f uh, } i guess, {f uh, }  /']",f uh  d well  i read everything f uh  i guess f uh   ,sd,MALE,1
+"['wh-, -/']",wh ,%,MALE,5
+['what is your favorite? /'],what is your favorite ,qw,FEMALE,12
+"['{f uh, } {d well, } i like all kinds, {f uh, }  /']",f uh  d well  i like all kinds f uh   ,sd,MALE,1
+"['in fact i was just reading, {f uh, } a magazine now.  an automobile magazine.  /']",in fact i was just reading f uh  a magazine now  an automobile magazine  ,sd,MALE,1
+"['{f uh, } i like historical, {f uh, } books, time magazine, newspaper, [ how, + how ] to do it type things, {f uh, } {f uh. } /']",f uh  i like historical f uh  books time magazine newspaper  how  how  to do it type things f uh  f uh  ,sd,MALE,1
+"['<tv> {f oh, } i am not much into magazines.  /']",tv f oh  i am not much into magazines  ,sd,FEMALE,1
+['i do read them.  /'],i do read them  ,sd,FEMALE,1
+['i like good housekeeping and stuff like that.  /'],i like good housekeeping and stuff like that  ,sd,FEMALE,1
+['i will get --'],i will get ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- ideas out for my own house and yard and stuff <child_talking>.  /'], ideas out for my own house and yard and stuff childtalking  ,+,FEMALE,0
+"['main thing, i like pierce anthony.  /']",main thing i like pierce anthony  ,sd,FEMALE,1
+['i love pierce anthony novels. /'],i love pierce anthony novels ,sd,FEMALE,1
+"['{f oh, } the novels, yeah.  /']",f oh  the novels yeah  ,sd,MALE,1
+"['no,  /']",no  ,arp_nd,MALE,34
+"['i am not into [ soap, + soaps ] and all that stuff.  /']",i am not into  soap  soaps  and all that stuff  ,sd,MALE,1
+"['i am, {f uh, } not into novels at all really,  [ oth-, +  other ] than historical things.  /']",i am f uh  not into novels at all really   oth   other  than historical things  ,sd,MALE,1
+"['{f uh, } {f uh, } i am kind of [ a, + a ] chore person.  /']",f uh  f uh  i am kind of  a  a  chore person  ,sd,MALE,1
+"['i like to do, - /']",i like to do  ,sd,MALE,1
+"['[ i am again, + i am ] a fix it person.  /']", i am again  i am  a fix it person  ,sd,MALE,1
+"['[  i, + i ] would read all those kinds of things. /']",  i  i  would read all those kinds of things ,sd,MALE,1
+"['(( figures )) .  what, like those, {f uh, } magazines you get through the mail? /']", figures    what like those f uh  magazines you get through the mail ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,MALE,9
+"['i will buy car magazines,  /']",i will buy car magazines  ,sd,MALE,1
+['course i am an engineer  /'],course i am an engineer  ,sd,MALE,1
+"['{c and } i read the engineering magazines,']",c and  i read the engineering magazines,sd,MALE,1
+"['i, -/']",i ,%,FEMALE,5
+['and the money magazines.  /'],and the money magazines  ,+,MALE,0
+"[""{c and, } {f uh, } {d well, } i am reading [ historical, {f uh, } not a novel, but + historical book ] now about [ the, + ] {f uh, } russia [ [ before, {f uh, } the czar, + not before the czar, ] + ] during the czar's time and what it was like and everything. /""]",c and  f uh  d well  i am reading  historical f uh  not a novel but  historical book  now about  the   f uh  russia   before f uh  the czar  not before the czar    during the czars time and what it was like and everything ,sd,MALE,1
+['<child_talking> uh-huh.  /'],childtalking uhhuh  ,b,FEMALE,2
+"['what about like those time books that they put out about, {f uh, } {f uh, } {f oh, } ancient discoveries?  /']",what about like those time books that they put out about f uh  f uh  f oh  ancient discoveries  ,qo,FEMALE,25
+"['{d you know, } th-, - /']",d you know  th  ,%,FEMALE,5
+"['how they found out {d like } that, {f uh, } ancient man, [ per-, + performed, ] {f uh, } brain surgery successfully?  /']",how they found out d like  that f uh  ancient man  per  performed  f uh  brain surgery successfully  ,qy,FEMALE,7
+['{c and } stuff like --'],c and  stuff like ,sd,FEMALE,1
+"['{f oh, } you --']",f oh  you ,qy,MALE,7
+['-- that. /'], that ,+,FEMALE,0
+['-- mean the ancient astronauts things?  /'], mean the ancient astronauts things  ,+,MALE,0
+['<noise>.'],noise,x,MALE,8
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['i have read some of that.  /'],i have read some of that  ,sd,MALE,1
+"['[  i, + i ] did not, - /']",  i  i  did not  ,%,MALE,5
+"['some of that [ is, + {f uh, }']",some of that  is  f uh ,h,MALE,15
+['<noise>.'],noise,x,FEMALE,8
+"['[ it + ] is ] very interesting, without question. /']", it   is  very interesting without question ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ i, + i ] do not really know that they have the answers in those books.  /']", i  i  do not really know that they have the answers in those books  ,h,MALE,15
+"['[  th-, + they, ] make conclusions in them that may or --']",  th  they  make conclusions in them that may or ,sv,MALE,3
+['yes. /'],yes ,b,FEMALE,2
+['-- may not be true. /'], may not be true ,+,MALE,0
+['oh. /'],oh ,b,FEMALE,2
+['{c but } they are very interesting.'],c but  they are very interesting,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ th-, +  that, ]  they have,']", th   that   they have,+,MALE,0
+['<noise>.'],noise,x,FEMALE,8
+['what they have discovered. /'],what they have discovered ,+,MALE,0
+"['<noise> {f oh, } i like far out facts or whatever. /']",noise f oh  i like far out facts or whatever ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['i like to read stuff like that.  /'],i like to read stuff like that  ,sd,FEMALE,1
+['{c but } i am a superficial buff.  /'],c but  i am a superficial buff  ,sd,FEMALE,1
+"['i cannot <laughter>  (( take a day ))  <laughter> i just, -/']",i cannot laughter   take a day   laughter i just ,%,FEMALE,5
+['you are what kind of buff? /'],you are what kind of buff ,qw^d,MALE,41
+"['superficial, /']",superficial ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"['[ i like, + i like ] it if it is fun.  /']", i like  i like  it if it is fun  ,sd,FEMALE,1
+['i do not get too into it. /'],i do not get too into it ,sd,FEMALE,1
+"['{f oh, } yeah.  /']",f oh  yeah  ,b,MALE,2
+['right. /'],right ,b,MALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d well, } i am kind of a hobbyist  /']",d well  i am kind of a hobbyist  ,sd,MALE,1
+"['{c so } [ i, + i ] read all those things that, {f uh, } - /']",c so   i  i  read all those things that f uh   ,sd,MALE,1
+"['{c and } being an engineer, all those books that would bore everybody else, {d you know, } how to do things. /']",c and  being an engineer all those books that would bore everybody else d you know  how to do things ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } -/']",d well  ,%,FEMALE,5
+['i am one of those crazy people that reads the directions.  /'],i am one of those crazy people that reads the directions  ,sd,MALE,1
+['it always make my wife mad.  /'],it always make my wife mad  ,sd,MALE,1
+"['i, -/']",i ,%,MALE,5
+['<laughter> because you read it <laughter>. /'],laughter because you read it laughter ,^2,FEMALE,23
+"['when she ever there is something, i say, {d well, } have you read the directions?  /']",when she ever there is something i say d well  have you read the directions  ,sd,MALE,1
+"['<<mimicks another voice>> ""no,  /']",mimicks another voice no  ,^q,MALE,19
+"['i hate reading the directions."" /']",i hate reading the directions ,^q,MALE,19
+['<laughter>.'],laughter,x,FEMALE,8
+"['i say, {d well, } engineers, [ we, + we ] are the few people in the world --']",i say d well  engineers  we  we  are the few people in the world ,sd,MALE,1
+['you are an --'],you are an ,qy,FEMALE,7
+['-- that read --'], that read ,+,MALE,0
+['-- engineer?  /'], engineer  ,+,FEMALE,0
+['<child_talking>.'],childtalking,x,FEMALE,8
+['<laughter>.'],laughter,x,MALE,8
+['are you an engineer for t i? /'],are you an engineer for t i ,qy,FEMALE,7
+['yeah. /'],yeah ,b,MALE,2
+"['</child_talking> okay, {f uh, }  /']",childtalking okay f uh   ,bk,FEMALE,14
+['i worked at t i for a little while. /'],i worked at t i for a little while ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } we have got a book that says, {f uh, } how do they do that? /']",f uh  we have got a book that says f uh  how do they do that ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['{c and } it answers everything. /'],c and  it answers everything ,sv,FEMALE,3
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+['yeah  /'],yeah  ,ny,FEMALE,9
+"['<child_talking>.  {c and } i, - /']",childtalking  c and  i  ,%,FEMALE,5
+"['{d well, } not everything  /']",d well  not everything  ,sv,FEMALE,3
+['{c but } a lot of silly little questions. /'],c but  a lot of silly little questions ,sd,FEMALE,1
+"['{f oh, } yeah.  /']",f oh  yeah  ,b,MALE,2
+"['that, -/']",that ,%,MALE,5
+"['like what makes a firefly light,']",like what makes a firefly light,sd,FEMALE,1
+"['{f oh, } /']",f oh  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"['those are, {f oh, } interesting.  /']",those are f oh  interesting  ,sv,MALE,3
+"['{f oh, } you like science things?  /']",f oh  you like science things  ,qy,MALE,7
+"['{f uh, } i have not gotten them in a long time.  /']",f uh  i have not gotten them in a long time  ,sd,MALE,1
+"['what is that, {f uh, } one that is on t v?  /']",what is that f uh  one that is on t v  ,qw,MALE,12
+"['that book, {f uh, } national geographic is really a fascinating book, {f uh, }']",that book f uh  national geographic is really a fascinating book f uh ,sv,MALE,3
+['{d now. } -/'],d now  ,%,FEMALE,5
+"['{f uh, } if you ever get those  /']",f uh  if you ever get those  ,+,MALE,0
+"['{c or } e-, /']",c or  e ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{d well, } that, do not, -/']",d well  that do not ,%,FEMALE,5
+"['{c but } i have not gotten them in years, {f uh, }  /']",c but  i have not gotten them in years f uh   ,sd,MALE,1
+"['[ th-, + they ] were kind of expensive.  /']", th  they  were kind of expensive  ,sd,MALE,1
+"['i know people just collect them like they are, /']",i know people just collect them like they are ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f uh, } /']",f uh  ,%,MALE,5
+['<noise> <child_talking>.'],noise childtalking,x,FEMALE,8
+"['they have wonderful [ pi-, + photographs ] and just amazing photographs that --']",they have wonderful  pi  photographs  and just amazing photographs that ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- they have done. /'], they have done ,+,MALE,0
+"['we used, - /']",we used  ,%,FEMALE,5
+"['my little sister was blind and going to school,  /']",my little sister was blind and going to school  ,sd,FEMALE,1
+"['{c and } she would have to come home at night, cut out different, - /']",c and  she would have to come home at night cut out different  ,sd,FEMALE,1
+"['she was not <child_talking> fully blind, just legally blind. /']",she was not childtalking fully blind just legally blind ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c but } she would have to cut out different colors,  /']",c but  she would have to cut out different colors  ,sd,FEMALE,1
+"['{c and } that is the best book to go through, those national --']",c and  that is the best book to go through those national ,sd,FEMALE,1
+['it is. /'],it is ,ba,MALE,6
+['-- geographic. /'], geographic ,+,FEMALE,0
+['it is.  /'],it is  ,ba,MALE,6
+"['[ [ they, + they, ] + they, ] {f uh, } - /']",  they  they   they  f uh   ,%,MALE,5
+['the photographers just got --'],the photographers just got ,sv,MALE,3
+['{c and } they are great. /'],c and  they are great ,ba,FEMALE,6
+"['-- fantastic pictures in those things.  {f uh, } /']", fantastic pictures in those things  f uh  ,+,MALE,0
+['i love reading about animals. /'],i love reading about animals ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['the gorillas and stuff. /'],the gorillas and stuff ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c and } the sloth, it fascinates me.  /']",c and  the sloth it fascinates me  ,sd,FEMALE,1
+"[""that's something moves that slow <laughter>. /""]",thats something moves that slow laughter ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['{c and } it is just weird. /'],c and  it is just weird ,sv,FEMALE,3
+"['{d you know, } i have not, {f uh, } -/']",d you know  i have not f uh  ,%,MALE,5
+['<child_talking>.'],childtalking,x,FEMALE,8
+"['of course, was it all books and things  /']",of course was it all books and things  ,sd,MALE,1
+"['{c or } was it any, - /']",c or  was it any  ,%,MALE,5
+['did it say anything about newspapers?  /'],did it say anything about newspapers  ,qy,MALE,7
+['i have forgotten what the question was exactly.  /'],i have forgotten what the question was exactly  ,sd,MALE,1
+"['{c but, } {f uh, }']",c but  f uh ,qw,MALE,12
+"['{f oh, } {d well, } -/']",f oh  d well  ,%,FEMALE,5
+"['what do you read, i guess, in general?  /']",what do you read i guess in general  ,+,MALE,0
+"['{c or, } -/']",c or  ,%,MALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } we can talk about anything we want. /']",d well  we can talk about anything we want ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['{f uh, } [ i, + i ] glance at all newspapers.  /']",f uh   i  i  glance at all newspapers  ,sd,MALE,1
+"['i do like, {f uh, } - /']",i do like f uh   ,sd,MALE,1
+"['since the re-, since the economy is doing so bad, i never have read the, {f uh, } {f uh, } financial pages more often than now, {d you know. }   and trying to analyze and look for some good news in, in there, {d you know. }  {f uh, }']",since the re since the economy is doing so bad i never have read the f uh  f uh  financial pages more often than now d you know    and trying to analyze and look for some good news in in there d you know   f uh ,sd,MALE,1
+"['{d well, } for me --']",d well  for me ,sv,FEMALE,3
+"['to see if the, -/']",to see if the ,+,MALE,0
+"['-- there is no imme-, - /']", there is no imme  ,+,FEMALE,0
+"['{d well, } wh-, {d you know, } - /']",d well  wh d you know   ,%,FEMALE,5
+"['{c but } like i said, i do not keep up on all that. /']",c but  like i said i do not keep up on all that ,sd,FEMALE,1
+"['{d well, } i have only been more interested because of things are doing so bad and everything.  /']",d well  i have only been more interested because of things are doing so bad and everything  ,sd,MALE,1
+['i thought --'],i thought ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['the, -/']",the ,%,FEMALE,5
+"['-- {d well, } {f uh, } see if there is anything in there that, {f uh, } {f uh, } would be [ s-, + ] positive, {d you know. }  /']", d well  f uh  see if there is anything in there that f uh  f uh  would be  s   positive d you know   ,+,MALE,0
+"['you always look for things [ with, +']",you always look for things  with ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['with ] this terrible recession that we are in, {f uh, }']",with  this terrible recession that we are in f uh ,+,MALE,0
+['with everything --'],with everything ,qy^d,FEMALE,16
+"['to see if there is any go-, -/']",to see if there is any go ,+,MALE,0
+['-- going down? /'], going down ,+,FEMALE,0
+"['{f oh, } yeah,  /']",f oh  yeah  ,ny,MALE,9
+['yeah.  /'],yeah  ,ny,MALE,9
+"['it is, {f uh, } - /']",it is f uh   ,%,MALE,5
+"['hopefully, {f uh, } we will recover here, {f uh, } /']",hopefully f uh  we will recover here f uh  ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['i know i heard bush say that, {d you know, } we are {c either } bottoming out {c or } seem to be. /']",i know i heard bush say that d you know  we are c either  bottoming out c or  seem to be ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['{c but } that is bush saying that <buzz>. /'],c but  that is bush saying that buzz ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+['right  /'],right  ,b,MALE,2
+"['{c and } [ he, + he, ] - /']",c and   he  he   ,%,MALE,5
+"['yeah,  /']",yeah  ,%,MALE,5
+"['i know, - /']",i know  ,%,MALE,5
+"['i do not really know if, {f uh, } any one person knows, {f uh, }']",i do not really know if f uh  any one person knows f uh ,sv,MALE,3
+['<tv>.'],tv,x,FEMALE,8
+"['{f uh, } what some of the problems are.  /']",f uh  what some of the problems are  ,+,MALE,0
+"['{f uh, } {c but } [ [ there, + there ] are some, + there are some ] interesting things in the paper, {d really. } /']",f uh  c but    there  there  are some  there are some  interesting things in the paper d really  ,sv,MALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } i like ann landers <laughter>. /']",d well  i like ann landers laughter ,sd,FEMALE,1
+['yeah  /'],yeah  ,b,MALE,2
+['<laughter>.'],laughter,x,MALE,8
+['no.  /'],no  ,%,FEMALE,5
+['i like getting the paper and <noise> reading the want ads  /'],i like getting the paper and noise reading the want ads  ,sd,FEMALE,1
+"['{c and } just, - /']",c and  just  ,%,FEMALE,5
+['i do skim over it. /'],i do skim over it ,sd,FEMALE,1
+"['it, -/']",it ,%,MALE,5
+['{c but } mainly i am a front page person.  /'],c but  mainly i am a front page person  ,sd,FEMALE,1
+['i do not go into the details. /'],i do not go into the details ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"['no,  /']",no  ,aa,MALE,4
+['i glance at it.  /'],i glance at it  ,sd,MALE,1
+"['[  i, + i ] - /']",  i  i   ,%,MALE,5
+"['[ wi-, + with ] the, so much, {f uh, - /']", wi  with  the so much f uh  ,%,MALE,5
+['} you sound like  you have a family too.  /'], you sound like  you have a family too  ,sv,MALE,3
+"['{c but } with a family and everything, there is just so  much going on that [ i, + {f uh, } {d actually } i ] am more of a r-, - /']",c but  with a family and everything there is just so  much going on that  i  f uh  d actually  i  am more of a r  ,sv,MALE,3
+['not more of a radio buff  /'],not more of a radio buff  ,sd,MALE,1
+"['{c but, } {f uh, } it is easier to do when i do some chores,']",c but  f uh  it is easier to do when i do some chores,sd,MALE,1
+['<child_talking>.'],childtalking,x,FEMALE,8
+"['or yard work or anything, put the radio on and listen to that.  /']",or yard work or anything put the radio on and listen to that  ,+,MALE,0
+"['{c and, } -/']",c and  ,%,MALE,5
+"[""{d well, } i know at t i they have most of the stuff on the printout, don't they?  {e i mean, } on the computer where you can read the daily --""]",d well  i know at t i they have most of the stuff on the printout dont they  e i mean  on the computer where you can read the daily ,qy,FEMALE,7
+"['{f oh, }']",f oh ,b,MALE,2
+['-- news? /'], news ,+,FEMALE,0
+['yeah.  /'],yeah  ,+,MALE,0
+"['i do, - /']",i do  ,sd,MALE,1
+"['every time i come in, {f uh, } i will punch up,  /']",every time i come in f uh  i will punch up  ,sd,MALE,1
+['{c but } they call it t news and all that. /'],c but  they call it t news and all that ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } [ i, + i ] do get, {f uh, } - /']",c and   i  i  do get f uh   ,sd,MALE,1
+['it gets a little bit of everything.  /'],it gets a little bit of everything  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } [ about, + ]']",d you know   about  ,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['when i wor-, -/']",when i wor ,%,FEMALE,5
+"['you can read it in one minute, {d you know. } /']",you can read it in one minute d you know  ,+,MALE,0
+['{f huh. }  /'],f huh   ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['i know you do, being an engineer. /']",i know you do being an engineer ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['there are some times when you have got ten or fifteen or even an hour off <laughter>. /'],there are some times when you have got ten or fifteen or even an hour off laughter ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['not much,  /']",not much  ,"fo_o_fw_""_by_bc",FEMALE,0
+['not in the area i worked in <child_talking>.  /'],not in the area i worked in childtalking  ,sd,FEMALE,1
+['we had an engineer in there every ten minutes. /'],we had an engineer in there every ten minutes ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['{d so, } -/']",d so  ,%,FEMALE,5
+"['{f oh, } yeah.  /']",f oh  yeah  ,b,MALE,2
+"['[ [ it is, + it is, ] + it is, ] {f uh, } interesting, {f uh, } with the computer to read the computer news and,']",  it is  it is   it is  f uh  interesting f uh  with the computer to read the computer news and,sv,MALE,3
+['<child_talking>.'],childtalking,x,FEMALE,8
+['all that.  /'],all that  ,+,MALE,0
+"['[  i, + i ] guess [ that is a, + [ tha-, + ] that is a ] source of reading.  /']",  i  i  guess  that is a   tha   that is a  source of reading  ,sv,MALE,3
+"[""i hadn't thought about that in that respect, {f uh, } /""]",i hadnt thought about that in that respect f uh  ,sv,MALE,3
+['<child_talking> yeah.  /'],childtalking yeah  ,b,FEMALE,2
+"['{d well, } it just encouraged me to read it. /']",d well  it just encouraged me to read it ,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"['[ it, + it ] does have a good, {f uh, } simple, {f uh, } {d you know, } - /']", it  it  does have a good f uh  simple f uh  d you know   ,sv,MALE,3
+"['again you can read it [ in, + {f uh, } in ] a lot less than ten minutes.  /']",again you can read it  in  f uh  in  a lot less than ten minutes  ,sv,MALE,3
+"['it is usually, -/']",it is usually ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ you can, + you can ] page through it in, -/']", you can  you can  page through it in ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['i do not read everything on, - /']",i do not read everything on  ,sd,MALE,1
+['some of the stuff is pretty boring.  /'],some of the stuff is pretty boring  ,sv,MALE,3
+"['[ i, + i ] skip over some of that.  /']", i  i  skip over some of that  ,sd,MALE,1
+"['{c but, } {f uh, }']",c but  f uh ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } it is, -/']",f uh  it is ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['i do not, -/']",i do not ,%,FEMALE,5
+"['{d well, } -/']",d well  ,%,MALE,5
+"['{f uh, } i read it so less  /']",f uh  i read it so less  ,sd,FEMALE,1
+"['{c and } i watch so little t v, i did not even know what the deal was with this, {f uh, } {f oh, } - /']",c and  i watch so little t v i did not even know what the deal was with this f uh  f oh   ,sd,FEMALE,1
+['i cannot remember his name now.  /'],i cannot remember his name now  ,^h,FEMALE,27
+"['him and his wife are getting divorced,  /']",him and his wife are getting divorced  ,sd,FEMALE,1
+['{c and } he is tycoon or something. /'],c and  he is tycoon or something ,sd,FEMALE,1
+"['{f oh, } yeah.  {f uh, } /']",f oh  yeah  f uh  ,b,MALE,2
+['what is his name? /'],what is his name ,qw,FEMALE,12
+"['{f uh, } trump.  /']",f uh  trump  ,sd,MALE,1
+['donald trump.  /'],donald trump  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['trump.  /'],trump  ,sd,FEMALE,1
+"['[  i did not even know, + i still do not know ] what the whole deal was with that. /']",  i did not even know  i still do not know  what the whole deal was with that ,sd,FEMALE,1
+"['{d well, } i guess because he was so rich, {d you know. } - /']",d well  i guess because he was so rich d you know   ,sv,MALE,3
+"['when you are that rich, {f uh, } you always get into the paper, whatever, if you have a family problem, whatever. /']",when you are that rich f uh  you always get into the paper whatever if you have a family problem whatever ,sv,MALE,3
+['oh <<faintly>>. /'],oh faintly ,b,FEMALE,2
+"['{d well, } he had a young girlfriend.  /']",d well  he had a young girlfriend  ,sd,MALE,1
+"['[  he was, + he ] is well into his forties,  /']",  he was  he  is well into his forties  ,sd,MALE,1
+"['{c and } i guess he got a young girlfriend who, {f uh, } - /']",c and  i guess he got a young girlfriend who f uh   ,sd,MALE,1
+"['[ {c and, } + {c and then } ] [ every, + every ] time you take, - /']", c and   c and then    every  every  time you take  ,%,MALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+['immediately. /'],immediately ,ba,FEMALE,6
+['<child_talking> {c so } that is all it was?  /'],childtalking c so  that is all it was  ,qy,FEMALE,7
+['he was just having an affair on his wife? /'],he was just having an affair on his wife ,qy,FEMALE,7
+"['{d well, } that  /']",d well  that  ,na,MALE,21
+"['{c and, } {f uh, } his business is going down the tubes so bad, {d you know. } /']",c and  f uh  his business is going down the tubes so bad d you know  ,sd,MALE,1
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"['he was, {f uh, } {f uh, } essentially like you said, a tycoon.  /']",he was f uh  f uh  essentially like you said a tycoon  ,sd,MALE,1
+"['{f uh, } donald trump [ and + ]  had it all.  /']",f uh  donald trump  and    had it all  ,sv,MALE,3
+"['he was high roller for about ten years,  /']",he was high roller for about ten years  ,sd,MALE,1
+"['{c and then } he is now, {f uh, } essentially bankrupt, {d you know. } /']",c and then  he is now f uh  essentially bankrupt d you know  ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c and so, } {f uh, } h-, -/']",c and so  f uh  h ,%,MALE,5
+['that has got to be hard to go from really rich --'],that has got to be hard to go from really rich ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['no,  /']",no  ,aa,MALE,4
+"['right, {f uh, }  /']",right f uh   ,b,MALE,2
+"['who knows, {f uh, }']",who knows f uh ,h,MALE,15
+['<laughter>.'],laughter,x,FEMALE,8
+['what he has really got.  /'],what he has really got  ,+,MALE,0
+"['{c but, } {f uh, } he was kind of an [ arro-, + arrogant ] guy,  /']",c but  f uh  he was kind of an  arro  arrogant  guy  ,sv,MALE,3
+"['{c so } i think the newsmen, {f uh, } enjoyed, {f uh, } writing about him on his way down, {d you know. } /']",c so  i think the newsmen f uh  enjoyed f uh  writing about him on his way down d you know  ,sv,MALE,3
+['<child_talking> yeah. /'],childtalking yeah ,b,FEMALE,2
+['<child_talking>.'],childtalking,x,FEMALE,8
+"['[ it was, + {f uh, } she was ] actually somewhat of a business partner of his, {f uh, } did very well. /']", it was  f uh  she was  actually somewhat of a business partner of his f uh  did very well ,sd,MALE,1
+['{f huh. } /'],f huh  ,%,FEMALE,5
+"['ivana trump, {f uh. }  /']",ivana trump f uh   ,sd,MALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,%,MALE,5
+"['<child_talking> {d well, } {d see } that is like i said. [ i {d like, } + i ] do not watch much t v any more either. /']",childtalking d well  d see  that is like i said  i d like   i  do not watch much t v any more either ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+['{c but } i have got three kids <laughter>. /'],c but  i have got three kids laughter ,sd,FEMALE,1
+"['{f oh, } yeah.  /']",f oh  yeah  ,b,MALE,2
+['i can imagine. /'],i can imagine ,sd,MALE,1
+"['right,  /']",right  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+['<laughter>.'],laughter,x,MALE,8
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f uh, } {f uh, } i know what you mean, really. /']",f uh  f uh  i know what you mean really ,sd,MALE,1
+"['{d well, } {d anyway, } i have enjoyed talking to you. /']",d well  d anyway  i have enjoyed talking to you ,fc,FEMALE,10
+['okay.  /'],okay  ,fc,MALE,10
+"['yeah,  /']",yeah  ,fc,MALE,10
+"['{d well, } {f uh, } hang in there.   /']",d well  f uh  hang in there   ,fc,MALE,10
+['{c and } good luck with those kids. /'],c and  good luck with those kids ,fc,MALE,10
+['yeah.  /'],yeah  ,fc,FEMALE,10
+['{c and } have a good holiday. /'],c and  have a good holiday ,fc,FEMALE,10
+['right.  /'],right  ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

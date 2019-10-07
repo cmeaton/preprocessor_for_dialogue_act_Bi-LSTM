@@ -1,0 +1,116 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""we're supposed to talk about vacations. /""]",were supposed to talk about vacations ,sd,FEMALE,1
+"['right,  /']",right  ,aa,MALE,4
+"['{d so, }  {f uh, } {d well, } {f uh, }  what kind of vacations do you like? /']",d so   f uh  d well  f uh   what kind of vacations do you like ,qw,MALE,12
+"[""{d well, } {f uh, } i haven't been to many places, /""]",d well  f uh  i havent been to many places ,sd,FEMALE,1
+"['{c but } i have a opportunity to go to, {f uh, } paris, france, {f uh, }  [ with, + {f uh, } with ] my friend in april.  /']",c but  i have a opportunity to go to f uh  paris france f uh    with  f uh  with  my friend in april  ,sd,FEMALE,1
+"['[ she is, + [ her, + {f uh, } her ] family, {d you know, } lives ] there,  /']", she is   her  f uh  her  family d you know  lives  there  ,sd,FEMALE,1
+"[""{c and } she's only been there once.  /""]",c and  shes only been there once  ,sd,FEMALE,1
+['her grandmother lives there -- /'],her grandmother lives there  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c so } [ i'm hoping to g-, + i'm praying i get to go. ]  {f uh, } /""]", c so   im hoping to g  im praying i get to go   f uh  ,sd,FEMALE,1
+"[""{f oh, } that's great. /""]",f oh  thats great ,ba,MALE,6
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""[ it's, + it will be ]  probably the most exciting place i'll ever get to go. /""]", its  it will be   probably the most exciting place ill ever get to go ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['have you ever been to, {f uh, } {d like } new mexico? /']",have you ever been to f uh  d like  new mexico ,qy,FEMALE,7
+"['{f uh, } no, actually. /']",f uh  no actually ,nn,MALE,13
+['oh. /'],oh ,b,FEMALE,2
+"['why, # have you? # /']",why  have you  ,qy,MALE,7
+['# i was curious. #  /'], i was curious   ,sd,FEMALE,1
+['i was just wondering what it was like. /'],i was just wondering what it was like ,sd,FEMALE,1
+"['{f oh, } okay <laughter>.  /']",f oh  okay laughter  ,bk,MALE,14
+"['no, {f uh, }  /']",no f uh   ,nn,MALE,13
+"['i have been to europe once and to haiti and, {f uh, } -/']",i have been to europe once and to haiti and f uh  ,sd,MALE,1
+['tahiti? /'],tahiti ,br,FEMALE,30
+['yeah. /'],yeah ,aa,MALE,4
+"['tahiti,  /']",tahiti  ,b,FEMALE,2
+['oh. /'],oh ,b,FEMALE,2
+"['no,  /']",no  ,ar,MALE,28
+"['no,  /']",no  ,ar,MALE,28
+['haiti. /'],haiti ,sd,MALE,1
+"['{f oh, } haiti. /']",f oh  haiti ,b^m,FEMALE,24
+['right. /'],right ,aa,MALE,4
+['where is that? /'],where is that ,qw,FEMALE,12
+"[""[ it's, + {f uh, } {d well, } it's ]  in the caribbean  /""]", its  f uh  d well  its   in the caribbean  ,sd,MALE,1
+"[""{c and } it's the western half of an island,  /""]",c and  its the western half of an island  ,sd,MALE,1
+"[""with the eastern half that's the dominican republic. /""]",with the eastern half thats the dominican republic ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } i was down there with a program  from the college that i went to where we would just spend {d like } three months in a foreign country,  most of them third world countries.']",c and  i was down there with a program  from the college that i went to where we would just spend d like  three months in a foreign country  most of them third world countries,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['and study the language and then do a little service project. /'],and study the language and then do a little service project ,+,MALE,0
+['{f um. } /'],f um  ,%,FEMALE,5
+"['<throat_clearing> {d so, }  yeah,  /']",throatclearing d so   yeah  ,b,MALE,2
+['that  turned out to be a really good experience for me. /'],that  turned out to be a really good experience for me ,sd,MALE,1
+"['{d so, }  what did you do when you were in europe? /']",d so   what did you do when you were in europe ,qw,FEMALE,12
+"['{f uh, } {d well, } {d see, }  i went there when i was in high school, actually -- /']",f uh  d well  d see   i went there when i was in high school actually  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } i mostly went to germany and  visited some friends of my family and,  {f uh, } hung out with them,  worked a bit on one of their farms and also went to a youth camp. /']", c and  i mostly went to germany and  visited some friends of my family and  f uh  hung out with them  worked a bit on one of their farms and also went to a youth camp ,sd,MALE,1
+['what did you do on the farm? /'],what did you do on the farm ,qw,FEMALE,12
+"['{f uh, } {f uh, } {f uh, }  {d well, } not that much <laughter>.  /']",f uh  f uh  f uh   d well  not that much laughter  ,sd,MALE,1
+"['# just, {f uh, } # -/']", just f uh   ,%,MALE,5
+"['# are you just # kind of sight, just kind of, {f uh, } -/']", are you just  kind of sight just kind of f uh  ,qy,FEMALE,7
+"['right,  /']",right  ,na,MALE,21
+"[""{e i mean, } i wasn't a great asset  to them or anything <laughter>. /""]",e i mean  i wasnt a great asset  to them or anything laughter ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c but } i, {d you know, } drove a tractor,  helped them weed beets and that sort of thing. /']",c but  i d you know  drove a tractor  helped them weed beets and that sort of thing ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['{c and, }  {f uh, } yep,  /']",c and   f uh  yep  ,b,MALE,2
+"[""{c and } i went to a youth camp that included working at an old people's home  /""]",c and  i went to a youth camp that included working at an old peoples home  ,sd,MALE,1
+['{c and } that was pretty interesting.  /'],c and  that was pretty interesting  ,sd,MALE,1
+"['{c and } while i was there i visited my aunt and uncle who were,  {f uh, } staying for their vacation in france in nantes, which is on the west coast, {d like } right across from england. /']",c and  while i was there i visited my aunt and uncle who were  f uh  staying for their vacation in france in nantes which is on the west coast d like  right across from england ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['{f uh, } {d so, }  {f uh, } where in france are you, /']",f uh  d so   f uh  where in france are you ,qw,MALE,12
+['paris. /'],paris ,sd,FEMALE,1
+"['right,  /']",right  ,b,MALE,2
+['paris. /'],paris ,b^m,MALE,24
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, }  {f uh, } {f um, } how long do you plan to be going for? /']",c and   f uh  f um  how long do you plan to be going for ,qw,MALE,12
+"['{f uh, } two weeks.  /']",f uh  two weeks  ,sd,FEMALE,1
+"['last time she stayed two months,  /']",last time she stayed two months  ,sd,FEMALE,1
+"[""{c but } we're only going to stay two weeks. /""]",c but  were only going to stay two weeks ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d so, } -/']",d so  ,%,FEMALE,5
+['great.  /'],great  ,ba,MALE,6
+"['{c and, }  {f uh, } -/']",c and   f uh  ,%,MALE,5
+"[""we're going to take a cooking class there,  /""]",were going to take a cooking class there  ,sd,FEMALE,1
+['{c so } that might be fun. /'],c so  that might be fun ,sd,FEMALE,1
+['a what? /'],a what ,br,MALE,30
+"['cooking class, {d you know, }  /']",cooking class d you know   ,sd,FEMALE,1
+['french cooking. /'],french cooking ,sd,FEMALE,1
+"['{f oh, } great. /']",f oh  great ,ba,MALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, }  {f uh, } what else are you planning to do, if anything? /']",c and   f uh  what else are you planning to do if anything ,qw,MALE,12
+"['museums, {d you know, }  /']",museums d you know   ,sd,FEMALE,1
+"['go to museums and, -/']",go to museums and ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['yeah, {f um, } /']",yeah f um  ,b,MALE,2
+['do you go to museums in europe? /'],do you go to museums in europe ,qy,FEMALE,7
+"['{f uh, } actually, no,  /']",f uh  actually no  ,nn,MALE,13
+"[""i don't think i went to any of them.  /""]",i dont think i went to any of them  ,sd,MALE,1
+"['{f uh, } the closest thing i did was go to some  {d like, } {f uh, } restored castles and stuff. /']",f uh  the closest thing i did was go to some  d like  f uh  restored castles and stuff ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['[ that, + there ] is some on that west  coast of france  /']", that  there  is some on that west  coast of france  ,sd,MALE,1
+['{c and } i went to a vineyard or two in germany. /'],c and  i went to a vineyard or two in germany ,sd,MALE,1
+"[""{f um, } that's neat. /""]",f um  thats neat ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,aa,MALE,4
+['that was nice.  /'],that was nice  ,sd,MALE,1
+"['{f uh, } {f um, } <noise> [ {c but, } + {c so, } ] {f uh, } -/']",f uh  f um  noise  c but   c so   f uh  ,%,MALE,5
+"['hey,  /']",hey  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['what about, - /']",what about  ,qo,FEMALE,25
+['have you ever been to hawaii? /'],have you ever been to hawaii ,qy,FEMALE,7
+"['{f uh, } no,  /']",f uh  no  ,nn,MALE,13
+"[""i haven't. /""]",i havent ,sd,MALE,1
+['no? /'],no ,bh,FEMALE,18
+['have you? /'],have you ,qy,MALE,7
+['no. /'],no ,nn,FEMALE,13
+['okay <laughter>. /'],okay laughter ,bk,MALE,14
+['<laughter>.'],laughter,x,FEMALE,8
+"['{d well, } {f uh, } {d well, } -/']",d well  f uh  d well  ,%,MALE,5
+"[""# i'm wanting to go there. # /""]", im wanting to go there  ,sd,FEMALE,1
+['# where have you gone first? # /'], where have you gone first  ,qw,MALE,12
+"[""{f oh, } [ g-, + where have i gone ] that's anywhere. /""]",f oh   g  where have i gone  thats anywhere ,qh,FEMALE,26
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{e i mean, } -/']",e i mean  ,%,MALE,5
+"['{f uh, } /']",f uh  ,%,FEMALE,5

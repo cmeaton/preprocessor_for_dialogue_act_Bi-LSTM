@@ -1,0 +1,68 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['i, {f uh, } get a lot of my news driving home from work listening to all things considered on national public radio.  /']",i f uh  get a lot of my news driving home from work listening to all things considered on national public radio  ,sd,MALE,1
+"['{f uh, } that is one of my big sources for current events information.  /']",f uh  that is one of my big sources for current events information  ,sd,MALE,1
+"['{f uh, } i really like that coverage.  /']",f uh  i really like that coverage  ,sd,MALE,1
+"['my wife, {f uh, } on the other hand is home most of the day  /']",my wife f uh  on the other hand is home most of the day  ,sd,MALE,1
+['{c and } she watches a lot of the cable news network.  /'],c and  she watches a lot of the cable news network  ,sd,MALE,1
+"['[ have you seen, + {f uh, } [ h-, + + have ] you, {f uh, } ever heard ] of all things considered? /']", have you seen  f uh   h   have  you f uh  ever heard  of all things considered ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+"[""we don't have the, {f uh, } national public radio [ in, + in ] my area. /""]",we dont have the f uh  national public radio  in  in  my area ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i can hear it at [ the, + {f uh, } {f uh, } {f oh, } the ] college town nearby when i'm in stillwater, which is about an hour away,  /""]",i can hear it at  the  f uh  f uh  f oh  the  college town nearby when im in stillwater which is about an hour away  ,sd,MALE,1
+"[""{c but } the f m signal doesn't reach this far. /""]",c but  the f m signal doesnt reach this far ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{f uh, } i'll listen to shortwave quite a bit.  /""]",f uh  ill listen to shortwave quite a bit  ,sd,MALE,1
+"['it gives you a whole different perspective on the news, {f uh, } when you hear it from, {d say, } a european --']",it gives you a whole different perspective on the news f uh  when you hear it from d say  a european ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- point of view, or from the country of origin.  /']", point of view or from the country of origin  ,+,MALE,0
+"['{f uh, } i agree with you, too, on [ the, + {f uh, } <lipsmack> {f uh, } the ] cable channel, c n n and headline news.  /']",f uh  i agree with you too on  the  f uh  lipsmack f uh  the  cable channel c n n and headline news  ,sd,MALE,1
+"[""{f uh, } i'm not too satisfied with our local newspaper --""]",f uh  im not too satisfied with our local newspaper ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } which is why i rely on shortwave [ and, + and ] then the [ cable, +']", f uh  which is why i rely on shortwave  and  and  then the  cable ,+,MALE,0
+['<cough>.'],cough,x,MALE,8
+"['cable, ] c n n. /']",cable  c n n ,+,MALE,0
+"[""i'm, {f uh, } interested [ in the, + in the ] shortwave aspect of it.  /""]",im f uh  interested  in the  in the  shortwave aspect of it  ,sd,MALE,1
+"['{f uh, } how do you find that [ the, + the ] coverage from other places in the world <squeak>, {f uh, } compares with the american coverage of, - /']",f uh  how do you find that  the  the  coverage from other places in the world squeak f uh  compares with the american coverage of  ,qo,MALE,25
+"['how do you think that, {f uh, } the viewpoints differ? /']",how do you think that f uh  the viewpoints differ ,qo,MALE,25
+"[""i think a lot of it is just, {f uh, } the fact that in the u s you're so far removed, {f uh, } in a lot of cases from, {d say, } conflicts  /""]",i think a lot of it is just f uh  the fact that in the u s youre so far removed f uh  in a lot of cases from d say  conflicts  ,sv,MALE,3
+"[""[ {c or, } + {c or } ] it's not happening in your backyard -- /""]", c or   c or   its not happening in your backyard  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c so } [ [ [ it's, + it's ] more of a, + it's not as [ a + ] personal, ] + {f uh, } the news isn't as personal ] in what we receive domestically [ than, + than ] what's on shortwave.  /""]", c so     its  its  more of a  its not as  a   personal   f uh  the news isnt as personal  in what we receive domestically  than  than  whats on shortwave  ,sv,MALE,3
+"[""[ it's, + b b c [ [ is, + {f uh, } {a oh, i don't know the right word, } is, ] + is ] ] almost, {f uh, } - /""]", its  b b c   is  f uh  a oh i dont know the right word  is   is   almost f uh   ,sv,MALE,3
+['they almost take all emotions out of it when they --'],they almost take all emotions out of it when they ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- report it  /'], report it  ,+,MALE,0
+"['{c and } it just, - /']",c and  it just  ,%,MALE,5
+['they seem to give more of just the facts than opinions. /'],they seem to give more of just the facts than opinions ,sv,MALE,3
+"['do you think, then, that, {f uh, } the american media is presenting an opinion along with their facts? /']",do you think then that f uh  the american media is presenting an opinion along with their facts ,qy,MALE,7
+"['{f uh, } very much so,  /']",f uh  very much so  ,na,MALE,21
+"['very much so,  /']",very much so  ,na,MALE,21
+"['{c and } [ i, + i ] think a lot of it is, {f uh, } especially t v news,  /']",c and   i  i  think a lot of it is f uh  especially t v news  ,sv,MALE,3
+"[""they don't really have the time and a lot of them don't have the education and the background [ to, +""]",they dont really have the time and a lot of them dont have the education and the background  to ,sv,MALE,3
+['<cough>.'],cough,x,MALE,8
+"['{f uh, } {f oh, } to ] really decipher the news and to really explain it.  /']",f uh  f oh  to  really decipher the news and to really explain it  ,+,MALE,0
+"[""{e i mean, } [ i, + {d you know, } i ] think it's important to interpret it,  /""]",e i mean   i  d you know  i  think its important to interpret it  ,sv,MALE,3
+"[""{c but } a lot of times the person doesn't have the experience [ to, + to ] do the interpreting. /""]",c but  a lot of times the person doesnt have the experience  to  to  do the interpreting ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['[ which, + {f uh, } which ] approach do you find to be, {f uh, } more useful, [ the, + the ] interpretive approach or the straight reporting? /']", which  f uh  which  approach do you find to be f uh  more useful  the  the  interpretive approach or the straight reporting ,qy,MALE,7
+"['{f oh, } i like the straight reporting.  /']",f oh  i like the straight reporting  ,sd,MALE,1
+"['{f uh, } {c and then } [ i, + i ] hope to be able to form my own opinion of it.  /']",f uh  c and then   i  i  hope to be able to form my own opinion of it  ,sd,MALE,1
+"[""[ it's, + it's ] nice to hear someone's interpretation of it -- /""]", its  its  nice to hear someones interpretation of it  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {f uh, } i always think it's humorous [ when, + when ] the president gives the state of the union [ and, + ] {f uh, } for thirty minutes  /""]", f uh  i always think its humorous  when  when  the president gives the state of the union  and   f uh  for thirty minutes  ,sv,MALE,3
+['{c and then } for an hour and a half you hear different commentators explaining what you just heard. /'],c and then  for an hour and a half you hear different commentators explaining what you just heard ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""{c and } a lot of time i don't hear exactly [ what they, + what they ] write into it. /""]",c and  a lot of time i dont hear exactly  what they  what they  write into it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so } [ i, + overall, i ] think i would rather hear just straight reporting. /']",c so   i  overall i  think i would rather hear just straight reporting ,sd,MALE,1
+"['one of the things that i found interesting last year during [ the, + {f uh, } the ] gulf conflict was a sentiment against, {f uh, } peter arnett, who had stayed in iraq and was presenting, {f uh, } some of the things that were available.  /']",one of the things that i found interesting last year during  the  f uh  the  gulf conflict was a sentiment against f uh  peter arnett who had stayed in iraq and was presenting f uh  some of the things that were available  ,sv,MALE,3
+"['{f uh, } [ there was a, + there was, {f uh, } a ] piece where he was showing a bombed out building where there was obviously a [ crudely, + {f uh, } {f uh, } hastily ] erected sign saying baby milk factory,  /']",f uh   there was a  there was f uh  a  piece where he was showing a bombed out building where there was obviously a  crudely  f uh  f uh  hastily  erected sign saying baby milk factory  ,sd,MALE,1
+"['{c and } while he was being severely, {f uh, } censored and could not make any judgment call on this, it was fairly obvious that it was a piece of propaganda,  /']",c and  while he was being severely f uh  censored and could not make any judgment call on this it was fairly obvious that it was a piece of propaganda  ,sd,MALE,1
+"[""{c but } people were really down on him for reporting the fact that, [ th-, + {d you know, } this ] isn't a baby milk factory,  /""]",c but  people were really down on him for reporting the fact that  th  d you know  this  isnt a baby milk factory  ,sd,MALE,1
+"['how could he say it was, {f uh, }  /']",how could he say it was f uh   ,qh,MALE,26
+"['[ i, + i ] think [ that, +']", i  i  think  that ,sv,MALE,3
+['<static>.'],static,x,MALE,8
+"['that ] to me showed that the americans were really getting used to having [ the, + not just the ] facts, but also the conclusions and opinions spoon fed to them. /']",that  to me showed that the americans were really getting used to having  the  not just the  facts but also the conclusions and opinions spoon fed to them ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['[ i, + i ] think [ people are, + people have ] that opinion.  /']", i  i  think  people are  people have  that opinion  ,sv,MALE,3
+"['[ they, + they ] want to sit down in front of the tv [ and, + {f uh, } or ] [ at a, + ] read a magazine or u s a today and read in four paragraphs, {f uh, } [ and, + and ] find out every-, -/']", they  they  want to sit down in front of the tv  and  f uh  or   at a   read a magazine or u s a today and read in four paragraphs f uh   and  and  find out every ,sv,MALE,3

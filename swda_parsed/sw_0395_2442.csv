@@ -1,0 +1,168 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['all right. /'],all right ,"fo_o_fw_""_by_bc",MALE,0
+"['okay,  /']",okay  ,b,FEMALE,2
+['are you on an exercise program now  /'],are you on an exercise program now  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,ny,MALE,9
+['i exercise pretty regularly. /'],i exercise pretty regularly ,sd,MALE,1
+['uh-huh. /'],uhhuh ,bk,FEMALE,14
+['i lift weights quite a bit. /'],i lift weights quite a bit ,sd,MALE,1
+['uh-huh. /'],uhhuh ,bk,FEMALE,14
+"['{f um, } i run occasionally.  /']",f um  i run occasionally  ,sd,MALE,1
+"[""let's see what else do  i do. play golf some,  /""]",lets see what else do  i do play golf some  ,sd,MALE,1
+"['{c and } i work out [ on a, + on a ] hanging bag.  /']",c and  i work out  on a  on a  hanging bag  ,sd,MALE,1
+"[""i'm brown belt in karate,  /""]",im brown belt in karate  ,sd,MALE,1
+['{c so } i --'],c so  i ,sd,MALE,1
+['uh-huh. /'],uhhuh ,bk,FEMALE,14
+['-- keep up with that a little bit. /'], keep up with that a little bit ,+,MALE,0
+"['{f oh, } yeah. /']",f oh  yeah ,bk,FEMALE,14
+['how about you. /'],how about you ,qo,MALE,25
+"[""{f um, } the only exercise program  i'm doing right now is walking. /""]",f um  the only exercise program  im doing right now is walking ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,bk,MALE,14
+"[""i've got a nine month old,  /""]",ive got a nine month old  ,sd,FEMALE,1
+"[""{c and } i'm four months  pregnant with my second,  /""]",c and  im four months  pregnant with my second  ,sd,FEMALE,1
+"['{c and so, } at the time,  walking seems to be the best.  /']",c and so  at the time  walking seems to be the best  ,sv,FEMALE,3
+"[""it's something i can do with her, plus, {f um, } doesn't tax me too physically. /""]",its something i can do with her plus f um  doesnt tax me too physically ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,bk,MALE,14
+"['i have enjoyed aerobics in the past,  /']",i have enjoyed aerobics in the past  ,sd,FEMALE,1
+"['{c and } i enjoy  that because i like the group association, {d you know, } like exercising  with other people. /']",c and  i enjoy  that because i like the group association d you know  like exercising  with other people ,sd,FEMALE,1
+['yeah. /'],yeah ,bk,MALE,14
+"[""[ {c and, } + {f um, } {c and } ]  that's my favorite way to exercise. /""]", c and   f um  c and    thats my favorite way to exercise ,sd,FEMALE,1
+"[""{d well, } that's neat.  /""]",d well  thats neat  ,ba,MALE,6
+"['yeah,  /']",yeah  ,%,MALE,5
+['i do walk some too.  /'],i do walk some too  ,sd,MALE,1
+"[""my wife's about five months along -- /""]",my wifes about five months along  ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""-- {c so } she's been walking quite a bit,  /""]", c so  shes been walking quite a bit  ,sd,MALE,1
+['{c so } that is a good exercise for that. /'],c so  that is a good exercise for that ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""it's nice to do it together, too, i guess. /""]",its nice to do it together too i guess ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['my husband and i use to walk together,  /']",my husband and i use to walk together  ,sd,FEMALE,1
+"[""{c but } our schedules  don't coincide as well as they used to,  /""]",c but  our schedules  dont coincide as well as they used to  ,sd,FEMALE,1
+"['{c and so, } we very seldom get  together to walk  /']",c and so  we very seldom get  together to walk  ,sd,FEMALE,1
+"['{c but, }  [ when you, + when you ]  work out, do you pretty much do it on your own schedule,  /']",c but    when you  when you   work out do you pretty much do it on your own schedule  ,qy,FEMALE,7
+['{c or } do you go to groups  /'],c or  do you go to groups  ,qrr,FEMALE,33
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['[ i, + i ] do it on my own schedule. /']", i  i  do it on my own schedule ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['we used to try and belong to clubs or the y, stuff like that,  /']",we used to try and belong to clubs or the y stuff like that  ,sd,MALE,1
+"['{c but } it was so  difficult to go on a regular basis, to drive the distance you  have to go. /']",c but  it was so  difficult to go on a regular basis to drive the distance you  have to go ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['save the fees, - /']",save the fees  ,%,MALE,5
+"[""we've, {f uh, }  just save the fees and buy some of our own equipment.  /""]",weve f uh   just save the fees and buy some of our own equipment  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+['{c and then } you can do it whenever you want i guess. /'],c and then  you can do it whenever you want i guess ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""i've got a weight bench,  /""]",ive got a weight bench  ,sd,MALE,1
+"['{c and } we got my  wife an exercise bike,  /']",c and  we got my  wife an exercise bike  ,sd,MALE,1
+['{c and } i use that sometimes too. /'],c and  i use that sometimes too ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's a little more convenient,  /""]",its a little more convenient  ,sv,MALE,3
+"[""{c but, }  [ you're, +   i guess you're ] not as dedicated if you don't drive <baby_talking> over to do it. /""]",c but    youre    i guess youre  not as dedicated if you dont drive babytalking over to do it ,sv,MALE,3
+"['i guess it depends on the person,  depends on how <laughter> motivated you are. /']",i guess it depends on the person  depends on how laughter motivated you are ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c because } my husband used to work out three  days a week [ with, + ] {f uh, } at the texas instruments gym. /']",c because  my husband used to work out three  days a week  with   f uh  at the texas instruments gym ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and then } i would just go on saturdays.  /'],c and then  i would just go on saturdays  ,sd,FEMALE,1
+"['{c but, }   since the first of the year neither one of us have been going. /']",c but    since the first of the year neither one of us have been going ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c so, } i guess, like i say, we've been paying these  fees and not going,  /""]",c so  i guess like i say weve been paying these  fees and not going  ,sd,FEMALE,1
+"[""{c so }  it's kind of a waste of money if you don't take advantage of it. /""]",c so   its kind of a waste of money if you dont take advantage of it ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['i think you really have to be disciplined. /'],i think you really have to be disciplined ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ i, + {f uh, } i ] try to work out at least a  couple of times a week,  /']", i  f uh  i  try to work out at least a  couple of times a week  ,sd,MALE,1
+"[""{c and } i think you really have to, at least twice a week, just to maintain the  shape that you're in. /""]",c and  i think you really have to at least twice a week just to maintain the  shape that youre in ,sv,MALE,3
+['yeah.   /'],yeah   ,aa,FEMALE,4
+"['with the walking, i think they said you need to  walk at least twelve miles a week for it to be aerobically <<pause>> beneficial. /']",with the walking i think they said you need to  walk at least twelve miles a week for it to be aerobically pause beneficial ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } [ we, +  i have two friends, that we ] walk.  /']",c and   we   i have two friends that we  walk  ,sd,FEMALE,1
+"['they have babies that are about the same ages [ as, + as ] mine,  /']",they have babies that are about the same ages  as  as  mine  ,sd,FEMALE,1
+"[""{c and } we've been walking  every morning [ at, + ] going  /""]",c and  weve been walking  every morning  at   going  ,sd,FEMALE,1
+"[""when it was cold we would go to the mall because you can't  take the babies out --""]",when it was cold we would go to the mall because you cant  take the babies out ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- very easily.  /'], very easily  ,+,FEMALE,0
+"['{c so } [ we, + when we ] go,  we [ have about, + do about ] fifteen miles a week,  /']",c so   we  when we  go  we  have about  do about  fifteen miles a week  ,sd,FEMALE,1
+"[""{c but } the last little while, for one reason or another,  we haven't been <laughter> real consistent.  /""]",c but  the last little while for one reason or another  we havent been laughter real consistent  ,sd,FEMALE,1
+"[""so <<pause>> it's a little harder  when you're depending on other people to do it with you --""]",so pause its a little harder  when youre depending on other people to do it with you ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- because you have to meet their schedules as well,  /']", because you have to meet their schedules as well  ,+,FEMALE,0
+['[ {c but } + --'], c but   ,sd,FEMALE,1
+['sure. /'],sure ,aa,MALE,4
+"[""-- {c but } ] i enjoy doing it more when i've got  other people with me.  /""]", c but   i enjoy doing it more when ive got  other people with me  ,+,FEMALE,0
+"[""{d you know, } i usually do it because i want to, because i know it's good for me, not because, i don't feel obligated to do it.  /""]",d you know  i usually do it because i want to because i know its good for me not because i dont feel obligated to do it  ,sd,FEMALE,1
+['i enjoy it.  /'],i enjoy it  ,sd,FEMALE,1
+"['if i feel too obligated to do it,  /']",if i feel too obligated to do it  ,sd,FEMALE,1
+"['i start to rebel,  /']",i start to rebel  ,sd,FEMALE,1
+"[""{c and } i won't be as  consistent with it. /""]",c and  i wont be as  consistent with it ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+['i understand.  /'],i understand  ,ba,MALE,6
+['did you exercise between  your first child and your second? /'],did you exercise between  your first child and your second ,qy,MALE,7
+"['i exercised pretty well up [ until i found, + {f uh, } until ]  i was pregnant,  /']",i exercised pretty well up  until i found  f uh  until   i was pregnant  ,na,FEMALE,21
+['{c and } i started having pains.  /'],c and  i started having pains  ,sd,FEMALE,1
+"[""{c so } i've calmed down everything  except, i was working out doing aerobic exercises as well as the, {f um, } walking, /""]",c so  ive calmed down everything  except i was working out doing aerobic exercises as well as the f um  walking ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['{c and } i had to stop the aerobics because it was  just kind of <<pause>> painful.  /'],c and  i had to stop the aerobics because it was  just kind of pause painful  ,sd,FEMALE,1
+"['{c but } the t i rec center has an aerobics program [ for, + for, ]  {f um, } prenatal and  postnatal aerobic type thing. /']",c but  the t i rec center has an aerobics program  for  for   f um  prenatal and  postnatal aerobic type thing ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,MALE,2
+"['{c and } i was going to wait until, {f um, } about  my sixth month and then start that.  /']",c and  i was going to wait until f um  about  my sixth month and then start that  ,sd,FEMALE,1
+"['i did that with the second baby,  /']",i did that with the second baby  ,sd,FEMALE,1
+"['{c and, }  {f um, }  i went to my exercise class one day,  /']",c and   f um   i went to my exercise class one day  ,sd,FEMALE,1
+['{c and then } she was delivered the next day. /'],c and then  she was delivered the next day ,sd,FEMALE,1
+['gosh. /'],gosh ,ba,MALE,6
+"['{c so, } it would seem to be real beneficial. /']",c so  it would seem to be real beneficial ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,aa,MALE,4
+['yeah.  /'],yeah  ,aa,MALE,4
+"['[ maybe it, + maybe it ]  speeded up the process and all that. /']", maybe it  maybe it   speeded up the process and all that ,qy^d,MALE,16
+['{d well } i think it made parts of it a lot easier.  /'],d well  i think it made parts of it a lot easier  ,arp_nd,FEMALE,34
+"[""[ {c and, } + {c and } ] is this your first that you're having? /""]", c and   c and   is this your first that youre having ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,MALE,9
+"['{f oh, } okay,  /']",f oh  okay  ,bk,FEMALE,14
+"[""{d well, } then i don't know how much  you've been through it,  /""]",d well  then i dont know how much  youve been through it  ,qw^d,FEMALE,41
+['{c but } i think parts of it made a lot easier.  /'],c but  i think parts of it made a lot easier  ,sv,FEMALE,3
+"[""{c and, }  i've talked to  a lot of ladies that exercise with one pregnancy and didn't with the other,  /""]",c and   ive talked to  a lot of ladies that exercise with one pregnancy and didnt with the other  ,sd,FEMALE,1
+"['{c and }  they said [ that they had ex-, + that the ] one they had exercised with  was three or four times easier. /']",c and   they said  that they had ex  that the  one they had exercised with  was three or four times easier ,sd,FEMALE,1
+['really. /'],really ,b,MALE,2
+"[""{c and } [ we've, +  i had, ] - /""]",c and   weve   i had   ,%,FEMALE,5
+"['having both of them natural,  the first one was natural and going natural the second,  /']",having both of them natural  the first one was natural and going natural the second  ,sd,FEMALE,1
+"[""[ {c and, } + {c and } ] [ it's, + it's ] rough  /""]", c and   c and    its  its  rough  ,sv,FEMALE,3
+"[""{c but } <laughter> it's not as bad as i thought it would be,  /""]",c but  laughter its not as bad as i thought it would be  ,sd,FEMALE,1
+['{c and } i think the  exercise helped. /'],c and  i think the  exercise helped ,sv,FEMALE,3
+"[""{d well, } that's good. /""]",d well  thats good ,ba,MALE,6
+"['{c so, } do you work with t i? /']",c so  do you work with t i ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+"[""i don't.  /""]",i dont  ,sd,MALE,1
+"['[ my, + my ]  wife has been working with them. /']", my  my   wife has been working with them ,sd,MALE,1
+"['{f oh, } okay,  /']",f oh  okay  ,bk,FEMALE,14
+['{d well } then she could go if she  were interested. /'],d well  then she could go if she  were interested ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i think, that's what the class that meets on  saturday mornings.  /""]",i think thats what the class that meets on  saturday mornings  ,sd,FEMALE,1
+['{c so } she could find out if she wanted to go.  /'],c so  she could find out if she wanted to go  ,sd,FEMALE,1
+"[""<baby_crying>  it's kind of fun because with the first pregnancy all the other ladies except  one were on their first pregnancy,  /""]",babycrying  its kind of fun because with the first pregnancy all the other ladies except  one were on their first pregnancy  ,sd,FEMALE,1
+['{c and } they would talk about exercise and just  general things relating to the birthing process.  /'],c and  they would talk about exercise and just  general things relating to the birthing process  ,sd,FEMALE,1
+['{c and so } for us it was  educational <laughter> as well as exercise beneficial.  /'],c and so  for us it was  educational laughter as well as exercise beneficial  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['at least its something you enjoy.  /'],at least its something you enjoy  ,sd,MALE,1
+"[""i know a lot of people  that talk about exercise and say, {d well, } i don't want to exercise,  it's too much work.  /""]",i know a lot of people  that talk about exercise and say d well  i dont want to exercise  its too much work  ,sd,MALE,1
+"[""{c but } there's a lot of different things you can do that are enjoyable  that you don't have to strain yourself or sweat --""]",c but  theres a lot of different things you can do that are enjoyable  that you dont have to strain yourself or sweat ,sv,MALE,3
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+['-- or be real sore afterwards. /'], or be real sore afterwards ,+,MALE,0
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""<laughter> {c and } sometimes if you get a  little soreness you feel like,  {d well } i've done a good job because i [ got, +  worked ] myself to that point.  /""]",laughter c and  sometimes if you get a  little soreness you feel like  d well  ive done a good job because i  got   worked  myself to that point  ,sv,FEMALE,3
+"[""{c but } i guess that you don't want to overdo.  /""]",c but  i guess that you dont want to overdo  ,sv,FEMALE,3
+"['{c but } <baby> <<pause>>, {d well } have we reached our limit?  /']",c but  baby pause d well  have we reached our limit  ,qy,FEMALE,7
+"[""i'm not sure how long we've been talking  /""]",im not sure how long weve been talking  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""i think we've talked about six minutes or so. /""]",i think weve talked about six minutes or so ,sd,MALE,1
+"['okay,  /']",okay  ,fc,FEMALE,10
+"[""{d well } it's been good talking to you. /""]",d well  its been good talking to you ,fc,FEMALE,10
+['been good talking to you as well. /'],been good talking to you as well ,fc,MALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+['i hope your baby [ goes well -- +'],i hope your baby  goes well  ,fc,FEMALE,10
+['thanks. /'],thanks ,fc,MALE,10
+['-- comes out well. ] /'], comes out well  ,+,FEMALE,0
+['yours too. /'],yours too ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10

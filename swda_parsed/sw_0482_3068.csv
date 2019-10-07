@@ -1,0 +1,204 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } steve, did you go to college? /']",d well  steve did you go to college ,qy,MALE,7
+['yeah.  /'],yeah  ,ny,MALE,9
+"[""in fact, i'm still going. /""]",in fact im still going ,sd,MALE,1
+"[""{f oh, } that's good.  /""]",f oh  thats good  ,ba,MALE,6
+['{c so } you probably could give some great advice. /'],c so  you probably could give some great advice ,qy^d,MALE,16
+"[""{f uh, } {d well, } i don't know about that, <breathing>  /""]",f uh  d well  i dont know about that breathing  ,arp_nd,MALE,34
+"[""{c but } [ i, + in fact, i'm ] in the process of trying to choose a p h d school. /""]",c but   i  in fact im  in the process of trying to choose a p h d school ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['<breathing>.'],breathing,x,MALE,8
+"[""{d well, } [ what's your ca-, + what's your interest, ]  /""]",d well   whats your ca  whats your interest   ,qw,MALE,12
+"['your, {f uh, } -/']",your f uh  ,%,MALE,5
+"['{f uh, } {d well, } computer science and cognitive science. /']",f uh  d well  computer science and cognitive science ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so, } -/']",c so  ,%,MALE,5
+"[""[ that, + that's ] similar to what, - /""]", that  thats  similar to what  ,%,MALE,5
+"[""i'm in a p h d program right now. /""]",im in a p h d program right now ,sd,MALE,1
+"['{f oh, } i see. /']",f oh  i see ,b,MALE,2
+"[""{c and, }  {f uh, } my area of expertise, it's information systems, which is a little bit less technical, i think, [ than, + {f uh, } than ] computer science.   /""]",c and   f uh  my area of expertise its information systems which is a little bit less technical i think  than  f uh  than  computer science   ,sv,MALE,3
+"['{c but } my area of expertise is, {f uh, } {f uh, } human computer interaction. /']",c but  my area of expertise is f uh  f uh  human computer interaction ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"[""{c and } i think that's one reason why i'm part of this study, {f uh, } because [ it's of, + ] i'm working with voice systems. /""]",c and  i think thats one reason why im part of this study f uh  because  its of   im working with voice systems ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['yeah.  /'],yeah  ,b^m,MALE,24
+"['[ {c so, } + {c so, } ] good luck.  /']", c so   c so   good luck  ,ba,MALE,6
+"['i guess we should talk about giving advice,  though.  /']",i guess we should talk about giving advice  though  ,ad,MALE,22
+"[""[ [ wh-, + what, ] + what ] type of advice do you think you'd give to [ a, + a ] parent? /""]",  wh  what   what  type of advice do you think youd give to  a  a  parent ,qw,MALE,12
+['to a parent? /'],to a parent ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+"[""{d well, } {d you know, } the thing is, when you're a kid --""]",d well  d you know  the thing is when youre a kid ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- and the kid at that age, especially if they're going into undergraduate, it seems like they think they know what they want. /""]", and the kid at that age especially if theyre going into undergraduate it seems like they think they know what they want ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['[ {c an, } + {c and, } ]  {e i mean, } choosing from my experience, {d you know, } i thought, {d you know, } [ my, + i know what i want a lot more than my ] parents know what i want. /']", c an   c and    e i mean  choosing from my experience d you know  i thought d you know   my  i know what i want a lot more than my  parents know what i want ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but, }  {f uh, } i don't know,  /""]",c but   f uh  i dont know  ,h,MALE,15
+"['at the same time, you have to decide what is important about the school,  /']",at the same time you have to decide what is important about the school  ,sv,MALE,3
+"['{d you know, } the size of it or, -/']",d you know  the size of it or ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""i think that's more important probably than even the career vocation, because most people change. /""]",i think thats more important probably than even the career vocation because most people change ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['[ i kn-, + i know ] very few people that, {f uh, } started in one field and stayed with it.  /']", i kn  i know  very few people that f uh  started in one field and stayed with it  ,sd,MALE,1
+"['{d you know, } they, - /']",d you know  they  ,%,MALE,5
+"[""i think that's what you just said, {d you know, } having to do more with the size of the school, the environment of the school, {f uh, }  /""]",i think thats what you just said d you know  having to do more with the size of the school the environment of the school f uh   ,aa,MALE,4
+"[""i think that's much more important.  /""]",i think thats much more important  ,sv,MALE,3
+"[""[ [ i, + i think i'd, ] + i'd ] advise a parent to send a kid to a school, though, that has a number of different types of programs, {d you know, }  /""]",  i  i think id   id  advise a parent to send a kid to a school though that has a number of different types of programs d you know   ,sd,MALE,1
+"['that, {f uh, } some of the smaller schools might be very limited in what they can offer,  /']",that f uh  some of the smaller schools might be very limited in what they can offer  ,sv,MALE,3
+"['{c but } some of [ [ the, + {f uh, } the small, ] + some of the larger small ] schools, {d you know, } i guess around three or four thousand students --']",c but  some of   the  f uh  the small   some of the larger small  schools d you know  i guess around three or four thousand students ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- [ have a, + ] can offer a broader range of curriculums and things,  /']",  have a   can offer a broader range of curriculums and things  ,+,MALE,0
+"[""{c so } if the kid does change, they don't have to transfer,  /""]",c so  if the kid does change they dont have to transfer  ,sv,MALE,3
+"[""{c or } they don't have to, {f uh, } {f uh, } - /""]",c or  they dont have to f uh  f uh   ,sv,MALE,3
+"[""i don't know, they don't have to give up years [ of, + {d you know, } of ] credit transfer and things. /""]",i dont know they dont have to give up years  of  d you know  of  credit transfer and things ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""that's disruptive. /""]",thats disruptive ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['<breathing>.'],breathing,x,MALE,8
+"['<lipsmack> i normally, - /']",lipsmack i normally  ,%,MALE,5
+"['[ {c and, } + {c and } ] parents hate to hear this, {d you know, }  /']", c and   c and   parents hate to hear this d you know   ,sv,MALE,3
+"['{c because } [ i, + i ] actually teach college,  /']",c because   i  i  actually teach college  ,sd,MALE,1
+"['[ i hate to, + {f uh, } i hate to ] talk to the parents  /']", i hate to  f uh  i hate to  talk to the parents  ,sd,MALE,1
+"[""[ because, + {f um } <lipsmack> one of the reasons is because, ] {d you know, } the kid doesn't know exactly what they want,  /""]", because  f um  lipsmack one of the reasons is because  d you know  the kid doesnt know exactly what they want  ,sv,MALE,3
+"['{c and } i always say make sure you major,']",c and  i always say make sure you major,sd,MALE,1
+['<talking>.'],talking,x,MALE,8
+"[""in something that you like, even if it's not going to be your career vocation,""]",in something that you like even if its not going to be your career vocation,+,MALE,0
+['</talking>.'],talking,x,MALE,8
+"[""because you'll get better grades.  /""]",because youll get better grades  ,+,MALE,0
+"['[ i, + i ] think most employers would probably rather hire, {d you know, } [ a, + a ] three six [ in, + {f um, } <lipsmack> in ] history, {f uh, } to be a salesman than someone with a two oh in business administration. /']", i  i  think most employers would probably rather hire d you know   a  a  three six  in  f um  lipsmack in  history f uh  to be a salesman than someone with a two oh in business administration ,sv,MALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['does that make sense? /'],does that make sense ,qy,MALE,7
+['yeah.  /'],yeah  ,ny,MALE,9
+"['{d well, } yeah,  /']",d well  yeah  ,ny,MALE,9
+"[""i see what you're saying. /""]",i see what youre saying ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""i always, {d you know, } tell them that you should major in something [ you, + you're ] going to get good grades in.""]",i always d you know  tell them that you should major in something  you  youre  going to get good grades in,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""because [ that, + that's ] always, i think, more important, {d you know, } overall.  /""]",because  that  thats  always i think more important d you know  overall  ,+,MALE,0
+"[""i don't know. /""]",i dont know ,h,MALE,15
+"['{f uh, } <<muffled>> give me five minutes. /']",f uh  muffled give me five minutes ,t3,MALE,35
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{f oh, }  [ you, + you're ] at the office now? /""]",f oh    you  youre  at the office now ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['at work?  /'],at work  ,qy,MALE,7
+['yeah. /'],yeah ,%,MALE,5
+['yeah.  /'],yeah  ,qy,MALE,7
+"[""i'm just getting ready to go to lunch <breathing>.  /""]",im just getting ready to go to lunch breathing  ,sd,MALE,1
+"['{f uh, } yeah,  /']",f uh  yeah  ,%,MALE,5
+"[""that's like what we were saying, though,  /""]",thats like what we were saying though  ,sv,MALE,3
+"['would you, {f uh, } advise a private school, or a public school, /']",would you f uh  advise a private school or a public school ,qy,MALE,7
+"['[ [ i would, + i would, ] +']",  i would  i would  ,na,MALE,21
+"[""{d you know, } what's the trade off there,  /""]",d you know  whats the trade off there  ,qw,MALE,12
+"['what, -/']",what ,%,MALE,5
+"['it would, ] - /']",it would   ,+,MALE,0
+"['[ i, + i tell you, ]  /']", i  i tell you   ,^h,MALE,27
+"['i live in maryland,  /']",i live in maryland  ,sd,MALE,1
+"['{c and } the public schools here are,']",c and  the public schools here are,sd,MALE,1
+['<talking>.'],talking,x,MALE,8
+['pretty good.  /'],pretty good  ,+,MALE,0
+"['i teach at a public school, actually,  /']",i teach at a public school actually  ,sd,MALE,1
+"['{c and } i know that the s a t scores for our admitting freshmen are higher than [ a lot of the public sch-, + a lot of the private schools. ]   /']",c and  i know that the s a t scores for our admitting freshmen are higher than  a lot of the public sch  a lot of the private schools    ,sd,MALE,1
+"['{c and, }  {f um, } [ i actually, + i would ] full time [ at a, + at a ] public school, - /']",c and   f um   i actually  i would  full time  at a  at a  public school  ,sd,MALE,1
+"[""{c and then } right now i'm teaching part time [ at a private school, + at a <noise> catholic institution. ] /""]",c and then  right now im teaching part time  at a private school  at a noise catholic institution  ,sd,MALE,1
+"['{f oh, } i see. /']",f oh  i see ,bk,MALE,14
+"[""[ {c and, } + {f um } <lipsmack>, {c and } ] [ i really think, + i think ] i'm getting a better </noise> caliber of student at the private school, because i think their parents pay more,  /""]", c and   f um  lipsmack c and    i really think  i think  im getting a better noise caliber of student at the private school because i think their parents pay more  ,sv,MALE,3
+"['{c and } i think the kids are a little bit more challenged, because their parents are probably college educated,  /']",c and  i think the kids are a little bit more challenged because their parents are probably college educated  ,sv,MALE,3
+"[""where at the public school, i don't think as many parents [ [ are public, + are, ] + are college educated, ]  /""]",where at the public school i dont think as many parents   are public  are   are college educated   ,sv,MALE,3
+"[""{c and } [ i don't, + i think ] because it costs less, the kid doesn't take it quite as serious, {d you know, }  /""]",c and   i dont  i think  because it costs less the kid doesnt take it quite as serious d you know   ,sv,MALE,3
+"[""[ they're not, + th-, ] - /""]", theyre not  th   ,%,MALE,5
+"[""[ it, + it's ] the minimal cost.  /""]", it  its  the minimal cost  ,sv,MALE,3
+['{c but } <beep> i think you can get a good education at public or private <beep>  /'],c but  beep i think you can get a good education at public or private beep  ,sv,MALE,3
+"['{c but } i think you can also get a bad education at public or private, {d you know, }  /']",c but  i think you can also get a bad education at public or private d you know   ,sv,MALE,3
+['i -- -/'],i  ,%,MALE,5
+['yeah. /'],yeah ,b,MALE,2
+"['-- [ you have to really, + you have to  ] look  around at the school.  /']",  you have to really  you have to   look  around at the school  ,sv,MALE,3
+"[""[ i, + i ] think the bad part is that most parents or kids don't know what to look for. /""]", i  i  think the bad part is that most parents or kids dont know what to look for ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['yeah.  /'],yeah  ,aa,MALE,4
+"['i think, {f uh, } i would agree with that.  /']",i think f uh  i would agree with that  ,aa,MALE,4
+"[""in fact, [ the thing that, + i'm going through the same thing, ]  where in graduate school,""]",in fact  the thing that  im going through the same thing   where in graduate school,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['i was trying to  (( choose )) .  /'],i was trying to   choose    ,+,MALE,0
+"['{d you know, } a particular institution might be better --']",d you know  a particular institution might be better ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+['-- for my area -- /'], for my area  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- [ yet, +  {d like, }  {d say, } {d you know, } the university of small town in arkansas or  something,']",  yet   d like   d say  d you know  the university of small town in arkansas or  something,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['might have some top specialists in my area. /'],might have some top specialists in my area ,+,MALE,0
+['right. /'],right ,b,MALE,2
+"['yet, ] if i go to u of i or c m u or, {d you know, } [ some, + {d you know, } any ] big name school, my quality of education might not be that much better,  /']",yet  if i go to u of i or c m u or d you know   some  d you know  any  big name school my quality of education might not be that much better  ,sv,MALE,3
+"[""{c but } it's the same thing,  /""]",c but  its the same thing  ,sv,MALE,3
+"[""there's, {d you know, } what will the name recognition,""]",theres d you know  what will the name recognition,sv,MALE,3
+['right. /'],right ,b,MALE,2
+"['get me,']",get me,+,MALE,0
+"['yeah, /']",yeah ,b,MALE,2
+['kind of thing. /'],kind of thing ,+,MALE,0
+['does it have a big ten football team  /'],does it have a big ten football team  ,qh,MALE,26
+"['{c or, } -/']",c or  ,%,MALE,5
+"['yeah, <laughter>  /']",yeah laughter  ,aa,MALE,4
+['yeah <breathing>.  /'],yeah breathing  ,aa,MALE,4
+"[""[ that's + <breathing> that's ] usually the basic criteria. /""]", thats  breathing thats  usually the basic criteria ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"['{e i mean, } {f uh, } yeah,  /']",e i mean  f uh  yeah  ,aa,MALE,4
+"['is it a pac ten school, {d you know. } /']",is it a pac ten school d you know  ,qh,MALE,26
+['yeah. /'],yeah ,b,MALE,2
+"['{c but } i think, - /']",c but  i think  ,%,MALE,5
+"['yeah,  /']",yeah  ,%,MALE,5
+"[""{d see, } [ i'm, + i'm ] at the university of maryland, {c so } in [ this, + this ] region, {f um, } though i go to a smaller branch of the university of maryland, my diploma will still say university of maryland. /""]",d see   im  im  at the university of maryland c so  in  this  this  region f um  though i go to a smaller branch of the university of maryland my diploma will still say university of maryland ,sd,MALE,1
+['(( {f oh } )) . /'], f oh    ,b,MALE,2
+"[""{f um, } <lipsmack> {d you know, } it [ doesn't, + doesn't ] differentiate on my diploma, though i would put it on my resume, what program i went to.   /""]",f um  lipsmack d you know  it  doesnt  doesnt  differentiate on my diploma though i would put it on my resume what program i went to   ,sd,MALE,1
+"[""{c but } [ i, + i ] think, {d you know, } i'm actually at a smaller program,  /""]",c but   i  i  think d you know  im actually at a smaller program  ,sd,MALE,1
+"[""i'm not at [ the col-, + the big college park campus, ] {d you know, }  /""]",im not at  the col  the big college park campus  d you know   ,sd,MALE,1
+"[""that's the big one with the football team. /""]",thats the big one with the football team ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c so } [ [ i, + i think, ] + {f um, } i think ] you're right, that [ there's a lot of, + there's difficult decisions ] there based on name recognition.  /""]",c so    i  i think   f um  i think  youre right that  theres a lot of  theres difficult decisions  there based on name recognition  ,aa,MALE,4
+"['{f um, } <lipsmack> {d you know, } when i first was applying for graduate schools, i applied to some big programs, {d you know, } in this area, like stevens institute of technology, which is recognized in the northeast [ as, + as, ] {d you know, } one step below m i t in a sense,']",f um  lipsmack d you know  when i first was applying for graduate schools i applied to some big programs d you know  in this area like stevens institute of technology which is recognized in the northeast  as  as  d you know  one step below m i t in a sense,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d you know, }  /']",d you know   ,+,MALE,0
+"[""{c so } it's got big name recognition in this area, a big science school, no football team, but a big science school, /""]",c so  its got big name recognition in this area a big science school no football team but a big science school ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['{c and } technical people know that.  /'],c and  technical people know that  ,sv,MALE,3
+"['{c but } i don-, - /']",c but  i don  ,%,MALE,5
+"['yeah,  /']",yeah  ,%,MALE,5
+"[""i think you're right,  /""]",i think youre right  ,aa,MALE,4
+['you really have to think about that for the job.  /'],you really have to think about that for the job  ,sv,MALE,3
+"[""i went to a very small state college when i got my bachelor's,  /""]",i went to a very small state college when i got my bachelors  ,sd,MALE,1
+"['{c and }  when i, - /']",c and   when i  ,%,MALE,5
+"['{d now, } i was in education at first when i was looking for jobs,  /']",d now  i was in education at first when i was looking for jobs  ,sd,MALE,1
+"['i was going to be a teacher,  /']",i was going to be a teacher  ,sd,MALE,1
+"['i was just a high school teacher,  /']",i was just a high school teacher  ,sd,MALE,1
+"['{c so } most people recognized that institution because it was a teaching school sort of, /']",c so  most people recognized that institution because it was a teaching school sort of ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d you know, }  {c but } then when i went, {f um, } <lipsmack> for graduate work, {d you know, } or for a new job, people said to me, {d you know, } shippensburg state, where is that, {d you know } <laughter>. /']",d you know   c but  then when i went f um  lipsmack for graduate work d you know  or for a new job people said to me d you know  shippensburg state where is that d you know  laughter ,sd,MALE,1
+"['yeah, <breathing>  /']",yeah breathing  ,b,MALE,2
+['yeah <breathing>. /'],yeah breathing ,b,MALE,2
+"[""{c and, } {d you know, } when i went into higher education, even at other universities, they weren't aware of it, {d you know. } /""]",c and  d you know  when i went into higher education even at other universities they werent aware of it d you know  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c so } i think yeah,  /']",c so  i think yeah  ,sv,MALE,3
+"[""that's important,  /""]",thats important  ,sv,MALE,3
+"['{f um, } <lipsmack>.  i think it depends on [ if you want to be a, + if you want a ] regional job or a national job,  /']",f um  lipsmack  i think it depends on  if you want to be a  if you want a  regional job or a national job  ,sv,MALE,3
+"['you need that first,']",you need that first,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['job or so out of school, too. /']",job or so out of school too ,+,MALE,0
+['yeah.  /'],yeah  ,aa,MALE,4
+"['[ i, + i ] guess another thing that concerns me is, {f uh, } [ so many people, + ] it seems like everybody today is still in that  ((   ))  job market <<speaker talking to someone else in room>>  /']", i  i  guess another thing that concerns me is f uh   so many people   it seems like everybody today is still in that       job market speaker talking to someone else in room  ,sv,MALE,3
+"['{c and, }  {f uh, } {f um, } where was i at?  /']",c and   f uh  f um  where was i at  ,qw,MALE,12
+"['{f oh, } [ go-, + in going ] to school,  you get taught the things you learn in school,  /']",f oh   go  in going  to school  you get taught the things you learn in school  ,sv,MALE,3
+"[""{c but } there is also a whole other dimension, {e i mean } the growing up while you're going to school part. /""]",c but  there is also a whole other dimension e i mean  the growing up while youre going to school part ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,aa,MALE,4
+['yeah. /'],yeah ,aa,MALE,4
+"['{c and, }  {f uh, } actually, in the midwest especially, a lot of the schools [ have, + like university of missouri, will have ] a main campus like columbia, which is big, multi disciplinary, /']",c and   f uh  actually in the midwest especially a lot of the schools  have  like university of missouri will have  a main campus like columbia which is big multi disciplinary ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"[""{c and } they'll have a satellite campus [ in a, + usually in a ] smaller town <breathing> that specializes in the technical field.  /""]",c and  theyll have a satellite campus  in a  usually in a  smaller town breathing that specializes in the technical field  ,sd,MALE,1
+"[""{c so } you've really, {f uh, } i guess sacrificed --""]",c so  youve really f uh  i guess sacrificed ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- some social --'], some social ,+,MALE,0
+['right. /'],right ,b,MALE,2
+['-- exposure to different groups and everything. /'], exposure to different groups and everything ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+['depending on your technical areas.  /'],depending on your technical areas  ,sv,MALE,3
+"['yeah, /']",yeah ,aa,MALE,4
+['yeah. /'],yeah ,b^m,MALE,24
+['i could see that.  /'],i could see that  ,ba,MALE,6
+"[""{c but, } {d you know, } [ at some of the large schools, + i know that [ [ at, + at, ] + at ] university of maryland ] where i am, {d you know, } in a p h d program, [ i, +  i ] haven't even met, {f uh, } someone outside of my area of information systems except for, -/""]",c but  d you know   at some of the large schools  i know that   at  at   at  university of maryland  where i am d you know  in a p h d program  i   i  havent even met f uh  someone outside of my area of information systems except for ,sd,MALE,1

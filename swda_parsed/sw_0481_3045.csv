@@ -1,0 +1,233 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<beep> okay.  /'],beep okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{f uh, } do you own a p c by the way?  /']",f uh  do you own a p c by the way  ,qy,FEMALE,7
+"[""i'm guessing you probably do. /""]",im guessing you probably do ,qy^d,FEMALE,16
+"[""i don't have one in my home here.  /""]",i dont have one in my home here  ,ng,FEMALE,29
+"['my, {f um, } <lipsmack> parents have one  /']",my f um  lipsmack parents have one  ,sd,FEMALE,1
+"['{c and } they live just about three miles away, /']",c and  they live just about three miles away ,sd,FEMALE,1
+['{f oh. } /'],f oh  ,bk,FEMALE,14
+['{c so } we use that one. /'],c so  we use that one ,sd,FEMALE,1
+['i see. /'],i see ,bk,FEMALE,14
+"['{c and } my in-laws also have one,  /']",c and  my inlaws also have one  ,sd,FEMALE,1
+"[""{c and } they're almost as close. /""]",c and  theyre almost as close ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""they're in richardson. /""]",theyre in richardson ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{c and } what kinds of things do you use it for [ when you us-, + when you go ] [ to their [ hous-, + houses ] + to them?  ] /']",c and  what kinds of things do you use it for  when you us  when you go   to their  hous  houses   to them   ,qw,FEMALE,12
+"['{f um, } usually, {f uh, } word processing something, {f um, } <lipsmack> such as, {f oh, } forms for things, {f uh, } -/']",f um  usually f uh  word processing something f um  lipsmack such as f oh  forms for things f uh  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c also } i have a nine year old that i've been home schooling for the last three years. /""]",c also  i have a nine year old that ive been home schooling for the last three years ,sd,FEMALE,1
+['{f oh. } /'],f oh  ,b,FEMALE,2
+"['{c and } we got, - /']",c and  we got  ,%,FEMALE,5
+"['{f uh, } the one that my parents have is an apple two e. /']",f uh  the one that my parents have is an apple two e ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } i have a sister-in-law [ who is, + who works ] in the fort worth school district. /']",c and  i have a sisterinlaw  who is  who works  in the fort worth school district ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and so } she got me copies of, {f uh, } several of the apple [ programs -- +']",c and so  she got me copies of f uh  several of the apple  programs  ,sd,FEMALE,1
+['great. /'],great ,ba,FEMALE,6
+"['-- for school programs, ] /']", for school programs  ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['{c and so } we use those  /'],c and so  we use those  ,sd,FEMALE,1
+"[""{c and } there's some, - /""]",c and  theres some  ,%,FEMALE,5
+"['whenever we go over and visit grandma the kids love to play the computer game,  /']",whenever we go over and visit grandma the kids love to play the computer game  ,sd,FEMALE,1
+"['{c so, }']",c so ,sd,FEMALE,1
+"['{f oh, } sure. /']",f oh  sure ,b,FEMALE,2
+"[""that's part of it.  /""]",thats part of it  ,+,FEMALE,0
+"['{f um, } my husband has used the one at his folks house for mostly business things.']",f um  my husband has used the one at his folks house for mostly business things,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f uh, } his resume, his, {f uh, } letter,  /']",f uh  his resume his f uh  letter  ,+,FEMALE,0
+"[""he's been applying for jobs and  things,""]",hes been applying for jobs and  things,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ so + ] that type of thing.  {f uh, } forms for his photography business,']", so   that type of thing  f uh  forms for his photography business,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['and that kind of thing. /'],and that kind of thing ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } i tell you once you get used to having them [ you, + you ] get spoiled really quickly. /']",d well  i tell you once you get used to having them  you  you  get spoiled really quickly ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f uh, } /']",f uh  ,b,FEMALE,2
+"[""i'm,  {f uh, } - /""]",im  f uh   ,%,FEMALE,5
+"['my father had a software company, /']",my father had a software company ,sd,FEMALE,1
+['{f oh. } /'],f oh  ,b,FEMALE,2
+['{c and } they have a bunch of computers leftover from that -- /'],c and  they have a bunch of computers leftover from that  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } we're hoping that they can put <talking> together something for us here that we can have the word processing,""]", c and  were hoping that they can put talking together something for us here that we can have the word processing,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['here <talking>.   /'],here talking   ,+,FEMALE,0
+"[""{c but, }  {f um, } they're kind of <talking> [ old -- +""]",c but   f um  theyre kind of talking  old  ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- older ]  /'], older   ,+,FEMALE,0
+"[""{c so } i'm not sure that we'll be able to [ do, + get ] too many other programs for it. /""]",c so  im not sure that well be able to  do  get  too many other programs for it ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{f um, } [ i n-, + i'm ] [ a, + a ] writer by profession  /""]",f um   i n  im   a  a  writer by profession  ,sd,FEMALE,1
+"['{c and, }  {f uh, } [ when, + when ] i was first here [ in, + in ] dallas or in plano, {f um, } [ and was finally able to, + {a this is, {f oh, } been like fourteen years ago we moved here. }  and i was finally able to ] afford a new typewriter, and i got an i b m selectric.  i thought i had died and gone to heaven because <laughter>,']",c and   f uh   when  when  i was first here  in  in  dallas or in plano f um   and was finally able to  a this is f oh  been like fourteen years ago we moved here   and i was finally able to  afford a new typewriter and i got an i b m selectric  i thought i had died and gone to heaven because laughter,sd,FEMALE,1
+['{f oh. } /'],f oh  ,b,FEMALE,2
+"[""i thought, {f oh, } they're so wonderful. /""]",i thought f oh  theyre so wonderful ,+,FEMALE,0
+['i have one of those.  /'],i have one of those  ,sd,FEMALE,1
+['yeah. /'],yeah ,%,FEMALE,5
+"['{d well, } then, {f um, } -/']",d well  then f um  ,%,FEMALE,5
+"[""mine's broke at the moment,  /""]",mines broke at the moment  ,sd,FEMALE,1
+['{c but } <laughter>. -/'],c but  laughter ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['<laughter> ours really needs to have some work done on it  /'],laughter ours really needs to have some work done on it  ,sd,FEMALE,1
+"['[ {c but, } +  {c but } ] then my husband, {f um, } worked at t i  /']", c but    c but   then my husband f um  worked at t i  ,sd,FEMALE,1
+"[""[ {c and } i got a, + {f um, } {a this has been years ago he doesn't work there anymore, } {c but } he got [ [ a, + {f um, } <lipsmack> {f uh, } the, ] + the ] ]  t i professional and brought that home  /""]", c and  i got a  f um  a this has been years ago he doesnt work there anymore  c but  he got   a  f um  lipsmack f uh  the   the    t i professional and brought that home  ,sd,FEMALE,1
+"['{c and } i learned wordstar on that, /']",c and  i learned wordstar on that ,sd,FEMALE,1
+['{f oh. } /'],f oh  ,b,FEMALE,2
+"['{c and, }  boy once that happened, there was just no way that i could ever go back to doing anything of length of the typewriter. /']",c and   boy once that happened there was just no way that i could ever go back to doing anything of length of the typewriter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ [ i learned, + i, ] + i learned ] wordstar, {f uh, }  /']",  i learned  i   i learned  wordstar f uh   ,sd,FEMALE,1
+['i did some typing for my father when he had the company -- /'],i did some typing for my father when he had the company  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and so } i learned that on there too,  /']", c and so  i learned that on there too  ,sd,FEMALE,1
+"['that was, -/']",that was ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['[ [ have you ever used, + do you use wordperfect ever? ] +  have you ever used wordperfect? ]   /']",  have you ever used  do you use wordperfect ever    have you ever used wordperfect    ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"[""i haven't.  /""]",i havent  ,ng,FEMALE,29
+"[""that's the one that my father, - /""]",thats the one that my father  ,sd,FEMALE,1
+"['{d well, } i guess i have used it once or twice. /']",d well  i guess i have used it once or twice ,arp_nd,FEMALE,34
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } it's the one that's on my father-in-law's computer. /""]",f uh  its the one thats on my fatherinlaws computer ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""he's got on i b m. /""]",hes got on i b m ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""that's probably where you've used it. /""]",thats probably where youve used it ,sv,FEMALE,3
+"[""[ {c and, } + {f uh, } {c so } ] that's the program that they're using there. /""]", c and   f uh  c so   thats the program that theyre using there ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['yeah. {f um, }  /']",yeah f um   ,b,FEMALE,2
+"['i have that on my, {f uh, } computer here  /']",i have that on my f uh  computer here  ,sd,FEMALE,1
+"['{c and } also, {f um, } i do some work at u t d  /']",c and  also f um  i do some work at u t d  ,sd,FEMALE,1
+"[""{c and, }  {f uh, } that's what they have there  /""]",c and   f uh  thats what they have there  ,sd,FEMALE,1
+"['{c and } it was just so  nice to be able just to step into the position [ and, + and ] [ already know the langu-, + {d you know, } already know [ the, + the ] software. ]   /']",c and  it was just so  nice to be able just to step into the position  and  and   already know the langu  d you know  already know  the  the  software    ,sd,FEMALE,1
+"[""{c and, }  {f um, } i don't know from my own experience,  {f um, }  /""]",c and   f um  i dont know from my own experience  f um   ,sd,FEMALE,1
+"['wordperfect is just so much better [ than, + than ] wordstar  at least the version of wordstar that i used to have.  /']",wordperfect is just so much better  than  than  wordstar  at least the version of wordstar that i used to have  ,sd,FEMALE,1
+['it may be improved by now  /'],it may be improved by now  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""that's what i've heard. /""]",thats what ive heard ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""[ it's, + {f uh, } wordstar was ] never very intuitive to me.  /""]", its  f uh  wordstar was  never very intuitive to me  ,sv,FEMALE,3
+"['{e i mean } {d you know, }  you, - /']",e i mean  d you know   you  ,%,FEMALE,5
+"['some of the commands just had nothing to do with, {d you know, } [ what you were supposed to be doing + [ what they, + what they ] did on the [ com-, + computer ] ]  /']",some of the commands just had nothing to do with d you know   what you were supposed to be doing   what they  what they  did on the  com  computer    ,sv,FEMALE,3
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{e i mean } like going, {f um, } forward and backward a word or up and down a line that sort of thing just, {d you know, } didn't match with the kinds of keys,""]",e i mean  like going f um  forward and backward a word or up and down a line that sort of thing just d you know  didnt match with the kinds of keys,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['you had to,']",you had to,sv,FEMALE,3
+['you were using. /'],you were using ,+,FEMALE,0
+"['memorize it, /']",memorize it ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['[ {c and, } + {c but } ] wordperfect is just a lot more intuitive in a lot of ways.   /']", c and   c but   wordperfect is just a lot more intuitive in a lot of ways   ,sv,FEMALE,3
+"['[ {c and } you, + {c and } it ] does a lot of things too that [ if you, + if you ] do any kind of, {f uh, } research or anything like that where you have to, {f uh, } use footnotes, it is just wonderful.']", c and  you  c and  it  does a lot of things too that  if you  if you  do any kind of f uh  research or anything like that where you have to f uh  use footnotes it is just wonderful,sv,FEMALE,3
+['{f oh. } /'],f oh  ,b,FEMALE,2
+['because it keeps track of all your footnotes. /'],because it keeps track of all your footnotes ,+,FEMALE,0
+"[""{f oh, } that's neat. /""]",f oh  thats neat ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{c and } [ if you add it, + if you put a footnote ] [ in, + in ] the middle, {d you know, } if you come up with some new piece of documentation and you put that in the middle of your paper and have to footnote it, [ you just change, + {f um, } it just automatically changes ] all your footnoting numbers for you. /']",c and   if you add it  if you put a footnote   in  in  the middle d you know  if you come up with some new piece of documentation and you put that in the middle of your paper and have to footnote it  you just change  f um  it just automatically changes  all your footnoting numbers for you ,sd,FEMALE,1
+"['{f oh, } how wonderful. /']",f oh  how wonderful ,ba,FEMALE,6
+"[""<lipsmack> {c so, } {d you know, } it's just, -/""]",lipsmack c so  d you know  its just ,%,FEMALE,5
+"['[ that, + i had heard that [ that was better. +']", that  i had heard that  that was better ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['that was a better one. ] ] /'],that was a better one   ,+,FEMALE,0
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['{c and } i think about how it used to be if you were doing a paper <laughter>  and you had to go back and retype everything,  /']",c and  i think about how it used to be if you were doing a paper laughter  and you had to go back and retype everything  ,sd,FEMALE,1
+"['{c and } {f oh, } it was just awful.   /']",c and  f oh  it was just awful   ,sv,FEMALE,3
+"[""{c so, } {f um, } i don't know i think we have just become really spoiled.   /""]",c so  f um  i dont know i think we have just become really spoiled   ,sv,FEMALE,3
+"['{c but } i think,']",c but  i think,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""it's a nice kind of way to be spoiled <laughter>. /""]",its a nice kind of way to be spoiled laughter ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['i agree <laughter>. /'],i agree laughter ,aa,FEMALE,4
+"['{c so, } {f um, } {d well, } i have not really paid much attention  (( because i )) - /']",c so  f um  d well  i have not really paid much attention   because i   ,sd,FEMALE,1
+"['clock, -/']",clock ,%,FEMALE,5
+['<talking>.'],talking,x,FEMALE,8
+"[""although i think we've probably been talking at least ten minutes - /""]",although i think weve probably been talking at least ten minutes  ,sd,FEMALE,1
+"['{c so, } {f um, } [ if you, + {f um, } unless you ] have some other things you want to talk about as having to do with p c -s. -/']",c so  f um   if you  f um  unless you  have some other things you want to talk about as having to do with p c s ,qy^d,FEMALE,16
+['not too much.  /'],not too much  ,ng,FEMALE,29
+"['[ what kind of, + what kind of ] things do you write? /']", what kind of  what kind of  things do you write ,qw,FEMALE,12
+"['{d well, } {f um, } i was a technical writer for many years, {f um, } /']",d well  f um  i was a technical writer for many years f um  ,arp_nd,FEMALE,34
+['{f oh } <baby_talking>. /'],f oh  babytalking ,bk,FEMALE,14
+['{c and } my husband and i actually met in a computer company.  /'],c and  my husband and i actually met in a computer company  ,sd,FEMALE,1
+"['{f um, } i was a tech writer  /']",f um  i was a tech writer  ,sd,FEMALE,1
+"['{c and } he was an engineer.  [ {c and, } +  {f uh, } {c so } ] i did tech writing for a number of years. /']",c and  he was an engineer   c and    f uh  c so   i did tech writing for a number of years ,sd,FEMALE,1
+['<baby_crying> <<talks to her baby>>.  go talk to daddy about it. /'],babycrying talks to her baby  go talk to daddy about it ,t3,FEMALE,35
+['<laughter>.'],laughter,x,FEMALE,8
+['excuse me. /'],excuse me ,ad,FEMALE,22
+"['{f oh, } sure. /']",f oh  sure ,aa,FEMALE,4
+['<<talks to her baby>> go on and talk to daddy about it </baby_crying>.  /'],talks to her baby go on and talk to daddy about it babycrying  ,t3,FEMALE,35
+['tell daddy i unplugged it for you.  /'],tell daddy i unplugged it for you  ,t3,FEMALE,35
+"[""{c but } you don't need to drag it down the hall <baby_crying>. /""]",c but  you dont need to drag it down the hall babycrying ,t3,FEMALE,35
+"['<laughter> got a problem, {f huh? }  /']",laughter got a problem f huh   ,qy,FEMALE,7
+"['<laughter> {f um, } /']",laughter f um  ,%,FEMALE,5
+"['<noise> [ daddy, + daddy ] came home and found her playing with the telephone that i had unplugged <laughter>. /']",noise  daddy  daddy  came home and found her playing with the telephone that i had unplugged laughter ,sd,FEMALE,1
+"['{f oh. }  trying to figure out what all that was about, {f huh? }  <laughter>. /']",f oh   trying to figure out what all that was about f huh   laughter ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{c but, }  {f um, } i have, - /']",c but   f um  i have  ,%,FEMALE,5
+"['{f um, } [ that, + that ] was the majority of my writing  although, {f um, } i have also done {f oh, } free lance magazine writing and some educational writing.   /']",f um   that  that  was the majority of my writing  although f um  i have also done f oh  free lance magazine writing and some educational writing   ,sd,FEMALE,1
+"['{c and, }  {f um, } <lipsmack> for a while i had [ a, + {f um, } <lipsmack> {f uh, } a ] partnership [ with a, + in an ] advertising agency with another woman who is [ a, + an ] artist.   /']",c and   f um  lipsmack for a while i had  a  f um  lipsmack f uh  a  partnership  with a  in an  advertising agency with another woman who is  a  an  artist   ,sd,FEMALE,1
+['{c so } i did some advertising and p r  /'],c so  i did some advertising and p r  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"[""{f um, } [ now i'm, + actually [ i'm, + i'm ] ] not working anymore.  /""]",f um   now im  actually  im  im   not working anymore  ,sd,FEMALE,1
+"[""[ i'm a student, + i'm a graduate student ]  /""]", im a student  im a graduate student   ,sd,FEMALE,1
+"[""{c so } i'm doing a lot of writing  /""]",c so  im doing a lot of writing  ,sd,FEMALE,1
+"['{c but, }  {f uh, } now all of the sc-, scholastic majors though, -/']",c but   f uh  now all of the sc scholastic majors though ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""<laughter> i've done [ a little, + a lot ] of different kinds,  /""]",laughter ive done  a little  a lot  of different kinds  ,sd,FEMALE,1
+"[""{c but } [ i, + i ] just know right now that i couldn't have put out half of what i did if that much without the being in computers  /""]",c but   i  i  just know right now that i couldnt have put out half of what i did if that much without the being in computers  ,sd,FEMALE,1
+"[""{c so } that's been really great.   /""]",c so  thats been really great   ,sd,FEMALE,1
+"[""[ {c and, }  {f uh, } i'm, + {c so }  i'm ] real spoiled. /""]", c and   f uh  im  c so   im  real spoiled ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""i'm anxious some day to have one here. /""]",im anxious some day to have one here ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i'm, - /""]",im  ,%,FEMALE,5
+['{c and } they just talked [ to + ] (( the [ other day )) +  other day ] about setting something up again  /'],c and  they just talked  to    the  other day    other day  about setting something up again  ,sd,FEMALE,1
+['{c so } --'],c so  ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- hopefully pretty soon we'll at least have the word processing.  /""]", hopefully pretty soon well at least have the word processing  ,+,FEMALE,0
+"[""my nine year old i've decided to teach her how to type --""]",my nine year old ive decided to teach her how to type ,sd,FEMALE,1
+['good. /'],good ,ba,FEMALE,6
+"['-- using the computer,  /']", using the computer  ,+,FEMALE,0
+['{c so. } -/'],c so  ,%,FEMALE,5
+"[""that's great. /""]",thats great ,ba,FEMALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+['yeah. /'],yeah ,b^m,FEMALE,24
+"[""i've, -/""]",ive ,%,FEMALE,5
+"['{d well, } those are skills that she certainly [ w-, + is ] going to need early on  /']",d well  those are skills that she certainly  w  is  going to need early on  ,sv,FEMALE,3
+"['[ {c and, } {d you know, } <lipsmack> the, +']", c and  d you know  lipsmack the ,sv,FEMALE,3
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"[""{c and } it ] seems like it's getting earlier and earlier with the children.  /""]",c and  it  seems like its getting earlier and earlier with the children  ,+,FEMALE,0
+"['{c so, }']",c so ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } i think that that would be [ a real, + a real, ] {f uh, } advantage [ to, + to ] her to have that and, {f uh, }']",f um  i think that that would be  a real  a real  f uh  advantage  to  to  her to have that and f uh ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['do it early,  /']",do it early  ,+,FEMALE,0
+"['{c so. } {f uh, } [ do yo-, + d-, ] -/']",c so  f uh   do yo  d  ,%,FEMALE,5
+"[""[ we've been, + we've been, ] {f uh, } writing a story together. /""]", weve been  weve been  f uh  writing a story together ,sd,FEMALE,1
+"['{f oh, } neat. /']",f oh  neat ,ba,FEMALE,6
+"['[ {c and so } i, + {c and } i ] wanted her to put it into the computer,']", c and so  i  c and  i  wanted her to put it into the computer,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['and then print it out and,']",and then print it out and,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"['make a book with it, {d you know. } /']",make a book with it d you know  ,+,FEMALE,0
+"['{f oh, } great. /']",f oh  great ,ba,FEMALE,6
+"[""{c and so } i decided {d well, } if she's going to do that, it would be a whole lot easier if she could type <laughter>. /""]",c and so  i decided d well  if shes going to do that it would be a whole lot easier if she could type laughter ,sd,FEMALE,1
+['right <laughter>. /'],right laughter ,b,FEMALE,2
+"[""{c so } we'll slowly learn just to type here {c and } [ {c then } -- +""]",c so  well slowly learn just to type here c and   c then   ,sd,FEMALE,1
+"[""that's great. /""]",thats great ,ba,FEMALE,6
+['-- {c then } ] put the story in. /'], c then   put the story in ,+,FEMALE,0
+"[""{d well, } [ that's a, + that's a ] skill that she can use for the rest of her life,  /""]",d well   thats a  thats a  skill that she can use for the rest of her life  ,sv,FEMALE,3
+['{c so } <laughter>.'],c so  laughter,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+['yes. /'],yes ,aa,FEMALE,4
+"['might as well start now, {f huh? }  <laughter>. /']",might as well start now f huh   laughter ,+,FEMALE,0
+['i agree. /'],i agree ,aa,FEMALE,4
+"['{d well, }  (( nola ))  i have enjoyed talking with you thoroughly.  /']",d well    nola   i have enjoyed talking with you thoroughly  ,fc,FEMALE,10
+"['this is really going to be fun i think, /']",this is really going to be fun i think ,fc,FEMALE,10
+['yeah. /'],yeah ,fc,FEMALE,10
+"['{c and, }  {f um, } my husband is a ham radio operator  /']",c and   f um  my husband is a ham radio operator  ,fc,FEMALE,10
+"['{c and } i think about all the people that he talks to all over the, -/']",c and  i think about all the people that he talks to all over the ,fc,FEMALE,10

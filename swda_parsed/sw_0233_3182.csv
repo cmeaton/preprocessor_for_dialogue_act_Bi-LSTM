@@ -1,0 +1,114 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['do you have any hobbies? /'],do you have any hobbies ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['i do. /'],i do ,sd,FEMALE,1
+['what are yours? /'],what are yours ,qw,FEMALE,12
+['china painting and ceramics. /'],china painting and ceramics ,sd,FEMALE,1
+"['{f ooh, } how great. /']",f ooh  how great ,ba,FEMALE,6
+['i enjoy it.  /'],i enjoy it  ,sd,FEMALE,1
+['uh-huh <<faint>>. /'],uhhuh faint ,b,FEMALE,2
+"['{f oh, } {f uh, } ceramic painting. /']",f oh  f uh  ceramic painting ,"fo_o_fw_""_by_bc",FEMALE,0
+['i enjoy the china more. /'],i enjoy the china more ,sd,FEMALE,1
+['the china more. /'],the china more ,b^m,FEMALE,24
+"['{c and } now that i have my eyes, <laughter> corrected to the point that i can see <breathing> the delicate part of china painting, i do enjoy it. /']",c and  now that i have my eyes laughter corrected to the point that i can see breathing the delicate part of china painting i do enjoy it ,sd,FEMALE,1
+['how did you ever get into that?  /'],how did you ever get into that  ,qw,FEMALE,12
+['that sounds so interesting. /'],that sounds so interesting ,sv,FEMALE,3
+"['my husband <breathing> kept begging me,  /']",my husband breathing kept begging me  ,sd,FEMALE,1
+"[""{c and } he's been dead now for twenty years,  /""]",c and  hes been dead now for twenty years  ,sd,FEMALE,1
+['{c so } you understand that this was a long time ago.  /'],c so  you understand that this was a long time ago  ,sd,FEMALE,1
+"['{c but } he finally brought me the china, the book, the brushes and he said i have made arrangements for your lessons. /']",c but  he finally brought me the china the book the brushes and he said i have made arrangements for your lessons ,sd,FEMALE,1
+"['how marvel-, - /']",how marvel  ,ba,FEMALE,6
+"['i, -/']",i ,%,FEMALE,5
+"[""{c and } i said i'll do it for three months  /""]",c and  i said ill do it for three months  ,sd,FEMALE,1
+"[""{c and } if i don't like it, that's it.  /""]",c and  if i dont like it thats it  ,sd,FEMALE,1
+"['{d well, } i painted <laughter> an awful lot until his death, which was several years.  /']",d well  i painted laughter an awful lot until his death which was several years  ,sd,FEMALE,1
+"[""{c and } it has just been the most relaxing, enjoyable <breathing>, self-satisfying thing i've had.  /""]",c and  it has just been the most relaxing enjoyable breathing selfsatisfying thing ive had  ,sd,FEMALE,1
+"['i, -/']",i ,%,FEMALE,5
+"['{d now, } do you do it just for yourself,  /']",d now  do you do it just for yourself  ,qy,FEMALE,7
+"['{c or } do you do it to give as gifts,  /']",c or  do you do it to give as gifts  ,qrr,FEMALE,33
+['{c or } do you actually sell it? /'],c or  do you actually sell it ,qrr,FEMALE,33
+['i have sold quite a bit.  /'],i have sold quite a bit  ,sd,FEMALE,1
+"['i give a lot to our two daughters that are grown and have their home <breathing>,  /']",i give a lot to our two daughters that are grown and have their home breathing  ,sd,FEMALE,1
+['{c and then } i just have the rest of my house with lot of hand painting in it.  /'],c and then  i just have the rest of my house with lot of hand painting in it  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f oh, } that sounds mar-, - /']",f oh  that sounds mar  ,ba,FEMALE,6
+"['{d now, } do you work outside of the home? /']",d now  do you work outside of the home ,qy,FEMALE,7
+['i have just retired. /'],i have just retired ,sd,FEMALE,1
+"[""you've just retired. /""]",youve just retired ,bf,FEMALE,20
+['yes. /'],yes ,aa,FEMALE,4
+"['{f oh, } {f oh, } what a <laughter> great --']",f oh  f oh  what a laughter great ,sv,FEMALE,3
+"['no,  /']",no  ,arp_nd,FEMALE,34
+"[""it's not, /""]",its not ,sd,FEMALE,1
+['-- hobby <laughter>.  /'], hobby laughter  ,+,FEMALE,0
+"['i, -/']",i ,%,FEMALE,5
+"[""<laughter> it's a great hobby,  /""]",laughter its a great hobby  ,sd,FEMALE,1
+"[""{c but } don't retire <laughter>. /""]",c but  dont retire laughter ,ad,FEMALE,22
+"[""don't retire. /""]",dont retire ,b^m,FEMALE,24
+"['{f oh, } /']",f oh  ,b,FEMALE,2
+"[""{d well, } {d see, } i don't, - /""]",d well  d see  i dont  ,sd,FEMALE,1
+"['i never, {f uh, } returned to work for the p-, - /']",i never f uh  returned to work for the p  ,sd,FEMALE,1
+['i have stayed home for about the last nine years. /'],i have stayed home for about the last nine years ,sd,FEMALE,1
+"['{f oh, } have, {d well, } -/']",f oh  have d well  ,%,FEMALE,5
+"[""we've transferred around,  /""]",weve transferred around  ,sd,FEMALE,1
+"['{c and } our last area was in a rural section right on the lake, {f uh, } on lake erie.  /']",c and  our last area was in a rural section right on the lake f uh  on lake erie  ,sd,FEMALE,1
+"['{c so } the lake life appealed to me,  /']",c so  the lake life appealed to me  ,sd,FEMALE,1
+"[""{c and } my husband's working  /""]",c and  my husbands working  ,sd,FEMALE,1
+['{c and } he left it up to me if i worked or not. /'],c and  he left it up to me if i worked or not ,sd,FEMALE,1
+['wow. /'],wow ,ba,FEMALE,6
+"['{c so, }  in my spare time, i love to sew.  /']",c so   in my spare time i love to sew  ,sd,FEMALE,1
+"[""there aren't too many people around anymore that really enjoy sewing,  /""]",there arent too many people around anymore that really enjoy sewing  ,sd,FEMALE,1
+['{c but } i do make all my own clothes  /'],c but  i do make all my own clothes  ,sd,FEMALE,1
+"['{c and } we recently purchased a new home,  /']",c and  we recently purchased a new home  ,sd,FEMALE,1
+"['{c so } i enjoy <breathing> doing my, {f uh, } toppers for my window applications --']",c so  i enjoy breathing doing my f uh  toppers for my window applications ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+['-- and things like that.  /'], and things like that  ,+,FEMALE,0
+"['{c but, }  {f uh, } just when i thought i really enjoyed my hobby, yours sounds great <laughter>. /']",c but   f uh  just when i thought i really enjoyed my hobby yours sounds great laughter ,sd,FEMALE,1
+"['<laughter> {d well, } my sister is the seamstress of the two of us.  /']",laughter d well  my sister is the seamstress of the two of us  ,sd,FEMALE,1
+"[""[ {c and, }  + {c but } ] she doesn't china paint  /""]", c and    c but   she doesnt china paint  ,sd,FEMALE,1
+['{c so } we both have our expertise side. /'],c so  we both have our expertise side ,sd,FEMALE,1
+['that is excellent. /'],that is excellent ,ba,FEMALE,6
+['what part of ohio are you in? /'],what part of ohio are you in ,qw,FEMALE,12
+"[""[ we're  in the sub-, +  i'm in the suburb ] of cleveland  /""]", were  in the sub   im in the suburb  of cleveland  ,sd,FEMALE,1
+"[""{c and } i'm about, {f uh, } fifteen miles, probably, from downtown cleveland, something like that.  /""]",c and  im about f uh  fifteen miles probably from downtown cleveland something like that  ,sd,FEMALE,1
+['{c and } cleveland is located right on lake erie  /'],c and  cleveland is located right on lake erie  ,sd,FEMALE,1
+"['{c and } prior to this, we were fifty miles west from here.  /']",c and  prior to this we were fifty miles west from here  ,sd,FEMALE,1
+['{c so } we were right on the lake.  /'],c so  we were right on the lake  ,sd,FEMALE,1
+"[""{c and } cleveland isn't all as bad as what you've heard <laughter>. /""]",c and  cleveland isnt all as bad as what youve heard laughter ,sd,FEMALE,1
+"[""{f oh, } what's that, -/""]",f oh  whats that ,%,FEMALE,5
+"['{c and } you do find people, {f uh, } into the crafts and [ the things that, + {f uh, } various things ] for spare time,  /']",c and  you do find people f uh  into the crafts and  the things that  f uh  various things  for spare time  ,sd,FEMALE,1
+"['{c but, }  i have never heard and i have actually never run into anyone into the china painting  /']",c but   i have never heard and i have actually never run into anyone into the china painting  ,sd,FEMALE,1
+"[""{c and } i'm just intrigued with it. /""]",c and  im just intrigued with it ,sd,FEMALE,1
+"['if you ever start, be sure and start with [ a large piece that you can, +   {e i mean } a large flat plate. ]  /']",if you ever start be sure and start with  a large piece that you can    e i mean  a large flat plate   ,sd,FEMALE,1
+"['{f um, } that way you can get the feel of, - /']",f um  that way you can get the feel of  ,sd,FEMALE,1
+"[""you're not cramped on these smaller objects. /""]",youre not cramped on these smaller objects ,sd,FEMALE,1
+"['right,  /']",right  ,b,FEMALE,2
+"[""where you're getting into the delicate work. /""]",where youre getting into the delicate work ,sd,FEMALE,1
+"[""that's right. /""]",thats right ,ba,FEMALE,6
+"['{d now, } [ do you, + where did you ] first get your lessons from? /']",d now   do you  where did you  first get your lessons from ,qw,FEMALE,12
+"['in abilene, texas. /']",in abilene texas ,sd,FEMALE,1
+"['through [ a, + {f uh, } an ] adult ed, or strictly a china type, /']",through  a  f uh  an  adult ed or strictly a china type ,qy^d,FEMALE,16
+['she just taught china painting.  /'],she just taught china painting  ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['{f oh, } how marvelous. /']",f oh  how marvelous ,ba,FEMALE,6
+"['[ then, + then ] we had so much fun there,  /']", then  then  we had so much fun there  ,sd,FEMALE,1
+"['i had a friend from albany, which is about thirty-six miles away,  /']",i had a friend from albany which is about thirtysix miles away  ,sd,FEMALE,1
+"[""{c and } we would meet every thursday morning at our instructor's home, because she did our firing for us,  /""]",c and  we would meet every thursday morning at our instructors home because she did our firing for us  ,sd,FEMALE,1
+['{c and } she would help us  /'],c and  she would help us  ,sd,FEMALE,1
+"['{c and } we bought lots of equipment from her, supplies  /']",c and  we bought lots of equipment from her supplies  ,sd,FEMALE,1
+['{c and } it was just such a delightful time.  /'],c and  it was just such a delightful time  ,sd,FEMALE,1
+"['{c and then } after i, -/']",c and then  after i ,%,FEMALE,5
+"[""{f oh, } {c and } it's so nice, /""]",f oh  c and  its so nice ,ba,FEMALE,6
+['beg pardon? /'],beg pardon ,br,FEMALE,30
+"[""it must be so nice for you, now that you're retired. /""]",it must be so nice for you now that youre retired ,sv,FEMALE,3
+"[""i <breathing> have been a little bit negligent about it because i was so tired when i had to go to work after my husband's death.  /""]",i breathing have been a little bit negligent about it because i was so tired when i had to go to work after my husbands death  ,sd,FEMALE,1
+"['{c so } i have put it aside for a little while,  /']",c so  i have put it aside for a little while  ,sd,FEMALE,1
+"[""{c but } [ i'm, + i ] have just found me an instructor to get started again,  /""]",c but   im  i  have just found me an instructor to get started again  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f oh, } isn't that great.  /""]",f oh  isnt that great  ,ba,FEMALE,6
+"[""{c and } you'll probably really, {f uh, } [ re-, + regain ] your enthusiasm for it --""]",c and  youll probably really f uh   re  regain  your enthusiasm for it ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- once you get into [ a, + a ] class again. /']", once you get into  a  a  class again ,+,FEMALE,0
+"['of course, i just have one  beautiful [ p-, +  with peonies,  ] {f uh, } umbrella stand,  /']",of course i just have one  beautiful  p   with peonies   f uh  umbrella stand  ,sd,FEMALE,1
+['{c and } i have two daughters  /'],c and  i have two daughters  ,sd,FEMALE,1
+"[""{c and } they're both, -/""]",c and  theyre both ,%,FEMALE,5

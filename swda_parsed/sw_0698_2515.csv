@@ -1,0 +1,208 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['hi, maureen.  /']",hi maureen  ,fp,FEMALE,32
+['how are you? /'],how are you ,fp,FEMALE,32
+['all right. /'],all right ,fp,FEMALE,32
+['{d well } do you have a family budget? /'],d well  do you have a family budget ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['we probably should,  /']",we probably should  ,sd,FEMALE,1
+"[""{c but } we haven't.  /""]",c but  we havent  ,sd,FEMALE,1
+"[""{c so } why don't you explain to me some good tips about what you've done,  which you've found useful and workable. /""]",c so  why dont you explain to me some good tips about what youve done  which youve found useful and workable ,ad,FEMALE,22
+['okay.  /'],okay  ,aa,FEMALE,4
+"['we do a few things,  /']",we do a few things  ,sd,FEMALE,1
+"[""{c and } i have to say [ we're, +  my husband and i are ] both from financial backgrounds.  /""]",c and  i have to say  were   my husband and i are  both from financial backgrounds  ,sd,FEMALE,1
+"[""[ i, +  i'm ] an accountant. /""]", i   im  an accountant ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } he has an m b a,  /']",c and  f uh  he has an m b a  ,sd,FEMALE,1
+"['{c so, } {f uh, } we were sort of, {d you know, } keyed in on expenses and things like that.  /']",c so  f uh  we were sort of d you know  keyed in on expenses and things like that  ,sd,FEMALE,1
+['{c so } <laughter>. -/'],c so  laughter ,%,FEMALE,5
+"['{f um, } okay. /']",f um  okay ,b,FEMALE,2
+"['{f um, } coming from that background,  what we pretty much do is [ we, +  in our household, as far as living expenses, we ]  live on a cash budget.  /']",f um  coming from that background  what we pretty much do is  we   in our household as far as living expenses we   live on a cash budget  ,sd,FEMALE,1
+"['every month, my husband, {f uh, } goes to the credit union and  withdraws, {d you know, } x amount of dollars for the month,  /']",every month my husband f uh  goes to the credit union and  withdraws d you know  x amount of dollars for the month  ,sd,FEMALE,1
+['{c and } then that  money is used during that month.  /'],c and  then that  money is used during that month  ,sd,FEMALE,1
+['we have a certain budget. /'],we have a certain budget ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['<cough> {e excuse me. }  for instance,  i control all the household expenses, the groceries, {f uh, } the haircuts, the gasoline  for my car, any miscellaneous expenses, baby-sitting, things like that. /']",cough e excuse me   for instance  i control all the household expenses the groceries f uh  the haircuts the gasoline  for my car any miscellaneous expenses babysitting things like that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, } {f uh, } <cough> {d excuse me, }  if, {f uh, } it comes the end of the month and i don't have any money, {f uh, } <laughter>  we don't buy any more milk <laughter>. /""]",c and  f uh  cough d excuse me   if f uh  it comes the end of the month and i dont have any money f uh  laughter  we dont buy any more milk laughter ,sd,FEMALE,1
+['uh-huh  /'],uhhuh  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c but, } {f uh, } we've gotten pretty  good at it,  /""]",c but  f uh  weve gotten pretty  good at it  ,sv,FEMALE,3
+"[""we've been doing it a couple of years now. /""]",weve been doing it a couple of years now ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so, } [ we, +  our ] budgets are realistic  /']",c so   we   our  budgets are realistic  ,sv,FEMALE,3
+"['{c and } they are not so stringent [ and, + ] {d you know } to make us feel uncomfortable. /']",c and  they are not so stringent  and   d you know  to make us feel uncomfortable ,sv,FEMALE,3
+['{f hm. } /'],f hm  ,%,FEMALE,5
+"[""{c and } [ i, + i ] really try to stretch  [ my, +  my ] dollars here and there, shopping, {f uh, } at warehouses sometimes, {d like } at sam's and  things like that. /""]",c and   i  i  really try to stretch   my   my  dollars here and there shopping f uh  at warehouses sometimes d like  at sams and  things like that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } {f uh, } [ we live, +  we live ]  [ on, + on ] a cash budget  /']",c but  f uh   we live   we live    on  on  a cash budget  ,sd,FEMALE,1
+"[""{c and }  [ it, +  sometimes it's ] tight come the end of the month,  /""]",c and    it   sometimes its  tight come the end of the month  ,sd,FEMALE,1
+"['{c but } generally, we always make it. /']",c but  generally we always make it ,sd,FEMALE,1
+"[""what do you do for the surprise things  that you don't necessarily plan for,  /""]",what do you do for the surprise things  that you dont necessarily plan for  ,qw,FEMALE,12
+"['the, {d you know } are sometimes several hundred  dollars, like, {f uh, } tires for the car or car repair of some sort,']",the d you know  are sometimes several hundred  dollars like f uh  tires for the car or car repair of some sort,qrr,FEMALE,33
+['right. /'],right ,b,FEMALE,2
+"[""or, {d like } [ a, +  a ] dental bill  or something that you're not prepared for? /""]",or d like   a   a  dental bill  or something that youre not prepared for ,+,FEMALE,0
+"[""{d well, } {f uh, } most of our medical  things, we don't, {f uh, } have to worry about, because of insurance  /""]",d well  f uh  most of our medical  things we dont f uh  have to worry about because of insurance  ,sd,FEMALE,1
+"[""{c and } [ they're, +   they're ] relatively small.  /""]",c and   theyre    theyre  relatively small  ,sd,FEMALE,1
+"[""{f uh, } we've been lucky.  /""]",f uh  weve been lucky  ,sv,FEMALE,3
+"[""in the past we didn't have that problem  /""]",in the past we didnt have that problem  ,sd,FEMALE,1
+"[""{c but } right now we don't.  /""]",c but  right now we dont  ,sd,FEMALE,1
+"[""for  the other things, the things that crop up,  that we aren't really expecting, we have different funds set aside for different things.  /""]",for  the other things the things that crop up  that we arent really expecting we have different funds set aside for different things  ,sd,FEMALE,1
+['{d like } we have a car fund  /'],d like  we have a car fund  ,sd,FEMALE,1
+['{c and } we put a certain amount of money  into that every single month whether we need to or not. /'],c and  we put a certain amount of money  into that every single month whether we need to or not ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{d so, } {e i mean, } - /']",d so  e i mean   ,%,FEMALE,5
+"[""{c and }  [ i, + i ] can't really remember what it is. /""]",c and    i  i  cant really remember what it is ,sd,FEMALE,1
+"['do you kind of continue, call this  {d like, } a part of savings account or a different savings account  /']",do you kind of continue call this  d like  a part of savings account or a different savings account  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"[""it's all part of the savings account.  /""]",its all part of the savings account  ,sd,FEMALE,1
+['we just keep track of it on paper.  /'],we just keep track of it on paper  ,sd,FEMALE,1
+"['{f uh, } {d you know } a certain amount goes  straight to the savings account.  /']",f uh  d you know  a certain amount goes  straight to the savings account  ,sd,FEMALE,1
+"[""we decide, okay, {d you know, } let's say  it's a hundred dollars.  /""]",we decide okay d you know  lets say  its a hundred dollars  ,sd,FEMALE,1
+"['{d you know, } every month fifteen dollars is for car fund.  {d you know, } /']",d you know  every month fifteen dollars is for car fund  d you know  ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['ten dollars is for vacation fund whatever.  /'],ten dollars is for vacation fund whatever  ,sd,FEMALE,1
+"[""{f uh, } {c and } [ we just, +  we ] constantly do that,  so that there's a buildup of money  for those things if something does come up.  /""]",f uh  c and   we just   we  constantly do that  so that theres a buildup of money  for those things if something does come up  ,sd,FEMALE,1
+['{d like } i know that my washing  machine is going to go any day. /'],d like  i know that my washing  machine is going to go any day ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,FEMALE,2
+"['[ {c so, } +  {c but, } ] we have the  money set aside,  /']", c so    c but   we have the  money set aside  ,sd,FEMALE,1
+"[""{c so } if it does it's not going to kill us. /""]",c so  if it does its not going to kill us ,sd,FEMALE,1
+['hm. /'],hm ,b,FEMALE,2
+"[""{f uh, } {c so } [ [ we're, +  we're  actually, ] +  we're ] pretty disciplined,  /""]",f uh  c so    were   were  actually    were  pretty disciplined  ,sv,FEMALE,3
+['{c so } it makes those surprises not so difficult to get through. /'],c so  it makes those surprises not so difficult to get through ,sv,FEMALE,3
+"['okay,  /']",okay  ,b,FEMALE,2
+"['then, {d so } {d like } your  pay, what kind of a percentage do you basically keep out that you think that, {d you know, }  will cover all of the expenses, kind of thing? /']",then d so  d like  your  pay what kind of a percentage do you basically keep out that you think that d you know   will cover all of the expenses kind of thing ,qw,FEMALE,12
+"['{d well, } in. -/']",d well  in ,%,FEMALE,5
+"['{c or } {d like } [ what, +  what ]  percent, do you then save or something? /']",c or  d like   what   what   percent do you then save or something ,qo,FEMALE,25
+"['{f uh, } we have a lot of different  things.  /']",f uh  we have a lot of different  things  ,sd,FEMALE,1
+"['right now, we save about twenty-five percent [ of our, + of our ] pay. /']",right now we save about twentyfive percent  of our  of our  pay ,sd,FEMALE,1
+"['{f hm, } okay. /']",f hm  okay ,bk,FEMALE,14
+"['[ it, +  {c and } it ] goes toward  different things,  /']", it   c and  it  goes toward  different things  ,sd,FEMALE,1
+"[""it's [ for, +   {d you know, } for ] vacations  like i said, for, {d you know, } emergencies  {d like } for car, {f uh, } breaks down, something like that. /""]",its  for    d you know  for  vacations  like i said for d you know  emergencies  d like  for car f uh  breaks down something like that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } {c and } we also put money  aside for our kids college. /']",f uh  c and  we also put money  aside for our kids college ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['neither of us had any help with our  college degrees,  /']",neither of us had any help with our  college degrees  ,sd,FEMALE,1
+['{c and } just this last month we paid off my final school loan.  /'],c and  just this last month we paid off my final school loan  ,sd,FEMALE,1
+['{c so } <laughter>. -/'],c so  laughter ,%,FEMALE,5
+['oh. /'],oh ,b,FEMALE,2
+"[""we're starting our kids a little bit early. /""]",were starting our kids a little bit early ,sd,FEMALE,1
+['okay. /'],okay ,b,FEMALE,2
+"['do you, {f uh, } use a lot of credit  cards or your checking account when you go out and buy things? /']",do you f uh  use a lot of credit  cards or your checking account when you go out and buy things ,qy,FEMALE,7
+"['checking account a lot, {f uh, } not  so much credit cards.  /']",checking account a lot f uh  not  so much credit cards  ,sd,FEMALE,1
+['sure. /'],sure ,b,FEMALE,2
+"[""{c and so }  pretty much now, {f uh, } we don't use them  too much.  /""]",c and so   pretty much now f uh  we dont use them  too much  ,sd,FEMALE,1
+"['if we travel or something, yeah. but, {d you know. }']",if we travel or something yeah but d you know ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""standard, we usually don't.  /""]",standard we usually dont  ,+,FEMALE,0
+"[""{c or } if [ it, +  it ] is a purchase, {f uh, } then it's paid off when the bill comes.  /""]",c or  if  it   it  is a purchase f uh  then its paid off when the bill comes  ,sd,FEMALE,1
+"[""{d you know, }  {c so } it isn't any extended, {f uh, }  /""]",d you know   c so  it isnt any extended f uh   ,sd,FEMALE,1
+"['it may be that i picked up something at the store,  /']",it may be that i picked up something at the store  ,sd,FEMALE,1
+"['{c but } then when the bill comes we always pay it off then,  /']",c but  then when the bill comes we always pay it off then  ,sd,FEMALE,1
+"[""{c so } it's not any,  {d you know, } {f uh, } build up on the charge cards at all. /""]",c so  its not any  d you know  f uh  build up on the charge cards at all ,sd,FEMALE,1
+"[""that's good. /""]",thats good ,ba,FEMALE,6
+"[""[ {c and, } + {c but } ] that hasn't  always been the case <laughter>.  /""]", c and   c but   that hasnt  always been the case laughter  ,sd,FEMALE,1
+"[""{c so, } i'm kind of, - /""]",c so  im kind of  ,%,FEMALE,5
+"['i feel at least better now that i have finally  gotten some of those things, {f uh, } {d you know, } in the past,  /']",i feel at least better now that i have finally  gotten some of those things f uh  d you know  in the past  ,sv,FEMALE,3
+"[""{c and } i don't  have, {d you know, } big cumulative amounts due to those charge cards, because that interest  rate just is a killer. /""]",c and  i dont  have d you know  big cumulative amounts due to those charge cards because that interest  rate just is a killer ,sv,FEMALE,3
+"[""{f oh, } {c and } it's not deductible anymore. /""]",f oh  c and  its not deductible anymore ,sv,FEMALE,3
+"['<laughter> yeah,  /']",laughter yeah  ,b,FEMALE,2
+"[""{d well, } i've never  been in the situation of itemizing anyhow.  /""]",d well  ive never  been in the situation of itemizing anyhow  ,sd,FEMALE,1
+"['{c but, } {f uh, } pretty much when  [ i always, + i ] go to the grocery store or  something i just always write checks. /']",c but  f uh  pretty much when   i always  i  go to the grocery store or  something i just always write checks ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['[ we did, +  we did ] that for  a long time  /']", we did   we did  that for  a long time  ,sd,FEMALE,1
+['{c and } it got to the point where we had no idea how much we were spending on things. /'],c and  it got to the point where we had no idea how much we were spending on things ,sd,FEMALE,1
+['{f hm. } /'],f hm  ,b,FEMALE,2
+"[""{c and } it seemed like we didn't have  enough money when things cropped up, {d you know, } /""]",c and  it seemed like we didnt have  enough money when things cropped up d you know  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c so } we decided to put ourselves  on a cash budget.  /'],c so  we decided to put ourselves  on a cash budget  ,sd,FEMALE,1
+"['{d well } the first time we did it, we just took some arbitrary amount  that we estimated it would be, /']",d well  the first time we did it we just took some arbitrary amount  that we estimated it would be ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } then we kept track of everything for a month.'],c and  then we kept track of everything for a month,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } how much we spent on  food, how much we spent on gasoline, how much we spent on everything,']",d you know  how much we spent on  food how much we spent on gasoline how much we spent on everything,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } from that built, {d you know, }  a cash budget.  /']",c and  from that built d you know   a cash budget  ,+,FEMALE,0
+"['{c so } now, {e i mean, } i have, - /']",c so  now e i mean  i have  ,%,FEMALE,5
+"[""i don't remember what it is now, four hundred  dollars for the month, let's say. /""]",i dont remember what it is now four hundred  dollars for the month lets say ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } {e i mean } some  months i may spend three hundred on groceries and a hundred on everything else,  /']",c and  f uh  e i mean  some  months i may spend three hundred on groceries and a hundred on everything else  ,sd,FEMALE,1
+['{c and } some months it may be different. /'],c and  some months it may be different ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's not as though we feel like we have  to keep ourselves, {d you know, } down to the dollar or the penny in certain  categories kind of thing,  /""]",its not as though we feel like we have  to keep ourselves d you know  down to the dollar or the penny in certain  categories kind of thing  ,sv,FEMALE,3
+"['{c but } the way we set up, {d you know } the amount that we want  to save and the amounts that we have to spend for, {d you know, } {f uh, }  utilities and, {f uh, } the house payment and all that. /']",c but  the way we set up d you know  the amount that we want  to save and the amounts that we have to spend for d you know  f uh   utilities and f uh  the house payment and all that ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""those are things you don't really have  much control over. /""]",those are things you dont really have  much control over ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } the cash budget just fits  right in there <laughter>,  /']",f uh  the cash budget just fits  right in there laughter  ,sv,FEMALE,3
+"[""like i said if we don't have, we also set aside money for entertainment.  /""]",like i said if we dont have we also set aside money for entertainment  ,sd,FEMALE,1
+"[""{e i mean, } {c but } again it's a set amount every month.""]",e i mean  c but  again its a set amount every month,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } on special occasions,  {e i mean } birthdays and things like that.  /']",c and  f uh  on special occasions  e i mean  birthdays and things like that  ,+,FEMALE,0
+"[""[ [ we, +  we don't, ] +  we still have ] fun on things <laughter>. /""]",  we   we dont    we still have  fun on things laughter ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{f uh, } we are in the process  of trying to buy a house,  /']",f uh  we are in the process  of trying to buy a house  ,sd,FEMALE,1
+"['do you know, how did your budget work  /']",do you know how did your budget work  ,qw,FEMALE,12
+"['{c or } did you have a  budget to, {f uh, } get your down payment going to get a house? /']",c or  did you have a  budget to f uh  get your down payment going to get a house ,qrr,FEMALE,33
+"['{d well, } no  /']",d well  no  ,nn,FEMALE,13
+"['not originally, because  [ [  when [ we, +  we ] did buy, ] +  when we bought ] our first house, it was at a time where you - /']",not originally because     when  we   we  did buy    when we bought  our first house it was at a time where you  ,sv,FEMALE,3
+"[""{c and }  the kind of loan we got, you really didn't have to put down anything. /""]",c and   the kind of loan we got you really didnt have to put down anything ,sv,FEMALE,3
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"['{c so, } we got into it fairly cheaply,  /']",c so  we got into it fairly cheaply  ,sv,FEMALE,3
+"['{c and then, } {f uh, } after we sold the first house, we were left with enough cash that there  was enough to make the down payment on this house. /']",c and then  f uh  after we sold the first house we were left with enough cash that there  was enough to make the down payment on this house ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"['{c so, } [ we, +  we ] got out of  that one pretty easily <laughter>. /']",c so   we   we  got out of  that one pretty easily laughter ,sd,FEMALE,1
+"['okay, {f uh, }  /']",okay f uh   ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i just keep  thinking all the time - /'],i just keep  thinking all the time  ,sd,FEMALE,1
+"[""{e i mean, } [ it, +  it's ] really rough to keep yourself on a strict budget  for a long long time when [ your, +  {d you know, } your ] priority, {a at least mine }  is  to save for the house.  /""]",e i mean   it   its  really rough to keep yourself on a strict budget  for a long long time when  your   d you know  your  priority a at least mine   is  to save for the house  ,sv,FEMALE,3
+"[""{c but } then it's awful hard to really scrimp for a long, long time and  keep putting all the money into that down payment.  /""]",c but  then its awful hard to really scrimp for a long long time and  keep putting all the money into that down payment  ,sv,FEMALE,3
+['you feel like  you want to live a little bit in the meantime. /'],you feel like  you want to live a little bit in the meantime ,sv,FEMALE,3
+"['sure,  /']",sure  ,aa,FEMALE,4
+['i know. /'],i know ,aa,FEMALE,4
+['<laughter>.'],laughter,x,FEMALE,8
+"[""that's how i feel sometimes about my  kids' education,  /""]",thats how i feel sometimes about my  kids education  ,sv,FEMALE,3
+"['{e i mean } jeez, they are one and four <laughter>. /']",e i mean  jeez they are one and four laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['we have got a long time to save,  /']",we have got a long time to save  ,sd,FEMALE,1
+"[""my husband, [ he's the real, +  he's the real ] disciplinarian when it comes to that money usually. /""]",my husband  hes the real   hes the real  disciplinarian when it comes to that money usually ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f oh, } no,  /']",f oh  no  ,sv,FEMALE,3
+['no <laughter>. /'],no laughter ,sv,FEMALE,3
+"['{d well, } i know,  /']",d well  i know  ,ba,FEMALE,6
+"['{c but } there  are times when i sit there and i think, wow, {d you know } we make x amount of money and where is it.  /']",c but  there  are times when i sit there and i think wow d you know  we make x amount of money and where is it  ,sv,FEMALE,3
+['{e i mean } you look # around  /'],e i mean  you look  around  ,sv,FEMALE,3
+"['{c and }  you go, #']",c and   you go ,sd,FEMALE,1
+"['# what do you do with it,  /']", what do you do with it  ,^2,FEMALE,23
+['i know. # /'],i know  ,ba,FEMALE,6
+"['where is it,  /']",where is it  ,+,FEMALE,0
+"[""[ you, +  you ] haven't  made, {f uh, } big purchases  /""]", you   you  havent  made f uh  big purchases  ,sv,FEMALE,3
+"[""{c and } that's the easier thing to see,  /""]",c and  thats the easier thing to see  ,sv,FEMALE,3
+"['if you can see a big purchase and  you go okay, {d well } this is the year that we bought the couch or the t v,']",if you can see a big purchase and  you go okay d well  this is the year that we bought the couch or the t v,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['or something like that. - /'],or something like that  ,+,FEMALE,0
+"['{c but, }  all those, just monthly payments and stuff that just go out the door  /']",c but   all those just monthly payments and stuff that just go out the door  ,sd,FEMALE,1
+"[""{c and } there's  big chunks of your money to pay {d like } the utilities and the gas and the groceries,""]",c and  theres  big chunks of your money to pay d like  the utilities and the gas and the groceries,sd,FEMALE,1
+['and stuff.  /'],and stuff  ,+,FEMALE,0
+"[""that you don't have  [ tangible, +  {e i mean } the perishable ] kind of things that's [ gone, +  used and gone. ] /""]",that you dont have   tangible   e i mean  the perishable  kind of things thats  gone   used and gone  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""[ it's, +  it's ] amazing how  much we spend on some things.  /""]", its   its  amazing how  much we spend on some things  ,sv,FEMALE,3
+['my husband cut himself down to ten dollars a week for his lunch at work. /'],my husband cut himself down to ten dollars a week for his lunch at work ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""{c and } that's all he has,  /""]",c and  thats all he has  ,sd,FEMALE,1
+['he has a ten dollar bill. /'],he has a ten dollar bill ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"[""[ {c and, } +  {e i mean, } {c so } ] i'd say  at least, two usually three times a week he takes his lunch. /""]", c and    e i mean  c so   id say  at least two usually three times a week he takes his lunch ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""the other times, he'll, {f uh, }  i don't know go out somewhere,""]",the other times hell f uh   i dont know go out somewhere,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['eat in a cafeteria or whatever.  /'],eat in a cafeteria or whatever  ,+,FEMALE,0
+"['[ {c but, } +  {c but } ] he keeps himself on that,  /']", c but    c but   he keeps himself on that  ,sd,FEMALE,1
+"[""{e i mean, } he found [ it's, +  it's ] so easy to  spend five dollars a day on lunch. /""]",e i mean  he found  its   its  so easy to  spend five dollars a day on lunch ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""that's a hundred dollars a month on lunch. /""]",thats a hundred dollars a month on lunch ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ that's, +  that's ] twelve hundred  dollars a year just on lunch. /""]", thats   thats  twelve hundred  dollars a year just on lunch ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter>.'],laughter,x,FEMALE,8
+['yeah. /'],yeah ,b,FEMALE,2
+"['when he can take a sandwich, {d you know. } -/']",when he can take a sandwich d you know  ,sd,FEMALE,1

@@ -1,0 +1,177 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+['gene <breathing>.  /'],gene breathing  ,sd,MALE,1
+"[""{d so, }  it's nice to talk with you  /""]",d so   its nice to talk with you  ,fp,MALE,32
+"['{c and, } {f um, } food is a very intriguing thing.  /']",c and  f um  food is a very intriguing thing  ,sv,MALE,3
+"['our lives [ are, +   are ] built around foods that we like   and, [ an-, + ] nutritionally good for us. /']",our lives  are    are  built around foods that we like   and  an   nutritionally good for us ,sv,MALE,3
+"['yes, sir. /']",yes sir ,ba,MALE,6
+['what kind of dining out do you like? /'],what kind of dining out do you like ,qw,MALE,12
+"['<breathing> {d well, } there is two kinds.  /']",breathing d well  there is two kinds  ,sd,MALE,1
+"[""one i guess i'd say is with my wife where [ we enjoy, +  {f uh } --""]",one i guess id say is with my wife where  we enjoy   f uh  ,sd,MALE,1
+['oh. /'],oh ,b,MALE,2
+"['-- {f oh, } i guess we usually enjoy ]  a good seafood restaurant.  /']", f oh  i guess we usually enjoy   a good seafood restaurant  ,+,MALE,0
+"['{f uh, } {d you know, } something nice. /']",f uh  d you know  something nice ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c and } the other is with my whole  family whom we, {f uh, } go somewhere that the kids will enjoy <breathing>.  /']",c and  the other is with my whole  family whom we f uh  go somewhere that the kids will enjoy breathing  ,sd,MALE,1
+"[""{f uh, } recently we have been hitting pancho's up.  /""]",f uh  recently we have been hitting panchos up  ,sd,MALE,1
+"[""it's a local mexican restaurant. /""]",its a local mexican restaurant ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['((   ))  because they have got [ a  good rate on, +  {d you know, } good prices ] and  everything. /']",     because they have got  a  good rate on   d you know  good prices  and  everything ,sd,MALE,1
+"[""pancho's, that's,""]",panchos thats,qy^d,MALE,16
+['# yeah. # /'], yeah  ,b,MALE,2
+['# a new # one. /'], a new  one ,+,MALE,0
+"['# yeah, # /']", yeah  ,ny,MALE,9
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""[ it's, +  it's ] a chain down he-, {f uh, } - /""]", its   its  a chain down he f uh   ,sd,MALE,1
+['it goes up into colorado and down here.  /'],it goes up into colorado and down here  ,sd,MALE,1
+"[""i don't know where else it is.  /""]",i dont know where else it is  ,sd,MALE,1
+['# what about you? # /'], what about you  ,qo,MALE,25
+"[""# we have # one called chi chi's  [ in th-, +  in our ] area. /""]", we have  one called chi chis   in th   in our  area ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['{c and, } {f uh, } we had a restaurant  called la bamba  /']",c and  f uh  we had a restaurant  called la bamba  ,sd,MALE,1
+"[""{c but } [ it's just, +  it closed ]  recently.  /""]",c but   its just   it closed   recently  ,sd,MALE,1
+"[""{c but } chi chi's is a national  restaurant, i think.  /""]",c but  chi chis is a national  restaurant i think  ,sv,MALE,3
+"[""isn't it mexican? /""]",isnt it mexican ,qy,MALE,7
+"['# i [ think, # +']", i  think  ,sv,MALE,3
+['# do you # have it there? /'], do you  have it there ,qy,MALE,7
+['think ] it might be.  /'],think  it might be  ,+,MALE,0
+"[""[ i've se-, +   i think i've seen ] it around.  /""]", ive se    i think ive seen  it around  ,sd,MALE,1
+"['# yes, sir. # /']", yes sir  ,ny,MALE,9
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['# yeah. # /'], yeah  ,b,MALE,2
+"['# {d well, } # i love mexican food myself. /']", d well   i love mexican food myself ,sd,MALE,1
+"['{f oh, } do you?  /']",f oh  do you  ,bh,MALE,18
+['yeah. /'],yeah ,%,MALE,5
+['{c but } you go ahead now <laughter>. /'],c but  you go ahead now laughter ,ad,MALE,22
+"['{f oh, } [ we, +  we ] do too.  /']",f oh   we   we  do too  ,sd,MALE,1
+"['[ we, +  {f uh, } we ] enjoy mexican food. /']", we   f uh  we  enjoy mexican food ,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"[""i'm just not impressed with the quality  of it.  /""]",im just not impressed with the quality  of it  ,sd,MALE,1
+"[""it's just primarily the price that's, {f uh, } satisfying at this point. #  /""]",its just primarily the price thats f uh  satisfying at this point   ,sd,MALE,1
+"['{c but } the kids, #']",c but  the kids ,sv,MALE,3
+['# is that right? # /'], is that right  ,qy,MALE,7
+['seem to enjoy it. /'],seem to enjoy it ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{f uh, } {c and, } {f uh, } let's see.  /""]",f uh  c and  f uh  lets see  ,^h,MALE,27
+"[""we've, {f uh, } just recently discovered a super restaurant down here  /""]",weve f uh  just recently discovered a super restaurant down here  ,sd,MALE,1
+"[""{c but } it's, {f uh, }  not part of a chain  /""]",c but  its f uh   not part of a chain  ,sd,MALE,1
+"[""it's just an individually owned seafood restaurant.  /""]",its just an individually owned seafood restaurant  ,sd,MALE,1
+"[""{c but } the first one we've been to that, {f uh, } i don't think there was anything on  the menu, [ that, +  that ] any of us had - /""]",c but  the first one weve been to that f uh  i dont think there was anything on  the menu  that   that  any of us had  ,sd,MALE,1
+"['that was, {f uh, } not just really super.  /']",that was f uh  not just really super  ,sd,MALE,1
+"[""it's nice to find a place like that. /""]",its nice to find a place like that ,sv,MALE,3
+"['{f oh, } boy that is wonderful. /']",f oh  boy that is wonderful ,ba,MALE,6
+['yeah. /'],yeah ,b,MALE,2
+"['{d well, } [ i, + i ] agree with you on that.  /']",d well   i  i  agree with you on that  ,aa,MALE,4
+"['{c and } i [ wa-, +  was ] really a seafood addict myself.  /']",c and  i  wa   was  really a seafood addict myself  ,sd,MALE,1
+"['[ i, +  i ] love crab meat in particular. /']", i   i  love crab meat in particular ,sd,MALE,1
+['{f um. } /'],f um  ,%,MALE,5
+"['[ i, +  {f uh, } i ] can almost live  [ on, +  on ] seafood and almost live on the crab meat if i <laughter> had to. /']", i   f uh  i  can almost live   on   on  seafood and almost live on the crab meat if i laughter had to ,sv,MALE,3
+"['{f oh, } boy. /']",f oh  boy ,ba,MALE,6
+['<laughter>.'],laughter,x,MALE,8
+"['have you ever been to, {f uh, }  what is it, original book binders in philadelphia? /']",have you ever been to f uh   what is it original book binders in philadelphia ,qy,MALE,7
+"['i, {f uh, } know the name  /']",i f uh  know the name  ,^h,MALE,27
+"[""{c but } i haven't been there. /""]",c but  i havent been there ,ng,MALE,29
+"[""{f uh, } that's an old established,  {f uh, } restaurant.  /""]",f uh  thats an old established  f uh  restaurant  ,sd,MALE,1
+['i used to go there when i was in college. /'],i used to go there when i was in college ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['where did you go to college? /'],where did you go to college ,qw,MALE,12
+"['{f uh, } i went to the naval academy. /']",f uh  i went to the naval academy ,sd,MALE,1
+"['{f oh, } the #  (( u s )) , #']",f oh  the    u s   ,br,MALE,30
+"['# {c and }  we used to, #']", c and   we used to ,sd,MALE,1
+['naval academy? /'],naval academy ,+,MALE,0
+"['[ we use to + ] go up there [ on, +   {f uh, } for ] football games sometimes.']", we use to   go up there  on    f uh  for  football games sometimes,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['and have some liberty.  /'],and have some liberty  ,+,MALE,0
+"['{c and, } - /']",c and   ,%,MALE,5
+"['yeah,  /']",yeah  ,%,MALE,5
+"['we would go over there to, {f uh, } - /']",we would go over there to f uh   ,sd,MALE,1
+"['[ pr-, +  pretty ] sure it was [ original, +  original ]  book binders  /']", pr   pretty  sure it was  original   original   book binders  ,sd,MALE,1
+"['i think it was,  /']",i think it was  ,h,MALE,15
+['yes. /'],yes ,aa,MALE,4
+"[""i'll be darn. /""]",ill be darn ,ba,MALE,6
+"[""i haven't been back there in years. /""]",i havent been back there in years ,sd,MALE,1
+"[""{d well, } [ we're, +  we're ] supposed  to be talking about dinning out,  /""]",d well   were   were  supposed  to be talking about dinning out  ,sd,MALE,1
+"[""{c but } i'll just make one comment that, {f uh, } i just  retired from penn state,  /""]",c but  ill just make one comment that f uh  i just  retired from penn state  ,sd,MALE,1
+"['{c and, } {f uh, } all my work has been in research for the navy <laughter>. /']",c and  f uh  all my work has been in research for the navy laughter ,sd,MALE,1
+['okay.  /'],okay  ,b,MALE,2
+['what area? /'],what area ,qw,MALE,12
+['underwater acoustics. /'],underwater acoustics ,sd,MALE,1
+['is that right?  /'],is that right  ,bh,MALE,18
+"['did you have any  dealings with the, {f uh, } underwater sound reference laboratory in orlando, florida? /']",did you have any  dealings with the f uh  underwater sound reference laboratory in orlando florida ,qy,MALE,7
+"['i have dealt with nearly [ all of the, +   all of the ] research laboratories that the country has. /']",i have dealt with nearly  all of the    all of the  research laboratories that the country has ,no,MALE,31
+"['yes, sir.  /']",yes sir  ,ba,MALE,6
+"['my dad worked there  for years, and years. /']",my dad worked there  for years and years ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ that's wh-, +  [ that's, +   {f uh, } that's ] where ] i grew up  was down in orlando.  /""]", thats wh    thats    f uh  thats  where  i grew up  was down in orlando  ,sd,MALE,1
+"['# {c so, } # -/']", c so   ,%,MALE,5
+"['# {f oh, } # you grew up in orlando.  /']", f oh   you grew up in orlando  ,qy^d,MALE,16
+['uh-huh. /'],uhhuh ,%,MALE,5
+"[""[ that's, +  {f uh, } that's ]  interesting, {d well, } i was in submarines.  {f uh, } /""]", thats   f uh  thats   interesting d well  i was in submarines  f uh  ,sd,MALE,1
+"[""{d well, } that's what i worked on. /""]",d well  thats what i worked on ,sd,MALE,1
+"['okay,  /']",okay  ,b,MALE,2
+"['yeah,  /']",yeah  ,%,MALE,5
+"['must have had some  interesting, {f uh, } assignments for you there.  /']",must have had some  interesting f uh  assignments for you there  ,sv,MALE,3
+"['[ wh-, +  when ] did you retire? /']", wh   when  did you retire ,qw,MALE,12
+['the end of last month. /'],the end of last month ,sd,MALE,1
+"['<lipsmack> {d well, } great.  /']",lipsmack d well  great  ,ba,MALE,6
+"[""i'm sure you've seen some interesting developments in acoustics. /""]",im sure youve seen some interesting developments in acoustics ,qy^d,MALE,16
+['i certainly have <breathing>. /'],i certainly have breathing ,na,MALE,21
+['yeah. /'],yeah ,b,MALE,2
+"['{d so, } [ wa-, + ] i hate to, {f uh, } - /']",d so   wa   i hate to f uh   ,sd,MALE,1
+"['i wish i could talk to you about that, {f uh, }  /']",i wish i could talk to you about that f uh   ,sd,MALE,1
+"['{c but, } {f uh, } i guess we should continue on, {f uh, } -/']",c but  f uh  i guess we should continue on f uh  ,sv,MALE,3
+['okay. /'],okay ,aa,MALE,4
+['okay. /'],okay ,b^m,MALE,24
+['right.  /'],right  ,b,MALE,2
+"[""# where's, # -/""]", wheres  ,qw,MALE,12
+['# how # do you like chinese food? /'], how  do you like chinese food ,qw,MALE,12
+"['{f oh, } [ we, +  we ] do enjoy that.  /']",f oh   we   we  do enjoy that  ,sd,MALE,1
+"['yes, sir.  /']",yes sir  ,%,MALE,5
+"[""{f uh, } i don't know if we are particularly adventurous,  /""]",f uh  i dont know if we are particularly adventurous  ,sv,MALE,3
+"[""we find something we  like,  {f uh, } like  cashew shrimp or  something that's got a good, {f uh, } at a  particular restaurant  /""]",we find something we  like  f uh  like  cashew shrimp or  something thats got a good f uh  at a  particular restaurant  ,sd,MALE,1
+['{c and then } we usually stick by it.  /'],c and then  we usually stick by it  ,sd,MALE,1
+"['# {c but } do you, #']", c but  do you ,qo,MALE,25
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['what about you? /'],what about you ,+,MALE,0
+"['{d well, } i, {f uh, } enjoy the  szechuan type of, {f uh, } chinese food. /']",d well  i f uh  enjoy the  szechuan type of f uh  chinese food ,sd,MALE,1
+['hot? /'],hot ,br,MALE,30
+['yes. /'],yes ,ny,MALE,9
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['yep,  {f uh, }  /']",yep  f uh   ,b,MALE,2
+"[""it's, {f uh, } - /""]",its f uh   ,%,MALE,5
+"['[ i, +  i ] do a lot of chinese cooking myself.  /']", i   i  do a lot of chinese cooking myself  ,sd,MALE,1
+['i have in the past.  /'],i have in the past  ,sd,MALE,1
+"[""i haven't done recently,  /""]",i havent done recently  ,sd,MALE,1
+"[""{c but, } {f uh, } it's in the sweet and sour porks and  things like are just really delicious meals. /""]",c but  f uh  its in the sweet and sour porks and  things like are just really delicious meals ,sv,MALE,3
+['{f um. }  where did you learn how to do chinese cooking? /'],f um   where did you learn how to do chinese cooking ,qw,MALE,12
+"['<breathing>  {f uh, } just at home. /']",breathing  f uh  just at home ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ i, +  i ] enjoyed the food  /']", i   i  enjoyed the food  ,sd,MALE,1
+"['{c and } i bought a lot of, {f uh, } good cookbooks,  /']",c and  i bought a lot of f uh  good cookbooks  ,sd,MALE,1
+"[""{c and } i've been following through on that.  /""]",c and  ive been following through on that  ,sd,MALE,1
+"['when you find the right cookbook, why it works out. /']",when you find the right cookbook why it works out ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""what's a good reference cookbook for chinese food? /""]",whats a good reference cookbook for chinese food ,qw,MALE,12
+"['<breathing> okay,  /']",breathing okay  ,b,MALE,2
+"[""{d well, } that one's  a good question.  /""]",d well  that ones  a good question  ,^h,MALE,27
+"[""here it's right under my nose if i can find it <laughter>.  /""]",here its right under my nose if i can find it laughter  ,sd,MALE,1
+"['{f oh, } boy. /']",f oh  boy ,ba,MALE,6
+"[""i guess one of the things we've, {f uh, }  started avoiding is the, {f uh, } run of the mill chop suey and things like that. /""]",i guess one of the things weve f uh   started avoiding is the f uh  run of the mill chop suey and things like that ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['# right. # /'], right  ,b,MALE,2
+"['# {c but } we enjoy # trying, {f uh, }  different kinds of chicken or, {f uh, } [ sh-, +  {d you know, } even, {f uh, } shrimp, ] {f uh, }  dishes that are fixed in a chinese restaurant. /']", c but  we enjoy  trying f uh   different kinds of chicken or f uh   sh   d you know  even f uh  shrimp  f uh   dishes that are fixed in a chinese restaurant ,sd,MALE,1
+"['one of [ [ th-, +  th-, ] +  this ]  book i have is called chinese cooking made easy.  /']",one of   th   th    this   book i have is called chinese cooking made easy  ,sd,MALE,1
+"[""{f uh, } <breathing> it's a paperback  /""]",f uh  breathing its a paperback  ,sd,MALE,1
+"[""{c and } i think it's by someone named chang.  /""]",c and  i think its by someone named chang  ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+['isabelle chang. /'],isabelle chang ,sd,MALE,1
+"['okay,  /']",okay  ,bk,MALE,14
+"['thanks for that, {f uh, } reference. /']",thanks for that f uh  reference ,ft,MALE,43
+"['yeah,  /']",yeah  ,bd,MALE,38
+['yeah.  /'],yeah  ,bd,MALE,38
+['i think you will enjoy that. /'],i think you will enjoy that ,sv,MALE,3
+"['okay,  /']",okay  ,b,MALE,2
+['good.  /'],good  ,ba,MALE,6
+['yeah. /'],yeah ,%,MALE,5
+"['{d well, } it certainly is nice talking  with you gene.  /']",d well  it certainly is nice talking  with you gene  ,fc,MALE,10
+"['{c and, } {f uh, } what is your phone at home? /']",c and  f uh  what is your phone at home ,qw,MALE,12

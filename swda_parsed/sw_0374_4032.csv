@@ -1,0 +1,158 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['martin, do you do any exercise? /']",martin do you do any exercise ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+['i do.  /'],i do  ,sd,MALE,1
+"['{f uh, } i like to, {f uh, } play  basketball and weight lifting.  /']",f uh  i like to f uh  play  basketball and weight lifting  ,sd,MALE,1
+['those are probably the two main things i like to do. /'],those are probably the two main things i like to do ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{f um, } {c so } those are more or less  indoor sports.  /']",f um  c so  those are more or less  indoor sports  ,qy^d,FEMALE,16
+"[""how's the --""]",hows the ,qw,FEMALE,12
+['yeah. /'],yeah ,ny,MALE,9
+['-- weather out there in georgia? /'], weather out there in georgia ,+,FEMALE,0
+"[""{f um, } [ [ in, + in, ] + in ] the winter, [ you, + ]  typically [ it's, + it's ] probably too cold to go out and do things like tennis.  /""]",f um    in  in   in  the winter  you    typically  its  its  probably too cold to go out and do things like tennis  ,sd,MALE,1
+"['{f um, } i like to play  tennis in the --']",f um  i like to play  tennis in the ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- summer time or in the spring, fall,  /']", summer time or in the spring fall  ,+,MALE,0
+['{c but } in the winter  it gets pretty cold. /'],c but  in the winter  it gets pretty cold ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"['{f um, } yeah,  /']",f um  yeah  ,b,MALE,2
+"[""{c so } it's mostly indoor sports,  i think, in the winter. /""]",c so  its mostly indoor sports  i think in the winter ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } how about yourself? /']",f um  how about yourself ,qo,MALE,25
+"['{d well, } yeah,  /']",d well  yeah  ,^h,FEMALE,27
+"[""i'm on a exercise program.  /""]",im on a exercise program  ,sd,FEMALE,1
+"[""i'm riding  my aerodyne bike, {f um } --""]",im riding  my aerodyne bike f um  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- half an hour every morning,  /']", half an hour every morning  ,+,FEMALE,0
+"[""{c and } i'm just about ready  to up it to up to forty-five minutes a morning,  /""]",c and  im just about ready  to up it to up to fortyfive minutes a morning  ,sd,FEMALE,1
+"[""{c and } i feel like that's been a  real nice exercise in the winter time.  /""]",c and  i feel like thats been a  real nice exercise in the winter time  ,sd,FEMALE,1
+"[""[ it's + --""]", its  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- it's ] kind of kept me from getting cabin  fever and, {f um, } has seemed to be a real nice aerobic exercise. /""]", its  kind of kept me from getting cabin  fever and f um  has seemed to be a real nice aerobic exercise ,+,FEMALE,0
+['right.  /'],right  ,b,MALE,2
+"['do you do, {f uh, } any anaerobic type,  weight lifting or weight training type exercise? /']",do you do f uh  any anaerobic type  weight lifting or weight training type exercise ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['huh-uh.  /'],huhuh  ,nn,FEMALE,13
+"[""[ i, +  first of all i'd ] like to get my  weight off.  /""]", i   first of all id  like to get my  weight off  ,sd,FEMALE,1
+"[""i'm about fifty pounds overweight,  /""]",im about fifty pounds overweight  ,sd,FEMALE,1
+"[""{c and so } i'd like to get the  weight off,  /""]",c and so  id like to get the  weight off  ,sd,FEMALE,1
+"[""{c and then } i'd really like to get into that. /""]",c and then  id really like to get into that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and, }  {f uh, } [ we have a, + my husband and i have  [ a, + a, ] ] aerobic video that's called the firm.  /""]",c and   f uh   we have a  my husband and i have   a  a   aerobic video thats called the firm  ,sd,FEMALE,1
+"[""i don't know if you've heard of it,  /""]",i dont know if youve heard of it  ,qy^d,FEMALE,16
+"[""{c but }  it's [ a, + an ] aerobic video with, not necessarily bouncing around and jumping up and down,  /""]",c but   its  a  an  aerobic video with not necessarily bouncing around and jumping up and down  ,sd,FEMALE,1
+"[""{c but } you're using weights,  /""]",c but  youre using weights  ,sd,FEMALE,1
+['{c and } that is the most incredible aerobic  workout i have ever done.  /'],c and  that is the most incredible aerobic  workout i have ever done  ,sd,FEMALE,1
+"[""[ it's + --""]", its  ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+"[""-- it's ] # really fun. # /""]", its   really fun  ,+,FEMALE,0
+"['# yes,  /']", yes  ,b,MALE,2
+"[""[ [ [ it's, + # it's, ] + it's ] aero-, +  it's similar to aerobics ] with weights -- /""]",   its   its   its  aero   its similar to aerobics  with weights  ,sv,MALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+"[""-- {c but } it's like low impact aerobics, # just # --""]", c but  its like low impact aerobics  just  ,sv,MALE,3
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- with weights. /'], with weights ,+,MALE,0
+['yes. /'],yes ,b,FEMALE,2
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+"['are you familiar with, {f um, } step or  bench aerobics? /']",are you familiar with f um  step or  bench aerobics ,qy,MALE,7
+"['{f um, } no,  /']",f um  no  ,nn,FEMALE,13
+"['{e i mean, } yes,  /']",e i mean  yes  ,ny,FEMALE,9
+"['i am,  /']",i am  ,sd,FEMALE,1
+['{c but } i have  never done it myself.  /'],c but  i have  never done it myself  ,sd,FEMALE,1
+['have you done that? /'],have you done that ,qy,FEMALE,7
+"['{f uh, } yes,  /']",f uh  yes  ,ny,MALE,9
+['i have.  /'],i have  ,sd,MALE,1
+"[""[ in, + in ] atlanta  that's, {f um, } - /""]", in  in  atlanta  thats f um   ,%,MALE,5
+['most of the health clubs --'],most of the health clubs ,sv,MALE,3
+['oh. /'],oh ,b,FEMALE,2
+"['-- are all, - /']", are all  ,+,MALE,0
+"[""[ that's the, + that's the ] in thing. /""]", thats the  thats the  in thing ,sv,MALE,3
+"[""that's the big thing, {f huh? } /""]",thats the big thing f huh  ,bh,FEMALE,18
+"['at first it was just regular aerobics,  /']",at first it was just regular aerobics  ,sv,MALE,3
+['{c but }  now bench or step aerobics have --'],c but   now bench or step aerobics have ,sv,MALE,3
+['oh. /'],oh ,bk,FEMALE,14
+['-- kind of taken over. /'], kind of taken over ,+,MALE,0
+['{c so } how is that? /'],c so  how is that ,qw,FEMALE,12
+"['{f um, } [ it, +  they call it ] a low impact aerobics,  /']",f um   it   they call it  a low impact aerobics  ,sd,MALE,1
+"[""{c and } it's supposed to burn off more calories --""]",c and  its supposed to burn off more calories ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+['-- at the same time.  /'], at the same time  ,+,MALE,0
+"[""{c and } from when i've  done it, it does give you [ a good, + a real good ] <laughter> workout. /""]",c and  from when ive  done it it does give you  a good  a real good  laughter workout ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c but } only thing i'm concerned about is  potential for injury to your knees --""]",c but  only thing im concerned about is  potential for injury to your knees ,sv,MALE,3
+['oh. /'],oh ,b,FEMALE,2
+"['-- {d you know, } [ that +  and movement of going  up on the step --']", d you know   that   and movement of going  up on the step ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {d you know, } that ] could create a problem. /']", d you know  that  could create a problem ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""[ they, + they ] seem to think that [ it, + it ] won't,  /""]", they  they  seem to think that  it  it  wont  ,sv,MALE,3
+['{c but } you never know. /'],c but  you never know ,sv,MALE,3
+"['now, if, {f um, } playing basketball, are you knees, - /']",now if f um  playing basketball are you knees  ,%,FEMALE,5
+['do you have healthy knees?  /'],do you have healthy knees  ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['[ i, + i ]   think my ankles probably are my main weak point. /']", i  i    think my ankles probably are my main weak point ,sd,MALE,1
+"['{f oh, } dear <laughter>. /']",f oh  dear laughter ,ba,FEMALE,6
+"[""{c but, }  [ i've, + i've ] kind of taken  care of that.  /""]",c but    ive  ive  kind of taken  care of that  ,sd,MALE,1
+"['i wear high tops and then also [ [ an + an-, ] + a ] support ankle brace which is very stiff -- /']",i wear high tops and then also   an  an   a  support ankle brace which is very stiff  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, }  {f um, } [ we-, +   wearing ] that i haven't had any problems in the past year or so. /""]", c and   f um   we    wearing  that i havent had any problems in the past year or so ,sd,MALE,1
+"[""{f oh, } that's good.  /""]",f oh  thats good  ,ba,FEMALE,6
+"['{d well } [ that sounds, +    you sound ] just like my husband.  /']",d well   that sounds     you sound  just like my husband  ,sd,FEMALE,1
+['[ he + --'], he  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- he ] injured his ankle about seven months ago  playing volleyball,  /']", he  injured his ankle about seven months ago  playing volleyball  ,+,FEMALE,0
+"[""{c and, }  {f oh, } he's just had a heck of a time getting that ankle healthy. /""]",c and   f oh  hes just had a heck of a time getting that ankle healthy ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['i. -/'],i ,%,MALE,5
+"[""{c so } that's what he does,  /""]",c so  thats what he does  ,sd,FEMALE,1
+"['he wears [ his, +   his ] brace and his high tops  /']",he wears  his    his  brace and his high tops  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ i did, +  i injured ]  mine so many times that --']", i did   i injured   mine so many times that ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+['-- rehabilitating became quite easy. /'], rehabilitating became quite easy ,+,MALE,0
+"['oh, ((   )) . /']",oh      ,b,FEMALE,2
+"['{e i mean, } it would only take three or four days  /']",e i mean  it would only take three or four days  ,sd,MALE,1
+['{c and } i could play again on it --'],c and  i could play again on it ,sd,MALE,1
+['wow <laughter>. /'],wow laughter ,ba,FEMALE,6
+['-- because after a while you just learn how to  rehabilitate yourself --'], because after a while you just learn how to  rehabilitate yourself ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- to play that way. /'], to play that way ,+,MALE,0
+"['<laughter>  {f oh, } dear.  /']",laughter  f oh  dear  ,ba,FEMALE,6
+['<laughter>  oh. /'],laughter  oh ,%,FEMALE,5
+"['[ {c but, } + {f um, } {c so } ] [ how, + how ] successful  is your exercise video? /']", c but   f um  c so    how  how  successful  is your exercise video ,qw,MALE,12
+['it is amazing how fast you take off the inches -- /'],it is amazing how fast you take off the inches  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } [ i would, +  once i start my forty-,  i'd ] like to do the forty-five minutes a day on the bike for a week,  /""]", c and   i would   once i start my forty  id  like to do the fortyfive minutes a day on the bike for a week  ,sd,FEMALE,1
+"[""{c and then, } every  other day i'd like to incorporate the video, and then the bike on the other day. /""]",c and then  every  other day id like to incorporate the video and then the bike on the other day ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but, }  it is really amazing how fast the inches  come off,  /']",c but   it is really amazing how fast the inches  come off  ,sd,FEMALE,1
+['{c and } the muscle builds --'],c and  the muscle builds ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- real fast.  /'], real fast  ,+,FEMALE,0
+"['{f um, } you can start, - /']",f um  you can start  ,%,FEMALE,5
+['they recommend doing the video without weights for the first month  /'],they recommend doing the video without weights for the first month  ,sd,FEMALE,1
+"['{c and then } after that you can just  start with your five pound dumbbells, and then build up to your,  {f uh, } twenty-five pound dumbbells -- /']",c and then  after that you can just  start with your five pound dumbbells and then build up to your  f uh  twentyfive pound dumbbells  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and then } you're just doing repetitious  exercises throughout the whole video  /""]", c and then  youre just doing repetitious  exercises throughout the whole video  ,sd,FEMALE,1
+"[""{c and } it's a hour long video,  /""]",c and  its a hour long video  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"[""{c so } it's a good workout. /""]",c so  its a good workout ,bf,MALE,20
+"['it is,  /']",it is  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['i really enjoy that,  /']",i really enjoy that  ,sd,FEMALE,1
+"[""{c so } i'm looking  forward to losing this weight and --""]",c so  im looking  forward to losing this weight and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- being firm and healthy <laughter>. /'], being firm and healthy laughter ,+,FEMALE,0
+"[""{c so, } in the winter, i guess, there's a lot of, - /""]",c so  in the winter i guess theres a lot of  ,qy^d,MALE,16
+"[""it's quite cold and --""]",its quite cold and ,qy^d,MALE,16
+['yes. /'],yes ,ny,FEMALE,9
+['-- snow. /'], snow ,+,MALE,0
+['yes.  /'],yes  ,ny,FEMALE,9
+['now this one has been quite mild.  /'],now this one has been quite mild  ,sd,FEMALE,1
+"['{f um, }  we could have been out walking throughout the whole winter, because really we only had about three weeks of snow on the ground.  /']",f um   we could have been out walking throughout the whole winter because really we only had about three weeks of snow on the ground  ,sd,FEMALE,1
+['it was quite chilly  /'],it was quite chilly  ,sd,FEMALE,1
+"['{c but } not, -/']",c but  not ,%,FEMALE,5

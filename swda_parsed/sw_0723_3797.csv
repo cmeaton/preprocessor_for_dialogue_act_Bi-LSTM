@@ -1,0 +1,98 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""i guess we're ready to talk. /""]",i guess were ready to talk ,sd,MALE,1
+"['how you doing, howard?  /']",how you doing howard  ,fp,MALE,32
+"[""this is [ a, +  a ] subject that i'm not real well versed on,  /""]",this is  a   a  subject that im not real well versed on  ,sd,MALE,1
+['{c but. } -/'],c but  ,%,MALE,5
+"[""{d well, } let's talk about air pollution. /""]",d well  lets talk about air pollution ,ad,MALE,22
+['okay. /'],okay ,aa,MALE,4
+['what do you think causes air pollution in dallas?  /'],what do you think causes air pollution in dallas  ,qw,MALE,12
+['{c or } where are you from? /'],c or  where are you from ,qw,MALE,12
+['no. /'],no ,"fo_o_fw_""_by_bc",MALE,0
+"[""maybe you're not in dallas. /""]",maybe youre not in dallas ,qy^d,MALE,16
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+"[""i'm from the, {f uh, } - /""]",im from the f uh   ,sd,MALE,1
+"[""i'm from dallas.  /""]",im from dallas  ,sd,MALE,1
+"[""i'm in richardson. /""]",im in richardson ,sd,MALE,1
+"['okay.  {f uh, } /']",okay  f uh  ,bk,MALE,14
+['what do you think as far as air pollution in the dallas area? /'],what do you think as far as air pollution in the dallas area ,qo,MALE,25
+"['{d well, } i have some small experience in this area.  /']",d well  i have some small experience in this area  ,sd,MALE,1
+['the brown haze that you see if you look down central towards downtown --'],the brown haze that you see if you look down central towards downtown ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['-- a lot of that is, {f uh, } tied up with the oxides or nitrogen although some of the kind of bluish gray stuff we see sometimes is tied up with particulates.  /']", a lot of that is f uh  tied up with the oxides or nitrogen although some of the kind of bluish gray stuff we see sometimes is tied up with particulates  ,+,MALE,0
+"['{c but, } {f uh, } [ the, + ]  one of the major problems that dallas has is oxides and nitrogen.  /']",c but  f uh   the    one of the major problems that dallas has is oxides and nitrogen  ,sd,MALE,1
+"[""that's because of all the equipment that's being operated.  but at the same time, {f uh, }  because [ we don't have, + we don't ] burn a lot of coal and solid materials we,""]",thats because of all the equipment thats being operated  but at the same time f uh   because  we dont have  we dont  burn a lot of coal and solid materials we,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"[""don't get a lot of particulates.  /""]",dont get a lot of particulates  ,+,MALE,0
+['now particulates would come from trash burning or incineration or something like that here in dallas. /'],now particulates would come from trash burning or incineration or something like that here in dallas ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['{f uh, } power plants since, -/']",f uh  power plants since ,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"['many of our local power plants, {f uh, } are natural gas most of the time, {f uh, } the things that come off of those plants are carbon  dioxide, and n o x.  /']",many of our local power plants f uh  are natural gas most of the time f uh  the things that come off of those plants are carbon  dioxide and n o x  ,sd,MALE,1
+"[""there's no particulates in natural gas, of course.  /""]",theres no particulates in natural gas of course  ,sd,MALE,1
+['{c and }  we pick up a little bit of sulphur off some of these products.  /'],c and   we pick up a little bit of sulphur off some of these products  ,sd,MALE,1
+"[""we're burning fuel oil and a few other things,  /""]",were burning fuel oil and a few other things  ,sd,MALE,1
+"[""{c but } gasoline, of course, now the lead's out, at least theoretically, {f uh, } i guess you could say we're  picking up some sulphur because a lot of the fuels does have sulphur.  /""]",c but  gasoline of course now the leads out at least theoretically f uh  i guess you could say were  picking up some sulphur because a lot of the fuels does have sulphur  ,sd,MALE,1
+"[""that's why we get that rotten egg smell sometime off the catalytic converter --""]",thats why we get that rotten egg smell sometime off the catalytic converter ,sd,MALE,1
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+"['-- the sulphur, yes.  /']", the sulphur yes  ,+,MALE,0
+"[""{c and } that's, {f uh, } course hydrogen sulfide, which is when you burn gasoline, you also produce some water vapor --""]",c and  thats f uh  course hydrogen sulfide which is when you burn gasoline you also produce some water vapor ,sd,MALE,1
+['sure. /'],sure ,b,MALE,2
+['-- and that goes back in with your sulphur  /'], and that goes back in with your sulphur  ,+,MALE,0
+['{c and }  under the right condition you get h two s. /'],c and   under the right condition you get h two s ,sd,MALE,1
+"['{c but, } anyway, {f uh, } -/']",c but  anyway f uh  ,%,MALE,5
+"['{d well, } [ you are, + you are ]  well versed on the subject, i tell you. /']",d well   you are  you are   well versed on the subject i tell you ,sv,MALE,3
+"[""{d well, } i don't know. /""]",d well  i dont know ,bd,MALE,38
+['this is not one of my better ones.  /'],this is not one of my better ones  ,sd,MALE,1
+"[""[ i guess, + <throat_clearing> i guess ] i notice it the most just, {f uh, } in driving around  dallas with all [ the, + <inhaling> the ] highway equipment that's working [ on  the +  --""]", i guess  throatclearing i guess  i notice it the most just f uh  in driving around  dallas with all  the  inhaling the  highway equipment thats working  on  the   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- on, ] six thirty-five and seventy-five,  just the cars in general.  /']", on  six thirtyfive and seventyfive  just the cars in general  ,+,MALE,0
+"[""that's where i see most of it. /""]",thats where i see most of it ,sd,MALE,1
+"['ro-, - /']",ro  ,%,MALE,5
+"['{f uh, } ron a lot of this is caused by the fact that cars sitting in traffic tend to run rich because the way the pollution is. /']",f uh  ron a lot of this is caused by the fact that cars sitting in traffic tend to run rich because the way the pollution is ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['{c and } when they run rich [ they, + they ] spit out a lot of hydrocarbons,  /']",c and  when they run rich  they  they  spit out a lot of hydrocarbons  ,sd,MALE,1
+"[""{c and } that's another part of the problem.  /""]",c and  thats another part of the problem  ,sd,MALE,1
+['the gas is not being burned completely.  /'],the gas is not being burned completely  ,sd,MALE,1
+"['{c but, } {f uh, } hopefully, if we ever get our road  system fixed up, this will get a lot better. /']",c but  f uh  hopefully if we ever get our road  system fixed up this will get a lot better ,sd,MALE,1
+"[""{f oh, } i don't know, i've lived here since seventy-four,  howard,  /""]",f oh  i dont know ive lived here since seventyfour  howard  ,sd,MALE,1
+"[""{c and, } [ i d-, + ] [ i think, + i think ] they been working on the highways  around here since i've been here, /""]",c and   i d    i think  i think  they been working on the highways  around here since ive been here ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""{c and } [ i think, + i think ] they'll be working on them long after my wife and i are gone. /""]",c and   i think  i think  theyll be working on them long after my wife and i are gone ,sv,MALE,3
+"['{d well, } i guess, [ i, + ] not trying to top  you, but i grew up in dallas county and  i can remember when they built the north part of north  central which was built after the south part of --']",d well  i guess  i   not trying to top  you but i grew up in dallas county and  i can remember when they built the north part of north  central which was built after the south part of ,sd,MALE,1
+['right <laughter>. /'],right laughter ,b,MALE,2
+['-- central  /'], central  ,+,MALE,0
+"[""{c and, } {f uh, } i can remember coming over the hill down there long about, {f uh, } i don't know, little bit north of [ mark-, + ] mockingbird on up [ in, + ] over those hills  /""]",c and  f uh  i can remember coming over the hill down there long about f uh  i dont know little bit north of  mark   mockingbird on up  in   over those hills  ,sd,MALE,1
+"[""{c and } i said i wonder if they'll ever need this road. /""]",c and  i said i wonder if theyll ever need this road ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['course, it was designed for most of us to go about forty-five miles an hour because the short on ramps and [ are, + ] off ramps,  /']",course it was designed for most of us to go about fortyfive miles an hour because the short on ramps and  are   off ramps  ,sd,MALE,1
+"['{c but, } gosh,  /']",c but  gosh  ,ba,MALE,6
+"['seems like, {f uh, } those ramps might kill us yet.  /']",seems like f uh  those ramps might kill us yet  ,sv,MALE,3
+"['i, - /']",i  ,%,MALE,5
+['hopefully the new ones will be a lot better. /'],hopefully the new ones will be a lot better ,sd,MALE,1
+['i understand.  /'],i understand  ,ba,MALE,6
+"['i sure hope so, i tell you.  /']",i sure hope so i tell you  ,sd,MALE,1
+"['{d you know, } you get out on the, {f uh, } interstate highways versus, - /']",d you know  you get out on the f uh  interstate highways versus  ,sd,MALE,1
+['i travel quite a bit  /'],i travel quite a bit  ,sd,MALE,1
+"[""{c and } traveling from, {d like, } dallas to austin to san antonio it's the same thing as far as the pollution created by the automobiles [ in the, + in the ]  stalled traffic and the busy highways, [ [ you, + you, ] + you're ] at your best  /""]",c and  traveling from d like  dallas to austin to san antonio its the same thing as far as the pollution created by the automobiles  in the  in the   stalled traffic and the busy highways   you  you   youre  at your best  ,sd,MALE,1
+"[""{c and, }  i guess when you're out on the interstate, <inhaling> heading north or south and you're just  cruising right along and there's no build up of cars  /""]",c and   i guess when youre out on the interstate inhaling heading north or south and youre just  cruising right along and theres no build up of cars  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""ron, have you noticed when you're driving south on thirty-five, i guess towards waxahachie, hillsborough on down to austin,""]",ron have you noticed when youre driving south on thirtyfive i guess towards waxahachie hillsborough on down to austin,qy,MALE,7
+['<noise>.'],noise,x,MALE,8
+"['you hit a point down there about, i think where they call bear creek exit --']",you hit a point down there about i think where they call bear creek exit ,+,MALE,0
+['yes. /'],yes ,ny,MALE,9
+['-- on just this side of the county line <static>.  /'], on just this side of the county line static  ,+,MALE,0
+"['right along in there somewhere, suddenly the air feels cleaner.  /']",right along in there somewhere suddenly the air feels cleaner  ,sd,MALE,1
+['have you noticed that? /'],have you noticed that ,qy,MALE,7
+"[""i tell you what, [ i, + i ] don't think i really have,  /""]",i tell you what  i  i  dont think i really have  ,ng,MALE,29
+"[""{c but } i'm going that way tuesday  /""]",c but  im going that way tuesday  ,sd,MALE,1
+"[""{c and } i'm going to make it a point to. /""]",c and  im going to make it a point to ,oo_co_cc,MALE,36
+"['{d well, } sometimes it depends on which way the winds blowing -- /']",d well  sometimes it depends on which way the winds blowing  ,sd,MALE,1
+['sure. /'],sure ,b,MALE,2
+"['-- {c but, } {f uh, } i also travel a little bit  /']", c but  f uh  i also travel a little bit  ,sd,MALE,1
+"[""{c and, } {f uh, } i don't know, it just seems like there's a certain point down there where you can breathe easier.  /""]",c and  f uh  i dont know it just seems like theres a certain point down there where you can breathe easier  ,sd,MALE,1
+['it may be all in my mind. /'],it may be all in my mind ,sd,MALE,1
+"['{f oh, } i know. /']",f oh  i know ,aa,MALE,4
+['<laughter>.'],laughter,x,MALE,8
+"['i know going to, {f uh, } {f uh, } - /']",i know going to f uh  f uh   ,sd,MALE,1
+"[""i detest going to houston because it's such a, -/""]",i detest going to houston because its such a ,sd,MALE,1

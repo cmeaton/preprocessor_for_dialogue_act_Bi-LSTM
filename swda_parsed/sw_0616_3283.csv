@@ -1,0 +1,126 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",MALE,0
+"[""we're talking about capital punishment. /""]",were talking about capital punishment ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['how do you feel about that  (( lenore )) ? /'],how do you feel about that   lenore   ,qo,MALE,25
+['i am very much for capital punishment. /'],i am very much for capital punishment ,sd,FEMALE,1
+"['{d well, } wonderful.   /']",d well  wonderful   ,ba,MALE,6
+"['i am too, one hundred percent. /']",i am too one hundred percent ,sd,MALE,1
+['my dad retired from the federal prison of bureaus. /'],my dad retired from the federal prison of bureaus ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } i've been raised around [ prison -- +""]",c and  ive been raised around  prison  ,sd,FEMALE,1
+['all your life. /'],all your life ,^2,MALE,23
+['-- prisons  ] all my life. /'], prisons   all my life ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } i believe if you don't have a punishment befitting the crime, there's --""]",c and  i believe if you dont have a punishment befitting the crime theres ,sv,FEMALE,3
+"[""there's no deterrent. /""]",theres no deterrent ,^2,MALE,23
+['-- not any deterrent <laughter>. /'], not any deterrent laughter ,+,FEMALE,0
+"[""that's right.  /""]",thats right  ,aa,MALE,4
+"[""there's just no deterrent. /""]",theres just no deterrent ,sv,MALE,3
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"['{c and } so many of those kind of people, [ they got, + they  ] have a better life in prison than they have on the street anyway  /']",c and  so many of those kind of people  they got  they   have a better life in prison than they have on the street anyway  ,sv,MALE,3
+"[""{c so, }  {d you know, } unless they really make it rough on them [ that's not  a, +  going to prison for a little while is not much of a  ] deterrent i don't think. /""]",c so   d you know  unless they really make it rough on them  thats not  a   going to prison for a little while is not much of a   deterrent i dont think ,sv,MALE,3
+['especially not a federal prison. /'],especially not a federal prison ,bf,FEMALE,20
+['right.  /'],right  ,aa,MALE,4
+"[""{d well, } i don't know what oklahoma's laws are  /""]",d well  i dont know what oklahomas laws are  ,sd,MALE,1
+"[""{c but } texas's i don't know are, <sigh> - /""]",c but  texass i dont know are sigh  ,h,MALE,15
+"[""i don't know  /""]",i dont know  ,h,MALE,15
+"[""[ it's, + it's  ] no one's f-,  /""]", its  its   no ones f  ,%,MALE,5
+"[""{e i mean } it's not the judge's fault i don't think.  /""]",e i mean  its not the judges fault i dont think  ,sv,MALE,3
+"[""it's just the way the law is down here.  /""]",its just the way the law is down here  ,sv,MALE,3
+"['man [ our cr-, + our, {f uh, } prisons are so  crowded ] that, {f uh, } they can commit some pretty serious crimes and be set free within a year to two. /']",man  our cr  our f uh  prisons are so  crowded  that f uh  they can commit some pretty serious crimes and be set free within a year to two ,sv,MALE,3
+"[""{d well, } {d see } [ we were under, + {f uh, } the state's prisons were under  ] a mandate to, {f uh, } - /""]",d well  d see   we were under  f uh  the states prisons were under   a mandate to f uh   ,sd,FEMALE,1
+['it was over crowded  /'],it was over crowded  ,sd,FEMALE,1
+"['{c and } the federal came in and  said, hey, {d you know, } you have either got to build more prisons or  let people go. /']",c and  the federal came in and  said hey d you know  you have either got to build more prisons or  let people go ,sd,FEMALE,1
+"[""{d well, } that's what ours did, same thing. /""]",d well  thats what ours did same thing ,sd,MALE,1
+"['{c and } finally our governor at the time [ which + who ] is not in office now came in and said, okay, where we draw the line is no sex offenders will be let loose.']",c and  finally our governor at the time  which  who  is not in office now came in and said okay where we draw the line is no sex offenders will be let loose,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['under early bail, {d you know } --']",under early bail d you know  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- or early, {f uh } --']", or early f uh  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['--  (( get ))  out. /'],   get   out ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but, } {f uh, }  we have, - /']",c but  f uh   we have  ,%,FEMALE,5
+['the death penalty is not given often. /'],the death penalty is not given often ,sd,FEMALE,1
+['huh-uh. /'],huhuh ,aa,MALE,4
+"['{c but } there have been w-, -/']",c but  there have been w ,%,FEMALE,5
+"[""it's not here either really. /""]",its not here either really ,sd,MALE,1
+"['{c and } {d you know, } i, - /']",c and  d you know  i  ,%,FEMALE,5
+"[""maybe [ it should be, + {f uh, } {d well, } it should be  ] given, {d you know, } [ i, + i  ] won't say sparingly,  /""]",maybe  it should be  f uh  d well  it should be   given d you know   i  i   wont say sparingly  ,sv,FEMALE,3
+['{c but } i do believe it should be befitting the crime. /'],c but  i do believe it should be befitting the crime ,sv,FEMALE,3
+['i do too  /'],i do too  ,aa,MALE,4
+"[""[ [ {c and, } + {c and } ] + {d you know, } {c but } ] the way the courts are set up [ they've, + they've  ] got so many chances for appeal,  /""]",  c and   c and    d you know  c but   the way the courts are set up  theyve  theyve   got so many chances for appeal  ,sv,MALE,3
+"['{c but }  [ i think th-, + i think it ] needs to be expedited.  /']",c but    i think th  i think it  needs to be expedited  ,sv,MALE,3
+"[""{d you know } if they've been convicted and given an appeal and they're still convicted [  of, +  of  ] a crime that's deserving [ of, + of ] a lethal injection, let's do it and  not waste so many years to do it. /""]",d you know  if theyve been convicted and given an appeal and theyre still convicted   of   of   a crime thats deserving  of  of  a lethal injection lets do it and  not waste so many years to do it ,sv,MALE,3
+['right.  /'],right  ,b,FEMALE,2
+"[""of course, {d you know, } [ they're, + they're ] entitled to a speedy trial. /""]",of course d you know   theyre  theyre  entitled to a speedy trial ,sv,FEMALE,3
+"[""that's right. /""]",thats right ,aa,MALE,4
+"[""{c but } then [ they're, + they're  ] also entitled to drag it through the courts --""]",c but  then  theyre  theyre   also entitled to drag it through the courts ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- for years and years --'], for years and years ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- and years on appeals.  /'], and years on appeals  ,+,FEMALE,0
+['{c so } --'],c so  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""-- somehow, {d you know, } it doesn't really balance out too much. /""]", somehow d you know  it doesnt really balance out too much ,+,FEMALE,0
+"[""that's right.  /""]",thats right  ,aa,MALE,4
+"[""somehow it just doesn't,  /""]",somehow it just doesnt  ,sv,MALE,3
+['it works and then  again it takes too long for it to work. /'],it works and then  again it takes too long for it to work ,bf,MALE,20
+"['{c and } it seems even though, {d you know, } that they  (( got )) , - /']",c and  it seems even though d you know  that they   got    ,sv,FEMALE,3
+"[""the prisoner himself can come to the point that, hey, i'm tired.  /""]",the prisoner himself can come to the point that hey im tired  ,sd,FEMALE,1
+['i just want out. /'],i just want out ,^q,FEMALE,19
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{d you know, } i'm tired of fighting it. /""]",d you know  im tired of fighting it ,^q,FEMALE,19
+['uh-huh. /'],uhhuh ,b,MALE,2
+['then the system just keeps on. /'],then the system just keeps on ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,aa,MALE,4
+['yeah.  /'],yeah  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['it equ-, -/']",it equ ,%,MALE,5
+"['{c and } at that point {d you know } [ i, + i ] really think there needs to be maybe a shorter appeal process. /']",c and  at that point d you know   i  i  really think there needs to be maybe a shorter appeal process ,sv,FEMALE,3
+['i do too.  /'],i do too  ,aa,MALE,4
+"['i think that needs to, - /']",i think that needs to  ,sv,MALE,3
+"[""{c and } i don't see why it couldn't be shortened considerably.  /""]",c and  i dont see why it couldnt be shortened considerably  ,sv,MALE,3
+"['{c but, } {d you know } <laughter>, -/']",c but  d you know  laughter ,%,MALE,5
+"['{d well, } part of that is the overcrowding of the court system. /']",d well  part of that is the overcrowding of the court system ,sd,FEMALE,1
+"['yea-,  /']",yea  ,%,MALE,5
+"[""that's true.  /""]",thats true  ,sv,MALE,3
+"[""it is overcrowded because there's so much [ drug, + {f uh, } problem with the people on drugs ]  /""]",it is overcrowded because theres so much  drug  f uh  problem with the people on drugs   ,sv,MALE,3
+"['{c because } that ha-, - /']",c because  that ha  ,%,MALE,5
+"[""[ they, +  with the drugs [ they're, + they're  ] ] robbing and killing  /""]", they   with the drugs  theyre  theyre    robbing and killing  ,sd,MALE,1
+"[""{c and, } {f uh, } that's why it's filled the prisons up so much i think. /""]",c and  f uh  thats why its filled the prisons up so much i think ,sv,MALE,3
+"[""{f uh, } [ it doesn't, + it doesn't  ] help them any at all -- /""]",f uh   it doesnt  it doesnt   help them any at all  ,sv,FEMALE,3
+"['no,  /']",no  ,aa,MALE,4
+"[""it doesn't. /""]",it doesnt ,sv,MALE,3
+"['-- {c and, } of course, your court system when you get into the appeals, - /']", c and  of course your court system when you get into the appeals  ,sd,FEMALE,1
+"[""i don't believe criminal is in a court by itself.  /""]",i dont believe criminal is in a court by itself  ,sv,FEMALE,3
+"[""{c and } the whole judicial system is backed up with a lot of junk that shouldn't be in there. /""]",c and  the whole judicial system is backed up with a lot of junk that shouldnt be in there ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's true.  /""]",thats true  ,aa,MALE,4
+['with all these lawsuits and people suing people over ridiculous things - /'],with all these lawsuits and people suing people over ridiculous things  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+"[""we've gotten into a very litigious, {f uh, } type of life. /""]",weve gotten into a very litigious f uh  type of life ,sv,FEMALE,3
+"[""boy,  haven't that we though.  /""]",boy  havent that we though  ,aa,MALE,4
+['we really have.  /'],we really have  ,sv,MALE,3
+"[""{c but } anyway i'm glad to hear that you agree with me on the <laughter> capital punishment. /""]",c but  anyway im glad to hear that you agree with me on the laughter capital punishment ,sd,MALE,1
+"['{d well, } i just, -/']",d well  i just ,%,FEMALE,5
+"[""[ i'm, + i'm ] very  (( muchly ))  for it.  /""]", im  im  very   muchly   for it  ,sd,MALE,1
+"['always have been, /']",always have been ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['always will be. /'],always will be ,sd,MALE,1
+['i just feel like their crime and punishment  /'],i just feel like their crime and punishment  ,sv,FEMALE,3
+"[""{c and } [ if, + if ] you don't have the punishment, you double your crime.  /""]",c and   if  if  you dont have the punishment you double your crime  ,sv,FEMALE,3
+"['{c and } [ the, +  {d you know, } that ] is just personal feeling.  /']",c and   the   d you know  that  is just personal feeling  ,sd,FEMALE,1
+"[""it's not going on facts.  /""]",its not going on facts  ,h,FEMALE,15
+['i think --'],i think ,sv,FEMALE,3
+['it could be supportive.  /'],it could be supportive  ,^2,MALE,23
+"[""[ [ it, + it's  ] -- +""]",  it  its    ,sv,MALE,3
+['-- the facts would probably back it up  /'], the facts would probably back it up  ,+,FEMALE,0
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""-- it's ] supported with facts though. /""]", its  supported with facts though ,+,MALE,0
+['what? /'],what ,br,FEMALE,30
+['it could very easily be supported with facts. /'],it could very easily be supported with facts ,sv,MALE,3
+"['{d well, } yes.  /']",d well  yes  ,aa,FEMALE,4
+"['i, -/']",i ,%,FEMALE,5

@@ -32,7 +32,7 @@ def strucutre_words(df_dictionary):
     for i in raw_utt_list:
         utt_split_words = []
         for j in i:
-            utt_split_words.append((j.split()))
+            utt_split_words.append((str(j).split()))
         processed_utt_list.append(utt_split_words) 
     
     return processed_utt_list
@@ -94,18 +94,21 @@ def replace(words_with_structure, flat_labels):
     for i in words_and_labels: 
         text_inner = list() 
         ints_inner = list() 
-        for e in i:  
-            t, n = zip(*e) 
-            text_inner.append(list(t)) 
-            ints_inner.append(list(n)) 
-        text.append(text_inner) 
-        ints.append(ints_inner) 
+        try:
+            for e in i:  
+                t, n = zip(*e) 
+                text_inner.append(list(t)) 
+                ints_inner.append(list(n)) 
+            text.append(text_inner) 
+            ints.append(ints_inner) 
+        except:
+            pass
 
     return ints
 
 
-words = strucutre_words(read_data(path))
-labels = structure_labels(read_data(path))
-mapping, val, lab = flatten(words)
-structred_labels = replace(words,lab)
+# words = strucutre_words(read_data(path))
+# labels = structure_labels(read_data(path))
+# mapping, val, lab = flatten(words)
+# structred_labels = replace(words,lab)
 

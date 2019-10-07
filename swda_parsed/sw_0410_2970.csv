@@ -1,0 +1,437 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay. /'],okay ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{d well, } i do not know.  /']",d well  i do not know  ,h,FEMALE,15
+['how big a city is rome?  /'],how big a city is rome  ,qw,FEMALE,12
+"['{e i mean, } you have heard about dallas,  /']",e i mean  you have heard about dallas  ,qy^d,FEMALE,16
+"['{c and } [ th-, + the ] crime here is pretty bad <laughter>. /']",c and   th  the  crime here is pretty bad laughter ,sd,FEMALE,1
+"['{d well, } rome is pretty small <laughter>.  /']",d well  rome is pretty small laughter  ,arp_nd,FEMALE,34
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+['i was going to say. /'],i was going to say ,sd,FEMALE,1
+"['we hear a lot about, {f uh, } new york city. /']",we hear a lot about f uh  new york city ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['there is a lot of crime <laughter> down there.  /'],there is a lot of crime laughter down there  ,sd,FEMALE,1
+"['{c and } [ i am, + i am ] afraid to go down there because, {d you know, } {e i mean, } you hear about people getting mugged.  /']",c and   i am  i am  afraid to go down there because d you know  e i mean  you hear about people getting mugged  ,sd,FEMALE,1
+['you leave your car for ten minutes  /'],you leave your car for ten minutes  ,sv,FEMALE,3
+['{c and } it is stripped when you come back. /'],c and  it is stripped when you come back ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+['have you ever been there? /'],have you ever been there ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['i have not.  /'],i have not  ,sd,FEMALE,1
+['only to the airport. /'],only to the airport ,sd,FEMALE,1
+"['that is, {f uh, } probably enough to see <laughter>. /']",that is f uh  probably enough to see laughter ,sv,FEMALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f um, } are you in college right now? /']",f um  are you in college right now ,qy,FEMALE,7
+['no.  /'],no  ,nn,FEMALE,13
+"['[  i am, + i work ] [ at, + for ] the air force. /']",  i am  i work   at  for  the air force ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"['{c so, } there is a base up here.  /']",c so  there is a base up here  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['are base, - /']",are base  ,%,FEMALE,5
+"[""that's [ inter-, + interesting ] concept.  /""]",thats  inter  interesting  concept  ,sv,FEMALE,3
+"['are bases safe, you know? /']",are bases safe you know ,qy,FEMALE,7
+['bases are pretty safe because they check your i d on your way in.  /'],bases are pretty safe because they check your i d on your way in  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['[  the, + they, ] {f uh, } minimize the access. /']",  the  they  f uh  minimize the access ,bf,FEMALE,20
+['right.  /'],right  ,aa,FEMALE,4
+"['{c but } even so we had a, {f uh, } {f uh, } - /']",c but  even so we had a f uh  f uh   ,%,FEMALE,5
+"['at new years,']",at new years,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['we had some people come in and, {f uh, } {d like } attack one of the planes.  because they were protesting, {f uh, }']",we had some people come in and f uh  d like  attack one of the planes  because they were protesting f uh ,+,FEMALE,0
+"['{f oh, } no. /']",f oh  no ,ba,FEMALE,6
+['the presence over in the persian gulf. /'],the presence over in the persian gulf ,+,FEMALE,0
+['sure.  /'],sure  ,b,FEMALE,2
+"['{f oh, } great.  /']",f oh  great  ,ba,FEMALE,6
+['that --'],that ,ba,FEMALE,6
+"['{d so, } -/']",d so  ,%,FEMALE,5
+['-- is wonderful.  /'], is wonderful  ,+,FEMALE,0
+['yeah.  /'],yeah  ,%,FEMALE,5
+"['{d well, } dallas, {f uh, } - /']",d well  dallas f uh   ,%,FEMALE,5
+"['we lived in minneapolis.  {f uh, }  /']",we lived in minneapolis  f uh   ,sd,FEMALE,1
+['we moved here about ten months ago.  /'],we moved here about ten months ago  ,sd,FEMALE,1
+"['{c and } dallas is pretty, {f uh, }  /']",c and  dallas is pretty f uh   ,sd,FEMALE,1
+"['{d well, } we live in [ north tex-, + north dallas ] which is [ like a suburb, + near a suburb ]  called plano.  /']",d well  we live in  north tex  north dallas  which is  like a suburb  near a suburb   called plano  ,sd,FEMALE,1
+"['{c so } we are out of the city,  /']",c so  we are out of the city  ,sd,FEMALE,1
+"['{c but } [ it is, + {f uh, } it is ]  bad everywhere in terms of, {f uh, } {d you know, } the handgun situation, {f um, } the number of rapes, the number of muggings.   /']",c but   it is  f uh  it is   bad everywhere in terms of f uh  d you know  the handgun situation f um  the number of rapes the number of muggings   ,sd,FEMALE,1
+"['just, [ it is, + it is, ] - /']",just  it is  it is   ,%,FEMALE,5
+"['i would not say it is not as bad as new york,  /']",i would not say it is not as bad as new york  ,sd,FEMALE,1
+['{c but } it is pretty scary. /'],c but  it is pretty scary ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, } people put bars on their windows in certain  neighborhoods  /']",d you know  people put bars on their windows in certain  neighborhoods  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+['{d you know. }  they call them ornamental grates.  /'],d you know   they call them ornamental grates  ,sv,FEMALE,3
+['{c but } they are still bars <laughter>. /'],c but  they are still bars laughter ,sv,FEMALE,3
+['<laughter> that makes it bad for getting out during a fire. /'],laughter that makes it bad for getting out during a fire ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['it really does.  /'],it really does  ,aa,FEMALE,4
+['and if you are a little bit claustrophobic  /'],and if you are a little bit claustrophobic  ,sv,FEMALE,3
+"['{c but, }  {f uh. } i do not know,  /']",c but   f uh  i do not know  ,h,FEMALE,15
+['{e i mean } the jails are crowded.  /'],e i mean  the jails are crowded  ,sv,FEMALE,3
+"['[ [  i, + i, ] + i ]  am not a criminal justice specialist,  /']",   i  i   i   am not a criminal justice specialist  ,sd,FEMALE,1
+"['{c so } i do not know [ what, + {d you know, } what ]  can be done.  /']",c so  i do not know  what  d you know  what   can be done  ,sd,FEMALE,1
+"['i am,']",i am,%,FEMALE,5
+"['[ i do    not, +']", i do    not ,h,FEMALE,15
+"['{d  you know, } -/']",d  you know  ,+,FEMALE,0
+"['i  do not ] know,  /']",i  do not  know  ,+,FEMALE,0
+"['it seems to, - /']",it seems to  ,%,FEMALE,5
+['i think it is getting worse.   because i keep hearing things - /'],i think it is getting worse   because i keep hearing things  ,sv,FEMALE,3
+"['like [ i, + ] when [ i  was h-, + i went home, ] - /']",like  i   when  i  was h  i went home   ,%,FEMALE,5
+['my parents live in boston. /'],my parents live in boston ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } i went home,  /']",c but  i went home  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- we were watching t v,  /']", we were watching t v  ,+,FEMALE,0
+"['{c and } this thing came on where [ these, + a group ] of {d like } five or six guys went and filmed themselves beating up people in the street [ and, + and ] robbing --']",c and  this thing came on where  these  a group  of d like  five or six guys went and filmed themselves beating up people in the street  and  and  robbing ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['-- them.  /'], them  ,+,FEMALE,0
+['{c and } it was really disgusting.  /'],c and  it was really disgusting  ,sd,FEMALE,1
+"['{c and } my mom was like, ""they should  just be all shot right now.""  /']",c and  my mom was like they should  just be all shot right now  ,sd,FEMALE,1
+"['{c and } {e i mean, } you he-, -/']",c and  e i mean  you he ,%,FEMALE,5
+['were they teenagers  /'],were they teenagers  ,qy,FEMALE,7
+['or? -/'],or ,%,FEMALE,5
+"['{f uh, } /']",f uh  ,^h,FEMALE,27
+"['like that girl in new york that got beat up by, {d you know, } - /']",like that girl in new york that got beat up by d you know   ,sd,FEMALE,1
+['when she was jogging --'],when she was jogging ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- in central park,']", in central park,+,FEMALE,0
+"['yeah.  {f um, } /']",yeah  f um  ,b,FEMALE,2
+['a couple of years ago? /'],a couple of years ago ,+,FEMALE,0
+"['[ they were not, + i think they were ] early twenties. /']", they were not  i think they were  early twenties ,ng,FEMALE,29
+['yeah. /'],yeah ,b,FEMALE,2
+['they were young men. /'],they were young men ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{c but } [ they, + so   they ] weren't, {d you know. }  /""]",c but   they  so   they  werent d you know   ,sd,FEMALE,1
+"['{c and } [ [ were they, + {f uh, } were they, ] + were they ] obviously poor or depri-, {d you know? }  /']",c and    were they  f uh  were they   were they  obviously poor or depri d you know   ,qy,FEMALE,7
+['that is really stra-.  /'],that is really stra  ,sv,FEMALE,3
+"['{d like } i say, s-, -/']",d like  i say s ,%,FEMALE,5
+['i know it.  /'],i know it  ,aa,FEMALE,4
+"['how [ s-, + deprived ] could they be if they had a camcorder?   /']",how  s  deprived  could they be if they had a camcorder   ,qh,FEMALE,26
+['those are a thousand bucks. /'],those are a thousand bucks ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['unless they stole it.  /'],unless they stole it  ,sv,FEMALE,3
+"['{c and } {e i mean, }  that is one big thing down here.  /']",c and  e i mean   that is one big thing down here  ,sd,FEMALE,1
+"['{e i mean, } they have {d like, }  {f uh, } - /']",e i mean  they have d like   f uh   ,%,FEMALE,5
+['{c and } they are not all  young.  /'],c and  they are not all  young  ,sd,FEMALE,1
+"['{e i mean, } they are eighteen to twenty-four, some of the young men and women.  /']",e i mean  they are eighteen to twentyfour some of the young men and women  ,sd,FEMALE,1
+"['{c but, }  {e i mean, } [ you can, + you can ] see the crime stoppers ads on television.  /']",c but   e i mean   you can  you can  see the crime stoppers ads on television  ,sd,FEMALE,1
+"['{c and } they are, - /']",c and  they are  ,%,FEMALE,5
+"['sometimes it is the same people [ that have been, + that have been ]  observed  /']",sometimes it is the same people  that have been  that have been   observed  ,sd,FEMALE,1
+"[""{c and } they still can't catch them <laughter>. /""]",c and  they still cant catch them laughter ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } you are wondering how, {d you know. }  {f um, }  we lived in minneapolis and  wisconsin.  /']",c and  you are wondering how d you know   f um   we lived in minneapolis and  wisconsin  ,sv,FEMALE,3
+"['{e i mean, } there was all kind of, - /']",e i mean  there was all kind of  ,%,FEMALE,5
+"['[ [ [ [ i, + i, know, ] + i, ] + i, ] + i know ] it is getting worse.  /']",    i  i know   i   i   i know  it is getting worse  ,sv,FEMALE,3
+"['i do not know what the world is or is not.   {f uh, }  /']",i do not know what the world is or is not   f uh   ,sd,FEMALE,1
+"['the dimi-, - /']",the dimi  ,%,FEMALE,5
+"['in a small town in wisconsin, near madison, {f um, } a young boy somehow got a hold of a shotgun.']",in a small town in wisconsin near madison f um  a young boy somehow got a hold of a shotgun,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['and killed his parents  and his three brothers and sisters. /'],and killed his parents  and his three brothers and sisters ,+,FEMALE,0
+['<gasp>.'],gasp,x,FEMALE,8
+"['{c and } the child had, - /']",c and  the child had  ,%,FEMALE,5
+"['{c and } [ he, + they ]  said that he was twelve years old,  /']",c and   he  they   said that he was twelve years old  ,sd,FEMALE,1
+"['{c and } [ he had, + {f uh, } he had ] not, {f uh, } displayed any tendencies deviant or disturbed or  whatever, {d you <laughter> know. } /']",c and   he had  f uh  he had  not f uh  displayed any tendencies deviant or disturbed or  whatever d you laughter know  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } you are thinking to yourself, {f um. } /']",c and  you are thinking to yourself f um  ,sv,FEMALE,3
+"['i wonder where, -/']",i wonder where ,qh,FEMALE,26
+['i know. /'],i know ,aa,FEMALE,4
+['i do not know.  /'],i do not know  ,h,FEMALE,15
+['i wonder where he gets it?  /'],i wonder where he gets it  ,qh,FEMALE,26
+"['{d you know, } you must, - /']",d you know  you must  ,%,FEMALE,5
+"['i think t v is bad.  because they, {f uh, } show all sorts of violence on, -/']",i think t v is bad  because they f uh  show all sorts of violence on ,sv,FEMALE,3
+['that  /'],that  ,%,FEMALE,5
+"['{c and } i do not think a lot of parents, - /']",c and  i do not think a lot of parents  ,sv,FEMALE,3
+"['{e i mean, } [ i do not, + i do not ] know how it is in the air force base.  /']",e i mean   i do not  i do not  know how it is in the air force base  ,qw^d,FEMALE,41
+"['{c but, }  {f uh, } i just do not think a lot of people, because of the economy, both need to work, {d you know. }  /']",c but   f uh  i just do not think a lot of people because of the economy both need to work d you know   ,sv,FEMALE,3
+['i just do not think a lot of parents are that involved any more. /'],i just do not think a lot of parents are that involved any more ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['[  they do not, + they do not ]  talk to their kids and take them out.  /']",  they do not  they do not   talk to their kids and take them out  ,sv,FEMALE,3
+"['[ and, + and ] --']", and  and  ,sv,FEMALE,3
+"['{f uh, } /']",f uh  ,b,FEMALE,2
+['-- are not there all the time  /'], are not there all the time  ,+,FEMALE,0
+['{c so } the kids are off to their own devices a lot. /'],c so  the kids are off to their own devices a lot ,sv,FEMALE,3
+['right.   /'],right   ,aa,FEMALE,4
+['and discipline.  /'],and discipline  ,sv,FEMALE,3
+"['i do not know how your folks were,  /']",i do not know how your folks were  ,qw^d,FEMALE,41
+"['{c but } {e i mean } i sure knew as heck when i was growing up that, {f uh, } my parents were <laughter> the superior  /']",c but  e i mean  i sure knew as heck when i was growing up that f uh  my parents were laughter the superior  ,sd,FEMALE,1
+['{c and } i was the subordinate.  /'],c and  i was the subordinate  ,sd,FEMALE,1
+"['{c and, } {d you know. }']",c and  d you know ,sd,FEMALE,1
+"['{f oh, } definitely. /']",f oh  definitely ,aa,FEMALE,4
+['it was sort of like there were boundaries.  /'],it was sort of like there were boundaries  ,+,FEMALE,0
+"['{c and }  [ i do not think, + i do not know, ] i think today a lot of parents, {f um, } are ruled by their kids.  /']",c and    i do not think  i do not know  i think today a lot of parents f um  are ruled by their kids  ,sv,FEMALE,3
+"['[ i, + i, ] -/']", i  i  ,%,FEMALE,5
+['i think so definitely.  /'],i think so definitely  ,aa,FEMALE,4
+"['when you go to a restaurant, and {d like } kids are running all over the place.  they, -/']",when you go to a restaurant and d like  kids are running all over the place  they ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['right.  /'],right  ,aa,FEMALE,4
+"['{e i mean, } they are not learning how to,  {f uh, } {d well, } {d like } boundaries. - /']",e i mean  they are not learning how to  f uh  d well  d like  boundaries  ,sv,FEMALE,3
+"['{e i mean, } [ i do not, + i see it ] in work place too, sometimes.  /']",e i mean   i do not  i see it  in work place too sometimes  ,sd,FEMALE,1
+"['i do not know how old you are,  /']",i do not know how old you are  ,qw^d,FEMALE,41
+['{c but } you sound a little bit <laughter> younger than me.  /'],c but  you sound a little bit laughter younger than me  ,sv,FEMALE,3
+"['{c but, }  i am in my thirties,  /']",c but   i am in my thirties  ,sd,FEMALE,1
+"['{c and } [ i, + {f uh, } i ]  see, {f uh, } even people that work with me that are ten years younger.  /']",c and   i  f uh  i   see f uh  even people that work with me that are ten years younger  ,sd,FEMALE,1
+"['that, {d you know, } they kind of have an attitude that <laughter>, [ i ha-, + i hate ] [ to  + to ] say it,  /']",that d you know  they kind of have an attitude that laughter  i ha  i hate   to   to  say it  ,sd,FEMALE,1
+"[""{c but } [ it's, + that's ] just what it is.  /""]",c but   its  thats  just what it is  ,sd,FEMALE,1
+['it is an attitude --'],it is an attitude ,sd,FEMALE,1
+['yep.  /'],yep  ,aa,FEMALE,4
+"['{c but, }']",c but ,%,FEMALE,5
+['-- like --'], like ,+,FEMALE,0
+"['they, -/']",they ,+,FEMALE,0
+['-- the world owes them something. /'], the world owes them something ,+,FEMALE,0
+"['right,  /']",right  ,aa,FEMALE,4
+"['[ i, + i ] see that too in the air force.  /']", i  i  see that too in the air force  ,sd,FEMALE,1
+"['espec-, -/']",espec ,%,FEMALE,5
+['do you? /'],do you ,bh,FEMALE,18
+"['{f oh, } yeah.  /']",f oh  yeah  ,ny,FEMALE,9
+"['a lot of, {f uh, } - /']",a lot of f uh   ,%,FEMALE,5
+['especially since a lot of us are engineers where i work. /'],especially since a lot of us are engineers where i work ,sd,FEMALE,1
+['are you in the air force? /'],are you in the air force ,qy,FEMALE,7
+['i am in the air force.  /'],i am in the air force  ,na,FEMALE,21
+['yes. /'],yes ,ny,FEMALE,9
+['okay. /'],okay ,bk,FEMALE,14
+"['{c and so, } {f uh, } people outside the air force doing engineering get paid a lot more than we do. /']",c and so  f uh  people outside the air force doing engineering get paid a lot more than we do ,sd,FEMALE,1
+['sure. /'],sure ,b,FEMALE,2
+"['{c and so } all the young engineers are {d like, }  {d well, } i am just, going, {d you know, } /']",c and so  all the young engineers are d like   d well  i am just going d you know  ,sd,FEMALE,1
+['huh. /'],huh ,b,FEMALE,2
+['get it for all it is worth.  /'],get it for all it is worth  ,^q,FEMALE,19
+"['{c and } that,']",c and  that,%,FEMALE,5
+['right. /'],right ,b,FEMALE,2
+"['{d you know, } - /']",d you know   ,+,FEMALE,0
+"['{c and } i am like, you are the one who signed up.  /']",c and  i am like you are the one who signed up  ,sd,FEMALE,1
+['if you did not want to do it. - /'],if you did not want to do it  ,^q,FEMALE,19
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['right,  /']",right  ,aa,FEMALE,4
+['right.  /'],right  ,aa,FEMALE,4
+"['{c and } the air force is one of the [ bitter, + better ] [ [ [ military, + supposedly m-, ] + m-, ] + military ] experiences. /']",c and  the air force is one of the  bitter  better     military  supposedly m   m   military  experiences ,sv,FEMALE,3
+"['yep,  /']",yep  ,aa,FEMALE,4
+['it is. /'],it is ,aa,FEMALE,4
+"['{e i mean, } /']",e i mean  ,%,FEMALE,5
+['i like it a lot <laughter>. /'],i like it a lot laughter ,sd,FEMALE,1
+['pardon me? /'],pardon me ,br,FEMALE,30
+['i like it so far. /'],i like it so far ,sd,FEMALE,1
+"['{e i mean, } that is, - /']",e i mean  that is  ,%,FEMALE,5
+['are you going to be a career person?  /'],are you going to be a career person  ,qy,FEMALE,7
+"[""i'm digressing,  /""]",im digressing  ,sd,FEMALE,1
+"['{c but, }']",c but ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter> i do not talk to many people in the --'],laughter i do not talk to many people in the ,+,FEMALE,0
+['oh. /'],oh ,^h,FEMALE,27
+['-- military.  /'], military  ,+,FEMALE,0
+"['{c so } i am, -/']",c so  i am ,%,FEMALE,5
+['probably not.  /'],probably not  ,ng,FEMALE,29
+"['{c but, }  {f uh, } they pay for my college.  /']",c but   f uh  they pay for my college  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['that is the way to do it.  /'],that is the way to do it  ,sv,FEMALE,3
+"[""{e i mean, } {c and } that's, - /""]",e i mean  c and  thats  ,%,FEMALE,5
+"['{d you know, } at least the air force is, - /']",d you know  at least the air force is  ,%,FEMALE,5
+"['i do not know, [ i just, + {f uh, } i am ] nervous in dallas.  /']",i do not know  i just  f uh  i am  nervous in dallas  ,sd,FEMALE,1
+"['{e i mean, } [ i, + {d you know, } {e i mean, } i ] go to {d like } an aerobics class or something.  /']",e i mean   i  d you know  e i mean  i  go to d like  an aerobics class or something  ,sd,FEMALE,1
+"['{c and, }  [ i, +  {d you know, } {f uh, } seventy women ] in a jazzercise class in a public, {f uh, } parks and rec building.  /']",c and    i   d you know  f uh  seventy women  in a jazzercise class in a public f uh  parks and rec building  ,sd,FEMALE,1
+"['{c and } you are supposed to feel safe,  /']",c and  you are supposed to feel safe  ,sd,FEMALE,1
+"['{c but } then there are all these, - /']",c but  then there are all these  ,%,FEMALE,5
+"['[ it + ] does not matter race,  /']", it   does not matter race  ,sd,FEMALE,1
+"['{c but, } {d you know, } it is an inter racial mix.  /']",c but  d you know  it is an inter racial mix  ,sd,FEMALE,1
+['{c and } you see these guys standing there watching you jump around in your <laughter> leotards. /'],c and  you see these guys standing there watching you jump around in your laughter leotards ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } i do not even think that way,  /']",c and  i do not even think that way  ,sd,FEMALE,1
+"['{c but }  {e i mean, } you just think to yourself, <sigh> [ you, + you ] just,  {e i mean, } - /']",c but   e i mean  you just think to yourself sigh  you  you  just  e i mean   ,sv,FEMALE,3
+"[""nobody can think [ that, + that ]  it can't happen to them. /""]",nobody can think  that  that   it cant happen to them ,sv,FEMALE,3
+"['it, -/']",it ,%,FEMALE,5
+['no matter who they are  /'],no matter who they are  ,sv,FEMALE,3
+"['{c or } where they are at, {d you know. } -/']",c or  where they are at d you know  ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['{c and } you never know who is watching,  either. /']",c and  you never know who is watching  either ,sv,FEMALE,3
+"['{e i mean, } did you, - /']",e i mean  did you  ,%,FEMALE,5
+"['i do not know, i was in the grocery store this morning.  /']",i do not know i was in the grocery store this morning  ,sd,FEMALE,1
+"['we, {f uh, } went to new orleans for four days and came back late last night, driving.  /']",we f uh  went to new orleans for four days and came back late last night driving  ,sd,FEMALE,1
+['{c and } it is about seven hours. /'],c and  it is about seven hours ,sd,FEMALE,1
+['huh-uh. /'],huhuh ,b,FEMALE,2
+"['{f um, } {c and } that is a very, - /']",f um  c and  that is a very  ,%,FEMALE,5
+['we had never been there.  /'],we had never been there  ,sd,FEMALE,1
+"['that is a very, very neat town to visit.']",that is a very very neat town to visit,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } in terms of the french quarter {c and } all of the things --']",f uh  in terms of the french quarter c and  all of the things ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+['-- you hear about.  /'], you hear about  ,+,FEMALE,0
+['{c but } the crime is so bad there.  /'],c but  the crime is so bad there  ,sd,FEMALE,1
+"['<laughter> {e i mean, } in all the tourist brochures you read about what you should or should not do.  /']",laughter e i mean  in all the tourist brochures you read about what you should or should not do  ,sd,FEMALE,1
+['how to carry --'],how to carry ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- your wallet, {f uh. } /']", your wallet f uh  ,+,FEMALE,0
+['this is new orleans? /'],this is new orleans ,qy,FEMALE,7
+"['new orleans,  /']",new orleans  ,na,FEMALE,21
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{f oh, } i would hate to be there during mardi gras.  /']",f oh  i would hate to be there during mardi gras  ,sd,FEMALE,1
+"['let me tell, -/']",let me tell ,%,FEMALE,5
+"['i would never,  /']",i would never  ,sd,FEMALE,1
+['yeah.  /'],yeah  ,%,FEMALE,5
+['you just do not.  /'],you just do not  ,sv,FEMALE,3
+['do not even bother.  /'],do not even bother  ,sv,FEMALE,3
+['it is not worth it.   /'],it is not worth it   ,sv,FEMALE,3
+"['{f uh, } [ the, + ] when we came back, i do not know if you have seen.  /']",f uh   the   when we came back i do not know if you have seen  ,qy^d,FEMALE,16
+['i was in the super market this morning  /'],i was in the super market this morning  ,sd,FEMALE,1
+"['{c and } on the cover of time magazine, there is a girl, she is in boston?  /']",c and  on the cover of time magazine there is a girl she is in boston  ,sd,FEMALE,1
+['she is on the east coast somewhere.  /'],she is on the east coast somewhere  ,sd,FEMALE,1
+['real attractive young girl.  /'],real attractive young girl  ,sd,FEMALE,1
+"['college freshman, [ i, + ] college coed.  /']",college freshman  i   college coed  ,sd,FEMALE,1
+['i think she is a freshman.  /'],i think she is a freshman  ,sd,FEMALE,1
+['she had been dating a fellow for several --'],she had been dating a fellow for several ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- weeks.  /'], weeks  ,+,FEMALE,0
+['they went back to her dorm room -- /'],they went back to her dorm room  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and date rape.  /'], and date rape  ,sd,FEMALE,1
+"['{e i mean, } {c and } it just, - /']",e i mean  c and  it just  ,%,FEMALE,5
+"['[ sh-, + she ]  looked anguished.  /']", sh  she   looked anguished  ,sd,FEMALE,1
+"['{e i mean, } it was really just sad.  /']",e i mean  it was really just sad  ,sd,FEMALE,1
+"['{e i mean, } did not pick it up and read it,  /']",e i mean  did not pick it up and read it  ,sd,FEMALE,1
+['{c but } i should have.  /'],c but  i should have  ,sd,FEMALE,1
+"['{c but } i just looked at the picture and thought, what a world. /']",c but  i just looked at the picture and thought what a world ,sd,FEMALE,1
+['i know <laughter>. /'],i know laughter ,aa,FEMALE,4
+"['{e i mean, } i do not,  /']",e i mean  i do not  ,sd,FEMALE,1
+"['yeah, /']",yeah ,%,FEMALE,5
+"[""you can't trust anybody. /""]",you cant trust anybody ,sv,FEMALE,3
+"['i do not have any, {f uh, } cure, /']",i do not have any f uh  cure ,sd,FEMALE,1
+"['[ it is, + it is ] really scary. /']", it is  it is  really scary ,sv,FEMALE,3
+"['no,  /']",no  ,aa,FEMALE,4
+"[""you really can't.  /""]",you really cant  ,aa,FEMALE,4
+"['{e i mean, } [ [ i, +  they, ] + we ]  lease out a really nice two story town home in north dallas.  /']",e i mean    i   they   we   lease out a really nice two story town home in north dallas  ,sd,FEMALE,1
+['{c and } they have a real big thing here.  /'],c and  they have a real big thing here  ,sd,FEMALE,1
+"['people, {e i mean, } even dry cleaners knock on the door and are soliciting,   [ you know. + ]  /']",people e i mean  even dry cleaners knock on the door and are soliciting    you know    ,sd,FEMALE,1
+"['[ [ they, +  everybody ] wants your business kind of thing. /']",  they   everybody  wants your business kind of thing ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c and } my husband is the kind of guy, [ he's, + he's ]  sometime, - /""]",c and  my husband is the kind of guy  hes  hes   sometime  ,sd,FEMALE,1
+"['he was raised on a farm in southern ohio, near dayton.   /']",he was raised on a farm in southern ohio near dayton   ,sd,FEMALE,1
+"['{c and } i think sometimes  it is just, he and  i are very different in terms of that.  /']",c and  i think sometimes  it is just he and  i are very different in terms of that  ,sd,FEMALE,1
+"['[ i, + {e i mean, } i ] basically have started not to trust --']", i  e i mean  i  basically have started not to trust ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- anybody in general street smarts. /'], anybody in general street smarts ,+,FEMALE,0
+"['we, -/']",we ,%,FEMALE,5
+"['{c and, }  {f uh, } he opened the door.  /']",c and   f uh  he opened the door  ,sd,FEMALE,1
+['i came downstairs  /'],i came downstairs  ,sd,FEMALE,1
+['{c and } i was real upset  /'],c and  i was real upset  ,sd,FEMALE,1
+['{c and } i probably got more nasty <laughter> than i should have.  /'],c and  i probably got more nasty laughter than i should have  ,sd,FEMALE,1
+"['{c but } i just said, howard, -/']",c but  i just said howard ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } /']",d you know  ,%,FEMALE,5
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f oh, } my god.  /']",f oh  my god  ,ba,FEMALE,6
+"['i would not, {e i mean, } -/']",i would not e i mean  ,%,FEMALE,5
+"['{d well, } [ you, + you, ]']",d well   you  you ,sv,FEMALE,3
+['<sigh>.'],sigh,x,FEMALE,8
+['hear about people opening the door  and getting blown  away.  /'],hear about people opening the door  and getting blown  away  ,+,FEMALE,0
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,FEMALE,4
+"['{c and } [ [ it does, + {e i mean, } it is, ] + it is ] not a reason.  /']",c and    it does  e i mean  it is   it is  not a reason  ,sv,FEMALE,3
+"['{e i mean, } i have been to new york.  /']",e i mean  i have been to new york  ,sd,FEMALE,1
+['you should not deny yourself going to visit --'],you should not deny yourself going to visit ,sv,FEMALE,3
+['-- and all that. /'], and all that ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } {c but } it is not any worse.  /']",f uh  c but  it is not any worse  ,sd,FEMALE,1
+"['i used to work for a mortgage company that was owned by, {f uh, } - /']",i used to work for a mortgage company that was owned by f uh   ,sd,FEMALE,1
+['are you from boston? /'],are you from boston ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+['home owners savings and loan in boston. /'],home owners savings and loan in boston ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } i know i never felt, - /']",c and  i know i never felt  ,sd,FEMALE,1
+"['{e i mean, } i have been to downtown new york city  /']",e i mean  i have been to downtown new york city  ,sd,FEMALE,1
+['{c and } i have been to downtown boston.  /'],c and  i have been to downtown boston  ,sd,FEMALE,1
+"['{c and } i never felt any safer on milk street in boston, staying at the meridian, /']",c and  i never felt any safer on milk street in boston staying at the meridian ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['i did not <laughter> pay for. - /'],i did not laughter pay for  ,sd,FEMALE,1
+"['{c but, }   {e i mean, } i never felt any safer there than i did in any other city --']",c but    e i mean  i never felt any safer there than i did in any other city ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- i have been in, {d you know. } /']", i have been in d you know  ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+['{c so } i would say one thing.  /'],c so  i would say one thing  ,sd,FEMALE,1
+"['do not deny yourself the new york [ [ exper-, + bu-, ] + experience, ] but go with people that you know. /']",do not deny yourself the new york   exper  bu   experience  but go with people that you know ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['i would not want to go by myself. /'],i would not want to go by myself ,sd,FEMALE,1
+"['no, {f uh. }  /']",no f uh   ,aa,FEMALE,4
+"['{c but } {e i mean, } [  it, +  {d yeah, } i ]  do not know.  /']",c but  e i mean    it   d yeah  i   do not know  ,h,FEMALE,15
+"['{e i mean, } [ i, + i ] guess i could go on and on about what to do about criminals.  {f uh,  /']",e i mean   i  i  guess i could go on and on about what to do about criminals  f uh  ,sd,FEMALE,1
+"['} i think the handgun, - /']", i think the handgun  ,sv,FEMALE,3
+['i am not real big on guns --'],i am not real big on guns ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- myself.  /'], myself  ,+,FEMALE,0
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['i think our --'],i think our ,sv,FEMALE,3
+"['{e i mean, } /']",e i mean  ,%,FEMALE,5
+"['-- justice system needs to be stricter.    {e i mean, } because [ everyone, + they ] do it  /']", justice system needs to be stricter    e i mean  because  everyone  they  do it  ,+,FEMALE,0
+"['[ are the new york, + {f uh, } are the new york, ] - /']", are the new york  f uh  are the new york   ,%,FEMALE,5
+['i do not know how the new york state prison system --'],i do not know how the new york state prison system ,qw^d,FEMALE,41
+['-- is  /'], is  ,+,FEMALE,0
+"['{c but, }']",c but ,qy,FEMALE,7
+['yeah. /'],yeah ,%,FEMALE,5
+['are they booked up?  <laughter>  /'],are they booked up  laughter  ,+,FEMALE,0
+"['that is a way to put it,  /']",that is a way to put it  ,sv,FEMALE,3
+['they are booked up.  /'],they are booked up  ,sd,FEMALE,1
+"['are they paroling,  {f uh, } like murderers  /']",are they paroling  f uh  like murderers  ,qy,FEMALE,7
+"['{c and, }  {e i mean, } here it is just a real big deal.  /']",c and   e i mean  here it is just a real big deal  ,sd,FEMALE,1
+['they parole people that have killed police officers  /'],they parole people that have killed police officers  ,sd,FEMALE,1
+['{c and then } they are out doing it again. /'],c and then  they are out doing it again ,sd,FEMALE,1
+"['right, {f um, }  /']",right f um   ,b,FEMALE,2
+"['[ i do not, + i do not ] know.   because i am not real up on --']", i do not  i do not  know   because i am not real up on ,no,FEMALE,31
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- a lot of news things.  /'], a lot of news things  ,+,FEMALE,0
+"['{c but, } {d you know, } you just --']",c but  d you know  you just ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- hear about [ that, + that, ] {d you know, }  /']", hear about  that  that  d you know   ,+,FEMALE,0
+['it is a lot of repeat crime.  /'],it is a lot of repeat crime  ,sv,FEMALE,3
+"['{c and } you are like, why are they repeating?  /']",c and  you are like why are they repeating  ,sv,FEMALE,3
+['they should have been in there longer.  /'],they should have been in there longer  ,sv,FEMALE,3
+"['{c or, } -/']",c or  ,%,FEMALE,5
+['i know.  /'],i know  ,aa,FEMALE,4
+"['{c and then } you think, {e i mean, } [ i ha-, +  {e i mean, } i can remember, i have ] not been out of school that long,  /']",c and then  you think e i mean   i ha   e i mean  i can remember i have  not been out of school that long  ,sd,FEMALE,1
+['{c but } it has been at least ten years.  /'],c but  it has been at least ten years  ,sd,FEMALE,1
+"['{c and } you think to yourself, was it that bad back then?  /']",c and  you think to yourself was it that bad back then  ,sd,FEMALE,1
+"['{c or } is it just, - /']",c or  is it just  ,%,FEMALE,5
+"['i think that, like you said, television?  /']",i think that like you said television  ,sv,FEMALE,3
+"['is it just that more people think there is {d like }  excitement in it, you know?  /']",is it just that more people think there is d like   excitement in it you know  ,qh,FEMALE,26
+"['{e i mean, } people that may have been close to the edge just go over because they see something or read something. /']",e i mean  people that may have been close to the edge just go over because they see something or read something ,sv,FEMALE,3
+"['it seems like a lot of, i-, - /']",it seems like a lot of i  ,%,FEMALE,5
+"['that it is more, like in boston,  /']",that it is more like in boston  ,sd,FEMALE,1
+"['there was a case of, {f uh, } a couple of kids, fifteen year olds.  /']",there was a case of f uh  a couple of kids fifteen year olds  ,sd,FEMALE,1
+['they wanted to see what it was like to kill someone. /'],they wanted to see what it was like to kill someone ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so } [ they, + they ] picked on this --']",c so   they  they  picked on this ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- kid who was {d like } new in town.  /'], kid who was d like  new in town  ,+,FEMALE,0
+"['{c and } they were like, {d well, } no one was going to miss him anyway,  {d you know, }  /']",c and  they were like d well  no one was going to miss him anyway  d you know   ,sd,FEMALE,1
+"['{c and } it like, -/']",c and  it like ,%,FEMALE,5
+"['{f oh, } god. /']",f oh  god ,ba,FEMALE,6
+"['{f ugh, } that is horrible.  /']",f ugh  that is horrible  ,ba,FEMALE,6
+['how can you even think like that? /'],how can you even think like that ,qo,FEMALE,25
+"[""[ [ [ i-, + i-, ] + it is, ] + {d yeah, } isn't it ] something?  /""]",   i  i   it is   d yeah  isnt it  something  ,qh,FEMALE,26
+"['[ i mean, + ] [ [ i, + i have a, ] + i am ] originally from pittsburgh, pennsylvania,  /']", i mean     i  i have a   i am  originally from pittsburgh pennsylvania  ,sd,FEMALE,1
+['{c and } i have a niece and nephew.  /'],c and  i have a niece and nephew  ,sd,FEMALE,1
+"['{c and } i just, {f uh, } {e i mean } - /']",c and  i just f uh  e i mean   ,%,FEMALE,5
+"['my ten year old nephew says things that he is aware of that i am just going, michael,']",my ten year old nephew says things that he is aware of that i am just going michael,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['how did you hear about <laughter> that?  /'],how did you hear about laughter that  ,+,FEMALE,0
+"['{d you know, } it is just, i think kids get too --']",d you know  it is just i think kids get too ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- much too fast.'], much too fast,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['and all those sort of things.  /'],and all those sort of things  ,+,FEMALE,0
+"['in atlanta, where my inlaws live, {f uh, } they had that thing, {d you know, } the high top sneakers,']",in atlanta where my inlaws live f uh  they had that thing d you know  the high top sneakers,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['the air jordans, et cetera. /']",the air jordans et cetera ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+['kids killing each other and beating their brains out. /'],kids killing each other and beating their brains out ,sd,FEMALE,1
+"['{f oh, } for the sneakers. /']",f oh  for the sneakers ,qy^d,FEMALE,16
+['right.  /'],right  ,na,FEMALE,21
+"['[ {c or } the, + {c or } the ]  jackets, the team like the raiders --']", c or  the  c or  the   jackets the team like the raiders ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- and the caps. /'], and the caps ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, } stealing the hundred dollar jackets.  /']",d you know  stealing the hundred dollar jackets  ,sd,FEMALE,1
+"['{f uh, } {e i mean, } it is i guess, it goes from the most petty like that to like what you were saying that [ they, + in boston. ]  /']",f uh  e i mean  it is i guess it goes from the most petty like that to like what you were saying that  they  in boston   ,sv,FEMALE,3
+['that is crime where they videoed.  /'],that is crime where they videoed  ,sd,FEMALE,1
+['that is probably one of the most --'],that is probably one of the most ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- bizarre i have heard of.  /'], bizarre i have heard of  ,+,FEMALE,0
+['where they videotape themselves. /'],where they videotape themselves ,sd,FEMALE,1
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['it seems {d like } crime is turning into a pastime instead of {d like, }  {d you know, } be ... -/']",it seems d like  crime is turning into a pastime instead of d like   d you know  be  ,sv,FEMALE,3

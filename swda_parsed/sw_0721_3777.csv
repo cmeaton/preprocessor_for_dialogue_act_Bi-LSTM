@@ -1,0 +1,173 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['what are your favorite t v shows? /'],what are your favorite t v shows ,qw,MALE,12
+"['{f uh, } i guess one of my favorite ones is cheers. /']",f uh  i guess one of my favorite ones is cheers ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['i always liked that one.  /'],i always liked that one  ,sd,FEMALE,1
+"[""they're always so funny.  /""]",theyre always so funny  ,sv,FEMALE,3
+['{c and } --'],c and  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- i also like the cosby show <laughter>. /'], i also like the cosby show laughter ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+['those are probably my two favorites. /'],those are probably my two favorites ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ [ i, + i, ] + i ] rather enjoy the cosby show.  /']",  i  i   i  rather enjoy the cosby show  ,sd,MALE,1
+['my wife and i both like commish. /'],my wife and i both like commish ,sd,MALE,1
+"[""{d you know, } i've watched that one time  /""]",d you know  ive watched that one time  ,sd,FEMALE,1
+"['{c and }  it was really good,  /']",c and   it was really good  ,sv,FEMALE,3
+"[""{c but } now that's on, what, saturday night? /""]",c but  now thats on what saturday night ,qy^d,FEMALE,16
+"['{f uh, } /']",f uh  ,%,MALE,5
+['is it saturday night? /'],is it saturday night ,qy,FEMALE,7
+"[""it's either friday night, - /""]",its either friday night  ,ng,MALE,29
+"[""it's either tonight or tomorrow night.  /""]",its either tonight or tomorrow night  ,sd,MALE,1
+"['{f uh, } around here at least. -/']",f uh  around here at least ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['i guess --'],i guess ,sd,MALE,1
+"[""i can't, -/""]",i cant ,%,FEMALE,5
+"[""-- it depends on what channel you're getting.""]", it depends on what channel youre getting,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d you know, } what system you're getting it through. /""]",d you know  what system youre getting it through ,+,MALE,0
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['i, - /']",i  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,%,FEMALE,5
+['i saw it one time  /'],i saw it one time  ,sd,FEMALE,1
+"['{c and } i really liked it,  /']",c and  i really liked it  ,sd,FEMALE,1
+"[""{c but } i just haven't, {f uh, } [ seen it, + ] {d you know, } watched it since. /""]",c but  i just havent f uh   seen it   d you know  watched it since ,sd,FEMALE,1
+"['{f uh, } [ we, + we ] always enjoyed it.  /']",f uh   we  we  always enjoyed it  ,sd,MALE,1
+"['[ it, + it ]  seems to be kind of halfway between, {f uh, } something like all in the family and, {f uh, }  hill street blues. /']", it  it   seems to be kind of halfway between f uh  something like all in the family and f uh   hill street blues ,sv,MALE,3
+['yeah  /'],yeah  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['i-, i-, i-, - /']",i i i  ,%,MALE,5
+"[""it's a good show. /""]",its a good show ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""the episode that i watched, {f uh, }  i liked him because even though he's a law enforcement officer, {d you know, } sometimes --""]",the episode that i watched f uh   i liked him because even though hes a law enforcement officer d you know  sometimes ,sd,FEMALE,1
+"['you t-, -/']",you t ,%,MALE,5
+['-- the laws are kind of ridiculous --'], the laws are kind of ridiculous ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+['{c and } he seems to do that sometimes <laughter>. /'],c and  he seems to do that sometimes laughter ,sv,FEMALE,3
+"['h-, - /']",h  ,%,MALE,5
+"[""he's tender hearted fellow. /""]",hes tender hearted fellow ,sv,MALE,3
+['yeah  /'],yeah  ,aa,FEMALE,4
+['<laughter>.'],laughter,x,FEMALE,8
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""i think that's what first drew us to him, [ [ the, + {f uh, } <laughter> the, ] + the ] relationship between he and his wife kind of looks a lot like ours. /""]",i think thats what first drew us to him   the  f uh  laughter the   the  relationship between he and his wife kind of looks a lot like ours ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } {f uh, } -/']",c but  f uh  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i thought it was a pretty good show. /'],i thought it was a pretty good show ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{f uh, }']",f uh ,b,MALE,2
+"['i always like, - /']",i always like  ,sd,FEMALE,1
+"['[ i, + i ] like to watch {d like }  sixty minutes and twenty twenty. /']", i  i  like to watch d like   sixty minutes and twenty twenty ,sd,FEMALE,1
+"['<baby_crying> yeah,  /']",babycrying yeah  ,+,MALE,0
+"['{f uh, } i know [ we, + {f uh, } we ]  watch commish any chance we get. /']",f uh  i know  we  f uh  we   watch commish any chance we get ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } <baby_crying> used to be a big fan of star trek,  /']",f uh  babycrying used to be a big fan of star trek  ,sd,MALE,1
+"[""{c but } that's kind of, th-, th-, - /""]",c but  thats kind of th th  ,sv,MALE,3
+"[""it's gotten more and more to where they are so totally against, {f uh, } anything spiritual. /""]",its gotten more and more to where they are so totally against f uh  anything spiritual ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } {f uh, } anyway, -/']",c but  f uh  anyway ,%,MALE,5
+"[""i've never gotten into the star trek era <laughter>. /""]",ive never gotten into the star trek era laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ i, + i ] [ used to be a, + used to be a ] real big fan of star trek. /']", i  i   used to be a  used to be a  real big fan of star trek ,sd,MALE,1
+"['used to be a trekie, huh <laughter>? /']",used to be a trekie huh laughter ,qy,FEMALE,7
+"['{f uh, } pretty much, yeah. /']",f uh  pretty much yeah ,ny,MALE,9
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['i always enjoyed the show anyway <baby_crying>. /'],i always enjoyed the show anyway babycrying ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } star trek's in a s-, or the, {f uh, } star wars set -- -/""]",c and  star treks in a s or the f uh  star wars set  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } one of the first star wars movie? -/']", f uh  one of the first star wars movie ,qy^d,MALE,16
+['yeah. /'],yeah ,ny,FEMALE,9
+"['i think i watched it [ some-, + ] like nineteen times. /']",i think i watched it  some   like nineteen times ,sd,MALE,1
+"['{f oh, } my goodness.  /']",f oh  my goodness  ,ba,FEMALE,6
+['you must have some of their lines memorized <laughter>. /'],you must have some of their lines memorized laughter ,sd,FEMALE,1
+"['{f uh, } i did at one time <throat_clearing>. /']",f uh  i did at one time throatclearing ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['anyway,']",anyway,sd,MALE,1
+['wow <laughter>. /'],wow laughter ,ba,FEMALE,6
+"['<noise> {f oh, } [ i u-, + ]  i was a pretty big fan of that sort of thing. /']",noise f oh   i u    i was a pretty big fan of that sort of thing ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ used to, + used to ] [ read a, + read a ]  lot of science fiction work, too. /']", used to  used to   read a  read a   lot of science fiction work too ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } {f uh, } no,  /']",c but  f uh  no  ,ar,MALE,28
+"['it, {f uh, } - /']",it f uh   ,%,MALE,5
+"[""we don't do a whole lot of t v watching,  /""]",we dont do a whole lot of t v watching  ,sd,MALE,1
+"[""{c but } [ that, + ] {f uh, } i don't know if you heard them or not, i got a twelve year old,  twelve week old baby. /""]",c but   that   f uh  i dont know if you heard them or not i got a twelve year old  twelve week old baby ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- going to say, i hear a baby in the background <laughter>. /  *[[  b.66 and 68--2 slash units? ]]']", going to say i hear a baby in the background laughter     b66 and 682 slash units ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['that, - /']",that  ,%,MALE,5
+['between --'],between ,sd,MALE,1
+['i imagine --'],i imagine ,sv,FEMALE,3
+"[""-- # that and school it's not # , -/""]",  that and school its not   ,+,MALE,0
+['-- # that keeps you busy # . /'],  that keeps you busy   ,+,FEMALE,0
+"[""between him and school, there's not much time left for --""]",between him and school theres not much time left for ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- watching much t v. /'], watching much t v ,+,MALE,0
+"[""{d well, } [ we're, + we're ] <baby_crying> expecting our first in about three months,  /""]",d well   were  were  babycrying expecting our first in about three months  ,sd,FEMALE,1
+"[""{c so } i know we won't be watching as much as we do now <laughter>. /""]",c so  i know we wont be watching as much as we do now laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['this one here is our first.  /'],this one here is our first  ,sd,MALE,1
+"[""{c and } we're both full time students  /""]",c and  were both full time students  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+"['{f oh, } wow. /']",f oh  wow ,ba,FEMALE,6
+['yeah. /'],yeah ,b,MALE,2
+['that must be tough. /'],that must be tough ,sv,FEMALE,3
+"['what are you hoping for, a boy or a girl? /']",what are you hoping for a boy or a girl ,qy,MALE,7
+"[""it doesn't matter, just a healthy baby. /""]",it doesnt matter just a healthy baby ,sd,FEMALE,1
+"['{d well, } we had a sonogram,  /']",d well  we had a sonogram  ,na,FEMALE,21
+"['{c but } we told him not to tell us,  /']",c but  we told him not to tell us  ,sd,FEMALE,1
+['{c so } --'],c so  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- it's going to be a surprise <laughter>. /""]", its going to be a surprise laughter ,+,FEMALE,0
+"[""that's the best way. /""]",thats the best way ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{e i mean, } it's like finding out somewhere in july what you're going to get for christmas.  /""]",e i mean  its like finding out somewhere in july what youre going to get for christmas  ,sv,MALE,3
+"['{e i mean, } {d you know, }']",e i mean  d you know ,sv,MALE,3
+['yeah  /'],yeah  ,aa,FEMALE,4
+"[""<laughter>.  [ it's, + it's ] not --""]",laughter   its  its  not ,bf,FEMALE,20
+"[""it's not as much --""]",its not as much ,+,MALE,0
+['-- quite the same. /'], quite the same ,+,FEMALE,0
+['-- fun.  /'], fun  ,+,MALE,0
+['oh. /'],oh ,%,MALE,5
+['yeah  /'],yeah  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['anyway, -/']",anyway ,%,MALE,5
+['i agree <laughter>.  /'],i agree laughter  ,aa,FEMALE,4
+"[""i'm sure we'll be watching more,  {f uh, } children oriented television shows. /""]",im sure well be watching more  f uh  children oriented television shows ,sd,FEMALE,1
+"[""{f oh, } i'm about half kid at heart anyway. /""]",f oh  im about half kid at heart anyway ,sd,MALE,1
+"['{f oh, } i am, too. /']",f oh  i am too ,sd,FEMALE,1
+"['i, i, -/']",i i ,%,MALE,5
+"['i still watch cartoons sometimes, every once in a while <laughter>, when my sister comes to visit  /']",i still watch cartoons sometimes every once in a while laughter when my sister comes to visit  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"[""the new cartoons don't seem to be worth much,  /""]",the new cartoons dont seem to be worth much  ,sv,MALE,3
+"['{c but } the, {f uh, } - /']",c but  the f uh   ,%,MALE,5
+"[""{d well, } a couple of the, {f uh, } ones disney's doing aren't too bad  /""]",d well  a couple of the f uh  ones disneys doing arent too bad  ,sv,MALE,3
+"['{c but, } -/']",c but  ,%,MALE,5
+"['{d well, } {d you know, } it seems like a lot of them are a lot more violent than they used to be. /']",d well  d you know  it seems like a lot of them are a lot more violent than they used to be ,sv,FEMALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,aa,MALE,4
+"['{d you know, } i remember, {d like, } the flintstones and the jetsons  /']",d you know  i remember d like  the flintstones and the jetsons  ,sd,FEMALE,1
+['{c and } --'],c and  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['-- those were just kind of good old cartoons. /'], those were just kind of good old cartoons ,+,FEMALE,0
+"['[ [ the, +  the, ] + the ] worst of the violence in the flintstones was when somebody gave fred a poke in the snoot. /']",  the   the   the  worst of the violence in the flintstones was when somebody gave fred a poke in the snoot ,sv,MALE,3
+['yeah  /'],yeah  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c but, } {f oh, } shoot, {e i mean, }  blowing up galaxies [ and + --']",c but  f oh  shoot e i mean   blowing up galaxies  and  ,sv,MALE,3
+['yep. /'],yep ,b,FEMALE,2
+"['-- and ] putting a curse on the whole planet, [ [ or, + or, ] + or ] {d you know, } [ or + ] on [ all the, + ] {d you know,} everything of this species, {d you know, }  just all kinds of crud <noise>. /']", and  putting a curse on the whole planet   or  or   or  d you know   or   on  all the   d you know everything of this species d you know   just all kinds of crud noise ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['{c and } they wonder why kids turn out the way they do nowadays <laughter>. /'],c and  they wonder why kids turn out the way they do nowadays laughter ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""everything's mutations [ [ and, +  and ] + --""]",everythings mutations   and   and   ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- and ] killing  /'], and  killing  ,+,MALE,0
+"['{c and, }']",c and ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['gone are the days of those things they use-, - /']",gone are the days of those things they use  ,+,MALE,0
+"['what was it [ i, + ] {f uh, }  t n, turner broadcasting network [ used to, + used to, ]  {f uh, } do the saturday morning and sunday morning cartoons, the old cartoons.   they used to put between the first and  second [ fea-, + ] feature at the theatre. /']",what was it  i   f uh   t n turner broadcasting network  used to  used to   f uh  do the saturday morning and sunday morning cartoons the old cartoons   they used to put between the first and  second  fea   feature at the theatre ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['those old little ten minute jobs where, {f uh, } the real ballooned looking art work, {d you know } -- /']",those old little ten minute jobs where f uh  the real ballooned looking art work d you know   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- a-, {c and, } -/']", a c and  ,%,MALE,5

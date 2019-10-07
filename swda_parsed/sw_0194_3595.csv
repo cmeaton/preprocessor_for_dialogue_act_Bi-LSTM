@@ -1,0 +1,195 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['arlington, texas - /']",arlington texas  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{d now } since i got somebody from arlington, virginia one day <laughter>. -/']",d now  since i got somebody from arlington virginia one day laughter ,sd,FEMALE,1
+['is that right?  <laughter>. /'],is that right  laughter ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{d well, } i never thought about that,  /']",d well  i never thought about that  ,sd,FEMALE,1
+"['{c but } there is an arlington,  /']",c but  there is an arlington  ,sd,FEMALE,1
+"['{d like } i had a call the other day from birmingham, michigan --']",d like  i had a call the other day from birmingham michigan ,sd,FEMALE,1
+['oh -- /'],oh  ,b,FEMALE,2
+"['-- {d you know, }  /']", d you know   ,+,FEMALE,0
+['[ {c and } i was thinking -- +'], c and  i was thinking  ,sd,FEMALE,1
+['-- birmingham. /'], birmingham ,b^m,FEMALE,24
+"['-- {d yeah, } {c and } i was thinking ] - /']", d yeah  c and  i was thinking   ,+,FEMALE,0
+['the only birmingham i could think of was alabama. /'],the only birmingham i could think of was alabama ,sd,FEMALE,1
+['right.  /'],right  ,aa,FEMALE,4
+"[""it's funny how many names have been used, {f uh, } all over the country. /""]",its funny how many names have been used f uh  all over the country ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{d well, } tell me what kind of books have you read? /']",d well  tell me what kind of books have you read ,qw,FEMALE,12
+"[""{d well, } to tell you the truth,  i've been going to college for the last four years   /""]",d well  to tell you the truth  ive been going to college for the last four years   ,sd,FEMALE,1
+"['{c so } mainly,']",c so  mainly,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['text books. -/'],text books ,+,FEMALE,0
+"['i was going to say, not fun kind, right? /']",i was going to say not fun kind right ,qy,FEMALE,7
+"['no, {f um, }  /']",no f um   ,nn,FEMALE,13
+"['{c but, }  [ i, +  i ]  really tend to like biographies a lot, not necessarily always heavy ones -- /']",c but    i   i   really tend to like biographies a lot not necessarily always heavy ones  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but, } {d you know, } sometimes  biogr-, - /']", c but  d you know  sometimes  biogr  ,sd,FEMALE,1
+['i just read one about grace kelley.  /'],i just read one about grace kelley  ,sd,FEMALE,1
+['i love to read about real people.  /'],i love to read about real people  ,sd,FEMALE,1
+"[""to me, half the time it's more fascinating than some of these made up stories <laughter>. /""]",to me half the time its more fascinating than some of these made up stories laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['it is,  /']",it is  ,sd,FEMALE,1
+"[""{c because } {d you know }  [ that's +  it's ] really and truly --""]",c because  d you know    thats   its  really and truly ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['it happened. /'],it happened ,sd,FEMALE,1
+['-- a true thing.  /'], a true thing  ,+,FEMALE,0
+"['{d you know, }  i read one about bob hope that i liked. /']",d you know   i read one about bob hope that i liked ,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['that was real good.  /'],that was real good  ,sd,FEMALE,1
+"[""i'm like you,  /""]",im like you  ,sd,FEMALE,1
+"[""if it's not a heavy biography, {d you know } --""]",if its not a heavy biography d you know  ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- i enjoy it. /'], i enjoy it ,+,FEMALE,0
+['i used to like to read about royalty a lot.  /'],i used to like to read about royalty a lot  ,sd,FEMALE,1
+"['[ i, +  when i ] was younger i read about every king and queen that lived, <laughter>  i think, in europe.  /']", i   when i  was younger i read about every king and queen that lived laughter  i think in europe  ,sd,FEMALE,1
+['that was my thing for a while. /'],that was my thing for a while ,sd,FEMALE,1
+"['i was trying to think, {f uh, } - /']",i was trying to think f uh   ,^h,FEMALE,27
+"['i read [ a, + {f uh, } a  ] novel that used the names of like princess di and prince phillip coming over here to be entertained and  all,  /']",i read  a  f uh  a   novel that used the names of like princess di and prince phillip coming over here to be entertained and  all  ,sd,FEMALE,1
+['{c and } there was a murder. /'],c and  there was a murder ,sd,FEMALE,1
+"['{f oh, } really. /']",f oh  really ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['it was some time ago.  /'],it was some time ago  ,sd,FEMALE,1
+"['seems like it was the spy went dancing, or something like that. /']",seems like it was the spy went dancing or something like that ,sd,FEMALE,1
+"['{f oh, } it sounds like fun. /']",f oh  it sounds like fun ,ba,FEMALE,6
+"['it was a lot of fun because they used these real names, {d you know. } /']",it was a lot of fun because they used these real names d you know  ,sd,FEMALE,1
+"['wonder if it was by one of those  famous writers,  {d you know }  /']",wonder if it was by one of those  famous writers  d you know   ,sd,FEMALE,1
+['margaret truman daniels writes a lot those. /'],margaret truman daniels writes a lot those ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['in fact i believe it was  /'],in fact i believe it was  ,sd,FEMALE,1
+"['{c because, } -/']",c because  ,%,FEMALE,5
+['really? /'],really ,bh,FEMALE,18
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+['i believe. /'],i believe ,sd,FEMALE,1
+['sounds like something she would write. /'],sounds like something she would write ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['i think it was by her, now + that you mention it, because someone had given it to me,  /']",i think it was by her now  that you mention it because someone had given it to me  ,sd,FEMALE,1
+"['{c and } i thought,  {d well, } this will be great,  /']",c and  i thought  d well  this will be great  ,sd,FEMALE,1
+['{c and } it was. /'],c and  it was ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i've heard that [ she's done real-, +   {d you know, } her books are really ] interesting,  /""]",ive heard that  shes done real    d you know  her books are really  interesting  ,sd,FEMALE,1
+['{c and } they always sell well. /'],c and  they always sell well ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, }  {f uh, } -/']",c and   f uh  ,%,FEMALE,5
+"['{d well, } when you use real people like that, i think --']",d well  when you use real people like that i think ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['brings it to life. /'],brings it to life ,sv,FEMALE,3
+"['-- royalty, especially, {d you know. } -/']", royalty especially d you know  ,+,FEMALE,0
+"[""i know, {f uh, } [ the bri-, +  some of the british ]  people laugh at us because we're so enthralled with their <laughter> royalty. /""]",i know f uh   the bri   some of the british   people laugh at us because were so enthralled with their laughter royalty ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""{c but } {d you know, } that's like them being enthralled with our football and  so forth, {d you know. } /""]",c but  d you know  thats like them being enthralled with our football and  so forth d you know  ,sv,FEMALE,3
+"['i know,  /']",i know  ,aa,FEMALE,4
+['our movie stars. /'],our movie stars ,sv,FEMALE,3
+"['our movie stars,  /']",our movie stars  ,b^m,FEMALE,24
+"[""{c because } it's totally different concept to us. /""]",c because  its totally different concept to us ,sv,FEMALE,3
+"['{f oh, } right. /']",f oh  right ,aa,FEMALE,4
+"[""[ i haven't, +  i haven't ] had a chance  to read a lot lately either.  /""]", i havent   i havent  had a chance  to read a lot lately either  ,sd,FEMALE,1
+"['i have read, {f uh, } mostly novels.  /']",i have read f uh  mostly novels  ,sd,FEMALE,1
+['i went to visit my daughter in florida -- /'],i went to visit my daughter in florida  ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['-- {c and } i took a novel with me, {f uh, } and read it at thanksgiving time,  /']", c and  i took a novel with me f uh  and read it at thanksgiving time  ,sd,FEMALE,1
+"['{c and, } {f uh, } it was, {f uh, } one of those generation novels, {d you know } -- /']",c and  f uh  it was f uh  one of those generation novels d you know   ,sd,FEMALE,1
+"['{f oh, } yes. /']",f oh  yes ,aa,FEMALE,4
+"[""-- starts out when they're small and  continues through generations -- /""]", starts out when theyre small and  continues through generations  ,sd,FEMALE,1
+"['{f oh, } i always like those. /']",f oh  i always like those ,sd,FEMALE,1
+['-- {c and } i like that. /'], c and  i like that ,sd,FEMALE,1
+['have you ever read anything by susan howatch? /'],have you ever read anything by susan howatch ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['i have. /'],i have ,sd,FEMALE,1
+"[""isn't she fabulous? /""]",isnt she fabulous ,qy,FEMALE,7
+"['{f oh, } she is wonderful. /']",f oh  she is wonderful ,na,FEMALE,21
+"['{f oh, } once you st-, - /']",f oh  once you st  ,sd,FEMALE,1
+"[""i don't like to get one of her books  /""]",i dont like to get one of her books  ,sd,FEMALE,1
+"['{c because, }']",c because ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['[ i, +  i ] just live to read.  /']", i   i  just live to read  ,+,FEMALE,0
+"[""[ i'll, + i'll ] skip everything just to get back to the book <laughter>. /""]", ill  ill  skip everything just to get back to the book laughter ,sd,FEMALE,1
+"['i stayed up one night, i think until two --']",i stayed up one night i think until two ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,ba,FEMALE,6
+"['-- in the morning finishing  one of hers  because [ i star-, +  i could not put ] it down. /']", in the morning finishing  one of hers  because  i star   i could not put  it down ,+,FEMALE,0
+"[""she's just a, - /""]",shes just a  ,sv,FEMALE,3
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+"['[ does she, +  how often does she ] come out with them.  /']", does she   how often does she  come out with them  ,qw,FEMALE,12
+"[""i probably have missed the last  few since i've been back in school. /""]",i probably have missed the last  few since ive been back in school ,sd,FEMALE,1
+"['{d well, } no,  /']",d well  no  ,ar,FEMALE,28
+"[""it seems like  she doesn't write as often as, {f oh, } {d well, } like  danielle steele and those silly things.  /""]",it seems like  she doesnt write as often as f oh  d well  like  danielle steele and those silly things  ,sd,FEMALE,1
+['she writes the same thing. /'],she writes the same thing ,sv,FEMALE,3
+"['{d well, } [ she can, +  she can ]  turn them out overnight, i swear. /']",d well   she can   she can   turn them out overnight i swear ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""[ {c and, } +  {c and } ]  they're the same silly things,  /""]", c and    c and    theyre the same silly things  ,sv,FEMALE,3
+"[""{e i mean, } if you've read one, i mean [ [ it's, +""]",e i mean  if youve read one i mean   its ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""i've never read a whole one of hers, i don't think. /""]",ive never read a whole one of hers i dont think ,sd,FEMALE,1
+"[""it, ] +  it's ] practically the same  thing over and over, {d you know. } /""]",it    its  practically the same  thing over and over d you know  ,+,FEMALE,0
+['{c and } think how rich she is. /'],c and  think how rich she is ,ad,FEMALE,22
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""wouldn't i, {d you know, } - /""]",wouldnt i d you know   ,qh,FEMALE,26
+"[""i'm criticizing her,  /""]",im criticizing her  ,sd,FEMALE,1
+"[""{c and } wouldn't i like to have her money -- /""]",c and  wouldnt i like to have her money  ,qh,FEMALE,26
+"['{f oh, } yeah. /']",f oh  yeah ,aa,FEMALE,4
+['-- {c because } they go from hardback to paperback  /'], c because  they go from hardback to paperback  ,sd,FEMALE,1
+['{c and } she has millions of them. /'],c and  she has millions of them ,sd,FEMALE,1
+['and then make movies out of some of them. /'],and then make movies out of some of them ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{d you know, } mini series and so  forth,  /']",d you know  mini series and so  forth  ,sd,FEMALE,1
+['{c and } it seems to me like susan howatch does not write as often.  /'],c and  it seems to me like susan howatch does not write as often  ,sd,FEMALE,1
+['i have not seen as many of hers. /'],i have not seen as many of hers ,sd,FEMALE,1
+"['{d well, } hers are so involved,  /']",d well  hers are so involved  ,sv,FEMALE,3
+"[""{c and } they're [ so -- +""]",c and  theyre  so  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- such ] a higher intellectual level, because she quotes a lot, {d you know. } /']", such  a higher intellectual level because she quotes a lot d you know  ,+,FEMALE,0
+"['i think she does a lot of research, too. /']",i think she does a lot of research too ,sv,FEMALE,3
+"['i do too,  /']",i do too  ,aa,FEMALE,4
+"[""{d so } she couldn't possibly  turn them out like some of these popular --""]",d so  she couldnt possibly  turn them out like some of these popular ,sv,FEMALE,3
+['huh-uh. /'],huhuh ,aa,FEMALE,4
+"['-- writers,  /']", writers  ,+,FEMALE,0
+"['{c but } {f oh, } her  books are just incredible.  /']",c but  f oh  her  books are just incredible  ,sv,FEMALE,3
+"[""i don't think they've ever made a movie, do you? /""]",i dont think theyve ever made a movie do you ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i don't think so,  /""]",i dont think so  ,sd,FEMALE,1
+"[""{c and } i've often wondered why, haven't you? /""]",c and  ive often wondered why havent you ,qy,FEMALE,7
+['yes -- /'],yes  ,ny,FEMALE,9
+"['{d you know, } i, -/']",d you know  i ,%,FEMALE,5
+"['-- {d well, } no, {f uh, }  /']", d well  no f uh   ,ar,FEMALE,28
+['i really just thought about it now  /'],i really just thought about it now  ,sd,FEMALE,1
+"[""{c but } there's just, -/""]",c but  theres just ,%,FEMALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"[""maybe it's because they take so much in.  /""]",maybe its because they take so much in  ,sd,FEMALE,1
+"[""i don't know. /""]",i dont know ,h,FEMALE,15
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""maybe they're just too involved  for the average person to go and  sit through them, {d you know. } /""]",maybe theyre just too involved  for the average person to go and  sit through them d you know  ,sd,FEMALE,1
+"[""they're so big -- /""]",theyre so big  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- they're such, {d you know, } - /""]", theyre such d you know   ,sd,FEMALE,1
+"['it would be like another gone with the wind, i guess --']",it would be like another gone with the wind i guess ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- another three hour movie <laughter>. /'], another three hour movie laughter ,+,FEMALE,0
+"['{c and } maybe that turns people off,  /']",c and  maybe that turns people off  ,sd,FEMALE,1
+"['{c but } look at gone with the wind, {d you know. } /']",c but  look at gone with the wind d you know  ,ad,FEMALE,22
+"['{f oh, } i know.  /']",f oh  i know  ,aa,FEMALE,4
+"[""it's about one of my favorite movies. /""]",its about one of my favorite movies ,sd,FEMALE,1
+"['{f uh, } have you, {f uh, } gotten into scarlett yet? /']",f uh  have you f uh  gotten into scarlett yet ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['it had such a bad press,  /']",it had such a bad press  ,sd,FEMALE,1
+"[""i wasn't too  ((   )) . /""]",i wasnt too       ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's exactly what i was going to say.  /""]",thats exactly what i was going to say  ,sd,FEMALE,1
+"['i was amazed,  /']",i was amazed  ,sd,FEMALE,1
+"['{c because } i, - /']",c because  i  ,%,FEMALE,5
+"['in the beginning when it was [ on, +  {d you know, } on ] route coming out --']",in the beginning when it was  on   d you know  on  route coming out ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- i heard mixed publicity --'], i heard mixed publicity ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"['-- kind of good and bad,  /']", kind of good and bad  ,+,FEMALE,0
+"[""{c and then }  when it came out, all i heard was just, {f oh, } how bad it was, that i didn't even want to get it. /""]",c and then   when it came out all i heard was just f oh  how bad it was that i didnt even want to get it ,sd,FEMALE,1
+"['me, either.  /']",me either  ,aa,FEMALE,4
+"[""do you know anyone that's read it? /""]",do you know anyone thats read it ,qy,FEMALE,7
+['huh-uh. /'],huhuh ,nn,FEMALE,13
+"['no,  /']",no  ,aa,FEMALE,4
+"[""i haven't heard of anybody that's read it, either. /""]",i havent heard of anybody thats read it either ,sd,FEMALE,1
+['no. /'],no ,b,FEMALE,2
+"['i think it was on the best-seller list, though --']",i think it was on the bestseller list though ,sd,FEMALE,1
+['{d well } --'],d well  ,sd,FEMALE,1
+['-- for a while. /'], for a while ,+,FEMALE,0
+"[""-- it wouldn't surprise me, /""]", it wouldnt surprise me ,+,FEMALE,0

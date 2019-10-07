@@ -1,0 +1,51 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{d well, } basically i am a mother of a three year old, /']",d well  basically i am a mother of a three year old ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so } i kind of relate to trying to find a good day care because it's, {f uh, } extremely hard thing to do to trust somebody else with your child, {f uh, } trust their emotional and their safety and --""]",c so  i kind of relate to trying to find a good day care because its f uh  extremely hard thing to do to trust somebody else with your child f uh  trust their emotional and their safety and ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- all the rest of that.  /'], all the rest of that  ,+,FEMALE,0
+"[""{c and, } {f uh, } i've been pretty selective,  /""]",c and  f uh  ive been pretty selective  ,sd,FEMALE,1
+"[""{c and } what i'm finding is with, {f um, } day cares that are like day care centers like, for instance, {f uh, } learning tree or kinder care and all of that. /""]",c and  what im finding is with f um  day cares that are like day care centers like for instance f uh  learning tree or kinder care and all of that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } like nap time or whatever time, {f uh, } because of parents' hours they are differ-, - /""]",f uh  like nap time or whatever time f uh  because of parents hours they are differ  ,+,FEMALE,0
+"['{c and } when i bring my daughter into such a system like that, {f uh, } they only have one thing going on  /']",c and  when i bring my daughter into such a system like that f uh  they only have one thing going on  ,sd,FEMALE,1
+"[""{c and } that's nap time.  /""]",c and  thats nap time  ,sd,FEMALE,1
+"['everybody is napping,']",everybody is napping,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['whether they came there an hour before or they came [ a-, + ] right during that time.  /']",whether they came there an hour before or they came  a   right during that time  ,+,FEMALE,0
+"[""{c and } with that kind of a system my daughter just isn't likely to enjoy it if she has to good there immediately and lay down,""]",c and  with that kind of a system my daughter just isnt likely to enjoy it if she has to good there immediately and lay down,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['on a cot.  /'],on a cot  ,+,FEMALE,0
+"['{c so, } {f um, } home day care has been an option.  /']",c so  f um  home day care has been an option  ,sd,FEMALE,1
+"[""{c and } i've looked into that.  /""]",c and  ive looked into that  ,sd,FEMALE,1
+"[""the only thing is you raise the question of if it's safe, {f uh, } can you trust the people, {d you know. } /""]",the only thing is you raise the question of if its safe f uh  can you trust the people d you know  ,sd,FEMALE,1
+"[""that's right. /""]",thats right ,ba,FEMALE,6
+"['{f um, } -/']",f um  ,%,FEMALE,5
+['{c and } you never know.  /'],c and  you never know  ,sv,FEMALE,3
+"['i have, {f um, } an ex-sister-in-law that,']",i have f um  an exsisterinlaw that,sd,FEMALE,1
+['<<very faint>> uh-huh. /'],very faint uhhuh ,b,FEMALE,2
+"['{f um, } currently has a child abuse case on a home baby-sitter. /']",f um  currently has a child abuse case on a home babysitter ,+,FEMALE,0
+['sure.  /'],sure  ,b,FEMALE,2
+"['{f oh, } sure.  /']",f oh  sure  ,ba,FEMALE,6
+['sure.  /'],sure  ,b,FEMALE,2
+"[""that's really scary.  /""]",thats really scary  ,ba,FEMALE,6
+"['{c and, }']",c and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['to the point that you kind of say to yourself, especially home day care - /']",to the point that you kind of say to yourself especially home day care  ,+,FEMALE,0
+"[""{e i mean, } i think center day cares there's so many people coming in and out --""]",e i mean  i think center day cares theres so many people coming in and out ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+"[""-- that you're better off if you're going to put a child into that type of system for eight hours, it's fine.  /""]", that youre better off if youre going to put a child into that type of system for eight hours its fine  ,+,FEMALE,0
+['it depends on the age of the child.  /'],it depends on the age of the child  ,sd,FEMALE,1
+['{d now } some children do real well that are at the age of four or five or children that have been in that kind of system for a while  /'],d now  some children do real well that are at the age of four or five or children that have been in that kind of system for a while  ,sv,FEMALE,3
+['{c but } --'],c but  ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+"[""-- [ home da-, + home day ] care works well if it's an infant.  /""]",  home da  home day  care works well if its an infant  ,+,FEMALE,0
+"[""[ [ if it's, +  if it's, ] +""]",  if its   if its  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['the kids have,']",the kids have,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['colds  /'],colds  ,+,FEMALE,0
+"[""{c and } they're sick all the time  /""]",c and  theyre sick all the time  ,sd,FEMALE,1
+"['{c and } the-, -/']",c and  the ,%,FEMALE,5

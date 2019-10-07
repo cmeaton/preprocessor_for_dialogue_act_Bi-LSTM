@@ -1,0 +1,155 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['((   )) , how do you feel about crime in the city?  /']",     how do you feel about crime in the city  ,qo,MALE,25
+"[""you say you're from atlanta. /""]",you say youre from atlanta ,sd,MALE,1
+"['right,  /']",right  ,aa,MALE,4
+"['[ [ [ i, + i, ] + i ] + actually  i  ] live in the city -- /']",   i  i   i   actually  i   live in the city  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and, } {f uh, } i guess it is a concern of mine, {f uh, } {d you know, } for my own safety. /']", c and  f uh  i guess it is a concern of mine f uh  d you know  for my own safety ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['{e i mean, } [ do you, + do you  ] find crime in atlanta really  ((   )) - /']",e i mean   do you  do you   find crime in atlanta really       ,qy,MALE,7
+['i live in atlanta also. /'],i live in atlanta also ,sd,MALE,1
+"[""{d well } that's right.  /""]",d well  thats right  ,ba,MALE,6
+['# {f uh. } # /'], f uh   ,%,MALE,5
+"['{f uh, } i think it is bad in certain areas,  /  *[[sv]]']",f uh  i think it is bad in certain areas    sv,+,MALE,0
+"[""however i think, the area that i live in [ it's not, + {f uh, } the crime level is not  ] as high as it is in other areas [ of the, + of the  ] city. /""]",however i think the area that i live in  its not  f uh  the crime level is not   as high as it is in other areas  of the  of the   city ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i think it seems that there's certain areas where, {f uh, } the crime is focused  --""]",i think it seems that theres certain areas where f uh  the crime is focused  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {f uh. } /'], f uh  ,+,MALE,0
+['{d well } what do you think can be done about the crime in the city? /'],d well  what do you think can be done about the crime in the city ,qw,MALE,12
+"[""{d well, } i think  [ it's, + ] what's been happening over the last several years it seems they've been beefing up the police patrols, trying to [ put, + put  ]  more guys, more cops, higher visibility,  /""]",d well  i think   its   whats been happening over the last several years it seems theyve been beefing up the police patrols trying to  put  put    more guys more cops higher visibility  ,sv,MALE,3
+"['{c and, } {f uh, } --']",c and  f uh  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- they've had some impact, but not a tremendous amount,  /""]", theyve had some impact but not a tremendous amount  ,+,MALE,0
+"['{c and } probably, {f um, } they need to try to increase community involvement, that sort of thing, i think  ((   )) . /']",c and  probably f um  they need to try to increase community involvement that sort of thing i think       ,sv,MALE,3
+['i probably agree with that. /'],i probably agree with that ,aap_am,MALE,39
+['yeah. /'],yeah ,b,MALE,2
+['{f uh. } /'],f uh  ,%,MALE,5
+"[""{d you know, } particularly in some of the housing projects, {f uh, } {d you know, } [ that's, +  that  ] tends to be where a lot of that crime is focused -- /""]",d you know  particularly in some of the housing projects f uh  d you know   thats   that   tends to be where a lot of that crime is focused  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } they've got to do more than just [ having, + having  ] cops there.  /""]", c and  theyve got to do more than just  having  having   cops there  ,sv,MALE,3
+"[""they've got to kind of change the way people think about it. /""]",theyve got to kind of change the way people think about it ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's probably true.  /""]",thats probably true  ,aap_am,MALE,39
+"[""{f um, } {c so, } {f um, } {d well } do you think atlanta's as bad as most other cities? /""]",f um  c so  f um  d well  do you think atlantas as bad as most other cities ,qy,MALE,7
+"[""{f um, } {d well, } i've been to, - /""]",f um  d well  ive been to  ,%,MALE,5
+"[""i'd say [ it's, + it's  ] probably in the [ top, + top  ] ten in terms of crime.  /""]",id say  its  its   probably in the  top  top   ten in terms of crime  ,na,MALE,21
+"[""{f um, } it's nowhere near as bad as new york city --""]",f um  its nowhere near as bad as new york city ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- for example.   /'], for example   ,+,MALE,0
+"['probably [ not, + not  ] as bad as detroit. /']",probably  not  not   as bad as detroit ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""i don't think it's as bad as l a either. /""]",i dont think its as bad as l a either ,sv,MALE,3
+['no. /'],no ,aa,MALE,4
+"[""[ we, + i  don't think we ] have as much of the gang problem as a lot of the other cities have. /""]", we  i  dont think we  have as much of the gang problem as a lot of the other cities have ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['that seems to be true.  /'],that seems to be true  ,aa,MALE,4
+"['{f um, } yeah,  /']",f um  yeah  ,%,MALE,5
+"[""if you've ever been to {d like } new york city  /""]",if youve ever been to d like  new york city  ,%,MALE,5
+['{c and } --'],c and  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- [ [ you can just, + you can just,  ] + as you walk through the street on a given evening, you can  ] see crimes being committed. /']",   you can just  you can just    as you walk through the street on a given evening you can   see crimes being committed ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""it's that obvious. /""]",its that obvious ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"[""i came to the conclusion also that, {d you know, } [ just, + ] if you are walking in a downtown area, {d you know, } where there's a lot of crime, a lot of that's going to [ just, + just  ] keeping your senses about you [ and, + and  ]  trying not to look like a victim, {d you know. } /""]",i came to the conclusion also that d you know   just   if you are walking in a downtown area d you know  where theres a lot of crime a lot of thats going to  just  just   keeping your senses about you  and  and    trying not to look like a victim d you know  ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's true. /""]",thats true ,aa,MALE,4
+"['{d you know, } [ [ walk bi-, + {d you know, } walk   [ with, + {d you know, } with  ] ] +  --']",d you know    walk bi  d you know  walk    with  d you know  with      ,sv,MALE,3
+['with a big stick  /'],with a big stick  ,^2,MALE,23
+['{c or. } /'],c or  ,qy,MALE,7
+"['-- <laughter>  ((   ))  just walk in ] a confidently,  /']", laughter       just walk in  a confidently  ,+,MALE,0
+"[""{c and, } {d you know, } [ don't, + don't ] be --""]",c and  d you know   dont  dont  be ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+"[""-- looking around like you've never been there before --""]", looking around like youve never been there before ,+,MALE,0
+['sure. /'],sure ,ba,MALE,6
+['-- and you have no idea where you are. /'], and you have no idea where you are ,+,MALE,0
+"['right,  /']",right  ,aa,MALE,4
+"[""[ don't, + don't ] walk down [ a, + an ] alley  /""]", dont  dont  walk down  a  an  alley  ,sv,MALE,3
+"[""{c or } don't get -- -/""]",c or  dont get  ,%,MALE,5
+['yeah. /'],yeah ,b,MALE,2
+['-- just try to keep yourself out of a bad situation -- /'], just try to keep yourself out of a bad situation  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c but, } yeah,  /']", c but  yeah  ,%,MALE,5
+"[""there are times when you can't avoid all that -- /""]",there are times when you cant avoid all that  ,sv,MALE,3
+['{f uh. } /'],f uh  ,%,MALE,5
+"[""-- [ {c and, } + {c and then } ] you're kind of on your own <laughter>. /""]",  c and   c and then   youre kind of on your own laughter ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['((   ))  [ [ have you, + have you  ever, ] + have you ever  ] been mugged in atlanta? /']",       have you  have you  ever   have you ever   been mugged in atlanta ,qy,MALE,7
+"['{f uh, } no.  /']",f uh  no  ,nn,MALE,13
+"[""the only thing i've ever had, was i've had my wallet lifted -- /""]",the only thing ive ever had was ive had my wallet lifted  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c but } that was in a more of [ a, + a  ] setting where there was a number of people around,  /']", c but  that was in a more of  a  a   setting where there was a number of people around  ,sd,MALE,1
+"['{c and } i kind of got, - /']",c and  i kind of got  ,%,MALE,5
+['i was much younger at the time -- /'],i was much younger at the time  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } kind of a couple of people, they just took it from me without me knowing really --']", c and  kind of a couple of people they just took it from me without me knowing really ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- and kind of passed it off, so i didn't know who had it. /""]", and kind of passed it off so i didnt know who had it ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i've had that happen,  /""]",ive had that happen  ,sd,MALE,1
+"[""{c but } [ that's, + that's ] about it. /""]",c but   thats  thats  about it ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i've been pretty lucky about getting mugged.  /""]",ive been pretty lucky about getting mugged  ,sd,MALE,1
+['# {f um. } #'], f um  ,%,MALE,5
+"['# {f oh, } yeah. # /']", f oh  yeah  ,b,MALE,2
+"['yeah,  /']",yeah  ,+,MALE,0
+"[""i think i've only actually seen {d like } [ one, + {d you know, } one  ] actual robbery with a gun -- /""]",i think ive only actually seen d like   one  d you know  one   actual robbery with a gun  ,sd,MALE,1
+['{f um. } /'],f um  ,%,MALE,5
+"[""-- {c and } that's been about the only, {d you know, } [ real violent crime where, +  {d you know, } potentially violent crime   that ] i've seen in atlanta. /""]", c and  thats been about the only d you know   real violent crime where   d you know  potentially violent crime   that  ive seen in atlanta ,sd,MALE,1
+"['really,  /']",really  ,ba,MALE,6
+"[""{d well, } i've had my. -/""]",d well  ive had my ,%,MALE,5
+['{c and } that was just a guy running out of a store that he just robbed. /'],c and  that was just a guy running out of a store that he just robbed ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""i've had my car stolen,  /""]",ive had my car stolen  ,sd,MALE,1
+['{c so } maybe that counts. /'],c so  maybe that counts ,sv,MALE,3
+"['{f oh, } really. /']",f oh  really ,bh,MALE,18
+['yeah. /'],yeah ,ny,MALE,9
+"['{f oh, } [ where was, + [ where, + where  ]   was ] that?  /']",f oh   where was   where  where     was  that  ,qw,MALE,12
+['was that downtown  /'],was that downtown  ,qy,MALE,7
+"['{c or, } -/']",c or  ,qy,MALE,7
+"['{f oh } no,  /']",f oh  no  ,nn,MALE,13
+"['that was [ in the northern p-, + ] {f um, } up near cumberland mall area. /']",that was  in the northern p   f um  up near cumberland mall area ,sd,MALE,1
+['really. /'],really ,ba,MALE,6
+"[""it's actually cobb county,  /""]",its actually cobb county  ,sd,MALE,1
+['{c but } it is atlanta -- /'],c but  it is atlanta  ,sd,MALE,1
+"['metropolitan,  /']",metropolitan  ,^2,MALE,23
+['yeah. /'],yeah ,aa,MALE,4
+"[""-- {c and, } {f uh, } there's a lot of car thefts in that area. /""]", c and  f uh  theres a lot of car thefts in that area ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""[ i've actually, + i've ] [ known, + known ] some people that have had their cars stolen.  /""]", ive actually  ive   known  known  some people that have had their cars stolen  ,sd,MALE,1
+"['{f uh, } [ {c and, } + {f uh, } {c and, } ] {d you know, } about half the time [ they seem to, + the a p d seems to  ] recover them, {d you know } --']",f uh   c and   f uh  c and   d you know  about half the time  they seem to  the a p d seems to   recover them d you know  ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+['-- in various states of disrepair <laughter>.'], in various states of disrepair laughter,+,MALE,0
+['yeah  /'],yeah  ,b,MALE,2
+['<laughter>.'],laughter,x,MALE,8
+['up on blocks.  <laughter>  /'],up on blocks  laughter  ,+,MALE,0
+"['my friend had a v w rabbit,  /']",my friend had a v w rabbit  ,sd,MALE,1
+"['{c and } [ when he, + when he ] got it back his, {f um, } dashboard was sitting in the front seat <laughter>. /']",c and   when he  when he  got it back his f um  dashboard was sitting in the front seat laughter ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ mine  was just, +  it had been ] wrecked and some superficial type damage,  /']", mine  was just   it had been  wrecked and some superficial type damage  ,sd,MALE,1
+"[""{c but } [ they didn't, +  they didn't ] strip it -- /""]",c but   they didnt   they didnt  strip it  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c so } i got it back. /'], c so  i got it back ,sd,MALE,1
+"[""{d well, } you're probably luckier than. -/""]",d well  youre probably luckier than ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['than most. /'],than most ,aa,MALE,4
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['{f um, } {c so } {d like } does insurance pay for the body damage,  /']",f um  c so  d like  does insurance pay for the body damage  ,qy,MALE,7
+['{c or } --'],c or  ,qy,MALE,7
+['right. /'],right ,na,MALE,21
+"['-- was that all there was, body. /']", was that all there was body ,+,MALE,0
+['it was about three grand to put everything together.  /'],it was about three grand to put everything together  ,sd,MALE,1
+"['they cracked the steering column of course, to steal the car. /']",they cracked the steering column of course to steal the car ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ you got to, + you  ] crack the steering column  /']", you got to  you   crack the steering column  ,sd,MALE,1
+"['{c and } you pull the, - /']",c and  you pull the  ,sd,MALE,1
+"[""there's a pin in there that you can pull on these g m cars -- /""]",theres a pin in there that you can pull on these g m cars  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } you can start it up, basically pretty easily. /']", c and  you can start it up basically pretty easily ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['{c so } how do you know this much about, {f um, } stealing cars? /']",c so  how do you know this much about f um  stealing cars ,qw,MALE,12
+"['<laughter>  {d well, } after i found mine [ i had to, + i had  ] this, -/']",laughter  d well  after i found mine  i had to  i had   this ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8

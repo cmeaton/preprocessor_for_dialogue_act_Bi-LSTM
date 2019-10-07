@@ -1,0 +1,130 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<noise> <talking>  {d so } how do you feel about it? /'],noise talking  d so  how do you feel about it ,qo,MALE,25
+"[""{f uh, } [ i, + i ] don't see any problem [ with, + with ]  testing for random drugs. /""]",f uh   i  i  dont see any problem  with  with   testing for random drugs ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['[ i, + i, ] myself, almost, {f uh, }  am in favor of it.  /']", i  i  myself almost f uh   am in favor of it  ,sd,MALE,1
+"['{f uh, } i work at honeywell  /']",f uh  i work at honeywell  ,sd,MALE,1
+"[""{c and } [ i went through [ a, + a ]  pretty, + i don't know, i went through a, standard ] drug testing thing before [ i, + i ] was brought on. /""]",c and   i went through  a  a   pretty  i dont know i went through a standard  drug testing thing before  i  i  was brought on ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i think that's pretty standard.  /""]",i think thats pretty standard  ,sd,MALE,1
+['at least at honeywell  it is.  /'],at least at honeywell  it is  ,sd,MALE,1
+"[""{f uh, }  i think it's important to insure the quality [ and, +  and, ]   {f uh, } i don't know, almost the goodness of character.  # {d you know } # --""]",f uh   i think its important to insure the quality  and   and    f uh  i dont know almost the goodness of character   d you know   ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,MALE,2
+['-- that kind of thing.  /'], that kind of thing  ,+,MALE,0
+['where do you work? /'],where do you work ,qw,MALE,12
+"[""{f uh, } {d well } i'm a graduate student right  now at carnegie # mellon. # /""]",f uh  d well  im a graduate student right  now at carnegie  mellon  ,arp_nd,MALE,34
+"['# {f oh, } okay. #  /']", f oh  okay   ,bk,MALE,14
+"['# {f oh, } okay. # /']", f oh  okay  ,bk,MALE,14
+"['# {c and } [ i, + i ] # just came from saint paul.']", c and   i  i   just came from saint paul,sd,MALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+"['{f uh, } interviewing with three m. /']",f uh  interviewing with three m ,+,MALE,0
+"['{f oh, } great. /']",f oh  great ,ba,MALE,6
+"['{c and, }  {f uh, } they have a policy for, {f uh, }  testing.  /']",c and   f uh  they have a policy for f uh   testing  ,sd,MALE,1
+"[""[ if you, + if they ] make you an offer, then they'll test you right before you start. /""]", if you  if they  make you an offer then theyll test you right before you start ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['{c and } i guess the only <lipsmack> drawback i can see  [ to, + to ] drug testing is [ in, + in ] case you are on some sort of medication that might  give some, {f uh, } sort of false positive result --']",c and  i guess the only lipsmack drawback i can see   to  to  drug testing is  in  in  case you are on some sort of medication that might  give some f uh  sort of false positive result ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- then there # could # --'], then there  could  ,+,MALE,0
+['# yeah. # /'], yeah  ,b,MALE,2
+['-- be some sort of problem.  /'], be some sort of problem  ,+,MALE,0
+"['{c but } i-, -/']",c but  i ,%,MALE,5
+['yeah.  /'],yeah  ,aa,MALE,4
+"['{c and } [ that, + that ] definitely happens,  {d you know. }  /']",c and   that  that  definitely happens  d you know   ,aa,MALE,4
+"[""{e i mean } [ those, +   the ] drug tests, sure they're accurate  /""]",e i mean   those    the  drug tests sure theyre accurate  ,sv,MALE,3
+"[""{c but } there's always  that margin of error. /""]",c but  theres always  that margin of error ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and } [ that's, + that's ] something to be  aware of.  /""]",c and   thats  thats  something to be  aware of  ,sv,MALE,3
+"[""another thing is, a lot of times, {d you know, } they aren't that accurate.  /""]",another thing is a lot of times d you know  they arent that accurate  ,sv,MALE,3
+"[""they aren't that  sensitive.  /""]",they arent that  sensitive  ,sv,MALE,3
+"[""{d like } if you're on a prescription drug of some kind, {d you know, }  what are they going to do about that <laughter>. /""]",d like  if youre on a prescription drug of some kind d you know   what are they going to do about that laughter ,qh,MALE,26
+['yeah <laughter>. /'],yeah laughter ,b,MALE,2
+"['{d you know, } i was on a couple of different prescription  drugs when i was tested for honeywell  /']",d you know  i was on a couple of different prescription  drugs when i was tested for honeywell  ,sd,MALE,1
+"[""{c and, }  {f uh, } {f uh, } {d you know, }  i know they didn't catch that or  else they would have said something.  /""]",c and   f uh  f uh  d you know   i know they didnt catch that or  else they would have said something  ,sv,MALE,3
+"[""{f uh, } i'm sure they  screen for just a particular few types.  /""]",f uh  im sure they  screen for just a particular few types  ,sv,MALE,3
+['although the literature they give  with you says {d yeah } we do this  /'],although the literature they give  with you says d yeah  we do this  ,sd,MALE,1
+['{c and then } they list about five thousand drugs  they try to test for. /'],c and then  they list about five thousand drugs  they try to test for ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"[""{f uh, } i don't know.  /""]",f uh  i dont know  ,h,MALE,15
+"['[ what, + what ]  program are you in over at carnegie mellon? /']", what  what   program are you in over at carnegie mellon ,qw,MALE,12
+"['{f uh, } electrical engineering. /']",f uh  electrical engineering ,sd,MALE,1
+"['{f oh, } okay.  /']",f oh  okay  ,bk,MALE,14
+['great.  /'],great  ,ba,MALE,6
+"['{f uh, } yeah,  /']",f uh  yeah  ,%,MALE,5
+"[""i'm a graduate student at u c f in florida. university of central florida. /""]",im a graduate student at u c f in florida university of central florida ,sd,MALE,1
+"['{f oh, } #  (( wow )) . # /']",f oh     wow    ,ba,MALE,6
+['# {c and } # this is actually a <laughter>  an internship up here. /'], c and   this is actually a laughter  an internship up here ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{c but, }  {f uh, } [ they, +   {f uh, }  even for interns [ they, + they ] ]  do the whole random drug or  the whole drug testing thing,  /']",c but   f uh   they    f uh   even for interns  they  they    do the whole random drug or  the whole drug testing thing  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['they test you, {f uh, } [ before they, + before you ]  start or before # you even # --']",they test you f uh   before they  before you   start or before  you even  ,qy,MALE,7
+['# right. # /'], right  ,b,MALE,2
+['-- interview  /'], interview  ,+,MALE,0
+"['{c or, } -/']",c or  ,%,MALE,5
+"['{f uh, } they essentially, - /']",f uh  they essentially  ,%,MALE,5
+['no  /'],no  ,nn,MALE,13
+"[""i sure don't  <<talking to someone else>>, <<resumes talking to b>> {f uh, } - /""]",i sure dont  talking to someone else resumes talking to b f uh   ,t3,MALE,35
+"['[ they essentially, + {f uh, } they essentially, ]  {f uh, } made me the offer [ and then, + and then, ]  {f uh, } did the drug testing thing after that.  /']", they essentially  f uh  they essentially   f uh  made me the offer  and then  and then   f uh  did the drug testing thing after that  ,sd,MALE,1
+"['{c so, } {f uh, } it was one of those things where you go through [ the, + the ]  general battery of all their tests  /']",c so  f uh  it was one of those things where you go through  the  the   general battery of all their tests  ,sd,MALE,1
+"['[ {c and, } + {c and then, } ]  they essentially give you the offer -- /']", c and   c and then    they essentially give you the offer  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and then } at that point [ they'll, + they'll ]  ask you to go to a drug testing and things like that. /""]", c and then  at that point  theyll  theyll   ask you to go to a drug testing and things like that ,sd,MALE,1
+['oh. /'],oh ,bk,MALE,14
+"[""{c so, } {f uh, } there's some noise on this end.  /""]",c so  f uh  theres some noise on this end  ,sd,MALE,1
+"[""i'm actually in a mall calling  /""]",im actually in a mall calling  ,sd,MALE,1
+['{c so } - /'],c so   ,%,MALE,5
+['<laughter>.'],laughter,x,MALE,8
+['oh <laughter>. /'],oh laughter ,b,MALE,2
+"['you probably wondered, {f huh. }  /']",you probably wondered f huh   ,qy,MALE,7
+"['# {c but, }  # -/']", c but    ,%,MALE,5
+['# yeah.  /'], yeah  ,ny,MALE,9
+"['# [ wh-, + what ] happens if you were to fail?  /']",  wh  what  happens if you were to fail  ,qw,MALE,12
+"['then do they give you {d like } [ one ch-, + one more ] chance or two more # chances? # /']",then do they give you d like   one ch  one more  chance or two more  chances  ,qy,MALE,7
+['# yes.  #  /'], yes    ,ny,MALE,9
+"[""that's a good question.  /""]",thats a good question  ,ba,MALE,6
+"['i believe from what  i remember of the literature they gave, {f uh, } if you fail i believe they give  you one more chance.  /']",i believe from what  i remember of the literature they gave f uh  if you fail i believe they give  you one more chance  ,sd,MALE,1
+['they probably give you a chance to explain yourself --'],they probably give you a chance to explain yourself ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- and then maybe give you another chance to go through it.  /'], and then maybe give you another chance to go through it  ,+,MALE,0
+"['{c but, }  {f uh, }  {d you know, } once again, those things are not that accurate  /']",c but   f uh   d you know  once again those things are not that accurate  ,sv,MALE,3
+"[""{c so } there's undoubtedly a proportion of people who do fail, {d you know. }  /""]",c so  theres undoubtedly a proportion of people who do fail d you know   ,sv,MALE,3
+"['{c but, }  {f uh, }   (( wha-, )) - /']",c but   f uh     wha   ,%,MALE,5
+['are you working right now anywhere  /'],are you working right now anywhere  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"['{f uh, } no. /']",f uh  no ,nn,MALE,13
+['# okay. # /'], okay  ,bk,MALE,14
+"[""# i'm just # about to finish my master's in  may #  and, {f uh } # --""]", im just  about to finish my masters in  may   and f uh   ,sd,MALE,1
+"['# {f oh, } okay.  /']", f oh  okay  ,bk,MALE,14
+['great. # /'],great  ,ba,MALE,6
+['-- just interviewing with companies right now. /'], just interviewing with companies right now ,+,MALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"[""that was the first time i'd ever gotten any kind  of drug screening, {d you know. }  [ was, + was ] going to honeywell.  /""]",that was the first time id ever gotten any kind  of drug screening d you know    was  was  going to honeywell  ,sd,MALE,1
+['a friend of mine is also a doctoral student down there. /'],a friend of mine is also a doctoral student down there ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } he's doing an internship with i b m. /""]",c and  hes doing an internship with i b m ,sd,MALE,1
+['oh. /'],oh ,b,MALE,2
+"['{c and, }  {f uh, } they, basically, {f uh, } did the same  exact thing.  /']",c and   f uh  they basically f uh  did the same  exact thing  ,sd,MALE,1
+"['{f uh, } we both got our internships at the same time  /']",f uh  we both got our internships at the same time  ,sd,MALE,1
+['{c and } we both had to go  through drug testing <<mispronounced>> at the same time.  /'],c and  we both had to go  through drug testing mispronounced at the same time  ,sd,MALE,1
+"['{c so, } one of those things  where we went through a kind of an identical process.  /']",c so  one of those things  where we went through a kind of an identical process  ,sd,MALE,1
+"['# {c but, }  {f uh, } # -/']", c but   f uh   ,%,MALE,5
+"['# [ did, + do ] # they test you [ at, +  right now, at ] work too? /']",  did  do   they test you  at   right now at  work too ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+['no.  /'],no  ,nn,MALE,13
+"[""# that's # --""]", thats  ,sd,MALE,1
+['# okay. # /'], okay  ,bk,MALE,14
+"[""-- one thing they don't do [ is, + is ] drug testing  while you're on the job.  /""]", one thing they dont do  is  is  drug testing  while youre on the job  ,+,MALE,0
+"['{f uh, } [ i think, + i think ] the unwritten rule is,  {d yeah, } expect it  /']",f uh   i think  i think  the unwritten rule is  d yeah  expect it  ,sd,MALE,1
+"[""{c but } they don't do it. /""]",c but  they dont do it ,sd,MALE,1
+['oh <laughter>. /'],oh laughter ,bk,MALE,14
+"[""{d you know, } {c so. } that's good i guess.  /""]",d you know  c so  thats good i guess  ,sv,MALE,3
+"[""i don't know.  /""]",i dont know  ,h,MALE,15
+"['{e i mean, } [ i, + {f uh, } i ] have gone to a couple of parties [ since, + since ] that time  /']",e i mean   i  f uh  i  have gone to a couple of parties  since  since  that time  ,sd,MALE,1
+"[""{c and }  while i don't do any drugs myself, i've seen some people who work there,  {f uh, } {d you know, } smoking a joint or whatever. /""]",c and   while i dont do any drugs myself ive seen some people who work there  f uh  d you know  smoking a joint or whatever ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and, }  {f uh, } {d you know, } that's the kind of  thing that would definitely come up, {d you know. }  /""]",c and   f uh  d you know  thats the kind of  thing that would definitely come up d you know   ,sd,MALE,1
+"['{c but } no,  /']",c but  no  ,nn,MALE,13
+"[""[ they don't, + they don't ]  really do that.  /""]", they dont  they dont   really do that  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+['wow.  /'],wow  ,ba,MALE,6
+['is it formal policy that they said they might test? /'],is it formal policy that they said they might test ,qy,MALE,7
+['yeah </noise> </talking>. /'],yeah noise talking ,ny,MALE,9

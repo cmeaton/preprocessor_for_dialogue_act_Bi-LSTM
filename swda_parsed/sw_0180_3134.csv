@@ -1,0 +1,207 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""i guess we're supposed to discuss  the, {f uh, } school system.  /""]",i guess were supposed to discuss  the f uh  school system  ,sd,FEMALE,1
+"[""that shouldn't be too much trouble for the two of us.  right? /""]",that shouldnt be too much trouble for the two of us  right ,qy,FEMALE,7
+['no.  /'],no  ,nn,FEMALE,13
+"[""as many years as we've been involved in one.  /""]",as many years as weve been involved in one  ,sd,FEMALE,1
+"['i really feel fortunate in that there,  even though there are problems,  /']",i really feel fortunate in that there  even though there are problems  ,sd,FEMALE,1
+"[""they're not a lot of problems where i teach. /""]",theyre not a lot of problems where i teach ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['<lipsmack> {c but } from talking to people  in other districts there are some major problems, {f uh, } with dropouts.  /']",lipsmack c but  from talking to people  in other districts there are some major problems f uh  with dropouts  ,sd,FEMALE,1
+"['{f uh, } when i was in minnesota last summer --']",f uh  when i was in minnesota last summer ,sd,FEMALE,1
+['uh-huh <sniffing>. /'],uhhuh sniffing ,b,FEMALE,2
+"[""-- there was a teacher who said that,  {f uh, } on a given day she didn't know how many of her students would show up  /""]", there was a teacher who said that  f uh  on a given day she didnt know how many of her students would show up  ,+,FEMALE,0
+"[""{c and } sometimes they didn't even show up for class  /""]",c and  sometimes they didnt even show up for class  ,sd,FEMALE,1
+"['{c and } she taught in high school  in inner city, {f uh, } minneapolis. /']",c and  she taught in high school  in inner city f uh  minneapolis ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, }  {f uh, } they just didn't come to school. /""]",c and   f uh  they just didnt come to school ,sd,FEMALE,1
+"[""# that's really sad isn't it? <throat_clearing>. # /""]", thats really sad isnt it throatclearing  ,qy,FEMALE,7
+"[""# {c and } i cannot imagine # being  able to do much of anything when they don't even come to school. /""]", c and  i cannot imagine  being  able to do much of anything when they dont even come to school ,sd,FEMALE,1
+['right.  /'],right  ,b,FEMALE,2
+"['{d well } just recently in the  paper here, were articles about students, {f uh, } working.  high school students --']",d well  just recently in the  paper here were articles about students f uh  working  high school students ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- that work and the percentage  of hours that they work and how that affects their grades.  /'], that work and the percentage  of hours that they work and how that affects their grades  ,+,FEMALE,0
+"['{c but then }  the follow-up the next day was, - /']",c but then   the followup the next day was  ,sd,FEMALE,1
+"['i was kind of glad to see, <noise> - /']",i was kind of glad to see noise  ,sd,FEMALE,1
+"['{c because } [ it, + it ]  said that, {d you know, } - /']",c because   it  it   said that d you know   ,sd,FEMALE,1
+['yes  /'],yes  ,^q,FEMALE,19
+"['{c but } for those students who are determined to do well  anyway, that, {d you know, } handling a job was very possible.']",c but  for those students who are determined to do well  anyway that d you know  handling a job was very possible,sd,FEMALE,1
+['<lipsmack>.'],lipsmack,x,FEMALE,8
+"['{d you know, } and that it seemed  to have more to do <<pause>> with other factors. /']",d you know  and that it seemed  to have more to do pause with other factors ,+,FEMALE,0
+['i think so # too. # /'],i think so  too  ,aa,FEMALE,4
+"['# {d you # know } {d like, }   what are their plans after high school, {d you know. }  /']", d you  know  d like    what are their plans after high school d you know   ,sd,FEMALE,1
+"[""{c and } what's their home situation.  /""]",c and  whats their home situation  ,sd,FEMALE,1
+"['# {d you know } that, # -/']", d you know  that  ,%,FEMALE,5
+['# the home # is the key. /'], the home  is the key ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+"['i think really is because if the home,']",i think really is because if the home,sv,FEMALE,3
+['<breathing>.'],breathing,b,FEMALE,2
+['does not place a high priority on education -- -/'],does not place a high priority on education  ,+,FEMALE,0
+['right. /'],right ,+,FEMALE,0
+"['-- {c and, }  {f uh, } [ the-, +  the ]  main goal is making money now  /']", c and   f uh   the   the   main goal is making money now  ,sv,FEMALE,3
+['{c and } it may be a survival thing --'],c and  it may be a survival thing ,sv,FEMALE,3
+['# right. # /'], right  ,b,FEMALE,2
+"['-- # for # the family, which you can understand. /']",  for  the family which you can understand ,+,FEMALE,0
+['sure. /'],sure ,b,FEMALE,2
+"['{d so, }  {f uh, } -/']",d so   f uh  ,%,FEMALE,5
+['{c but } there can still be an attitude of -- -/'],c but  there can still be an attitude of  ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+"['-- {d you know, } this is a stopgap measure  because we need it right now,  /']", d you know  this is a stopgap measure  because we need it right now  ,^q,FEMALE,19
+"['[ {c but, } +  {c but } ] [ that +  the ] most important thing  is still, <<pause>> # {d you know } # --']", c but    c but    that   the  most important thing  is still pause  d you know   ,sv,FEMALE,3
+['# your education. # /'], your education  ,^2,FEMALE,23
+['-- getting your education. /'], getting your education ,+,FEMALE,0
+['<breathing>.'],breathing,x,FEMALE,8
+"[""{d well } when they [ meant, +  said ] [ the, + the ]  topic, {d you know, } of what's wrong with the public schools, [ my, +  my ] first [ im-, +  impulse ]   was <<pause>> it isn't really what's wrong with the [ public, +  public ]  schools.  /""]",d well  when they  meant   said   the  the   topic d you know  of whats wrong with the public schools  my   my  first  im   impulse    was pause it isnt really whats wrong with the  public   public   schools  ,sd,FEMALE,1
+"[""it's what's wrong with families <laughter>. /""]",its whats wrong with families laughter ,sd,FEMALE,1
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"[""it's what's wrong with families  /""]",its whats wrong with families  ,sd,FEMALE,1
+"['{c and }  [ if, +  if ] children come to school,']",c and    if   if  children come to school,sv,FEMALE,3
+"['{a yes, }  insecure  and their  [ mo-, + ]  biggest   concern is survival --']",a yes   insecure  and their   mo    biggest   concern is survival ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"['-- both at home, - /']", both at home  ,+,FEMALE,0
+"[""they don't know what to expect at home.  /""]",they dont know what to expect at home  ,sv,FEMALE,3
+"[""they don't feel secure there,  /""]",they dont feel secure there  ,sv,FEMALE,3
+"[""they don't know what's going  to happen just out front of their apartment complex. /""]",they dont know whats going  to happen just out front of their apartment complex ,sv,FEMALE,3
+['# right. # /'], right  ,b,FEMALE,2
+['# for example # that child that was shot. -/'], for example  that child that was shot ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['<noise> {f uh, } how can they concentrate  on schooling? #  /']",noise f uh  how can they concentrate  on schooling   ,qh,FEMALE,26
+['i agree # --'],i agree  ,sd,FEMALE,1
+['# right. # /'], right  ,b,FEMALE,2
+"['-- with you,  /']", with you  ,+,FEMALE,0
+"[""i think that's the main problem. /""]",i think thats the main problem ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } schools now are supposed  to solve social problems, {f uh, } mental and  emotional problems --']",c and  schools now are supposed  to solve social problems f uh  mental and  emotional problems ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,%,FEMALE,5
+['-- as well as educate the kids  and try to provide them with some security. /'], as well as educate the kids  and try to provide them with some security ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } that's overwhelming. /""]",c and  thats overwhelming ,sv,FEMALE,3
+"[""{d well } [ we've got, + {f uh, } {d you know }   at our school we have  ] over a thousand elementary kids  /""]",d well   weve got  f uh  d you know    at our school we have   over a thousand elementary kids  ,sd,FEMALE,1
+['{c and } last year was the  first year that we ever had more than one counselor.  /'],c and  last year was the  first year that we ever had more than one counselor  ,sd,FEMALE,1
+"[""{c and } that's just really not enough. /""]",c and  thats just really not enough ,sd,FEMALE,1
+['no.   /'],no   ,aa,FEMALE,4
+"[""# it isn't. # /""]", it isnt  ,aa,FEMALE,4
+['# {c and } # i was talking to somebody  that teaches <noise> in a middle school  /'], c and   i was talking to somebody  that teaches noise in a middle school  ,sd,FEMALE,1
+"[""{c and } they said, {f oh, }  [ but + ] we need more  in the middle school because that's when kids are, {d you know, } at a tougher and rougher age and all that.  /""]",c and  they said f oh    but   we need more  in the middle school because thats when kids are d you know  at a tougher and rougher age and all that  ,sd,FEMALE,1
+"[""{c but, } {d you know, } part of my feeling is that if you [ solve, +  help ]  them to work through their problems while they're littler, then they won't have as many problems up there. /""]",c but  d you know  part of my feeling is that if you  solve   help   them to work through their problems while theyre littler then they wont have as many problems up there ,sd,FEMALE,1
+['true.  /'],true  ,aa,FEMALE,4
+"['i think [ they, +  there ]  has to be at least a counselor  /']",i think  they   there   has to be at least a counselor  ,sv,FEMALE,3
+['{c and } we just recently had a counselor at elementary.  /'],c and  we just recently had a counselor at elementary  ,sd,FEMALE,1
+"[""we didn't even have # counselors in elementary. # /""]",we didnt even have  counselors in elementary  ,sd,FEMALE,1
+['# really. # /'], really  ,b,FEMALE,2
+"['we have always, though, had three at  middle schools  because we had about a thousand kids  /']",we have always though had three at  middle schools  because we had about a thousand kids  ,sd,FEMALE,1
+['{c and } they divided them up  between three counselors  /'],c and  they divided them up  between three counselors  ,sd,FEMALE,1
+"[""{c but } for a good while every year they'd have a different counselor  /""]",c but  for a good while every year theyd have a different counselor  ,sd,FEMALE,1
+"[""{c and } they decided that didn't work. /""]",c and  they decided that didnt work ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d so } they started, {f uh, }  dividing the kids up so that a counselor stays with her group of counselees --']",d so  they started f uh   dividing the kids up so that a counselor stays with her group of counselees ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['# [ they # -- +'],  they   ,sd,FEMALE,1
+['-- [ # through # -- +'],   through   ,+,FEMALE,0
+['-- they ] do that here. /'], they  do that here ,+,FEMALE,0
+"['-- {d you know, } through ] all three years of middle school. /']", d you know  through  all three years of middle school ,+,FEMALE,0
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['# {c and } i think # that would give  them more security in going to the counselor. /'], c and  i think  that would give  them more security in going to the counselor ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['if they have a rapport with their counselor.  /'],if they have a rapport with their counselor  ,sv,FEMALE,3
+"[""{d now } if they don't,""]",d now  if they dont,sd,FEMALE,1
+['i hope they have the flexibility to be able to # change # --'],i hope they have the flexibility to be able to  change  ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['-- a child that really is in need of  counseling help if they absolutely refuse to work with them.  /'], a child that really is in need of  counseling help if they absolutely refuse to work with them  ,+,FEMALE,0
+['{c and } occasionally that happens. /'],c and  occasionally that happens ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['{c but, }  it is frightening  /']",c but   it is frightening  ,sv,FEMALE,3
+"['[ {c b-, } +']", c b  ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+['it certainly is. /'],it certainly is ,aa,FEMALE,4
+"['{c because, } ] {f uh, } education is  the key to our future  /']",c because   f uh  education is  the key to our future  ,+,FEMALE,0
+"['{c and, }  {f uh, } if we have children who are not getting their education,  for one reason or another, then what are we going to do with # them? # /']",c and   f uh  if we have children who are not getting their education  for one reason or another then what are we going to do with  them  ,qh,FEMALE,26
+['# yeah. #  /'], yeah   ,aa,FEMALE,4
+"[""# that's right <<very faintly>>. # /""]", thats right very faintly  ,aa,FEMALE,4
+"[""# what's going # to happen to them?  /""]", whats going  to happen to them  ,qh,FEMALE,26
+"['are they going to be able to, {f uh, } work at other kind of menial jobs  /']",are they going to be able to f uh  work at other kind of menial jobs  ,qh,FEMALE,26
+['{c or } are they going to be the thieves and the people --'],c or  are they going to be the thieves and the people ,qh,FEMALE,26
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['-- # in prison. #  /'],  in prison   ,+,FEMALE,0
+['{c and } our prisons are filling up faster then we can # build them. # /'],c and  our prisons are filling up faster then we can  build them  ,sd,FEMALE,1
+['# right. # /'], right  ,b,FEMALE,2
+"[""that's no good. /""]",thats no good ,sv,FEMALE,3
+"[""i'm on that, {f um, } campus strategic  planning committee for my school. /""]",im on that f um  campus strategic  planning committee for my school ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, }  {f uh, } one of the, {f uh, } <sigh>  {d you know, } {f oh, } - /']",c and   f uh  one of the f uh  sigh  d you know  f oh   ,sd,FEMALE,1
+"['they have all these different names for things, strategies and  all these different things.  /']",they have all these different names for things strategies and  all these different things  ,sd,FEMALE,1
+"['{c but, } anyway, one of the key things was [ that +  that ]  we believed that the public education is the best <lipsmack> <<pause>>  economic value.  /']",c but  anyway one of the key things was  that   that   we believed that the public education is the best lipsmack pause  economic value  ,sd,FEMALE,1
+['then i think they decided to strike economic. /'],then i think they decided to strike economic ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['<laughter> anyway, {d you know, }  the point was, what happens when public education fails?  /']",laughter anyway d you know   the point was what happens when public education fails  ,sd,FEMALE,1
+['{d you know } --'],d you know  ,qh,FEMALE,26
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- # will then # people go to private schools?  /'],  will then  people go to private schools  ,+,FEMALE,0
+"['{d you know, } {d well, } what kind of a situation do they get there  /']",d you know  d well  what kind of a situation do they get there  ,qh,FEMALE,26
+"['{c and } what are, {d you know, } - /']",c and  what are d you know   ,qh,FEMALE,26
+"['{c and } what kind of state are we in [ if, +  if ] most people are going to private schools. /']",c and  what kind of state are we in  if   if  most people are going to private schools ,qh,FEMALE,26
+"[""{d well } i think, {f uh, } one thing  that we'll see is that we won't be educating everybody. /""]",d well  i think f uh  one thing  that well see is that we wont be educating everybody ,sv,FEMALE,3
+['# right. # /'], right  ,b,FEMALE,2
+['# there will # be a lot of people who will not get even a menial education like in other countries of the world --'], there will  be a lot of people who will not get even a menial education like in other countries of the world ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+"[""-- where they don't try to educate everyone. /""]", where they dont try to educate everyone ,+,FEMALE,0
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""# that's # one of the things that we do.  /""]", thats  one of the things that we do  ,sd,FEMALE,1
+['we try to # educate everyone. # /'],we try to  educate everyone  ,sd,FEMALE,1
+"[""# that's right. #  /""]", thats right   ,aa,FEMALE,4
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"[""we're the only country in the world that does. /""]",were the only country in the world that does ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } let everyone have an opportunity  to reach higher education --'],c and  let everyone have an opportunity  to reach higher education ,sd,FEMALE,1
+['uh-huh <<very faintly>>. /'],uhhuh very faintly ,b,FEMALE,2
+"[""-- if they're willing, {d you know, } to work --""]", if theyre willing d you know  to work ,+,FEMALE,0
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['-- # and # have, {f uh, } some ability.  /']",  and  have f uh  some ability  ,+,FEMALE,0
+['they can do that. /'],they can do that ,sd,FEMALE,1
+"[""{c and } one of the plano school  district's, {d you know, } goals <noise> is that they will graduate every child [ that, +  {f uh, } that ]  is here in the ninth grade,  /""]",c and  one of the plano school  districts d you know  goals noise is that they will graduate every child  that   f uh  that   is here in the ninth grade  ,sd,FEMALE,1
+['# i believe # --'], i believe  ,h,FEMALE,15
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""-- it's something like that,  /""]", its something like that  ,+,FEMALE,0
+"[""it's worded.  /""]",its worded  ,sd,FEMALE,1
+"[""{c and, }  {f uh, } <lipsmack> i don't know # <laughter>. # /""]",c and   f uh  lipsmack i dont know  laughter  ,h,FEMALE,15
+['# {d well } {d you know } if # we can keep them in school. -/'], d well  d you know  if  we can keep them in school ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+['uh-huh -- /'],uhhuh  ,b,FEMALE,2
+"[""that's --""]",thats ,sv,FEMALE,3
+"['-- then [ that, + that ] helps a lot. /']", then  that  that  helps a lot ,sv,FEMALE,3
+"['-- # so important, # /']",  so important  ,+,FEMALE,0
+['# i think the # gang violence is scaring everyone to death too. /'], i think the  gang violence is scaring everyone to death too ,sv,FEMALE,3
+['{f oh } gosh.  /'],f oh  gosh  ,ba,FEMALE,6
+"['# {d well } [ that new movie, # +']", d well   that new movie  ,sd,FEMALE,1
+"[""# it's scary to me. # /""]", its scary to me  ,sd,FEMALE,1
+"['<laughter>  that new movie ] out, - /']",laughter  that new movie  out  ,+,FEMALE,0
+"['i, {f um, } - /']",i f um   ,%,FEMALE,5
+"['[ really, +']", really ,sv,FEMALE,3
+"['[ i, +']", i ,aa,FEMALE,4
+['really ] a frightening situation. - /'],really  a frightening situation  ,+,FEMALE,0
+"[""i guess we're both lucky.""]",i guess were both lucky,sv,FEMALE,3
+['we ] are. /'],we  are ,+,FEMALE,0
+"[""to be in situations and  schools where we don't see that.  /""]",to be in situations and  schools where we dont see that  ,+,FEMALE,0
+['my folks talk about it a lot in illinois.  /'],my folks talk about it a lot in illinois  ,sd,FEMALE,1
+['my mother was is was teacher for years and years  /'],my mother was is was teacher for years and years  ,sd,FEMALE,1
+"['{c and, }  {f uh, } <lipsmack> they live in  peoria, illinois,  /']",c and   f uh  lipsmack they live in  peoria illinois  ,sd,FEMALE,1
+"[""{c and } <noise> they're talking a lot about [ the, +  {d you know, } the ]  school situation there, too.  / *[[their should be they're]]""]",c and  noise theyre talking a lot about  the   d you know  the   school situation there too   their should be theyre,sd,FEMALE,1
+"['{d so, }  <lipsmack> {d well, } shall we wrap it up? /']",d so   lipsmack d well  shall we wrap it up ,qy,FEMALE,7
+"[""{f uh, } i would imagine that we've  talked the amount of time # necessary. # /""]",f uh  i would imagine that weve  talked the amount of time  necessary  ,sv,FEMALE,3
+['# i think we # have to. /'], i think we  have to ,aa,FEMALE,4
+['# okay. # /'], okay  ,b,FEMALE,2
+"[""# {c so } # i'll see you when we see you. /""]", c so   ill see you when we see you ,fc,FEMALE,10
+['alright.  /'],alright  ,fc,FEMALE,10
+"['we were in, {f uh, } austin yesterday. /']",we were in f uh  austin yesterday ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""<lipsmack>  the reason that  i wasn't at church - /""]",lipsmack  the reason that  i wasnt at church  ,sd,FEMALE,1
+"['{c and } we went to hear, {f uh, } james wind ensemble concert -- /']",c and  we went to hear f uh  james wind ensemble concert  ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- they left this morning for, {f uh, } england. /']", they left this morning for f uh  england ,sd,FEMALE,1
+"['{f oh, } how exciting. /']",f oh  how exciting ,ba,FEMALE,6
+"[""isn't that wonderful? /""]",isnt that wonderful ,qy,FEMALE,7
+"['{f oh, } that is wonderful. /']",f oh  that is wonderful ,na,FEMALE,21
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['# what an experience. # /'], what an experience  ,ba,FEMALE,6
+"['# {c and, }  {f uh, } the # university <<voices fade>> ... -/']", c and   f uh  the  university voices fade  ,sd,FEMALE,1

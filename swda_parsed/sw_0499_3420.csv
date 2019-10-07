@@ -1,0 +1,127 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['hello,  /']",hello  ,fp,FEMALE,32
+"['my name is donna,  /']",my name is donna  ,fp,FEMALE,32
+"[""{c and } i'm calling from plano, texas. /""]",c and  im calling from plano texas ,fp,FEMALE,32
+"['hi,  /']",hi  ,fp,FEMALE,32
+"['this is laurie,  /']",this is laurie  ,fp,FEMALE,32
+"[""{c and } i'm in garland <laughter>. /""]",c and  im in garland laughter ,fp,FEMALE,32
+"['{f oh, } okay.  /']",f oh  okay  ,b,FEMALE,2
+"['{f um, } would you like me to go first? /']",f um  would you like me to go first ,qy,FEMALE,7
+['sure. /'],sure ,na,FEMALE,21
+"['okay, {f um }  /']",okay f um   ,bk,FEMALE,14
+"['i have three children, {f um, }  [ two, + two ] who are in regular school, {f uh, } eleven year old, an eight year old,  /']",i have three children f um    two  two  who are in regular school f uh  eleven year old an eight year old  ,sd,FEMALE,1
+"['{c and then } my little one, three year old, is in, {f um, } a university of gymnastics,  /']",c and then  my little one three year old is in f um  a university of gymnastics  ,sd,FEMALE,1
+"[""it's [ a, + a  ] preschool -- /""]",its  a  a   preschool  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, }  {f um, } i think it was really hard [ to, + {f um, } to ] pick the right, {f uh, } day care or preschool or mother's day out.  /""]", c and   f um  i think it was really hard  to  f um  to  pick the right f uh  day care or preschool or mothers day out  ,sd,FEMALE,1
+['i guess you can classify them all together. /'],i guess you can classify them all together ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f um, } some of the qualifications that i look for was [ that, + ] {f uh, } {d you know, } the cost, and, {f um, } exactly what they did, if it was structured or nonstructured,  if they had a little academic, {f um, } {f uh, } in there, and, {f um, } {d you know, } {f um, } {d you know, } what the qualifications of the teachers' were, and if the place was clean and --""]",f um  some of the qualifications that i look for was  that   f uh  d you know  the cost and f um  exactly what they did if it was structured or nonstructured  if they had a little academic f um  f uh  in there and f um  d you know  f um  d you know  what the qualifications of the teachers were and if the place was clean and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f um, } the hours  /']", f um  the hours  ,+,FEMALE,0
+"['{c and, } {f um, } [ just, + just ] kind of going by word of mouth and  finding out if anybody else has been pleased with their program --']",c and  f um   just  just  kind of going by word of mouth and  finding out if anybody else has been pleased with their program ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- that kind of stuff. -/'], that kind of stuff ,+,FEMALE,0
+"[""{d well, } we don't have any children,  /""]",d well  we dont have any children  ,sd,FEMALE,1
+"[""{c but } we're going to have one next year <laughter>. /""]",c but  were going to have one next year laughter ,sd,FEMALE,1
+"['{f oh, } congratulations. /']",f oh  congratulations ,ba,FEMALE,6
+['thanks.  /'],thanks  ,ft,FEMALE,43
+"[""{c so, } {f um, } that's something that i'm probably going to be looking at --""]",c so  f um  thats something that im probably going to be looking at ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- maybe in the future.  /'], maybe in the future  ,+,FEMALE,0
+"[""we haven't quite decided if i'm going to, - /""]",we havent quite decided if im going to  ,sd,FEMALE,1
+"[""i'm working part time now,  /""]",im working part time now  ,sd,FEMALE,1
+"[""{c and } i don't know if i'll be doing that or # what we're going to do. # /""]",c and  i dont know if ill be doing that or  what were going to do  ,sd,FEMALE,1
+['# or staying home. # /'], or staying home  ,qy^d,FEMALE,16
+"[""{c but } if we do, then i'm going to need to find somebody,  /""]",c but  if we do then im going to need to find somebody  ,sd,FEMALE,1
+"[""{c and } our church has a mother's day out program --""]",c and  our church has a mothers day out program ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- which they started last year,  /']", which they started last year  ,+,FEMALE,0
+['{c and } we know a lot of people at the church  /'],c and  we know a lot of people at the church  ,sd,FEMALE,1
+['{c so } i would feel very confident with leaving --'],c so  i would feel very confident with leaving ,sd,FEMALE,1
+"[""that's a very good place to start i think. /""]",thats a very good place to start i think ,sv,FEMALE,3
+['-- my child there <laughter>. /'], my child there laughter ,+,FEMALE,0
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""the mother's day out programs,  /""]",the mothers day out programs  ,sd,FEMALE,1
+"[""{c and } that's where shannon had started, in a mother's day out program -- /""]",c and  thats where shannon had started in a mothers day out program  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, }  {f uh, } the churches always have i think, [ a, + a ] pretty good program,  /']", c and   f uh  the churches always have i think  a  a  pretty good program  ,sv,FEMALE,3
+"['{c and } you have to make sure [ that you, + {f um, } that you ] apply pretty early, because [ they do have, + a lot of places have ] very long waiting lists. /']",c and  you have to make sure  that you  f um  that you  apply pretty early because  they do have  a lot of places have  very long waiting lists ,ad,FEMALE,22
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+"[""[ {c and, } + {f um, } {c and } ] another question to ask is if they're, {f um, } state certified --""]", c and   f um  c and   another question to ask is if theyre f um  state certified ,ad,FEMALE,22
+['okay. /'],okay ,aa,FEMALE,4
+"[""-- {f um, } {d you know, } if the teachers have, {f um, } their master's degree [ in, + in ] child education and --""]", f um  d you know  if the teachers have f um  their masters degree  in  in  child education and ,+,FEMALE,0
+['uh-huh /'],uhhuh ,aa,FEMALE,4
+"['-- {f um, } child development.  /']", f um  child development  ,+,FEMALE,0
+"['{f um, } {d you know, } [ what, + what ] kind of a structure is it going to be.  /']",f um  d you know   what  what  kind of a structure is it going to be  ,qh,FEMALE,26
+"[""{f um, } when your child's a little bit older, like a three year old --""]",f um  when your childs a little bit older like a three year old ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- you'd be more concerned with if there's a type of care that it's torture for them to lay down and take a nap.  /""]", youd be more concerned with if theres a type of care that its torture for them to lay down and take a nap  ,+,FEMALE,0
+['is there {d like } a mandatory nap time? /'],is there d like  a mandatory nap time ,qh,FEMALE,26
+"['time, uh-huh. /']",time uhhuh ,b,FEMALE,2
+"[""what they do at shannon's school is have a video tape going,  /""]",what they do at shannons school is have a video tape going  ,sd,FEMALE,1
+"['[ {c and } if, + {c and } ] they lay on these little mats,  /']", c and  if  c and   they lay on these little mats  ,sd,FEMALE,1
+"['{c and } if they fall asleep, they kind of let them sleep,  /']",c and  if they fall asleep they kind of let them sleep  ,sd,FEMALE,1
+"['{c and } the teacher stays with the sleeping ones,  /']",c and  the teacher stays with the sleeping ones  ,sd,FEMALE,1
+['{c and } the other ones get up and go do something else. /'],c and  the other ones get up and go do something else ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so, } she doesn't have to necessary take a nap there --""]",c so  she doesnt have to necessary take a nap there ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- {d you know, } [ which is, + which is ] nice.   {f um. } /']", d you know   which is  which is  nice   f um  ,+,FEMALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{f um, } {d you know, } it's kind of scary, i guess, because you hear so  many bad things about day cares --""]",f um  d you know  its kind of scary i guess because you hear so  many bad things about day cares ,sd,FEMALE,1
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"['-- lately,  /']", lately  ,+,FEMALE,0
+"[""{c and so, } [ it's, + i guess it's ] such a growing concern,  /""]",c and so   its  i guess its  such a growing concern  ,sv,FEMALE,3
+"[""{c but } then there's a lot of good things you don't hear. /""]",c but  then theres a lot of good things you dont hear ,sv,FEMALE,3
+['right.   /'],right   ,aa,FEMALE,4
+"[""{c and } sometimes when the child's a lot younger, [ before they're really, + {f um, } before three years old, ] {d you know, } {d like } the church is a good program  /""]",c and  sometimes when the childs a lot younger  before theyre really  f um  before three years old  d you know  d like  the church is a good program  ,sv,FEMALE,3
+"[""{c and } sometimes you even consider, {f um, } {d you know, } having a private person come to your own home when they're real little [ or -- +""]",c and  sometimes you even consider f um  d you know  having a private person come to your own home when theyre real little  or  ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+"['-- or ] something like that,  /']", or  something like that  ,+,FEMALE,0
+"[""{c and } another consideration is [  how many infants or  children are they, + ] what's the ratio [ of, + of ] teachers [ to -- +""]",c and  another consideration is   how many infants or  children are they   whats the ratio  of  of  teachers  to  ,qh,FEMALE,26
+['to ] children. /'],to  children ,^2,FEMALE,23
+['-- to children -- /'], to children  ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"['-- because that makes, [ [ a, + a, ] + a ] difference,  /']", because that makes   a  a   a  difference  ,sv,FEMALE,3
+"['{c and } if your child would be maybe sleeping in that crib all day, - /']",c and  if your child would be maybe sleeping in that crib all day  ,qh,FEMALE,26
+"['just your child, [ and, + or ] do they just put any child in any crib --']",just your child  and  or  do they just put any child in any crib ,qh,FEMALE,26
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {d you know, } - /']", d you know   ,+,FEMALE,0
+"['you would want, maybe, your child to have their own sheets all the time,  and not have another --']",you would want maybe your child to have their own sheets all the time  and not have another ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+['-- child use that bed --'], child use that bed ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+['-- {d you know. }  /'], d you know   ,+,FEMALE,0
+"[""i'm sure that, {f um, } whatever you decide, you'll be happy with. /""]",im sure that f um  whatever you decide youll be happy with ,sv,FEMALE,3
+['yeah <laughter>. /'],yeah laughter ,b,FEMALE,2
+"[""{c and } it's exciting time to have a new one <laughter>. /""]",c and  its exciting time to have a new one laughter ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""we're pretty excited. /""]",were pretty excited ,sd,FEMALE,1
+['i bet.  /'],i bet  ,ba,FEMALE,6
+"[""[ that's, + that's ] wonderful. /""]", thats  thats  wonderful ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{c but } [ that, + {d you know, } we have been thinking about that, ]  /']",c but   that  d you know  we have been thinking about that   ,sd,FEMALE,1
+"[""{c but } it's a little ways off in the future -- /""]",c but  its a little ways off in the future  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c but, }  {f um, } i figure, {d you know, } i'd probably start asking --""]", c but   f um  i figure d you know  id probably start asking ,sd,FEMALE,1
+['asking. /'],asking ,b^m,FEMALE,24
+['-- around at church --'], around at church ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"['-- because i know they have a limit as to how old they can be [ before they, + {d you know, } before you ] can bring them in. /']", because i know they have a limit as to how old they can be  before they  d you know  before you  can bring them in ,+,FEMALE,0
+"['[ [ [ some, + some  places, {f um, } start them as early as, i think, ] + {d well, } some, ] + some places ] take them as infants, i guess, {d you know, } like eight weeks, even. /']",   some  some  places f um  start them as early as i think   d well  some   some places  take them as infants i guess d you know  like eight weeks even ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f um, } there's a place to look into, {f um, } {f um, }  /""]",f um  theres a place to look into f um  f um   ,ad,FEMALE,22
+"[""a friend of mine who's a nurse [ is, + was ] telling about a wonderful new place that opened some place [ in, + on ] fifteenth street,  /""]",a friend of mine whos a nurse  is  was  telling about a wonderful new place that opened some place  in  on  fifteenth street  ,sd,FEMALE,1
+"['up, - /']",up  ,%,FEMALE,5
+"[""it's in plano somewhere where, {f um, }  /""]",its in plano somewhere where f um   ,sd,FEMALE,1
+"['nurses that used to work in the hospital take care of [ infants, + infants ] and then only up to like  two years old -- /']",nurses that used to work in the hospital take care of  infants  infants  and then only up to like  two years old  ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+"[""-- {c and } [ it's, + it's ] supposed to be really [ a, + a, ] - /""]", c and   its  its  supposed to be really  a  a   ,sd,FEMALE,1
+"['{d you know, } some places just specialize in just real little ones -- /']",d you know  some places just specialize in just real little ones  ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- {c and then } other ones, {f uh, } are the older children. /']", c and then  other ones f uh  are the older children ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } it is a difficult situation, i think.  /']",c but  it is a difficult situation i think  ,sv,FEMALE,3
+"[""[ when they're, + when they're ] little it's almost easier to leave them because when they're three and they're cry, -/""]", when theyre  when theyre  little its almost easier to leave them because when theyre three and theyre cry ,sv,FEMALE,3

@@ -1,0 +1,208 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{f uh, } {d so, } jack, what type of music do you like? /']",f uh  d so  jack what type of music do you like ,qo,MALE,25
+"['{d well, } i like, {f uh, } classical,']",d well  i like f uh  classical,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['and, {f uh, } sort of, {f uh, } popular rock type music.   {f uh, } /']",and f uh  sort of f uh  popular rock type music   f uh  ,+,MALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+['i enjoy classical too.  /'],i enjoy classical too  ,sd,MALE,1
+"['i never really had  listened to it till [ i, + i ] got married, /']",i never really had  listened to it till  i  i  got married ,sd,MALE,1
+['oh. /'],oh ,b,MALE,2
+"['[ {c and, } +  {c and } ] my wife, {f uh, } enjoys it. /']", c and    c and   my wife f uh  enjoys it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so } i had never listened to it [ bef-, + till ] then,  /']",c so  i had never listened to it  bef  till  then  ,sd,MALE,1
+"['{c but } now i listen to it {d well, } whenever she does.  /']",c but  now i listen to it d well  whenever she does  ,sd,MALE,1
+"['{c and } even every once in a  while i put it on myself, {d you know. } /']",c and  even every once in a  while i put it on myself d you know  ,sd,MALE,1
+['yep. /'],yep ,b,MALE,2
+"['{f um, } [ wh-, + ] -/']",f um   wh   ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ i, + i ] used to play the piano,  /']", i  i  used to play the piano  ,sd,MALE,1
+"['{c and }  i like, {f uh, } bach and,']",c and   i like f uh  bach and,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['{f um, } sort of the baroque music, handel and,']",f um  sort of the baroque music handel and,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } vivaldi and those kinds of, -/']",f uh  vivaldi and those kinds of ,+,MALE,0
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,MALE,2
+"['{d see } [ those, + those ] are  really nice.  /']",d see   those  those  are  really nice  ,sv,MALE,3
+['i like those. /'],i like those ,sd,MALE,1
+"['yep,  /']",yep  ,b,MALE,2
+['yep. /'],yep ,b,MALE,2
+"[""though [ i, + i ] couldn't tell you anything about  them other than when my wife says, this is bach, {d you know. } /""]",though  i  i  couldnt tell you anything about  them other than when my wife says this is bach d you know  ,sd,MALE,1
+['oh.  /'],oh  ,b,MALE,2
+"['yep,  /']",yep  ,b,MALE,2
+['yep. /'],yep ,b,MALE,2
+['<laughter>.'],laughter,x,MALE,8
+"[""{d well, } [ i, + {d you know, } [ i don't, + i don't ] ] know  all that much myself,  /""]",d well   i  d you know   i dont  i dont   know  all that much myself  ,sd,MALE,1
+"['[ i just, + i just ] know,']", i just  i just  know,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['when i hear it that i like it. /'],when i hear it that i like it ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['that you w-, - /']",that you w  ,%,MALE,5
+['what you like. - /'],what you like  ,%,MALE,5
+['how about popular music? /'],how about popular music ,qo,MALE,25
+['yeah.  /'],yeah  ,^h,MALE,27
+"[""{f uh, } whatsever's on the radio [ is, + is ]  usually okay with me,  /""]",f uh  whatsevers on the radio  is  is   usually okay with me  ,sd,MALE,1
+"['{c but, }']",c but ,sd,MALE,1
+['{f um. }'],f um ,b,MALE,2
+"[""{f um, } sometimes i have a hard time  [ unders-, + {d you know, } hearing ] the words clearly if i'm in the car and there's noise and stuff  /""]",f um  sometimes i have a hard time   unders  d you know  hearing  the words clearly if im in the car and theres noise and stuff  ,+,MALE,0
+"['{c so, } -/']",c so  ,%,MALE,5
+['yeah. /'],yeah ,+,MALE,0
+"[""it's mostly just the tunes. /""]",its mostly just the tunes ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i'm pretty much the same way.  /""]",im pretty much the same way  ,sd,MALE,1
+"['{d you know, }  people always say, wow! [ th-, + the ] meanings of those words. /']",d you know   people always say wow  th  the  meanings of those words ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['i know. /'],i know ,aa,MALE,4
+"[""{c and } i'm always, meaning?  /""]",c and  im always meaning  ,sd,MALE,1
+"[""there's  [ wor-, + ] {d well, } {d you know, } -/""]",theres   wor   d well  d you know  ,%,MALE,5
+['<laughter>.'],laughter,x,MALE,8
+"['i just thought they just all sort of rhymed, {d you know. } /']",i just thought they just all sort of rhymed d you know  ,sd,MALE,1
+"['i know,  /']",i know  ,ba,MALE,6
+['i know.  /'],i know  ,ba,MALE,6
+['about the only thing i can remember  after the song is over is the refrain. /'],about the only thing i can remember  after the song is over is the refrain ,sd,MALE,1
+"['right,  /']",right  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"['that, whenever  they say it two or three times. /']",that whenever  they say it two or three times ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['yeah. /'],yeah ,aa,MALE,4
+"[""i'm the same way <laughter>.  /""]",im the same way laughter  ,sd,MALE,1
+['yeah.  /'],yeah  ,%,MALE,5
+"[""it's funny,  {f uh, } depending on where you live,  /""]",its funny  f uh  depending on where you live  ,sv,MALE,3
+"['[ [ i, + i, ] + i ] commute back and forth between  baltimore and a rural town called salisbury,']",  i  i   i  commute back and forth between  baltimore and a rural town called salisbury,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['which is two and a half hours away,  /']",which is two and a half hours away  ,+,MALE,0
+"['{c and } the  difference in the radio with popular music,']",c and  the  difference in the radio with popular music,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['is totally different, {d you know, }  /']",is totally different d you know   ,+,MALE,0
+"['when, -/']",when ,%,MALE,5
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['{c because } baltimore will play  more, {f uh, } what might be considered [ m-, +  a little bit more ] progressive? /']",c because  baltimore will play  more f uh  what might be considered  m   a little bit more  progressive ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } as soon as you go down to salisbury,  this town that's, {d you know, } {f uh, } two and a half hours away in the suburbs or whatever, {f uh, }  in a real rural [ balt-, + ] {f uh, } maryland,""]",c and  as soon as you go down to salisbury  this town thats d you know  f uh  two and a half hours away in the suburbs or whatever f uh   in a real rural  balt   f uh  maryland,sd,MALE,1
+['yes? /'],yes ,bh,MALE,18
+"['[ they, + it ] turns into [ ber-, +  basically ] classic rock. /']", they  it  turns into  ber   basically  classic rock ,+,MALE,0
+['yeah? /'],yeah ,bh,MALE,18
+"[""{c and } they don't, {d you know. } -/""]",c and  they dont d you know  ,%,MALE,5
+['oldies or what? /'],oldies or what ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+['mostly oldies. /'],mostly oldies ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c but } classic rock, {d you know, with, - /']",c but  classic rock d you know with  ,%,MALE,5
+"['[ if, +  {d you know, } {d like } when ] the doors movie came out, {d you know, } doors was really on the radio there,']", if   d you know  d like  when  the doors movie came out d you know  doors was really on the radio there,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{d you know. }  where, {d you know, } you'd  hear [ was-, + ] one or two of their more famous songs, maybe top forty in baltimore,  /""]",d you know   where d you know  youd  hear  was   one or two of their more famous songs maybe top forty in baltimore  ,+,MALE,0
+"[""{c but } in salisbury,  [ you woul-, +  that's all you would ] hear was, this is the doors!, {d you know. } /""]",c but  in salisbury   you woul   thats all you would  hear was this is the doors d you know  ,sd,MALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['{c so, } it was sort of a funny thing. /']",c so  it was sort of a funny thing ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"[""there's a big variation  among the country,  /""]",theres a big variation  among the country  ,sv,MALE,3
+"['{e i mean, } if you,']",e i mean  if you,sv,MALE,3
+"['y-, -/']",y ,%,MALE,5
+"['go down south, country music and, -/']",go down south country music and ,+,MALE,0
+"['yes,  /']",yes  ,aa,MALE,4
+"[""that's, - /""]",thats  ,%,MALE,5
+"[""i'm starting to realize that.  /""]",im starting to realize that  ,sd,MALE,1
+"['i never  really thought about that much,  /']",i never  really thought about that much  ,sd,MALE,1
+['{c but } there is. /'],c but  there is ,aa,MALE,4
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['yeah,  /']",yeah  ,b^m,MALE,24
+"['[ [ i never, +']",  i never ,%,MALE,5
+"['{d so, } -/']",d so  ,%,MALE,5
+"[""i never, ] +  i didn't, ] - /""]",i never    i didnt   ,+,MALE,0
+"['[ i, + i ] lived in pittsburgh  before baltimore,  /']", i  i  lived in pittsburgh  before baltimore  ,sd,MALE,1
+"[""{c and } [  i didn't, +  i never really noticed ] the difference  when i moved to this area? /""]",c and    i didnt   i never really noticed  the difference  when i moved to this area ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i really didn't notice at all.  /""]",i really didnt notice at all  ,sd,MALE,1
+['it just seemed the same. /'],it just seemed the same ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c but } when i went more rural,  {d you know, } [ that, +  it ] really changed. /']",c but  when i went more rural  d you know   that   it  really changed ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d so, } -/']",d so  ,%,MALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+"['chicago has a lot of good stations, {f uh, } /']",chicago has a lot of good stations f uh  ,sd,MALE,1
+"['{f oh, } does it?  /']",f oh  does it  ,bh,MALE,18
+['yeah. /'],yeah ,%,MALE,5
+['yes.  /'],yes  ,ny,MALE,9
+"[""{f uh, } in fact [ they have, + they have ]  a continuous news station, which is nice if you're driving and you want to h-, -/""]",f uh  in fact  they have  they have   a continuous news station which is nice if youre driving and you want to h ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{d now, } you don't have to wait till the hour mark.  /""]",d now  you dont have to wait till the hour mark  ,sd,MALE,1
+"[""[ [ it's, + it's, ] + it's ] sort of constant.  /""]",  its  its   its  sort of constant  ,sd,MALE,1
+"['you just turn there, /']",you just turn there ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, } {f uh, } you get the latest news and everything.  /']",c and  f uh  you get the latest news and everything  ,sd,MALE,1
+"[""[ it's, + {f uh, } it's ] sort of like c n n, {d you know, }  /""]", its  f uh  its  sort of like c n n d you know   ,sd,MALE,1
+['you turn on your t v  /'],you turn on your t v  ,sd,MALE,1
+"[""{c and } it's on. /""]",c and  its on ,sd,MALE,1
+['right.  /'],right  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"['boy, that would really be beneficial. /']",boy that would really be beneficial ,ba,MALE,6
+"['{c so, } yeah. /']",c so  yeah ,b,MALE,2
+"['{c because } [ you never hear the, + you never hear the ]  news basically on the radio.  /']",c because   you never hear the  you never hear the   news basically on the radio  ,sv,MALE,3
+['i never get it. /'],i never get it ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+['yeah. /'],yeah ,aa,MALE,4
+"[""{d you know, } {c and } [ if you don't, + if you don't ]  read the paper, you sort of fall behind if you're in,""]",d you know  c and   if you dont  if you dont   read the paper you sort of fall behind if youre in,sv,MALE,3
+['yep. /'],yep ,aa,MALE,4
+['the car all the time. /'],the car all the time ,+,MALE,0
+"['yep,  /']",yep  ,aa,MALE,4
+['yep. /'],yep ,aa,MALE,4
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""that's pretty good. /""]",thats pretty good ,ba,MALE,6
+"['{c so, } - /']",c so   ,%,MALE,5
+"['yeah,  /']",yeah  ,%,MALE,5
+"['i like to listen to  tapes, {f uh, } of music [ or, +']",i like to listen to  tapes f uh  of music  or ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['or, ] {f um, } stuff on a long trip. /']",or  f um  stuff on a long trip ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, }  {f um, } now you can even  get books on tape, {f um. } /']",c and   f um  now you can even  get books on tape f um  ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['yeah.  /'],yeah  ,aa,MALE,4
+"['on fact, [ my, + {f uh, } my ]  grandmother does that a lot,']",on fact  my  f uh  my   grandmother does that a lot,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""because she's blind,  /""]",because shes blind  ,+,MALE,0
+"[""{c or } [ what-, + ]  she's losing her sight or whatever. /""]",c or   what    shes losing her sight or whatever ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c but, } - /']",c but   ,%,MALE,5
+"['yeah,  /']",yeah  ,%,MALE,5
+"['that, [ of, + in, ] - /']",that  of  in   ,%,MALE,5
+"[""i can  imagine, {d you know, } if you're driving cross country,""]",i can  imagine d you know  if youre driving cross country,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know, } {f uh, } listening to a story.  /']",d you know  f uh  listening to a story  ,+,MALE,0
+"['s-, - /']",s  ,%,MALE,5
+"['lot of the classics are really,']",lot of the classics are really,sv,MALE,3
+['right. /'],right ,b,MALE,2
+['on tape. /'],on tape ,+,MALE,0
+"['yep,  /']",yep  ,aa,MALE,4
+['yep. /'],yep ,aa,MALE,4
+['yeah. /'],yeah ,b,MALE,2
+"[""{c so, } that's a lot of fun  /""]",c so  thats a lot of fun  ,ba,MALE,6
+"['{c but, } -/']",c but  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ that's, + that ] would be good. /""]", thats  that  would be good ,ba,MALE,6
+['yep. /'],yep ,aa,MALE,4
+"['{d well, } we strayed a lot from music. /']",d well  we strayed a lot from music ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['i guess so.  /'],i guess so  ,aa,MALE,4
+"['{d well, } -/']",d well  ,%,MALE,5
+"['[ {c but } i, + {c but } i ] guess music comes  into that whole aspect of listening.']", c but  i  c but  i  guess music comes  into that whole aspect of listening,sv,MALE,3
+['right. /'],right ,b,MALE,2
+"[""{d so } as long you're listening.  /""]",d so  as long youre listening  ,+,MALE,0
+"['{c so, } -/']",c so  ,%,MALE,5
+['right.  /'],right  ,aa,MALE,4
+['yep. /'],yep ,aa,MALE,4
+"['{c but } [ if you do, + if you do ] have to  go something, i guess we can just cut off. /']",c but   if you do  if you do  have to  go something i guess we can just cut off ,fc,MALE,10
+['yep.  /'],yep  ,fc,MALE,10
+['okay. /'],okay ,fc,MALE,10
+"['{d well, } jack, it was nice to talk to you. /']",d well  jack it was nice to talk to you ,fc,MALE,10
+['yep.  /'],yep  ,fc,MALE,10
+"['nice talking to you, tom. /']",nice talking to you tom ,fc,MALE,10
+"['[ {c a-, } +  {c and } ] good luck,  /']", c a    c and   good luck  ,fc,MALE,10
+['{c and } i hope you  get some more calls and make some more calls. /'],c and  i hope you  get some more calls and make some more calls ,fc,MALE,10
+['all right.  /'],all right  ,fc,MALE,10
+['good. /'],good ,fc,MALE,10
+['bye. /'],bye ,fc,MALE,10
+['thank you.  /'],thank you  ,fc,MALE,10
+"['bye, bye. /']",bye bye ,fc,MALE,10

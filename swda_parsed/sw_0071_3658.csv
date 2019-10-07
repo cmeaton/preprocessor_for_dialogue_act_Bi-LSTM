@@ -1,0 +1,109 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay. /'],okay ,"fo_o_fw_""_by_bc",MALE,0
+['okay. /'],okay ,b^m,FEMALE,24
+"['universal health insurance,  /']",universal health insurance  ,sd,MALE,1
+['right?  /'],right  ,^g,MALE,40
+"[""that's right. /""]",thats right ,na,FEMALE,21
+['what would we like to say <laughter>.  /'],what would we like to say laughter  ,qw,FEMALE,12
+"['# i think, # -/']", i think  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""i think that's what the subject is about. /""]",i think thats what the subject is about ,sv,FEMALE,3
+"['did you read, {f uh, } the article in the paper today about this particular subject? /']",did you read f uh  the article in the paper today about this particular subject ,qy,MALE,7
+"['in [ the dallas, + the morning times? ] /']",in  the dallas  the morning times  ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['i guess i did not. /'],i guess i did not ,sd,FEMALE,1
+"['{f uh, } the state of washington and the state of minnesota is, {f uh, } going to begin testing [ a program, + a state funded program ] for citizens of those two states  /']",f uh  the state of washington and the state of minnesota is f uh  going to begin testing  a program  a state funded program  for citizens of those two states  ,sd,MALE,1
+"[""{c and } there's fourteen other, {f uh, } states that are considering it. least according to the article in the paper this morning.  /""]",c and  theres fourteen other f uh  states that are considering it least according to the article in the paper this morning  ,sd,MALE,1
+"[""i think it's a trend [ [ that's, + that's, ] + that's, ] {f uh, } probably may go nationwide eventually because i think national health is something that we all need.  /""]",i think its a trend   thats  thats   thats  f uh  probably may go nationwide eventually because i think national health is something that we all need  ,sv,MALE,3
+"[""it's getting to a point that you have to have it,  /""]",its getting to a point that you have to have it  ,sv,MALE,3
+['you have to have some form of health insurance. /'],you have to have some form of health insurance ,sv,MALE,3
+"[""{d well, } it's been interesting that we, -/""]",d well  its been interesting that we ,sv,FEMALE,3
+"['extremely expensive, though. /']",extremely expensive though ,sv,MALE,3
+['yes.  /'],yes  ,aa,FEMALE,4
+"['{d so } we live in a society, though, where everyone if you ask them on polls, will, {f uh, } say that they think that everyone has a right to health care. /']",d so  we live in a society though where everyone if you ask them on polls will f uh  say that they think that everyone has a right to health care ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } yet, i don't think we've ever quite decided who's really supposed to pay for it. /""]",c and  yet i dont think weve ever quite decided whos really supposed to pay for it ,sv,FEMALE,3
+"[""{d well, } that's the thing, {d you know, }  /""]",d well  thats the thing d you know   ,"fo_o_fw_""_by_bc",MALE,0
+"[""{f uh, } unfortunately the ones that currently pay and pay the premiums for health insurance [ are, + are ] paying for the people that don't have health insurance. /""]",f uh  unfortunately the ones that currently pay and pay the premiums for health insurance  are  are  paying for the people that dont have health insurance ,sv,MALE,3
+"['which is why people are talking about <laughter>, - /']",which is why people are talking about laughter  ,sv,FEMALE,3
+['we ought to just admit it perhaps --'],we ought to just admit it perhaps ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""-- and then try and somehow subsidize it in a way that's more fair. /""]", and then try and somehow subsidize it in a way thats more fair ,+,FEMALE,0
+"[""i don't think you, {f uh, } -/""]",i dont think you f uh  ,sv,MALE,3
+['you have health insurance? /'],you have health insurance ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+['i do. /'],i do ,sd,MALE,1
+['through your company? /'],through your company ,qy^d,FEMALE,16
+"['{f uh, } through my company,  /']",f uh  through my company  ,sd,MALE,1
+['yes.  /'],yes  ,ny,MALE,9
+"['{c but } i have been in a situation, {f uh, } recently where i was laid off from a position as a sales manager of a company and was off work for about a year  /']",c but  i have been in a situation f uh  recently where i was laid off from a position as a sales manager of a company and was off work for about a year  ,sd,MALE,1
+['{c and } my wife developed cancer.  /'],c and  my wife developed cancer  ,sd,MALE,1
+"[""we didn't have any --""]",we didnt have any ,sd,MALE,1
+"['{f oh, } my goodness. /']",f oh  my goodness ,ba,FEMALE,6
+['-- insurance.  /'], insurance  ,+,MALE,0
+['{c and } it was a --'],c and  it was a ,sd,MALE,1
+"[""that's must have been hard <breathing>. /""]",thats must have been hard breathing ,"fo_o_fw_""_by_bc",FEMALE,0
+['-- go to parkland type situation. /'], go to parkland type situation ,+,MALE,0
+['how was your care at parkland? /'],how was your care at parkland ,qo,FEMALE,25
+"['{f uh, } because it was a life threatening situation, it was very good.  /']",f uh  because it was a life threatening situation it was very good  ,sv,MALE,3
+"['{f uh, } [ as it, + as it ] turned out [ one of the top, {f uh, } people, + {e or } one of the top doctors in the state that is involved in cancer treatment ] was at parkland. /']",f uh   as it  as it  turned out  one of the top f uh  people  e or  one of the top doctors in the state that is involved in cancer treatment  was at parkland ,sd,MALE,1
+"['{c but, } yet, parkland is not free, either. /']",c but  yet parkland is not free either ,sd,FEMALE,1
+"['no,  /']",no  ,aa,MALE,4
+"[""it's not free,  /""]",its not free  ,sd,MALE,1
+"['{c but, } {f uh, }']",c but  f uh ,sd,MALE,1
+['is it affordable? /'],is it affordable ,qy,FEMALE,7
+"[""[ it's, + it's ] a situation that because i didn't have any insurance and i was on unemployment, it was paid by the county. /""]", its  its  a situation that because i didnt have any insurance and i was on unemployment it was paid by the county ,+,MALE,0
+['{d so } you did have a good experience. /'],d so  you did have a good experience ,sv,FEMALE,3
+['i had a bad experience as it turned out.  /'],i had a bad experience as it turned out  ,ar,MALE,28
+"['{f uh, } i was fortunate that there was parkland. /']",f uh  i was fortunate that there was parkland ,sv,MALE,3
+"['is your wife better, i hope? /']",is your wife better i hope ,qy,FEMALE,7
+"['{f uh, } no she passed away. /']",f uh  no she passed away ,ng,MALE,29
+"[""i'm real sorry. /""]",im real sorry ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""that's all right. /""]",thats all right ,bd,MALE,38
+['sure. / *[[listen; is this a question?]]'],sure  listen is this a question,b,FEMALE,2
+['that happens. /'],that happens ,bd,MALE,38
+"['it does happen,  /']",it does happen  ,sd,FEMALE,1
+"[""{c but } it's very sad. /""]",c but  its very sad ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{c but } in any event, {f uh, } i'm in favor of national health.""]",c but  in any event f uh  im in favor of national health,sd,MALE,1
+['{d well } --'],d well  ,sd,FEMALE,1
+['if i had --'],if i had ,+,MALE,0
+['-- so am i. /'], so am i ,+,FEMALE,0
+['-- to vote for it. /'], to vote for it ,+,MALE,0
+"[""<laughter> actually, {f uh, } i'm a pediatrician -- /""]",laughter actually f uh  im a pediatrician  ,sd,FEMALE,1
+"['{f oh, } is that right? /']",f oh  is that right ,bh,MALE,18
+"['-- {c and } i feel very strongly about, {f uh, } children, and, {f uh, } developed very strong feelings about this during our measles epidemic --']", c and  i feel very strongly about f uh  children and f uh  developed very strong feelings about this during our measles epidemic ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- last year.'], last year,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""where we certainly proved that we're not doing a very good job with preventive health care among children and particularly the children who need it most.  /""]",where we certainly proved that were not doing a very good job with preventive health care among children and particularly the children who need it most  ,+,FEMALE,0
+"[""{c so, } {f uh, } i'm really quite active in trying to, {f uh, } be proactive at least for children's issues.  /""]",c so  f uh  im really quite active in trying to f uh  be proactive at least for childrens issues  ,sd,FEMALE,1
+"[""it's [ very complex, + very complicated, ]  /""]",its  very complex  very complicated   ,sv,FEMALE,3
+"['{c but, } {f uh, } i strongly believe that all children have a right to immunization, glasses, hearing aids <laughter>, basic health benefits. /']",c but  f uh  i strongly believe that all children have a right to immunization glasses hearing aids laughter basic health benefits ,sv,FEMALE,3
+"['{d well, } [ i, + when i ] grew up and - /']",d well   i  when i  grew up and  ,sd,MALE,1
+"['i grew up in south central kansas, {f uh, }  /']",i grew up in south central kansas f uh   ,sd,MALE,1
+"['we had, - /']",we had  ,sd,MALE,1
+"['{c and } my mom worked for [ the health department, + the county health department ]  /']",c and  my mom worked for  the health department  the county health department   ,sd,MALE,1
+"['{c and } we had x-rays every year,  /']",c and  we had xrays every year  ,sd,MALE,1
+"['we had a dentist come to our school and, {f uh, } check our teeth once a year at least.  /']",we had a dentist come to our school and f uh  check our teeth once a year at least  ,sd,MALE,1
+"['{f uh, } we had all our flu shots taken care of, our measles, mumps, rubella and all that other stuff. /']",f uh  we had all our flu shots taken care of our measles mumps rubella and all that other stuff ,sd,MALE,1
+['{f um. }  /'],f um   ,%,FEMALE,5
+"[""{c and, } {f uh, } when my children were growing up, we didn't have that.  /""]",c and  f uh  when my children were growing up we didnt have that  ,sd,MALE,1
+"[""we had to pay for it, which i wasn't opposed to paying for it.  /""]",we had to pay for it which i wasnt opposed to paying for it  ,sd,MALE,1
+"['i had the money to pay for it,  /']",i had the money to pay for it  ,sd,MALE,1
+"[""{c but } i'm sure that there were people that don't. /""]",c but  im sure that there were people that dont ,sv,MALE,3
+"['{d well, } {c and } [ the costs have, + so much has ] gone up so much.  /']",d well  c and   the costs have  so much has  gone up so much  ,sd,FEMALE,1
+"['the cost of immunizations for example, {f uh, } and just [ the legal + <breathing>, the legal ] benefits, {f uh, }  /']",the cost of immunizations for example f uh  and just  the legal  breathing the legal  benefits f uh   ,sd,FEMALE,1
+"['that has really forced people into doing a lot of things unnecessarily, et cetera. /']",that has really forced people into doing a lot of things unnecessarily et cetera ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{d so, } {d well, } i don't know,  /""]",d so  d well  i dont know  ,h,FEMALE,15
+"[""[ it's, + it is ] interesting,  /""]", its  it is  interesting  ,sv,FEMALE,3
+"[""in case you didn't know, texas leads the nation in uninsured children.  /""]",in case you didnt know texas leads the nation in uninsured children  ,sd,FEMALE,1
+['thirty-one percent of all texas children --'],thirtyone percent of all texas children ,sd,FEMALE,1
+['did not know that. /'],did not know that ,sd,MALE,1
+['-- do not have insurance and are not on medicaid.  /'], do not have insurance and are not on medicaid  ,+,FEMALE,0
+"['{c so, } {f uh, } one out of every three children has nothing to reimburse them for their health care.  /']",c so  f uh  one out of every three children has nothing to reimburse them for their health care  ,sd,FEMALE,1
+"[""{c and } i work in the children's parkland system  /""]",c and  i work in the childrens parkland system  ,sd,FEMALE,1
+"[""{c and } it's pretty overwhelming to me. /""]",c and  its pretty overwhelming to me ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but, } {f uh, } it's pretty hard to be indigent and to be dependent upon indigent health care systems in dallas county. /""]",c but  f uh  its pretty hard to be indigent and to be dependent upon indigent health care systems in dallas county ,sd,FEMALE,1

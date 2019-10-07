@@ -1,0 +1,225 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['do we just go ahead? /'],do we just go ahead ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['okay. /'],okay ,bk,FEMALE,14
+['do you want to start? /'],do you want to start ,qy,FEMALE,7
+"[""{f uh, } <lipsmack> {d well, } we're supposed to talk about vacations -- /""]",f uh  lipsmack d well  were supposed to talk about vacations  ,na,FEMALE,21
+['right. /'],right ,b,FEMALE,2
+"[""-- {c and, } {f uh, } i'm trying to think of the ones that i've been on that i liked the most  /""]", c and  f uh  im trying to think of the ones that ive been on that i liked the most  ,sd,FEMALE,1
+['{c and } <noise> probably the one i liked most was hawaii <laughter>. /'],c and  noise probably the one i liked most was hawaii laughter ,sd,FEMALE,1
+"['{f oh, } did you get to go to hawaii? /']",f oh  did you get to go to hawaii ,qy,FEMALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['we went there for our twenty-fifth wedding anniversary.  /'],we went there for our twentyfifth wedding anniversary  ,sd,FEMALE,1
+"[""it's lovely, isn't it? /""]",its lovely isnt it ,qy,FEMALE,7
+['yes.  /'],yes  ,ny,FEMALE,9
+"['we went, {f uh, } six months after we were married. /']",we went f uh  six months after we were married ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } we just went to, {f uh, } two islands. /']",c and  we just went to f uh  two islands ,sd,FEMALE,1
+['what islands did you go to? /'],what islands did you go to ,qw,FEMALE,12
+['we went to oahu and kauai. /'],we went to oahu and kauai ,sd,FEMALE,1
+"['kauai,  /']",kauai  ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['we went to kauai,  /']",we went to kauai  ,sd,FEMALE,1
+"['{c and then } we also hit maui,  /']",c and then  we also hit maui  ,sd,FEMALE,1
+"['{c and then, } of course, {f uh } -- -/']",c and then  of course f uh   ,sd,FEMALE,1
+['the big one. /'],the big one ,^2,FEMALE,23
+"['-- {f uh, } the big one,  /']", f uh  the big one  ,b^m,FEMALE,24
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+['oh. /'],oh ,b,FEMALE,2
+"['with, {f uh, } the big one i thought was very commercialized. /']",with f uh  the big one i thought was very commercialized ,sv,FEMALE,3
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,FEMALE,4
+['it was. -/'],it was ,sv,FEMALE,3
+['{c but } the other two were just lovely. /'],c but  the other two were just lovely ,sv,FEMALE,3
+"['yes,  /']",yes  ,b,FEMALE,2
+"['i enjoyed kauai better, too. /']",i enjoyed kauai better too ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['it was quiet and restful, [ and, + and  ] so beautiful.  /']",it was quiet and restful  and  and   so beautiful  ,sv,FEMALE,3
+"[""it wasn't commercialized. /""]",it wasnt commercialized ,sv,FEMALE,3
+"['{f oh, } it was rainy <laughter>. /']",f oh  it was rainy laughter ,sd,FEMALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+"['<laughter>, was it? /']",laughter was it ,qy,FEMALE,7
+"['rainy,  /']",rainy  ,na,FEMALE,21
+"[""{c but, } {d you know, } we don't like to spend the money to go over there and sit on the beach anyway  /""]",c but  d you know  we dont like to spend the money to go over there and sit on the beach anyway  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"[""that's right. /""]",thats right ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{d well, } it wasn't real rainy.  /""]",d well  it wasnt real rainy  ,sd,FEMALE,1
+"['we had [ s-, + a few ] showers,  but,  {f uh, } nothing that really got in the way with anything and just very brief ones  /']",we had  s  a few  showers  but  f uh  nothing that really got in the way with anything and just very brief ones  ,sd,FEMALE,1
+"['[ {c and, } + {c and, }  ] when, {f uh, } - /']", c and   c and    when f uh   ,%,FEMALE,5
+['{d now } we went to nassau  /'],d now  we went to nassau  ,sd,FEMALE,1
+['{c and } my husband liked it better than he did hawaii. /'],c and  my husband liked it better than he did hawaii ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+['oh. /'],oh ,bk,FEMALE,14
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['he really did.  /'],he really did  ,sd,FEMALE,1
+"[""i don't know why.  /""]",i dont know why  ,sd,FEMALE,1
+"[""{d you know, } he didn't like oahu at all <child>.  /""]",d you know  he didnt like oahu at all child  ,sd,FEMALE,1
+['[ he thought -- +'], he thought  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['oh. /'],oh ,b,FEMALE,2
+['did you go there? /'],did you go there ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['that was wonderful --  /'],that was wonderful   ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- {c and } we both enjoyed it --'], c and  we both enjoyed it ,sd,FEMALE,1
+['[ that was <child>. +'], that was child ,sv,FEMALE,3
+['-- very much. /'], very much ,+,FEMALE,0
+"['that was  ] nice,  /']",that was   nice  ,+,FEMALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{d you know, } i've been to nassau, too. /""]",d you know  ive been to nassau too ,sd,FEMALE,1
+['have you? /'],have you ,bh,FEMALE,18
+['i went on a cruise. /'],i went on a cruise ,sd,FEMALE,1
+"['{f oh, } neat. /']",f oh  neat ,ba,FEMALE,6
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""{c and, } {f uh, } to tell you the truth, [ i, + i  ] think i'd rather just go to the island. /""]",c and  f uh  to tell you the truth  i  i   think id rather just go to the island ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{f uh, } our son and daughter-in-law <child> [ just, + ] {f uh, } they got married last january and they won a cruise.  /']",f uh  our son and daughterinlaw child  just   f uh  they got married last january and they won a cruise  ,sd,FEMALE,1
+"[""{c and } i know they didn't like it.  /""]",c and  i know they didnt like it  ,sd,FEMALE,1
+"['{d now, } we have several friends that, {f uh, } have been on, and just love them.   /']",d now  we have several friends that f uh  have been on and just love them   ,sd,FEMALE,1
+"['{c but } james and i like, - /']",c but  james and i like  ,sd,FEMALE,1
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+['i think we would get bored on the boat all the time. /'],i think we would get bored on the boat all the time ,sd,FEMALE,1
+"['{d well, } i, <breathing> got sick. /']",d well  i breathing got sick ,sd,FEMALE,1
+"['{f oh, } did you? /']",f oh  did you ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['i did the first night.  /'],i did the first night  ,sd,FEMALE,1
+['i went --'],i went ,sd,FEMALE,1
+['ooh. /'],ooh ,b,FEMALE,2
+['-- with my sister --'], with my sister ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- just, {f uh, } a couple years ago  /']", just f uh  a couple years ago  ,+,FEMALE,0
+"['[ {c and, } + {c and }  ] we both, the first night, just had to leave dinner. /']", c and   c and    we both the first night just had to leave dinner ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['it was bad,  /']",it was bad  ,sd,FEMALE,1
+"['[ {c but, } + {c and then } ] after that [ it was, + it  ] got better,  /']", c but   c and then   after that  it was  it   got better  ,sd,FEMALE,1
+"['{c but } we just, - /']",c but  we just  ,%,FEMALE,5
+['it was a four day --  /'],it was a four day   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } we were both ready to get off the boat. /'], c and  we were both ready to get off the boat ,sd,FEMALE,1
+['were you? /'],were you ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{d well, } i think if we ever go, it will only be for a three day.  /']",d well  i think if we ever go it will only be for a three day  ,sd,FEMALE,1
+"[""{d now } we've been real lucky.   /""]",d now  weve been real lucky   ,sd,FEMALE,1
+"[""we've been to europe twice. /""]",weve been to europe twice ,sd,FEMALE,1
+"['{f oh, } have you? /']",f oh  have you ,bh,FEMALE,18
+['yeah.  /'],yeah  ,ny,FEMALE,9
+"['[ we went, + the first time we went  ] to london, europe and  touched a little bit of scotland <dishes>.  /']", we went  the first time we went   to london europe and  touched a little bit of scotland dishes  ,sd,FEMALE,1
+"['{c and } second time we went to munich, germany and were there a week, and loved <noise> germany. /']",c and  second time we went to munich germany and were there a week and loved noise germany ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['it --'],it ,sv,FEMALE,3
+['wow. /'],wow ,ba,FEMALE,6
+['-- is just absolutely gorgeous --'], is just absolutely gorgeous ,+,FEMALE,0
+"[""i'll bet it is. /""]",ill bet it is ,b,FEMALE,2
+['-- with the mountains  /'], with the mountains  ,+,FEMALE,0
+"['{c and } we were there in the fall before the snows, {d you know, } started  /']",c and  we were there in the fall before the snows d you know  started  ,sd,FEMALE,1
+['{c and } it was wonderful.  /'],c and  it was wonderful  ,sd,FEMALE,1
+"['[ [ it, + {f uh } --']",  it  f uh  ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- it  ] was just, + it was  ] marvelous.  /']", it   was just  it was   marvelous  ,+,FEMALE,0
+['{c and } we would love to go back there  /'],c and  we would love to go back there  ,sd,FEMALE,1
+"[""{c and } we'd love to go back to london. /""]",c and  wed love to go back to london ,sd,FEMALE,1
+"[""you haven't been to spain? /""]",you havent been to spain ,qy,FEMALE,7
+['no -- /'],no  ,nn,FEMALE,13
+['oh. /'],oh ,b,FEMALE,2
+['-- have not been to spain. /'], have not been to spain ,sd,FEMALE,1
+['i was born there. /'],i was born there ,sd,FEMALE,1
+['were you? /'],were you ,bh,FEMALE,18
+['yes <laughter>. /'],yes laughter ,ny,FEMALE,9
+['how old were you when you left? /'],how old were you when you left ,qw,FEMALE,12
+"['{f uh, } just ten months. /']",f uh  just ten months ,sd,FEMALE,1
+"['{f oh, } ten months,  /']",f oh  ten months  ,b^m,FEMALE,24
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['have you ever got to go back? /'],have you ever got to go back ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+['{c and } i would like to. /'],c and  i would like to ,sd,FEMALE,1
+['would you?  /'],would you  ,bh,FEMALE,18
+"['[ my, + {f uh, }  <lipsmack> my  ] sister, - /']", my  f uh   lipsmack my   sister  ,%,FEMALE,5
+['we went with them to germany  /'],we went with them to germany  ,sd,FEMALE,1
+"['{c and, } {f uh, } she would like to go to spain.  /']",c and  f uh  she would like to go to spain  ,sd,FEMALE,1
+"[""i'm not sure whether i would like to or not. /""]",im not sure whether i would like to or not ,sd,FEMALE,1
+['huh. /'],huh ,b,FEMALE,2
+"['{c and, } {f uh, } i would like to go to ireland. /']",c and  f uh  i would like to go to ireland ,sd,FEMALE,1
+['would you? /'],would you ,bh,FEMALE,18
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"[""{d now, } {d now } i don't know if i'd like to go there just from --""]",d now  d now  i dont know if id like to go there just from ,sd,FEMALE,1
+"['{d well, } the -- -/']",d well  the  ,%,FEMALE,5
+['-- [ the -- +'],  the  ,+,FEMALE,0
+['--  ((   ))  there is -- -/'],       there is  ,%,FEMALE,5
+['-- the  ] problems. /'], the   problems ,+,FEMALE,0
+"['-- uh-huh,  /']", uhhuh  ,b,FEMALE,2
+"['[ is, + is  ] a little scary,  /']", is  is   a little scary  ,sv,FEMALE,3
+['{c but } i would still like to see it.  /'],c but  i would still like to see it  ,sd,FEMALE,1
+"[""i'd like to see, {f uh, } <noise> italy. /""]",id like to see f uh  noise italy ,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['i would love to go there. /'],i would love to go there ,sd,FEMALE,1
+['that would be nice. /'],that would be nice ,ba,FEMALE,6
+"['{c and, } course, there is a lot of places in the united states i still want to [ come, + ] {d you know, } go to. /']",c and  course there is a lot of places in the united states i still want to  come   d you know  go to ,sd,FEMALE,1
+"['{d now, } have you been to yellowstone? /']",d now  have you been to yellowstone ,qy,FEMALE,7
+"['{f uh, } /']",f uh  ,%,FEMALE,5
+"['yellowstone, /']",yellowstone ,sd,FEMALE,1
+"['yes,  /']",yes  ,ny,FEMALE,9
+['yes. /'],yes ,ny,FEMALE,9
+['have you? /'],have you ,qy,FEMALE,7
+['we have been there.  /'],we have been there  ,na,FEMALE,21
+"['[ we, + i  ] was there as a child and then we, we went to california and came back through yellowstone with our kids. /']", we  i   was there as a child and then we we went to california and came back through yellowstone with our kids ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } they loved it. /'],c and  they loved it ,sd,FEMALE,1
+"['{d well, } /']",d well  ,%,FEMALE,5
+"['i was in utah, in salt lake city when i was a, {f uh, } youngster. /']",i was in utah in salt lake city when i was a f uh  youngster ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"[""{c so, } {f uh, } {d you know, } i've touched on that. /""]",c so  f uh  d you know  ive touched on that ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{d now } i'm just about, {f oh, } a half hour, {f uh, } north of salt lake. /""]",d now  im just about f oh  a half hour f uh  north of salt lake ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""{c so, } {f uh, } it's at -- -/""]",c so  f uh  its at  ,%,FEMALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- my husband works in salt lake,  /']", my husband works in salt lake  ,sd,FEMALE,1
+['{c so } -- -/'],c so   ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- we're real close  /""]", were real close  ,sd,FEMALE,1
+"['{c and, } yeah,  /']",c and  yeah  ,%,FEMALE,5
+"['we, -/']",we ,%,FEMALE,5
+"[""{d now } that's a pretty city. /""]",d now  thats a pretty city ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['[ we, + we  ] like it. /']", we  we   like it ,sd,FEMALE,1
+['very clean.'],very clean,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['{d you know. } /'],d you know  ,+,FEMALE,0
+['it is. /'],it is ,sd,FEMALE,1
+['utah is a pretty state from what i remember of it. /'],utah is a pretty state from what i remember of it ,sd,FEMALE,1
+"['{d well, } we kind of like it <laughter>. /']",d well  we kind of like it laughter ,sd,FEMALE,1
+['uh-huh  /'],uhhuh  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['{d well, } do you like to camp, those kind of trips? /']",d well  do you like to camp those kind of trips ,qy,FEMALE,7
+"['we, - /']",we  ,%,FEMALE,5
+"['no,  /']",no  ,nn,FEMALE,13
+['we used to <child>.  /'],we used to child  ,sd,FEMALE,1
+['we used to camp a lot with our - /'],we used to camp a lot with our  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f oh, } you like the motels? /']",f oh  you like the motels ,qy,FEMALE,7
+"['we like the motels,  /']",we like the motels  ,na,FEMALE,21
+['yes <laughter>. /'],yes laughter ,ny,FEMALE,9
+"['{f oh, } {f oh, } {d well. } /']",f oh  f oh  d well  ,%,FEMALE,5
+"[""[ we have, + we've  ] gone past the camping stage.  /""]", we have  weve   gone past the camping stage  ,sd,FEMALE,1
+"['we lived in <child> chattanooga, tennessee for two years. /']",we lived in child chattanooga tennessee for two years ,sd,FEMALE,1
+"['{f oh, } did you? /']",f oh  did you ,bh,FEMALE,18
+['{c and } we did a lot of camping out there in the smokeys  /'],c and  we did a lot of camping out there in the smokeys  ,sd,FEMALE,1
+['{c and } it was beautiful  /'],c and  it was beautiful  ,sd,FEMALE,1
+['{c and } our kids loved it and everything  /'],c and  our kids loved it and everything  ,sd,FEMALE,1
+"['{c and then } we moved to, {f uh, } <child> {f uh, } the dallas area -- /']",c and then  we moved to f uh  child f uh  the dallas area  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, } {f uh, } it's hot down here  /""]", c and  f uh  its hot down here  ,sd,FEMALE,1
+['{c and } camping is not near as much fun. /'],c and  camping is not near as much fun ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['[ [ {c and, } + {f uh, } {c so, } ] + {c and then } ] the kids were getting older [ and, + and  ]  were involved in activities so the camping sort of went by the wayside.']",  c and   f uh  c so    c and then   the kids were getting older  and  and    were involved in activities so the camping sort of went by the wayside,sd,FEMALE,1
+['huh. /'],huh ,b,FEMALE,2
+"['{c and, } {f uh, } although our son loves to fish  /']",c and  f uh  although our son loves to fish  ,+,FEMALE,0
+"['[ {c and, } + {f uh, } {c and }  ] our daughter and her husband are talking now about starting camping with their boys now that they have gotten older. /']", c and   f uh  c and    our daughter and her husband are talking now about starting camping with their boys now that they have gotten older ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2

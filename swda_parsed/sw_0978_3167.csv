@@ -1,0 +1,183 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['they suggested some sort of a recipe, {f uh, } for, {f uh, } <lipsmack> company, for entertaining.  /']",they suggested some sort of a recipe f uh  for f uh  lipsmack company for entertaining  ,sd,FEMALE,1
+"[""did you have anything in mind that, {f uh, } you'd like to share? /""]",did you have anything in mind that f uh  youd like to share ,qy,FEMALE,7
+"['{d well, } i, {f uh, } just had a christmas around the world party --']",d well  i f uh  just had a christmas around the world party ,sd,FEMALE,1
+['ooh. /'],ooh ,bk,FEMALE,14
+"[""-- the other night and had some hors d'oeuvres. /""]", the other night and had some hors doeuvres ,+,FEMALE,0
+['oh. /'],oh ,bk,FEMALE,14
+"['{c and } i fixed, {f uh, } a crab meat spread that is real good and real easy. /']",c and  i fixed f uh  a crab meat spread that is real good and real easy ,sd,FEMALE,1
+"['ooh, that sounds good.  /']",ooh that sounds good  ,ba,FEMALE,6
+"['what, -/']",what ,%,FEMALE,5
+"[""[ it's, + {f uh, } it's ] {d like, } {f uh, } eight ounces of cream cheese --""]", its  f uh  its  d like  f uh  eight ounces of cream cheese ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- softened,  /']", softened  ,+,FEMALE,0
+"['{c and } you mix it with one tablespoon onion juice and one tablespoon lemon juice, one tablespoon worcester sauce and  mix it and spread it out onto a plate.  /']",c and  you mix it with one tablespoon onion juice and one tablespoon lemon juice one tablespoon worcester sauce and  mix it and spread it out onto a plate  ,ad,FEMALE,22
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['one tablespoon of worcester? /'],one tablespoon of worcester ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['okay. /'],okay ,bk,FEMALE,14
+"['{c and then } you take and, {f uh, } <lipsmack> cover that with drained crab meat mixed with one of the small bottles of chili sauce and spread it over the top and spread it on triscuits crackers. /']",c and then  you take and f uh  lipsmack cover that with drained crab meat mixed with one of the small bottles of chili sauce and spread it over the top and spread it on triscuits crackers ,ad,FEMALE,22
+"['{f oh, } that, -/']",f oh  that ,%,FEMALE,5
+['{c and } that always goes over real well  /'],c and  that always goes over real well  ,sd,FEMALE,1
+"[""{c and } it's real easy. /""]",c and  its real easy ,sd,FEMALE,1
+['how much chili sauce did you say? /'],how much chili sauce did you say ,qw,FEMALE,12
+"[""it's one of the small bottles. /""]",its one of the small bottles ,sd,FEMALE,1
+"['{d like } eight, -/']",d like  eight ,%,FEMALE,5
+"[""i don't think, {f uh, } -/""]",i dont think f uh  ,%,FEMALE,5
+['not eight ounces.  /'],not eight ounces  ,qy^d,FEMALE,16
+['that would be a lot. /'],that would be a lot ,sv,FEMALE,3
+"[""<lipsmack> {d well, } it's about eight ounces. /""]",lipsmack d well  its about eight ounces ,arp_nd,FEMALE,34
+['is it? /'],is it ,bh,FEMALE,18
+"['[ it, + it, ] - /']", it  it   ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['okay,  /']",okay  ,bk,FEMALE,14
+"['this would make a lot, right? /']",this would make a lot right ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['it would probably make, - /']",it would probably make  ,sd,FEMALE,1
+"[""{d well, } it doesn't make quite as much as you think,  /""]",d well  it doesnt make quite as much as you think  ,sd,FEMALE,1
+"['{c but, } yeah,  /']",c but  yeah  ,%,FEMALE,5
+['spread it out because you keep the cream cheese kind of thin. /'],spread it out because you keep the cream cheese kind of thin ,ad,FEMALE,22
+['{c and } how much crab meat did you use? /'],c and  how much crab meat did you use ,qw,FEMALE,12
+['one tin.'],one tin,sd,FEMALE,1
+"['[ one, +']", one ,b,FEMALE,2
+['of the flake.  /'],of the flake  ,+,FEMALE,0
+['uh-huh.  /'],uhhuh  ,%,FEMALE,5
+['{c and } drain it real good. /'],c and  drain it real good ,ad,FEMALE,22
+['one ] can of flake. /'],one  can of flake ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f oh, } okay.  /']",f oh  okay  ,aa,FEMALE,4
+"['have you ever used the, {f uh, } imitation, yet? /']",have you ever used the f uh  imitation yet ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['i have.  /'],i have  ,sd,FEMALE,1
+"['i used it, {f uh, } last christmastime.  /']",i used it f uh  last christmastime  ,sd,FEMALE,1
+"['{f uh, } what did i put it in?  /']",f uh  what did i put it in  ,t1,FEMALE,37
+['i think i just served it by itself.  /'],i think i just served it by itself  ,sd,FEMALE,1
+"[""there's {d like } a little tidbit with the sauce to dip it into and stuff. /""]",theres d like  a little tidbit with the sauce to dip it into and stuff ,sd,FEMALE,1
+"['ooh, that sounds, - /']",ooh that sounds  ,%,FEMALE,5
+"[""i've tried it  /""]",ive tried it  ,sd,FEMALE,1
+['{c and then } i have it here on hand for about a week  /'],c and then  i have it here on hand for about a week  ,sd,FEMALE,1
+"['{c and then } all of a sudden it dawned on me,  /']",c and then  all of a sudden it dawned on me  ,sd,FEMALE,1
+"['wait, is this totally imitation  /']",wait is this totally imitation  ,^q,FEMALE,19
+"['{c and then } i found out,  /']",c and then  i found out  ,sd,FEMALE,1
+['i went back to the store  /'],i went back to the store  ,sd,FEMALE,1
+['{c and } they said it is a fish product. /'],c and  they said it is a fish product ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so, } therefore, you really don't have a very long life, {d you know } --""]",c so  therefore you really dont have a very long life d you know  ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+['-- once you buy it. /'], once you buy it ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"[""i thought, {d so, } {d you know, } they should put some directions on some of these new things they're making that you really don't know what the shelf life is. /""]",i thought d so  d you know  they should put some directions on some of these new things theyre making that you really dont know what the shelf life is ,sv,FEMALE,3
+"[""that's very true. /""]",thats very true ,aa,FEMALE,4
+['{d you know. } /'],d you know  ,b,FEMALE,2
+['very true.  /'],very true  ,aa,FEMALE,4
+"['i had bought a cheesecake, {f uh, }  /']",i had bought a cheesecake f uh   ,sd,FEMALE,1
+"['{c and } they very nicely put onto the box that it may be re frozen, which i felt was real nice. /']",c and  they very nicely put onto the box that it may be re frozen which i felt was real nice ,sd,FEMALE,1
+"[""{f oh, } that's a good idea. /""]",f oh  thats a good idea ,ba,FEMALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+['whose was that? /'],whose was that ,qw,FEMALE,12
+"[""it, {f uh, } was, {f uh, } lawry's, i believe, or lawler's. /""]",it f uh  was f uh  lawrys i believe or lawlers ,sd,FEMALE,1
+"['((   )) ,']",    ,x,FEMALE,8
+"['{c and } i got it, - /']",c and  i got it  ,%,FEMALE,5
+"[""do you have a sam's wholesale warehouse up there?  /""]",do you have a sams wholesale warehouse up there  ,qy,FEMALE,7
+"[""it's real, -/""]",its real ,%,FEMALE,5
+"[""{f uh, } sam's,  /""]",f uh  sams  ,^h,FEMALE,27
+"['right,  /']",right  ,na,FEMALE,21
+['right. /'],right ,na,FEMALE,21
+"['yeah,  /']",yeah  ,bk,FEMALE,14
+"['okay,  /']",okay  ,bk,FEMALE,14
+"[""that's where i picked it up.  /""]",thats where i picked it up  ,sd,FEMALE,1
+['it comes out of chicago  /'],it comes out of chicago  ,sd,FEMALE,1
+"[""{c and } they're very good  --""]",c and  theyre very good  ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['-- cheesecakes. /'], cheesecakes ,+,FEMALE,0
+"['{f oh, } that sounds good -- /']",f oh  that sounds good  ,ba,FEMALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- {c because } that's great.  /""]", c because  thats great  ,ba,FEMALE,6
+"[""that must be the ones that look like  they're packaged for a restaurant. /""]",that must be the ones that look like  theyre packaged for a restaurant ,qy^d,FEMALE,16
+"['yes,  /']",yes  ,ny,FEMALE,9
+['yes. /'],yes ,ny,FEMALE,9
+"['okay,  /']",okay  ,bk,FEMALE,14
+"[""[ i, + i've, ] -/""]", i  ive  ,%,FEMALE,5
+"['[ {c and } they have, + {c and } they have ] the little papers between them. /']", c and  they have  c and  they have  the little papers between them ,sd,FEMALE,1
+['right.  /'],right  ,b,FEMALE,2
+"['{f oh, } hey, that sounds, -/']",f oh  hey that sounds ,%,FEMALE,5
+"[""{c and } i think they're, {d what, } about nine dollars and something. /""]",c and  i think theyre d what  about nine dollars and something ,sd,FEMALE,1
+['right.  /'],right  ,b,FEMALE,2
+"[""{c and } it's something good to have on hand, too.  /""]",c and  its something good to have on hand too  ,sv,FEMALE,3
+"[""it's frozen --""]",its frozen ,qy,FEMALE,7
+['yes. /'],yes ,ny,FEMALE,9
+['-- in the first --'], in the first ,+,FEMALE,0
+['yes. /'],yes ,ny,FEMALE,9
+"['-- place, right? /']", place right ,+,FEMALE,0
+['yes. /'],yes ,ny,FEMALE,9
+"['{c so, } you can, {f uh, } - /']",c so  you can f uh   ,%,FEMALE,5
+"[""it is frozen, isn't it? /""]",it is frozen isnt it ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['it is frozen. /'],it is frozen ,sd,FEMALE,1
+['{c and then } you can re freeze. /'],c and then  you can re freeze ,qy^d,FEMALE,16
+['{c and } i thaw it  /'],c and  i thaw it  ,arp_nd,FEMALE,34
+['{c and then } you can re freeze it.  /'],c and then  you can re freeze it  ,arp_nd,FEMALE,34
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['hey, that sounds great. /']",hey that sounds great ,ba,FEMALE,6
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['that s-, -/']",that s ,%,FEMALE,5
+"[""[ it was, + they're ] [ very good, + very good. ]  /""]", it was  theyre   very good  very good   ,sd,FEMALE,1
+"[""{c and } that's the one thing that i hate to make is desserts. /""]",c and  thats the one thing that i hate to make is desserts ,sd,FEMALE,1
+"['{f oh, } do you?  /']",f oh  do you  ,bh,FEMALE,18
+"[""{c and } that's my favorite. /""]",c and  thats my favorite ,sd,FEMALE,1
+['is it? /'],is it ,bh,FEMALE,18
+"[""{c and } i really don't care for desserts that well other than one piece of it. /""]",c and  i really dont care for desserts that well other than one piece of it ,sd,FEMALE,1
+"['{f oh, } i love to eat it,  /']",f oh  i love to eat it  ,sd,FEMALE,1
+"[""{c but } i don't like to make it.  /""]",c but  i dont like to make it  ,sd,FEMALE,1
+['it takes time  /'],it takes time  ,sv,FEMALE,3
+"['{c and } you have to rack your brain, /']",c and  you have to rack your brain ,sv,FEMALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c and, } time i don't have anymore <laughter>. /""]",c and  time i dont have anymore laughter ,sd,FEMALE,1
+"[""[ that's the, + that's the ] thing i hate most about entertaining is thinking of what i'm going to serve. /""]", thats the  thats the  thing i hate most about entertaining is thinking of what im going to serve ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+['it is. /'],it is ,aa,FEMALE,4
+"['[ i, + i ] said i can make it no time.  /']", i  i  said i can make it no time  ,sd,FEMALE,1
+"[""it's trying to think,  /""]",its trying to think  ,sd,FEMALE,1
+"['{c and  then } we just, {f uh, } built a new home  /']",c and  then  we just f uh  built a new home  ,sd,FEMALE,1
+"[""{c and } i have one of these kitchens that's the center of the house -- /""]",c and  i have one of these kitchens thats the center of the house  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and so } no matter where they're at, your company can see you cooking.""]", c and so  no matter where theyre at your company can see you cooking,sd,FEMALE,1
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+['which is funny. /'],which is funny ,+,FEMALE,0
+['and your mess <laughter>. /'],and your mess laughter ,sv,FEMALE,3
+"['[ this, + <laughter> {d well, } this ] is what everyone has said.  /']", this  laughter d well  this  is what everyone has said  ,sd,FEMALE,1
+"[""they said it's okay for you because you keep a real neat kitchen. /""]",they said its okay for you because you keep a real neat kitchen ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['<laughter> {c and } i said, yes,  /']",laughter c and  i said yes  ,sd,FEMALE,1
+['i decided it looks better in better homes and gardens than it does in practicality. /'],i decided it looks better in better homes and gardens than it does in practicality ,sv,FEMALE,3
+['yeah <laughter>. /'],yeah laughter ,b,FEMALE,2
+"[""{c but, } {f uh, } what i have learned in the, {f uh, } ten months we've lived here, is [ it + that ] when i entertain, i have to have my foods all prepared and in the oven with [ all the, + <laughter> everything ] through, ready --""]",c but  f uh  what i have learned in the f uh  ten months weve lived here is  it  that  when i entertain i have to have my foods all prepared and in the oven with  all the  laughter everything  through ready ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- to serve.'], to serve,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"[""{c because } with the open area, you don't want someone from your dining room seeing your mess, like you said. /""]",c because  with the open area you dont want someone from your dining room seeing your mess like you said ,+,FEMALE,0
+"[""[ that's, + that's ] right. /""]", thats  thats  right ,aa,FEMALE,4
+"['{c so } you have to have the picturesque kitchen, {d you know, } right out of the magazine. /']",c so  you have to have the picturesque kitchen d you know  right out of the magazine ,sv,FEMALE,3
+"['{d well, } i like to have mine all done anyway, because then [ i want to, + i want to ] party, too.  /']",d well  i like to have mine all done anyway because then  i want to  i want to  party too  ,sd,FEMALE,1
+"[""i don't want to sit in the kitchen and  be putting an olive on something <laughter>. /""]",i dont want to sit in the kitchen and  be putting an olive on something laughter ,sd,FEMALE,1
+"[""you're right. /""]",youre right ,aa,FEMALE,4
+['{d you know. } /'],d you know  ,b,FEMALE,2
+"['{c and } you know the funny thing is, now that i have a large kitchen with a big island and that, i still have people trying to come, {d you know, }  /']",c and  you know the funny thing is now that i have a large kitchen with a big island and that i still have people trying to come d you know   ,sd,FEMALE,1
+"[""they'll come in the kitchen  /""]",theyll come in the kitchen  ,sd,FEMALE,1
+"['{c and } i said, out,  /']",c and  i said out  ,sd,FEMALE,1
+['we have the chairs on the other side <laughter> of the counter <laughter> --'],we have the chairs on the other side laughter of the counter laughter ,^q,FEMALE,19
+['correct <laughter>. /'],correct laughter ,b,FEMALE,2
+['-- for guests.  /'], for guests  ,+,FEMALE,0
+"[""you're not allowed to trespass into my kitchen <laughter>. /""]",youre not allowed to trespass into my kitchen laughter ,^q,FEMALE,19
+"['<laughter>  sounds, -/']",laughter  sounds ,%,FEMALE,5
+"['{c and } [ it, + it ] has worked out.  /']",c and   it  it  has worked out  ,sd,FEMALE,1
+"[""{c but } at our point of life we know many  of the people we're entertaining --""]",c but  at our point of life we know many  of the people were entertaining ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""-- {f uh, } well enough that they know, {d you know, } it's very much at home type situation. /""]", f uh  well enough that they know d you know  its very much at home type situation ,+,FEMALE,0
+"[""{d well, } a lot of our entertaining anymore with the couples, again, that we've known a long time like you, [ they, + {f uh, } we ] all bring things  /""]",d well  a lot of our entertaining anymore with the couples again that weve known a long time like you  they  f uh  we  all bring things  ,sd,FEMALE,1
+['{c and } it sure makes it a whole lot easier.'],c and  it sure makes it a whole lot easier,sd,FEMALE,1
+"['{d well, } we even --']",d well  we even ,sv,FEMALE,3
+['anymore. /'],anymore ,+,FEMALE,0
+['-- have a better one.  /'], have a better one  ,+,FEMALE,0
+"['now we decided <laughter> that we all meet, we have it worked, -/']",now we decided laughter that we all meet we have it worked ,sd,FEMALE,1

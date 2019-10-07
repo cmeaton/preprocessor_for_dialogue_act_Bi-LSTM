@@ -1,0 +1,177 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""{d so, } who's your favorite team? /""]",d so  whos your favorite team ,qw,MALE,12
+['my favorite team is the pittsburgh steelers. /'],my favorite team is the pittsburgh steelers ,sd,MALE,1
+['pittsburgh? /'],pittsburgh ,br,MALE,30
+['# you bet. # /'], you bet  ,na,MALE,21
+['# i used # to be a big pittsburgh fan when i was little. /'], i used  to be a big pittsburgh fan when i was little ,sd,MALE,1
+"['{d well, } i, {f uh, } - /']",d well  i f uh   ,%,MALE,5
+"['when ((john)) ((stallworth)) played he was from my hometown in alabama, /']",when john stallworth played he was from my hometown in alabama ,sd,MALE,1
+"['# {f oh, } really? # /']", f oh  really  ,bh,MALE,18
+"['# {c so } i # kind of grabbed on to that team,']", c so  i  kind of grabbed on to that team,sd,MALE,1
+['{f huh. }  /'],f huh   ,%,MALE,5
+"[""# ((that's pretty nice)). # /""]", thats pretty nice  ,ba,MALE,6
+['# way back when. # /'], way back when  ,+,MALE,0
+"['((yeah,))  /']",yeah  ,b,MALE,2
+"[""that's good.  /""]",thats good  ,ba,MALE,6
+"['[ i, + i ] used to watch them a lot when they were playing the big [ iron curtain, +']", i  i  used to watch them a lot when they were playing the big  iron curtain ,sd,MALE,1
+"[""# that's right. # /""]", thats right  ,aa,MALE,4
+['# {e or } steel curtain. ] # /'], e or  steel curtain   ,+,MALE,0
+['how about your favorite team? /'],how about your favorite team ,qw,MALE,12
+['{f huh. }  /'],f huh   ,%,MALE,5
+"['{d well, } last year it was buffalo  /']",d well  last year it was buffalo  ,sd,MALE,1
+"['{c and } [ i, + i ] still try to keep up with buffalo because [ they just, + they just ] impressed me as being so efficient  /']",c and   i  i  still try to keep up with buffalo because  they just  they just  impressed me as being so efficient  ,sd,MALE,1
+['{c and } they never score.  /'],c and  they never score  ,sd,MALE,1
+['they never blow out their opponents.  /'],they never blow out their opponents  ,sd,MALE,1
+"['they just score just enough points, /']",they just score just enough points ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['# {c and } that really # impressed me.  /'], c and  that really  impressed me  ,sd,MALE,1
+"['{c but } then down here  i li-, - /']",c but  then down here  i li  ,%,MALE,5
+['(( )) is pretty close to new orleans  /'],  is pretty close to new orleans  ,sd,MALE,1
+"[""{c and } i've been keeping up with the saints a lot. /""]",c and  ive been keeping up with the saints a lot ,sd,MALE,1
+"[""{d well, } they are exciting, aren't they? /""]",d well  they are exciting arent they ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['the saints are starting to impress me this year, {d you know, } a lot. /']",the saints are starting to impress me this year d you know  a lot ,sd,MALE,1
+"['{f boy, }  /']",f boy   ,ba,MALE,6
+"['[ they are, + they are ] just a fun team to watch. /']", they are  they are  just a fun team to watch ,sv,MALE,3
+"['[ [ this, + it, ] + they ] are really.  /']",  this  it   they  are really  ,aa,MALE,4
+"['did you see the game [ sunday night + {e or, }']",did you see the game  sunday night  e or ,qy,MALE,7
+"['# {f uh, } #']", f uh  ,nn,MALE,13
+['# sunday # afternoon? ] /'], sunday  afternoon  ,+,MALE,0
+"['no,  /']",no  ,+,MALE,0
+"[""i didn't. /""]",i didnt ,sd,MALE,1
+['it was funny.  /'],it was funny  ,sv,MALE,3
+"['[ there were, + they ha-, ] {f uh, } a fireworks display at halftime. /']", there were  they ha  f uh  a fireworks display at halftime ,sd,MALE,1
+"['<laughter> {f oh, } yeah? /']",laughter f oh  yeah ,bh,MALE,18
+"['yeah,  /']",yeah  ,ny,MALE,9
+['{c and } some paper or something in the super dome up in the roof caught <laughter> on fire. /'],c and  some paper or something in the super dome up in the roof caught laughter on fire ,sd,MALE,1
+"[""{f oh, } # you're kidding <laughter>. # /""]",f oh   youre kidding laughter  ,ba,MALE,6
+"['# {c so, }  they had # to stop the game ((in lieu of)) the third quarter --']", c so   they had  to stop the game in lieu of the third quarter ,sd,MALE,1
+"['<laughter> {f oh, } my gos-, -/']",laughter f oh  my gos ,ba,MALE,6
+['-- and put out this fire.  /'], and put out this fire  ,+,MALE,0
+"['those big piece of something came [ flaming, + falling ] out of the roof and landed on the field  /']",those big piece of something came  flaming  falling  out of the roof and landed on the field  ,sd,MALE,1
+"[""{c so } there's this big fire on the field  /""]",c so  theres this big fire on the field  ,sd,MALE,1
+['{c and } they were dumping the ((gatorade)) bucket and everything. /'],c and  they were dumping the gatorade bucket and everything ,sd,MALE,1
+"[""{f oh, } i can't # believe that. # /""]",f oh  i cant  believe that  ,ba,MALE,6
+"['# it was funn-,  /']", it was funn  ,sv,MALE,3
+"[""{e i mean, } # you just really can't tell what's going to happen. /""]",e i mean   you just really cant tell whats going to happen ,sv,MALE,3
+"[""that's hilarious. /""]",thats hilarious ,ba,MALE,6
+['i  know.  /'],i  know  ,b,MALE,2
+"[""it's like about two weeks ago i was watching the saints. /""]",its like about two weeks ago i was watching the saints ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } ((morton)) anderson kicked a sixty yard field goal. /'],c and  morton anderson kicked a sixty yard field goal ,sd,MALE,1
+['oh. /'],oh ,b,MALE,2
+"['{c and } [ it, + it ] was beautiful, right down the middle. /']",c and   it  it  was beautiful right down the middle ,sd,MALE,1
+"['{f oh, } boy.  /']",f oh  boy  ,ba,MALE,6
+"['he is tough,  /']",he is tough  ,sv,MALE,3
+['he has --'],he has ,sv,MALE,3
+['he is. /'],he is ,aa,MALE,4
+['-- an incredible leg. /'], an incredible leg ,+,MALE,0
+['yes. /'],yes ,aa,MALE,4
+"[""{d well, } do you think [ they're, + they're ] going to be able to make it this year,""]",d well  do you think  theyre  theyre  going to be able to make it this year,qy,MALE,7
+"['# {f uh } [ i s-, + #']", f uh   i s  ,sd,MALE,1
+['# past the first # playoff game? /'], past the first  playoff game ,+,MALE,0
+['i sure ] hope so.  /'],i sure  hope so  ,+,MALE,0
+"[""[ i'm not sure, + i'm not sure ] who they play.  /""]", im not sure  im not sure  who they play  ,sd,MALE,1
+"[""right now i've got it narrowed down to the top four teams. /""]",right now ive got it narrowed down to the top four teams ,sd,MALE,1
+"[""who's that?  /""]",whos that  ,qw,MALE,12
+"[""it's pretty much going between washington. {a they are undefeated. }""]",its pretty much going between washington a they are undefeated ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['and, {f uh, } buffalo, new orleans, and chicago because chicago has only lost twice  /']",and f uh  buffalo new orleans and chicago because chicago has only lost twice  ,+,MALE,0
+['{c and } one of those was to buffalo.  /'],c and  one of those was to buffalo  ,sd,MALE,1
+['{c and } they beat the saints.  /'],c and  they beat the saints  ,sd,MALE,1
+['their only time they lost. /'],their only time they lost ,sd,MALE,1
+"['what do you think about, {f uh, } houston? /']",what do you think about f uh  houston ,qo,MALE,25
+['houston.  /'],houston  ,b^m,MALE,24
+['i saw houston play this summer in memphis. /'],i saw houston play this summer in memphis ,^h,MALE,27
+"['{f oh, } yeah? /']",f oh  yeah ,bh,MALE,18
+['yeah.  /'],yeah  ,ny,MALE,9
+"['{f uh, } from what i saw they were playing, - /']",f uh  from what i saw they were playing  ,sv,MALE,3
+"['when i was at the game we sat right on the front row,']",when i was at the game we sat right on the front row,sd,MALE,1
+['# {f huh. } # /'], f huh   ,%,MALE,5
+"['# right # behind the houston oilers,  /']", right  behind the houston oilers  ,+,MALE,0
+"['{c and } from what i saw the game [ houston, + houston ] impressed me a lot. /']",c and  from what i saw the game  houston  houston  impressed me a lot ,sd,MALE,1
+['# huh. # /'], huh  ,b,MALE,2
+"['# {c but } my # brother watched it on t v and said that warren moon was just having an off night,  /']", c but  my  brother watched it on t v and said that warren moon was just having an off night  ,sd,MALE,1
+"[""{c and } if that was an off night i'd hate to see when he's on a good night. /""]",c and  if that was an off night id hate to see when hes on a good night ,sv,MALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,MALE,2
+"[""[ he's -- +""]", hes  ,sv,MALE,3
+"[""he's, -/""]",hes ,%,MALE,5
+"['-- he  definitely, {f uh, } is ] one of the best i think. /']", he  definitely f uh  is  one of the best i think ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ [ the, + their, ] + their ] backfield is really impressive.  /']",  the  their   their  backfield is really impressive  ,sv,MALE,3
+['haywood ((jeffreys)) and drew hill --'],haywood jeffreys and drew hill ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['-- and ((allen)) (( )),  /']", and allen    ,+,MALE,0
+['they really impress me. /'],they really impress me ,sd,MALE,1
+"['{d well, } they squeaked out a game on sunday. /']",d well  they squeaked out a game on sunday ,sd,MALE,1
+"[""that's right.  /""]",thats right  ,aa,MALE,4
+"['[ who, + who ] did they play? /']", who  who  did they play ,qw,MALE,12
+['they played dallas. /'],they played dallas ,sd,MALE,1
+"['dallas,  /']",dallas  ,b^m,MALE,24
+"[""that's right, /""]",thats right ,aa,MALE,4
+"['# they won, #']", they won ,sd,MALE,1
+"['# all because, # -/']", all because  ,%,MALE,5
+['in overtime. /'],in overtime ,+,MALE,0
+"[""that's right.  /""]",thats right  ,aa,MALE,4
+['i remember that now. /'],i remember that now ,sd,MALE,1
+"['{c so } that was, - /']",c so  that was  ,%,MALE,5
+"['[ i, + i ] watched that game  /']", i  i  watched that game  ,sd,MALE,1
+"['{c and, } {f uh, } that was, {f uh, } -/']",c and  f uh  that was f uh  ,%,MALE,5
+['do you have a favorite between those two? /'],do you have a favorite between those two ,qy,MALE,7
+"[""{d well, } because  i'm right here in dallas [ i, + i ] kind of pull for dallas. /""]",d well  because  im right here in dallas  i  i  kind of pull for dallas ,na,MALE,21
+['really?  <laughter>. /'],really  laughter ,bh,MALE,18
+['yeah.  /'],yeah  ,ny,MALE,9
+"[""{d well, } also houston is, {f uh, } in pittsburgh's division  /""]",d well  also houston is f uh  in pittsburghs division  ,sd,MALE,1
+"['{c so, }']",c so ,sd,MALE,1
+"[""# {d well, } that's true. # /""]", d well  thats true  ,aa,MALE,4
+"[""# i'll almost always # root against them. /""]", ill almost always  root against them ,+,MALE,0
+['<laughter> (( )).'],laughter  ,x,MALE,8
+['<laughter>.'],laughter,x,MALE,8
+['i hate to say it  /'],i hate to say it  ,h,MALE,15
+['{c but } i hate dallas <laughter>. /'],c but  i hate dallas laughter ,sd,MALE,1
+"[""that's okay <laughter>.  /""]",thats okay laughter  ,sv,MALE,3
+"['{d well } [ [ i, + {d you know, } i, ] + i ] was never really a big dallas fan --']",d well    i  d you know  i   i  was never really a big dallas fan ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- until we moved here  /'], until we moved here  ,+,MALE,0
+['{c and } they just kind of grew on me. /'],c and  they just kind of grew on me ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['i imagine.  /'],i imagine  ,sv,MALE,3
+"[""that's the way,  /""]",thats the way  ,%,MALE,5
+"[""i've never been a big saints fan until the last year or two  /""]",ive never been a big saints fan until the last year or two  ,sd,MALE,1
+"[""{c and } [ they, + they've ] actually started doing something. /""]",c and   they  theyve  actually started doing something ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"[""{c so, } i've actually [ pl-, + paid ] attention to them. /""]",c so  ive actually  pl  paid  attention to them ,sd,MALE,1
+"['<laughter> {d well } <breathing>, -/']",laughter d well  breathing ,%,MALE,5
+"[""{d well, } do you know anything about the expansion teams they're thinking about bringing in? /""]",d well  do you know anything about the expansion teams theyre thinking about bringing in ,qy,MALE,7
+"[""to tell you the truth i haven't paid too much attention to that.  /""]",to tell you the truth i havent paid too much attention to that  ,^h,MALE,27
+['really? /'],really ,bh,MALE,18
+"['{f um, } what cities are they looking at? /']",f um  what cities are they looking at ,qw,MALE,12
+"[""{f uh, } right now i think this memphis, [ they're, + they're ] trying to get the # teams. # /""]",f uh  right now i think this memphis  theyre  theyre  trying to get the  teams  ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""{c and } [ that's, + that's ] where i was when i saw, {f uh, }""]",c and   thats  thats  where i was when i saw f uh ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['# houston # play.  /'], houston  play  ,+,MALE,0
+['saint louis is trying to get a team.  /'],saint louis is trying to get a team  ,sd,MALE,1
+"['{f uh, } baltimore is trying to get a team,  /']",f uh  baltimore is trying to get a team  ,sd,MALE,1
+"[""{c and } there's some other city.  /""]",c and  theres some other city  ,sd,MALE,1
+"[""i'm wanting to say raleigh ((durham))  /""]",im wanting to say raleigh durham  ,sv,MALE,3
+"[""{c but } i'm not sure. /""]",c but  im not sure ,h,MALE,15
+"['{d you know, } i think you are right.  /']",d you know  i think you are right  ,aa,MALE,4
+['i think it is raleigh. /'],i think it is raleigh ,sv,MALE,3
+['think so? /'],think so ,bh,MALE,18
+['i think i remember hearing that. /'],i think i remember hearing that ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""{c because } i know they've got a (( )) football team  /""]",c because  i know theyve got a   football team  ,sd,MALE,1
+['{c but } i think it might be them. /'],c but  i think it might be them ,sv,MALE,3
+['that would be fun.  /'],that would be fun  ,sv,MALE,3
+"[""i'd like to see some more teams get in. /""]",id like to see some more teams get in ,sd,MALE,1
+"['i would, definitely.  /']",i would definitely  ,aa,MALE,4
+['i think they are supposed to put two in by either next year or the year after.  /'],i think they are supposed to put two in by either next year or the year after  ,sd,MALE,1
+"[""{c and } right now i think  [ memphis and, + it's memphis and ] i think baltimore have a really good shot at it. /""]",c and  right now i think   memphis and  its memphis and  i think baltimore have a really good shot at it ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c because } i know saint louis is much bigger than memphis  /'],c because  i know saint louis is much bigger than memphis  ,sd,MALE,1
+['{c and } when i went up there they were saying that memphis sold more tickets than saint louis did. /'],c and  when i went up there they were saying that memphis sold more tickets than saint louis did ,sd,MALE,1
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+['yeah.  /'],yeah  ,ny,MALE,9
+"[""it's like the [ liberty bowl + {e or } liberty stadium ] in memphis holds about sixty-two, -/""]",its like the  liberty bowl  e or  liberty stadium  in memphis holds about sixtytwo ,sd,MALE,1

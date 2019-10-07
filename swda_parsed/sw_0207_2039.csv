@@ -1,0 +1,226 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay, {f uh, }  /']",okay f uh   ,"fo_o_fw_""_by_bc",MALE,0
+['my favorite show is masterpiece theatre  /'],my favorite show is masterpiece theatre  ,sd,MALE,1
+['{c and } it has been for a long time  /'],c and  it has been for a long time  ,sd,MALE,1
+['{c but } i feel almost ashamed to say that to anybody now because i have never met anybody who likes it.  /'],c but  i feel almost ashamed to say that to anybody now because i have never met anybody who likes it  ,sd,MALE,1
+['do you by any chance? /'],do you by any chance ,qy,MALE,7
+"['{f oh, } yes. /']",f oh  yes ,ny,FEMALE,9
+['you do! /'],you do ,qy^d,MALE,16
+"['yes,  /']",yes  ,ny,FEMALE,9
+['very much. /'],very much ,sd,FEMALE,1
+"[""{d well, } wouldn't you know <laughter>. /""]",d well  wouldnt you know laughter ,ba,MALE,6
+"['as a matter of fact, i prefer public television. /']",as a matter of fact i prefer public television ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, }  {f uh, } i [ have, + particularly enjoy ] the english comedies,']",c and   f uh  i  have  particularly enjoy  the english comedies,sd,FEMALE,1
+"['yeah, /']",yeah ,b,MALE,2
+['and the english mysteries. /'],and the english mysteries ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+['i watch mysteries too.  /'],i watch mysteries too  ,sd,MALE,1
+"[""is that what you're referring to? /""]",is that what youre referring to ,qy,MALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"['okay,  /']",okay  ,bk,MALE,14
+['yeah.  /'],yeah  ,b,MALE,2
+['that is good.  /'],that is good  ,ba,MALE,6
+"['i like, {f uh, } - /']",i like f uh   ,sd,MALE,1
+['do you read? /'],do you read ,qy,MALE,7
+['vociferously. /'],vociferously ,na,FEMALE,21
+"['okay,  /']",okay  ,bk,MALE,14
+"[""{d well } that's the reason why i like both of those programs is because they're kind of based on books. /""]",d well  thats the reason why i like both of those programs is because theyre kind of based on books ,sd,MALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['{c and, }  the plots are more, {f um, } challenging, {d you know, } than the sitcoms of regular t v. /']",c and   the plots are more f um  challenging d you know  than the sitcoms of regular t v ,sv,MALE,3
+"['{d well, } unfortunately for us at least here in the united states, [ we, + the only access we ] have to that of course is public television. /']",d well  unfortunately for us at least here in the united states  we  the only access we  have to that of course is public television ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""[ i'm, + i'm ] not a great television watcher in any respect  /""]", im  im  not a great television watcher in any respect  ,sd,FEMALE,1
+"['{c but, }  {f uh, }  the watching, - /']",c but   f uh   the watching  ,%,FEMALE,5
+"['what i do watch is, {f uh, } usually news and whatever is on public television.  /']",what i do watch is f uh  usually news and whatever is on public television  ,sd,FEMALE,1
+"['any kind of, - /']",any kind of  ,%,FEMALE,5
+"['i also {f uh, } am very fond of great performances,']",i also f uh  am very fond of great performances,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+['in that regard. /'],in that regard ,+,FEMALE,0
+['me too. /'],me too ,aa,MALE,4
+"['{c but, }  {f uh } -/']",c but   f uh  ,%,FEMALE,5
+['did you stay up late and catch this red dwarf? /'],did you stay up late and catch this red dwarf ,qy,MALE,7
+"['no <sigh>, /']",no sigh ,nn,FEMALE,13
+"['{f oh, } that was a scream. /']",f oh  that was a scream ,sv,MALE,3
+"['no,  /']",no  ,nn,FEMALE,13
+['no  /'],no  ,nn,FEMALE,13
+"['as a matter of fact, {f uh, } turner broadcasting,']",as a matter of fact f uh  turner broadcasting,sd,FEMALE,1
+"['uh-huh, /']",uhhuh ,b,MALE,2
+"['has been {f uh, } broadcasting all of the james bond movies,']",has been f uh  broadcasting all of the james bond movies,+,FEMALE,0
+['really. /'],really ,b,MALE,2
+"['every night this week,  /']",every night this week  ,+,FEMALE,0
+"['{c so } i have concentrated on watching james bond movies,']",c so  i have concentrated on watching james bond movies,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['<laughter> this week <laughter>. /'],laughter this week laughter ,+,FEMALE,0
+"['i used to like him too,  /']",i used to like him too  ,sd,MALE,1
+['he was my hero.  /'],he was my hero  ,sd,MALE,1
+"['in fact, i like sean connery to this day. /']",in fact i like sean connery to this day ,sd,MALE,1
+"[""{d well, } they're showing {f uh, } live and let die at this moment, /""]",d well  theyre showing f uh  live and let die at this moment ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c and, }  it is the first appearance of roger moore as double oh seven. /']",c and   it is the first appearance of roger moore as double oh seven ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d so, } -/']",d so  ,%,FEMALE,5
+"['{f oh, } he can never cut it <laughter>. /']",f oh  he can never cut it laughter ,sv,MALE,3
+"['no,  /']",no  ,aa,FEMALE,4
+['no  /'],no  ,aa,FEMALE,4
+"[""that's true.  /""]",thats true  ,sv,FEMALE,3
+"['i was just thinking that today,  he did,']",i was just thinking that today  he did,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+"['{d well, }  in some of the later movies he looks very effeminate,']",d well   in some of the later movies he looks very effeminate,+,FEMALE,0
+"['yeah, /']",yeah ,aa,MALE,4
+['in his early movies. /'],in his early movies ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+['he does. /'],he does ,sv,MALE,3
+"['whereas, {f uh, } sean connery has maintained the, {f uh, } {a how would you, } {f uh, } ruddy look,  /']",whereas f uh  sean connery has maintained the f uh  a how would you  f uh  ruddy look  ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['yeah.  /'],yeah  ,aa,MALE,4
+['i liked his accent too. /'],i liked his accent too ,sd,MALE,1
+"['{c and, }  he can even be in movies that are not, {f uh, } {f uh, } sexually oriented,  /']",c and   he can even be in movies that are not f uh  f uh  sexually oriented  ,sv,MALE,3
+['{c and } he still comes off great. /'],c and  he still comes off great ,sv,MALE,3
+"['{d well, } {d you know } [ he was, + {a when was it, last year or year before last, } he was ] voted the sexiest actor in movies,']",d well  d you know   he was  a when was it last year or year before last  he was  voted the sexiest actor in movies,sd,FEMALE,1
+['he is. /'],he is ,sv,MALE,3
+['or something. /'],or something ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+['he had my vote double <laughter>. /'],he had my vote double laughter ,sd,MALE,1
+['<laughter> {e i mean } the man is sixty-two years old. /'],laughter e i mean  the man is sixtytwo years old ,sd,FEMALE,1
+"[""i don't care <laughter>. /""]",i dont care laughter ,sd,MALE,1
+"['[ {c but, } + {f uh, } {c but } ] otherwise {d you know } we, - /']", c but   f uh  c but   otherwise d you know  we  ,%,FEMALE,5
+"['{f uh, } with p b s and so forth. - /']",f uh  with p b s and so forth  ,%,FEMALE,5
+"['{c and } [ i, +']",c and   i ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""i ] particularly enjoy,  i don't know whether you've had a chance to watch it on p b s but {f uh, } the series, {f uh, } yes minister? /""]",i  particularly enjoy  i dont know whether youve had a chance to watch it on p b s but f uh  the series f uh  yes minister ,+,FEMALE,0
+"[""{f oh, } what's that about? /""]",f oh  whats that about ,qw,MALE,12
+"['that was about [ a, + the ] interior minister,  /']",that was about  a  the  interior minister  ,sd,FEMALE,1
+"['it was a comedy, /']",it was a comedy ,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['the interior minister [ of, + in ] england,']",the interior minister  of  in  england,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['with the permanent secretary,']",with the permanent secretary,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+['and bureaucracy and all that. /'],and bureaucracy and all that ,+,FEMALE,0
+"['right,  /']",right  ,b,MALE,2
+"[""[ i, + i've ] seen it several times.  /""]", i  ive  seen it several times  ,sd,MALE,1
+"[""it's a scream,  /""]",its a scream  ,sv,MALE,3
+"['{c but } i have to go to bed,  /']",c but  i have to go to bed  ,sd,MALE,1
+"['i have to get up [ and, + and ] work the next morning. /']",i have to get up  and  and  work the next morning ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""i wish they'd put those, - /""]",i wish theyd put those  ,sd,MALE,1
+"[""that's why i say, did you stay up late to watch this red dwarf.  /""]",thats why i say did you stay up late to watch this red dwarf  ,sd,MALE,1
+"['it came on after doctor who,']",it came on after doctor who,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['on saturday nights, here at least.  /']",on saturday nights here at least  ,+,MALE,0
+"['{c and } it should, - /']",c and  it should  ,sv,MALE,3
+['of course i li- - /'],of course i li  ,%,MALE,5
+"['really it was, - /']",really it was  ,%,MALE,5
+"[""i don't think they should show it during prime time,  /""]",i dont think they should show it during prime time  ,sv,MALE,3
+"['{c but } still,']",c but  still,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['it was funny. /'],it was funny ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i know.  /'],i know  ,b,FEMALE,2
+"[""{d well } [ [ i, + i, ] + i'm ] not much of a television watcher.  /""]",d well    i  i   im  not much of a television watcher  ,sd,FEMALE,1
+"['[ i, + i ] read as i said,']", i  i  read as i said,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ and, + ] {f uh, } quite a bit.  /']", and   f uh  quite a bit  ,+,FEMALE,0
+"['i read about two or three novels a week,']",i read about two or three novels a week,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['in addition to all the technical stuff.  /'],in addition to all the technical stuff  ,+,FEMALE,0
+"['[ what, + what ] do you do?  /']", what  what  do you do  ,qw,FEMALE,12
+['what kind of work do you do? /'],what kind of work do you do ,qw,FEMALE,12
+"[""i'm a payroll clerk.  /""]",im a payroll clerk  ,sd,MALE,1
+['just an accounting clerk. /'],just an accounting clerk ,sd,MALE,1
+['at t i? /'],at t i ,qy^d,FEMALE,16
+"['no,  {f uh, }  /']",no  f uh   ,nn,MALE,13
+['i have a friend who works for t i  /'],i have a friend who works for t i  ,sd,MALE,1
+"['{c and } i work for a tire service,']",c and  i work for a tire service,sd,MALE,1
+"['{f oh, } i see. /']",f oh  i see ,bk,FEMALE,14
+"['here in, - /']",here in  ,+,MALE,0
+"[""i'm from dallas. /""]",im from dallas ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{d well } the last two people who have called, both worked for t i  /']",d well  the last two people who have called both worked for t i  ,sd,FEMALE,1
+['{c and } i just wondered. /'],c and  i just wondered ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['it could be t i -ers, i think, probably are participating more than anybody else,  /']",it could be t i ers i think probably are participating more than anybody else  ,sv,MALE,3
+['{c but } i needed the money.  /'],c but  i needed the money  ,sd,MALE,1
+['<laughter> this is five bucks here. /'],laughter this is five bucks here ,sd,MALE,1
+"[""i think that's something we all ca-, -/""]",i think thats something we all ca ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['really.  /'],really  ,aa,MALE,4
+['do you work for t i? /'],do you work for t i ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+['i work for g t e.'],i work for g t e,sd,FEMALE,1
+['really? /'],really ,bh,MALE,18
+"['in maryland,  /']",in maryland  ,+,FEMALE,0
+['yes. /'],yes ,ny,FEMALE,9
+"['how did you hear, - /']",how did you hear  ,qw,MALE,12
+"[""{f oh } we're not even supposed to be talking about this though, are we? /""]",f oh  were not even supposed to be talking about this though are we ,qy,MALE,7
+['i guess not. /'],i guess not ,ng,FEMALE,29
+['<laughter>.'],laughter,x,MALE,8
+['how did i hear about it?  /'],how did i hear about it  ,br,FEMALE,30
+"['{d well } i work, {d you know, } - /']",d well  i work d you know   ,sd,FEMALE,1
+['they are gathering a data base for voice processing. /'],they are gathering a data base for voice processing ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and, }  that's my field of work also. /""]",c and   thats my field of work also ,sd,FEMALE,1
+['oh! /'],oh ,b,MALE,2
+"['{c so } [ i, + i ] know the people at t i who are doing this  /']",c so   i  i  know the people at t i who are doing this  ,sd,FEMALE,1
+"['{c and } i heard about it,  /']",c and  i heard about it  ,sd,FEMALE,1
+"['{c so } i called them and asked if i could participate.   {c and, }  {f uh, }']",c so  i called them and asked if i could participate   c and   f uh ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+['{d you know } send in the forms et cetera  and {f uh } so forth. /'],d you know  send in the forms et cetera  and f uh  so forth ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+['we could go back to television shows. <laughter> /'],we could go back to television shows laughter ,oo_co_cc,FEMALE,36
+"['<laughter> {d well, } {d you know, } speaking of public tv, have you caught any of this series on the bible? /']",laughter d well  d you know  speaking of public tv have you caught any of this series on the bible ,qy,MALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['i have. /'],i have ,sd,FEMALE,1
+"[""i've heard [ that it's really against the, +  {d well } {e i mean } that it's coming out with ] the idea that the bible's not true. /""]",ive heard  that its really against the   d well  e i mean  that its coming out with  the idea that the bibles not true ,sd,MALE,1
+"['{d well, } no.  /']",d well  no  ,ar,FEMALE,28
+"[""that's, {f uh, } - /""]",thats f uh   ,%,FEMALE,5
+['you could interpret it that way. /'],you could interpret it that way ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } [ i, + i ] think what they are trying to say, is that there is a great deal of historical truth,  /']",f uh   i  i  think what they are trying to say is that there is a great deal of historical truth  ,sv,FEMALE,3
+"['{c but } the interpretation that actually got into the writing of the bible itself is probably <sigh> {f uh, }  after the what, {f uh, }  [ was + is  ] it the  king james version when the committee [ did it, + <cough> wrote the translation, ] that so much was lost in the translation, particularly since most of the translations were in greek. /']",c but  the interpretation that actually got into the writing of the bible itself is probably sigh f uh   after the what f uh    was  is   it the  king james version when the committee  did it  cough wrote the translation  that so much was lost in the translation particularly since most of the translations were in greek ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['{d well, } for example.  in greek there are seven different words for love. /']",d well  for example  in greek there are seven different words for love ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['okay,  /']",okay  ,b,FEMALE,2
+"['{c so } you can have, - /']",c so  you can have  ,sd,FEMALE,1
+"[""there's one word for love of your brother, one word for love of your wife, one word for, {d you know, } {f uh, } love of your father, and that sort of thing.  /""]",theres one word for love of your brother one word for love of your wife one word for d you know  f uh  love of your father and that sort of thing  ,sd,FEMALE,1
+"[""{c so, } [ in, + ] as to those types of interpretations, {f uh, } really made a difference in how one might interpret the bible now, and what it's at. /""]",c so   in   as to those types of interpretations f uh  really made a difference in how one might interpret the bible now and what its at ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so } that's, {d you know, } - /""]",c so  thats d you know   ,%,FEMALE,5
+"[""you can look at it as though they are saying it's not true,  /""]",you can look at it as though they are saying its not true  ,sv,FEMALE,3
+"[""{c but } there's too much historical fact involved just from [ the + {f uh, } the ] histories that [ are, + were ] developed around that time, that are available.""]",c but  theres too much historical fact involved just from  the  f uh  the  histories that  are  were  developed around that time that are available,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['to deny that, at least the majority of it is true.  /']",to deny that at least the majority of it is true  ,+,FEMALE,0
+"['{c so, } {d you know, } it depends on how you look at it. /']",c so  d you know  it depends on how you look at it ,h,FEMALE,15
+['yeah. /'],yeah ,b,MALE,2
+"['you can look at it, {d you know,  } - /']",you can look at it d you know    ,sv,FEMALE,3
+"[""if you want to say that it's proven that it isn't true, then you can very much look at it that way. /""]",if you want to say that its proven that it isnt true then you can very much look at it that way ,sv,FEMALE,3
+"[""i guess if you're looking for that,  you're, -/""]",i guess if youre looking for that  youre ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, }']",d well ,sv,FEMALE,3
+"['that, {f uh, } -/']",that f uh  ,%,MALE,5
+"['{d well, }  you can interpret [ that the, + [ what + ] the  ] t v show, in the same way that you can interpret the bible. /']",d well   you can interpret  that the   what   the   t v show in the same way that you can interpret the bible ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d so, } -/']",d so  ,%,FEMALE,5
+['really. /'],really ,b,MALE,2
+"['{c but, }  {f uh, } [ as, + as ] far as that goes, [ i, + we ] at least agree on what we enjoy. /']",c but   f uh   as  as  far as that goes  i  we  at least agree on what we enjoy ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's right. /""]",thats right ,ba,MALE,6
+"[""{c but, }  {f uh, } i don't know if [ there is, + there is ] a time limit on this,""]",c but   f uh  i dont know if  there is  there is  a time limit on this,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c so, } {f uh. } -/']",c so  f uh  ,+,FEMALE,0
+"[""surely we've made it. /""]",surely weve made it ,sv,MALE,3
+['i think so too.  /'],i think so too  ,aa,FEMALE,4
+"[""let's just, - /""]",lets just  ,ad,FEMALE,22
+"[""it's been very pleasant talking to you, /""]",its been very pleasant talking to you ,fc,FEMALE,10
+['it was very nice talking to you. /'],it was very nice talking to you ,fc,MALE,10
+['{c and } have a good evening. /'],c and  have a good evening ,fc,FEMALE,10
+['you too. /'],you too ,fc,MALE,10
+['good night! /'],good night ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10

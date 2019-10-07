@@ -1,0 +1,415 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['do you have any children? /'],do you have any children ,qy,FEMALE,7
+['no.  /'],no  ,nn,FEMALE,13
+"[""i don't. /""]",i dont ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter>.'],laughter,x,FEMALE,8
+"[""you don't. /""]",you dont ,bf,FEMALE,20
+['do you? /'],do you ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+"['i have, {f uh, } one.   a five year old daughter. /']",i have f uh  one   a five year old daughter ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['did you ever have her in child care? /'],did you ever have her in child care ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['i do.  /'],i do  ,sd,FEMALE,1
+"['she was, {f um, } <lipsmack> at a private, {d well, } - /']",she was f um  lipsmack at a private d well   ,sd,FEMALE,1
+['i stayed <breathing> off work with her for little over of a year --'],i stayed breathing off work with her for little over of a year ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- when she was born.  /'], when she was born  ,+,FEMALE,0
+"['{c and then } i had her at a private sitter for, i guess, two, two and a half years after that. /']",c and then  i had her at a private sitter for i guess two two and a half years after that ,sd,FEMALE,1
+['{c and } how did you choose that sitter? /'],c and  how did you choose that sitter ,qh,FEMALE,26
+"['{f um, } she was referred to me by a couple of people  /']",f um  she was referred to me by a couple of people  ,sd,FEMALE,1
+['{c and } she turned out to be wonderful.  /'],c and  she turned out to be wonderful  ,sd,FEMALE,1
+"[""i couldn't have asked for anything better, i don't think. /""]",i couldnt have asked for anything better i dont think ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i didn't want to [ s-, + send ] her straight to a day care. /""]",i didnt want to  s  send  her straight to a day care ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c and, }  even though she was that old, i still didn't want her to go to a day care. /""]",c and   even though she was that old i still didnt want her to go to a day care ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } this lady, you would think it was her own. /']",c and  this lady you would think it was her own ,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+['yeah.  /'],yeah  ,ny,FEMALE,9
+"[""she's real good. /""]",shes real good ,sd,FEMALE,1
+"[""it's hard to find people like that. /""]",its hard to find people like that ,sv,FEMALE,3
+['<breathing>  yes.  /'],breathing  yes  ,aa,FEMALE,4
+['it is.  /'],it is  ,sv,FEMALE,3
+"['{c and, }  {f um, } now i have got her in a montessori school. /']",c and   f um  now i have got her in a montessori school ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } she's really, really doing good and learning a lot.  /""]",c and  shes really really doing good and learning a lot  ,sd,FEMALE,1
+"[""<throat_clearing> {c and, }  {d actually, } i've started working up there in the afternoons, too.  /""]",throatclearing c and   d actually  ive started working up there in the afternoons too  ,sd,FEMALE,1
+"['{d so, } -/']",d so  ,%,FEMALE,5
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{d well, } that's neat. /""]",d well  thats neat ,ba,FEMALE,6
+"['y-,  /']",y  ,%,FEMALE,5
+"['{d well, } yeah.  /']",d well  yeah  ,aa,FEMALE,4
+"[""i guess.  i'm going to quit as soon as [ school, + the school ] season's over.  /""]",i guess  im going to quit as soon as  school  the school  seasons over  ,sd,FEMALE,1
+"['{c but, }  {f uh, } i really enjoyed being with her up there.  /']",c but   f uh  i really enjoyed being with her up there  ,sd,FEMALE,1
+"['i hate it for her,  /']",i hate it for her  ,sd,FEMALE,1
+"['she has to stay that much longer, /']",she has to stay that much longer ,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"['# {c but, }  # -/']", c but    ,%,FEMALE,5
+"['do they have classes for them during the summer, too? /']",do they have classes for them during the summer too ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,FEMALE,9
+"['[ they, + they ] go [ f-, + ] {f uh, } year-round, {f uh } --']", they  they  go  f   f uh  yearround f uh  ,sd,FEMALE,1
+['huh. /'],huh ,b,FEMALE,2
+['-- teach them.  /'], teach them  ,+,FEMALE,0
+"['now, in the summer they have {d like } a lot of field trips. /']",now in the summer they have d like  a lot of field trips ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""there's a field trip just about every day if they want to go on one, and  stuff like that.  /""]",theres a field trip just about every day if they want to go on one and  stuff like that  ,sd,FEMALE,1
+"[""it's a lot more lax.  /""]",its a lot more lax  ,sd,FEMALE,1
+"['[ {c but, } +  {c but } ] they still go through all their, {f uh, } curriculum as usual. /']", c but    c but   they still go through all their f uh  curriculum as usual ,sd,FEMALE,1
+['what kind of questions did you ask about the private sitter before you took her over there? /'],what kind of questions did you ask about the private sitter before you took her over there ,qw,FEMALE,12
+"['{f um, } gosh <laughter>.  /']",f um  gosh laughter  ,^h,FEMALE,27
+"['i ca-, - /']",i ca  ,%,FEMALE,5
+['my husband and i both went.  /'],my husband and i both went  ,sd,FEMALE,1
+['we kind of give her the third degree <laughter>. /'],we kind of give her the third degree laughter ,sd,FEMALE,1
+"['{f uh, } good <laughter>, /']",f uh  good laughter ,ba,FEMALE,6
+['<laughter>.'],laughter,x,FEMALE,8
+"[""i'm glad to hear that. /""]",im glad to hear that ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } we went over to her house,  /']",d well  we went over to her house  ,sd,FEMALE,1
+"['{c so } we told her, {d you know, } pro-, - /']",c so  we told her d you know  pro  ,sd,FEMALE,1
+"[""{d well, } [ we didn't tell her, + we just told ] here we'd be over that day.  /""]",d well   we didnt tell her  we just told  here wed be over that day  ,sd,FEMALE,1
+"[""we didn't  tell her when.  /""]",we didnt  tell her when  ,sd,FEMALE,1
+"[""{c so, }  that way i didn't think, [ {d y-, +""]",c so   that way i didnt think  d y ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['# you  # know, } ] the house would be, {d [ y-, + you know, ] } cleaned or anything for me specifically. /']", you   know   the house would be d  y  you know   cleaned or anything for me specifically ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"['{c and, }  {f um, } she had a daughter,  /']",c and   f um  she had a daughter  ,sd,FEMALE,1
+"['{c and } i want to say her daughter was like six or  seven, right around first, second grade.  /']",c and  i want to say her daughter was like six or  seven right around first second grade  ,sd,FEMALE,1
+"['<baby>  {c and, }  {f um, } at the time she kept [ anoth-, + one other ] child, {f um, } about a four year old, i believe.  /']",baby  c and   f um  at the time she kept  anoth  one other  child f um  about a four year old i believe  ,sd,FEMALE,1
+['{c but } it was only like a part-time basis.  /'],c but  it was only like a parttime basis  ,sd,FEMALE,1
+"['<noise>  {c so, }  we went over there  /']",noise  c so   we went over there  ,sd,FEMALE,1
+"['{c and } <breathing>  we questioned her about what she fed them and, {f um, } what she did with them during the day and, {f um, } {d you know, } just how she treated them, [ how, + how ] her daughter was with the children when her daughter got home from school and <noise>,']",c and  breathing  we questioned her about what she fed them and f um  what she did with them during the day and f um  d you know  just how she treated them  how  how  her daughter was with the children when her daughter got home from school and noise,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+['# stuff # like that <noise>.  /'], stuff  like that noise  ,+,FEMALE,0
+"['{c and, }  {f uh, } we really seem to be pleased with her.  /']",c and   f uh  we really seem to be pleased with her  ,sd,FEMALE,1
+"['{c and, }  {f um, } <lipsmack>, -/']",c and   f um  lipsmack ,%,FEMALE,5
+"['[ did you, + did you ] introduce your daughter to her before you made,']", did you  did you  introduce your daughter to her before you made,qy,FEMALE,7
+"['# yes, # /']", yes  ,ny,FEMALE,9
+['# your # decision? /'], your  decision ,+,FEMALE,0
+"['{f oh, } yes.  /']",f oh  yes  ,ny,FEMALE,9
+['{c and } she still loves her to death.  /'],c and  she still loves her to death  ,sd,FEMALE,1
+"['{e i,']",e i,sd,FEMALE,1
+['# <breathing>.  #'], breathing  ,x,FEMALE,8
+"['# mean, } # when they see each other, {d you know, } they just love each other to death.  /']", mean   when they see each other d you know  they just love each other to death  ,+,FEMALE,0
+['{c and } she literally spent almost the entire amount that i paid her on my daughter.'],c and  she literally spent almost the entire amount that i paid her on my daughter,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+"['either making her clothes or,']",either making her clothes or,+,FEMALE,0
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+['# buying # her things. /'], buying  her things ,+,FEMALE,0
+['((   )) .'],    ,x,FEMALE,8
+"[""{c so, }  we're real, real lucky.  /""]",c so   were real real lucky  ,sd,FEMALE,1
+"['{c but } aft-, {f uh, } - /']",c but  aft f uh   ,%,FEMALE,5
+"['{c so } she stayed with her about, roughly two years,  /']",c so  she stayed with her about roughly two years  ,sd,FEMALE,1
+"['{c and } [ she, + {f um, } she ] had to go back to work,  /']",c and   she  f um  she  had to go back to work  ,sd,FEMALE,1
+['they had some other expenses that came up  /'],they had some other expenses that came up  ,sd,FEMALE,1
+"['{c so } she had to go, i guess, get a real job <laughter>. /']",c so  she had to go i guess get a real job laughter ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['get a real job, full time. /']",get a real job full time ,bf,FEMALE,20
+['yeah.   /'],yeah   ,aa,FEMALE,4
+"['{c so, }  {f uh, } -/']",c so   f uh  ,%,FEMALE,5
+"['{c so, }  what made you decide to put her in a montessori school? /']",c so   what made you decide to put her in a montessori school ,qw,FEMALE,12
+"['{d well, } i checked a lot of places out, {d you know, } the kinder cares and the,']",d well  i checked a lot of places out d you know  the kinder cares and the,sd,FEMALE,1
+['# stuff # like that.  /'], stuff  like that  ,+,FEMALE,0
+"['{c and, }  {f uh, } i live in garland. /']",c and   f uh  i live in garland ,sd,FEMALE,1
+"[""{c and, }  there's this montessori school that's nearby <baby_talking>  /""]",c and   theres this montessori school thats nearby babytalking  ,sd,FEMALE,1
+"['{c and, }  {f um, } it had been recommended by some friends of ours  /']",c and   f um  it had been recommended by some friends of ours  ,sd,FEMALE,1
+"[""{c but, }  {f uh, } [ it, + it's ] an older place.  /""]",c but   f uh   it  its  an older place  ,sd,FEMALE,1
+"['{c and so, } i, {f uh, } checked out all the new places that were near us  /']",c and so  i f uh  checked out all the new places that were near us  ,sd,FEMALE,1
+['{c and  then } i checked that place out  /'],c and  then  i checked that place out  ,sd,FEMALE,1
+"['{c and, }   (( {f uh, } ))  even though it was older, [ it was, + it was ] real comfortable and,']",c and     f uh    even though it was older  it was  it was  real comfortable and,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"['# i # guess, kind of homey. /']", i  guess kind of homey ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } they didn't just play all day long.  {d you know, }  /""]",c and  they didnt just play all day long  d you know   ,sd,FEMALE,1
+"['{d like, }  i noticed a lot of these other schools that i went <talking> <<child asked: can i have some jell-o?  speaker a answered: yes.>> and [ interviewed on, + {e or } interviewed at, ] {f um, } they did a lot of play work and stuff.  /']",d like   i noticed a lot of these other schools that i went talking child asked can i have some jello  speaker a answered yes and  interviewed on  e or  interviewed at  f um  they did a lot of play work and stuff  ,sd,FEMALE,1
+"['{c and then } they, - /']",c and then  they  ,%,FEMALE,5
+['almost all of them had a montessori section. /'],almost all of them had a montessori section ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"[""{c and } i thought, {d well, } {d gosh, } that must be pretty good, {d you know, } if everybody's trying to incorporate a little bit of it [ into, +""]",c and  i thought d well  d gosh  that must be pretty good d you know  if everybodys trying to incorporate a little bit of it  into ,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"['# into, # ]']", into  ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['their school.  /'],their school  ,+,FEMALE,0
+"['{c and } they made sure they pointed it out, {d you know. }  /']",c and  they made sure they pointed it out d you know   ,sd,FEMALE,1
+"['{c but } after i looked at this place, and i took randi with me, {f uh, } <lipsmack>   i think just about to every place.  /']",c but  after i looked at this place and i took randi with me f uh  lipsmack   i think just about to every place  ,sd,FEMALE,1
+"[""one place i think i didn't take her. /""]",one place i think i didnt take her ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, }  i just kind of let her go, [ see, + see ] what she felt like doing. /']",c and   i just kind of let her go  see  see  what she felt like doing ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } that place, {d boy, } - /']",c and  that place d boy   ,sd,FEMALE,1
+"[""if somebody came and she liked them and she went outside with them  [ and, + ] it's hard to drag her away <laughter>. /""]",if somebody came and she liked them and she went outside with them   and   its hard to drag her away laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c so, }  i felt more comfortable at,']",c so   i felt more comfortable at,sd,FEMALE,1
+"[""# that's, #""]", thats ,ba,FEMALE,6
+['# that # place. /'], that  place ,+,FEMALE,0
+['the true test. /'],the true test ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['{c and } she was real comfortable.  /'],c and  she was real comfortable  ,sd,FEMALE,1
+"['{c and } she has [ really, + really ] done good.  /']",c and  she has  really  really  done good  ,sd,FEMALE,1
+"['[ i, + i, ] - /']", i  i   ,%,FEMALE,5
+"[""it's hard to tell how much has been that or how much is just her. /""]",its hard to tell how much has been that or how much is just her ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but, }  she seems to me to be, {d you know, } pretty quick and smart  /']",c but   she seems to me to be d you know  pretty quick and smart  ,sd,FEMALE,1
+"[""{c and } she's already reading and writing and stuff,""]",c and  shes already reading and writing and stuff,sd,FEMALE,1
+"[""# that's good.  # /""]", thats good   ,ba,FEMALE,6
+['# like that.  /'], like that  ,+,FEMALE,0
+['# {c and } she just turned five last month. /'], c and  she just turned five last month ,sd,FEMALE,1
+"['{f huh, }  that,']",f huh   that,ba,FEMALE,6
+"['# {d so, }  # -/']", d so    ,%,FEMALE,5
+['# is # good then. /'], is  good then ,+,FEMALE,0
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['i think so.  /'],i think so  ,sd,FEMALE,1
+"[""{e i mean, } i didn't want to rush school at her the whole time,  /""]",e i mean  i didnt want to rush school at her the whole time  ,sd,FEMALE,1
+"['{c but, }']",c but ,sd,FEMALE,1
+"['no,  /']",no  ,aa,FEMALE,4
+"[""especially we're going to spend the next eighteen years,""]",especially were going to spend the next eighteen years,sv,FEMALE,3
+['# <laughter>.  #'], laughter  ,+,FEMALE,0
+['# in # school <laughter>. /'], in  school laughter ,+,FEMALE,0
+['exactly.  /'],exactly  ,aa,FEMALE,4
+"['exact-,  /']",exact  ,%,FEMALE,5
+"['i wanted,']",i wanted,sd,FEMALE,1
+['# <laughter>.  #'], laughter  ,x,FEMALE,8
+"['# to # quit my job so i could stay home with her the next five months,']", to  quit my job so i could stay home with her the next five months,+,FEMALE,0
+['# <laughter>.  #'], laughter  ,x,FEMALE,8
+"[""# because # i know she's going to have to face that <laughter>. /""]", because  i know shes going to have to face that laughter ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['really <laughter>. /'],really laughter ,b,FEMALE,2
+"['{c and, }  {f oh, } my god.  here we go,']",c and   f oh  my god  here we go,ba,FEMALE,6
+"[""# that's right.  # /""]", thats right   ,ba,FEMALE,6
+['# {d you know. }  /'], d you know   ,+,FEMALE,0
+"['# i just hate that,  /']", i just hate that  ,sd,FEMALE,1
+"[""{c but, }  <lipsmack>  <breathing>  {d anyway. }  {c so, } you don't have any children.  /""]",c but   lipsmack  breathing  d anyway   c so  you dont have any children  ,sd,FEMALE,1
+"['do you have any [ l-, + ] nieces or nephews <laughter> (( then )) ? /']",do you have any  l   nieces or nephews laughter  then   ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,FEMALE,9
+['yeah.  /'],yeah  ,ny,FEMALE,9
+['i have a nephew.  /'],i have a nephew  ,sd,FEMALE,1
+"[""he's a little brat. /""]",hes a little brat ,sd,FEMALE,1
+['<laughter>  <barking>.'],laughter  barking,x,FEMALE,8
+['<laughter> he goes to a really crummy day school.  /'],laughter he goes to a really crummy day school  ,sd,FEMALE,1
+"[""<noise> <<snapped fingers>> my sister's not real bright,  /""]",noise snapped fingers my sisters not real bright  ,sd,FEMALE,1
+"[""<noise> [ {c so, } + {c but } ] [ he, + he's ] <noise> <<snapped fingers>> <child_talking> always sick.  /""]",noise  c so   c but    he  hes  noise snapped fingers childtalking always sick  ,sd,FEMALE,1
+"['{e i mean, } <child_talking> he has always got some kind of,']",e i mean  childtalking he has always got some kind of,sd,FEMALE,1
+['cold or something.  /'],cold or something  ,+,FEMALE,0
+"[""{c and, } <noise> i don't know, <child_talking>   /""]",c and  noise i dont know childtalking   ,h,FEMALE,15
+"[""i don't think this place is a very good place for him. /""]",i dont think this place is a very good place for him ,sd,FEMALE,1
+"[""it's just kind of convenient  /""]",its just kind of convenient  ,sd,FEMALE,1
+"[""{c and } <noise>  she's the kind that goes for convenience over anything else. /""]",c and  noise  shes the kind that goes for convenience over anything else ,sd,FEMALE,1
+"['<noise>  {f oh, } really.  /']",noise  f oh  really  ,b,FEMALE,2
+"['just easy <noise>  to get them,']",just easy noise  to get them,sv,FEMALE,3
+['# yeah.  # /'], yeah   ,aa,FEMALE,4
+"['# there # and stu-, -/']", there  and stu ,+,FEMALE,0
+['exactly. /'],exactly ,aa,FEMALE,4
+"[""{d well, } that's a shame. /""]",d well  thats a shame ,ba,FEMALE,6
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""i don't think she checks things out very well <children> <barking>.""]",i dont think she checks things out very well children barking,sv,FEMALE,3
+"['{f oh, } really?  /']",f oh  really  ,bh,FEMALE,18
+"[""that's,""]",thats,sv,FEMALE,3
+"['# which, #']", which ,+,FEMALE,0
+['# scary.  # /'], scary   ,+,FEMALE,0
+['really surprises me.  /'],really surprises me  ,+,FEMALE,0
+['it is scary.  /'],it is scary  ,sv,FEMALE,3
+['yeah. /'],yeah ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['[ i w-, + i was ] petrified. /']", i w  i was  petrified ,sd,FEMALE,1
+['i know. /'],i know ,ba,FEMALE,6
+['<laughter>.'],laughter,x,FEMALE,8
+"['i would be, too <laughter>. /']",i would be too laughter ,sd,FEMALE,1
+"[""{e i mean, } that's, {f uh, } - /""]",e i mean  thats f uh   ,%,FEMALE,5
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+"[""that's just it.  /""]",thats just it  ,sd,FEMALE,1
+"[""{c and } that's why <music> i don't mind paying more. /""]",c and  thats why music i dont mind paying more ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{f um, } i </music>  don't know.  /""]",f um  i music  dont know  ,h,FEMALE,15
+"['i just feel m-, -/']",i just feel m ,sd,FEMALE,1
+"['too many horror stories out there that,']",too many horror stories out there that,sd,FEMALE,1
+['# yes.  # /'], yes   ,b,FEMALE,2
+['# {d you # know. } -/'], d you  know  ,+,FEMALE,0
+"[""{c and } that's one reason i like working up there a little bit is,""]",c and  thats one reason i like working up there a little bit is,sd,FEMALE,1
+"['# {f oh, } yeah.  # /']", f oh  yeah   ,ba,FEMALE,6
+"[""# because i # know what's really going on. /""]", because i  know whats really going on ,+,FEMALE,0
+"[""that's right.  /""]",thats right  ,ba,FEMALE,6
+"[""i think that's an ideal situation. /""]",i think thats an ideal situation ,sv,FEMALE,3
+"[""{c because } you don't know, {f uh, } - /""]",c because  you dont know f uh   ,sv,FEMALE,3
+"[""{c because } {d like } at her school, <music> {f um, } as soon as you drive up it's got like a circular type drive </music>.  /""]",c because  d like  at her school music f um  as soon as you drive up its got like a circular type drive music  ,sd,FEMALE,1
+['they sit  /'],they sit  ,sd,FEMALE,1
+['{c and } they have car callers  /'],c and  they have car callers  ,sd,FEMALE,1
+"['[ {c and, } + {c and } ] some kid goes out and gets the kid  /']", c and   c and   some kid goes out and gets the kid  ,sd,FEMALE,1
+"['{c and, }']",c and ,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"[""# it's # time to go <music>. /""]", its  time to go music ,+,FEMALE,0
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"['{d well, } at first that always kind of bothered me.  /']",d well  at first that always kind of bothered me  ,sd,FEMALE,1
+"['{e i mean, } not bothered me, - /']",e i mean  not bothered me  ,h,FEMALE,15
+"[""{c but } i thought, {d well, } {d you know, } i'd like to see what she's doing, {d you,""]",c but  i thought d well  d you know  id like to see what shes doing d you,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+['# know } # <laughter>.  /'], know   laughter  ,+,FEMALE,0
+"[""{c but } now that i'm there, {e i mean, } [ it's, + it's ] a lot more convenient because there's so many kids that doddle.""]",c but  now that im there e i mean   its  its  a lot more convenient because theres so many kids that doddle,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } when their parents come, /']",d you know  when their parents come ,+,FEMALE,0
+['# <laughter>.  #'], laughter  ,x,FEMALE,8
+"[""# {c and } # it's hard to get them out,  /""]", c and   its hard to get them out  ,sd,FEMALE,1
+['{c and } a lot of parents have places to go [ and -- +'],c and  a lot of parents have places to go  and  ,sd,FEMALE,1
+"[""that's right. /""]",thats right ,ba,FEMALE,6
+['-- and ] things like that.  /'], and  things like that  ,+,FEMALE,0
+"[""{c and } it's late at night,  /""]",c and  its late at night  ,sd,FEMALE,1
+"[""{c so, } {d you know, } now it doesn't bother me at all  /""]",c so  d you know  now it doesnt bother me at all  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['is that where the, - /']",is that where the  ,qy,FEMALE,7
+"['over there off of, like, - /']",over there off of like  ,qy,FEMALE,7
+"[""i'm not sure what the street is,  /""]",im not sure what the street is  ,h,FEMALE,15
+"['is it [ off of, + ] near country club, /']",is it  off of   near country club ,qy,FEMALE,7
+['# yeah.  # /'], yeah   ,ny,FEMALE,9
+"['# {c and } # all, -/']", c and   all ,%,FEMALE,5
+['sixty-six.  /'],sixtysix  ,sd,FEMALE,1
+"[""that one that's,""]",that one thats,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,FEMALE,9
+['set back in the woods? /'],set back in the woods ,+,FEMALE,0
+['yeah. /'],yeah ,ny,FEMALE,9
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ [ i, + i, ] +']",  i  i  ,sd,FEMALE,1
+"[""# that's it.  # /""]", thats it   ,sd,FEMALE,1
+"[""# i've ] seen # the signs  /""]", ive  seen  the signs  ,+,FEMALE,0
+"[""{c but } i've never actually seen the place itself, {d you,""]",c but  ive never actually seen the place itself d you,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+['# know. }  #  /'], know     ,+,FEMALE,0
+"[""it's [ pretty, + ] set far back,""]",its  pretty   set far back,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['off the road. /'],off the road ,+,FEMALE,0
+['right.  /'],right  ,b,FEMALE,2
+"['it w-, - /']",it w  ,%,FEMALE,5
+"[""{c and } that's something i like, too, /""]",c and  thats something i like too ,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+['# {c because } # --'], c because   ,sd,FEMALE,1
+['definitely. /'],definitely ,ba,FEMALE,6
+"['-- a lot of those places are <lipsmack>,  like, {d you know } the one over here on seventy-eight, skaggs. /']", a lot of those places are lipsmack  like d you know  the one over here on seventyeight skaggs ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['that little kinder care, whatever it is? /']",that little kinder care whatever it is ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,FEMALE,9
+"[""{d you know, } it's right there on, - /""]",d you know  its right there on  ,sd,FEMALE,1
+"['which this is on a highway, too.  /']",which this is on a highway too  ,sd,FEMALE,1
+"[""{c but } it's set back,""]",c but  its set back,sd,FEMALE,1
+['# right.  # /'], right   ,b,FEMALE,2
+"['# enough # to, -/']", enough  to ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""there's a difference. /""]",theres a difference ,sd,FEMALE,1
+"[""[ i'm scared, + i would be scared ] to death my child might accidentally get out,  /""]", im scared  i would be scared  to death my child might accidentally get out  ,sd,FEMALE,1
+['[ {c or } -- +'], c or   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c or, } ]  if that seems like a real accessible place to where you could,']", c or    if that seems like a real accessible place to where you could,+,FEMALE,0
+"['# ye-, # /']", ye  ,%,FEMALE,5
+"['# {d you # know, } go,']", d you  know  go,+,FEMALE,0
+['yep. /'],yep ,b,FEMALE,2
+['in and get one. /'],in and get one ,+,FEMALE,0
+"[""that's right.  /""]",thats right  ,ba,FEMALE,6
+"['[ {c or, } + {d you know, } {c or } ] a car accident. /']", c or   d you know  c or   a car accident ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{c and, }']",c and ,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+['# that # was one of the places i had checked out.  /'], that  was one of the places i had checked out  ,+,FEMALE,0
+"['{c and } [ [ it was, + it, ] + it was ] brand new when i checked it out  /']",c and    it was  it   it was  brand new when i checked it out  ,sd,FEMALE,1
+"['{c and, }  of course, it was beautiful and,']",c and   of course it was beautiful and,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"['# clean # and smelled wonderful in there,  /']", clean  and smelled wonderful in there  ,+,FEMALE,0
+"['{c but, }']",c but ,%,FEMALE,5
+['<laughter>.'],laughter,x,FEMALE,8
+"['{d you know, } i, that, - /']",d you know  i that  ,+,FEMALE,0
+"[""i didn't base everything on that. /""]",i didnt base everything on that ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter>   ((   )) .'],laughter       ,x,FEMALE,8
+"['no,  /']",no  ,aa,FEMALE,4
+['because that all wears off. /'],because that all wears off ,sv,FEMALE,3
+"[""that's right.  /""]",thats right  ,ba,FEMALE,6
+"[""that's exactly right.  /""]",thats exactly right  ,aa,FEMALE,4
+['you get some kids in there  /'],you get some kids in there  ,sv,FEMALE,3
+"[""{c and } it's,""]",c and  its,sv,FEMALE,3
+['# <laughter>.  #'], laughter  ,x,FEMALE,8
+['# over # quick. /'], over  quick ,+,FEMALE,0
+['<breathing>  yep. /'],breathing  yep ,b,FEMALE,2
+"['{c but, }  {f um, }']",c but   f um ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""i've been real pleased, knock on wood.  /""]",ive been real pleased knock on wood  ,+,FEMALE,0
+"[""i'm scared to death her going to public school. /""]",im scared to death her going to public school ,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+"['i, w-, - /']",i w  ,%,FEMALE,5
+['i do know why because --'],i do know why because ,sd,FEMALE,1
+"['i would be, too. /']",i would be too ,ba,FEMALE,6
+"['-- {d you know, }']", d you know ,+,FEMALE,0
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"['# [ d-, + # drugs ] and,']",  d   drugs  and,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['everything else  /'],everything else  ,+,FEMALE,0
+"['{c and, }']",c and ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['they talk about how soon they start that  /'],they talk about how soon they start that  ,+,FEMALE,0
+['{c and } that scares me. /'],c and  that scares me ,sd,FEMALE,1
+['i know.  /'],i know  ,ba,FEMALE,6
+['it is scary. /'],it is scary ,sv,FEMALE,3
+"[""{e i mean, } you're just with them, -/""]",e i mean  youre just with them ,sv,FEMALE,3
+"[""do they teach them in school <child_talking> right now where she's at about drugs? /""]",do they teach them in school childtalking right now where shes at about drugs ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,FEMALE,9
+"[""[ they've, + {f um, } they've ] </child_talking> had police officers come in --""]", theyve  f um  theyve  childtalking had police officers come in ,sd,FEMALE,1
+['good. /'],good ,ba,FEMALE,6
+['-- and talk to them about it.  /'], and talk to them about it  ,+,FEMALE,0
+"['{c but, }  of course, they still have no concept of,']",c but   of course they still have no concept of,sd,FEMALE,1
+['# right.  # /'], right   ,b,FEMALE,2
+"['# <laughter>  # what in the world drugs are, {d you,']", laughter   what in the world drugs are d you,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+['know }  /'],know   ,+,FEMALE,0
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""{c and } what to do when they're faced with it. /""]",c and  what to do when theyre faced with it ,^2,FEMALE,23
+['right.  /'],right  ,b,FEMALE,2
+"['{c but } i just think of her, {d you know, }  /']",c but  i just think of her d you know   ,sd,FEMALE,1
+"[""next year she's going to be five, six years old in kindergarten, in same school with, {d you know, } {f uh, } i guess ten year olds.  /""]",next year shes going to be five six years old in kindergarten in same school with d you know  f uh  i guess ten year olds  ,sd,FEMALE,1
+"[""isn't that,""]",isnt that,qy,FEMALE,7
+['# yeah.  # /'], yeah   ,ny,FEMALE,9
+"['# [ [ six, + # sixth, ] + sixth ] grade, {d you know, }  /']",   six   sixth   sixth  grade d you know   ,+,FEMALE,0
+"[""{c and } that's a big gap. /""]",c and  thats a big gap ,sd,FEMALE,1
+['it is. /'],it is ,ba,FEMALE,6
+"[""{c and } [ that's, + {f uh, } that, ] i can honestly see the peer pressure there. /""]",c and   thats  f uh  that  i can honestly see the peer pressure there ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } that,']",c and  that,sd,FEMALE,1
+"['# {f oh, } i can, #']", f oh  i can ,aa,FEMALE,4
+"['# just, #']", just ,+,FEMALE,0
+"['see it, too. /']",see it too ,+,FEMALE,0
+"['terrifies me to death. and stuff,  /']",terrifies me to death and stuff  ,+,FEMALE,0
+['those kids getting snatched  /'],those kids getting snatched  ,sv,FEMALE,3
+['{c and } --'],c and  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- [ i'm, + i'm ] probably a little too over protective <laughter>  /""]",  im  im  probably a little too over protective laughter  ,+,FEMALE,0
+"['{c but, }']",c but ,sv,FEMALE,3
+['nothing wrong with that <laughter>. /'],nothing wrong with that laughter ,sv,FEMALE,3
+"['{d well, } nowadays you have to be. /']",d well  nowadays you have to be ,+,FEMALE,0
+['yes.  /'],yes  ,aa,FEMALE,4
+['you do. /'],you do ,sv,FEMALE,3
+"['if, -/']",if ,%,FEMALE,5
+"[""[ i don't, + i don't ] think there's anything wrong with that. /""]", i dont  i dont  think theres anything wrong with that ,sv,FEMALE,3
+"[""{d so, }  i at first thought, {d you know, } when i didn't have kids, - /""]",d so   i at first thought d you know  when i didnt have kids  ,sd,FEMALE,1
+"['i was going, {d god, } how can you be so protective <<whispers beginning with god>>? {d you,']",i was going d god  how can you be so protective whispers beginning with god d you,sd,FEMALE,1
+['# uh-huh <laughter>.  # /'], uhhuh laughter   ,b,FEMALE,2
+['# know } <laughter>  #  /'], know  laughter    ,+,FEMALE,0
+"[""{c but, }  it's easy now <laughter>. /""]",c but   its easy now laughter ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['now you understand <laughter>. /'],now you understand laughter ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['definitely. /'],definitely ,aa,FEMALE,4
+"[""that's what i'm thinking what your mom and dad always used to say, when you have kids of your own,""]",thats what im thinking what your mom and dad always used to say when you have kids of your own,sd,FEMALE,1
+['# <laughter>.  #'], laughter  ,x,FEMALE,8
+"[""# you'll # understand <laughter>. /""]", youll  understand laughter ,+,FEMALE,0
+"[""<laughter>  that's exactly right  /""]",laughter  thats exactly right  ,ba,FEMALE,6
+['{c and } i do. /'],c and  i do ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c but } anyway.  /'],c but  anyway  ,%,FEMALE,5
+"['{d well, } [ [ [ are you ever, + are you, ] + [ b-, + ] are you, ] + are you ] married <laughter>? /']",d well     are you ever  are you    b   are you   are you  married laughter ,qy,FEMALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"[""are y'all planning on having kids?  /""]",are yall planning on having kids  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"[""{d well, } that's good. /""]",d well  thats good ,ba,FEMALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c because } they're really neat.  /""]",c because  theyre really neat  ,sv,FEMALE,3
+"[""it's just. -/""]",its just ,%,FEMALE,5

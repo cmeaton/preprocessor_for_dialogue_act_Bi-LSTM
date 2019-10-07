@@ -1,0 +1,124 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",MALE,0
+"['{f uh, } read any good books lately?  <laughter>. /']",f uh  read any good books lately  laughter ,qy,MALE,7
+"['<laughter> {f uh, } yes,  /']",laughter f uh  yes  ,ny,MALE,9
+"[""[ i, + i've ] read, {f uh, } several good books lately.  /""]", i  ive  read f uh  several good books lately  ,sd,MALE,1
+"[""{f uh, } lot of them related to, {f uh, } business and financial matters since that's what i do for a living. /""]",f uh  lot of them related to f uh  business and financial matters since thats what i do for a living ,sd,MALE,1
+"['{f oh, } okay.  /']",f oh  okay  ,bk,MALE,14
+['uh-huh. /'],uhhuh ,b,MALE,2
+['how about yourself? /'],how about yourself ,qo,MALE,25
+"[""{f uh, } {d well } i'm in graduate school  /""]",f uh  d well  im in graduate school  ,^h,MALE,27
+['{c and so } i read a lot of books  /'],c and so  i read a lot of books  ,na,MALE,21
+"[""{c but } i don't know if i consider very many of them good <laughter>. /""]",c but  i dont know if i consider very many of them good laughter ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""{f uh, } i haven't read a book for enjoyment since, i guess, around christmas.  /""]",f uh  i havent read a book for enjoyment since i guess around christmas  ,sd,MALE,1
+"['{f uh, } i <throat_clearing> [ re-, + received, ] {f uh, } {f uh, } several books for christmas  /']",f uh  i throatclearing  re  received  f uh  f uh  several books for christmas  ,sd,MALE,1
+"['{c and } at christmas break i read, {f uh, } sarum by, {f uh, } {f uh, } a fellow named rutherford. /']",c and  at christmas break i read f uh  sarum by f uh  f uh  a fellow named rutherford ,sd,MALE,1
+['yes. /'],yes ,b,MALE,2
+"[""{f uh, } it's the history of, {f uh, } - /""]",f uh  its the history of f uh   ,sd,MALE,1
+"[""{d well } it's sort of [ the his-, + the historical ] fiction about, {f uh, } the salisbury area [ in, + in ] england. /""]",d well  its sort of  the his  the historical  fiction about f uh  the salisbury area  in  in  england ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and so, } [ i, + i ] really enjoyed that book a lot.  /']",c and so   i  i  really enjoyed that book a lot  ,sd,MALE,1
+"[""{f uh, } he's not quite as good as, {d you know, } michener or [ some of, + {f uh, } some of ] the other historical writers.  /""]",f uh  hes not quite as good as d you know  michener or  some of  f uh  some of  the other historical writers  ,sd,MALE,1
+"['{c but } [ he, + he ] did this job well,  /']",c but   he  he  did this job well  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['{d well, } that sounds good. /']",d well  that sounds good ,ba,MALE,6
+['yeah.  /'],yeah  ,b,MALE,2
+"['{f uh, } [ do you find th-, + do you find ] you have much chance to read [ for, + for ] just pleasure or mostly for business? /']",f uh   do you find th  do you find  you have much chance to read  for  for  just pleasure or mostly for business ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+['i read for pleasure some also.   /'],i read for pleasure some also   ,sd,MALE,1
+['i read a book recently called iron john. /'],i read a book recently called iron john ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['have you seen that by bly? /'],have you seen that by bly ,qy,MALE,7
+"[""i don't think i have seen it. /""]",i dont think i have seen it ,ng,MALE,29
+['okay.  /'],okay  ,bk,MALE,14
+"[""{d well } it's a book about,""]",d well  its a book about,sd,MALE,1
+['<noise>.'],noise,x,MALE,8
+"['{f uh, } {f uh, } greek gods and, and greek, {f uh, } mythology --']",f uh  f uh  greek gods and and greek f uh  mythology ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- as well as, {f uh, } man and interacting with other men and a book about, {f uh, } men and how they mature through life. /']", as well as f uh  man and interacting with other men and a book about f uh  men and how they mature through life ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['# oh. # /'], oh  ,b,MALE,2
+['# {c and } # how they deal with life itself <sniffing>. /'], c and   how they deal with life itself sniffing ,sd,MALE,1
+['okay.  /'],okay  ,b,MALE,2
+['i think i have heard about that.  /'],i think i have heard about that  ,sd,MALE,1
+['# yeah. # /'], yeah  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,MALE,2
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+['that sounds great.  /'],that sounds great  ,ba,MALE,6
+"['[  did, + did ] it have something to mention about, {f uh, } sort of, {f uh, } cultural rituals [ of, + of ] manhood? /']",  did  did  it have something to mention about f uh  sort of f uh  cultural rituals  of  of  manhood ,qy,MALE,7
+['yes. /'],yes ,ny,MALE,9
+['okay.  /'],okay  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+['i have heard of that.  /'],i have heard of that  ,sd,MALE,1
+"['i have, {f uh, } someone suggested that i read it.  /']",i have f uh  someone suggested that i read it  ,sd,MALE,1
+['is it iron john? /'],is it iron john ,qy,MALE,7
+['yes. /'],yes ,ny,MALE,9
+['okay.  /'],okay  ,bk,MALE,14
+['good. /'],good ,ba,MALE,6
+"['by bly,  /']",by bly  ,sd,MALE,1
+"['b l y, i believe it is. /']",b l y i believe it is ,sd,MALE,1
+['b l y? /'],b l y ,br,MALE,30
+['uh-huh. /'],uhhuh ,ny,MALE,9
+['okay.  /'],okay  ,bk,MALE,14
+['great. /'],great ,ba,MALE,6
+"[""{c and, } {f uh, } it's a very interesting book. /""]",c and  f uh  its a very interesting book ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['{f uh, } what are your favorite, {f uh, } - /']",f uh  what are your favorite f uh   ,qw,MALE,12
+"['do you have a favorite subject to read, whether it be science fiction [ or, + or ] history  /']",do you have a favorite subject to read whether it be science fiction  or  or  history  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"[""{d well, } it depends again if we're talking about <laughter>, {f uh, } - /""]",d well  it depends again if were talking about laughter f uh   ,^h,MALE,27
+['uh-huh. /'],uhhuh ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } i read a lot of books in the area of, {f uh, } {f uh, } psychology and self-help type, {f uh, } materials. /']",c and  i read a lot of books in the area of f uh  f uh  psychology and selfhelp type f uh  materials ,sd,MALE,1
+['okay. /'],okay ,b,MALE,2
+"['{f uh, } always trying to understand people --']",f uh  always trying to understand people ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- better and understand myself in relation to other people and try to understand where the people are coming from because i'm in a people business. /""]", better and understand myself in relation to other people and try to understand where the people are coming from because im in a people business ,+,MALE,0
+['okay. /'],okay ,b,MALE,2
+"[""[ {c and, } + {f uh, } {c so  } ] [ that, + that's, ] - /""]", c and   f uh  c so     that  thats   ,%,MALE,5
+['my work is my hobby <laughter>. /'],my work is my hobby laughter ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['# that # --'], that  ,sd,MALE,1
+"['# <laughter> # {c so } [ i, + i ] enjoy it. /']", laughter  c so   i  i  enjoy it ,sd,MALE,1
+['-- sounds great <laughter>.  /'], sounds great laughter  ,+,MALE,0
+"['{f uh, } who is your, [ whose your + ] favorite religious author? /']",f uh  who is your  whose your   favorite religious author ,qw,MALE,12
+"[""{d well, } i don't know if i have a favorite --""]",d well  i dont know if i have a favorite ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } religious author.  /']", f uh  religious author  ,+,MALE,0
+"['i would have to say that, {f uh, } some of the ones that consistently put out good materials,']",i would have to say that f uh  some of the ones that consistently put out good materials,sd,MALE,1
+['<rustling>.'],rustling,x,MALE,8
+"['{f uh, } {d you know, }  /']",f uh  d you know   ,+,MALE,0
+"[""[ that, + that's ] difficult because <lipsmack> one person might write one book extremely well and some other ones might not write as well. /""]", that  thats  difficult because lipsmack one person might write one book extremely well and some other ones might not write as well ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } i had to stop here and think a second.  /']",f uh  i had to stop here and think a second  ,^h,MALE,27
+"[""one of the ones that i've read recently that i've read several of his books  /""]",one of the ones that ive read recently that ive read several of his books  ,sd,MALE,1
+['{c and } i thought that each one of his books were good.  /'],c and  i thought that each one of his books were good  ,sd,MALE,1
+"[""he's the man out of san antonio.   /""]",hes the man out of san antonio   ,sd,MALE,1
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+['max lucado?  /'],max lucado  ,qy,MALE,7
+['<noise>.'],noise,x,MALE,8
+['max lucado. /'],max lucado ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['max consistently writes good books. /'],max consistently writes good books ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{f uh, } he's a great man.  /""]",f uh  hes a great man  ,sv,MALE,3
+"[""i've met him several times.  {f uh, } /""]",ive met him several times  f uh  ,sd,MALE,1
+['yes.  /'],yes  ,b,MALE,2
+"['i know him,  /']",i know him  ,sd,MALE,1
+['yeah. /'],yeah ,%,MALE,5
+['{f huh. } /'],f huh  ,b,MALE,2
+['<throat_clearing> # {c but } # --'],throatclearing  c but   ,sv,MALE,3
+"[""-- {f uh, } there's other authors also [ that have + {f uh, } {f uh, } that write ] good books from time to time, but not consistently put out the materials all the time <sniffing>. /""]", f uh  theres other authors also  that have  f uh  f uh  that write  good books from time to time but not consistently put out the materials all the time sniffing ,+,MALE,0
+"[""{f uh, } i'd say another, which is a local writer here in plano, {f uh, } is, {f uh, } - /""]",f uh  id say another which is a local writer here in plano f uh  is f uh   ,sv,MALE,3
+"[""i'm trying to think of his name.  /""]",im trying to think of his name  ,^h,MALE,27
+"[""he's with the bible church.  /""]",hes with the bible church  ,sd,MALE,1
+"['{c and } that is, {f uh, } - /']",c and  that is f uh   ,%,MALE,5
+"['<<pause>>, i see his name  /']",pause i see his name  ,^h,MALE,27
+"[""{c but } i can't, - /""]",c but  i cant  ,%,MALE,5
+['{e i mean } i see him  /'],e i mean  i see him  ,sd,MALE,1
+"[""{c but } i can't see his name <laughter> <sniffing>.  /""]",c but  i cant see his name laughter sniffing  ,sd,MALE,1
+"['{c but } [ [ he, + {f uh, } he ] talks about, ] + {f uh, } he talks about ] a lot of different topics  /']",c but    he  f uh  he  talks about   f uh  he talks about  a lot of different topics  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5

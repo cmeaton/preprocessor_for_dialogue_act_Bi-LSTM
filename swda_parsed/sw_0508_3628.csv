@@ -1,0 +1,151 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['what vacations have you been on that you like? /'],what vacations have you been on that you like ,qo,FEMALE,25
+"['{f um, } {d well } i really enjoyed, {f um, } - /']",f um  d well  i really enjoyed f um   ,sd,FEMALE,1
+['i went to mackinaw island --'],i went to mackinaw island ,sd,FEMALE,1
+['<child_crying> right. /'],childcrying right ,b,FEMALE,2
+['-- a few years back.  /'], a few years back  ,+,FEMALE,0
+"[""it's in the middle of michigan  /""]",its in the middle of michigan  ,sd,FEMALE,1
+['[ {c and } +  --'], c and    ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c so } ] that was nice.  /'], c so   that was nice  ,+,FEMALE,0
+"['i like, {f um, } driving to different cities because of the scenery,  /']",i like f um  driving to different cities because of the scenery  ,sd,FEMALE,1
+['{c so } that was nice. /'],c so  that was nice ,sv,FEMALE,3
+"['{c so } you, - /']",c so  you  ,%,FEMALE,5
+['most of yours is kind of driving  /'],most of yours is kind of driving  ,bf,FEMALE,20
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""[ we've, + i've ] been all over the states except for pretty much east.  /""]", weve  ive  been all over the states except for pretty much east  ,sd,FEMALE,1
+"[""{f um, } it's very pretty driving  {d like, } {f um, } up north in wisconsin too. /""]",f um  its very pretty driving  d like  f um  up north in wisconsin too ,sd,FEMALE,1
+"['{f um, } [ how, + how ] far do you usually [ end, + end ] up driving [ just, + ] /']",f um   how  how  far do you usually  end  end  up driving  just   ,qw,FEMALE,12
+"['{f um, } the furthest i drove was probably texas,  /']",f um  the furthest i drove was probably texas  ,sd,FEMALE,1
+"[""{c and then } i've taken a train before to california. /""]",c and then  ive taken a train before to california ,sd,FEMALE,1
+"[""{d now } [ where, + you're from where? ]   *[[slash error]]""]",d now   where  youre from where    slash error,qw,FEMALE,12
+"['kenosha, wisconsin. /']",kenosha wisconsin ,sd,FEMALE,1
+"['{f oh, } wisconsin. /']",f oh  wisconsin ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+['okay.  /'],okay  ,bk,FEMALE,14
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i have a brother in minnesota that used to live in wisconsin. /'],i have a brother in minnesota that used to live in wisconsin ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c so, } yeah,  /']",c so  yeah  ,b,FEMALE,2
+"[""that's quite a ways. /""]",thats quite a ways ,bf,FEMALE,20
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['it is <laughter>. /'],it is laughter ,sd,FEMALE,1
+"[""i've, {f uh, } - /""]",ive f uh   ,%,FEMALE,5
+['we went to california this last year --'],we went to california this last year ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and, {f uh, } liked it,  /']", and f uh  liked it  ,+,FEMALE,0
+['{c but } it was too crowded -- /'],c but  it was too crowded  ,sv,FEMALE,3
+['{f um. } /'],f um  ,b,FEMALE,2
+"[""-- walt disney world, and other places, it's just the wrong time of the year to go. /""]", walt disney world and other places its just the wrong time of the year to go ,sv,FEMALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['{c and, } {f uh, } course, {f uh, } you get in any of those tourist traps --']",c and  f uh  course f uh  you get in any of those tourist traps ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- and everything's, {f uh, } outrageously priced,  /""]", and everythings f uh  outrageously priced  ,+,FEMALE,0
+"['{c and, } {f uh, } kind of, - /']",c and  f uh  kind of  ,%,FEMALE,5
+"[""you wonder if [ they're, +  it's ] really worth it to pay, {f uh, } thirty-five dollars or forty dollars just to get in. /""]",you wonder if  theyre   its  really worth it to pay f uh  thirtyfive dollars or forty dollars just to get in ,sv,FEMALE,3
+['yeah  -- /'],yeah   ,aa,FEMALE,4
+"['{c but, }']",c but ,sd,FEMALE,1
+"[""-- that's true. /""]", thats true ,aa,FEMALE,4
+"[""there's lots of fun places to see.  {f um, }  /""]",theres lots of fun places to see  f um   ,+,FEMALE,0
+"['i think the scenery kind of, - /']",i think the scenery kind of  ,sv,FEMALE,3
+"[""that's something do to, [ you + ] {d like } to get up in mountains  /  *[[two utts]]""]",thats something do to  you   d like  to get up in mountains    two utts,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['{f oh, } yeah,  /']",f oh  yeah  ,ny,FEMALE,9
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['do you have any mountains nearby? /'],do you have any mountains nearby ,qy,FEMALE,7
+['no <laughter>. /'],no laughter ,nn,FEMALE,13
+"[""pretty flat, isn't it? /""]",pretty flat isnt it ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['yeah. /'],yeah ,ny,FEMALE,9
+"[""{f um, } i think, {f uh, } the biggest limitation is a lot, just time and money, isn't it. /""]",f um  i think f uh  the biggest limitation is a lot just time and money isnt it ,sv,FEMALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['yeah. /'],yeah ,b,FEMALE,2
+['what vacation have you enjoyed the most? /'],what vacation have you enjoyed the most ,qw,FEMALE,12
+"['{f uh, } {f um. }  probably, {f uh, } when we go to wisconsin  ((   )) .  /']",f uh  f um   probably f uh  when we go to wisconsin        ,sd,FEMALE,1
+"[""{f um, } it's pretty fun.  /""]",f um  its pretty fun  ,sd,FEMALE,1
+"[""there's a lot to do up there.  /""]",theres a lot to do up there  ,sd,FEMALE,1
+"[""it's pretty busy, though,  /""]",its pretty busy though  ,sd,FEMALE,1
+"['you have to like  crowds, {d you know. } /']",you have to like  crowds d you know  ,sv,FEMALE,3
+['what is it? /'],what is it ,qw,FEMALE,12
+"[""{f um, } {f oh, } it's [ a, + {d like } a ] huge amusement park --""]",f um  f oh  its  a  d like  a  huge amusement park ,sd,FEMALE,1
+['okay. /'],okay ,bk,FEMALE,14
+"['-- {f um, } they have water slides -- /']", f um  they have water slides  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } it's just a big, big tourist attraction.  /""]", c and  its just a big big tourist attraction  ,sd,FEMALE,1
+['the downtown is all {d like } little shops and candy shops  /'],the downtown is all d like  little shops and candy shops  ,sd,FEMALE,1
+"[""{c and, } [ it's, + it's ] really neat.  /""]",c and   its  its  really neat  ,sv,FEMALE,3
+"[""i don't think, {f uh, } hardly anybody lives there,  /""]",i dont think f uh  hardly anybody lives there  ,sd,FEMALE,1
+"[""{c because } it's just kind of {d like, } {d you know, } tourists. /""]",c because  its just kind of d like  d you know  tourists ,sd,FEMALE,1
+"['probably a city in itself, kind of like, huh? /']",probably a city in itself kind of like huh ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"[""it's mostly [ a, + a ] [ summer, + summer ] place. /""]",its mostly  a  a   summer  summer  place ,sd,FEMALE,1
+['summer place.  /'],summer place  ,b^m,FEMALE,24
+['how far away is it? /'],how far away is it ,qw,FEMALE,12
+"[""{f um, } from kenosha, it's about three hours. /""]",f um  from kenosha its about three hours ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"[""it's about a hour away from madison. /""]",its about a hour away from madison ,sd,FEMALE,1
+"['okay,  /']",okay  ,bk,FEMALE,14
+['sure. /'],sure ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['{c so } --'],c so  ,sd,FEMALE,1
+['sure. /'],sure ,ba,FEMALE,6
+"[""-- that's nice.  /""]", thats nice  ,+,FEMALE,0
+"[""[ it's, + it's ] a pretty ride up there, too.  /""]", its  its  a pretty ride up there too  ,sd,FEMALE,1
+['i really like the city wausau in wisconsin.   /'],i really like the city wausau in wisconsin   ,sd,FEMALE,1
+"[""it's really pretty.  /""]",its really pretty  ,sd,FEMALE,1
+"[""it's nice out there.  /""]",its nice out there  ,sd,FEMALE,1
+"['{f oh, } i like all the nature things there are to look at, {d you know. } /']",f oh  i like all the nature things there are to look at d you know  ,sd,FEMALE,1
+"['right,  /']",right  ,b,FEMALE,2
+"['{d well, } {c and } you can probably, - /']",d well  c and  you can probably  ,%,FEMALE,5
+"[""you're in a climate that's kind of humid,  /""]",youre in a climate thats kind of humid  ,sd,FEMALE,1
+"['{c so } you have probably a lot of green, and lot of real pretty things.  /']",c so  you have probably a lot of green and lot of real pretty things  ,sv,FEMALE,3
+"[""[ our, + our ] climate's real dry --  /""]", our  our  climates real dry   ,sd,FEMALE,1
+['where is that? /'],where is that ,qw,FEMALE,12
+['-- {c and } you have to kind of get up into the mountains to get much of the greenery.  /'], c and  you have to kind of get up into the mountains to get much of the greenery  ,sd,FEMALE,1
+"[""[ most of, + [ most, + most ] of ] the land's pretty brown.  /""]", most of   most  most  of  the lands pretty brown  ,sd,FEMALE,1
+"[""you don't have as much of the greenery like you have. /""]",you dont have as much of the greenery like you have ,sv,FEMALE,3
+"['oh,  /']",oh  ,b,FEMALE,2
+"[""where's that? /""]",wheres that ,qw,FEMALE,12
+"['{f uh, } idaho, is where i live,  /']",f uh  idaho is where i live  ,sd,FEMALE,1
+"['{c and, } {f uh } <baby_crying>, -/']",c and  f uh  babycrying ,%,FEMALE,5
+['((   )) .'],    ,x,FEMALE,8
+['yes. /'],yes ,ny,FEMALE,9
+['okay <child_crying>. /'],okay childcrying ,bk,FEMALE,14
+"[""it's by, {f uh, } - /""]",its by f uh   ,sd,FEMALE,1
+"[""i have a little baby thinks he needs to cry now that i'm on the phone. /""]",i have a little baby thinks he needs to cry now that im on the phone ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""<baby_crying>  it's by, {f um, } boise.  /""]",babycrying  its by f um  boise  ,sd,FEMALE,1
+['you ever heard of boise? /'],you ever heard of boise ,qy,FEMALE,7
+"['{f oh, } yeah,  /']",f oh  yeah  ,ny,FEMALE,9
+['yeah. /'],yeah ,ny,FEMALE,9
+"[""{c and, } {f uh, } <throat_clearing> it's fine,  /""]",c and  f uh  throatclearing its fine  ,sd,FEMALE,1
+"[""it's nice.  /""]",its nice  ,sd,FEMALE,1
+"[""it's, {f uh, }  lot different kind of.  /""]",its f uh   lot different kind of  ,sv,FEMALE,3
+"['i lived in indiana for a while,  /']",i lived in indiana for a while  ,sd,FEMALE,1
+"[""{c and } it's a real different, {f uh, } land and scenery than there.  /""]",c and  its a real different f uh  land and scenery than there  ,sd,FEMALE,1
+"[""it's kind of fun to have a little bit diversity, and --""]",its kind of fun to have a little bit diversity and ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- things like that.  /'], things like that  ,+,FEMALE,0
+"[""i think, {f uh, } there's a lot of places {f uh, } {f oh, } down, even in southern utah, the [ canyons, + canyon lands ] <child_yelling> and bryce canyon  /""]",i think f uh  theres a lot of places f uh  f oh  down even in southern utah the  canyons  canyon lands  childyelling and bryce canyon  ,sd,FEMALE,1
+"[""{c and, } {f oh, } boy, they're gorgeous <throat_clearing> -- /""]",c and  f oh  boy theyre gorgeous throatclearing  ,sv,FEMALE,3
+['((   ))  --'],     ,x,FEMALE,8
+['--  ((   )) .'],      ,x,FEMALE,8
+['-- yeah. /'], yeah ,b,FEMALE,2
+['those are kind of fun places.  /'],those are kind of fun places  ,sd,FEMALE,1
+"['we usually go over to bear lake in the summer, which is kind of on the border of idaho and utah,  /']",we usually go over to bear lake in the summer which is kind of on the border of idaho and utah  ,sd,FEMALE,1
+"['{c and } <throat_clearing> the lake goes on forever,  /']",c and  throatclearing the lake goes on forever  ,sd,FEMALE,1
+"[""{c and } that's real pretty over there too. /""]",c and  thats real pretty over there too ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""{c but } i think i'm kind of a summer vacationer. /""]",c but  i think im kind of a summer vacationer ,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,FEMALE,4
+"['me too,  {f uh, }  /']",me too  f uh   ,sd,FEMALE,1
+['me too.   /'],me too   ,sd,FEMALE,1
+"[""unless i'm going somewhere warm <laughter> --""]",unless im going somewhere warm laughter ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- for the winter <laughter>. /'], for the winter laughter ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that'd be nice. /""]",thatd be nice ,sv,FEMALE,3
+"[""where'd you, -/""]",whered you ,qw,FEMALE,12

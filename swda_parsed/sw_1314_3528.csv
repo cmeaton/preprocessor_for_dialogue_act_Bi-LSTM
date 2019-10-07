@@ -1,0 +1,178 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['night, /']",night ,"fo_o_fw_""_by_bc",FEMALE,0
+"['fine,  /']",fine  ,fp,MALE,32
+['thank you.  /'],thank you  ,ft,MALE,43
+"[""i understand we're supposed to talk about spaceflight.  /""]",i understand were supposed to talk about spaceflight  ,sd,FEMALE,1
+['yes.  /'],yes  ,aa,MALE,4
+['i hope you know more about it than i do.  /'],i hope you know more about it than i do  ,sd,FEMALE,1
+"['{f oh, } {d well } <laughter>, i just got through [ renting, + reading, ] {f uh, } space by, {f uh, } james michener. /']",f oh  d well  laughter i just got through  renting  reading  f uh  space by f uh  james michener ,sd,MALE,1
+"['{f oh, } is that right?  /']",f oh  is that right  ,qy,FEMALE,7
+"['{c and so } that, {f uh, } helped out a little bit i think. /']",c and so  that f uh  helped out a little bit i think ,sv,MALE,3
+"[""i haven't read his book.  /""]",i havent read his book  ,sd,FEMALE,1
+"[""i was so upset with texas that i haven't gotten into any more of his books because i thought it was just horrible. /""]",i was so upset with texas that i havent gotten into any more of his books because i thought it was just horrible ,sv,FEMALE,3
+"['{d well, } he tends to go into a lot of detail sometimes. /']",d well  he tends to go into a lot of detail sometimes ,aa,MALE,4
+"['{d well, } - /']",d well   ,h,FEMALE,15
+"[""{c and } i don't think he was truthful in a lot of what he did in texas  /""]",c and  i dont think he was truthful in a lot of what he did in texas  ,sv,FEMALE,3
+"[""{c so } i wasn't sure how credible he was. /""]",c so  i wasnt sure how credible he was ,sv,FEMALE,3
+"['{f oh, } is that right?  /']",f oh  is that right  ,qy,MALE,7
+"[""{c but anyway, } what do you think we've gained from the spaceflights? /""]",c but anyway  what do you think weve gained from the spaceflights ,qo,FEMALE,25
+"[""{d well } <breathing>, {f uh, } <breathing> <noise> i'm not sure to be honest with you,  /""]",d well  breathing f uh  breathing noise im not sure to be honest with you  ,^h,MALE,27
+"['{d so, } {f uh, } this going to the moon seemed to be a exciting adventure  /']",d so  f uh  this going to the moon seemed to be a exciting adventure  ,sv,MALE,3
+"['[ {c and, } + {f uh, }']", c and   f uh ,%,MALE,5
+['ego trip.  /'],ego trip  ,sv,FEMALE,3
+"['{c and, } ] yeah,  /']",c and   yeah  ,+,MALE,0
+"['it was nice to go there,  /']",it was nice to go there  ,sv,MALE,3
+"[""{c but } i don't know that it really benefitted mankind that much. /""]",c but  i dont know that it really benefitted mankind that much ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['i happen to live not too far away from, - /']",i happen to live not too far away from  ,sd,MALE,1
+"[""{f uh, } {d well, } i've actually worked for the company that, {f uh, } has been blamed for the challenger disaster. {f uh } --""]",f uh  d well  ive actually worked for the company that f uh  has been blamed for the challenger disaster f uh  ,sd,MALE,1
+"['{f oh, } is that right?   /']",f oh  is that right   ,qy,FEMALE,7
+['-- morton thiakol.   /'], morton thiakol   ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{c and, } {f uh, } {d you know, } that's been kind of [ a, + a ] real negative feeling here  /""]",c and  f uh  d you know  thats been kind of  a  a  real negative feeling here  ,sd,MALE,1
+['is -- -/'],is  ,sd,MALE,1
+['right.   /'],right   ,b,FEMALE,2
+"['-- {d sure } it was, {d you know, } very unfortunate thing that occurred there  /']", d sure  it was d you know  very unfortunate thing that occurred there  ,sv,MALE,3
+"[""{c and } it's, -/""]",c and  its ,%,MALE,5
+['where do you live?   /'],where do you live   ,qw,FEMALE,12
+"['{f uh, } we live in, {f uh, } utah.   /']",f uh  we live in f uh  utah   ,sd,MALE,1
+"['you live in u-,   /']",you live in u   ,bk,FEMALE,14
+['am i talking to utah right now?   /'],am i talking to utah right now   ,qy,FEMALE,7
+['uh-huh.   /'],uhhuh   ,ny,MALE,9
+"['{f oh, } {f oh, } great.   /']",f oh  f oh  great   ,ba,FEMALE,6
+['yeah.   /'],yeah   ,b,MALE,2
+['{c because } --'],c because  ,sd,FEMALE,1
+"['{f uh, }   /']",f uh    ,b,MALE,2
+"[""-- i'm in dallas.  /""]", im in dallas  ,+,FEMALE,0
+['oh. /'],oh ,b,MALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['i have a sister that lives in dallas,   /']",i have a sister that lives in dallas   ,sd,MALE,1
+"[""that's how we got hooked up to the program was [ her -- +""]",thats how we got hooked up to the program was  her  ,sd,MALE,1
+['i see.   /'],i see   ,b,FEMALE,2
+"[""-- her ] husband works for penney's there.   /""]", her  husband works for penneys there   ,+,MALE,0
+['i see.   /'],i see   ,b,FEMALE,2
+['{d so. }  -/'],d so   ,%,MALE,5
+['carolyn rash? /'],carolyn rash ,qy^d,FEMALE,16
+['pardon me?   /'],pardon me   ,br,MALE,30
+"['is her name rash, carolyn rash?  /']",is her name rash carolyn rash  ,qy,FEMALE,7
+"['no, [ her name is, + {f uh, } my last name is ] skidmore. /']",no  her name is  f uh  my last name is  skidmore ,ng,MALE,29
+['i see.   /'],i see   ,b,FEMALE,2
+"[""{c and } [[ her, + her ] husband's name is, + his last name is ] weight. /""]",c and   her  her  husbands name is  his last name is  weight ,sd,MALE,1
+['i see.  /'],i see  ,b,FEMALE,2
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+"['{d well, } you probably know a lot about it.  /']",d well  you probably know a lot about it  ,sv,FEMALE,3
+"[""i wasn't sure that they were blaming that [ sp-, + space ] disaster on one company. /""]",i wasnt sure that they were blaming that  sp  space  disaster on one company ,sv,FEMALE,3
+['<breathing>.'],breathing,x,MALE,8
+"[""i hadn't heard that.   /""]",i hadnt heard that   ,sd,FEMALE,1
+"['{d well, } they were.   /']",d well  they were   ,sd,MALE,1
+"['there was, {f uh, } - /']",there was f uh   ,%,MALE,5
+"['apparently the specifications for the joints, {f uh, } - /']",apparently the specifications for the joints f uh   ,sd,MALE,1
+"['they were not to perform in, {f uh, } cold weather  /']",they were not to perform in f uh  cold weather  ,sd,MALE,1
+"['{c and, } {f uh, } apparently there was definitely [ a, + a ] joint that did not <noise> seal,  /']",c and  f uh  apparently there was definitely  a  a  joint that did not noise seal  ,sd,MALE,1
+"[""{c and, } {f uh, } if you've ever seen the size of those, {f uh, } motors --""]",c and  f uh  if youve ever seen the size of those f uh  motors ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['-- that put them into space, - /']", that put them into space  ,+,MALE,0
+"[""{e i mean, } they're as long as a football field practically and --""]",e i mean  theyre as long as a football field practically and ,sd,MALE,1
+['uh-huh.   /'],uhhuh   ,b,FEMALE,2
+['-- about twelve foot in diameter  /'], about twelve foot in diameter  ,+,MALE,0
+"['[ {c and, } + {c and } ] there is a [ lot of pressure, + lot of thrust ] to get that much weight up in the air. /']", c and   c and   there is a  lot of pressure  lot of thrust  to get that much weight up in the air ,sd,MALE,1
+"['{f oh, } yeah.   /']",f oh  yeah   ,b,FEMALE,2
+"[""{d so } [ it's, + this book was ] interesting, though.  /""]",d so   its  this book was  interesting though  ,%,MALE,5
+"['i, {f uh, } - /']",i f uh   ,sv,MALE,3
+"['talked about how a lot of the problems they have to [ come, + overcome ] to, {f uh, } - /']",talked about how a lot of the problems they have to  come  overcome  to f uh   ,sd,MALE,1
+"[""it's a very complex, {f uh, } situation to go into space. /""]",its a very complex f uh  situation to go into space ,sv,MALE,3
+"['{f oh, } yeah,   /']",f oh  yeah   ,aa,FEMALE,4
+"['i would think so, too <noise>. /']",i would think so too noise ,aa,FEMALE,4
+"['they would, - /']",they would  ,%,MALE,5
+"[""the thing that he went into quite a bit of detail about [ how, + how ] much of a problem it is to re-enter the earth's atmosphere. /""]",the thing that he went into quite a bit of detail about  how  how  much of a problem it is to reenter the earths atmosphere ,sd,MALE,1
+['you never think about that do you?   /'],you never think about that do you   ,qy,FEMALE,7
+['yeah.   /'],yeah   ,ny,MALE,9
+['i would think it would be harder to get up than it would be --'],i would think it would be harder to get up than it would be ,sv,FEMALE,3
+['yeah  <laughter>. /'],yeah  laughter ,b,MALE,2
+['-- getting back down.  /'], getting back down  ,+,FEMALE,0
+"['{c but } they have to come in at [ a, + ] just the right angle.  /']",c but  they have to come in at  a   just the right angle  ,sd,MALE,1
+"['if you come in at the wrong angle, what happens is they bounce off and go back into space -- /']",if you come in at the wrong angle what happens is they bounce off and go back into space  ,sd,MALE,1
+['uh-huh.   /'],uhhuh   ,b,FEMALE,2
+['-- {c and } if they come into it at a different angle there is so much friction that it burns them up. /'], c and  if they come into it at a different angle there is so much friction that it burns them up ,sd,MALE,1
+['right.   /'],right   ,b,FEMALE,2
+"['{d so, } -/']",d so  ,%,MALE,5
+"['{d well, } i saw [ one of, + some of ] those early space capsules at smithsonian.   /']",d well  i saw  one of  some of  those early space capsules at smithsonian   ,sd,FEMALE,1
+"[""i'm sure you've --""]",im sure youve ,sv,FEMALE,3
+['oh.  /'],oh  ,b,MALE,2
+"['-- seen more of them than i have,   /']", seen more of them than i have   ,+,FEMALE,0
+['{c but } --'],c but  ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['-- you could see the scorch on them, {d you know, }  /']", you could see the scorch on them d you know   ,+,FEMALE,0
+['they had though piles -- /'],they had though piles  ,%,FEMALE,5
+['yeah.   /'],yeah   ,b,MALE,2
+"['-- {c but } you could see [ where they would come off in the, + how hot it got ] because it was still the scorch on them which was quite interesting. /']", c but  you could see  where they would come off in the  how hot it got  because it was still the scorch on them which was quite interesting ,sv,FEMALE,3
+"['yeah,   /']",yeah   ,b,MALE,2
+"[""[[[ i've, + i've, ] +""]", ive  ive  ,sd,MALE,1
+"['{d well, } i, - /']",d well  i  ,%,FEMALE,5
+"['{e excuse me, } go ahead.  /']",e excuse me  go ahead  ,ad,FEMALE,22
+"[""{e i would say } i've never, ] + i've never ] seen an actual capsule. /""]",e i would say  ive never   ive never  seen an actual capsule ,+,MALE,0
+"['{f oh, } yeah.  /']",f oh  yeah  ,b,FEMALE,2
+"[""i've seen [ more, + more ] of the motors [ that, + that ] they --""]",ive seen  more  more  of the motors  that  that  they ,sd,MALE,1
+['uh-huh.   /'],uhhuh   ,b,FEMALE,2
+['-- produced out there.   /'], produced out there   ,+,MALE,0
+"['{d well, } these were the ones that john glenn went up in --']",d well  these were the ones that john glenn went up in ,sd,FEMALE,1
+['uh-huh.   /'],uhhuh   ,b,MALE,2
+"['-- {d you know, } and the old, old ones.   /']", d you know  and the old old ones   ,+,FEMALE,0
+['yeah.   /'],yeah   ,b,MALE,2
+"['the very first ones,   /']",the very first ones   ,sd,FEMALE,1
+['the little bell type things.   /'],the little bell type things   ,sd,FEMALE,1
+"['people have commented how, {f uh, } they were surprised at how small they were. /']",people have commented how f uh  they were surprised at how small they were ,sd,MALE,1
+"['yeah,   /']",yeah   ,aa,FEMALE,4
+"['they really were,   /']",they really were   ,sd,FEMALE,1
+['they --'],they ,%,FEMALE,5
+['looked pretty --'],looked pretty ,qy^d,MALE,16
+"['-- just, {f uh, } -/']", just f uh  ,+,FEMALE,0
+"['-- confining, {f huh. }  /']", confining f huh   ,+,MALE,0
+"['{f oh, } yeah,  /']",f oh  yeah  ,ny,FEMALE,9
+"['{c and, } {f uh, } the whole thing was small  /']",c and  f uh  the whole thing was small  ,sd,FEMALE,1
+"['{c and, } {d yeah, } [ you, + {e i mean, } you ] actually put it on <laughter>, {d you know. } /']",c and  d yeah   you  e i mean  you  actually put it on laughter d you know  ,sv,FEMALE,3
+['is that right?   /'],is that right   ,qy,MALE,7
+"['you put it around you pretty much,   /']",you put it around you pretty much   ,na,FEMALE,21
+['it was so small.   /'],it was so small   ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+"['{d well, } i thought there was some medical benefits that we have learned from space,  /']",d well  i thought there was some medical benefits that we have learned from space  ,sv,FEMALE,3
+['{c but } did he go into that in the book? /'],c but  did he go into that in the book ,qy,FEMALE,7
+"['not really. {f uh, } <throat_clearing>,  /']",not really f uh  throatclearing  ,ng,MALE,29
+"[""i guess that's just to sell us on it.  /""]",i guess thats just to sell us on it  ,sv,FEMALE,3
+"[""one thing's, - /""]",one things  ,sd,MALE,1
+"[""i know one thing [ they've, + they've ] mentioned that i didn't get from the book, by the way,  /""]",i know one thing  theyve  theyve  mentioned that i didnt get from the book by the way  ,sd,MALE,1
+"['{c but, } it talked about, {f uh, } - /']",c but  it talked about f uh   ,sd,MALE,1
+"[""they're able to manufacture, {f uh, } different kinds of crystals --""]",theyre able to manufacture f uh  different kinds of crystals ,sd,MALE,1
+"['{f oh, } yeah.   /']",f oh  yeah   ,b,FEMALE,2
+"['-- and ball bearings and things like that in a zero gravity state that they turned out being [ almost, + {f uh, } nearly ] perfect as far as a ball bearing goes.  /']", and ball bearings and things like that in a zero gravity state that they turned out being  almost  f uh  nearly  perfect as far as a ball bearing goes  ,+,MALE,0
+"[""it's perfectly round. /""]",its perfectly round ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{c but } i'm not sure you have to go to outer space to achieve that zero gravity. /""]",c but  im not sure you have to go to outer space to achieve that zero gravity ,sv,MALE,3
+"[""{d well, } that's true   /""]",d well  thats true   ,aa,FEMALE,4
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+"[""that's right <laughter>.  /""]",thats right laughter  ,aa,FEMALE,4
+"['{d well, } do you think we should continue to support it at the level, - /']",d well  do you think we should continue to support it at the level  ,qy,FEMALE,7
+"[""{d well, } i thought probably one of the things they were doing that they didn't tell us was spying.   /""]",d well  i thought probably one of the things they were doing that they didnt tell us was spying   ,sv,FEMALE,3
+['{c because } --'],c because  ,sv,FEMALE,3
+['uh-huh.   /'],uhhuh   ,b,MALE,2
+"['-- i think those satellites, {d you know, } or not satellites, but the spaceflights could really spy  /']", i think those satellites d you know  or not satellites but the spaceflights could really spy  ,+,FEMALE,0
+"['{c and } [ with, + {f uh } --']",c and   with  f uh  ,sv,FEMALE,3
+['yes.   /'],yes   ,aa,MALE,4
+"[""-- with ] russia's demise, i didn't know if we should continue to support it at the current level. /""]", with  russias demise i didnt know if we should continue to support it at the current level ,+,FEMALE,0
+"['{f uh, } i think they have cut it back, to be honest with you.']",f uh  i think they have cut it back to be honest with you,sv,MALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['[ from, + from ] the glory days when they did the apollo shots to the moon. /']", from  from  the glory days when they did the apollo shots to the moon ,+,MALE,0
+['{f uh. } /'],f uh  ,b,FEMALE,2
+"['{f uh, } i appreciate having the satellites.   /']",f uh  i appreciate having the satellites   ,sd,MALE,1
+"[""{d you know, } that's certainly made it nice for other purpose.   /""]",d you know  thats certainly made it nice for other purpose   ,sv,MALE,3
+"[""i don't know if you have a satellite dish or not.   /""]",i dont know if you have a satellite dish or not   ,qy^d,MALE,16
+"[""we don't -- /""]",we dont  ,sd,MALE,1
+"['no,   /']",no   ,nn,FEMALE,13
+"[""i don't.   /""]",i dont   ,sd,FEMALE,1
+"[""i don't --""]",i dont ,sd,FEMALE,1
+['-- {c but } [ i + --'], c but   i  ,sv,MALE,3
+['-- either. /'], either ,+,FEMALE,0
+"[""-- i ] know that's certainly helped a lot --""]", i  know thats certainly helped a lot ,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['-- in that regard. {f uh, }  /']", in that regard f uh   ,+,MALE,0

@@ -1,0 +1,132 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['where does she live? /'],where does she live ,qw,FEMALE,12
+"['{f uh, } on rutherford. /']",f uh  on rutherford ,sd,FEMALE,1
+['rutherford.  /'],rutherford  ,b^m,FEMALE,24
+"[""i don't know that. /""]",i dont know that ,sd,FEMALE,1
+"[""it's, {f uh, } corner of new york --""]",its f uh  corner of new york ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } just west of mayfield. /']", f uh  just west of mayfield ,+,FEMALE,0
+"[""it's, {f oh, } {f oh, } south and, okay, - /""]",its f oh  f oh  south and okay  ,bk,FEMALE,14
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ i know where you, + i know the area. ] /']", i know where you  i know the area  ,sd,FEMALE,1
+['# {f uh. } # /'], f uh   ,%,FEMALE,5
+"['# right, #  /']", right   ,b,FEMALE,2
+"[""that's kind of on the other side of town,  /""]",thats kind of on the other side of town  ,sd,FEMALE,1
+['{c so } --'],c so  ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+['-- our kids probably never went to school together or  anything <laughter>. /'], our kids probably never went to school together or  anything laughter ,+,FEMALE,0
+"[""<throat_clearing>  {f oh, } [ they're, + they're ]  little ones # <laughter>. # /""]",throatclearing  f oh   theyre  theyre   little ones  laughter  ,sd,FEMALE,1
+"[""# {f oh, } {d well, } # i've got one in college <laughter>. /""]", f oh  d well   ive got one in college laughter ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['by now. /'],by now ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""let's see, we're on government,""]",lets see were on government,sd,FEMALE,1
+['# right. # /'], right  ,aa,FEMALE,4
+"[""# whether # we think it's honest # <laughter> or can be. # /""]", whether  we think its honest  laughter or can be  ,+,FEMALE,0
+"[""# whether it is # possible to have an honest government.   i'm beginning to think it's not.  /""]", whether it is  possible to have an honest government   im beginning to think its not  ,sd,FEMALE,1
+['what about you?  # <laughter>. # /'],what about you   laughter  ,qo,FEMALE,25
+"[""# [ i, + # i ] don't think under the way the  system is right now, it is. /""]",  i   i  dont think under the way the  system is right now it is ,sv,FEMALE,3
+"[""i don't either.  /""]",i dont either  ,aa,FEMALE,4
+"['[ i, + i ] think, - /']", i  i  think  ,sv,FEMALE,3
+"['{f uh, }  even if  people have good intentions, i  think <breathing> {f uh, } power corrupts or  something <laughter> to a certain extent, # {d you know. } # /']",f uh   even if  people have good intentions i  think breathing f uh  power corrupts or  something laughter to a certain extent  d you know   ,sv,FEMALE,3
+"['# the # ultimate power, ultimately [ re-, + ]  <laughter> corrupts. /']", the  ultimate power ultimately  re    laughter corrupts ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['it seems like, {f uh, } maybe more of them come  in with good intentions,  /']",it seems like f uh  maybe more of them come  in with good intentions  ,sv,FEMALE,3
+"[""{c but } it's just so enticing,  /""]",c but  its just so enticing  ,sv,FEMALE,3
+"[""{c and }  (( a lot of ))   corners being cut and the special deals available, because they're  ((  in on the know )) , {d you know } <laughter>. -/""]",c and    a lot of    corners being cut and the special deals available because theyre    in on the know   d you know  laughter ,sv,FEMALE,3
+"[""i don't know # if, #""]",i dont know  if ,sd,FEMALE,1
+['# oh. # /'], oh  ,b,FEMALE,2
+"['there is enough money that you could pay them # just, #']",there is enough money that you could pay them  just ,+,FEMALE,0
+['# <breathing>. #'], breathing ,x,FEMALE,8
+['{d you know } <breathing> x amount of money to keep them  honest.  /'],d you know  breathing x amount of money to keep them  honest  ,+,FEMALE,0
+"[""[ i just, + i just ] don't, {f uh, } -/""]", i just  i just  dont f uh  ,sd,FEMALE,1
+['right.  /'],right  ,aa,FEMALE,4
+"['{e i mean, } you even see people on a  small scale cheating when they have certain positions,  /']",e i mean  you even see people on a  small scale cheating when they have certain positions  ,sv,FEMALE,3
+['you know what i mean? /'],you know what i mean ,"fo_o_fw_""_by_bc",FEMALE,0
+['# right. # /'], right  ,aa,FEMALE,4
+"[""# [ little # bitty, + little bitty ] positions in your own  home town, and they'll cheat somehow or, {d you know, } bend the rules,  use their power.  /""]",  little  bitty  little bitty  positions in your own  home town and theyll cheat somehow or d you know  bend the rules  use their power  ,sv,FEMALE,3
+"[""{c so } maybe it's just man's nature <laughter>. /""]",c so  maybe its just mans nature laughter ,sv,FEMALE,3
+"['[ we had, + {f uh, } here in oklahoma we had ]  a few years ago a major, {f uh, } corruption [ on, + on ] our county commissioners -- /']", we had  f uh  here in oklahoma we had   a few years ago a major f uh  corruption  on  on  our county commissioners  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } there were several counties, {f uh, }  including the one i was in, that lost every one of their county commissioners  /']", c and  there were several counties f uh   including the one i was in that lost every one of their county commissioners  ,sd,FEMALE,1
+"['{c and, }']",c and ,sd,FEMALE,1
+"['{f oh, } my word. /']",f oh  my word ,ba,FEMALE,6
+"['{e i mean, } it was to the point of not just  losing their job, but going to jail. /']",e i mean  it was to the point of not just  losing their job but going to jail ,+,FEMALE,0
+"['{f oh, } wow.  /']",f oh  wow  ,ba,FEMALE,6
+"['what were they doing # taking some, # -/']",what were they doing  taking some  ,qw,FEMALE,12
+"['# {f oh, } they were # taking kickbacks. /']", f oh  they were  taking kickbacks ,sd,FEMALE,1
+"['{f oh, } no <laughter>. /']",f oh  no laughter ,ba,FEMALE,6
+['yeah  /'],yeah  ,b,FEMALE,2
+['# <laughter>. #'], laughter ,x,FEMALE,8
+"['# {f oh, } gosh. # /']", f oh  gosh  ,ba,FEMALE,6
+"['just a little here, a little there. /']",just a little here a little there ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['right <laughter>. /'],right laughter ,b,FEMALE,2
+"['major amount here, a major amount # there. # /']",major amount here a major amount  there  ,sd,FEMALE,1
+['# right # <laughter>.  /'], right  laughter  ,b,FEMALE,2
+['{f oh. } /'],f oh  ,%,FEMALE,5
+"['{c but } i think there was something like, {d you know, }  thirty or forty commissioners that ended up going to jail. /']",c but  i think there was something like d you know   thirty or forty commissioners that ended up going to jail ,sd,FEMALE,1
+"[""{f um. }  we haven't had that big a scandal in arlington,  /""]",f um   we havent had that big a scandal in arlington  ,sd,FEMALE,1
+['{c but } we do have the people that work for the convention center were falsifying records.  /'],c but  we do have the people that work for the convention center were falsifying records  ,sd,FEMALE,1
+"[""in other words, they'd go out and have a big,  lavish dinner and then put somebody's name down that they supposedly had entertained,  /""]",in other words theyd go out and have a big  lavish dinner and then put somebodys name down that they supposedly had entertained  ,sd,FEMALE,1
+"[""{c but } that person wasn't even anywhere near there, {d you know. }  /""]",c but  that person wasnt even anywhere near there d you know   ,sd,FEMALE,1
+"[""some of them weren't  even in the same city.  /""]",some of them werent  even in the same city  ,sd,FEMALE,1
+"['one of them [ had, + had ] cancer and died  /']",one of them  had  had  cancer and died  ,sd,FEMALE,1
+"['{c and } <laughter> {e i mean, } that was our biggest scandal for the last few years, i think. /']",c and  laughter e i mean  that was our biggest scandal for the last few years i think ,sd,FEMALE,1
+"[""{f uh, } [ that's, +  that's ] small scale.  /""]",f uh   thats   thats  small scale  ,sv,FEMALE,3
+"[""i don't know, {d you know, }  /""]",i dont know d you know   ,h,FEMALE,15
+"[""i really don't know what could be done.  # {f uh, } # /""]",i really dont know what could be done   f uh   ,sd,FEMALE,1
+"[""# [ i don't, + # i don't ] either.  {f uh, } to make it  totally honest.  /""]",  i dont   i dont  either  f uh  to make it  totally honest  ,sd,FEMALE,1
+"[""{f uh, } i think [ there's, + there's ] always going to be some way  somebody can cut a corner, {f uh. }  /""]",f uh  i think  theres  theres  always going to be some way  somebody can cut a corner f uh   ,sv,FEMALE,3
+"[""however, the things that have [ gone, + gone ]  on in the last couple of years, we can't afford too many of those, {d you # know, } [ the + # --""]",however the things that have  gone  gone   on in the last couple of years we cant afford too many of those d you  know   the   ,sv,FEMALE,3
+"[""# that's # right. /""]", thats  right ,aa,FEMALE,4
+['-- the ] hud mess or the s and l.  /'], the  hud mess or the s and l  ,+,FEMALE,0
+['we could almost not  afford such terrible corruption. /'],we could almost not  afford such terrible corruption ,sv,FEMALE,3
+"['the cover-ups and, -/']",the coverups and ,sv,FEMALE,3
+"['right,  /']",right  ,aa,FEMALE,4
+['right.  /'],right  ,aa,FEMALE,4
+"['i think that, {f uh, } reagan and  bush were up to their necks in that iran contra thing,  /']",i think that f uh  reagan and  bush were up to their necks in that iran contra thing  ,sv,FEMALE,3
+"['{c and } it kind of makes you feel  bad that the top people in your country would be lying to you like that,  /']",c and  it kind of makes you feel  bad that the top people in your country would be lying to you like that  ,sv,FEMALE,3
+"['{c but, } # {f uh, } # -/']",c but   f uh   ,%,FEMALE,5
+"[""# [ i, + # {f uh, } i ] don't know.  /""]",  i   f uh  i  dont know  ,h,FEMALE,15
+"[""[ i just, + {f uh, } i'd ] like to believe that there is some way that our political people would really go there and look out for our interests. /""]", i just  f uh  id  like to believe that there is some way that our political people would really go there and look out for our interests ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""i think that's what upsets me worse than, that they're getting a little,   {d you know, } {f uh, } on the side --""]",i think thats what upsets me worse than that theyre getting a little   d you know  f uh  on the side ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ that, + that, ]']",  that  that ,+,FEMALE,0
+"[""that's right, #  /""]",thats right   ,aa,FEMALE,4
+"['{c but } they stay there, # -/']",c but  they stay there  ,sd,FEMALE,1
+"[""# it seems that when they # get up there [ it's, + it's ]   [ what, + ] if i vote your way, what it'll do for me # rather, #""]", it seems that when they  get up there  its  its     what   if i vote your way what itll do for me  rather ,+,FEMALE,0
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['than this is the way my constituents want it. /'],than this is the way my constituents want it ,+,FEMALE,0
+"['right,  /']",right  ,aa,FEMALE,4
+['{c and } this would be for the best for the  nation overall.  /'],c and  this would be for the best for the  nation overall  ,sv,FEMALE,3
+"[""you're right,  /""]",youre right  ,aa,FEMALE,4
+"[""it's just a, - /""]",its just a  ,%,FEMALE,5
+"[""i don't know.  /""]",i dont know  ,h,FEMALE,15
+"[""i guess that's where they stay [ in, + {f uh, } in, ] - /""]",i guess thats where they stay  in  f uh  in   ,sv,FEMALE,3
+['they try to stay in office.  /'],they try to stay in office  ,sv,FEMALE,3
+['{c but } they always please  the money people too.  /'],c but  they always please  the money people too  ,sv,FEMALE,3
+"[""they need money so much, because they're constantly having to # run, #""]",they need money so much because theyre constantly having to  run ,sv,FEMALE,3
+"['# run, # -/']", run  ,^2,FEMALE,23
+['for office again.  /'],for office again  ,+,FEMALE,0
+"['# {c and, } # -/']", c and   ,%,FEMALE,5
+['# maybe #  /'], maybe   ,arp_nd,FEMALE,34
+"['{c and then } you think, {d well, }  if it was longer terms --']",c and then  you think d well   if it was longer terms ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- then they would never have to try to please the people at home # <laughter>. # /'], then they would never have to try to please the people at home  laughter  ,+,FEMALE,0
+"[""# <laughter> # that's true.  /""]", laughter  thats true  ,aa,FEMALE,4
+"['{d boy, }  it is a big problem,  /']",d boy   it is a big problem  ,sv,FEMALE,3
+"['{c but } i think most people are kind of depressed and cynical about government now,/']",c but  i think most people are kind of depressed and cynical about government now,sv,FEMALE,3
+"[""don't you? /""]",dont you ,^g,FEMALE,40
+"[""i don't think that [ they, + anyone ]  has a lot of respect or faith in the government. /""]",i dont think that  they  anyone   has a lot of respect or faith in the government ,sv,FEMALE,3
+['i know.  /'],i know  ,aa,FEMALE,4
+"[""it's really terrible.  /""]",its really terrible  ,sv,FEMALE,3
+"['{e i mean, }  there was a time, {e i mean } where, i remember when i was real young, i just loved harry truman.  /']",e i mean   there was a time e i mean  where i remember when i was real young i just loved harry truman  ,sd,FEMALE,1
+['i thought he was great <laughter>.  /'],i thought he was great laughter  ,sd,FEMALE,1
+"['{f oh, } {d you know, } i had, - /']",f oh  d you know  i had  ,%,FEMALE,5
+"['some of them seemed like kind of, {f uh, } heroic people. /']",some of them seemed like kind of f uh  heroic people ,sd,FEMALE,1
+"['{d well } <throat_clearing> i wonder if they really were,']",d well  throatclearing i wonder if they really were,sd,FEMALE,1
+['# <laughter>. #'], laughter ,x,FEMALE,8
+"[""# or if we just # really didn't, -/""]", or if we just  really didnt ,+,FEMALE,0

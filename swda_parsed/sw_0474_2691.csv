@@ -1,0 +1,193 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['jay, where do you live in texas? /']",jay where do you live in texas ,qw,FEMALE,12
+"['i live in dallas, /']",i live in dallas ,sd,MALE,1
+['# in dallas.  # /'], in dallas   ,b^m,FEMALE,24
+"['# {f uh, } right # at the intersection of the busiest highway in the state.  {a and a, uh, it goes east and west, }   and a north south tollway. /']", f uh  right  at the intersection of the busiest highway in the state  a and a uh it goes east and west    and a north south tollway ,sd,MALE,1
+"[""what's that, the i thirty and central --""]",whats that the i thirty and central ,qy,FEMALE,7
+"[""it's, - /""]",its  ,%,MALE,5
+"['no,  /']",no  ,nn,MALE,13
+"[""it's --""]",its ,sd,MALE,1
+['-- express? /'], express ,+,FEMALE,0
+"[""-- called six thirty-five's the highway. /""]", called six thirtyfives the highway ,+,MALE,0
+"['# okay,  /']", okay  ,bk,FEMALE,14
+['yeah.  # /'],yeah   ,%,FEMALE,5
+"[""# it's the # looper that goes around the city -- /""]", its the  looper that goes around the city  ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- {c and then, } {f uh, } the tollway is called the dallas north tollway. /']", c and then  f uh  the tollway is called the dallas north tollway ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['just moved here [ about, {f uh, } {f oh, } {f uh, } one, + about ] a month ago --']",just moved here  about f uh  f oh  f uh  one  about  a month ago ,sd,MALE,1
+"['{f oh, } is that right? /']",f oh  is that right ,bh,FEMALE,18
+"['-- after twenty-one years, two miles to the east. /']", after twentyone years two miles to the east ,+,MALE,0
+"['{f oh, } how about that? /']",f oh  how about that ,bh,FEMALE,18
+"[""{c so, } it's a very different house from the typical dallas, {f uh, }""]",c so  its a very different house from the typical dallas f uh ,sd,MALE,1
+"[""# it's a # --""]", its a  ,qy,FEMALE,7
+['# house.  # /'], house   ,+,MALE,0
+['-- new home? /'], new home ,+,FEMALE,0
+"[""it's about eight years old, /""]",its about eight years old ,no,MALE,31
+['# about eight years.  # /'], about eight years   ,b^m,FEMALE,24
+"[""# [ it's, + {f uh, } it's ] # a duplex type thing.""]",  its  f uh  its   a duplex type thing,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"['{f uh, } very modern and, {f uh, } very open and [ airy -- +']",f uh  very modern and f uh  very open and  airy  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- light. ]  /'], light   ,+,MALE,0
+"[""{c so } it's different [ than the, + than the ] long texas ramblers. /""]",c so  its different  than the  than the  long texas ramblers ,sd,MALE,1
+"['right,  /']",right  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b^m,MALE,24
+['{d well } [ we -- +'],d well   we  ,sd,FEMALE,1
+"[""what's your house like? /""]",whats your house like ,qw,MALE,12
+"['-- we ] live in a brick story and a half, {f uh, }  /']", we  live in a brick story and a half f uh   ,+,FEMALE,0
+"[""cape cod style, i guess you'd --""]",cape cod style i guess youd ,sd,FEMALE,1
+"['{f oh, } great,  /']",f oh  great  ,ba,MALE,6
+['yeah. /'],yeah ,%,MALE,5
+['-- call it.  /'], call it  ,+,FEMALE,0
+"['{c and, } {f uh, } have a big sun room on the back of it. /']",c and  f uh  have a big sun room on the back of it ,sd,FEMALE,1
+"[""{c so } it's got a lot of [ o-, + openness ] and light, also? /""]",c so  its got a lot of  o  openness  and light also ,qy,MALE,7
+"['no, /']",no ,nn,FEMALE,13
+"[""# {f oh, } it doesn't? # /""]", f oh  it doesnt  ,qy,MALE,7
+"[""# it doesn't have # <laughter>. /""]", it doesnt have  laughter ,ng,FEMALE,29
+"[""{d well, } that's what my wife really wanted  /""]",d well  thats what my wife really wanted  ,sd,MALE,1
+"['{c and so, } {f uh, } -/']",c and so  f uh  ,%,MALE,5
+['with openness and light? /'],with openness and light ,qy,FEMALE,7
+['yeah  /'],yeah  ,ny,MALE,9
+"[""that's, -/""]",thats ,%,MALE,5
+"['i understand that,  /']",i understand that  ,ba,FEMALE,6
+['i would love that too <laughter>. /'],i would love that too laughter ,sd,FEMALE,1
+"[""{f uh, } [ our, + our ] last house wasn't too bad,  /""]",f uh   our  our  last house wasnt too bad  ,sd,MALE,1
+"['{c but } it was just too traditional, /']",c but  it was just too traditional ,sd,MALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"['# {c and # so, } if, {f uh, } -/']", c and  so  if f uh  ,%,MALE,5
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+['this is very traditional.  # /'],this is very traditional   ,sd,FEMALE,1
+"[""# [ the n-, + the next ] time, # {f uh, } probably a year and a half from now, we're going to try to build. /""]",  the n  the next  time  f uh  probably a year and a half from now were going to try to build ,sd,MALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"['{c so } make one really, {f uh, } contemporary and, and very modern and very open and  very light. /']",c so  make one really f uh  contemporary and and very modern and very open and  very light ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['do you have children at home? /'],do you have children at home ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+['i have three in college. /'],i have three in college ,sd,MALE,1
+['three?  /'],three  ,bh,FEMALE,18
+"['{f oh, } boy. /']",f oh  boy ,ba,FEMALE,6
+"['[ they, + they ] usually, get back [ for the, + at least two of them for the ] summer,  /']", they  they  usually get back  for the  at least two of them for the  summer  ,sd,MALE,1
+"['[ {c so, } +']", c so  ,%,MALE,5
+['you still need --'],you still need ,qy^d,FEMALE,16
+"['{c but, } ] -/']",c but   ,+,MALE,0
+"['-- space, plenty of space <laughter>. /']", space plenty of space laughter ,+,FEMALE,0
+['still need a little bit of space.  /'],still need a little bit of space  ,na,MALE,21
+"['[ we, + we ] have a lot less than we had,']", we  we  have a lot less than we had,sd,MALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"['# {f uh, } # recently. /']", f uh   recently ,+,MALE,0
+['{f huh } <<faintly>>. /'],f huh  faintly ,b,FEMALE,2
+['already cut back. /'],already cut back ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{d well, } -/']",d well  ,%,FEMALE,5
+['how big is your place? /'],how big is your place ,qw,MALE,12
+"[""it's, {f uh, } {f oh, } about [ twenty-five thousand, + twenty-five hundred ]  square feet,""]",its f uh  f oh  about  twentyfive thousand  twentyfive hundred   square feet,sd,FEMALE,1
+['# {f oh } # --'], f oh   ,ba,MALE,6
+['# i guess.  # /'], i guess   ,+,FEMALE,0
+"[""-- that's good size. /""]", thats good size ,+,MALE,0
+"[""it's four bedrooms and two baths and that, /""]",its four bedrooms and two baths and that ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"['[ we, +']", we ,%,MALE,5
+['# it # --'], it  ,sd,FEMALE,1
+"['# we ] had, # -/']", we  had  ,+,MALE,0
+"[""-- has one wing built on that's a kitchen family room,  and then the big room on the back.  {f uh, } /""]", has one wing built on thats a kitchen family room  and then the big room on the back  f uh  ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['we had four bedrooms, two and a half baths, {f uh, } in the place we just left. /']",we had four bedrooms two and a half baths f uh  in the place we just left ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so } [ down, + now we're down ] to, two and two. /""]",c so   down  now were down  to two and two ,sd,MALE,1
+"['two and two,  /']",two and two  ,b^m,FEMALE,24
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b^m,MALE,24
+"[""{c so } it won't be terribly wonderful when the kids are home,  /""]",c so  it wont be terribly wonderful when the kids are home  ,sd,MALE,1
+"[""{c but } it won't be that long, because we, not [ for + ] sure, {d you know, } how long they're going to stay or whatever. /""]",c but  it wont be that long because we not  for   sure d you know  how long theyre going to stay or whatever ,sd,MALE,1
+"['right,  /']",right  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d so, } -/']",d so  ,%,MALE,5
+"['i was just reading an article, {f uh, } that there were nineteen thousand properties available in texas, {f uh, } for sale by the [ reso-, + resolution trust ] [ com-, + corporation? ] /']",i was just reading an article f uh  that there were nineteen thousand properties available in texas f uh  for sale by the  reso  resolution trust   com  corporation  ,qy,FEMALE,7
+"['{f oh, } yes. /']",f oh  yes ,ny,MALE,9
+['repossessed <laughter>. /'],repossessed laughter ,sd,FEMALE,1
+"['yes,  /']",yes  ,ny,MALE,9
+"['{c and } [ [ if you get in the, + if, ] + if you can find one in the ] right area you can really --']",c and    if you get in the  if   if you can find one in the  right area you can really ,sv,MALE,3
+"['[ i, +']", i ,sd,FEMALE,1
+['-- # pick up a steal. # /'],  pick up a steal  ,+,MALE,0
+['# i ] guess so. # /'], i  guess so  ,+,FEMALE,0
+"[""{f uh, } [ we, + we ] really didn't go that route and didn't look.  /""]",f uh   we  we  really didnt go that route and didnt look  ,sd,MALE,1
+"['{f uh, }  {c but, }  {f uh, } the planning of them - /']",f uh   c but   f uh  the planning of them  ,%,MALE,5
+"['{c and } [ the, + the ] housing market probably still going to even go lower.  /']",c and   the  the  housing market probably still going to even go lower  ,sv,MALE,3
+"['there are [ many, + many ] houses [ ju-, + for sale just ] by the regular route. /']",there are  many  many  houses  ju  for sale just  by the regular route ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d so, } {f uh, } -/']",d so  f uh  ,%,MALE,5
+"[""that's discouraging if you own property <laughter>. /""]",thats discouraging if you own property laughter ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"['{c and } we just decided, {f uh, } {f uh, } sell.   /']",c and  we just decided f uh  f uh  sell   ,sd,MALE,1
+"['{c and } [ we got, + we got ] a pretty good price, {f uh, } [ for, + for ] what we had.  /']",c and   we got  we got  a pretty good price f uh   for  for  what we had  ,sd,MALE,1
+"['{f uh, } not as good as it would have been --']",f uh  not as good as it would have been ,sv,MALE,3
+['few years. -/'],few years ,^2,FEMALE,23
+['-- say three or four --'], say three or four ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- years ago.  /'], years ago  ,+,MALE,0
+"['{c but } [ that, + {f uh, }  that ] was just the timing. /']",c but   that  f uh   that  was just the timing ,sv,MALE,3
+['right.  /'],right  ,aa,FEMALE,4
+"[""{d well } our daughter and son-in-law moved [ up, + back up ] here.   {a he's from texas,  but course she's from here, }  {f uh, } about a year and a half ago,""]",d well  our daughter and soninlaw moved  up  back up  here   a hes from texas  but course shes from here   f uh  about a year and a half ago,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,MALE,2
+"['# and # had their house on the market down there,  /']", and  had their house on the market down there  ,+,FEMALE,0
+['{c and } they never did sell it.  /'],c and  they never did sell it  ,sd,FEMALE,1
+"['{c so } they stayed six months,  /']",c so  they stayed six months  ,sd,FEMALE,1
+"['{c and } she got her job back, {c and } --']",c and  she got her job back c and  ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+['-- he got a job down there.  /'], he got a job down there  ,+,FEMALE,0
+"['{c because, } -/']",c because  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""they're not moving very well. /""]",theyre not moving very well ,qy^d,MALE,16
+['huh-uh. /'],huhuh ,nn,FEMALE,13
+['for sure. /'],for sure ,ba,MALE,6
+['nope. /'],nope ,nn,FEMALE,13
+"[""{c and } that's a good, {f uh, } example of it. /""]",c and  thats a good f uh  example of it ,sv,MALE,3
+['they live in rowlett. /'],they live in rowlett ,sd,FEMALE,1
+"['{f oh, } yeah.  /']",f oh  yeah  ,b,MALE,2
+['i know where that is.  /'],i know where that is  ,sd,MALE,1
+"[""[ i've been, + we've been ] here for twenty-five years. /""]", ive been  weve been  here for twentyfive years ,sd,MALE,1
+['have you? /'],have you ,bh,FEMALE,18
+"[""i'm from missouri,  /""]",im from missouri  ,sd,MALE,1
+"[""{c and } my wife's from kansas,  /""]",c and  my wifes from kansas  ,sd,MALE,1
+['{c so } --'],c so  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ i te-, + i teach ] at a college here.   /']",  i te  i teach  at a college here   ,+,MALE,0
+"[""{c so } [ it's, + {f uh, } it's ] sort of home now. /""]",c so   its  f uh  its  sort of home now ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d so, } -/']",d so  ,%,MALE,5
+['what college are you teaching at? /'],what college are you teaching at ,qw,FEMALE,12
+"[""i'm at, {f uh, } [ one of the brook-, + {f uh, } it's called brookhaven college. ]  /""]",im at f uh   one of the brook  f uh  its called brookhaven college   ,sd,MALE,1
+"[""it's one of the community colleges. /""]",its one of the community colleges ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"[""{c and } it's just about two miles to the west of --""]",c and  its just about two miles to the west of ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- where i'm living.   /""]", where im living   ,+,MALE,0
+"[""{c so } it's very nice,""]",c so  its very nice,sd,MALE,1
+['# the only one i know # --'], the only one i know  ,sd,FEMALE,1
+['# very convenient.  # /'], very convenient   ,+,MALE,0
+['-- is richardson <laughter>. /'], is richardson laughter ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"['{d now } richland college [ is out, + ] it serves richardson and, {f uh, } garland. /']",d now  richland college  is out   it serves richardson and f uh  garland ,sd,MALE,1
+"['garland,  /']",garland  ,b^m,FEMALE,24
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } that's about nine miles to the east --""]",c and  thats about nine miles to the east ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- of here.   /'], of here   ,+,MALE,0
+"[""{c so, } {f uh, } {d anyway, } {d well, } it's good to hear from you. /""]",c so  f uh  d anyway  d well  its good to hear from you ,fc,MALE,10
+['{d well } i enjoyed --'],d well  i enjoyed ,fc,FEMALE,10
+"['{c and } i [ hope we, +']",c and  i  hope we ,fc,MALE,10
+['-- # talking to you.  # /'],  talking to you   ,+,FEMALE,0
+['# hope we ] did them # some --'], hope we  did them  some ,+,MALE,0
+['i hope so <laughter>. /'],i hope so laughter ,fc,FEMALE,10
+"['-- good, {f uh, } on their little computer --']", good f uh  on their little computer ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+['-- dealy.  /'], dealy  ,+,MALE,0
+"['{c and, }  {f uh, } have a good life, the rest of it. /']",c and   f uh  have a good life the rest of it ,fc,MALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+"['thank you,  /']",thank you  ,fc,FEMALE,10
+['same to you. /'],same to you ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

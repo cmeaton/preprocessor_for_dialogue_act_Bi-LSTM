@@ -1,0 +1,171 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['what are your suggestions in making a family reunion successful <laughter>. /'],what are your suggestions in making a family reunion successful laughter ,qw,FEMALE,12
+"['<laughter>  have a big family, i guess,  /']",laughter  have a big family i guess  ,sv,FEMALE,3
+"[""that's a start. /""]",thats a start ,sv,FEMALE,3
+['{d well } i guess so. /'],d well  i guess so ,aa,FEMALE,4
+['# <laughter>.  #'], laughter  ,x,FEMALE,8
+"['# [ have # you had any in the la-, + ha-, ] - /']",  have  you had any in the la  ha   ,qy,FEMALE,7
+['{d well } how old are you? /'],d well  how old are you ,qw,FEMALE,12
+"['twenty-five,   /']",twentyfive   ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['# okay  /'], okay  ,bk,FEMALE,14
+"['{c so } [ you ha-, # +']",c so   you ha  ,qy^d,FEMALE,16
+['# i just got married.  # /'], i just got married   ,sd,FEMALE,1
+"['you have ] been to some family reunions, perhaps. /']",you have  been to some family reunions perhaps ,+,FEMALE,0
+"['right,  /']",right  ,na,FEMALE,21
+"['every four years on one side of my family they plan on having, {f uh, } {d like } my [ p-, + grandparents ] and all their brothers and sisters and then all their kids and grandkids. /']",every four years on one side of my family they plan on having f uh  d like  my  p  grandparents  and all their brothers and sisters and then all their kids and grandkids ,sd,FEMALE,1
+"['{d now } how long in advance do they, {f uh, } let them know? /']",d now  how long in advance do they f uh  let them know ,qw,FEMALE,12
+"['{d well, } we plan on it,  /']",d well  we plan on it  ,arp_nd,FEMALE,34
+"[""it's {d like } the third weekend in august, /""]",its d like  the third weekend in august ,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,bk,FEMALE,14
+"[""# {c so } # it's every four years  /""]", c so   its every four years  ,sd,FEMALE,1
+"['{c and so, } -/']",c and so  ,%,FEMALE,5
+['{c so } they all know it. /'],c so  they all know it ,bf,FEMALE,20
+['yeah  /'],yeah  ,aa,FEMALE,4
+"[""{c and then, } {d you know, } arrangements are made {d like } during the summer for {d you know, } {f um, } food and [ who's, + who's ] staying where, because a lot of people  [ fro-, + are from ] down here, in texas. /""]",c and then  d you know  arrangements are made d like  during the summer for d you know  f um  food and  whos  whos  staying where because a lot of people   fro  are from  down here in texas ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, }  {f uh, } a lot of my family is in indiana.  /']",c and   f uh  a lot of my family is in indiana  ,sd,FEMALE,1
+"[""that's where i'm originally from. /""]",thats where im originally from ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"[""{c so, } {f um, } we usually meet {d like } at my uncle's cottage [ in the, + {f um, } at the ] lake and, {f uh, } make a couple days of it. /""]",c so  f um  we usually meet d like  at my uncles cottage  in the  f um  at the  lake and f uh  make a couple days of it ,sd,FEMALE,1
+"['{d well } that sounds like fun,  /']",d well  that sounds like fun  ,ba,FEMALE,6
+"['do they all have the small children too, that come? /']",do they all have the small children too that come ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['pretty much. /'],pretty much ,sd,FEMALE,1
+['{c so } all ages. /'],c so  all ages ,qy^d,FEMALE,16
+['yeah  /'],yeah  ,ny,FEMALE,9
+"[""{c and, }  {f uh, } <throat_clearing> {d you know, } there's some my age  /""]",c and   f uh  throatclearing d you know  theres some my age  ,sd,FEMALE,1
+"['{c and then } there are some a lot younger, [ an, + ] about four generations, i guess. /']",c and then  there are some a lot younger  an   about four generations i guess ,sd,FEMALE,1
+"['{d well } my husband [ has, + {f uh, } on one side has ] an extended family, /']",d well  my husband  has  f uh  on one side has  an extended family ,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"[""# {c and } # they don't ever plan it [ [ li-, + as, ] + like ] you do. /""]", c and   they dont ever plan it   li  as   like  you do ,sd,FEMALE,1
+['# uh-huh <breathing>.  # /'], uhhuh breathing   ,b,FEMALE,2
+['# i think # if you can count on it every four years then people have it in mind  /'], i think  if you can count on it every four years then people have it in mind  ,sv,FEMALE,3
+"['{c so } they have to start talking about it, or getting their act together about six months ahead to get in touch with everybody,']",c so  they have to start talking about it or getting their act together about six months ahead to get in touch with everybody,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"[""# because # they're rather socially active too. /""]", because  theyre rather socially active too ,+,FEMALE,0
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"['# {c and # so } [ it has, + it seems ] by doing it about six months ahead, they can pretty much get everybody there.  /']", c and  so   it has  it seems  by doing it about six months ahead they can pretty much get everybody there  ,sd,FEMALE,1
+"[""if they don't, {d you know, } they'll say, {f oh } we're planning to [ go + [ so and so that, + ] go  ] [ to, + to  ] a certain place that weekend with somebody else  /""]",if they dont d you know  theyll say f oh  were planning to  go   so and so that   go    to  to   a certain place that weekend with somebody else  ,sd,FEMALE,1
+"[""{c and } we're already locked in  /""]",c and  were already locked in  ,^q,FEMALE,19
+['{c but } six months ahead has seemed to be okay for them. /'],c but  six months ahead has seemed to be okay for them ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ my family, + {f uh, } my parents ] are the youngest of very large families. /']", my family  f uh  my parents  are the youngest of very large families ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""therefore, they don't have many people left. /""]",therefore they dont have many people left ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and, }  {f uh, } the few previous ones i've had, {f uh, } - /""]",c and   f uh  the few previous ones ive had f uh   ,sd,FEMALE,1
+"[""i haven't known many of those people,  /""]",i havent known many of those people  ,sd,FEMALE,1
+"['{c but, }  {f uh, } in the last few years it really has just been our immediate family  /']",c but   f uh  in the last few years it really has just been our immediate family  ,sd,FEMALE,1
+"[""{c and } that's been very nice,  /""]",c and  thats been very nice  ,sd,FEMALE,1
+"['with, {f uh, } - /']",with f uh   ,%,FEMALE,5
+"['i have one sister,']",i have one sister,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+['# and # three brothers  /'], and  three brothers  ,+,FEMALE,0
+"[""{c and } they're only three out of five of us who have children. /""]",c and  theyre only three out of five of us who have children ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c so, } {f uh, } we get to spend a lot of quality time with each other. /']",c so  f uh  we get to spend a lot of quality time with each other ,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"[""# {c and } # that's kind of nice because my husband's family reunions are so  large, /""]", c and   thats kind of nice because my husbands family reunions are so  large ,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"[""# {c and } # they don't see each other very often,  /""]", c and   they dont see each other very often  ,sd,FEMALE,1
+"[""we don't really know many of them. /""]",we dont really know many of them ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""that's kind of bad. /""]",thats kind of bad ,ba,FEMALE,6
+"['it really is,  /']",it really is  ,aa,FEMALE,4
+"[""they're fun,  /""]",theyre fun  ,sd,FEMALE,1
+"[""they're a lot of fun, /""]",theyre a lot of fun ,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"[""# {c but, }  # {f uh, } still, {f uh, } they're not done on a regular basis  /""]", c but    f uh  still f uh  theyre not done on a regular basis  ,sd,FEMALE,1
+"['{c and, }  {f uh, } you kind of forget what happened, <laughter>  and who they were from the time before. /']",c and   f uh  you kind of forget what happened laughter  and who they were from the time before ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""[ it's, + it's ] fun getting together with immediate family.  /""]", its  its  fun getting together with immediate family  ,sv,FEMALE,3
+['a lot of my cousins are real close  /'],a lot of my cousins are real close  ,sd,FEMALE,1
+"['{c and } we always get together during holidays and weddings and stuff like that,  /']",c and  we always get together during holidays and weddings and stuff like that  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['{f uh, } those are the ones that are in texas? /']",f uh  those are the ones that are in texas ,qy,FEMALE,7
+"['# {f uh, } no, # /']", f uh  no  ,nn,FEMALE,13
+['# {c or } you # go to indiana on that? /'], c or  you  go to indiana on that ,qrr,FEMALE,33
+"['the ones in indiana,  /']",the ones in indiana  ,na,FEMALE,21
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['uh-huh,  /']",uhhuh  ,b^m,FEMALE,24
+['where in indiana? /'],where in indiana ,qw,FEMALE,12
+['lafayette. /'],lafayette ,sd,FEMALE,1
+"[""lafayette,  i don't know where,  /""]",lafayette  i dont know where  ,qw^d,FEMALE,41
+['i used to live in indianapolis. /'],i used to live in indianapolis ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""it's a little north of indianapolis, about an hour. /""]",its a little north of indianapolis about an hour ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""it's very pretty country in there i think,  /""]",its very pretty country in there i think  ,sv,FEMALE,3
+"[""it's gorgeous. /""]",its gorgeous ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['{d well } i, - /']",d well  i  ,%,FEMALE,5
+"['{f uh, } when is your next one, {f uh, } scheduled now. /']",f uh  when is your next one f uh  scheduled now ,qw,FEMALE,12
+"[""<laughter> {d well } it's like, the last one was my high school graduation  /""]",laughter d well  its like the last one was my high school graduation  ,sd,FEMALE,1
+"['the next one was when i graduated from college,  /']",the next one was when i graduated from college  ,sd,FEMALE,1
+['{c so } i guess about two more years. /'],c so  i guess about two more years ,sd,FEMALE,1
+"['yes, {d well, }  /']",yes d well   ,b,FEMALE,2
+"[""{c and } do you think you'll have a baby to take back with you <laughter>. /""]",c and  do you think youll have a baby to take back with you laughter ,qy,FEMALE,7
+"['<laughter>  {f uh, } maybe,  /']",laughter  f uh  maybe  ,no,FEMALE,31
+"[""i don't know, /""]",i dont know ,no,FEMALE,31
+['# maybe <laughter>.  # /'], maybe laughter   ,b^m,FEMALE,24
+"['# two more # years,  /']", two more  years  ,sd,FEMALE,1
+"[""i don't know,  /""]",i dont know  ,no,FEMALE,31
+['probably. /'],probably ,na,FEMALE,21
+"['{e i mean } you need another milestone, {d you know. } /']",e i mean  you need another milestone d you know  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""i guess [ that's, + that's ] what, - /""]",i guess  thats  thats  what  ,%,FEMALE,5
+"[""{e i mean } i've been married now for about nine months  /""]",e i mean  ive been married now for about nine months  ,sd,FEMALE,1
+"['{c so } that was another milestone, i guess <throat_clearing>. /']",c so  that was another milestone i guess throatclearing ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+"[""{d well } i'm sure,  /""]",d well  im sure  ,aa,FEMALE,4
+"['{c and } [ ha-, + then all of your family probably has ] not met your husband. /']",c and   ha  then all of your family probably has  not met your husband ,qy^d,FEMALE,16
+"['{f um, } yeah,  /']",f um  yeah  ,b,FEMALE,2
+"[""he's from indiana, /""]",hes from indiana ,^h,FEMALE,27
+"['# {f oh, } is he?  # /']", f oh  is he   ,bh,FEMALE,18
+"['# {c so } they all # met,  /']", c so  they all  met  ,sd,FEMALE,1
+['yeah. /'],yeah ,%,FEMALE,5
+"[""[ {c and, } + {c and } ] [ he's living, + your both living ] in sherman. /""]", c and   c and    hes living  your both living  in sherman ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,FEMALE,9
+['do you work to t i? /'],do you work to t i ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['uh-huh,  /']",uhhuh  ,b^m,FEMALE,24
+['{c and } does he? /'],c and  does he ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""he's trying to get in med school,  /""]",hes trying to get in med school  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""{d well, } we don't either,  /""]",d well  we dont either  ,sd,FEMALE,1
+"['{c but, }  {f uh, } i have a friend who, {f uh, } is working on this project. /']",c but   f uh  i have a friend who f uh  is working on this project ,sd,FEMALE,1
+"['{f oh, } really. /']",f oh  really ,bh,FEMALE,18
+"['yes,  /']",yes  ,ny,FEMALE,9
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['are they getting all the data they need? /'],are they getting all the data they need ,qy,FEMALE,7
+"[""{d well, } i don't know, {f uh, }  /""]",d well  i dont know f uh   ,no,FEMALE,31
+"['[ i, + i ] have a hard time getting, {f uh, } people on the telephone. /']", i  i  have a hard time getting f uh  people on the telephone ,sd,FEMALE,1
+['{f oh } really. /'],f oh  really ,bh,FEMALE,18
+"['{d uh-huh, }  getting through to anybody.  /']",d uhhuh   getting through to anybody  ,sd,FEMALE,1
+"['sometimes i call off and on all day, /']",sometimes i call off and on all day ,sd,FEMALE,1
+['# {f huh. }  # /'], f huh    ,b,FEMALE,2
+"[""# {c but } # anyway, {f uh, } i guess we're supposed to be talking about family reunions aren't we <laughter>. /""]", c but   anyway f uh  i guess were supposed to be talking about family reunions arent we laughter ,qy,FEMALE,7
+['<laughter>.'],laughter,x,FEMALE,8
+['{c but } i got off that. /'],c but  i got off that ,sd,FEMALE,1
+"[""<laughter>  {d well } we've kind of exhausted everything i guess. /""]",laughter  d well  weve kind of exhausted everything i guess ,fc,FEMALE,10
+"['yes,  /']",yes  ,fc,FEMALE,10
+"['{d well, } {f um, } i think we have been talking probably about four and a half minutes. /']",d well  f um  i think we have been talking probably about four and a half minutes ,fc,FEMALE,10
+"['{f oh, } okay. /']",f oh  okay ,fc,FEMALE,10
+"[""{c and, }  {f uh, } {f uh, } we both look forward to going to our next reunions, i'm sure. /""]",c and   f uh  f uh  we both look forward to going to our next reunions im sure ,fc,FEMALE,10
+['{f oh } yeah. /'],f oh  yeah ,fc,FEMALE,10
+['<laughter> {c but } it has been fun talking to you. /'],laughter c but  it has been fun talking to you ,fc,FEMALE,10
+['{d well } you too. /'],d well  you too ,fc,FEMALE,10
+['thank you. /'],thank you ,fc,FEMALE,10
+"[""{c and } maybe i'll talk to you again. /""]",c and  maybe ill talk to you again ,fc,FEMALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+['good. /'],good ,fc,FEMALE,10
+"['# okay,  /']", okay  ,fc,FEMALE,10
+['bye-bye. # /'],byebye  ,fc,FEMALE,10
+['# bye-bye. # /'], byebye  ,fc,FEMALE,10

@@ -1,0 +1,297 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+['{d so } you watch david letterman? /'],d so  you watch david letterman ,qy,MALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{d well, } {d see } our favorite t v show, - /']",d well  d see  our favorite t v show  ,sd,MALE,1
+"['[ [ i, + i, ] + i ] live in a dorm -- /']",  i  i   i  live in a dorm  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } our favorite t v show is cheers. /'], c and  our favorite t v show is cheers ,sd,MALE,1
+"['{f oh, } really,  /']",f oh  really  ,b,FEMALE,2
+['yeah  /'],yeah  ,b,FEMALE,2
+"[""that's pretty awesome, too.  /""]",thats pretty awesome too  ,ba,FEMALE,6
+['i watch it every now and  then. /'],i watch it every now and  then ,sd,FEMALE,1
+"['okay, /']",okay ,b,MALE,2
+"[""that's hilarious. /""]",thats hilarious ,ba,FEMALE,6
+"['{d well, } we try, - /']",d well  we try  ,%,MALE,5
+"['{d like } here they show it, {d like, } every day. /']",d like  here they show it d like  every day ,sd,MALE,1
+"['{f oh, } serious <laughter>. /']",f oh  serious laughter ,b,FEMALE,2
+"['{c and then, } {d like, } on thursdays is the night where the new ones come on. /']",c and then  d like  on thursdays is the night where the new ones come on ,sd,MALE,1
+"[""{f oh, } that's cool. /""]",f oh  thats cool ,ba,FEMALE,6
+['{c but } we watch it {d like } every day.  /'],c but  we watch it d like  every day  ,sd,MALE,1
+"[""{c but } [ i, + {d like, } late night, we ] don't watch,  {f uh, }  /""]",c but   i  d like  late night we  dont watch  f uh   ,sd,MALE,1
+"['what we do is, we stay up till around one thirty, /']",what we do is we stay up till around one thirty ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and then } they show the twilight zone at one thirty, /']",c and then  they show the twilight zone at one thirty ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['{c and so } we just stay and watch that. /'],c and so  we just stay and watch that ,sd,MALE,1
+"['twilight zone rules, man. /']",twilight zone rules man ,sv,FEMALE,3
+['the what? /'],the what ,br,MALE,30
+['twilight zone rules. /'],twilight zone rules ,sv,FEMALE,3
+"['yeah, /']",yeah ,b,MALE,2
+"[""that's all. /""]",thats all ,sd,FEMALE,1
+"['[ i used, + i used ] to live in the house that the guy owned. /']", i used  i used  to live in the house that the guy owned ,sd,MALE,1
+['are you serious? /'],are you serious ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['[ [ it was really, + it was really, ] + {f oh, } {d well, } it was all ] full with, {f uh, } shelves everywhere  /']",  it was really  it was really   f oh  d well  it was all  full with f uh  shelves everywhere  ,sd,MALE,1
+"[""{c and } we didn't have enough books to fill it up  /""]",c and  we didnt have enough books to fill it up  ,sd,MALE,1
+"['[ [ {c but, } +']",  c but  ,qw,MALE,12
+"[""<laughter> that's psychedelic. /""]",laughter thats psychedelic ,ba,FEMALE,6
+"['{c but, } ] + {f uh, } {d so } ] [ [ what, + what ] do you like, + why do you like ] david letterman? /']",c but    f uh  d so     what  what  do you like  why do you like  david letterman ,+,MALE,0
+"['{f oh, } he just, {d like, } totally sarcastic and hilarious  /']",f oh  he just d like  totally sarcastic and hilarious  ,sv,FEMALE,3
+"[""{c and, } i don't know,  /""]",c and  i dont know  ,h,FEMALE,15
+"[""i'm a lot like him in a way,  /""]",im a lot like him in a way  ,sd,FEMALE,1
+['[ {c so } -- +'], c so   ,sd,FEMALE,1
+"['{c so } the, -/']",c so  the ,%,MALE,5
+"[""-- {c and } ] he's got curly hair  /""]", c and   hes got curly hair  ,+,FEMALE,0
+['{c and } so do i  /'],c and  so do i  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['{f oh, } do you watch saturday night live?  /']",f oh  do you watch saturday night live  ,qy,MALE,7
+['what?  /'],what  ,qw,MALE,12
+"[""he's got what? /""]",hes got what ,br,MALE,30
+['curly hair  /'],curly hair  ,sd,FEMALE,1
+"['{c and } so do i,  /']",c and  so do i  ,sd,FEMALE,1
+['{c so } hey <laughter>. /'],c so  hey laughter ,ba,FEMALE,6
+"['hey i got long hair,  /']",hey i got long hair  ,sd,MALE,1
+"['wait,  /']",wait  ,ad,MALE,22
+['wait <breathing>. /'],wait breathing ,ad,MALE,22
+"['cool,  /']",cool  ,ba,FEMALE,6
+['how long is it? /'],how long is it ,qw,FEMALE,12
+"[""{f uh, } i don't know,  /""]",f uh  i dont know  ,no,MALE,31
+"['{c but } people, - /']",c but  people  ,%,MALE,5
+['the other day i went into a bar  /'],the other day i went into a bar  ,sd,MALE,1
+['{c and } this guy asked me to dance. /'],c and  this guy asked me to dance ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['all he saw was my hair  /'],all he saw was my hair  ,sd,MALE,1
+"['{c and } he goes, do you want to dance.  /']",c and  he goes do you want to dance  ,sd,MALE,1
+"['i turn around and go, what! /']",i turn around and go what ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['he goes do you want to dance.  /'],he goes do you want to dance  ,sd,MALE,1
+"['i go no,  /']",i go no  ,sd,MALE,1
+"['no,  /']",no  ,^q,MALE,19
+"[""he goes {f oh, } {f oh, } i'm sorry.  /""]",he goes f oh  f oh  im sorry  ,sd,MALE,1
+"['i go, yeah,  /']",i go yeah  ,sd,MALE,1
+['you better be.  /'],you better be  ,^q,MALE,19
+"['i go,']",i go,sd,MALE,1
+"[""that's hilarious. /""]",thats hilarious ,ba,FEMALE,6
+['you better be  /'],you better be  ,+,MALE,0
+"['[ [ {c so, } +']",  c so  ,%,MALE,5
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c but, } okay, ] + {c so } ]  [ d-, + ] wait  /']",c but  okay   c so     d   wait  ,+,MALE,0
+['do you watch saturday night live yesterday? /'],do you watch saturday night live yesterday ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['it, - /']",it  ,%,FEMALE,5
+"['with the, {f uh, } - /']",with the f uh   ,%,FEMALE,5
+"['who was on, the music people,  /']",who was on the music people  ,qw,FEMALE,12
+"[""wasn't that fishbone. /""]",wasnt that fishbone ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['yeah  /'],yeah  ,b^m,FEMALE,24
+"['i saw that,  /']",i saw that  ,sd,FEMALE,1
+['it was awesome.  /'],it was awesome  ,sv,FEMALE,3
+"[""{c but } i didn't see the rest of it. /""]",c but  i didnt see the rest of it ,sd,FEMALE,1
+"['no,  /']",no  ,b,MALE,2
+"[""{f oh, } you missed wayne's world. /""]",f oh  you missed waynes world ,sd,MALE,1
+['are you serious? /'],are you serious ,bh,FEMALE,18
+"[""wayne's world was pretty cool. /""]",waynes world was pretty cool ,sv,MALE,3
+"[""they're awesome. /""]",theyre awesome ,aa,FEMALE,4
+"[""{d so, } {f uh, } let's see,  /""]",d so  f uh  lets see  ,^h,MALE,27
+['what else.  /'],what else  ,^h,MALE,27
+"['{f uh, } {d see, } {d like, } [ all we do here is, + {d like, } every time we ] walk in the room we turn on the t v --']",f uh  d see  d like   all we do here is  d like  every time we  walk in the room we turn on the t v ,sd,MALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+"[""-- because we don't want to do anything like study or anything, /""]", because we dont want to do anything like study or anything ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['that sucks. /'],that sucks ,ba,FEMALE,6
+"['{c so } [ all the, + all we ] do is turn, - /']",c so   all the  all we  do is turn  ,sd,MALE,1
+"['{d like, } {d like, } when i was in high school i used to do, {d like, } my homework in front of the t v set,']",d like  d like  when i was in high school i used to do d like  my homework in front of the t v set,sd,MALE,1
+['really? /'],really ,bh,FEMALE,18
+['{d you know. } /'],d you know  ,+,MALE,0
+"['{f uh, } kind of annoying  /']",f uh  kind of annoying  ,sv,FEMALE,3
+"[""{c but } that's cool. /""]",c but  thats cool ,ba,FEMALE,6
+['what? /'],what ,br,MALE,30
+"['kind of annoying [ to, + {d like, } in front of t v, {d like } trying to ] do homework, {d you know. } /']",kind of annoying  to  d like  in front of t v d like  trying to  do homework d you know  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['trying to write an essay, you start talking about, {d you know, } <laughter> {d like, } in living color or something,  /']",trying to write an essay you start talking about d you know  laughter d like  in living color or something  ,sv,FEMALE,3
+"[""i don't know. /""]",i dont know ,h,FEMALE,15
+"['{d well, }  [ [ i + {d like, } i, ] + [ i just, + i just ] ] bogused on all my homework  /']",d well     i  d like  i    i just  i just   bogused on all my homework  ,sd,MALE,1
+"[""{c so } it really didn't matter <laughter>. /""]",c so  it really didnt matter laughter ,sd,MALE,1
+"['cool,  /']",cool  ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,%,FEMALE,5
+['b s  /'],b s  ,sv,FEMALE,3
+"[""that's the way to do it. /""]",thats the way to do it ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['i know,  /']",i know  ,aa,MALE,4
+['{c and } i did that all through college  /'],c and  i did that all through college  ,sd,MALE,1
+['{c and } it worked <laughter>. /'],c and  it worked laughter ,sd,MALE,1
+"['cool,  /']",cool  ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,%,FEMALE,5
+['works for me. /'],works for me ,sd,FEMALE,1
+"[""{d so, } {f uh, } let's see,  /""]",d so  f uh  lets see  ,^h,MALE,27
+['what else.  /'],what else  ,^h,MALE,27
+"[""{d like, } the news we don't watch,""]",d like  the news we dont watch,sv,MALE,3
+"['no,  /']",no  ,aa,FEMALE,4
+"['unless, -/']",unless ,%,FEMALE,5
+"[""because they're boring. /""]",because theyre boring ,+,MALE,0
+"['i watched through the war, {d you know, }  /']",i watched through the war d you know   ,sd,FEMALE,1
+"[""there's only one. /""]",theres only one ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['especially the war,  /']",especially the war  ,sd,MALE,1
+"[""{e i mean } it was like, [ i, + haven't i ] seen this episode before, {d you know. } /""]",e i mean  it was like  i  havent i  seen this episode before d you know  ,sd,MALE,1
+"['i know,  /']",i know  ,aa,FEMALE,4
+"[""i guess they think that people don't watch t v,  /""]",i guess they think that people dont watch t v  ,sv,FEMALE,3
+"['{c but } {e i mean } if you watch it for, {d like, } five minutes, then it repeats everything over and over and  over. /']",c but  e i mean  if you watch it for d like  five minutes then it repeats everything over and over and  over ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['i know. /'],i know ,aa,MALE,4
+"[""it's, like, {f oh, } man. /""]",its like f oh  man ,sv,FEMALE,3
+"['[ {c and, } + {c and } ] in north c-, - /']", c and   c and   in north c  ,%,MALE,5
+"['{d see } [ the, + the ] thing is, {d like } here [ they just, + they just ] give you {d like } local news, okay. /']",d see   the  the  thing is d like  here  they just  they just  give you d like  local news okay ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d like, } a house burned down in this little town. /']",d like  a house burned down in this little town ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c and } were here,  /']",c and  were here  ,sd,MALE,1
+"['{c and } i go, {d so } what happened worldwide, {d you know. } /']",c and  i go d so  what happened worldwide d you know  ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""it's like, {d you know, } even though two hundred and fifty thousand people died somewhere else, they're not going to tell you, {d you know, } /""]",its like d you know  even though two hundred and fifty thousand people died somewhere else theyre not going to tell you d you know  ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""they're going to spend more time on doing [ a, + a ] thing [ on a, + on a ] cross guard who's a hundred and five years old,""]",theyre going to spend more time on doing  a  a  thing  on a  on a  cross guard whos a hundred and five years old,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['than they are on anything else, {d you know. } /']",than they are on anything else d you know  ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""[ {d so, } + {c but, } ] {f uh, } let's see,  /""]", d so   c but   f uh  lets see  ,^h,MALE,27
+['what else.  /'],what else  ,^h,MALE,27
+"['{f oh, } we watch, {d like } for example, {f uh, } - /']",f oh  we watch d like  for example f uh   ,sd,MALE,1
+"['okay,  /']",okay  ,%,MALE,5
+['do you watch star trek? /'],do you watch star trek ,qy,MALE,7
+"[""{f uh, } i haven't seen it in years,  /""]",f uh  i havent seen it in years  ,ng,FEMALE,29
+['{c but } i used to. /'],c but  i used to ,sd,FEMALE,1
+"['okay,  /']",okay  ,bk,MALE,14
+['{d well } i used to hate star trek. /'],d well  i used to hate star trek ,sv,MALE,3
+['yeah? /'],yeah ,bh,FEMALE,18
+"['[ i thought, + i thought, ] - /']", i thought  i thought   ,%,MALE,5
+"['{d like, } [ when it, + {d like, } when i ] was, {d like, } in high school  and junior high school, i used to hate it -- /']",d like   when it  d like  when i  was d like  in high school  and junior high school i used to hate it  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c but } then we started watching it. /'], c but  then we started watching it ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['[ {c and, } + {c and, } ] {d like, } the new ones are pretty cool [ because, +']", c and   c and   d like  the new ones are pretty cool  because ,sd,MALE,1
+['really? /'],really ,bh,FEMALE,18
+"['because ] they got {d like, } {f uh, } {d like } [ special, + {d like } especially ] things, that, {d like, } fuck with your mind. /']",because  they got d like  f uh  d like   special  d like  especially  things that d like  fuck with your mind ,+,MALE,0
+"['{f oh, } really,  /']",f oh  really  ,b,FEMALE,2
+"[""that's cool. /""]",thats cool ,ba,FEMALE,6
+"['{c because } what happened is, {d like } they have this hologram right,']",c because  what happened is d like  they have this hologram right,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['where you walk in  /'],where you walk in  ,+,MALE,0
+['{c and } you can program  /'],c and  you can program  ,sd,MALE,1
+['{c and } everything looks real  /'],c and  everything looks real  ,sd,MALE,1
+['{c and } you can touch everything and stuff. /'],c and  you can touch everything and stuff ,sd,MALE,1
+['are you serious?  /'],are you serious  ,bh,FEMALE,18
+"['{f oh, } man. /']",f oh  man ,ba,FEMALE,6
+"[""{c but } it's only a program  /""]",c but  its only a program  ,sd,MALE,1
+"[""{c and } it's really great because sometimes [ it's + {d like } the hologram makes up ] all these things  /""]",c and  its really great because sometimes  its  d like  the hologram makes up  all these things  ,sd,MALE,1
+"[""{c and, } {f uh, } {e i mean } [ sometimes it, + sometimes it's ] funny,  /""]",c and  f uh  e i mean   sometimes it  sometimes its  funny  ,sd,MALE,1
+"[""sometimes it's not,  /""]",sometimes its not  ,sd,MALE,1
+"['{c but, } {f uh, } {d you know, }']",c but  f uh  d you know ,sd,MALE,1
+"[""that's cool. /""]",thats cool ,ba,FEMALE,6
+"[""it's something to pass the time,""]",its something to pass the time,+,MALE,0
+['sound like ((   )) . -/'],sound like      ,%,FEMALE,5
+['till we do - /'],till we do  ,+,MALE,0
+"['[ {c and then, } + {c and then } ] we watch football. /']", c and then   c and then   we watch football ,sd,MALE,1
+"['{f uh, } yeah,  /']",f uh  yeah  ,b,FEMALE,2
+"[""basketball's cool,  /""]",basketballs cool  ,sv,FEMALE,3
+"['{c but } football kind of after a while, -/']",c but  football kind of after a while ,sv,FEMALE,3
+['which basketball? /'],which basketball ,qw,MALE,12
+['which basketball? /'],which basketball ,qw,FEMALE,12
+"['college or, -/']",college or ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['i kind of like college better,  /']",i kind of like college better  ,sd,FEMALE,1
+"[""it's more spirited  ((   )) . /""]",its more spirited       ,sv,FEMALE,3
+"['[ we got, + we got ] two teams of the a c c going there. /']", we got  we got  two teams of the a c c going there ,sd,MALE,1
+"['{f oh, } yeah? /']",f oh  yeah ,bh,FEMALE,18
+['we got duke and north carolina. /'],we got duke and north carolina ,sd,MALE,1
+['cool. /'],cool ,ba,FEMALE,6
+"[""{c but, } [ {e i mean } the, + {e i mean } there's ] nothing to do,  /""]",c but   e i mean  the  e i mean  theres  nothing to do  ,sd,MALE,1
+['{d like } for example yesterday --'],d like  for example yesterday ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } [ they go, + [ s-, + some ] girl goes, ] do you  (( dares ))  want to go to a picnic, right.  /']", f uh   they go   s  some  girl goes  do you   dares   want to go to a picnic right  ,+,MALE,0
+"['i hear no,  / *[[looks mistranscribed]]']",i hear no   looks mistranscribed,sd,MALE,1
+"[""[ we're just, + {d you know, } it's like we just ] woke up, /""]", were just  d you know  its like we just  woke up ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['we had a hangover and everything, {d you know. }  /']",we had a hangover and everything d you know   ,sd,MALE,1
+['{c and so } we just woke up  /'],c and so  we just woke up  ,sd,MALE,1
+"[""{c and, } {f uh, } we're watching t v,  /""]",c and  f uh  were watching t v  ,sd,MALE,1
+"['{c and } i go, no,  /']",c and  i go no  ,sd,MALE,1
+"[""today we're just going to dedicate (( ourself ))  to watching golf --""]",today were just going to dedicate  ourself   to watching golf ,^q,MALE,19
+"['<laughter> golf,  /']",laughter golf  ,b,FEMALE,2
+['yay. /'],yay ,b,FEMALE,2
+"['-- and bowling, {d you know, }  /']", and bowling d you know   ,+,MALE,0
+"['{c and } [ everybody, + it ] was, like, {f oh, } god, do you guys really watch that? /']",c and   everybody  it  was like f oh  god do you guys really watch that ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['no,  /']",no  ,b,MALE,2
+"['{d you know, } i was, - /']",d you know  i was  ,%,MALE,5
+"[""{d like, } a whole golf tournament, it's, - /""]",d like  a whole golf tournament its  ,%,MALE,5
+"['{d like, } for example, baseball,  /']",d like  for example baseball  ,%,MALE,5
+"['i hate baseball,  /']",i hate baseball  ,sd,MALE,1
+"['{e i mean, }']",e i mean ,sd,MALE,1
+"['{f oh, } me, too. /']",f oh  me too ,sd,FEMALE,1
+"['somebody told me, {d like, } that, {d like, } you can watch baseball,  /']",somebody told me d like  that d like  you can watch baseball  ,+,MALE,0
+['{c and } the actual play time that there is --'],c and  the actual play time that there is ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- is five minutes. /'], is five minutes ,+,MALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c because } [ by, + ] the play time is --']",c because   by   the play time is ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- [ when the person, + when the pitcher ] pitches the ball and it goes to the catcher or [ when the, + when the ] pitcher pitches and it's hit. /""]",  when the person  when the pitcher  pitches the ball and it goes to the catcher or  when the  when the  pitcher pitches and its hit ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['okay, /']",okay ,b,MALE,2
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"[""{c and } that's, {d like, } {d you know, } five seconds for the whole play -- /""]",c and  thats d like  d you know  five seconds for the whole play  ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"[""-- {c and } that's it.  /""]", c and  thats it  ,sv,MALE,3
+"['{e i mean, } maybe a home run could last a little bit longer because the guy has to run around all the bases, {d you know. }  /']",e i mean  maybe a home run could last a little bit longer because the guy has to run around all the bases d you know   ,sv,MALE,3
+"[""{c but } {e i mean, } it's, it's like that, - /""]",c but  e i mean  its its like that  ,%,MALE,5
+"[""{e i mean } [ it's was, + it's ] just, - /""]",e i mean   its was  its  just  ,%,MALE,5
+"[""{c but } when i went home that's all, {d like, } they had on t v -- /""]",c but  when i went home thats all d like  they had on t v  ,sd,MALE,1
+"['{f ooh, } really? /']",f ooh  really ,bh,FEMALE,18
+"['-- {c so } [ i tu-, + i watched ] entire games of baseball  /']", c so   i tu  i watched  entire games of baseball  ,sd,MALE,1
+"[""{c and } they're going {f oh, } my god.  /""]",c and  theyre going f oh  my god  ,sd,MALE,1
+"[""{c and } t v in argentina's really bad. /""]",c and  t v in argentinas really bad ,sd,MALE,1
+"['{f oh, } really.  /']",f oh  really  ,b,FEMALE,2
+"[""[ {d so, } + {d so } ] [ why + from argentina, why'd ] you come over here? /""]", d so   d so    why  from argentina whyd  you come over here ,qw,FEMALE,12
+"['{f uh, } because, {f uh, } i wanted to go to school here. /']",f uh  because f uh  i wanted to go to school here ,sd,MALE,1
+"[""{f oh, } that's cool. /""]",f oh  thats cool ,ba,FEMALE,6
+"['yeah, /']",yeah ,b,MALE,2
+['how long did you live there? /'],how long did you live there ,qw,FEMALE,12
+"['they have better computer science up here [ than they, + than they ] do down there. /']",they have better computer science up here  than they  than they  do down there ,sv,MALE,3
+['oh <<faint>>. /'],oh faint ,bk,FEMALE,14
+"['[ {c so, } + {c and } ] [ i also, + {f uh, } my father ] works for i b m, /']", c so   c and    i also  f uh  my father  works for i b m ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } we came up here,  /']",c and  we came up here  ,sd,MALE,1
+"['[ we, + {d well, } we ] came to the united states in nineteen [ seventy-six, +']", we  d well  we  came to the united states in nineteen  seventysix ,sd,MALE,1
+['{f uh. } /'],f uh  ,b,FEMALE,2
+['seventy-seven -- ]'],seventyseven  ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- {c and, } {f uh, } we lived here for about seven years  /']", c and  f uh  we lived here for about seven years  ,+,MALE,0
+['then we moved back. /'],then we moved back ,sd,MALE,1
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"[""{c and so } then i said, i'm going to move back up there to go to college. /""]",c and so  then i said im going to move back up there to go to college ,sd,MALE,1
+"[""<laughter> that's cool. /""]",laughter thats cool ,ba,FEMALE,6
+"['he goes, okay.  /']",he goes okay  ,sd,MALE,1
+"['{c so } he goes, but do it fast,  /']",c so  he goes but do it fast  ,sd,MALE,1
+['{c so } i did my undergraduate in two years. /'],c so  i did my undergraduate in two years ,sd,MALE,1
+"['{f oh, } really?  /']",f oh  really  ,bh,FEMALE,18
+['awesome. /'],awesome ,ba,FEMALE,6
+['yeah.  /'],yeah  ,ny,MALE,9
+"[""[ {c so, } + {c but } ] [ it's, a, + it's ] just, {d you know, }  /""]", c so   c but    its a  its  just d you know   ,%,MALE,5
+"[""{f oh, } {d well, } we've been talking for five minutes. /""]",f oh  d well  weve been talking for five minutes ,sd,MALE,1
+"[""that's cool. /""]",thats cool ,ba,FEMALE,6
+"[""that's the only obligation we have. /""]",thats the only obligation we have ,sd,MALE,1
+['groovy. /'],groovy ,ba,FEMALE,6
+"['{c and, } {f uh, } {d well, } tell your dad that now he owes you five bucks. /']",c and  f uh  d well  tell your dad that now he owes you five bucks ,ad,MALE,22
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['no doubt. /'],no doubt ,aa,FEMALE,4
+['okay. /'],okay ,fc,MALE,10
+['okay. /'],okay ,fc,FEMALE,10
+"['all right,  /']",all right  ,fc,MALE,10
+['nice talking to you. /'],nice talking to you ,fc,MALE,10
+"['yeah,  /']",yeah  ,fc,FEMALE,10
+"['you, too. /']",you too ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10
+['bye. /'],bye ,fc,FEMALE,10

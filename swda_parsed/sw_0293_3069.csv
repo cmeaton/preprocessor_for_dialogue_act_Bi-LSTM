@@ -1,0 +1,331 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['yeah.  /'],yeah  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['yes,  /']",yes  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['[ i talked with, + {f um, } i talked with ] people from richardson and  plano  /']", i talked with  f um  i talked with  people from richardson and  plano  ,sd,FEMALE,1
+"['{c and, }  {f uh, } the first three days, - /']",c and   f uh  the first three days  ,%,FEMALE,5
+"['{c and then } yesterday i talked with someone [ with, + ] from pennsylvania,  /']",c and then  yesterday i talked with someone  with   from pennsylvania  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+"['{c because, } # -/']",c because   ,%,FEMALE,5
+"[""# it's the, # -/""]", its the  ,%,FEMALE,5
+"[""i've only made, - /""]",ive only made  ,%,FEMALE,5
+['this is only my third call. /'],this is only my third call ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['[ i, + i ] tried to make calls two different days  /']", i  i  tried to make calls two different days  ,sd,FEMALE,1
+"[""{c and } i couldn't get through. /""]",c and  i couldnt get through ,sd,FEMALE,1
+"['{f oh, } i know.  /']",f oh  i know  ,aa,FEMALE,4
+['sometimes i just - /'],sometimes i just  ,%,FEMALE,5
+"[""i'm, in, - /""]",im in  ,%,FEMALE,5
+['it just takes a very long time  /'],it just takes a very long time  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['does it?  /'],does it  ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i've been trying to, {d you know, } do that,  /""]",ive been trying to d you know  do that  ,sd,FEMALE,1
+"[""[ {c and, } + {c and } ] sometimes i just can't wait that long, /""]", c and   c and   sometimes i just cant wait that long ,sd,FEMALE,1
+"['# yeah,  /']", yeah  ,aa,FEMALE,4
+['i know.  # /'],i know   ,aa,FEMALE,4
+['# {c so } i just # hang up.'], c so  i just  hang up,sd,FEMALE,1
+['{d well. } /'],d well  ,arp_nd,FEMALE,34
+['because it keeps going through the thing over and over again. /'],because it keeps going through the thing over and over again ,+,FEMALE,0
+['this is hilarious <laughter>. /'],this is hilarious laughter ,sv,FEMALE,3
+"['{c but } i knew as soon as i heard your voice,  /']",c but  i knew as soon as i heard your voice  ,sd,FEMALE,1
+"[""i thought, [ kathy's, + it's kathy ] (( kester ))  <laughter>. /""]",i thought  kathys  its kathy   kester   laughter ,sd,FEMALE,1
+"['</laughter> {f oh. }  {d well, } tell me, what books have you read lately? <laughter>. /']",laughter f oh   d well  tell me what books have you read lately laughter ,qw,FEMALE,12
+"[""{d well, } let's see,  /""]",d well  lets see  ,^h,FEMALE,27
+"[""[ i, + {f um, }  <lipsmack> {d gosh, } i  ] can't even think.  /""]", i  f um   lipsmack d gosh  i   cant even think  ,sd,FEMALE,1
+"[""i haven't read any,  /""]",i havent read any  ,sd,FEMALE,1
+"[""{c and } you're such a reader, i know that  /""]",c and  youre such a reader i know that  ,sd,FEMALE,1
+"['{c and } i, -/']",c and  i ,%,FEMALE,5
+"[""{d well, } i don't read all that much for enjoyment.  /""]",d well  i dont read all that much for enjoyment  ,sd,FEMALE,1
+"['{e i mean, } i read a lot for school,  /']",e i mean  i read a lot for school  ,sd,FEMALE,1
+"[""{c but } {d gee, } i just don't have much time for enjoyment reading <laughter>. /""]",c but  d gee  i just dont have much time for enjoyment reading laughter ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['[  the, + the ] last book i picked up was a book by judy bloom, /']",  the  the  last book i picked up was a book by judy bloom ,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"['# {c and } # [ it was, + {f um, } it was ] called, {f um, } smart women, i think.']", c and    it was  f um  it was  called f um  smart women i think,sd,FEMALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+"['{f um, } or something like that. /']",f um  or something like that ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } [  it was, + it was ] kind of, - /']",c and    it was  it was  kind of  ,%,FEMALE,5
+"[""i really didn't like it at all. /""]",i really didnt like it at all ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"['[ it was, + it was ] written back in the early eighties. /']", it was  it was  written back in the early eighties ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['{c and } it was all [ this, +  this, ] {f um, } divorced woman syndrome --']",c and  it was all  this   this  f um  divorced woman syndrome ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['-- of the, {f um, } - /']", of the f um   ,+,FEMALE,0
+"['it was almost like [ a, + a ] pre-aids scare kind of thing. /']",it was almost like  a  a  preaids scare kind of thing ,sd,FEMALE,1
+['interesting. /'],interesting ,ba,FEMALE,6
+"['it was really an interesting, - /']",it was really an interesting  ,aa,FEMALE,4
+"['{c because } [ i, + i ] right away looked at when it was copyrighted.']",c because   i  i  right away looked at when it was copyrighted,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['because i could tell by the theme [ of + ] almost when it was written. /'],because i could tell by the theme  of   almost when it was written ,+,FEMALE,0
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['yes,  /']",yes  ,aa,FEMALE,4
+['yeah. /'],yeah ,aa,FEMALE,4
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['and, {f um, } <lipsmack>  {d you know, } a lot of <laughter>  hanky-panky,']",and f um  lipsmack  d you know  a lot of laughter  hankypanky,+,FEMALE,0
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+['# going # on. /'], going  on ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['that kind of was, {f um, } kind of a pop psychology time for [ wh-, + when ] a lot of books like that were coming out, i think. /']",that kind of was f um  kind of a pop psychology time for  wh  when  a lot of books like that were coming out i think ,sv,FEMALE,3
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"[""{c and so } that makes real sense, that that's, {f um, } when it was written. /""]",c and so  that makes real sense that thats f um  when it was written ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{f um, } i [ haven't, + wasn't ] really aware that she had written anything for, {f um, } adults.  /""]",f um  i  havent  wasnt  really aware that she had written anything for f um  adults  ,sd,FEMALE,1
+"['i was always,']",i was always,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"['# just # more aware of her jer-, {d you know, } - /']", just  more aware of her jer d you know   ,+,FEMALE,0
+"['for her young people, her books. -/   *[[one utt?]]']",for her young people her books    one utt,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{c and } she's more famous for that, /""]",c and  shes more famous for that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } she has been writing for adults also, /']",c but  she has been writing for adults also ,sd,FEMALE,1
+"[""i'll be darned. /""]",ill be darned ,ba,FEMALE,6
+"[""{c and so } i thought {d hey, } i'll just try this, {d you know, }""]",c and so  i thought d hey  ill just try this d you know ,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+['# and # see what it was like.  /'], and  see what it was like  ,+,FEMALE,0
+"['it was very, {f um, } - /']",it was very f um   ,%,FEMALE,5
+['<lipsmack>  the style was very conversational. /'],lipsmack  the style was very conversational ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['<lipsmack> you would have lots of conversations between people --'],lipsmack you would have lots of conversations between people ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- rather than any description. /'], rather than any description ,+,FEMALE,0
+"['right,  /']",right  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['you know how that is,  /']",you know how that is  ,qh,FEMALE,26
+"['{c and } {f um, } -/']",c and  f um  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""i wonder if she's written anything really recently, if she's got anything  [ printed, +  in print. ] /""]",i wonder if shes written anything really recently if shes got anything   printed   in print  ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['she has,  /']",she has  ,sd,FEMALE,1
+"['{c because } [  i, + i ] remember seeing a new book by her --']",c because    i  i  remember seeing a new book by her ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- that  was out,  /']", that  was out  ,+,FEMALE,0
+"['{c and } i think [ it was a, + it was an ] adult book. /']",c and  i think  it was a  it was an  adult book ,sd,FEMALE,1
+"[""i'll be darned. /""]",ill be darned ,ba,FEMALE,6
+"['{d so } {d anyway, } -/']",d so  d anyway  ,%,FEMALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but } that's the last thing [ i, + i've ] read, /""]",c but  thats the last thing  i  ive  read ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['# {c and, }  # {f um, } -/']", c and    f um  ,%,FEMALE,5
+"[""{d well, } it's, - /""]",d well  its  ,%,FEMALE,5
+"[""i'm trying to think the last actual book i read that wasn't, - /""]",im trying to think the last actual book i read that wasnt  ,sd,FEMALE,1
+"[""let's see, i think i read, {f oh, } - /""]",lets see i think i read f oh   ,^h,FEMALE,27
+"['when i was [ on vacation, {f um, } between semester break and summer, + {d you know, } on semester break between spring and summer  ] -- -/']",when i was  on vacation f um  between semester break and summer  d you know  on semester break between spring and summer    ,^h,FEMALE,27
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- {c and } i went to my mother's,  /""]", c and  i went to my mothers  ,^h,FEMALE,27
+"['i read a book that i [ have, + should have ] read when i was probably in high school.  /']",i read a book that i  have  should have  read when i was probably in high school  ,sd,FEMALE,1
+"['i read, {f um, } jane eyre. /']",i read f um  jane eyre ,sd,FEMALE,1
+"['<gasp>  i, -/']",gasp  i ,%,FEMALE,5
+"['<breathing> no,  /']",breathing no  ,ar,FEMALE,28
+"['wait a minute,  /']",wait a minute  ,^h,FEMALE,27
+"['wait a minute,  /']",wait a minute  ,^h,FEMALE,27
+['wait a minute.  /'],wait a minute  ,^h,FEMALE,27
+['jane eyre?  /'],jane eyre  ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"[""it wasn't jane eyre. /""]",it wasnt jane eyre ,sd,FEMALE,1
+['wuthering heights? /'],wuthering heights ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['it was, {f um, } {f uh, } pride and prejudice,']",it was f um  f uh  pride and prejudice,sd,FEMALE,1
+"['# {f oh, } yeah, # /']", f oh  yeah  ,b,FEMALE,2
+['# by jane # austen. /'], by jane  austen ,+,FEMALE,0
+"['by jane austen,  /']",by jane austen  ,b^m,FEMALE,24
+['yes. /'],yes ,b,FEMALE,2
+"[""that's what it was,  /""]",thats what it was  ,sd,FEMALE,1
+['yes. /'],yes ,aa,FEMALE,4
+['yes. /'],yes ,aa,FEMALE,4
+"[""{c and, }  {f um, } {d you know, } [ i,  + i ] didn't know what to expect, except i had heard [ that, + that ] jane austen was such a wonderful novelist,  /""]",c and   f um  d you know   i   i  didnt know what to expect except i had heard  that  that  jane austen was such a wonderful novelist  ,sd,FEMALE,1
+['{c and } <breathing> she really was good.  /'],c and  breathing she really was good  ,sv,FEMALE,3
+"['{e i mean, } i [ was, + was ] very much impressed with the way her plot was put together  so,']",e i mean  i  was  was  very much impressed with the way her plot was put together  so,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,%,FEMALE,5
+['# intricately #  /'], intricately   ,+,FEMALE,0
+"['[ {c and, } +  {f um, } {c and, } ] {d you know, } i just, - /']", c and    f um  c and   d you know  i just  ,%,FEMALE,5
+"[""{c but } [ i, + as i  say, i ] was pretty much ashamed that i hadn't read something before then. /""]",c but   i  as i  say i  was pretty much ashamed that i hadnt read something before then ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['because [ [ i, + i think i was, ] + i think ] i read it in college,']",because   i  i think i was   i think  i read it in college,sd,FEMALE,1
+"['# or # had to [ write it, + read it ] in high school or college,  /']", or  had to  write it  read it  in high school or college  ,+,FEMALE,0
+"[""{c but } i don't remember it. /""]",c but  i dont remember it ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['{c and then } when jennie had to read it at gettysburg --'],c and then  when jennie had to read it at gettysburg ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ and +  ] [ i got her the, + i got ] her someone, - /']",  and     i got her the  i got  her someone  ,+,FEMALE,0
+"['i think it was, {f um, } {f oh, } some actress reading it. /']",i think it was f um  f oh  some actress reading it ,sd,FEMALE,1
+"['{f oh, } how interesting. /']",f oh  how interesting ,ba,FEMALE,6
+"['{d you know, } they had an abridged version of it on tape. /']",d you know  they had an abridged version of it on tape ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and so } i got that for her,  /']",c and so  i got that for her  ,sd,FEMALE,1
+['{c and } she loved doing that. /'],c and  she loved doing that ,sd,FEMALE,1
+"[""{f oh, } i'll bet,  /""]",f oh  ill bet  ,ba,FEMALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+['{c but } i remember that was the book. /'],c but  i remember that was the book ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } {d now } [ i, + {e i mean, } i  ] think it's around here somewhere, /""]",c and  d now   i  e i mean  i   think its around here somewhere ,sd,FEMALE,1
+['#  (( right ))  /'],   right   ,b,FEMALE,2
+"[""i wouldn't be, #""]",i wouldnt be ,ba,FEMALE,6
+"[""# i'm just going to # have to put it,""]", im just going to  have to put it,sd,FEMALE,1
+"['surprised,  /']",surprised  ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['in the car sometimes and listen to it. /'],in the car sometimes and listen to it ,+,FEMALE,0
+['sure.  /'],sure  ,ba,FEMALE,6
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['{c but, }  {f um, } -/']",c but   f um  ,%,FEMALE,5
+"['{d well, } i read that,  /']",d well  i read that  ,sd,FEMALE,1
+"[""{c and then } i'm trying to think, {f um, } - /""]",c and then  im trying to think f um   ,^h,FEMALE,27
+"['usually i try [ to, + to ] find something long <breathing>  that,']",usually i try  to  to  find something long breathing  that,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"[""# i'm # going to, - /""]", im  going to  ,+,FEMALE,0
+['when - /'],when  ,%,FEMALE,5
+"[""[ if, + if ] i have long periods of time, like christmas vacation, or, {d you know, } when i know i'm not going to be doing anything for a while, {f um, } /""]", if  if  i have long periods of time like christmas vacation or d you know  when i know im not going to be doing anything for a while f um  ,sd,FEMALE,1
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""{f oh, } that's what i do too. /""]",f oh  thats what i do too ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{c and } that's about it, because otherwise i'm reading so much for school.  /""]",c and  thats about it because otherwise im reading so much for school  ,sd,FEMALE,1
+"[""[  i'm, + {f um, } i ] have just started reading a book.  /""]",  im  f um  i  have just started reading a book  ,sd,FEMALE,1
+"[""{d actually, } it's for school,  /""]",d actually  its for school  ,sd,FEMALE,1
+"[""{c but } it's for, {f um, } - /""]",c but  its for f um   ,%,FEMALE,5
+"[""there's [ a, + a ] literary jour-, - /""]",theres  a  a  literary jour  ,%,FEMALE,5
+"['{d well, } not a literary journal, - /']",d well  not a literary journal  ,%,FEMALE,5
+"[""[ it's a, + <breathing> it's ] kind of a journal [ of, + of ] the history of ideas [ that's, + that's ] starting to be published, {f um, } from u t d.  /""]", its a  breathing its  kind of a journal  of  of  the history of ideas  thats  thats  starting to be published f um  from u t d  ,sd,FEMALE,1
+"[""the first issue doesn't come out until next year,  /""]",the first issue doesnt come out until next year  ,sd,FEMALE,1
+"['{c but, }  {f um, } -/']",c but   f um  ,%,FEMALE,5
+"['# {f oh, } yeah.  # /']", f oh  yeah   ,b,FEMALE,2
+"[""# i'm doing # some reviews of books, [ just to, + ] [ what, + ] to sort of recommend [ to + ] [ wh-, + whether ] or not a full-scale review should be done for the journal, /""]", im doing  some reviews of books  just to    what   to sort of recommend  to    wh  whether  or not a fullscale review should be done for the journal ,sd,FEMALE,1
+"['# {f oh, } how neat.  # /']", f oh  how neat   ,ba,FEMALE,6
+"[""# {c and } i've, - /""]", c and  ive  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""# it's really neat because these are brand new books  /""]", its really neat because these are brand new books  ,sd,FEMALE,1
+"['{c and } [ i,']",c and   i,sd,FEMALE,1
+"['# {f oh, } great.  # /']", f oh  great   ,ba,FEMALE,6
+"['# just got # a, + i got  [ a, +  [ th-, + this ]  ] ] one,  /']", just got  a  i got   a    th  this     one  ,+,FEMALE,0
+"['{f um, } most of the stuff is on, {f uh, } literary criticism and philosophy,']",f um  most of the stuff is on f uh  literary criticism and philosophy,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+['# and # religion and all that. /'], and  religion and all that ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['this one is on johann sebastian bach,  /']",this one is on johann sebastian bach  ,sd,FEMALE,1
+"[""{c and } it's [ [ a, + a, ] + a ] biography,""]",c and  its   a  a   a  biography,sd,FEMALE,1
+"['# {f oh, } great.  # /']", f oh  great   ,ba,FEMALE,6
+"['# that is # really interesting, /']", that is  really interesting ,+,FEMALE,0
+"[""{f oh, } that's fascinating. /""]",f oh  thats fascinating ,ba,FEMALE,6
+"[""{e i mean, } [ it, + it's ] fascinating,  /""]",e i mean   it  its  fascinating  ,aa,FEMALE,4
+['it really is. /'],it really is ,aa,FEMALE,4
+['oh. /'],oh ,b,FEMALE,2
+"[""{f um, } {c but } it's so long,  /""]",f um  c but  its so long  ,sd,FEMALE,1
+"[""[ i, + i ] don't really have the time to read the whole thing,  /""]", i  i  dont really have the time to read the whole thing  ,sd,FEMALE,1
+"['{c but } i think,']",c but  i think,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"[""# eventually # i'll go back to it.  /""]", eventually  ill go back to it  ,+,FEMALE,0
+"[""{c but } [ it's, +""]",c but   its ,%,FEMALE,5
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"['# it ] # was written, - /']", it   was written  ,+,FEMALE,0
+"['{e i mean } [ the, + the ] copyright is nineteen ninety-one,  /']",e i mean   the  the  copyright is nineteen ninetyone  ,sd,FEMALE,1
+"[""{c so } it's a brand new book. /""]",c so  its a brand new book ,sd,FEMALE,1
+"[""{f oh, } it's a brand new book. /""]",f oh  its a brand new book ,bf,FEMALE,20
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f oh, } [ that, + that ] would be wonderful --']",f oh   that  that  would be wonderful ,ba,FEMALE,6
+"['yeah, /']",yeah ,b,FEMALE,2
+['-- # to read something like that.  # /'],  to read something like that   ,+,FEMALE,0
+"['# {c and } [ he really, + this man really  ] # shed some light on, {f um, } <lipsmack> some,']", c and   he really  this man really    shed some light on f um  lipsmack some,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"[""# aspects # [ of + <breathing>  of ] bach's genius  [ [ {c and, } +  {c and, } ] +  {c and, } ] + {d you know, } the, [ and + ] more sociological things, {d you know, } like [ the, + the ] idea [ that, + <breathing> {f um, } that ] [ music, + ] to be a musician was as much, {f um, } of a family occupation as anything.  /""]", aspects   of  breathing  of  bachs genius    c and    c and     c and    d you know  the  and   more sociological things d you know  like  the  the  idea  that  breathing f um  that   music   to be a musician was as much f um  of a family occupation as anything  ,+,FEMALE,0
+"['{e i mean, } {d you know, } [ that was -- +']",e i mean  d you know   that was  ,sv,FEMALE,3
+['yes. /'],yes ,b,FEMALE,2
+['-- it was  ] families had just loads of musicians <laughter>. /'], it was   families had just loads of musicians laughter ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{c and } they just went from generation,']",c and  they just went from generation,sv,FEMALE,3
+['# yeah.  # /'], yeah   ,aa,FEMALE,4
+"['# probably # to generation,']", probably  to generation,+,FEMALE,0
+"[""# that's right.  # /""]", thats right   ,aa,FEMALE,4
+"['# just [ with # these, + with these ] all passing it from one to the other. /']", just  with  these  with these  all passing it from one to the other ,+,FEMALE,0
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['{c and, }  {f um, } -/']",c and   f um  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's the way it was, i'm sure back then. /""]",thats the way it was im sure back then ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{c so, }  {f uh, } -/']",c so   f uh  ,%,FEMALE,5
+['# yeah.  /'], yeah  ,b,FEMALE,2
+"[""{f oh, } that's interesting.  # /""]",f oh  thats interesting   ,ba,FEMALE,6
+"['# it was just really # interesting,  /']", it was just really  interesting  ,aa,FEMALE,4
+"[""if [ that's, + {d you know, } that's ] kind of what, - /""]",if  thats  d you know  thats  kind of what  ,%,FEMALE,5
+['{c but } i have to - /'],c but  i have to  ,%,FEMALE,5
+"[""<breathing> not only [ am, + am ] i [ re-, + reading ] it to decide whether or not it should be reviewed, but also, {f um, } because the board of advisers for this, {f um, } journal <breathing> [ doesn't have, + right now doesn't have ] a really respected name, {f um, } who's [ a, + {f uh, } a  ] scholar [ on, + on ] music, /""]",breathing not only  am  am  i  re  reading  it to decide whether or not it should be reviewed but also f um  because the board of advisers for this f um  journal breathing  doesnt have  right now doesnt have  a really respected name f um  whos  a  f uh  a   scholar  on  on  music ,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"[""# <breathing>  # {f um, } {c and } i'm supposed to decide whether i think this man might be a worthy person to be [ a, + ] {d you know, } in that position on the board  /""]", breathing   f um  c and  im supposed to decide whether i think this man might be a worthy person to be  a   d you know  in that position on the board  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['# {f oh, } yeah.  # /']", f oh  yeah   ,b,FEMALE,2
+"[""# i don't # know if i want to take that responsibility or not,  /""]", i dont  know if i want to take that responsibility or not  ,sd,FEMALE,1
+['[ {c but } + <laughter>.'], c but   laughter,sd,FEMALE,1
+"[""{d wow, } that's rough. /""]",d wow  thats rough ,ba,FEMALE,6
+"['{c but  } ] at least i,']",c but    at least i,+,FEMALE,0
+"[""# that's real rough.  # /""]", thats real rough   ,ba,FEMALE,6
+"['# can tell them # what i think,  /']", can tell them  what i think  ,+,FEMALE,0
+"['{c so, }  {f um, }']",c so   f um ,sv,FEMALE,3
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"[""# it's # real interesting. /""]", its  real interesting ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['it is. /'],it is ,aa,FEMALE,4
+"['because [ i think our, + i think my ] alma mater, {f um, } gettysburg, i think they were just starting a magazine  --   *[[sd]]']",because  i think our  i think my  alma mater f um  gettysburg i think they were just starting a magazine     sd,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- that was similar to that. /'], that was similar to that ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i think that's probably [ a, + sort of a  ] thing to do --""]",i think thats probably  a  sort of a   thing to do ,sv,FEMALE,3
+['yes <breathing>. /'],yes breathing ,b,FEMALE,2
+"['-- in small colleges, /']", in small colleges ,+,FEMALE,0
+"['# yeah, # /']", yeah  ,b,FEMALE,2
+"['# {c but, }  # {f um, } -/']", c but    f um  ,%,FEMALE,5
+"['that it, - /']",that it  ,%,FEMALE,5
+"['{d you know, } [ you see, + you see ] a lot of small colleges doing things,']",d you know   you see  you see  a lot of small colleges doing things,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"['# like # that,  /']", like  that  ,+,FEMALE,0
+"['right,  /']",right  ,b,FEMALE,2
+"['uh-huh, /']",uhhuh ,b,FEMALE,2
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"[""# because # it attracts really [ a, + a ] lot people's interest.  /""]", because  it attracts really  a  a  lot peoples interest  ,sv,FEMALE,3
+"[""that's one way, - /""]",thats one way  ,%,FEMALE,5
+"[""it's really good public relations for small schools, /""]",its really good public relations for small schools ,sv,FEMALE,3
+"['# {f oh, } yeah.  # /']", f oh  yeah   ,b,FEMALE,2
+['# i think # so <breathing>. /'], i think  so breathing ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but, }  {f uh, } another one of my projects this summer [ [ is, + {a actually it's part of my research assistantship, }  is, ] +  {f um, } <breathing> it's  ] helping a professor, {f uh, } compile a bunch of translations [ of, + of ] various poems <breathing> for a book that he's writing,  /""]",c but   f uh  another one of my projects this summer   is  a actually its part of my research assistantship   is    f um  breathing its   helping a professor f uh  compile a bunch of translations  of  of  various poems breathing for a book that hes writing  ,sd,FEMALE,1
+['{c and --'],c and ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""-- <breathing>  so } i'm learning the names, if not the actual contents, of a lot of different poems and <breathing>  a lot of french people. /""]", breathing  so  im learning the names if not the actual contents of a lot of different poems and breathing  a lot of french people ,+,FEMALE,0
+"['{d now, } translations, what do you mean, translations [ of, + of, ] -/']",d now  translations what do you mean translations  of  of  ,qw,FEMALE,12
+"['{f um, } {d well, } [ where, + where, ] for instance, {f um, } a baudelaire poem that was written,']",f um  d well   where  where  for instance f um  a baudelaire poem that was written,sd,FEMALE,1
+['# yeah.  # /'], yeah   ,b,FEMALE,2
+"['# in # the french and then has been translated into english by,']", in  the french and then has been translated into english by,+,FEMALE,0
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+['# various # people. /'], various  people ,+,FEMALE,0
+"['{f oh, } i see. /']",f oh  i see ,bk,FEMALE,14
+['{c and } the translations are all so different from one another. /'],c and  the translations are all so different from one another ,sd,FEMALE,1
+['all different. /'],all different ,b^m,FEMALE,24
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f oh, } that's interesting. /""]",f oh  thats interesting ,ba,FEMALE,6
+"[""{c so } it's multiple translations of single works  /""]",c so  its multiple translations of single works  ,sd,FEMALE,1
+"[""[ {c and, } + <breathing> {c and } ] that's [ right now, + right now ] pretty much what i'm doing as far as, {f um, } - /""]", c and   breathing c and   thats  right now  right now  pretty much what im doing as far as f um   ,sd,FEMALE,1
+"['my work, is just kind of compiling,']",my work is just kind of compiling,sd,FEMALE,1
+['# gosh. # /'], gosh  ,ba,FEMALE,6
+['# all # that for him.  /'], all  that for him  ,+,FEMALE,0
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"[""that's great. /""]",thats great ,ba,FEMALE,6
+"[""it's real interesting. /""]",its real interesting ,aa,FEMALE,4
+"['boy, you really lift me up to a different, -/']",boy you really lift me up to a different ,ba,FEMALE,6
+"[""# <laughter> # {e i mean, } here [ i, + i'm ] dealing with, {f uh, }""]", laughter  e i mean  here  i  im  dealing with f uh ,sd,FEMALE,1
+['# cleaning # the stove  /'], cleaning  the stove  ,+,FEMALE,0
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"[""# {d you know, } [ i'm + <laughter>,  #""]", d you know   im  laughter  ,sd,FEMALE,1
+"['# there are days when # i would [ be + (( prefer  ] )) ,']", there are days when  i would  be   prefer    ,+,FEMALE,0
+['# i ] wish i were dealing with baudelaire. # /'], i  wish i were dealing with baudelaire  ,+,FEMALE,0
+['# really doing that <laughter>.  # /'], really doing that laughter   ,+,FEMALE,0
+['that would be nice. /'],that would be nice ,ba,FEMALE,6
+"[""</laughter> i don't know if i've told you,  /""]",laughter i dont know if ive told you  ,h,FEMALE,15
+"['{c but, }  {f um, } this is not on the subject, -/']",c but   f um  this is not on the subject ,sd,FEMALE,1

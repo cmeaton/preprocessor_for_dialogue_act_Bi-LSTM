@@ -1,0 +1,138 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{f um, } hello, {f um, }  /']",f um  hello f um   ,fp,FEMALE,32
+"['what is your favorite, {f um, } food for a dinner party? /']",what is your favorite f um  food for a dinner party ,qw,FEMALE,12
+"[""{f um, } i don't know,  /""]",f um  i dont know  ,h,FEMALE,15
+"['[ i, + i ] think i make things, {d you know, } - /']", i  i  think i make things d you know   ,sd,FEMALE,1
+"['i do things kind of simple because [ i, + {d you know, } i ] just have close friends over.  /']",i do things kind of simple because  i  d you know  i  just have close friends over  ,sd,FEMALE,1
+['i make {d like }  lasagna  /'],i make d like   lasagna  ,sd,FEMALE,1
+"[""{c and, } {f uh, } {f oh, } we like to have barbecues outside  [ so, + ]  {d you know, } when the weather's nice because in texas you have a lot of nice weather,  /""]",c and  f uh  f oh  we like to have barbecues outside   so    d you know  when the weathers nice because in texas you have a lot of nice weather  ,sd,FEMALE,1
+"['{c so, } we do a lot of, {f um, } things like that.  /']",c so  we do a lot of f um  things like that  ,sd,FEMALE,1
+"[""{f um, } i'm not really into gourmet cooking,  /""]",f um  im not really into gourmet cooking  ,sd,FEMALE,1
+"[""{c so, } i don't know how to do that,  /""]",c so  i dont know how to do that  ,sd,FEMALE,1
+"[""{c so, } i don't have gourmet foods <laughter>. /""]",c so  i dont have gourmet foods laughter ,sd,FEMALE,1
+['do you do tex-mex? /'],do you do texmex ,qy,FEMALE,7
+"['{f um, } yeah,  /']",f um  yeah  ,ny,FEMALE,9
+"['{d you know, } like fajitas and stuff like that,  /']",d you know  like fajitas and stuff like that  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['{f oh, } fajitas,  /']",f oh  fajitas  ,b^m,FEMALE,24
+['how do you make fajitas? /'],how do you make fajitas ,qw,FEMALE,12
+"[""{f um, } it's kind of {d like } made out of  (( skirt ))  steak  /""]",f um  its kind of d like  made out of   skirt   steak  ,sd,FEMALE,1
+['{c and } you marinate it. /'],c and  you marinate it ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['you can buy marinating mixes here  /'],you can buy marinating mixes here  ,sd,FEMALE,1
+"[""i don't know,""]",i dont know,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['get it up there.  /'],get it up there  ,+,FEMALE,0
+"['{f uh, } you can, {d you know, } marinate it in any kind of barbecue sauce you like  /']",f uh  you can d you know  marinate it in any kind of barbecue sauce you like  ,sd,FEMALE,1
+"['{c and then } [ you, + {f uh, } you ] quick fry it real fast [ with, + ] in [ hot, + hot ] grease.  {d you know, } [ [ not a who-, + not, ] + not ] deep frying it  /']",c and then   you  f uh  you  quick fry it real fast  with   in  hot  hot  grease  d you know    not a who  not   not  deep frying it  ,sd,FEMALE,1
+"['{c but } you can {c either } barbecue it which is really good,']",c but  you can c either  barbecue it which is really good,sd,FEMALE,1
+"['with, {f uh, } [ green beans, not green beans but + ] green peppers and red peppers and onions. /']",with f uh   green beans not green beans but   green peppers and red peppers and onions ,+,FEMALE,0
+"['{c and, } {f uh, } then you put it on a flour, {d like, } {d you know, } - /']",c and  f uh  then you put it on a flour d like  d you know   ,sd,FEMALE,1
+"['you make your meat real, {f uh, } thin, {d you know, } bite-size pieces. /']",you make your meat real f uh  thin d you know  bitesize pieces ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['then you put it on flour tortillas with, {d you know, } guacamole and, {f uh, } sour cream and, {d you know, } all kinds of, {d you know, } - /']",then you put it on flour tortillas with d you know  guacamole and f uh  sour cream and d you know  all kinds of d you know   ,sd,FEMALE,1
+"[""it's like a tex-mex type thing. /""]",its like a texmex type thing ,sd,FEMALE,1
+"['{f oh, } it sounds good. /']",f oh  it sounds good ,ba,FEMALE,6
+"[""it's really good.  /""]",its really good  ,sd,FEMALE,1
+['you can do it with chicken too.  /'],you can do it with chicken too  ,sd,FEMALE,1
+['chicken fajitas and  stuff. /'],chicken fajitas and  stuff ,sd,FEMALE,1
+['okay. /'],okay ,b,FEMALE,2
+['{d so. } -/'],d so  ,%,FEMALE,5
+"[""{d well, } that's nice. /""]",d well  thats nice ,ba,FEMALE,6
+"['{c so, } what kind of cooking do you do up there? /']",c so  what kind of cooking do you do up there ,qw,FEMALE,12
+"['{f oh, } {d well, } basically, {f um, } because i lived in the middle east for a while i tend to fix middle eastern foods when i [ have, +']",f oh  d well  basically f um  because i lived in the middle east for a while i tend to fix middle eastern foods when i  have ,sd,FEMALE,1
+['have ] people over. /'],have  people over ,+,FEMALE,0
+"['{c and so, } {f um, } some of the dips are like (( chick ))  peas mashed with, {f um, } sesame. /']",c and so  f um  some of the dips are like  chick   peas mashed with f um  sesame ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } cold foo-, {f um, } - /']",c and  f uh  cold foo f um   ,%,FEMALE,5
+"[""what's it called,  /""]",whats it called  ,t1,FEMALE,37
+"[""i forgot, <laughter>, what it's called, /""]",i forgot laughter what its called ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{d anyway } [ {c and, } + {c and } ]  my, -/']",d anyway   c and   c and    my ,%,FEMALE,5
+['you cook them so often you kind of forget their names. /'],you cook them so often you kind of forget their names ,qy^d,FEMALE,16
+"[""that's right,  /""]",thats right  ,na,FEMALE,21
+"[""that's right. /""]",thats right ,na,FEMALE,21
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""it's called  ((   )) , - /""]",its called        ,sd,FEMALE,1
+['now i remember it. /'],now i remember it ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c and, } {f um, } dipping arabic bread, the thin  (( piece ))  of bread in that. /']",c and  f um  dipping arabic bread the thin   piece   of bread in that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c or } another dip is [ made with, + ] very similar but with, {f um, } eggplant which has been actually barbe-, - /']",c or  another dip is  made with   very similar but with f um  eggplant which has been actually barbe  ,sd,FEMALE,1
+['it ends up with a barbecued taste.  /'],it ends up with a barbecued taste  ,sd,FEMALE,1
+"['i, - /']",i  ,%,FEMALE,5
+['although we usually bake it in the oven  /'],although we usually bake it in the oven  ,sd,FEMALE,1
+"['{c or } if we have, {f uh, } - /']",c or  if we have f uh   ,%,FEMALE,5
+"['those of us that have gas stoves bake it on top just like putting it in the gas flame and sort of getting it black,']",those of us that have gas stoves bake it on top just like putting it in the gas flame and sort of getting it black,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['on the outside but mushy on the inside. /'],on the outside but mushy on the inside ,+,FEMALE,0
+"[""{f oh, } that's unusual i'd never heard of anything like that, {d you know. } /""]",f oh  thats unusual id never heard of anything like that d you know  ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""here in texas it's all, {d you know, } tex-mex cooking and barbecue  /""]",here in texas its all d you know  texmex cooking and barbecue  ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['{c but } barbecue is it like steaks  /'],c but  barbecue is it like steaks  ,qy,FEMALE,7
+"['{c or } is it,']",c or  is it,qrr,FEMALE,33
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['you barbecue s-, -/']",you barbecue s ,%,FEMALE,5
+"['{f uh, } turkey? /']",f uh  turkey ,+,FEMALE,0
+['pardon me? /'],pardon me ,br,FEMALE,30
+['would you barbecue a turkey or a chicken  /'],would you barbecue a turkey or a chicken  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['{f oh, } yeah,  /']",f oh  yeah  ,ny,FEMALE,9
+['you can barbecue turkey if you have a big enough grill  /'],you can barbecue turkey if you have a big enough grill  ,sd,FEMALE,1
+"['{c but } [ my, + i cook my ] turkeys inside, {d you know, }  /']",c but   my  i cook my  turkeys inside d you know   ,sd,FEMALE,1
+"['it b-, - /']",it b  ,%,FEMALE,5
+['you can buy smoked turkeys. /'],you can buy smoked turkeys ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ [ {c and } + {c or, } ] + {f uh, } {c but } ] most the stuff that we barbecue is like steak and chicken and hamburgers, hot dogs,']",  c and   c or    f uh  c but   most the stuff that we barbecue is like steak and chicken and hamburgers hot dogs,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, }  /']",d you know   ,+,FEMALE,0
+"['the simple things like that,  /']",the simple things like that  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } barbecue beans and  baked beans  /']",d you know  barbecue beans and  baked beans  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""i'm sure that the chicken that we barbecue from the middle east has a lemon garlic sauce.  /""]",im sure that the chicken that we barbecue from the middle east has a lemon garlic sauce  ,sd,FEMALE,1
+"[""i wouldn't imagine that a barbecued chicken would. /""]",i wouldnt imagine that a barbecued chicken would ,sd,FEMALE,1
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"['this is more like [ hickories, + hickory ] type, {d you know, } /']",this is more like  hickories  hickory  type d you know  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['depending on the barbe-, - /']",depending on the barbe  ,sd,FEMALE,1
+"[""it's like a smokey flavor,""]",its like a smokey flavor,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""if you've ever, {d you know, } had stuff like that.  /""]",if youve ever d you know  had stuff like that  ,+,FEMALE,0
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"[""it's totally different.  /""]",its totally different  ,sd,FEMALE,1
+"['sounds like it would be interesting to eat some of the middle eastern cooking,  /']",sounds like it would be interesting to eat some of the middle eastern cooking  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['right,  /']",right  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{d well, } it's been fun talking to you. /""]",d well  its been fun talking to you ,fc,FEMALE,10
+"['yeah,  /']",yeah  ,fc,FEMALE,10
+"[""it's been fun,  /""]",its been fun  ,fc,FEMALE,10
+"[""it's been nice,  /""]",its been nice  ,fc,FEMALE,10
+"[""it's, {f uh, } {d you know, } new to learn [ some, + ] what different people eat,  /""]",its f uh  d you know  new to learn  some   what different people eat  ,fc,FEMALE,10
+['right. /'],right ,fc,FEMALE,10
+['i come from wyoming  /'],i come from wyoming  ,fc,FEMALE,10
+"[""{c and } it's basically the [ same, + same ] type of thing except for you do eat more the tex-mex down here,  /""]",c and  its basically the  same  same  type of thing except for you do eat more the texmex down here  ,fc,FEMALE,10
+['{c so. } -/'],c so  ,fc,FEMALE,10
+"['{f uh, } in wyoming it would be less spicy? /']",f uh  in wyoming it would be less spicy ,fc,FEMALE,10
+"['yeah,  /']",yeah  ,fc,FEMALE,10
+"['yeah,  /']",yeah  ,fc,FEMALE,10
+"['you, {d you know, } - /']",you d you know   ,fc,FEMALE,10
+"[""down there it's just like meat and potatoes, {d you know. } /""]",down there its just like meat and potatoes d you know  ,fc,FEMALE,10
+['<laughter> vegetables once in a while. /'],laughter vegetables once in a while ,fc,FEMALE,10
+"['yeah,  /']",yeah  ,fc,FEMALE,10
+['right <laughter>. /'],right laughter ,fc,FEMALE,10
+"['{f oh, } dear. /']",f oh  dear ,fc,FEMALE,10
+"[""{d well, } it's been interesting to talk to you. /""]",d well  its been interesting to talk to you ,fc,FEMALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+['very good. /'],very good ,fc,FEMALE,10
+['thank you for calling. /'],thank you for calling ,fc,FEMALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

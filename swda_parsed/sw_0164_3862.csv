@@ -1,0 +1,101 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hello. /'],hello ,fp,FEMALE,32
+['hello. /'],hello ,fp,FEMALE,32
+"['hi,  /']",hi  ,fp,FEMALE,32
+['my name is dolphene.  /'],my name is dolphene  ,fp,FEMALE,32
+['i live in texas. /'],i live in texas ,fp,FEMALE,32
+"['hi,  /']",hi  ,fp,FEMALE,32
+['my name is pat johnson  /'],my name is pat johnson  ,fp,FEMALE,32
+"['{c and } i live in [ te-, + texas ] too. /']",c and  i live in  te  texas  too ,fp,FEMALE,32
+"['okay,  /']",okay  ,b,FEMALE,2
+"['i work for t i,  /']",i work for t i  ,sd,FEMALE,1
+"['[ do, + do ] you also? /']", do  do  you also ,qy,FEMALE,7
+['no. /'],no ,nn,FEMALE,13
+['okay. /'],okay ,bk,FEMALE,14
+"['no,  /']",no  ,nn,FEMALE,13
+['i live in dallas.  /'],i live in dallas  ,sd,FEMALE,1
+['i work for the dallas school system. /'],i work for the dallas school system ,sd,FEMALE,1
+"['{f oh, } okay.  /']",f oh  okay  ,bk,FEMALE,14
+"['{f uh, } you ready to begin? /']",f uh  you ready to begin ,qy,FEMALE,7
+['we might as well. /'],we might as well ,na,FEMALE,21
+"['{f oh, } okay.  /']",f oh  okay  ,bk,FEMALE,14
+['<beep>  okay. /'],beep  okay ,b,FEMALE,2
+"['i understand we are doing care of the elderly,  right? /']",i understand we are doing care of the elderly  right ,qy,FEMALE,7
+['yes. /'],yes ,ny,FEMALE,9
+['{c and } how do you feel about putting someone in the nursing home? /'],c and  how do you feel about putting someone in the nursing home ,qo,FEMALE,25
+"[""{d well, } i don't think that {f uh, } any of my relatives would really like to go there.  /""]",d well  i dont think that f uh  any of my relatives would really like to go there  ,sd,FEMALE,1
+"['[ i, + i ] believe, if i, am in a position, {f uh, }  {d like } when my mother gets to a point where she needs special care that i will be able to just bring her into my home --']", i  i  believe if i am in a position f uh   d like  when my mother gets to a point where she needs special care that i will be able to just bring her into my home ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and my father also,  [ and + {f uh, } or ] have someone go into their home, {d you know } [ and + {f uh, } and ] look [ after + ] them.  /']", and my father also   and  f uh  or  have someone go into their home d you know   and  f uh  and  look  after   them  ,+,FEMALE,0
+['that way. -/'],that way ,sd,FEMALE,1
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['i would find it very difficult, {f uh, } to, {f uh, } place [ eit-, + ] my father or  my step-mother --']",i would find it very difficult f uh  to f uh  place  eit   my father or  my stepmother ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } in a place like that.   particularly, since i know how they feel about it. /']", f uh  in a place like that   particularly since i know how they feel about it ,+,FEMALE,0
+"['right,  /']",right  ,aa,FEMALE,4
+"[""[ it's basically, + it's more ] how they feel about it. /""]", its basically  its more  how they feel about it ,sv,FEMALE,3
+['yes. /'],yes ,aa,FEMALE,4
+"['{c and } it is like they feel, [ they are, + ] {f uh, } {a the way my mother would put it } like somebody had thrown them away <laughter>.']",c and  it is like they feel  they are   f uh  a the way my mother would put it  like somebody had thrown them away laughter,sd,FEMALE,1
+['yes. /'],yes ,aa,FEMALE,4
+['{d you know? } /'],d you know  ,+,FEMALE,0
+"['i do think that there are some significant kinds of things to to look for, {d you know, } if you are faced with placing someone.']",i do think that there are some significant kinds of things to to look for d you know  if you are faced with placing someone,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+"['in a place like that, {f uh, } {d you know, } aside from the cleanliness and the medical care that is offered --']",in a place like that f uh  d you know  aside from the cleanliness and the medical care that is offered ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and such  /'], and such  ,+,FEMALE,0
+['{c but } attitude of staff makes such a tremendous difference.   /'],c but  attitude of staff makes such a tremendous difference   ,sv,FEMALE,3
+['{c and } i have a a friend who is partly paralyzed and is in a nursing home --'],c and  i have a a friend who is partly paralyzed and is in a nursing home ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and has no family who, {d you know, } could care for her.   /']", and has no family who d you know  could care for her   ,+,FEMALE,0
+"['{c and, }  {f uh, } i know that the cheerful pleasant people who treat her kindly make all the difference in the world in how she feels about, {f uh, } her situation. /']",c and   f uh  i know that the cheerful pleasant people who treat her kindly make all the difference in the world in how she feels about f uh  her situation ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{c and } another thing to think about, {f uh, } on the positive side of the nursing homes here, - /']",c and  another thing to think about f uh  on the positive side of the nursing homes here  ,sv,FEMALE,3
+['i use to work in one of the offices in a nursing home -- /'],i use to work in one of the offices in a nursing home  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } i got to see a lot of the things that they did -- /'], c and  i got to see a lot of the things that they did  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ they, + {f uh, } they ] had a lot of crafts --']",  they  f uh  they  had a lot of crafts ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+['--  /'],  ,+,FEMALE,0
+['{c and } they had a lot of games  /'],c and  they had a lot of games  ,sd,FEMALE,1
+"['{c and, }  {f uh, } they, get together and [ just do, + [ they + they ] do  ] all sorts of things  /']",c and   f uh  they get together and  just do   they  they  do   all sorts of things  ,sd,FEMALE,1
+['{c and then } there - /'],c and then  there  ,%,FEMALE,5
+"['[ some, + some ] of [ the, + {f uh, } the ] people that are in there are [ real, + {d you know, } very ] nice and friendly to everybody -- /']", some  some  of  the  f uh  the  people that are in there are  real  d you know  very  nice and friendly to everybody  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, }  {f uh, } then there are others  that are, - /']", c and   f uh  then there are others  that are  ,sd,FEMALE,1
+"['{f uh, } it is  just a job  /']",f uh  it is  just a job  ,sd,FEMALE,1
+['{c and } they just {d you know } --'],c and  they just d you know  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- want to go in and do what they have to do and get out #  go home. # /'], want to go in and do what they have to do and get out   go home  ,+,FEMALE,0
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['{f uh, }  [ the, +  the ] attitude of the staff as you said is really --']",f uh    the   the  attitude of the staff as you said is really ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- very very important. /'], very very important ,+,FEMALE,0
+"['i think it would matter too, {f uh, } kinds of, {f uh, } disabilities that the nursing home accepts.']",i think it would matter too f uh  kinds of f uh  disabilities that the nursing home accepts,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+"[""because there are some, {f uh, } who poor things, {d you know, } don't have, {f uh, } any real grasp on reality any longer. /""]",because there are some f uh  who poor things d you know  dont have f uh  any real grasp on reality any longer ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"['{c and } they may be ambulatory,  /']",c and  they may be ambulatory  ,sd,FEMALE,1
+"['{c but } they tend to behave like [ children, + small children ] -- /']",c but  they tend to behave like  children  small children   ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- {c and } that would be very difficult i think for an adult who wasn't in that situation to to have to deal with on a daily basis. /""]", c and  that would be very difficult i think for an adult who wasnt in that situation to to have to deal with on a daily basis ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['{f uh. } /'],f uh  ,%,FEMALE,5
+"['{d well, } it is like, [ wel-, + ] the one that i worked in, {f uh, } you would see some of them just like in wheelchairs all day,  /']",d well  it is like  wel   the one that i worked in f uh  you would see some of them just like in wheelchairs all day  ,sd,FEMALE,1
+['they would just roll themselves around all over the place  /'],they would just roll themselves around all over the place  ,sd,FEMALE,1
+['[ {c and } -- +'], c and   ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+['-- {c and } ] they would enjoy enjoy themselves with activities  /'], c and   they would enjoy enjoy themselves with activities  ,+,FEMALE,0
+['{c and then } you would [ see + see ] some of the others that [ are + were  ] {d like } distant from the other group  /'],c and then  you would  see  see  some of the others that  are  were   d like  distant from the other group  ,sd,FEMALE,1
+"[""{c and } they they just didn't {d like } participate together with the others --""]",c and  they they just didnt d like  participate together with the others ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- because they had [ some + some, ] {f uh, } i guess, {f uh, } slight mental disabilities and things like that. /']", because they had  some  some  f uh  i guess f uh  slight mental disabilities and things like that ,+,FEMALE,0
+['yes. /'],yes ,b,FEMALE,2
+"['<lipsmacking> [ what, + what ] do you call alzheimer <<mispronounced>> disease and  # stuff like that # -- /']",lipsmacking  what  what  do you call alzheimer mispronounced disease and   stuff like that   ,qw,FEMALE,12
+"['# yes,  /']", yes  ,b,FEMALE,2
+"['alzheimer,  /']",alzheimer  ,b^m,FEMALE,24
+['# yes. /'], yes ,b,FEMALE,2
+"[""-- {c and } [ they  [ don't, + don't, ] + {f uh, } they weren't ] really together with the rest of them, when they got together for such activities. /""]", c and   they   dont  dont   f uh  they werent  really together with the rest of them when they got together for such activities ,sd,FEMALE,1
+['yes  /'],yes  ,b,FEMALE,2
+"['{c and } that can, -/']",c and  that can ,%,FEMALE,5

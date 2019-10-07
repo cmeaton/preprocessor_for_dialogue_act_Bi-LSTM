@@ -1,0 +1,242 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay, {f um. }  /']",okay f um   ,"fo_o_fw_""_by_bc",FEMALE,0
+['how has it been this week for you? /'],how has it been this week for you ,qw,FEMALE,12
+"['weather-wise, or otherwise? /']",weatherwise or otherwise ,qy,MALE,7
+['weather-wise. /'],weatherwise ,sd,FEMALE,1
+['weather-wise.  /'],weatherwise  ,b^m,MALE,24
+"['damp, cold, warm <laughter>. /']",damp cold warm laughter ,sd,MALE,1
+"['<laughter> {f oh, } no,  /']",laughter f oh  no  ,ba,FEMALE,6
+['damp. /'],damp ,b^m,FEMALE,24
+"['[ we have, + we have ] gone through,  what might be called the four seasons, {f uh, } in the last week. /']", we have  we have  gone through  what might be called the four seasons f uh  in the last week ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['we have had highs of seventy-two, lows in the twenties. /']",we have had highs of seventytwo lows in the twenties ,sd,MALE,1
+['my goodness.  /'],my goodness  ,ba,FEMALE,6
+"[""{d well, } i don't even want to  tell you what ours has been like  then. /""]",d well  i dont even want to  tell you what ours has been like  then ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['it was ninety-six yesterday, /']",it was ninetysix yesterday ,sd,FEMALE,1
+['i heard about that. /'],i heard about that ,sd,MALE,1
+"['<laughter> {c and } we set a record yesterday.  [ and, + ] {f uh, } very windy,  /']",laughter c and  we set a record yesterday   and   f uh  very windy  ,sd,FEMALE,1
+"['{c but } then  today the wind has dropped off, and  also, the temperature,  [ so, + ] very cool, {f uh, }  /']",c but  then  today the wind has dropped off and  also the temperature   so   very cool f uh   ,sd,FEMALE,1
+"[""i think right now it's like sixty-nine, /""]",i think right now its like sixtynine ,sd,FEMALE,1
+['{f um } <music>. /'],f um  music ,%,MALE,5
+"[""{c and } that's cool for u-,  /""]",c and  thats cool for u  ,sd,FEMALE,1
+"['{c or } it feels cool compared to yesterday, but very pleasant,  /']",c or  it feels cool compared to yesterday but very pleasant  ,sd,FEMALE,1
+"[""no rain in the last month, i don't think.  /""]",no rain in the last month i dont think  ,sd,FEMALE,1
+"[""the ground's very dry  /""]",the grounds very dry  ,sd,FEMALE,1
+"['{c and } our yard work, everything is in bloom,  /']",c and  our yard work everything is in bloom  ,sd,FEMALE,1
+"['{c so } our yard work is pretty tough, the ground being dry,  /']",c so  our yard work is pretty tough the ground being dry  ,sd,FEMALE,1
+"['{c but } i guess it also,  {f uh, } brings about allergies,  /']",c but  i guess it also  f uh  brings about allergies  ,sd,FEMALE,1
+"[""we're having a lot of allergies down here right now. /""]",were having a lot of allergies down here right now ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['everything blooming,  /']",everything blooming  ,sd,FEMALE,1
+"['[ {c and, } + {c and } ] the weather. -/']", c and   c and   the weather ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, }  {f uh, } i think a lot of  people have contracted, {f uh, } spring fever too,  /']",c and   f uh  i think a lot of  people have contracted f uh  spring fever too  ,sd,FEMALE,1
+"['{d so. }  had a lot of people out at work,  {d you know, } for fishing, [ [ and, + and ] + {f uh, }']",d so   had a lot of people out at work  d you know  for fishing   and  and   f uh ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['and ] golfing, reasons and things like that. /']",and  golfing reasons and things like that ,+,FEMALE,0
+"['the blue flu, /']",the blue flu ,bf,MALE,20
+['yeah. /'],yeah ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['the blue flu,  or the white collar flu, depending on where you work, i guess. /']",the blue flu  or the white collar flu depending on where you work i guess ,bf,MALE,20
+['yes. /'],yes ,aa,FEMALE,4
+"[""{f oh, } [ we have had, + {f uh, } as i've said,  we have had ] variable weather. {f uh, } /""]",f oh   we have had  f uh  as ive said  we have had  variable weather f uh  ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['it has been untypically wet for this time of year, /']",it has been untypically wet for this time of year ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['{c and, }  also, we have a lot of green,  {d you know, }  /']",c and   also we have a lot of green  d you know   ,sd,MALE,1
+['the grass has been growing  /'],the grass has been growing  ,sd,MALE,1
+"['{c and } if you look outside, you would like  to go out and mow your lawn,']",c and  if you look outside you would like  to go out and mow your lawn,sd,MALE,1
+['{f uh. } /'],f uh  ,%,FEMALE,5
+"['if you could go out and buy a new spark plug,  or something along those lines,  /']",if you could go out and buy a new spark plug  or something along those lines  ,+,MALE,0
+['{c but } fortunately it rains  /'],c but  fortunately it rains  ,sd,MALE,1
+"['{c and } you, {f uh, } do not have to go out and buy the spark plug,']",c and  you f uh  do not have to go out and buy the spark plug,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['{d you know. }  /'],d you know   ,+,MALE,0
+"[""{c but, }  we've had an unusually,  {f uh, } {f uh, } warm spring,  /""]",c but   weve had an unusually  f uh  f uh  warm spring  ,sd,MALE,1
+"[""{c and, } {d well } i guess we're still in winter,  /""]",c and  d well  i guess were still in winter  ,sd,MALE,1
+"['{c and, }  {f uh, }']",c and   f uh ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['we have had no snow. /'],we have had no snow ,+,MALE,0
+['no snow? /'],no snow ,bh,FEMALE,18
+"['[ to speak of,  + to speak of.  ] /']", to speak of   to speak of   ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['we usually average, {f oh, } anywhere  from six to twelve inches during the winter  /']",we usually average f oh  anywhere  from six to twelve inches during the winter  ,sd,MALE,1
+"['{c and } this year, as well as  last year, we have had less than four inches total accumulation. /']",c and  this year as well as  last year we have had less than four inches total accumulation ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"[""{c so, }  it's been inordinately warm,  {f uh, } here, [ for, + {f uh, } for ] this time of year. /""]",c so   its been inordinately warm  f uh  here  for  f uh  for  this time of year ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"[""{c so, }  {f uh, } in that regard, it's fine,  /""]",c so   f uh  in that regard its fine  ,sd,MALE,1
+"['{c but, }  {f uh, }']",c but   f uh ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['i envy you your ninety-four degrees. /'],i envy you your ninetyfour degrees ,+,MALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+['i thought i heard this morning that in san antonio it was in the nineties yesterday. /'],i thought i heard this morning that in san antonio it was in the nineties yesterday ,sd,MALE,1
+"['yes,  /']",yes  ,aa,FEMALE,4
+['yes  /'],yes  ,aa,FEMALE,4
+['it is.  /'],it is  ,sd,FEMALE,1
+['down in the more southern  and western areas.  /'],down in the more southern  and western areas  ,sd,FEMALE,1
+"['{c and, }  of course we are, {f um, } about two hours from  the northern border, straight south, /']",c and   of course we are f um  about two hours from  the northern border straight south ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['[ {c and, } + {c and, } ]  {f uh, } very windy.  /']", c and   c and    f uh  very windy  ,sd,FEMALE,1
+"[""it's amazing to me  /""]",its amazing to me  ,sd,FEMALE,1
+"['{c because } i have only lived in dallas for three years,  /']",c because  i have only lived in dallas for three years  ,sd,FEMALE,1
+['{c and } i cannot  believe that the wind blows all the time. /'],c and  i cannot  believe that the wind blows all the time ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['it does,  /']",it does  ,sd,FEMALE,1
+"['[ i, + i ] - /']", i  i   ,%,FEMALE,5
+"['very seldom, if any, - /']",very seldom if any  ,sd,FEMALE,1
+"[""i can't remember, {d you know, } a day that i walked out and the wind wasn't blowing. /""]",i cant remember d you know  a day that i walked out and the wind wasnt blowing ,sd,FEMALE,1
+['uh-huh  /'],uhhuh  ,b,MALE,2
+"['{d well, } i spent six years in  graduate school [ at, + in  ] indiana.  in the flatlands,  /']",d well  i spent six years in  graduate school  at  in   indiana  in the flatlands  ,sd,MALE,1
+['{c and } it was that way every day. /'],c and  it was that way every day ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+['rarely a day went by when the wind was  less than fifteen or twenty miles an hour.'],rarely a day went by when the wind was  less than fifteen or twenty miles an hour,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['summer and winter,  /']",summer and winter  ,+,MALE,0
+"['{c so, } that, {f uh, } - /']",c so  that f uh   ,%,MALE,5
+"['[ you, + you ] became accustomed to it, i guess. /']", you  you  became accustomed to it i guess ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, }  {f uh, } otherwise [ w-, + as i said, we ]  have had, {f uh, } a relatively mild winter,']",c but   f uh  otherwise  w  as i said we   have had f uh  a relatively mild winter,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['speaking for this area of the country. /'],speaking for this area of the country ,+,MALE,0
+"['{f oh, } [ rea-, + ] where did you go to school in indiana? /']",f oh   rea   where did you go to school in indiana ,qw,FEMALE,12
+['purdue. /'],purdue ,sd,MALE,1
+['purdue.  /'],purdue  ,b^m,FEMALE,24
+"['i have a brother that lives in,  {f uh, } {f uh, } south bend, indiana. /']",i have a brother that lives in  f uh  f uh  south bend indiana ,sd,FEMALE,1
+"['{f oh, } yes. /']",f oh  yes ,ba,MALE,6
+"['{c and, }  i had to always, - /']",c and   i had to always  ,sd,FEMALE,1
+"[""i've lived there for eight years myself.  /""]",ive lived there for eight years myself  ,sd,FEMALE,1
+"[""i'd always said i was going to go back to school and go to notre dame. /""]",id always said i was going to go back to school and go to notre dame ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""{c but, }  i didn't. {f uh. } /""]",c but   i didnt f uh  ,sd,FEMALE,1
+"['{d well, } you are not from that area originally, i can tell. /']",d well  you are not from that area originally i can tell ,sv,MALE,3
+"['no,  /']",no  ,aa,FEMALE,4
+"[""originally i'm from new mexico. /""]",originally im from new mexico ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+['i was born in new mexico  /'],i was born in new mexico  ,sd,FEMALE,1
+"['{c and } we lived in,  {f uh, } south bend for [ eighty, + eight  ] years, and, {f uh, } then moved to, {f uh, } tennessee {d actually. } /']",c and  we lived in  f uh  south bend for  eighty  eight   years and f uh  then moved to f uh  tennessee d actually  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, }  {f uh, } -/']",c and   f uh  ,%,FEMALE,5
+"['{d well, } i thought i heard a little tennessee in there somewhere. /']",d well  i thought i heard a little tennessee in there somewhere ,sd,MALE,1
+"['<laughter> very much,  /']",laughter very much  ,aa,FEMALE,4
+"['very much,  /']",very much  ,aa,FEMALE,4
+"['{c cause } [ i, + i ] spent thirteen years there.']",c cause   i  i  spent thirteen years there,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, }  {f uh, } then moved to dallas  about three years ago.  /']",c and   f uh  then moved to dallas  about three years ago  ,+,FEMALE,0
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['gee,  /']",gee  ,ba,MALE,6
+"[""you've [ moved almost, + moved  around as much as ] i have <laughter>. /""]",youve  moved almost  moved  around as much as  i have laughter ,sv,MALE,3
+"['<laughter> yeah, {f uh, }  /']",laughter yeah f uh   ,aa,FEMALE,4
+"['my father was in the air force,  /']",my father was in the air force  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['{f oh, } i see. /']",f oh  i see ,bk,MALE,14
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d well, } i worked for the government,  /']",d well  i worked for the government  ,sd,MALE,1
+"['{c so } [ i, + i ] moved, {f uh, } much more frequently than i had intended for sixteen years, /']",c so   i  i  moved f uh  much more frequently than i had intended for sixteen years ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, }  {f uh, } i guess [ the, + {f uh, } this ]  is my first conversation in this, {f uh, } {f uh, } series. /']",c but   f uh  i guess  the  f uh  this   is my first conversation in this f uh  f uh  series ,sd,MALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"['[ i, + i ] received a call last night  because of the, {f uh, } - /']", i  i  received a call last night  because of the f uh   ,sd,MALE,1
+"['i had not received my, {f uh, } personal identification number. /']",i had not received my f uh  personal identification number ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c so, }  i had to call jack godfrey  today to ask him what it was, because [ i, + i ] had to abort the call last evening because  i couldn't get on the line. /""]",c so   i had to call jack godfrey  today to ask him what it was because  i  i  had to abort the call last evening because  i couldnt get on the line ,sd,MALE,1
+['yeah <breathing>. /'],yeah breathing ,b,FEMALE,2
+"['{d so, }  {f uh, } is there any, - /']",d so   f uh  is there any  ,qy,MALE,7
+"[""i'm not sure how long we're supposed to talk. /""]",im not sure how long were supposed to talk ,sd,MALE,1
+"[""[ it's, + {f um, } it's ] just as long as you want to. /""]", its  f um  its  just as long as you want to ,sd,FEMALE,1
+"['{f oh. }  {f o-, } /']",f oh   f o  ,%,MALE,5
+"[""{e i mean } it's just, {f uh, }  as long as you want to, [ and + ] just, {d you know, } a reasonable lengthy conversation.  /""]",e i mean  its just f uh   as long as you want to  and   just d you know  a reasonable lengthy conversation  ,sd,FEMALE,1
+"['{f uh, } do you work for texas instruments? /']",f uh  do you work for texas instruments ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+['i do not.  /'],i do not  ,sd,MALE,1
+['i work for g t e. /'],i work for g t e ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"['{c and, }  [ i, {f uh, } of course, was, + i was ]  sent [ a, + {f uh, } an ] application [ from, + {f uh, } from ] jack. /']",c and    i f uh  of course was  i was   sent  a  f uh  an  application  from  f uh  from  jack ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""i've known jack for some time.  /""]",ive known jack for some time  ,sd,MALE,1
+"[""i'm in the speech processing business,""]",im in the speech processing business,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"['and have been for a number of years,  /']",and have been for a number of years  ,+,MALE,0
+"['{c so } i was very much interested,']",c so  i was very much interested,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ in, + in ] being a speaker for this <laughter>. /']", in  in  being a speaker for this laughter ,+,MALE,0
+"['{d well, } {d actually, } [ i, + i ]  work for texas instruments,  /']",d well  d actually   i  i   work for texas instruments  ,sd,FEMALE,1
+"[""{c and, }  {f uh, }  [ i'm an a, + i'm an ] environmental engineer, /""]",c and   f uh    im an a  im an  environmental engineer ,sd,FEMALE,1
+"['{f oh, } i see. /']",f oh  i see ,bk,MALE,14
+"['{c and, }  {f uh, } <static> they just  published this internally, {d you know, } getting people involved. /']",c and   f uh  static they just  published this internally d you know  getting people involved ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{d so, } [ that, + that's ] really strange.  /""]",d so   that  thats  really strange  ,sv,FEMALE,3
+"['[ i, + i ] was wondering why we had somebody from maryland though.  /']", i  i  was wondering why we had somebody from maryland though  ,sd,FEMALE,1
+"['i was saying, god,  do we have a ti in maryland  /']",i was saying god  do we have a ti in maryland  ,sd,FEMALE,1
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"[""i'm sure you have a representative somewhere in the area.""]",im sure you have a representative somewhere in the area,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['if just nothing more than a business representative  or government services representative,  /']",if just nothing more than a business representative  or government services representative  ,+,MALE,0
+"['[ {c and, } + {f um, } {c but } ]  [ i have, + {f uh, } i have ] been a speaker in  other,  {f uh, } similar  type of activities. /']", c and   f um  c but     i have  f uh  i have  been a speaker in  other  f uh  similar  type of activities ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, }  i know the reason [ why this is, +   why [ the, + {f uh, } this ] is  ] being gathered and  the program and so forth,  /']",c and   i know the reason  why this is    why  the  f uh  this  is   being gathered and  the program and so forth  ,sd,MALE,1
+"['{c so, }  [ i was interested +  as i said, i was interested ] in being a speaker. /']",c so    i was interested   as i said i was interested  in being a speaker ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""we haven't talked much about the weather <laughter>. /""]",we havent talked much about the weather laughter ,sd,MALE,1
+"['{f oh, } {d well. } -/']",f oh  d well  ,b,FEMALE,2
+"[""i know that's what we're supposed to do. /""]",i know thats what were supposed to do ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['{d well, } really [ it, + <static>  {f uh, } the letter ] just says, {f um, } - /']",d well  really  it  static  f uh  the letter  just says f um   ,sd,FEMALE,1
+"[""let's see, i can't, - /""]",lets see i cant  ,^h,FEMALE,27
+"['i was looking at it,  /']",i was looking at it  ,sd,FEMALE,1
+"['i was trying to find out speedy short cuts,  /']",i was trying to find out speedy short cuts  ,sd,FEMALE,1
+"[""{c and } i always thought it's not necessary  to measure your time, just to go ahead and enjoy the conversation,  [ and, +   and, ]  end it when needed.  /""]",c and  i always thought its not necessary  to measure your time just to go ahead and enjoy the conversation   and    and   end it when needed  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['in environmental engineering, {f uh, } -/']",in environmental engineering f uh  ,bf,MALE,20
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+"['is that with regard to work place engineering,  or just, {d you know, } [ environm-, + the work place environment ]  /']",is that with regard to work place engineering  or just d you know   environm  the work place environment   ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"[""{f uh, } {d well, } it's actually, {f um, } waste water. /""]",f uh  d well  its actually f um  waste water ,arp_nd,FEMALE,34
+"['{f oh, } i see. /']",f oh  i see ,bk,MALE,14
+"['[ taking, + taking ] care of {f uh, } - /']", taking  taking  care of f uh   ,sd,FEMALE,1
+"[""i'm actually in the air division,  /""]",im actually in the air division  ,sd,FEMALE,1
+"['{c and } we monitor, {f um, } <static> anything that comes  out of a stack, or out of a building,  /']",c and  we monitor f um  static anything that comes  out of a stack or out of a building  ,sd,FEMALE,1
+"['{c or, }  {f um, } we do have  customers that, {f um, } their concerns are in the work place  /']",c or   f um  we do have  customers that f um  their concerns are in the work place  ,sd,FEMALE,1
+"['{c and } we take care of that,  /']",c and  we take care of that  ,sd,FEMALE,1
+"['{c but }  ((   )) ,']",c but       ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['within our department.  we take care of everything.   waste water, {f uh, } solid waste, and recycling, [ and, + and ] air and <sigh>, -/']",within our department  we take care of everything   waste water f uh  solid waste and recycling  and  and  air and sigh ,+,FEMALE,0
+"['{d well, } i had - /']",d well  i had  ,%,MALE,5
+"['[ [ my, + the, ] + the ]  call last evening was supposed to be [ about, + {f uh, } concerning  ] recycling <static>,']",  my  the   the   call last evening was supposed to be  about  f uh  concerning   recycling static,sd,MALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+['in the community.  /'],in the community  ,+,MALE,0
+"['the call i received, - /']",the call i received  ,sd,MALE,1
+"['{c and so, } [ i had, + {f uh, } i had ] thought a little bit about it, {f um, }']",c and so   i had  f uh  i had  thought a little bit about it f um ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['before hand. /'],before hand ,+,MALE,0
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"['{c so, }  i, <laughter> - /']",c so   i laughter  ,%,MALE,5
+"[""{c but }  [ that, + that's ] interesting.  /""]",c but    that  thats  interesting  ,sv,MALE,3
+"['i have a, {f uh, } {f uh, } friend who is a planner.']",i have a f uh  f uh  friend who is a planner,sd,MALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"['{f uh, } a city planner.  /']",f uh  a city planner  ,+,MALE,0
+"['{c and, }  one of his, - /']",c and   one of his  ,sd,MALE,1
+"['{c and } he models, {f uh, } city districts, and so forth,']",c and  he models f uh  city districts and so forth,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } does computer modeling. /']",f uh  does computer modeling ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, }  one of the, {f uh, } - /']",c and   one of the f uh   ,sd,MALE,1
+"['he [ has inputs, + {e or } gets inputs ] from, {f uh, } an environmental engineer.  ((   )) . /']",he  has inputs  e or  gets inputs  from f uh  an environmental engineer       ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ we + {d actually, }  our division ] is corporate wide,  /']", we  d actually   our division  is corporate wide  ,sd,FEMALE,1
+['{c and } we take care of just the dallas area. /'],c and  we take care of just the dallas area ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['of course we have several plants here,  /']",of course we have several plants here  ,sd,FEMALE,1
+"['{c but, }  {f um, } we do air modeling also. /']",c but   f um  we do air modeling also ,sd,FEMALE,1
+"['{f oh, } i see. /']",f oh  i see ,bk,MALE,14
+"['[ {c and, } + {c and, } ] {d yeah, }  i take care of all the air modeling, specifically for the dallas area.  /']", c and   c and   d yeah   i take care of all the air modeling specifically for the dallas area  ,sd,FEMALE,1
+"['what we do, we have a weather station,  that we get all of this information, {d you know, } temperature, wind speed,  wind direction,  /']",what we do we have a weather station  that we get all of this information d you know  temperature wind speed  wind direction  ,sd,FEMALE,1
+"['{c and, } {f uh, } we have a huge chemical data base. /']",c and  f uh  we have a huge chemical data base ,sd,FEMALE,1
+"[""{d well, } that's interesting. /""]",d well  thats interesting ,ba,MALE,6
+"['and, {f uh, } [ our, + <static> our ]  chemical data base, so that we know every chemical on site /']",and f uh   our  static our   chemical data base so that we know every chemical on site ,sd,FEMALE,1
+"['[ {c and, } + {c and, } ]   {f um, } its concentration,  /']", c and   c and     f um  its concentration  ,sd,FEMALE,1
+"[""{c and } [ if, + if ] anything ever happened, god forbid, {d you know, }  a building explosion or something [ tha-, + ] we'd be able to track chemicals from that building with our weather station. /""]",c and   if  if  anything ever happened god forbid d you know   a building explosion or something  tha   wed be able to track chemicals from that building with our weather station ,sd,FEMALE,1

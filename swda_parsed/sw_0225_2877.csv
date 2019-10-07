@@ -1,0 +1,292 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['do you have any pets now? /'],do you have any pets now ,qy,FEMALE,7
+"['{f oh, } i sure do,  /']",f oh  i sure do  ,na,FEMALE,21
+['i have a cat and a dog named joey. /'],i have a cat and a dog named joey ,sd,FEMALE,1
+"['joey,  /']",joey  ,b^m,FEMALE,24
+"['[  th-, +  the ] dog is joey? /']",  th   the  dog is joey ,qy,FEMALE,7
+"['uh-huh, /']",uhhuh ,ny,FEMALE,9
+"['the cat is, -/']",the cat is ,sd,FEMALE,1
+"[""he's the little boy pomeranian. /""]",hes the little boy pomeranian ,sd,FEMALE,1
+"['{f oh, } my goodness. /']",f oh  my goodness ,ba,FEMALE,6
+"['{c and } we just got a new addition to the family, so to speak,  /']",c and  we just got a new addition to the family so to speak  ,sd,FEMALE,1
+['we also have a fish. /'],we also have a fish ,sd,FEMALE,1
+"['{f oh, } my <laughter>. /']",f oh  my laughter ,ba,FEMALE,6
+"[""<laughter>  it's a mud dog. /""]",laughter  its a mud dog ,sd,FEMALE,1
+['i beg your pardon. /'],i beg your pardon ,br,FEMALE,30
+"[""it's a mud dog.  /""]",its a mud dog  ,sd,FEMALE,1
+"[""it's, {f uh, }""]",its f uh ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""a cross between a catfish and, {f uh, } i don't know what, a salamander. /""]",a cross between a catfish and f uh  i dont know what a salamander ,+,FEMALE,0
+"['{d well } did you all catch it,  /']",d well  did you all catch it  ,qy^d,FEMALE,16
+"['{c or, }  {f uh, } -/']",c or   f uh  ,%,FEMALE,5
+"['uh-huh,  /']",uhhuh  ,ny,FEMALE,9
+"['we have a cat, stripper. /']",we have a cat stripper ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f oh, } the mud dog. /']",f oh  the mud dog ,sd,FEMALE,1
+"['no,  /']",no  ,ar,FEMALE,28
+"['did, - /']",did  ,%,FEMALE,5
+['no  /'],no  ,ar,FEMALE,28
+['did you catch the fish? /'],did you catch the fish ,qy,FEMALE,7
+"['{f uh, } we had a friend give it to us. /']",f uh  we had a friend give it to us ,ng,FEMALE,29
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""{c and } it's all alone in that aquarium. /""]",c and  its all alone in that aquarium ,sd,FEMALE,1
+"['<laughter> yeah,  /']",laughter yeah  ,b,FEMALE,2
+"[""we'd like to get him a friend  /""]",wed like to get him a friend  ,sd,FEMALE,1
+"[""{c but } {f um, } {f uh, } we haven't found one yet.  /""]",c but  f um  f uh  we havent found one yet  ,sd,FEMALE,1
+"['{c so } how about you,  /']",c so  how about you  ,qo,FEMALE,25
+['do you have any pets? /'],do you have any pets ,qy,FEMALE,7
+['{d well } at the present time i have two dogs. /'],d well  at the present time i have two dogs ,sd,FEMALE,1
+"['{f oh } really,  /']",f oh  really  ,b,FEMALE,2
+['what kind? /'],what kind ,qw,FEMALE,12
+"['an english setter, {d you know, }  /']",an english setter d you know   ,sd,FEMALE,1
+"[""that's the white dog with the feathers  /""]",thats the white dog with the feathers  ,sd,FEMALE,1
+"['{c and } it has,']",c and  it has,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } yellow spots on it which they call, i think, {f uh, } liver spots. /']",f uh  yellow spots on it which they call i think f uh  liver spots ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } that's a male.  /""]",c and  thats a male  ,sd,FEMALE,1
+"['{c and } i have a wonderful female lab, black lab. /']",c and  i have a wonderful female lab black lab ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['how long have you had them. /'],how long have you had them ,qw^d,FEMALE,41
+"['quite a long time, {f uh, } probably five or six years  /']",quite a long time f uh  probably five or six years  ,sd,FEMALE,1
+"[""{c and } unfortunately the black lab that's a female, [ [ it, + [ tha-, + ] it's, ] + it's ] the most wonderful animal we've ever had,  /""]",c and  unfortunately the black lab thats a female   it   tha   its   its  the most wonderful animal weve ever had  ,sd,FEMALE,1
+"['an, i-, - /']",an i  ,%,FEMALE,5
+"['when she was about three years old we noticed that she was having [ pro-, + {f uh, } problems ] limping and so forth  /']",when she was about three years old we noticed that she was having  pro  f uh  problems  limping and so forth  ,sd,FEMALE,1
+"['{c and, }']",c and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['she has hip dysplasia. /'],she has hip dysplasia ,+,FEMALE,0
+['{f oh } no. /'],f oh  no ,ba,FEMALE,6
+"[""{c and } it's in that breed. /""]",c and  its in that breed ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } now i think there are tests that can be conducted, {f uh, } to tell whether or not the puppies [ have the, + have it. ] /']",c but  now i think there are tests that can be conducted f uh  to tell whether or not the puppies  have the  have it  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } i think, - /']",c but  i think  ,%,FEMALE,5
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+"[""apparently they've been so [ in, + ] {d well } i don't know inbred, or what,  /""]",apparently theyve been so  in   d well  i dont know inbred or what  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['{f oh, } is that right? /']",f oh  is that right ,bh,FEMALE,18
+"['{d well } n-, - /']",d well  n  ,%,FEMALE,5
+"[""i'm not sure that's the situation,  /""]",im not sure thats the situation  ,h,FEMALE,15
+"['{c but, }  it, {f um, } - /']",c but   it f um   ,%,FEMALE,5
+['for those dogs that are registered  /'],for those dogs that are registered  ,sd,FEMALE,1
+"['{c and } [ if, + if ] you should have one, {f uh, } that also has hip dysplasia you cannot breed it, {f uh. } /']",c and   if  if  you should have one f uh  that also has hip dysplasia you cannot breed it f uh  ,sd,FEMALE,1
+"['huh,  /']",huh  ,b,FEMALE,2
+"['i had no idea,  /']",i had no idea  ,sd,FEMALE,1
+"[""i [ hadn't, + didn't ] even know that. /""]",i  hadnt  didnt  even know that ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""{c but } she's wonderful. /""]",c but  shes wonderful ,sd,FEMALE,1
+"['{f um, } our dog, joey, has, {f uh, } a back problem. /']",f um  our dog joey has f uh  a back problem ,sd,FEMALE,1
+"['{f um, } {d like } ha-, - /']",f um  d like  ha  ,%,FEMALE,5
+['[ what are the -- +'], what are the  ,qw,FEMALE,12
+"[""{f uh, } [ he, + he's ] got a bad back  /""]",f uh   he  hes  got a bad back  ,sd,FEMALE,1
+"[""{c but } he's seven, {f uh, }  /""]",c but  hes seven f uh   ,sd,FEMALE,1
+"[""i guess he's [ abo-, + almost ] eight years old. /""]",i guess hes  abo  almost  eight years old ,sd,FEMALE,1
+['-- what are the ] symptoms? /'], what are the  symptoms ,+,FEMALE,0
+"['{f um, } he just, {f uh, } - /']",f um  he just f uh   ,%,FEMALE,5
+"[""he doesn't, - /""]",he doesnt  ,%,FEMALE,5
+"['[ he, + {f uh, } [ yo-, + ] he ] rolls o-, - /']", he  f uh   yo   he  rolls o  ,%,FEMALE,5
+"[""he doesn't like to roll over. /""]",he doesnt like to roll over ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } e-, - /']",f um  e  ,%,FEMALE,5
+"['you just, - /']",you just  ,%,FEMALE,5
+"['when you touch him a certain way on the back, -/']",when you touch him a certain way on the back ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"[""{c but } otherwise, he can jump, {f uh, } {d you know, } just as long as he doesn't bend a certain way. /""]",c but  otherwise he can jump f uh  d you know  just as long as he doesnt bend a certain way ,sd,FEMALE,1
+"['{f um. }  {d well, } {f uh, } i have had just wonderful luck with this lab, {f uh, }  /']",f um   d well  f uh  i have had just wonderful luck with this lab f uh   ,sd,FEMALE,1
+"['when i-, - /']",when i  ,%,FEMALE,5
+"[""{f uh, } let's see, winter before last we would bring her in,  [ and, + ] {f uh, } when it was cold. /""]",f uh  lets see winter before last we would bring her in   and   f uh  when it was cold ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } she wouldn't, - /""]",c and  she wouldnt  ,sd,FEMALE,1
+"['i, {d you know, } - /']",i d you know   ,%,FEMALE,5
+"['the next morning you want to take them out,  /']",the next morning you want to take them out  ,sd,FEMALE,1
+"[""{c and } she wouldn't, - /""]",c and  she wouldnt  ,sd,FEMALE,1
+"[""i couldn't get her up without [ p-, + picking ] her up [ and + ] which it was pretty hard to do at eighty pounds. /""]",i couldnt get her up without  p  picking  her up  and   which it was pretty hard to do at eighty pounds ,sd,FEMALE,1
+['<laughter> i bet. /'],laughter i bet ,ba,FEMALE,6
+"['{f um, } until, - /']",f um  until  ,%,FEMALE,5
+"[""if i allowed her to not get up on her own, it'd be two o'clock in the afternoon. /""]",if i allowed her to not get up on her own itd be two oclock in the afternoon ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d anyway, } i, {f uh, } met my son's, {f uh, } college roommate, is a vet  /""]",d anyway  i f uh  met my sons f uh  college roommate is a vet  ,sd,FEMALE,1
+"[""{c and } he said, {f um, } let's give her some race horse shots.  /""]",c and  he said f um  lets give her some race horse shots  ,sd,FEMALE,1
+"['{c and } {d you know } in, - /']",c and  d you know  in  ,%,FEMALE,5
+"[""[ i'm, + i'm ] kind of glad to be able to tell people about this, [ but you, + ] because you all the time, {d you know, } run into people with problems. /""]", im  im  kind of glad to be able to tell people about this  but you   because you all the time d you know  run into people with problems ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"[""{d anyway, } that's when we lived in oklahoma,  /""]",d anyway  thats when we lived in oklahoma  ,sd,FEMALE,1
+"['[ {c and, } + {f uh, } {c so } ] he gave this dog a series of  ((   )) , - /']", c and   f uh  c so   he gave this dog a series of        ,sd,FEMALE,1
+"[""it's, - /""]",its  ,%,FEMALE,5
+"['they give it to race horses, {f uh, } to get rid of, {f uh } cartilage, /']",they give it to race horses f uh  to get rid of f uh  cartilage ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } it's called  ((   )) .  /""]",c and  its called        ,sd,FEMALE,1
+"[""{d anyway, } it's a series of six shots, once a week,  /""]",d anyway  its a series of six shots once a week  ,sd,FEMALE,1
+"['{c and then } i noticed after two shots she was, -/']",c and then  i noticed after two shots she was ,sd,FEMALE,1
+['do you have to give those? /'],do you have to give those ,qy,FEMALE,7
+"['{d well } i could have,  /']",d well  i could have  ,na,FEMALE,21
+"[""{c but } i can't give a shot. /""]",c but  i cant give a shot ,sd,FEMALE,1
+"['{f oh, } i - /']",f oh  i  ,%,FEMALE,5
+"['believe me, i understand. /']",believe me i understand ,ba,FEMALE,6
+"['i took her from enid, oklahoma to oklahoma city every week for six weeks. /']",i took her from enid oklahoma to oklahoma city every week for six weeks ,sd,FEMALE,1
+['{f uh. } /'],f uh  ,b,FEMALE,2
+"['{c and, }  {f uh, } after [ the, + the ] second shot she was significantly better.  /']",c and   f uh  after  the  the  second shot she was significantly better  ,sd,FEMALE,1
+"[""then i didn't notice any improvement till [ the, + after the ] sixth one. /""]",then i didnt notice any improvement till  the  after the  sixth one ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } ever since, - /']",c and  ever since  ,%,FEMALE,5
+"['{c and } he said, {f uh, } a booster, {f uh, } every year or two,']",c and  he said f uh  a booster f uh  every year or two,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{e i mean, } maybe every six months [ or, + or ] something like that  /']",e i mean  maybe every six months  or  or  something like that  ,+,FEMALE,0
+"[""and when i notice in the winter, when it's worse, {d you know, } it's cold weather and so  forth then i have, {f uh, } gotten a booster for her.  /""]",and when i notice in the winter when its worse d you know  its cold weather and so  forth then i have f uh  gotten a booster for her  ,sd,FEMALE,1
+['{c but } not many people in this part of the country know anything about  ((   )) . /'],c but  not many people in this part of the country know anything about       ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"[""i've had to get it from oklahoma.  /""]",ive had to get it from oklahoma  ,sd,FEMALE,1
+"[""they've heard about it  /""]",theyve heard about it  ,sd,FEMALE,1
+"[""{c but } they've really never used it. /""]",c but  theyve really never used it ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i've never heard anything about it either. /""]",ive never heard anything about it either ,sd,FEMALE,1
+"['{c so } dogs that get down in the hips, - /']",c so  dogs that get down in the hips  ,sd,FEMALE,1
+"['{d like } i think german shepherds do it, and probably large dogs. /']",d like  i think german shepherds do it and probably large dogs ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, }  {f uh, } it's just wonderful. /""]",c and   f uh  its just wonderful ,sd,FEMALE,1
+"['does he get, - /']",does he get  ,qy,FEMALE,7
+"['is he an inside dog also, /']",is he an inside dog also ,qy,FEMALE,7
+['{f uh. } /'],f uh  ,%,FEMALE,5
+['{c or } does he just run out in the backyard?  /'],c or  does he just run out in the backyard  ,qrr,FEMALE,33
+['is he fenced in? /'],is he fenced in ,qy,FEMALE,7
+"[""{f um, } {f um, } {d well } we're living now in an area where [ [ we, + we, ] + we're ] in the woods  /""]",f um  f um  d well  were living now in an area where   we  we   were  in the woods  ,sd,FEMALE,1
+['{c and } we take walks.  /'],c and  we take walks  ,sd,FEMALE,1
+"[""i just don't let them,""]",i just dont let them,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } {f uh, } go away from me,  /']",f uh  f uh  go away from me  ,+,FEMALE,0
+['{c but } we take walks through the woods twice a day. /'],c but  we take walks through the woods twice a day ,sd,FEMALE,1
+"[""{f oh, } that's nice. /""]",f oh  thats nice ,ba,FEMALE,6
+"['{c and, }  {f uh, } i can over do it on her. /']",c and   f uh  i can over do it on her ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['{c but } {d anyway, } at least she can go  /']",c but  d anyway  at least she can go  ,sd,FEMALE,1
+"[""{c and } she's not limping along and all that. /""]",c and  shes not limping along and all that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['tell me about your cat. /'],tell me about your cat ,ad,FEMALE,22
+"['{f oh, } stripper, {d well } he started out being a little orphan,  /']",f oh  stripper d well  he started out being a little orphan  ,sd,FEMALE,1
+"['{c and } [ we, + we ] took him in  /']",c and   we  we  took him in  ,sd,FEMALE,1
+"[""{c and, }  {f uh, } he's about two years old now  /""]",c and   f uh  hes about two years old now  ,sd,FEMALE,1
+"['{c and } he loves his treats,  /']",c and  he loves his treats  ,sd,FEMALE,1
+"['{f uh, } both, {f uh, } joey and, {f uh, } stripper get treats <laughter>.  /']",f uh  both f uh  joey and f uh  stripper get treats laughter  ,sd,FEMALE,1
+"[""{c and, }  {f uh, } let's see, -/""]",c and   f uh  lets see ,^h,FEMALE,27
+"['{c and } is, {f um, } stripper an inside cat, or outside? /']",c and  is f um  stripper an inside cat or outside ,qy,FEMALE,7
+"[""{f oh, } {d well } he's outside  /""]",f oh  d well  hes outside  ,sd,FEMALE,1
+"['{c and, }  {f uh, }']",c and   f uh ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""he's got a way to get in,  /""]",hes got a way to get in  ,+,FEMALE,0
+"[""he's got free access of a window we like to keep open. /""]",hes got free access of a window we like to keep open ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['{c so, }  he gets to go in and out whenever he wants to. /']",c so   he gets to go in and out whenever he wants to ,sd,FEMALE,1
+['{d well } of course. /'],d well  of course ,ba,FEMALE,6
+['<laughter>.'],laughter,x,FEMALE,8
+"[""<laughter> that's nice,  /""]",laughter thats nice  ,ba,FEMALE,6
+"['[ they, + they, ] -/']", they  they  ,%,FEMALE,5
+"['joey, on the other hand is a little different.  /']",joey on the other hand is a little different  ,sd,FEMALE,1
+"['he has to go out whenever, {f uh, } we ask him  /']",he has to go out whenever f uh  we ask him  ,sd,FEMALE,1
+"['{c and } [ when he, + when we ] ask him, [ he, + {f uh, } he ] barks.  /']",c and   when he  when we  ask him  he  f uh  he  barks  ,sd,FEMALE,1
+"[""he'll either  bark for food, or he'll bark to go out  /""]",hell either  bark for food or hell bark to go out  ,sd,FEMALE,1
+"[""{c and } he'll tell you which one he wants.  /""]",c and  hell tell you which one he wants  ,sd,FEMALE,1
+"[""# he's been through obedience school. # /""]", hes been through obedience school  ,sd,FEMALE,1
+"['# {d well } he just can, # - /']", d well  he just can   ,sd,FEMALE,1
+['{d well } he has been trained  /'],d well  he has been trained  ,sd,FEMALE,1
+"[""{c and } [ you've  ke-, + you've kept ] [ u-, + it up, ] haven't you. /""]",c and   youve  ke  youve kept   u  it up  havent you ,qy,FEMALE,7
+"['{f oh, } definitely. /']",f oh  definitely ,na,FEMALE,21
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['it is wonderful,  /']",it is wonderful  ,sd,FEMALE,1
+"['[ i, + i ] have some neighbors across the field,  /']", i  i  have some neighbors across the field  ,sd,FEMALE,1
+"['{c and, }  {f um, } they - /']",c and   f um  they  ,%,FEMALE,5
+"[""when we first moved here, {f uh, } when the dogs and i didn't fe-, - /""]",when we first moved here f uh  when the dogs and i didnt fe  ,sd,FEMALE,1
+['we have a very nice kennel and everything  /'],we have a very nice kennel and everything  ,sd,FEMALE,1
+"[""[ {c but, } +  {c but } ] since [ i, + i ] didn't want to, - /""]", c but    c but   since  i  i  didnt want to  ,sd,FEMALE,1
+"['[ i, wa-, +  i just wanted  ] to let them be able to be free for a while. /']", i wa   i just wanted   to let them be able to be free for a while ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so } i kept watch and never let them get away,  /']",c so  i kept watch and never let them get away  ,sd,FEMALE,1
+"['{c but } {d now } every couple weeks, [ they wou-, + one would ] slip away  /']",c but  d now  every couple weeks  they wou  one would  slip away  ,sd,FEMALE,1
+"['{c and } my neighbor said to me, {f oh, } i noticed those [ dogs, +  dogs ] are so well trained,  /']",c and  my neighbor said to me f oh  i noticed those  dogs   dogs  are so well trained  ,sd,FEMALE,1
+"['anytime they hear your voice, they come.  /']",anytime they hear your voice they come  ,sd,FEMALE,1
+['{c so } that made me very proud <laughter>. /'],c so  that made me very proud laughter ,sd,FEMALE,1
+"['{f oh, } yeah <laughter>. /']",f oh  yeah laughter ,b,FEMALE,2
+"['{d well, } have we been talking five minutes? /']",d well  have we been talking five minutes ,qy,FEMALE,7
+"[""i'm not for sure. /""]",im not for sure ,no,FEMALE,31
+"[""i'm not either,  /""]",im not either  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['i think maybe we have,  /']",i think maybe we have  ,sv,FEMALE,3
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } {f um, } {d so } it sounds like you keep your pets for pleasure. /']",d well  f um  d so  it sounds like you keep your pets for pleasure ,sv,FEMALE,3
+"['{f oh, } definitely.  /']",f oh  definitely  ,ba,FEMALE,6
+['have you ever done this before? /'],have you ever done this before ,qy,FEMALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"['{f oh, } okay,  {f um, }  /']",f oh  okay  f um   ,bk,FEMALE,14
+"[""i haven't ever called.  /""]",i havent ever called  ,sd,FEMALE,1
+"[""i've put in the paper work, i just never made the call. /""]",ive put in the paper work i just never made the call ,sd,FEMALE,1
+"['{f oh } really,  /']",f oh  really  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{d so } i didn't know if they stop you when the time is up  /""]",d so  i didnt know if they stop you when the time is up  ,qy^d,FEMALE,16
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['no,  /']",no  ,nn,FEMALE,13
+"[""they don't,  /""]",they dont  ,sd,FEMALE,1
+['no.  /'],no  ,nn,FEMALE,13
+"['[  i, + i ] glanced at the clock when, {f um, } we started  /']",  i  i  glanced at the clock when f um  we started  ,sd,FEMALE,1
+"[""{c and } i think it's been probably about five and a half minutes or something.  /""]",c and  i think its been probably about five and a half minutes or something  ,sd,FEMALE,1
+['{c but } one day i was talking to a lady about gardening  /'],c but  one day i was talking to a lady about gardening  ,sd,FEMALE,1
+"[""{c and } [ i'm, + i ] love gardening  /""]",c and   im  i  love gardening  ,sd,FEMALE,1
+"['{c and } she did too,  /']",c and  she did too  ,sd,FEMALE,1
+"['[ {c an, } + {c and, }  ]']", c an   c and   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ after, + after ] about twelve minutes or something,']", after  after  about twelve minutes or something,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+['the recording came on and said that was the end of the tape <laughter>. /'],the recording came on and said that was the end of the tape laughter ,+,FEMALE,0
+"['{f oh, } <laughter> {d well, } at least you know you did your part. /']",f oh  laughter d well  at least you know you did your part ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""{c but } it's been so much fun too, {f uh, } talk. /""]",c but  its been so much fun too f uh  talk ,sd,FEMALE,1
+['how did you get into this. /'],how did you get into this ,qo,FEMALE,25
+"[""{d well, } my best friend in virginia's daughter, is a part of this project in texas. /""]",d well  my best friend in virginias daughter is a part of this project in texas ,sd,FEMALE,1
+"['{f oh, } i see. /']",f oh  i see ,bk,FEMALE,14
+"['{c and so } she knew that i had the time and [ would be, + would ] enjoy it. /']",c and so  she knew that i had the time and  would be  would  enjoy it ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""that's true. /""]",thats true ,ba,FEMALE,6
+"['{f um, } {d so. } -/']",f um  d so  ,%,FEMALE,5
+"['{e i mean, } i, -/']",e i mean  i ,%,FEMALE,5
+"['{c but } i have a hard time getting anybody, because i guess, - /']",c but  i have a hard time getting anybody because i guess  ,sd,FEMALE,1
+['do you work. /'],do you work ,qy,FEMALE,7
+"['{f um, } yes  /']",f um  yes  ,ny,FEMALE,9
+['i do. /'],i do ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['{c and } probably just got home. /'],c and  probably just got home ,qy^d,FEMALE,16
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{c so, }  {f um, } during the day, i me-, - /']",c so   f um  during the day i me  ,sd,FEMALE,1
+"['i thi-, - /']",i thi  ,%,FEMALE,5
+['{c and } i understand also they want men. /'],c and  i understand also they want men ,sd,FEMALE,1
+"['right,  /']",right  ,aa,FEMALE,4
+['i was going to tell you the same thing.  /'],i was going to tell you the same thing  ,sd,FEMALE,1
+"[""they're really looking for a lot more men to participate. /""]",theyre really looking for a lot more men to participate ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['my husband does. /'],my husband does ,sd,FEMALE,1
+['does he.  /'],does he  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['i need to, -/']",i need to ,%,FEMALE,5
+['yes. /'],yes ,b,FEMALE,2
+"[""i've got some applications,  /""]",ive got some applications  ,sd,FEMALE,1
+['i need to hand them out.  /'],i need to hand them out  ,sd,FEMALE,1
+"[""{c but, }  {f uh, } this is a great project, that they're working on  /""]",c but   f uh  this is a great project that theyre working on  ,sv,FEMALE,3
+"[""{c and } it's really going to lead the way, {f uh, } for a lot of [ econ-, + ] {f um, } applications [ and, + and ] development in the voice area. /""]",c and  its really going to lead the way f uh  for a lot of  econ   f um  applications  and  and  development in the voice area ,sd,FEMALE,1
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['[ wh-, + ] i think so too,  /']", wh   i think so too  ,sv,FEMALE,3
+"[""{c and } i haven't helped them out [ on the me-, + on men ] particularly,  /""]",c and  i havent helped them out  on the me  on men  particularly  ,sd,FEMALE,1
+"[""{c but } my husband [ [ had been ma-, +  in fact, he's been, ] + probably has made ] a few more calls than i have because i tend to not make them around dinner time, /""]",c but  my husband   had been ma   in fact hes been   probably has made  a few more calls than i have because i tend to not make them around dinner time ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i try to, {d you know, } make them [ do, + ] during the day,  /']",i try to d you know  make them  do   during the day  ,sd,FEMALE,1
+"[""{c but } nobody's home. /""]",c but  nobodys home ,sd,FEMALE,1
+['{d well } this is the perfect time for me. /'],d well  this is the perfect time for me ,sd,FEMALE,1
+['# {d well } good. # /'], d well  good  ,ba,FEMALE,6
+"[""# {d well } maybe i'll get you next time. # /""]", d well  maybe ill get you next time  ,sv,FEMALE,3
+['yeah  /'],yeah  ,b,FEMALE,2
+"['it so [ fo-, + ] much fun to talk to you. /']",it so  fo   much fun to talk to you ,fc,FEMALE,10
+"['<laughter> all right,  /']",laughter all right  ,fc,FEMALE,10
+['have a good one. /'],have a good one ,fc,FEMALE,10
+"['you too,  /']",you too  ,fc,FEMALE,10
+['# bye. # /'], bye  ,fc,FEMALE,10
+['# bye. # /'], bye  ,fc,FEMALE,10

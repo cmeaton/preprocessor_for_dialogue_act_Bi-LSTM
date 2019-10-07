@@ -1,0 +1,157 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{f oh, } i guess, {f uh, } this is  [ a, +  a ] topic  near and dear to my heart,']",f oh  i guess f uh  this is   a   a  topic  near and dear to my heart,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['since i [ am a, + am a ] healthy eater, /']",since i  am a  am a  healthy eater ,+,MALE,0
+"['<laughter> {d well, } [ i, +  i ] try to be as well, /']",laughter d well   i   i  try to be as well ,sd,FEMALE,1
+"[""<laughter> {d well, } [ i'm not, +   {f uh, } i, ] - /""]",laughter d well   im not    f uh  i   ,%,MALE,5
+"[""there really isn't any kind of particular food that [ i, +  i ] [ don't, +   don't ] like really,  /""]",there really isnt any kind of particular food that  i   i   dont    dont  like really  ,sd,MALE,1
+['{c and } i like a good italian restaurant --'],c and  i like a good italian restaurant ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- or a good, {f uh, } {f uh, } - /']", or a good f uh  f uh   ,+,MALE,0
+['especially like good prime rib -- /'],especially like good prime rib  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c so } [ if + ] it's, {f uh, } nice to get  out and find a good restaurant like that,  /""]", c so   if   its f uh  nice to get  out and find a good restaurant like that  ,sv,MALE,3
+"['{c and } i live here in, {f uh, } rome, new york,  /']",c and  i live here in f uh  rome new york  ,sd,MALE,1
+['{c and } there are a lot of good restaurants around here. /'],c and  there are a lot of good restaurants around here ,sv,MALE,3
+"[""{f oh, } you're in new york,  /""]",f oh  youre in new york  ,sd,FEMALE,1
+"['i was going to, - /']",i was going to  ,sd,FEMALE,1
+"[""there's a place, if you ever make it to dallas --""]",theres a place if you ever make it to dallas ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- they have the best prime rib.  /'], they have the best prime rib  ,+,FEMALE,0
+"[""it's called lawry's, like lawry's seasoning salt -- /""]",its called lawrys like lawrys seasoning salt  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } it is absolutely wonderful. /'], c and  it is absolutely wonderful ,sv,FEMALE,3
+['really. /'],really ,b,MALE,2
+"['{c and, } {f uh, } we were there a few  months ago,  /']",c and  f uh  we were there a few  months ago  ,sd,FEMALE,1
+"[""{c and } [ it, +  {e i mean, } it's ] kind of pricey,  /""]",c and   it   e i mean  its  kind of pricey  ,sv,FEMALE,3
+"[""{d well, } from new york it probably  doesn't matter,  /""]",d well  from new york it probably  doesnt matter  ,sv,FEMALE,3
+['{c but } <laughter>. -/'],c but  laughter ,%,FEMALE,5
+"['{f oh, } no,  /']",f oh  no  ,ar,MALE,28
+"[""i'm in upstate new york,  /""]",im in upstate new york  ,sd,MALE,1
+"[""{c and } it's actually very inexpensive,  /""]",c and  its actually very inexpensive  ,sd,MALE,1
+"['i, - /']",i  ,%,MALE,5
+"[""[ there's a -- +""]", theres a  ,sd,MALE,1
+"['{f oh, } is it, okay. /']",f oh  is it okay ,ba,FEMALE,6
+"[""-- there's a ] place, {f um, } half a  mile from me here that, {f uh, } has, {f uh, } fantastic prime rib for, {f oh, } eleven dollars --""]", theres a  place f um  half a  mile from me here that f uh  has f uh  fantastic prime rib for f oh  eleven dollars ,+,MALE,0
+['wow. /'],wow ,ba,FEMALE,6
+"['-- for a whole meal, {d you know -- }']", for a whole meal d you know  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- a potato and salad and soup, and the  [ whole, +  whole ] nine yards,  /']", a potato and salad and soup and the   whole   whole  nine yards  ,+,MALE,0
+"['{c so } that, -/']",c so  that ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } i think the cheapest  there probably starts at eighteen,  /']",d well  i think the cheapest  there probably starts at eighteen  ,sd,FEMALE,1
+"['{c and } it includes, {d you know, } salad and rolls and,  {f oh, } some other stuff,  /']",c and  it includes d you know  salad and rolls and  f oh  some other stuff  ,sd,FEMALE,1
+['{c but } --'],c but  ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+['-- it is absolutely wonderful.  /'], it is absolutely wonderful  ,+,FEMALE,0
+"[""it's the best i have ever had. /""]",its the best i have ever had ,sd,FEMALE,1
+"[""{f uh, } i was going to this place  up the street from me is the best i've ever had,  /""]",f uh  i was going to this place  up the street from me is the best ive ever had  ,sd,MALE,1
+"['{c so, }']",c so ,sd,MALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"[""i'll have to go there when i [ get to -- +""]",ill have to go there when i  get to  ,+,MALE,0
+"['{d well, } -/']",d well  ,%,FEMALE,5
+['-- get to ] dallas. /'], get to  dallas ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } [ we like, +  {f uh, }  lots of people down here like ] mexican food -- /']",d well   we like   f uh   lots of people down here like  mexican food  ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['sure. /'],sure ,b,MALE,2
+"[""-- {c so, } {f um, } that's, - /""]", c so  f um  thats  ,%,FEMALE,5
+"['[ i, +  i ]  think italian and mexican food are probably my favorites. /']", i   i   think italian and mexican food are probably my favorites ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but, } {f um, } i'm not into sushi  or any of that kind of stuff. /""]",c but  f um  im not into sushi  or any of that kind of stuff ,sd,FEMALE,1
+"['no,  /']",no  ,b,MALE,2
+"['no,  /']",no  ,b,MALE,2
+"[""i'm [ not into [ the,  + the, ] +   don't do [ the, +  the ] ] [ raw, +  raw ] fish like that,  /""]",im  not into  the   the     dont do  the   the    raw   raw  fish like that  ,sd,MALE,1
+"['{c but } i do {d like, } {f uh, } {d like }  [ a seafood bar, +  {d like } a [ raw, +  raw ]  bar ] {d like } oysters and  things like that, {f uh } -- /']",c but  i do d like  f uh  d like    a seafood bar   d like  a  raw   raw   bar  d like  oysters and  things like that f uh   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ that +  they, ] {f uh, } - /']",  that   they  f uh   ,%,MALE,5
+"['i go on, - /']",i go on  ,sd,MALE,1
+"[""i'm an officer in the air force  and travel quite a bit on business -- /""]",im an officer in the air force  and travel quite a bit on business  ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,FEMALE,2
+"['-- {c so } i, {f uh, } find myself down  in melbourne, florida about [ [ once, +  once ] a month, +  once every two months ] or so --']", c so  i f uh  find myself down  in melbourne florida about   once   once  a month   once every two months  or so ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and, {f uh, } go and hit [ the, +  the ]  oyster bars down there quite a bit -- /']", and f uh  go and hit  the   the   oyster bars down there quite a bit  ,+,MALE,0
+"['{f oh, } yeah -- /']",f oh  yeah  ,b,FEMALE,2
+"['-- {c but, } i love that, /']", c but  i love that ,sd,MALE,1
+"['-- fresh seafood down there, /']", fresh seafood down there ,^2,FEMALE,23
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""[ {c and, } + {f um, } {c and, } ]  {f uh, } maryland's great,  /""]", c and   f um  c and    f uh  marylands great  ,sv,MALE,3
+['you get the crabs -- /'],you get the crabs  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- it's like, i can't go anywhere [ where i + <laughter> --""]", its like i cant go anywhere  where i  laughter ,sd,MALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"[""-- where i ] don't enjoy myself,  /""]", where i  dont enjoy myself  ,+,MALE,0
+"['{c so, } -/']",c so  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['seafood seems to be [ a lit-, +   a little ] bit more expensive [ than, +  than ] other types of food. /']",seafood seems to be  a lit    a little  bit more expensive  than   than  other types of food ,sv,FEMALE,3
+"[""that's true. /""]",thats true ,aa,MALE,4
+"['{c but } it sure is good,  /']",c but  it sure is good  ,sv,FEMALE,3
+"[""{c and } it's supposed to be good for you. /""]",c and  its supposed to be good for you ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{d well, } {f uh, } it's really  strange [ [ that, +  that, ] +  that ] seafood is so  expensive, because [ when you, + ] in reality,  {f uh, } {f uh, } i, say that, {f uh, } the oceans have the greatest [ re-, +  resource ] of food --""]",d well  f uh  its really  strange   that   that    that  seafood is so  expensive because  when you   in reality  f uh  f uh  i say that f uh  the oceans have the greatest  re   resource  of food ,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+"['-- on the planet,  /']", on the planet  ,+,MALE,0
+"[""{c and } yet, we  [ haven't, +  as human beings, haven't ] figured out a way to harvest it economically -- /""]",c and  yet we   havent   as human beings havent  figured out a way to harvest it economically  ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- <laughter> {c so, } we managed to,  {f uh, } figure out how to get at just about everything else, [ but, + {f uh, }']", laughter c so  we managed to  f uh  figure out how to get at just about everything else  but  f uh ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['but ] [ not, +  {f uh, } not ] seafood. /']",but   not   f uh  not  seafood ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['do you like spicy foods  /'],do you like spicy foods  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['[ i like, +  {f uh, } i make ]  [ a, +  a ] wicked chili  /']", i like   f uh  i make    a   a  wicked chili  ,sd,MALE,1
+"['{c and } around here the big spicy thing is {d like, } {f uh, } buffalo wings -- /']",c and  around here the big spicy thing is d like  f uh  buffalo wings  ,sd,MALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"['-- {c and so, } {f uh, } [ [ it, +  people, ] +   they, ] {d you know, } - /']", c and so  f uh    it   people     they  d you know   ,sv,MALE,3
+['you go out to get the chicken wings  /'],you go out to get the chicken wings  ,sd,MALE,1
+['{c and } those are really hot --'],c and  those are really hot ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- and the hotter the better, /']", and the hotter the better ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['<laughter>.'],laughter,x,MALE,8
+"['{d well, } [ we, +  {f uh, } we ] like  spicy food down here, especially, {f uh, } the hot sauce, picante sauce, or salsa --']",d well   we   f uh  we  like  spicy food down here especially f uh  the hot sauce picante sauce or salsa ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['-- whatever you all call it -- /'], whatever you all call it  ,+,FEMALE,0
+['sure. /'],sure ,b,MALE,2
+"['-- {c and, } {f uh, } [ we, + we ]  sure go through a lot of that <laughter>. /']", c and  f uh   we  we   sure go through a lot of that laughter ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c but } i like it hot,  /']",c but  i like it hot  ,sd,FEMALE,1
+"[""{c but } i don't like it real hot --""]",c but  i dont like it real hot ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- because then my nose starts running <laughter>. /'], because then my nose starts running laughter ,+,FEMALE,0
+"['[ [ my, +  generally my, ] +  my ]  scalp will start,  /']",  my   generally my    my   scalp will start  ,sd,MALE,1
+"['i can feel just the top of my scalp getting hot,']",i can feel just the top of my scalp getting hot,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['<laughter> the weirdest, weirdest sensation,']",laughter the weirdest weirdest sensation,+,MALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"['almost like a tingling,  /']",almost like a tingling  ,+,MALE,0
+"[""{c but, }  {f uh, } i don't know,  /""]",c but   f uh  i dont know  ,h,MALE,15
+"['{c but, } {f uh, } - /']",c but  f uh   ,%,MALE,5
+"['yeah,  /']",yeah  ,%,MALE,5
+"[""{d well, } there [ isn't, +  isn't ] too much in the  way of restaurants that i don't like. /""]",d well  there  isnt   isnt  too much in the  way of restaurants that i dont like ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['things that are kind of oddball,   like, {f uh, } thai cuisine,  /']",things that are kind of oddball   like f uh  thai cuisine  ,sv,MALE,3
+['i never been really fond of that stuff.  /'],i never been really fond of that stuff  ,sd,MALE,1
+"['you talk about spicy,  /']",you talk about spicy  ,sd,MALE,1
+"[""[ that'll, +  that'll ] literally blow your head off,  /""]", thatll   thatll  literally blow your head off  ,sv,MALE,3
+"[""it's so hot. /""]",its so hot ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ {c and, } + {f uh, } {c and } ]  i can handle just about any kind of  food without, {f uh, } {f um, } - /']", c and   f uh  c and    i can handle just about any kind of  food without f uh  f um   ,sd,MALE,1
+"['{d well, } {c but } [ that, +  that ]  stuff [ is, +  goes ] one notch beyond, {f uh, }']",d well  c but   that   that   stuff  is   goes  one notch beyond f uh ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['my tolerances, /']",my tolerances ,+,MALE,0
+['uh-huh  /'],uhhuh  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c so. }  although i guess on this  topic are to talk about the, {f uh, } service in a restaurant is always nice though, too -- /']",c so   although i guess on this  topic are to talk about the f uh  service in a restaurant is always nice though too  ,sv,MALE,3
+"['{f oh, } yeah, /']",f oh  yeah ,b,FEMALE,2
+"[""-- # that's one thing, # /""]",  thats one thing  ,sd,MALE,1
+['# [ {c and } the price. # +'],  c and  the price  ,^2,FEMALE,23
+"[""what's that? /""]",whats that ,br,MALE,30
+['{c and } the price. ]'],c and  the price ,+,FEMALE,0
+"['yeah, /']",yeah ,aa,MALE,4
+['make you want to come back. /'],make you want to come back ,+,FEMALE,0
+"['{d well, } i find that lately that so  many people are [ working, +  {d you know, } working ] waitressing jobs {c or } waiter, /']",d well  i find that lately that so  many people are  working   d you know  working  waitressing jobs c or  waiter ,sd,MALE,1

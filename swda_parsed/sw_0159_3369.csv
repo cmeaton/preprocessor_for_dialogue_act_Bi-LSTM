@@ -1,0 +1,126 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } have you seen a new movie lately? /']",d well  have you seen a new movie lately ,qy,MALE,7
+"['{d well, } {f uh, } i am a student  /']",d well  f uh  i am a student  ,sd,MALE,1
+"['{c and } i have, {f uh, } been actually watching more movies on video,']",c and  i have f uh  been actually watching more movies on video,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['than being able to go out to see, {f uh, } movies [ at the store, + {e or }  at the theater. ]  /']",than being able to go out to see f uh  movies  at the store  e or   at the theater   ,+,MALE,0
+"['{f uh, } [ i st-, + i want ] to see the fisher king [ and, + and, ]  {f uh, } catch robin hood. /']",f uh   i st  i want  to see the fisher king  and  and   f uh  catch robin hood ,sd,MALE,1
+['okay.  /'],okay  ,b,MALE,2
+"[""[ i, + {f uh, } i ] haven't seen either one of those.  /""]", i  f uh  i  havent seen either one of those  ,sd,MALE,1
+"['{f uh, } [ what, + what ] are some of the shows that you have been able to rent though? /']",f uh   what  what  are some of the shows that you have been able to rent though ,qw,MALE,12
+"[""{f uh, } let's see.  /""]",f uh  lets see  ,^h,MALE,27
+"[""{f uh, } i'm trying to just think of the ones that have come on.  /""]",f uh  im trying to just think of the ones that have come on  ,sd,MALE,1
+"['{f uh, } white palace which i thought was [ over rated, + over hyped, ] {f um, } recently.  /']",f uh  white palace which i thought was  over rated  over hyped  f um  recently  ,sd,MALE,1
+"[""{d well, } you're catching me [ at, + [ it, + ] {f uh, } {f uh, } at ] mind's end here.  /""]",d well  youre catching me  at   it   f uh  f uh  at  minds end here  ,sd,MALE,1
+['what have you <laughter> seen recently?  <laughter>. /'],what have you laughter seen recently  laughter ,qw,MALE,12
+"['{d well, } maybe [ you, + {f uh, } you ] have seen dances with wolves. /']",d well  maybe  you  f uh  you  have seen dances with wolves ,qy^d,MALE,16
+['yes. /'],yes ,ny,MALE,9
+['okay. /'],okay ,b,MALE,2
+['yes. /'],yes ,b,MALE,2
+['what did you think of that one? /'],what did you think of that one ,qo,MALE,25
+['enjoyed that quite a bit. /'],enjoyed that quite a bit ,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"['{f um, } i thought [ [ the, + {f uh, } the cima-, ] + the cinematography ] was excellent. /']",f um  i thought   the  f uh  the cima   the cinematography  was excellent ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } the story was, - /']",f uh  the story was  ,sd,MALE,1
+"['{f uh, } though  it tended to be a little one sided --']",f uh  though  it tended to be a little one sided ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- {f uh, } it was good.  /']", f uh  it was good  ,+,MALE,0
+"['{f uh, } [ it was, + it was ] believable. /']",f uh   it was  it was  believable ,sd,MALE,1
+"['[ i, + {f uh, } i ] just moved down, in fact, from south dakota [ in, + in ] june,  /']", i  f uh  i  just moved down in fact from south dakota  in  in  june  ,sd,MALE,1
+"[""{c and } that's when the movie was filmed, /""]",c and  thats when the movie was filmed ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, }  {f uh, } [ we, + [ when, + when ] the movie came out, we  ] went, - /']",c and   f uh   we   when  when  the movie came out we   went  ,sd,MALE,1
+"['{f uh, } my dad lives in the state capital, which is pierre -- /']",f uh  my dad lives in the state capital which is pierre  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } it was filmed right outside of pierre.  /'], c and  it was filmed right outside of pierre  ,sd,MALE,1
+"['in fact, [ [ the buffalo, + the scene, ] + the big buffalo herd scene, ] [ that was, + that was ] a live scene. /']",in fact   the buffalo  the scene   the big buffalo herd scene   that was  that was  a live scene ,sd,MALE,1
+['wow. /'],wow ,ba,MALE,6
+"[""{f uh, } there's a guy that has got [ a, + a ] buffalo farm,  /""]",f uh  theres a guy that has got  a  a  buffalo farm  ,sd,MALE,1
+"['{c and } he has got over ten thousand head of buffalo [ {c and, } + {c and, } ] {f uh, } [ we, + my dad ] has got a little plane, we flew over it all a-, looked at the buffalo,  /']",c and  he has got over ten thousand head of buffalo  c and   c and   f uh   we  my dad  has got a little plane we flew over it all a looked at the buffalo  ,sd,MALE,1
+['it was really neat.  /'],it was really neat  ,sd,MALE,1
+"['[ {c but, } + {f uh, } {c so } ] we are watching [ the, + the ] movie in the movie theater in pierre -- /']", c but   f uh  c so   we are watching  the  the  movie in the movie theater in pierre  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and, }  {f uh, } just every time i would start to get into the movie, and it was getting good --']", c and   f uh  just every time i would start to get into the movie and it was getting good ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- someone in the crowd would yell, hey, there's john red eagle, {d you know }  /""]", someone in the crowd would yell hey theres john red eagle d you know   ,+,MALE,0
+"['{c or, }']",c or ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""{d you know, } they'd start recognizing people. /""]",d you know  theyd start recognizing people ,+,MALE,0
+"['[ they knew, + they knew ] the extras or the, -/']", they knew  they knew  the extras or the ,bf,MALE,20
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""{d so, }  <laughter> [ i kind of, + i think ] i enjoyed it more [ when i, + when i ] watched it on video cassette than i did, {f uh, } in the movie theater because my attention would get diverted every time they'd say that.  /""]",d so   laughter  i kind of  i think  i enjoyed it more  when i  when i  watched it on video cassette than i did f uh  in the movie theater because my attention would get diverted every time theyd say that  ,sd,MALE,1
+"[""i'd go [ {d now, } + {d now } ] which one could that be --""]",id go  d now   d now   which one could that be ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {d you know, }  /']", d you know   ,+,MALE,0
+"[""{c and } [ i'd, + i'd ] start trying to focus in on people instead [ of, + of ] picking up the overall, -/""]",c and   id  id  start trying to focus in on people instead  of  of  picking up the overall ,sd,MALE,1
+['scope. /'],scope ,^2,MALE,23
+['right.  /'],right  ,aa,MALE,4
+['exactly. /'],exactly ,aa,MALE,4
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ {c so, } + {c but } ] [ i, + i ] thought it was a good film.  /']", c so   c but    i  i  thought it was a good film  ,sd,MALE,1
+"['{c but } you are right,  /']",c but  you are right  ,sv,MALE,3
+"['[ i think, + i think ] it was very one sided. /']", i think  i think  it was very one sided ,sv,MALE,3
+"['[ it, + it ] was,  /']", it  it  was  ,sv,MALE,3
+"[""{c but } it's a side that hasn't been told.  {f uh, } as far as, {d you know, } telling it from, {d you know, } the indians as the good guys and the, the white men as the bad guys.  /""]",c but  its a side that hasnt been told  f uh  as far as d you know  telling it from d you know  the indians as the good guys and the the white men as the bad guys  ,sv,MALE,3
+"['[ i, + i ] really thought about, {f uh, } all [ the, + the  ] westerns that we have seen for years and  years, /']", i  i  really thought about f uh  all  the  the   westerns that we have seen for years and  years ,sd,MALE,1
+['sure. /'],sure ,b,MALE,2
+"[""{c and } it's just, shoot the indians,  /""]",c and  its just shoot the indians  ,sd,MALE,1
+['{c and } they are always the savages. /'],c and  they are always the savages ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['{d so, } -/']",d so  ,%,MALE,5
+"['<throat_clearing>  in fact, i was watching wild wild west last night  /']",throatclearing  in fact i was watching wild wild west last night  ,sd,MALE,1
+"['{c and, }']",c and ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['it was a similar, {f uh, } situation with the iroquois indians attacking [ a, + an ] army fort. /']",it was a similar f uh  situation with the iroquois indians attacking  a  an  army fort ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f um, } {c but } it was an interesting movie.  /']",f um  c but  it was an interesting movie  ,sd,MALE,1
+"['{f uh, } have you seen pretty woman? /']",f uh  have you seen pretty woman ,qy,MALE,7
+['yes. /'],yes ,ny,MALE,9
+['{d now } i thought that was a good show. /'],d now  i thought that was a good show ,sd,MALE,1
+['yeah.  /'],yeah  ,aa,MALE,4
+"['[ that was, + that was ] a good movie.  /']", that was  that was  a good movie  ,sv,MALE,3
+"['{f um, } it was just kind of a get away movie. /']",f um  it was just kind of a get away movie ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['kind of, -/']",kind of ,%,MALE,5
+"[""[ it didn't, + {f uh, } it didn't ] have any real social bearing  /""]", it didnt  f uh  it didnt  have any real social bearing  ,sv,MALE,3
+"['[ {c or, } +']", c or  ,sv,MALE,3
+['<laughter>.'],laughter,x,MALE,8
+"[""{f uh, } {c and } ] it wasn't really a comedy,  /""]",f uh  c and   it wasnt really a comedy  ,+,MALE,0
+['{c but } it was an enjoyable movie.  /'],c but  it was an enjoyable movie  ,sd,MALE,1
+"['[ it was, + it was ] kind of like the star wars --']", it was  it was  kind of like the star wars ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- [ s-, + series, ] {d you know, } just something a little different,']",  s  series  d you know  just something a little different,+,MALE,0
+['# right. # /'], right  ,b,MALE,2
+['# yet # believable. /'], yet  believable ,+,MALE,0
+['yes.  /'],yes  ,aa,MALE,4
+"[""you're bringing it,  /""]",youre bringing it  ,sd,MALE,1
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"[""[ i had a, + i sure did have a ] mind lock about the movies i've seen.  /""]", i had a  i sure did have a  mind lock about the movies ive seen  ,sd,MALE,1
+"['<laughter>  {c but, }  yeah,  /']",laughter  c but   yeah  ,%,MALE,5
+"[""i've seen pretty woman and dances with wolves,  /""]",ive seen pretty woman and dances with wolves  ,sd,MALE,1
+"['{c and, }  {f uh, } -/']",c and   f uh  ,%,MALE,5
+"['{f uh, } {d now } [ [ are you, + are you going to see, ] + {e or } [ do you, + are you ] ] much of a star trek fan,  /']",f uh  d now    are you  are you going to see   e or   do you  are you   much of a star trek fan  ,qy,MALE,7
+"[""are you going to see this next one that's coming out? /""]",are you going to see this next one thats coming out ,qy,MALE,7
+"['{f oh, } definitely. /']",f oh  definitely ,na,MALE,21
+['have you seen the rest? /'],have you seen the rest ,qy,MALE,7
+['yes. /'],yes ,ny,MALE,9
+"[""i think i've missed one.  /""]",i think ive missed one  ,sd,MALE,1
+"[""i'm not sure,  /""]",im not sure  ,h,MALE,15
+"[""{c but } i think i've missed one. /""]",c but  i think ive missed one ,sd,MALE,1
+"['i actually went to the star trek twenty fifth anniversary marathon that happened about a month ago, /']",i actually went to the star trek twenty fifth anniversary marathon that happened about a month ago ,sd,MALE,1
+['{c and } they showed all five in a row. /'],c and  they showed all five in a row ,sd,MALE,1
+['was that here in dallas? /'],was that here in dallas ,qy,MALE,7
+"['{f oh, } they had it everywhere,  /']",f oh  they had it everywhere  ,sd,MALE,1
+"['{f uh, } every major city had one theater that did it  /']",f uh  every major city had one theater that did it  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+['okay.  /'],okay  ,b,MALE,2
+['{c because } we had one here in dallas. /'],c because  we had one here in dallas ,sd,MALE,1
+"['right,  /']",right  ,aa,MALE,4
+"['{c and } they did it in houston,  /']",c and  they did it in houston  ,sd,MALE,1
+"['[ they did it, + {d well, } they did it ] everywhere.   /']", they did it  d well  they did it  everywhere   ,sd,MALE,1
+"['{c and } [ it was, + it was ] really good to see all the movies  and how the story developed,  /']",c and   it was  it was  really good to see all the movies  and how the story developed  ,sd,MALE,1
+"[""{c and } the thing that i didn't realize is that if you watch the movies in a row, {f uh, } time wise they happen one after another --""]",c and  the thing that i didnt realize is that if you watch the movies in a row f uh  time wise they happen one after another ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- and just [ no, + no ] time between them,  /']", and just  no  no  time between them  ,+,MALE,0
+"['{c but } you can watch the characters develop, /']",c but  you can watch the characters develop ,sv,MALE,3

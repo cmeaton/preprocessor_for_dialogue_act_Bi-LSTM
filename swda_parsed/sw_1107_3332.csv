@@ -1,0 +1,178 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['doug, you want to start?  <laughter>. /']",doug you want to start  laughter ,ad,FEMALE,22
+['sure. /'],sure ,aa,MALE,4
+"[""you don't use any credit cards, i don't imagine. /""]",you dont use any credit cards i dont imagine ,qy^d,FEMALE,16
+['no.  /'],no  ,nn,MALE,13
+"['of course i use,']",of course i use,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['credit cards.  /'],credit cards  ,+,MALE,0
+['i have a couple of credit cards --'],i have a couple of credit cards ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- and, {f uh, } use them. /']", and f uh  use them ,+,MALE,0
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['do you use them a lot? /'],do you use them a lot ,qy,FEMALE,7
+"['{f oh, } we try not to. /']",f oh  we try not to ,ng,MALE,29
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""we're on a pretty strict and tight budget. /""]",were on a pretty strict and tight budget ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""we use the credit cards, however, when we're at a situation where we don't have either the cash or the checkbook handy. /""]",we use the credit cards however when were at a situation where we dont have either the cash or the checkbook handy ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c or } we use credit cards also, if we want to get an extended warranty on an item that we're purchasing.  /""]",c or  we use credit cards also if we want to get an extended warranty on an item that were purchasing  ,sd,MALE,1
+['[ {d so. } +'], d so  ,%,MALE,5
+"[""{f oh, } {d well, } that's an idea,  /""]",f oh  d well  thats an idea  ,ba,FEMALE,6
+"[""that's a thought,  /""]",thats a thought  ,ba,FEMALE,6
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d so, } ] yes,  /']",d so   yes  ,+,MALE,0
+"[""{c and } basically we use it mainly when we're traveling --""]",c and  basically we use it mainly when were traveling ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- or out of state [ or -- +'], or out of state  or  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- or ] somewhere where, {d you know, } [ they don't take local, + they don't take out of state ] checks -- /""]", or  somewhere where d you know   they dont take local  they dont take out of state  checks  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and so } when we're traveling some. - /""]", c and so  when were traveling some  ,sd,MALE,1
+['do you use credit cards often? /'],do you use credit cards often ,qy,MALE,7
+['my husband loves them <laughter>. /'],my husband loves them laughter ,no,FEMALE,31
+['<laughter>.'],laughter,x,MALE,8
+"['{f uh, } we do use them.  /']",f uh  we do use them  ,sd,FEMALE,1
+"['{f uh, } we try not to,  /']",f uh  we try not to  ,sd,FEMALE,1
+"[""{c but, } [ he, + he's ] one who believes in credit cards,  /""]",c but   he  hes  one who believes in credit cards  ,sd,FEMALE,1
+['{c and } he uses them quite a bit. /'],c and  he uses them quite a bit ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['he likes using them and then just pay at the end of the month <laughter>. /'],he likes using them and then just pay at the end of the month laughter ,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,MALE,2
+['well --'],well ,sv,MALE,3
+"['[ he, + he ] likes that, /']", he  he  likes that ,sd,FEMALE,1
+"[""-- [ that's, + that's ] a good thing, because lot of people don't pay at the end of the month -- /""]",  thats  thats  a good thing because lot of people dont pay at the end of the month  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } they just pay the minimum required balance. /'], c and  they just pay the minimum required balance ,sd,MALE,1
+"[""{c and } that's when you get into expenses. /""]",c and  thats when you get into expenses ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,MALE,4
+['{c and } you get in over your head. /'],c and  you get in over your head ,sv,MALE,3
+['right. /'],right ,aa,FEMALE,4
+"[""it'll, {f uh, } - /""]",itll f uh   ,%,MALE,5
+['some people i know also try to use it as float --'],some people i know also try to use it as float ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- where they buy something now  /'], where they buy something now  ,+,MALE,0
+"[""{c and } say, {d well, } i'm going to buy this when it's good and on sale  /""]",c and  say d well  im going to buy this when its good and on sale  ,sd,MALE,1
+['{c and then } i can --'],c and then  i can ,^q,MALE,19
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- go ahead and pay for it when i get my check at the end of the month  /'], go ahead and pay for it when i get my check at the end of the month  ,+,MALE,0
+"[""when i'm being paid. /""]",when im being paid ,^q,MALE,19
+['right.  /'],right  ,b,FEMALE,2
+"['{d well, } sometimes you do come on bargains and that,  /']",d well  sometimes you do come on bargains and that  ,sd,FEMALE,1
+"[""{c and } it's really useful. /""]",c and  its really useful ,sv,FEMALE,3
+"[""that's true. /""]",thats true ,aa,MALE,4
+"[""{c and } some places won't take, {d you know, } {d like } personal checks or cash, even -- /""]",c and  some places wont take d you know  d like  personal checks or cash even  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c but } they would take a credit card. /'], c but  they would take a credit card ,sd,FEMALE,1
+['right.  /'],right  ,aa,MALE,4
+"['[ how a-, + how are ] the laws in pennsylvania, {f uh, } [ as, + as ] regard, {d well } not the laws, but the [ rates, + credit card rates ] in pennsylvania?  /']", how a  how are  the laws in pennsylvania f uh   as  as  regard d well  not the laws but the  rates  credit card rates  in pennsylvania  ,qo,MALE,25
+"['for example down here, when you go up to a gas station --']",for example down here when you go up to a gas station ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- you get an extra charge for credit cards --'], you get an extra charge for credit cards ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+['-- than you would by paying for cash.  /'], than you would by paying for cash  ,+,MALE,0
+['are they the same there? /'],are they the same there ,qy,MALE,7
+"['we, - /']",we  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['we have the same thing up here,  /']",we have the same thing up here  ,sd,FEMALE,1
+"[""{c so } we don't deal where they do that <laughter>. /""]",c so  we dont deal where they do that laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""[ we cha-, + {d you know, } we go ] to places where they don't charge extra.  /""]", we cha  d you know  we go  to places where they dont charge extra  ,sd,FEMALE,1
+"['some of them charge five cents a gallon, even,  /']",some of them charge five cents a gallon even  ,sd,FEMALE,1
+"['{d like } the gas stations more, -/']",d like  the gas stations more ,sd,FEMALE,1
+"[""that's pretty steep. /""]",thats pretty steep ,ba,MALE,6
+"['{c and, } {f uh, } we just try to avoid, {d you know, } the ones that do that,  /']",c and  f uh  we just try to avoid d you know  the ones that do that  ,sd,FEMALE,1
+"[""we just don't, {f uh, } go there --""]",we just dont f uh  go there ,sd,FEMALE,1
+['yes. /'],yes ,b,MALE,2
+"[""-- because there's enough other ones around that don't charge you anything  /""]", because theres enough other ones around that dont charge you anything  ,+,FEMALE,0
+['extra --'],extra ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c because } {d actually, } to me, credit cards are the same as cash,  /']", c because  d actually  to me credit cards are the same as cash  ,+,FEMALE,0
+"['to me they are, anyway, /']",to me they are anyway ,sd,FEMALE,1
+"['yes,  /']",yes  ,aa,MALE,4
+['because you make the deduction at the time of the purchase  /'],because you make the deduction at the time of the purchase  ,sd,MALE,1
+"['[ {c and, } + {c and } ] so  that --']", c and   c and   so  that ,qy,MALE,7
+['right. /'],right ,aa,FEMALE,4
+['-- the end of the month or when you get your credit card bill --'], the end of the month or when you get your credit card bill ,+,MALE,0
+"['right,  /']",right  ,aa,FEMALE,4
+['yeah. /'],yeah ,aa,FEMALE,4
+"[""-- are you saying that that way you're not left stranded --""]", are you saying that that way youre not left stranded ,+,MALE,0
+['yes. /'],yes ,aa,FEMALE,4
+['-- and high and dry <laughter>. /'], and high and dry laughter ,+,MALE,0
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['right. /'],right ,na,FEMALE,21
+['very good.  /'],very good  ,ba,MALE,6
+"[""[ you're, + you're ] one of the [ good, + i guess, good ] faithful shoppers that don't get into a problem when it comes to budgeting their money. /""]", youre  youre  one of the  good  i guess good  faithful shoppers that dont get into a problem when it comes to budgeting their money ,sd,MALE,1
+"[""{d well, } i can't say we never have.  /""]",d well  i cant say we never have  ,sd,FEMALE,1
+"['now we have, {d you know, } at times, made payments --']",now we have d you know  at times made payments ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- <laughter> on our things,  /']", laughter on our things  ,+,FEMALE,0
+['{c but } we try not to.  /'],c but  we try not to  ,sd,FEMALE,1
+"['we try hard, /']",we try hard ,sd,FEMALE,1
+"['{d well, } yeah,  /']",d well  yeah  ,b,MALE,2
+"['{d well, } <throat_clearing> i see that as an advantage to a credit card, also -- /']",d well  throatclearing i see that as an advantage to a credit card also  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- that you [ can -- +'], that you  can  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- can ] find yourselves in those situations and use a credit card [ to -- +'], can  find yourselves in those situations and use a credit card  to  ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+['-- to ] help yourself. /'], to  help yourself ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"[""{c so } i think that there's a great advantage to a credit card in those situations. /""]",c so  i think that theres a great advantage to a credit card in those situations ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""because sometimes, {f uh, } there's times when you [ may, + maybe ] couldn't take advantage of something -- /""]",because sometimes f uh  theres times when you  may  maybe  couldnt take advantage of something  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c but } with a credit card you can.  /'], c but  with a credit card you can  ,sv,FEMALE,3
+['{d so. } -/'],d so  ,%,FEMALE,5
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['{f um, } do you have, {f uh, } multiple credit cards? /']",f um  do you have f uh  multiple credit cards ,qy,MALE,7
+['{f uh. } /'],f uh  ,%,FEMALE,5
+['{c and } do you find that advantageous  /'],c and  do you find that advantageous  ,qy,MALE,7
+"['{c or, } -/']",c or  ,qy,MALE,7
+"[""{d well, } i think we're narrowing it down, {d actually. }  /""]",d well  i think were narrowing it down d actually   ,sd,FEMALE,1
+"['{f uh, } {f uh, } like i said, my husband likes them,  /']",f uh  f uh  like i said my husband likes them  ,sd,FEMALE,1
+"['{c and } we have quite a few,  /']",c and  we have quite a few  ,sd,FEMALE,1
+"[""{c but } [ we really get, + when you get ] down to the nitty gritty, there's probably three that we use --""]",c but   we really get  when you get  down to the nitty gritty theres probably three that we use ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- most of the time. /'], most of the time ,+,FEMALE,0
+['right.  /'],right  ,b,MALE,2
+"[""[ we're, + we're ] actually in the same boat. /""]", were  were  actually in the same boat ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['we like to use three, {f uh, } basic credit cards. /']",we like to use three f uh  basic credit cards ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""that way we're not confused  /""]",that way were not confused  ,sd,MALE,1
+"[""{c and } we don't have an awful lot of expenses or  surprises when it comes --""]",c and  we dont have an awful lot of expenses or  surprises when it comes ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- the end of the month.   /'], the end of the month   ,+,MALE,0
+"['{c and, } do you find that you get an awful lot of credit card applications through the mail? /']",c and  do you find that you get an awful lot of credit card applications through the mail ,qy,MALE,7
+"['{f oh, } yes. /']",f oh  yes ,ny,FEMALE,9
+"['once a week,  /']",once a week  ,sd,MALE,1
+"['twice a <laughter> week,  /']",twice a laughter week  ,sd,MALE,1
+['{c or } three times a week. /'],c or  three times a week ,sd,MALE,1
+"[""{d well, } it's not every week,  /""]",d well  its not every week  ,sd,FEMALE,1
+"['{c but } [ you, + you ] do get them.  /']",c but   you  you  do get them  ,sd,FEMALE,1
+['they make it very readily available. /'],they make it very readily available ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['almost too much so.  /'],almost too much so  ,sv,FEMALE,3
+"[""{c but } [ i re-, + i really ] don't like it the charges that,   {d you know, } - /""]",c but   i re  i really  dont like it the charges that   d you know   ,sd,FEMALE,1
+"['we try to [ limit, + look ] at that also,  /']",we try to  limit  look  at that also  ,sd,FEMALE,1
+['what they charge per year --'],what they charge per year ,sd,FEMALE,1
+"['right,  /']",right  ,b,MALE,2
+['{d so } the annual fee. -/'],d so  the annual fee ,bf,MALE,20
+"['-- to use our money, {d you know } -- /']", to use our money d you know   ,+,FEMALE,0
+"['right,  /']",right  ,b,MALE,2
+"['right, /']",right ,b,MALE,2
+"[""-- they're charging us to spend our money,  /""]", theyre charging us to spend our money  ,sd,FEMALE,1
+"[""{c and, } [ i, + i'm ] not real crazy about that,  /""]",c and   i  im  not real crazy about that  ,sd,FEMALE,1
+['{c so } we try to look at that also. /'],c so  we try to look at that also ,sd,FEMALE,1
+"['yes,  /']",yes  ,b,MALE,2
+['{d so } there is the basic annual fee for the credit card --'],d so  there is the basic annual fee for the credit card ,sd,MALE,1
+"['uh-huh, /']",uhhuh ,b,FEMALE,2
+['-- plus they charge any where from seventeen to twenty-three percent --'], plus they charge any where from seventeen to twentythree percent ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"['-- {f uh, } based upon what the state will allow, /']", f uh  based upon what the state will allow ,+,MALE,0

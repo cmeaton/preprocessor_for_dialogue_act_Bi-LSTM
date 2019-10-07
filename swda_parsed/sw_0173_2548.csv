@@ -1,0 +1,217 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['what kind of a car do you drive now? /'],what kind of a car do you drive now ,qw,FEMALE,12
+['i drive a honda prelude. /'],i drive a honda prelude ,sd,FEMALE,1
+['do you?  /'],do you  ,bh,FEMALE,18
+['i drive a honda accord. /'],i drive a honda accord ,sd,FEMALE,1
+"['{f oh, } yeah <laughter>. /']",f oh  yeah laughter ,b,FEMALE,2
+['yeah <laughter>. /'],yeah laughter ,b,FEMALE,2
+['i bought mine a year ago  /'],i bought mine a year ago  ,sd,FEMALE,1
+"[""{c  so } i'm not buying a car any time soon. /""]",c  so  im not buying a car any time soon ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['me either.  /'],me either  ,sd,FEMALE,1
+"['i just bought mine, {f uh, }  /']",i just bought mine f uh   ,sd,FEMALE,1
+['it will be a year in august. /'],it will be a year in august ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['i love it though.  /'],i love it though  ,sd,FEMALE,1
+['i love hondas. /'],i love hondas ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['it, -/']",it ,%,FEMALE,5
+['i think i found my car. /'],i think i found my car ,sd,FEMALE,1
+"['{d well, } [ i, +  i ] like where all the controls [ [ are -- +']",d well   i   i  like where all the controls   are  ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""--  they're, ] + they're ] in good spots  /""]",  theyre   theyre  in good spots  ,+,FEMALE,0
+"['{f oh, } really, /']",f oh  really ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+['i have a standard. /'],i have a standard ,sd,FEMALE,1
+"['{c but, }  {f um, } - /']",c but   f um   ,%,FEMALE,5
+"['i, - /']",i  ,%,FEMALE,5
+"[""[ it's,  +   {c an } it's ] supposedly real reliable /""]", its     c an  its  supposedly real reliable ,sd,FEMALE,1
+"[""the only thing i've ever heard about hondas is that the breaks go out first. /""]",the only thing ive ever heard about hondas is that the breaks go out first ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+"[""i hadn't heard that. /""]",i hadnt heard that ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['what did you have before you bought that. /'],what did you have before you bought that ,qw,FEMALE,12
+['i had a buick regal. /'],i had a buick regal ,sd,FEMALE,1
+['did you? /'],did you ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+"['i had, {f uh, } a mazda r x seven before that  /']",i had f uh  a mazda r x seven before that  ,sd,FEMALE,1
+"[""{c and } that was the worse car i've ever driven in my life. /""]",c and  that was the worse car ive ever driven in my life ,sd,FEMALE,1
+"['the buick [ was, +  was ] great.  /']",the buick  was   was  great  ,sd,FEMALE,1
+['it was nine years old  /'],it was nine years old  ,sd,FEMALE,1
+"['{c and } it,']",c and  it,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+['was still going strong.  /'],was still going strong  ,+,FEMALE,0
+"['the only problems i had with it in the nine years that i owned it, i had to replace the  compressor when it was about seven years old. /']",the only problems i had with it in the nine years that i owned it i had to replace the  compressor when it was about seven years old ,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+"['{c and } that was the only major problem  that i had, {e i mean, }  /']",c and  that was the only major problem  that i had e i mean   ,sd,FEMALE,1
+['i had {d like } little piddly things like --'],i had d like  little piddly things like ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- i had to replace the muffler  /'], i had to replace the muffler  ,+,FEMALE,0
+['{c and } i had replaced the tires  /'],c and  i had replaced the tires  ,sd,FEMALE,1
+"['{c and, }  {f uh, } seems like it had a radiator leak once.  /']",c and   f uh  seems like it had a radiator leak once  ,sd,FEMALE,1
+"['{c but } i never had any major anything,']",c but  i never had any major anything,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['other than the compressor. /'],other than the compressor ,+,FEMALE,0
+['i really never had anything major with my mazda  /'],i really never had anything major with my mazda  ,sd,FEMALE,1
+['{c but } it was a standard also  /'],c but  it was a standard also  ,sd,FEMALE,1
+"['{c and } the clutch went out on it toward the end, /']",c and  the clutch went out on it toward the end ,sd,FEMALE,1
+['i had it five years  /'],i had it five years  ,sd,FEMALE,1
+"['{c and } the [ last year, +  last two years ] it seemed to go out really easily.  /']",c and  the  last year   last two years  it seemed to go out really easily  ,sd,FEMALE,1
+['i think it went out twice in two years  /'],i think it went out twice in two years  ,sd,FEMALE,1
+"[""{c and } [ that's, +  that's ]  a lot  /""]",c and   thats   thats   a lot  ,sv,FEMALE,3
+"[""it shouldn't go out that much. /""]",it shouldnt go out that much ,sv,FEMALE,3
+['huh-uh. /'],huhuh ,aa,FEMALE,4
+['{c and so } i went ahead and bought another standard when i bought the honda  /'],c and so  i went ahead and bought another standard when i bought the honda  ,sd,FEMALE,1
+"[""{c but } i don't think i'm going to do that again. /""]",c but  i dont think im going to do that again ,sd,FEMALE,1
+"[""i think i'm going back to automatic now. /""]",i think im going back to automatic now ,sd,FEMALE,1
+"['{d well, } i never, {d well, } - /']",d well  i never d well   ,sd,FEMALE,1
+['i kind of know how to drive standard  /'],i kind of know how to drive standard  ,sd,FEMALE,1
+"[""{c but } i've never owned one  /""]",c but  ive never owned one  ,sd,FEMALE,1
+"[""{c so } [ i hadn't, +  i don't ] drive one a lot. /""]",c so   i hadnt   i dont  drive one a lot ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{d so, }  i don't feel comfortable in traffic with it. /""]",d so   i dont feel comfortable in traffic with it ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c and } for everything i've heard it's  a lot easier to sell an automatic. /""]",c and  for everything ive heard its  a lot easier to sell an automatic ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['it is. /'],it is ,aa,FEMALE,4
+"['[ {c and, } +']", c and  ,sd,FEMALE,1
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+['{c and } ] resale value is really important to me <laughter>. /'],c and   resale value is really important to me laughter ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['it is me too  /'],it is me too  ,sd,FEMALE,1
+"[""that's why i got the honda. /""]",thats why i got the honda ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['hondas have great resale value. /'],hondas have great resale value ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['the mazda definitely did not <laughter>.  /'],the mazda definitely did not laughter  ,sd,FEMALE,1
+['not at all.  /'],not at all  ,sd,FEMALE,1
+"[""they're worse than american cars i think or just as bad as far as resale goes. /""]",theyre worse than american cars i think or just as bad as far as resale goes ,sd,FEMALE,1
+"['i did pretty well with my, {f uh, }  regal because it was in really good shape  /']",i did pretty well with my f uh   regal because it was in really good shape  ,sd,FEMALE,1
+"['{c but, }']",c but ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['it still looked real nice,  /']",it still looked real nice  ,+,FEMALE,0
+"['[ the, +  the ]  interior was still really nice,  /']", the   the   interior was still really nice  ,sd,FEMALE,1
+"[""there wasn't cracks all over the dash board and stuff. /""]",there wasnt cracks all over the dash board and stuff ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['{c and } it had [ some, +  some ] nice features. /']",c and  it had  some   some  nice features ,sd,FEMALE,1
+"['{c  so } i ended up okay with the buick, /']",c  so  i ended up okay with the buick ,sd,FEMALE,1
+['good. /'],good ,ba,FEMALE,6
+"['{c and } i anticipate the same thing with  the honda whenever i decide to sell it,  /']",c and  i anticipate the same thing with  the honda whenever i decide to sell it  ,sd,FEMALE,1
+"['of course, i may never sell it <laughter>, /']",of course i may never sell it laughter ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""i may drive it until it's dead  /""]",i may drive it until its dead  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""that's what i did with the mazda,  drive it [ until the, + until the ] clutch went out and the wheels fell off, /""]",thats what i did with the mazda  drive it  until the  until the  clutch went out and the wheels fell off ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{d so, }  probably what i'll do again. -/""]",d so   probably what ill do again ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['{c but } i really like the hondas.  /'],c but  i really like the hondas  ,sd,FEMALE,1
+['i like foreign cars --'],i like foreign cars ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- a lot. /'], a lot ,+,FEMALE,0
+"['{d well, } -/']",d well  ,%,FEMALE,5
+['i looked at the mitsubishi galant.  /'],i looked at the mitsubishi galant  ,sd,FEMALE,1
+"['i was looking for a four door car having driven the r x seven so long, /']",i was looking for a four door car having driven the r x seven so long ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } it was so small  /'],c and  it was so small  ,sd,FEMALE,1
+"[""{c and } it's really impractical.  /""]",c and  its really impractical  ,sd,FEMALE,1
+"['{c so, }  i wanted something with a real trunk, and four doors something easy to get in  and out of  /']",c so   i wanted something with a real trunk and four doors something easy to get in  and out of  ,sd,FEMALE,1
+['{c and } i looked at the galant  /'],c and  i looked at the galant  ,sd,FEMALE,1
+['{c and } those were really nice  /'],c and  those were really nice  ,sd,FEMALE,1
+['{c and } i can get them for a great price. /'],c and  i can get them for a great price ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but } i found it hard to deal with  [ the, + the ] dealership i was going through. /']",c but  i found it hard to deal with   the  the  dealership i was going through ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""{d so, }  that's how i ended up with a honda. /""]",d so   thats how i ended up with a honda ,sd,FEMALE,1
+"[""i wasn't even looking for a car when i bought this car.  /""]",i wasnt even looking for a car when i bought this car  ,sd,FEMALE,1
+"['[ i, +  {f uh, } i ] was thinking about buying a prelude from a friend  who was moving to new york or something  /']", i   f uh  i  was thinking about buying a prelude from a friend  who was moving to new york or something  ,sd,FEMALE,1
+"[""[ {c so } +  {c and } ] she was going  to sell her car because she didn't need it anymore  /""]", c so    c and   she was going  to sell her car because she didnt need it anymore  ,sd,FEMALE,1
+['{c and } it was only like a year old  /'],c and  it was only like a year old  ,sd,FEMALE,1
+"['{c and } i had never driven, {f uh, } a prelude. /']",c and  i had never driven f uh  a prelude ,sd,FEMALE,1
+"['{c so, }  i went to a dealership because they had {d like, }  {f uh, } the same year and same model,']",c so   i went to a dealership because they had d like   f uh  the same year and same model,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['of prelude on their used car lot  /'],of prelude on their used car lot  ,+,FEMALE,0
+['{c and } i went and i test drove it  /'],c and  i went and i test drove it  ,sd,FEMALE,1
+"['{c and, }  {d you know, } i just fell in love,']",c and   d you know  i just fell in love,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['with this brand new white prelude, {f uh, } {d you know, }']",with this brand new white prelude f uh  d you know ,+,FEMALE,0
+"[""they're nice i think. /""]",theyre nice i think ,sv,FEMALE,3
+['two liter s i with the sun roof and the moon roof /'],two liter s i with the sun roof and the moon roof ,+,FEMALE,0
+"['{c and } i,']",c and  i,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+['bought it loaded. /'],bought it loaded ,+,FEMALE,0
+"['{f oh, } yeah.   /']",f oh  yeah   ,aa,FEMALE,4
+"['i have to have them loaded, /']",i have to have them loaded ,sd,FEMALE,1
+"['{f oh, } /']",f oh  ,%,FEMALE,5
+"[""{f um, } i love all those little things  that you don't need  /""]",f um  i love all those little things  that you dont need  ,sd,FEMALE,1
+"[""{c but } they're so  wonderful. /""]",c but  theyre so  wonderful ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['i went there looking at a used car  /'],i went there looking at a used car  ,sd,FEMALE,1
+['{c and } two days later i bought this car. /'],c and  two days later i bought this car ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['[ i felt like, +  i felt like ]  [ that was the worst impulse, +  [ that was, +  that was ] largest impulse ] [ that i, +']", i felt like   i felt like    that was the worst impulse    that was   that was  largest impulse   that i ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['that i ] had ever made.  /'],that i  had ever made  ,+,FEMALE,0
+"['[ the oth-, +  the two,']", the oth   the two,sd,FEMALE,1
+['i understand. /'],i understand ,ba,FEMALE,6
+"['other ] things that i bought on impulse  are a v c r and a washer <laughter>,']",other  things that i bought on impulse  are a v c r and a washer laughter,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+['and dryer.  /'],and dryer  ,+,FEMALE,0
+['i go for the big stuff. /'],i go for the big stuff ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['i noticed <laughter>.  /'],i noticed laughter  ,sd,FEMALE,1
+['mine was definitely not impulse  /'],mine was definitely not impulse  ,sd,FEMALE,1
+['i really needed a new car.  /'],i really needed a new car  ,sd,FEMALE,1
+"['mine was just, it was  getting worn out i guess from being a sports car.  /']",mine was just it was  getting worn out i guess from being a sports car  ,sd,FEMALE,1
+"['i drove it kind of hard, /']",i drove it kind of hard ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['{c and } i got it right after high school.  /'],c and  i got it right after high school  ,sd,FEMALE,1
+"['{c so, }  by the time i traded it in it was ready. /']",c so   by the time i traded it in it was ready ,sd,FEMALE,1
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['[ i got, +']", i got ,sd,FEMALE,1
+['i got ] my buick as a high school graduation gift. /'],i got  my buick as a high school graduation gift ,+,FEMALE,0
+['did you? /'],did you ,bh,FEMALE,18
+['yeah.  /'],yeah  ,ny,FEMALE,9
+"[""{c but } [ i, +  i ]  guess this wasn't really an impulse, {e i mean, }  /""]",c but   i   i   guess this wasnt really an impulse e i mean   ,sd,FEMALE,1
+"['buying it right then and, {d you know, } right quickly  was kind of impulsive  /']",buying it right then and d you know  right quickly  was kind of impulsive  ,sd,FEMALE,1
+"[""{c but } i'd been thinking about buying a new car for about three years  /""]",c but  id been thinking about buying a new car for about three years  ,sd,FEMALE,1
+['{c and } i was just scared to. /'],c and  i was just scared to ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['i was scared to start taking on payments  because the buick was long since paid for. /'],i was scared to start taking on payments  because the buick was long since paid for ,sd,FEMALE,1
+['right.   /'],right   ,aa,FEMALE,4
+"[""that's the same with me.  /""]",thats the same with me  ,sd,FEMALE,1
+['would you ever buy a used car for a new car for yourself? /'],would you ever buy a used car for a new car for yourself ,qy,FEMALE,7
+"['[ buy a, +  [ wha-,  ar-, you, + ]']", buy a    wha  ar you  ,br,FEMALE,30
+"['{d like, } -/']",d like  ,%,FEMALE,5
+['buy a ] used car? /'],buy a  used car ,+,FEMALE,0
+['right. /'],right ,aa,FEMALE,4
+['sure. /'],sure ,na,FEMALE,21
+"['[ i, +  i ] was going to buy one once  /']", i   i  was going to buy one once  ,sd,FEMALE,1
+"[""{c but } [ i just, +  i ] worry about who's driven them and what they've been through and the warranties  and things like that. /""]",c but   i just   i  worry about whos driven them and what theyve been through and the warranties  and things like that ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""just, i can't seem to get over that.  /""]",just i cant seem to get over that  ,sd,FEMALE,1
+['that just bothers me <laughter>  /'],that just bothers me laughter  ,sd,FEMALE,1
+"[""i don't know why. /""]",i dont know why ,sd,FEMALE,1
+"['{d well, } {f um, } like on hondas  they, - /']",d well  f um  like on hondas  they  ,sd,FEMALE,1
+"['supposedly, the  maintenance records was supposed to be registered with honda or whatever  /']",supposedly the  maintenance records was supposed to be registered with honda or whatever  ,sd,FEMALE,1
+['{c and } you can request whatever maintenance records exist on cars  /'],c and  you can request whatever maintenance records exist on cars  ,sd,FEMALE,1
+['{c and } you can have them checked out by mechanics and stuff. /'],c and  you can have them checked out by mechanics and stuff ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"[""{e i mean } they can't stop you from doing it. /""]",e i mean  they cant stop you from doing it ,sd,FEMALE,1
+['hoping that they do go to a honda  dealership to get them serviced. /'],hoping that they do go to a honda  dealership to get them serviced ,bf,FEMALE,20
+['yeah. /'],yeah ,aa,FEMALE,4
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{d well, } {c and } even if they didn't,  you can still get a good idea [ from a, + ]  if you can get a good mechanic to,""]",d well  c and  even if they didnt  you can still get a good idea  from a    if you can get a good mechanic to,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['check it over real carefully  and check the block and everything. /'],check it over real carefully  and check the block and everything ,+,FEMALE,0
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+['{d so. } -/'],d so  ,%,FEMALE,5
+"[""{d well, } i guess that's all. /""]",d well  i guess thats all ,sd,FEMALE,1
+['okay.  /'],okay  ,aa,FEMALE,4
+"['{d well, } i enjoyed talking to you. /']",d well  i enjoyed talking to you ,fc,FEMALE,10
+['i enjoyed talking to you. /'],i enjoyed talking to you ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

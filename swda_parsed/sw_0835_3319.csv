@@ -1,0 +1,138 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['golfer? /'],golfer ,qy,FEMALE,7
+"['{d well, } yes,  /']",d well  yes  ,ny,FEMALE,9
+['i am as a matter of fact. /'],i am as a matter of fact ,sd,FEMALE,1
+"['{d well, } -/']",d well  ,%,FEMALE,5
+"['not a good one,  /']",not a good one  ,sd,FEMALE,1
+['{c but } i am a golfer. /'],c but  i am a golfer ,sd,FEMALE,1
+"[""{d well, } that's about the way i am.  /""]",d well  thats about the way i am  ,aa,FEMALE,4
+"[""i don't consider myself a good one,  /""]",i dont consider myself a good one  ,sd,FEMALE,1
+['{c but } i do enjoy it. /'],c but  i do enjoy it ,sd,FEMALE,1
+"[""i, {f uh, } haven't been out all year.  /""]",i f uh  havent been out all year  ,sd,FEMALE,1
+"[""i didn't get out this year,  /""]",i didnt get out this year  ,sd,FEMALE,1
+"['{c but, } {f uh, } i enjoy both watching it and playing it. /']",c but  f uh  i enjoy both watching it and playing it ,sd,FEMALE,1
+['i usually play a couple of times a month.  /'],i usually play a couple of times a month  ,sd,FEMALE,1
+"['sometimes more,  /']",sometimes more  ,sd,FEMALE,1
+"[""{c but } lately it's been just about that.  /""]",c but  lately its been just about that  ,sd,FEMALE,1
+"['{c but, } i do enjoy, - /']",c but  i do enjoy  ,sd,FEMALE,1
+"['i think [ the, + ] one of the things i enjoy the most is the beauty of the golf courses. /']",i think  the   one of the things i enjoy the most is the beauty of the golf courses ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['{c and, } [ the, + the ] peacefulness. /']",c and   the  the  peacefulness ,^2,FEMALE,23
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"['you can get out there, /']",you can get out there ,sd,FEMALE,1
+['{c and } the little critters that are around. /'],c and  the little critters that are around ,^2,FEMALE,23
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter>.'],laughter,x,FEMALE,8
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""that's really neat.  /""]",thats really neat  ,sd,FEMALE,1
+"[""you can just get out there and lose yourself in it and forget everything else in the world except what you're seeing out there. /""]",you can just get out there and lose yourself in it and forget everything else in the world except what youre seeing out there ,sv,FEMALE,3
+"[""that's right  /""]",thats right  ,aa,FEMALE,4
+"[""{c and } it's such a personal challenge. /""]",c and  its such a personal challenge ,^2,FEMALE,23
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['it really is. /'],it really is ,aa,FEMALE,4
+['more than competitiveness against someone else.  /'],more than competitiveness against someone else  ,sv,FEMALE,3
+"[""[  it's, + it's ] a competitiveness against yourself. /""]",  its  its  a competitiveness against yourself ,sv,FEMALE,3
+"[""<laughter> {c and, } {d you know, } it's so frustrating,  /""]",laughter c and  d you know  its so frustrating  ,sd,FEMALE,1
+"[""i keep wondering sometimes why do i do this because it's so frustrating.  /""]",i keep wondering sometimes why do i do this because its so frustrating  ,qh,FEMALE,26
+['you think you do pretty good one day  /'],you think you do pretty good one day  ,sd,FEMALE,1
+"[""{c and } you're doing a whole lot better, {d you know, }  /""]",c and  youre doing a whole lot better d you know   ,sd,FEMALE,1
+['{c and then } all of a sudden you go back out  /'],c and then  all of a sudden you go back out  ,sd,FEMALE,1
+"[""{c and } it's just terrible. /""]",c and  its just terrible ,sd,FEMALE,1
+"[""{d well, } you'll, -/""]",d well  youll ,%,FEMALE,5
+"[""you can't do anything,""]",you cant do anything,sd,FEMALE,1
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+['right <laughter>. /'],right laughter ,+,FEMALE,0
+"[""{c or } you'll hear thirty and think, {d boy } --""]",c or  youll hear thirty and think d boy  ,sd,FEMALE,1
+['-- i got my game together.  /'], i got my game together  ,+,FEMALE,0
+"[""i've had a par and a birdie,""]",ive had a par and a birdie,sd,FEMALE,1
+['and a bogey  /'],and a bogey  ,+,FEMALE,0
+['{c and then } you quadruple bogey <laughter>. /'],c and then  you quadruple bogey laughter ,sd,FEMALE,1
+"['<laughter>.  {c and } you think, {d my goodness, } why did i think i was doing better <laughter>. /']",laughter  c and  you think d my goodness  why did i think i was doing better laughter ,qh,FEMALE,26
+"['being down there, do you, {f uh, } get to see, {d like } the colonial or any of those? /']",being down there do you f uh  get to see d like  the colonial or any of those ,qy,FEMALE,7
+"[""i don't, - /""]",i dont  ,%,FEMALE,5
+['i guess i could.  /'],i guess i could  ,^h,FEMALE,27
+"[""i've never been [ to a golf, + to a major golf ] tournament. /""]",ive never been  to a golf  to a major golf  tournament ,ng,FEMALE,29
+['oh. /'],oh ,b,FEMALE,2
+"['i, {f uh, } watch them on t v a lot. /']",i f uh  watch them on t v a lot ,sd,FEMALE,1
+['you really should go at least once.  /'],you really should go at least once  ,ad,FEMALE,22
+"[""{d you know, } we've --""]",d you know  weve ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- had, {f uh, } the p g a up here. /']", had f uh  the p g a up here ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } [ a-, + ]  [ and in + ] tulsa  /']",f uh   a     and in   tulsa  ,sd,FEMALE,1
+"[""{c and } i've been to both of them  /""]",c and  ive been to both of them  ,sd,FEMALE,1
+"[""{c and } [ it's + <breathing>, it ] is so much fun to --""]",c and   its  breathing it  is so much fun to ,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+"['-- see these players you see on t v [ to, + ] {c and } to hear that ball go whizzing by. /']", see these players you see on t v  to   c and  to hear that ball go whizzing by ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{e i mean, } [ it's, + it's ] like a bullet going by. /""]",e i mean   its  its  like a bullet going by ,sv,FEMALE,3
+"[""i'll bet, {f um. } /""]",ill bet f um  ,ba,FEMALE,6
+"[""{c and, } {d you know, } [ to, + to ] see their concentration and yet to see [ them, + ] how friendly they are when they're, walk by you, {d you know, }  and --""]",c and  d you know   to  to  see their concentration and yet to see  them   how friendly they are when theyre walk by you d you know   and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- how good they are to their spectators. /'], how good they are to their spectators ,+,FEMALE,0
+"[""{d well, } i've only been playing {d like } about three years now.  /""]",d well  ive only been playing d like  about three years now  ,sd,FEMALE,1
+"[""my husband's played for twenty-five.  /""]",my husbands played for twentyfive  ,sd,FEMALE,1
+"['{c but, } i just took it up about three years ago  /']",c but  i just took it up about three years ago  ,sd,FEMALE,1
+"[""{c and, } {f uh, } we play in a lot of couple's scramble tournaments.  /""]",c and  f uh  we play in a lot of couples scramble tournaments  ,sd,FEMALE,1
+"['we belong to a country club a little ways outside of dallas,  /']",we belong to a country club a little ways outside of dallas  ,sd,FEMALE,1
+"['both, -/']",both ,%,FEMALE,5
+['yes. /'],yes ,b,FEMALE,2
+"[""{c and, } {d you know, } it's fun to go on vacations and things and go to golf courses. /""]",c and  d you know  its fun to go on vacations and things and go to golf courses ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+['it is. /'],it is ,aa,FEMALE,4
+['you can meet some really neat people. /'],you can meet some really neat people ,sv,FEMALE,3
+['the scrambles are fun. /'],the scrambles are fun ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+['they really are.  /'],they really are  ,aa,FEMALE,4
+['i just love them. /'],i just love them ,sd,FEMALE,1
+['i belong to the country club there in el reno when i lived there  /'],i belong to the country club there in el reno when i lived there  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ you really, + on those, you really ] go out for fun. /']", you really  on those you really  go out for fun ,sv,FEMALE,3
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"[""{c and, } {d you know, } you won't, - /""]",c and  d you know  you wont  ,sd,FEMALE,1
+"[""you know you're stroke is just one of one or two or three --""]",you know youre stroke is just one of one or two or three ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- or four, {d you know, } that's going to make any difference. /""]", or four d you know  thats going to make any difference ,+,FEMALE,0
+"[""that's right.  /""]",thats right  ,aa,FEMALE,4
+['{c and } you just do your own thing and be relaxed and enjoy it <laughter>. /'],c and  you just do your own thing and be relaxed and enjoy it laughter ,sv,FEMALE,3
+"[""that's right.  /""]",thats right  ,aa,FEMALE,4
+"['[  i used to, + when i worked at kerr mcgee, i used to ] play in their tournaments. /']",  i used to  when i worked at kerr mcgee i used to  play in their tournaments ,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+"['{c and, } {f uh, } now that was very competitive. /']",c and  f uh  now that was very competitive ,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+"['{c and, } i enjoyed it tremendously,  /']",c and  i enjoyed it tremendously  ,sd,FEMALE,1
+"[""{c but, } {f uh, } [ [ i, + i'm  more, ] + i think i get more ] enjoyment just couple friends going out. /""]",c but  f uh    i  im  more   i think i get more  enjoyment just couple friends going out ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } [ if, + if ] it takes one of us ten shots to get up to the green, so be it. /']",c and   if  if  it takes one of us ten shots to get up to the green so be it ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } we just think, {d well, } the next time has got to be better <laughter>. /']",d you know  we just think d well  the next time has got to be better laughter ,sd,FEMALE,1
+"['<laughter> yeah,  /']",laughter yeah  ,b,FEMALE,2
+['i have never played in any tournament except just a scramble.  /'],i have never played in any tournament except just a scramble  ,sd,FEMALE,1
+"['they have a lot of them there at the club, {d you know, }  /']",they have a lot of them there at the club d you know   ,sd,FEMALE,1
+['they have a b c d type tournaments  /'],they have a b c d type tournaments  ,sd,FEMALE,1
+"[""{c and then } [ they, + they ] have the club championships and everything with the women's slots as well,  /""]",c and then   they  they  have the club championships and everything with the womens slots as well  ,sd,FEMALE,1
+"[""{c but, } i don't know,  /""]",c but  i dont know  ,h,FEMALE,15
+"[""i've just never really gotten into that.  /""]",ive just never really gotten into that  ,sd,FEMALE,1
+"['{d now, } my husband and all the men, {e i mean, } they love the real competitiveness of playing for money, {d you know. } /']",d now  my husband and all the men e i mean  they love the real competitiveness of playing for money d you know  ,sd,FEMALE,1
+"['{f oh, } yes,  /']",f oh  yes  ,b,FEMALE,2
+['every hole. /'],every hole ,bf,FEMALE,20
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{c but } [ i, + i'm ] not good enough for that <laughter>. /""]",c but   i  im  not good enough for that laughter ,sd,FEMALE,1
+"[""does your club have a good woman's association? /""]",does your club have a good womans association ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['they do.  /'],they do  ,sd,FEMALE,1
+"[""i don't do much with it since, {f uh, } most of theirs, - /""]",i dont do much with it since f uh  most of theirs  ,sd,FEMALE,1
+"['they have a traveling league,  /']",they have a traveling league  ,sd,FEMALE,1
+"['{c and, } {f uh, } most of their meetings and all are during the week  /']",c and  f uh  most of their meetings and all are during the week  ,sd,FEMALE,1
+"[""{c and } i [ don't, + don't ] get to play except on the weekend.  /""]",c and  i  dont  dont  get to play except on the weekend  ,sd,FEMALE,1
+['i work during the week all the time. /'],i work during the week all the time ,sd,FEMALE,1
+"[""it's hard to be a weekend golfer and improve your game. /""]",its hard to be a weekend golfer and improve your game ,sv,FEMALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""someday when [ i, + i ] get where i live closer to the club  and partially retired, maybe i'll, {f uh, } be able to play a little more  /""]",someday when  i  i  get where i live closer to the club  and partially retired maybe ill f uh  be able to play a little more  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""[ [ [ it, + {f uh, } it's, ] + it's a, ] + it's ] a good game.  /""]",   it  f uh  its   its a   its  a good game  ,sd,FEMALE,1
+"['[  i, + {f uh, } i ] wish i had more time to play  /']",  i  f uh  i  wish i had more time to play  ,sd,FEMALE,1
+"['{c and } i felt, {d you know, } had more energy to play it, too. /']",c and  i felt d you know  had more energy to play it too ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2

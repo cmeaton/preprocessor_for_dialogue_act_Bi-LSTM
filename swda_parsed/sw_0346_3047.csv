@@ -1,0 +1,222 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['do you have children? /'],do you have children ,qy,MALE,7
+"['{f uh, } yes,  /']",f uh  yes  ,ny,MALE,9
+"['yes,  /']",yes  ,ny,MALE,9
+['i have a daughter. /'],i have a daughter ,sd,MALE,1
+['do you. /'],do you ,bh,MALE,18
+['yeah. /'],yeah ,ny,MALE,9
+['how old is she? /'],how old is she ,qw,MALE,12
+"[""she's only about, {f uh, } {f uh, }  a little less than two years old. /""]",shes only about f uh  f uh   a little less than two years old ,sd,MALE,1
+"['{f uh, } <laughter> i guess you have not  reached the stage where you need to, {f uh, } promote a college or anything,  {f huh. } /']",f uh  laughter i guess you have not  reached the stage where you need to f uh  promote a college or anything  f huh  ,qy^d,MALE,16
+['no. /'],no ,nn,MALE,13
+"[""<laughter> i've got one that's seven and  one that's three,  /""]",laughter ive got one thats seven and  one thats three  ,sd,MALE,1
+"['{c so, } [ we, + {f uh, } we ] started saving,  /']",c so   we  f uh  we  started saving  ,sd,MALE,1
+"[""{c but } that's all. /""]",c but  thats all ,sd,MALE,1
+['yeah <laughter>. /'],yeah laughter ,b,MALE,2
+"['{d so, } [ [ do you, +  is there, ] +  are you ] planning to, {d like, }  encourage your children to go to a particular school? /']",d so    do you   is there    are you  planning to d like   encourage your children to go to a particular school ,qy,MALE,7
+"['<sigh> {f uh, } <sigh>,   no, {f uh, } {f um, }  /']",sigh f uh  sigh   no f uh  f um   ,nn,MALE,13
+['no  particular school.  /'],no  particular school  ,nn,MALE,13
+"[""{f uh, } i  think that's really a decision [ th-, +  # that, ] # -/""]",f uh  i  think thats really a decision  th    that   ,sv,MALE,3
+['# that # you are going to let them make. /'], that  you are going to let them make ,qy^d,MALE,16
+"['they, - /']",they  ,%,MALE,5
+"['{d well, } help them make in  terms of, {d you know, } what [ they are, + they are ] --']",d well  help them make in  terms of d you know  what  they are  they are  ,arp_nd,MALE,34
+['right. /'],right ,b,MALE,2
+['-- wanting to do. /'], wanting to do ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{d you know, } [ that, + that's ] a big influence,  i think and,""]",d you know   that  thats  a big influence  i think and,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['yeah. /'],yeah ,aa,MALE,4
+"[""{d you know } [ what, + not only what ]  you can afford, but [ what, + what's ] going to be best for them --""]",d you know   what  not only what   you can afford but  what  whats  going to be best for them ,+,MALE,0
+['right. /'],right ,b,MALE,2
+['-- in terms of what their career goals are. /'], in terms of what their career goals are ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so, } {f uh, } {d you know, }  you need to go to a school that handles whatever it is you want to do. /']",c so  f uh  d you know   you need to go to a school that handles whatever it is you want to do ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+['where did you go to school? /'],where did you go to school ,qw,MALE,12
+"['{f uh, } university of mississippi. /']",f uh  university of mississippi ,sd,MALE,1
+['oh.  /'],oh  ,bk,MALE,14
+"['was that local or, {f uh, } -/']",was that local or f uh  ,qy,MALE,7
+"['{f uh, } {d well, } [ it was, + <sigh> {d well, }  it was ] within the state. /']",f uh  d well   it was  sigh d well   it was  within the state ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but } [ it, + it ] was not necessarily  local, it was, -/']",c but   it  it  was not necessarily  local it was ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{c but } [ i, + ] {e i mean, }  so what's,  ((   )) , -/""]",c but   i   e i mean   so whats       ,%,MALE,5
+"[""what's the criterion for choosing to go there? /""]",whats the criterion for choosing to go there ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+"['{f uh, } {d well, } at the time, i was, {f uh, }  thinking of going pre med -- /']",f uh  d well  at the time i was f uh   thinking of going pre med  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } in the state, {f uh, } they had the  best pre med {f uh, } curriculum for the,  {f uh, } state institutions. /']", c and  in the state f uh  they had the  best pre med f uh  curriculum for the  f uh  state institutions ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['it was choice between there  and, {f uh, } a private college --']",it was choice between there  and f uh  a private college ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- that, {f uh, } was a bit more expensive. /']", that f uh  was a bit more expensive ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['at the time, <sigh> we really could  not afford it  /']",at the time sigh we really could  not afford it  ,sd,MALE,1
+['{c so } --'],c so  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- i ended up going there although it  was quite a drive away for me.  /'], i ended up going there although it  was quite a drive away for me  ,+,MALE,0
+"['it, - /']",it  ,%,MALE,5
+"['{f uh, } i enjoyed it. /']",f uh  i enjoyed it ,sd,MALE,1
+"['{d so } [ you, + did you ] commute everyday  then  /']",d so   you  did you  commute everyday  then  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+['no. /'],no ,nn,MALE,13
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"['no,  /']",no  ,nn,MALE,13
+"['no,  /']",no  ,nn,MALE,13
+['it was a six hour drive. /'],it was a six hour drive ,sd,MALE,1
+"['{f oh, } okay,  /']",f oh  okay  ,bk,MALE,14
+"['when you said it was [ quite a, + quite a ] way away, i did not know [ it +  that ] meant you had to drive like an hour  /']",when you said it was  quite a  quite a  way away i did not know  it   that  meant you had to drive like an hour  ,sd,MALE,1
+"['{c or, } -/']",c or  ,%,MALE,5
+"['((   ))   ((   ))  [ i was, +  {f uh, }   it was ] like another world. /']",            i was   f uh    it was  like another world ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['basically, [ it was a, + {d no } it was a, ] - /']",basically  it was a  d no  it was a   ,sd,MALE,1
+"['did not  get home that often, {d you know, }  /']",did not  get home that often d you know   ,sd,MALE,1
+['{c and } at that age --'],c and  at that age ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""-- [ it's, + {f uh, } it's ] [ kind of, + kind of ]  difficult sometimes. /""]",  its  f uh  its   kind of  kind of   difficult sometimes ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['especially, if you have not  been away a lot --']",especially if you have not  been away a lot ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['-- that extended <sigh>. /'], that extended sigh ,+,MALE,0
+"['{d so, } did you go there, {d like, }   straight out of high school? /']",d so  did you go there d like    straight out of high school ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['yeah.  /'],yeah  ,b^m,MALE,24
+"['{f uh, } {d see } i did not get my degree  until later on,  /']",f uh  d see  i did not get my degree  until later on  ,sd,MALE,1
+['{c so } i just finished mine a couple of years ago. /'],c so  i just finished mine a couple of years ago ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, }  {f uh, } {d you know, }  i guess, {d you know, } when you have to do it that way, it [ makes, + makes ] your choices a lot easier  /']",c and   f uh  d you know   i guess d you know  when you have to do it that way it  makes  makes  your choices a lot easier  ,sv,MALE,3
+"['{c but, } -/']",c but  ,%,MALE,5
+"[""{f uh, } that's true.  /""]",f uh  thats true  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""[ that, + that's ] like,  {d you know, } when i went on to get [ my, + my ] master's --""]", that  thats  like  d you know  when i went on to get  my  my  masters ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- [ i, {f uh, } basically was, +  {d you know, } it was  where i was ] at the time. /']",  i f uh  basically was   d you know  it was  where i was  at the time ,+,MALE,0
+['right. /'],right ,b,MALE,2
+"['{d you know, } i was not going to try to pick  and go somewhere else --']",d you know  i was not going to try to pick  and go somewhere else ,sd,MALE,1
+"['right,  /']",right  ,b,MALE,2
+['right. /'],right ,b,MALE,2
+['-- because i was pretty much settled  /'], because i was pretty much settled  ,+,MALE,0
+['{c and }  i was trying to work.  /'],c and   i was trying to work  ,sd,MALE,1
+"['[ {c but, } + {f uh, } {c so } ] when you are first going to school [ that, + ] you kind of  have the luxury of being able to --']", c but   f uh  c so   when you are first going to school  that   you kind of  have the luxury of being able to ,sv,MALE,3
+['exactly. /'],exactly ,aa,MALE,4
+['-- have some latitude in choosing the place to go. /'], have some latitude in choosing the place to go ,+,MALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"['[ wh-, + which ] group do you work in in t i? /']", wh  which  group do you work in in t i ,qw,MALE,12
+"['{f um, } {f uh, } the computer science center. /']",f um  f uh  the computer science center ,sd,MALE,1
+"['{f oh, } {f uh, } where is that at? /']",f oh  f uh  where is that at ,qw,MALE,12
+"['{f uh, } north building. /']",f uh  north building ,sd,MALE,1
+['i see.  /'],i see  ,bk,MALE,14
+['how long do you work for t i? /'],how long do you work for t i ,qw,MALE,12
+"['{f uh, } about three years. /']",f uh  about three years ,sd,MALE,1
+"['did you work somewhere else,  /']",did you work somewhere else  ,qy,MALE,7
+"[""{d like }  sounds like you got your master's before here  /""]",d like   sounds like you got your masters before here  ,bf,MALE,20
+"['{c or, } -/']",c or  ,%,MALE,5
+"['{f uh, } yeah,  /']",f uh  yeah  ,ny,MALE,9
+"['i have, {f uh, } {f uh, }  /']",i have f uh  f uh   ,sd,MALE,1
+['no  /'],no  ,ar,MALE,28
+"['{d actually, }  {e i mean } i came straight from school to here. /']",d actually   e i mean  i came straight from school to here ,sd,MALE,1
+['i see. /'],i see ,bk,MALE,14
+"['{d so, } cause this was the [ first, + first ] real job  after getting my degree. /']",d so  cause this was the  first  first  real job  after getting my degree ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""after your master's or after your, -/""]",after your masters or after your ,qy,MALE,7
+"[""after my master's. /""]",after my masters ,sd,MALE,1
+['i see. /'],i see ,bk,MALE,14
+"[""my undergraduate degree was [ not in, + not in ]  what my master's was. /""]",my undergraduate degree was  not in  not in   what my masters was ,sd,MALE,1
+['i see. /'],i see ,b,MALE,2
+['{c so } i made a career change --'],c so  i made a career change ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- basically. /'], basically ,+,MALE,0
+['i see.  /'],i see  ,b,MALE,2
+"[""{d well, } let's see <laughter>  /""]",d well  lets see laughter  ,^h,MALE,27
+"['i, have not  ((   ))  {d you know, } - /']",i have not       d you know   ,%,MALE,5
+"[""there's a lot of pluses and minuses for different schools, {d you know, }  just like you said.  /""]",theres a lot of pluses and minuses for different schools d you know   just like you said  ,aa,MALE,4
+"['{f uh, } depending on what they want to specialize  in and what you can afford, different things like that,  /']",f uh  depending on what they want to specialize  in and what you can afford different things like that  ,sv,MALE,3
+"['{c so } [ i, + i ] have not --']",c so   i  i  have not ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- really made up my mind, {d you know, } whether  to encourage them to go different places  /']", really made up my mind d you know  whether  to encourage them to go different places  ,+,MALE,0
+"['{c or, } -/']",c or  ,%,MALE,5
+"['(( one day ))   i would like to, {f uh, }  {d you know, } the,   {f uh, } - /']", one day    i would like to f uh   d you know  the   f uh   ,sd,MALE,1
+"['[ i, + i ] like the  school where i went. /']", i  i  like the  school where i went ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{e i mean, } {c and } i would not hesitate at all  [ to, + to ] encourage her to go [ there + --']",e i mean  c and  i would not hesitate at all   to  to  encourage her to go  there  ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+['-- there ] if she wanted to. /'], there  if she wanted to ,+,MALE,0
+['right. /'],right ,b,MALE,2
+"[""{c or } the school where i got my master's  at, [ which, + which ] was a different school. /""]",c or  the school where i got my masters  at  which  which  was a different school ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['{c and, }  {f uh, } i liked it almost as well. /']",c and   f uh  i liked it almost as well ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{f uh, } {c but, }  {f uh, } {d you know, }  that, i'm not going to hold them to that --""]",f uh  c but   f uh  d you know   that im not going to hold them to that ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+['-- just because i went there.  /'], just because i went there  ,+,MALE,0
+"[""i, {d you know, } think that's <sigh> -- -/""]",i d you know  think thats sigh  ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""-- if they want to, that's fine, but --""]", if they want to thats fine but ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- otherwise not. <sigh> although i [ ca-, +  {f uh, }  would ] get quite a break on, on tuition <laughter>. /']", otherwise not sigh although i  ca   f uh   would  get quite a break on on tuition laughter ,+,MALE,0
+"['{f um, } because you went there. /']",f um  because you went there ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['{c because } they, {f uh, } allow  for, {f uh, } {f uh, } tuition, {f uh, } break for out of state students --']",c because  they f uh  allow  for f uh  f uh  tuition f uh  break for out of state students ,sd,MALE,1
+['{f um. } /'],f um  ,b,MALE,2
+['-- who children of alumnae. /'], who children of alumnae ,+,MALE,0
+"[""i didn't know that. /""]",i didnt know that ,sd,MALE,1
+['{d well } certain schools do it. /'],d well  certain schools do it ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['this school does.  /'],this school does  ,sd,MALE,1
+"['{c so, } {f uh, }']",c so  f uh ,%,MALE,5
+['{f huh. } /'],f huh  ,b,MALE,2
+"[""[ it's, +  it  ((   )) ] , - /""]", its   it         ,+,MALE,0
+"['[ i, + i ] was involved in some, {f uh, } {f oh, } alumnae  recruiting, {f uh, } here in town, {f uh, } recently, {f uh, }  {d well } last year <sigh>. /']", i  i  was involved in some f uh  f oh  alumnae  recruiting f uh  here in town f uh  recently f uh   d well  last year sigh ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } {c and } it was kind of fun, because you  are [ trying [ to +  <sigh> to, ] +  trying to ] get people interested in your school, {d you know. } /']",f uh  c and  it was kind of fun because you  are  trying  to   sigh to    trying to  get people interested in your school d you know  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } they were, - /']",c and  they were  ,%,MALE,5
+"['this was a college night  [ at a, + at a ] high school in richardson.  /']",this was a college night   at a  at a  high school in richardson  ,sd,MALE,1
+"['{c and } it was, -/']",c and  it was ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } there were a bunch of kids, {d you know, }   {c and } a bunch of schools.  /']",c and  there were a bunch of kids d you know    c and  a bunch of schools  ,sd,MALE,1
+"['there were a hundred schools, probably there --']",there were a hundred schools probably there ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- all competing for the same kids. /'], all competing for the same kids ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""it's kind of interesting [ [ to, + to, ] + to ]  talk up, {d you know, } your,""]",its kind of interesting   to  to   to   talk up d you know  your,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['your # own school, # /']",your  own school  ,^2,MALE,23
+['# school #  /'], school   ,+,MALE,0
+"['{c and, }  i was surprised by the  number of kids that [ came, + came ] by and  had heard of, {d you know, } our school.']",c and   i was surprised by the  number of kids that  came  came  by and  had heard of d you know  our school,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ and, + and ] were interested in it. /']", and  and  were interested in it ,+,MALE,0
+['{f um. } /'],f um  ,b,MALE,2
+"['{f uh, } {d you know, } we, {f uh, }  ((   )) - /']",f uh  d you know  we f uh        ,%,MALE,5
+"[""situations like that, you don't realize,  {d you know, } until you start thinking about it,  the kinds of  ((   ))  advantages you school may have over others. /""]",situations like that you dont realize  d you know  until you start thinking about it  the kinds of       advantages you school may have over others ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and so, } [ i, + i ] was [ real, + real ] pleased  with that.  /']",c and so   i  i  was  real  real  pleased  with that  ,sd,MALE,1
+['that worked out so well. /'],that worked out so well ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['{d so } did you drum up any  interest  (( then ))  /'],d so  did you drum up any  interest   then   ,qy,MALE,7
+['i think so. /'],i think so ,aap_am,MALE,39
+"[""i don't know offhand  /""]",i dont know offhand  ,no,MALE,31
+"['{c but, }  {f uh, } it seemed like  there were quite a few --']",c but   f uh  it seemed like  there were quite a few ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- kids that were definitely interested in  going there.  /'], kids that were definitely interested in  going there  ,+,MALE,0
+"['<sigh> # {c so, } [ there, # +']",sigh  c so   there  ,sd,MALE,1
+"['# {c and } that, # -/']", c and  that  ,%,MALE,5
+"['there ] was one mother who, {f uh, } came by right,  even, before we started, [ who, + who ] obviously was, {f uh, } very interested in getting [ her, + her ]  daughter in [ or, + or ] having gotten her daughter in or something  /']",there  was one mother who f uh  came by right  even before we started  who  who  obviously was f uh  very interested in getting  her  her   daughter in  or  or  having gotten her daughter in or something  ,+,MALE,0
+['{c and } she was  wanting some more information.  /'],c and  she was  wanting some more information  ,sd,MALE,1
+"['{c but } [ she was, + [ her, + her ] daughter  was, ]  {f uh, }  [ [ [ a, +   a, ] +  [ [ ma-, +   ma-, ] +   dru-, ] a ] majorette or something. +']",c but   she was   her  her  daughter  was   f uh      a    a      ma    ma     dru  a  majorette or something ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know, } a baton twirler or something ] -- /']",d you know  a baton twirler or something   ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } [ she was + <laughter> she was, ] letting  us know [ she, + ] ((   ))  [ how, + how ] good her daughter was. /']", c and   she was  laughter she was  letting  us know  she         how  how  good her daughter was ,sd,MALE,1
+['<laughter>.  -/'],laughter  ,x,MALE,8
+"['she had [ cards printed up, {d actually } --']",she had  cards printed up d actually  ,sd,MALE,1
+"['{f oh, } really. /']",f oh  really ,b,MALE,2
+"[""-- describing, +  {d you know, }  business cards describing ] her daughter's, {f uh, } {d you know, }   she had won several different twirling awards, and all # this, # /""]", describing   d you know   business cards describing  her daughters f uh  d you know    she had won several different twirling awards and all  this  ,+,MALE,0
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['{c and } she [ was, + had ] these business cards  she was passing out  /']",c and  she  was  had  these business cards  she was passing out  ,sd,MALE,1
+['{c and } it was <sigh> quite a production.  /'],c and  it was sigh quite a production  ,sd,MALE,1
+['<laughter> i think some parents go a little bit overboard. /'],laughter i think some parents go a little bit overboard ,sv,MALE,3
+['yeah  /'],yeah  ,aa,MALE,4
+['it sounds like it. /'],it sounds like it ,aa,MALE,4
+['<breathing> yes. <exhaling> /'],breathing yes exhaling ,b,MALE,2
+['{d well } {d you know } i think richardson is probably  {d you know } one of the places that would definitely -/'],d well  d you know  i think richardson is probably  d you know  one of the places that would definitely ,sv,MALE,3

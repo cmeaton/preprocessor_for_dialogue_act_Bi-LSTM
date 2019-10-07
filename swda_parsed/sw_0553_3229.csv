@@ -1,0 +1,150 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['while i was waiting for you to connect, [ i, + i  ] thought of a couple of menus,  /']",while i was waiting for you to connect  i  i   thought of a couple of menus  ,sd,FEMALE,1
+"['{c so } i decided it had to be in it, informal or  not.  /']",c so  i decided it had to be in it informal or  not  ,sd,FEMALE,1
+['{d you know } --'],d you know  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- because that's a lot of fun, especially this time of year where it's so nice out. / *[[sv]]""]", because thats a lot of fun especially this time of year where its so nice out  sv,+,FEMALE,0
+['yes. /'],yes ,aa,MALE,4
+"[""{f um, } if it was formal i'd probably go with something like a chicken breast or lasagna or something.  /""]",f um  if it was formal id probably go with something like a chicken breast or lasagna or something  ,sd,FEMALE,1
+"[""[ i'm not <laughter> +  i'm not  ] into formal dinner parties,  /""]", im not laughter   im not   into formal dinner parties  ,sd,FEMALE,1
+['{c but } --'],c but  ,sd,FEMALE,1
+['i see. /'],i see ,b,MALE,2
+"[""-- i'd probably go with lasagna, a green salad, and garlic bread. /""]", id probably go with lasagna a green salad and garlic bread ,+,FEMALE,0
+['{c so } what do you use for cookbooks? /'],c so  what do you use for cookbooks ,qw,MALE,12
+"['<breathing> {f um, } i have a pillsbury cookbook i got when i was married,  /']",breathing f um  i have a pillsbury cookbook i got when i was married  ,sd,FEMALE,1
+"[""{c but, } it's kind of the bible of cooking --""]",c but  its kind of the bible of cooking ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- for me.  /'], for me  ,+,FEMALE,0
+['then i have some from {d like } church that are more family recipes that are more useful  <laughter>.'],then i have some from d like  church that are more family recipes that are more useful  laughter,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know, } budget cookbooks,  /']",d you know  budget cookbooks  ,+,FEMALE,0
+['[ {c but } -- +'], c but   ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and, }  ] of course, you get a lot from when you're growing up. /""]", c and    of course you get a lot from when youre growing up ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f um, } i cook a lot the same [ as, + as  ] my mom did,  /']",f um  i cook a lot the same  as  as   my mom did  ,sd,FEMALE,1
+"[""of course i've added several --""]",of course ive added several ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['-- different recipes,  /']", different recipes  ,+,FEMALE,0
+"['{c but, } what you serve or what would you  <laughter>, -/']",c but  what you serve or what would you  laughter ,qw,FEMALE,12
+"['{d well, } [ [ i, + i, ] + i ] think we come [ from, + from  ] different backgrounds, {f uh, }  /']",d well    i  i   i  think we come  from  from   different backgrounds f uh   ,sd,MALE,1
+"['{c so } the, -/']",c so  the ,%,MALE,5
+"[""{d well, } that's good <laughter>. /""]",d well  thats good laughter ,ba,FEMALE,6
+"['[ [ i, + i,  ] + i, ] - /']",  i  i    i   ,%,MALE,5
+"['{c so, } it diff-, {d you know, } - /']",c so  it diff d you know   ,%,MALE,5
+['have different perspectives that you are.  /'],have different perspectives that you are  ,sv,MALE,3
+['i find the joy of cooking to be a remarkably useful book --'],i find the joy of cooking to be a remarkably useful book ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ to, + to ] fall back on,  /']",  to  to  fall back on  ,+,MALE,0
+['{c because } it has almost everything in it.  /'],c because  it has almost everything in it  ,sd,MALE,1
+"[""{c but } on the other hand, it's not very inspiring, {f uh, }  /""]",c but  on the other hand its not very inspiring f uh   ,sv,MALE,3
+"[""it's a good reference when you need to dig something up. /""]",its a good reference when you need to dig something up ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""what we've found very useful is a book called the thirty minute cookbook,  /""]",what weve found very useful is a book called the thirty minute cookbook  ,sd,MALE,1
+"[""i think that's the title, by marion burroughs -- /""]",i think thats the title by marion burroughs  ,sd,MALE,1
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"['-- {f uh, } which has recipes which allegedly can all be prepared in thirty minutes, {d you know, } the whole meal -- -/']", f uh  which has recipes which allegedly can all be prepared in thirty minutes d you know  the whole meal  ,sd,MALE,1
+['yeah -- /'],yeah  ,b,FEMALE,2
+"[""-- {c and so } she's -- -/""]", c and so  shes  ,%,MALE,5
+['-- that would be wonderful in these times <laughter>. /'], that would be wonderful in these times laughter ,ba,FEMALE,6
+"['-- yeah,  /']", yeah  ,b,MALE,2
+"['{d now, } {d now, } [ i, + i ] find that the cutting up of the food, and all that really makes it take a little longer than thirty minutes. /']",d now  d now   i  i  find that the cutting up of the food and all that really makes it take a little longer than thirty minutes ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""[ [ [ {c but } they're, + {c but } they're, ] + {c but } they're  ] interesting -- +""]",   c but  theyre  c but  theyre   c but  theyre   interesting  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,+,FEMALE,0
+"[""-- they're interesting  ] menus, {f um, } combinations that [ you wouldn't have, + ] nobody thought of. /""]", theyre interesting   menus f um  combinations that  you wouldnt have   nobody thought of ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{f um. } /'],f um  ,%,MALE,5
+"[""what's one of your favorites? /""]",whats one of your favorites ,qw,FEMALE,12
+"['{f um, } gee,  /']",f um  gee  ,^h,MALE,27
+"['the one i had most recently [ was, + was  ] one that,  [ was, + ha-,  ] - /']",the one i had most recently  was  was   one that   was  ha    ,sd,MALE,1
+"[""[ she, + she ] describes as jim beard's favorite, {f um, } summer menu, or something,  /""]", she  she  describes as jim beards favorite f um  summer menu or something  ,sd,MALE,1
+"['{c and } it consisted [ of, +  of ] grilled kielbasa sausage --']",c and  it consisted  of   of  grilled kielbasa sausage ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } a potato salad with olive oil, and {f uh, } some tomatoes that had been chopped up with onions and curry powder and  probably some yogurt was in there. /']", f uh  a potato salad with olive oil and f uh  some tomatoes that had been chopped up with onions and curry powder and  probably some yogurt was in there ,+,MALE,0
+"['wow,  /']",wow  ,ba,FEMALE,6
+['sounds too good. /'],sounds too good ,ba,FEMALE,6
+"[""{f uh, }     [ [ [ {c and } that, +  {c and } that was, ] +  {d you know, }   that's, ] +  [ that, +  that's ] ]  certain you can do in thirty minutes. /""]",f uh         c and  that   c and  that was    d you know    thats     that   thats    certain you can do in thirty minutes ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but } there are a whole lot of, {d you know, } - /']",c but  there are a whole lot of d you know   ,sd,MALE,1
+"['{e i mean, } [ i, + i ] would recommend you look at that book --']",e i mean   i  i  would recommend you look at that book ,ad,MALE,22
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['that thirty minute cookbook. /'],that thirty minute cookbook ,aa,FEMALE,4
+"[""-- if you're a busy person.   /""]", if youre a busy person   ,+,MALE,0
+['thirty minute cookbook. /'],thirty minute cookbook ,sd,MALE,1
+['that sounds fun.   /'],that sounds fun   ,ba,FEMALE,6
+"[""i find a lot of the cookbooks   [ that, +  i don't know, that ] you buy over the counter ask for really strange ingredients, or things i don't keep on hand all the time -- /""]",i find a lot of the cookbooks    that   i dont know that  you buy over the counter ask for really strange ingredients or things i dont keep on hand all the time  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } i have young children,  /']", c and  i have young children  ,sd,FEMALE,1
+"[""{c and } our budget's set, {d you know, } at this time,  /""]",c and  our budgets set d you know  at this time  ,sd,FEMALE,1
+['{c but } i want to use simple recipes that --'],c but  i want to use simple recipes that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- i have things on hand,  /']", i have things on hand  ,+,FEMALE,0
+"[""i don't have to run to the store to buy or look for something i haven't heard of <laughter>. /""]",i dont have to run to the store to buy or look for something i havent heard of laughter ,sd,FEMALE,1
+"['yes,  /']",yes  ,aa,MALE,4
+['yes. /'],yes ,aa,MALE,4
+"[""that's why sometimes i shy away from, {f uh, } more of a traditional cookbook -- /""]",thats why sometimes i shy away from f uh  more of a traditional cookbook  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c but, } <inhaling> {d well, } it was interesting talking to you.  /']", c but  inhaling d well  it was interesting talking to you  ,sv,FEMALE,3
+"[""it's a fun subject.  /""]",its a fun subject  ,sv,FEMALE,3
+['food is one of my favorite things too. /'],food is one of my favorite things too ,sd,FEMALE,1
+['yes. /'],yes ,b,MALE,2
+['anything else you wanted to add? /'],anything else you wanted to add ,qo,FEMALE,25
+"['{d well, } you had said dinner, {d you know, } {d you know, }  /']",d well  you had said dinner d you know  d you know   ,sd,MALE,1
+['what would i put together for a formal dinner.  /'],what would i put together for a formal dinner  ,^q,MALE,19
+"['[ we, + we  ] had some friends over as recently as saturday night -- /']", we  we   had some friends over as recently as saturday night  ,sd,MALE,1
+"['{f oh, } wow. /']",f oh  wow ,ba,FEMALE,6
+"['-- [ {c and, } +  {c and, } ] {f um, } put, [ here, + here  ] - /']",  c and    c and   f um  put  here  here    ,%,MALE,5
+"['the inspiration was a combination of julia child for the dessert, {d you know, } a chocolate mousse recipe --']",the inspiration was a combination of julia child for the dessert d you know  a chocolate mousse recipe ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""that's good. /""]",thats good ,ba,FEMALE,6
+['-- and a sort of  ((   ))  cookbook which has a recipe for a thing called chicken marabella --'], and a sort of       cookbook which has a recipe for a thing called chicken marabella ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f um, } which is this wonderful thing you can do, {f um, }  /']", f um  which is this wonderful thing you can do f um   ,+,MALE,0
+"[""basically you're [ baking, + baking ] chicken [ in a, + in an  ] open pan, {f um, } having marinated it first  /""]",basically youre  baking  baking  chicken  in a  in an   open pan f um  having marinated it first  ,sd,MALE,1
+"[""{c and, } my wife did this part so i don't remember all the details -- /""]",c and  my wife did this part so i dont remember all the details  ,sd,MALE,1
+['<laughter> uh-huh. /'],laughter uhhuh ,b,FEMALE,2
+"['-- marinated in olive oil and some seasoning, {f um, } and cooked with some olives [ and some, + and some  ] prunes, {f uh, }  /']", marinated in olive oil and some seasoning f um  and cooked with some olives  and some  and some   prunes f uh   ,sd,MALE,1
+"[""there's a little bit of brown sugar in there,  /""]",theres a little bit of brown sugar in there  ,sd,MALE,1
+['{c and } it bakes up  /'],c and  it bakes up  ,sd,MALE,1
+"[""{c and } it's a delicious thing,  /""]",c and  its a delicious thing  ,sd,MALE,1
+"[""{c and } it's easy -- /""]",c and  its easy  ,sd,MALE,1
+['that sounds good. /'],that sounds good ,ba,FEMALE,6
+['-- comparatively.  /'], comparatively  ,sd,MALE,1
+['that sounds really good. /'],that sounds really good ,ba,FEMALE,6
+"[""{f um. }  i'm sorry,  /""]",f um   im sorry  ,+,MALE,0
+"['i  just love <laughter>, -/']",i  just love laughter ,sd,MALE,1
+"['<laughter> it sounds like you guys are a little more gourmet than i am,  /']",laughter it sounds like you guys are a little more gourmet than i am  ,sv,FEMALE,3
+"[""i'm pretty simple right now,  /""]",im pretty simple right now  ,sd,FEMALE,1
+['{c but. } -/'],c but  ,%,FEMALE,5
+"['{d well, } maybe a little more leisure time --']",d well  maybe a little more leisure time ,sv,MALE,3
+['yes -- /'],yes  ,aa,FEMALE,4
+['-- to do it.  /'], to do it  ,+,MALE,0
+"[""i don't know, /""]",i dont know ,h,MALE,15
+"[""-- [ that's probably, +  that's ] true,  /""]",  thats probably   thats  true  ,aa,FEMALE,4
+['i have little ones  /'],i have little ones  ,sd,FEMALE,1
+"[""[ {c  and } we, +   {c and } they ] won't eat, {d you know, } too many different foods --""]", c  and  we    c and  they  wont eat d you know  too many different foods ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- right now. /'], right now ,+,FEMALE,0
+['i found my kids were very frustrating when they were little --'],i found my kids were very frustrating when they were little ,sd,MALE,1
+['<laughter>  yes. /'],laughter  yes ,aa,FEMALE,4
+['-- in terms of their tastes. /'], in terms of their tastes ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d well, } there again, sometimes it was easy,  /']",d well  there again sometimes it was easy  ,sd,MALE,1
+"[""they'd, {d you know, } - /""]",theyd d you know   ,%,MALE,5
+"['canned ravioli was,']",canned ravioli was,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['one of their favorites,  and so it was easy to --']",one of their favorites  and so it was easy to ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['-- open a can of ravioli. /'], open a can of ravioli ,+,MALE,0
+"[""spaghetti's a pretty <laughter> staple every other week or so  <laughter> -- /""]",spaghettis a pretty laughter staple every other week or so  laughter  ,sd,FEMALE,1
+['yes. /'],yes ,b,MALE,2
+['-- {c and } it goes a long ways too.  /'], c and  it goes a long ways too  ,sd,FEMALE,1
+"['{d well, } nice talking to you cheryl. /']",d well  nice talking to you cheryl ,fc,MALE,10
+['all righty. /'],all righty ,+,FEMALE,0
+['okay.  /'],okay  ,fc,MALE,10
+['talk to you later maybe. /'],talk to you later maybe ,fc,FEMALE,10
+['bye. /'],bye ,fc,MALE,10

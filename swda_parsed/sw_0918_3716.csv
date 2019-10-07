@@ -1,0 +1,173 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['we could talk about my favorite subject <laughter>. /'],we could talk about my favorite subject laughter ,oo_co_cc,FEMALE,36
+"['cooking and # food, {f huh. } # /']",cooking and  food f huh   ,qy,FEMALE,7
+['# food # <laughter>. /'], food  laughter ,arp_nd,FEMALE,34
+['what do you like to cook? /'],what do you like to cook ,qo,FEMALE,25
+"[""{f uh, } i don't cook a lot {d actually. }  /""]",f uh  i dont cook a lot d actually   ,sd,FEMALE,1
+"['i have just started baking,  /']",i have just started baking  ,sd,FEMALE,1
+"['{c so, } {f uh, } i am kind of interested in cakes and, {f uh, } muffins and stuff like that,  /']",c so  f uh  i am kind of interested in cakes and f uh  muffins and stuff like that  ,sd,FEMALE,1
+"[""{c but } i can't seem to get them exactly right.  /""]",c but  i cant seem to get them exactly right  ,sd,FEMALE,1
+"['{c so, } i am just trying to perfect some things. /']",c so  i am just trying to perfect some things ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['i tried to make an applesauce cake.  which i will never ever try to make again. /'],i tried to make an applesauce cake  which i will never ever try to make again ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['it was horrible <laughter>. /'],it was horrible laughter ,sd,FEMALE,1
+['<laughter> {f oh } dear. /'],laughter f oh  dear ,ba,FEMALE,6
+"[""i don't know if the cake was horrible or if i made it horrible. /""]",i dont know if the cake was horrible or if i made it horrible ,sd,FEMALE,1
+"['<inhaling> {f oh, } probably not.  /']",inhaling f oh  probably not  ,ar,FEMALE,28
+"['i, {f uh, } have, {f uh, } a bread recipe that is real easy that everyone always really does like.']",i f uh  have f uh  a bread recipe that is real easy that everyone always really does like,sd,FEMALE,1
+['{f uh. } /'],f uh  ,b,FEMALE,2
+"[""that, {f uh, } doesn't require kneading the dough. /""]",that f uh  doesnt require kneading the dough ,+,FEMALE,0
+['oh.  /'],oh  ,b,FEMALE,2
+['hey <laughter>. /'],hey laughter ,ba,FEMALE,6
+"['{c and, } [ it is always, + it is ] wonderful.  /']",c and   it is always  it is  wonderful  ,sd,FEMALE,1
+"['it is,  /']",it is  ,sd,FEMALE,1
+"['{c and } what is funny is that you use, {f uh, } bran, all bran -- /']",c and  what is funny is that you use f uh  bran all bran  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } it looks like it is a wheat bread. /'], c and  it looks like it is a wheat bread ,sd,FEMALE,1
+['{f uh. } /'],f uh  ,b,FEMALE,2
+"['{c but, } it is actually all bran flour -- /']",c but  it is actually all bran flour  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {f uh, } {d you know, } it is just regular  /']", c and  f uh  d you know  it is just regular  ,sd,FEMALE,1
+"['the type that, {d you know, } yeast {c and } that sort of thing -- -/']",the type that d you know  yeast c and  that sort of thing  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } you let it rise  /'], c and  you let it rise  ,sd,FEMALE,1
+"['{c and } you can let it rise in the refrigerator and then punch it down, and then, {f uh, } make your rolls.  /']",c and  you can let it rise in the refrigerator and then punch it down and then f uh  make your rolls  ,sd,FEMALE,1
+['they really are good -- /'],they really are good  ,sd,FEMALE,1
+['wow. /'],wow ,ba,FEMALE,6
+['-- {c and } they are so easy to do. /'], c and  they are so easy to do ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['that is - /'],that is  ,%,FEMALE,5
+"['seems like every time that we have a dinner party, or that we are going some place where everybody is suppose to bring something and they have  had my rolls before.']",seems like every time that we have a dinner party or that we are going some place where everybody is suppose to bring something and they have  had my rolls before,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['# they request it. # /'], they request it  ,^2,FEMALE,23
+"['# they # always ask me to, bring those rolls <<louder>>. /']", they  always ask me to bring those rolls louder ,+,FEMALE,0
+['<laughter> i have not gotten any requests yet.  /'],laughter i have not gotten any requests yet  ,sd,FEMALE,1
+"['last year, i had a christmas party, at, {f uh, } my office,  /']",last year i had a christmas party at f uh  my office  ,sd,FEMALE,1
+"['{c and } i, {f uh, } made the tuna fish sandwiches.  /']",c and  i f uh  made the tuna fish sandwiches  ,sd,FEMALE,1
+"['{c and } [ everyone, + {f uh, } {e i mean, } i think, everyone ] knows how to make tuna fish,  /']",c and   everyone  f uh  e i mean  i think everyone  knows how to make tuna fish  ,sd,FEMALE,1
+['{c so } i thought that would be easy for me to make  /'],c so  i thought that would be easy for me to make  ,sd,FEMALE,1
+"['{c and } i can not go wrong with that,  /']",c and  i can not go wrong with that  ,sd,FEMALE,1
+['{c and so } i made it  /'],c and so  i made it  ,sd,FEMALE,1
+"['{c and, } {f uh, } i used celery seed in my, - /']",c and  f uh  i used celery seed in my  ,sd,FEMALE,1
+['do you use celery seed in your tuna fish? /'],do you use celery seed in your tuna fish ,qy,FEMALE,7
+['no  /'],no  ,nn,FEMALE,13
+"[""i haven't. /""]",i havent ,sd,FEMALE,1
+"['{c and } i just thought it was so strange,  /']",c and  i just thought it was so strange  ,sd,FEMALE,1
+"['{c because } [ i never, + i thought ] that that was what celery seed was for.  /']",c because   i never  i thought  that that was what celery seed was for  ,sd,FEMALE,1
+['was for tuna fish. -/'],was for tuna fish ,sd,FEMALE,1
+"['{f oh, } how funny. /']",f oh  how funny ,ba,FEMALE,6
+"['[ {c and so, } + {c but } ] everyone really, really loved the tuna fish  /']", c and so   c but   everyone really really loved the tuna fish  ,sd,FEMALE,1
+"[""{c and } they just couldn't get over the fact that i used celery in it  /""]",c and  they just couldnt get over the fact that i used celery in it  ,sd,FEMALE,1
+['{c and } it just surprised me.  /'],c and  it just surprised me  ,sd,FEMALE,1
+"['# celery and onion and, # -/']", celery and onion and  ,sd,FEMALE,1
+"['# {d well, } see [ [ i, + # i have always used celery, ] + {e i mean, } i have used celery before. ] /']", d well  see   i   i have always used celery   e i mean  i have used celery before  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c but } i never used the celery seed in it. /'],c but  i never used the celery seed in it ,sd,FEMALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d well, } what else do you put in it besides the celery seed. /']",d well  what else do you put in it besides the celery seed ,qw,FEMALE,12
+"['just {d like, } {f uh, } really fine onions and green pepper and the celery seed  /']",just d like  f uh  really fine onions and green pepper and the celery seed  ,sd,FEMALE,1
+"['{c and } i use {d like, } {f uh, } miracle whip salad dressing instead of the actual mayonnaise --']",c and  i use d like  f uh  miracle whip salad dressing instead of the actual mayonnaise ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- because i really don't like the helman's mayonnaise.  /""]", because i really dont like the helmans mayonnaise  ,+,FEMALE,0
+"['{c but } if you use  salad dressing with [ kind of, + {f uh, } {d you know, } kind of, ] i guess a tart taste.']",c but  if you use  salad dressing with  kind of  f uh  d you know  kind of  i guess a tart taste,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['then it comes out real good.  /'],then it comes out real good  ,+,FEMALE,0
+"['{c but, } [ i, + {f uh, } it was the first time [ i have + <inhaling>, i have ] ] ever found out that [ [ the, + the, ] + <laughter> nobody else ] used celery seed.  /']",c but   i  f uh  it was the first time  i have  inhaling i have   ever found out that   the  the   laughter nobody else  used celery seed  ,sd,FEMALE,1
+['i feel so silly  /'],i feel so silly  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['see, i have never put bell pepper in tuna fish either. /']",see i have never put bell pepper in tuna fish either ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""isn't that funny? /""]",isnt that funny ,bh,FEMALE,18
+['<laughter>.'],laughter,x,FEMALE,8
+"['i was brought up with tuna fish, {d you know, } where you put in, {f uh, } {f oh, } chopped hard boiled eggs which [ is -- +']",i was brought up with tuna fish d you know  where you put in f uh  f oh  chopped hard boiled eggs which  is  ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- now is ] a no, no with cholesterol and, {f uh, }']", now is  a no no with cholesterol and f uh ,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"['{d you know, } chopped up dill pickles.']",d you know  chopped up dill pickles,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+['and that sort of thing.  /'],and that sort of thing  ,+,FEMALE,0
+['the standard old tuna fish. /'],the standard old tuna fish ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['i would put that too.  /'],i would put that too  ,sd,FEMALE,1
+['i just did not have those things. /'],i just did not have those things ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d like } i don't think i had eggs that night or something,  /""]",d like  i dont think i had eggs that night or something  ,sd,FEMALE,1
+['{c but } i would have put eggs.  /'],c but  i would have put eggs  ,sd,FEMALE,1
+['i would have put eggs in there also. /'],i would have put eggs in there also ,sd,FEMALE,1
+"[""{c but } isn't that interesting?  /""]",c but  isnt that interesting  ,bh,FEMALE,18
+"['{d so } [ [ you, +']",d so    you ,bf,FEMALE,20
+"['{f uh, } strange. /']",f uh  strange ,ba,FEMALE,6
+"['you, ] + you ] use bell pepper and onion and --']",you   you  use bell pepper and onion and ,+,FEMALE,0
+['celery seed. /'],celery seed ,^2,FEMALE,23
+['-- celery seed.  /'], celery seed  ,+,FEMALE,0
+['i will have to try that. /'],i will have to try that ,sd,FEMALE,1
+"['do you use a regular mayonnaise or,']",do you use a regular mayonnaise or,qy,FEMALE,7
+['sometimes i do  /'],sometimes i do  ,sd,FEMALE,1
+['{c and } sometimes i use the # miracle whip. # /'],c and  sometimes i use the  miracle whip  ,sd,FEMALE,1
+['# the miracle whip. # /'], the miracle whip  ,+,FEMALE,0
+['it depends on what i have. /'],it depends on what i have ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['# {c and } # sometimes, if i am using, {d like, } regular mayonnaise, to spice it up a little bit --']", c and   sometimes if i am using d like  regular mayonnaise to spice it up a little bit ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } i will use a little bit of mustard with it. /']", f uh  i will use a little bit of mustard with it ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+['i do that also. /'],i do that also ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['just [ to, + to ] put a little zing in it. /']",just  to  to  put a little zing in it ,sd,FEMALE,1
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['but not a bunch. /'],but not a bunch ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['but enough to, make it have a little bit more flavor. /']",but enough to make it have a little bit more flavor ,sv,FEMALE,3
+['((   ))  <<very faint>> i love barbecue.  /'],     very faint i love barbecue  ,sd,FEMALE,1
+['anything barbecued i will eat. /'],anything barbecued i will eat ,sd,FEMALE,1
+"['i like, {f uh, } to barbecue baby back ribs. /']",i like f uh  to barbecue baby back ribs ,sd,FEMALE,1
+['{f uh. } /'],f uh  ,b,FEMALE,2
+"['[ [ {c and, } + {f uh, } {c and, } ] + {c and, } ] they are so easy to do if you, {f uh, } have a good barbecue sauce -- /']",  c and   f uh  c and    c and   they are so easy to do if you f uh  have a good barbecue sauce  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } you, {f uh, } just cook them very, very slowly in the oven. /']", c and  you f uh  just cook them very very slowly in the oven ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } it is not hard to cook, like some meals are. /']",c and  it is not hard to cook like some meals are ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } [ it is not, + of course, it is ] messy to eat.  /']",c and   it is not  of course it is  messy to eat  ,sv,FEMALE,3
+['that is the disadvantage. /'],that is the disadvantage ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, } {f uh, } i make lasagna from scratch  /']",c and  f uh  i make lasagna from scratch  ,sd,FEMALE,1
+['{c and } people really like my lasagna -- /'],c and  people really like my lasagna  ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['i like to make that too.  /'],i like to make that too  ,sd,FEMALE,1
+['i make that once in a while. /'],i make that once in a while ,sd,FEMALE,1
+"['-- {c and so, } {f uh, } sometimes, i am requested to make that.  /']", c and so  f uh  sometimes i am requested to make that  ,sd,FEMALE,1
+['{c and } that is not too hard to do because you can do it in advanced and just bake it. /'],c and  that is not too hard to do because you can do it in advanced and just bake it ,sv,FEMALE,3
+"['it is not really, once you have all the ingredients -- /']",it is not really once you have all the ingredients  ,aa,FEMALE,4
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- it is just the layering really.'], it is just the layering really,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['and not breaking [ the, + {f uh, } the, ] {f uh, } pasta. /']",and not breaking  the  f uh  the  f uh  pasta ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['that is the hardest part probably. /'],that is the hardest part probably ,sv,FEMALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c but, } {f uh, } -/']",c but  f uh  ,%,FEMALE,5
+"['{d then, } i have a wonderful recipe for strawberry pie.  /']",d then  i have a wonderful recipe for strawberry pie  ,sd,FEMALE,1
+['it just takes forever -- /'],it just takes forever  ,sd,FEMALE,1
+['{f uh. } /'],f uh  ,b,FEMALE,2
+"['-- {c but, } it is, {f uh, } when the strawberries are nice, and big and fresh and  yummy. -/']", c but  it is f uh  when the strawberries are nice and big and fresh and  yummy ,sd,FEMALE,1
+['do you make cheesecake? /'],do you make cheesecake ,qy,FEMALE,7
+"['{f uh, } uh-huh.  /']",f uh  uhhuh  ,ny,FEMALE,9
+['i do.  /'],i do  ,sd,FEMALE,1
+"['{c but } [ this one is basically, + it is ] like a normal pie crust. /']",c but   this one is basically  it is  like a normal pie crust ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } then you use this sort of, {f uh, } - /']",c but  then you use this sort of f uh   ,sd,FEMALE,1
+"['it is a cream cheese, {f uh, } {f uh, } layering,  /']",it is a cream cheese f uh  f uh  layering  ,sd,FEMALE,1
+"['{c but } you, [ use, + {f uh, } thin ] it out a little bit.']",c but  you  use  f uh  thin  it out a little bit,sd,FEMALE,1
+['{f uh. } /'],f uh  ,b,FEMALE,2
+"['{f uh, } or make it a little fluffier  /']",f uh  or make it a little fluffier  ,+,FEMALE,0
+"['{c and } you [ put, + {f uh, } line ] the whole pie crust with that -- /']",c and  you  put  f uh  line  the whole pie crust with that  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and so, } it is sort of like in a way. {f uh, } using cheese --']", c and so  it is sort of like in a way f uh  using cheese ,sd,FEMALE,1
+['# {f uh. } # /'], f uh   ,b,FEMALE,2
+"['-- # cake,  /']",  cake  ,+,FEMALE,0
+"['# [ {c but, } + {c and } ] it is not a real cheese # cake  /']",  c but   c and   it is not a real cheese  cake  ,sd,FEMALE,1
+"['{c and } then you, # -/']",c and  then you  ,%,FEMALE,5
+"['# {c and } just put the strawberries, # /']", c and  just put the strawberries  ,qy^d,FEMALE,16

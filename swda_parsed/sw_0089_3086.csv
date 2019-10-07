@@ -1,0 +1,206 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['{d so } do you have p c -s? /'],d so  do you have p c s ,qy,FEMALE,7
+['i have a personal computer at home.  /'],i have a personal computer at home  ,sd,MALE,1
+"[""it's an a t compatible.  /""]",its an a t compatible  ,sd,MALE,1
+"[""i don't use it very much any more.  /""]",i dont use it very much any more  ,sd,MALE,1
+['i used to use it quite a bit. /'],i used to use it quite a bit ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['i also have a p c at work that i use as a terminal.  /'],i also have a p c at work that i use as a terminal  ,sd,MALE,1
+"['i do some p c stand alone work on it,  /']",i do some p c stand alone work on it  ,sd,MALE,1
+['{c and } i can transfer data back and forth between the p c and the main frame. /'],c and  i can transfer data back and forth between the p c and the main frame ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['what about you?  /'],what about you  ,qo,MALE,25
+['do you own a computer? /'],do you own a computer ,qy,MALE,7
+"['{f um, } {d well } i sort of own a computer.  /']",f um  d well  i sort of own a computer  ,no,FEMALE,31
+"['we have two p c -s at home,  /']",we have two p c s at home  ,sd,FEMALE,1
+['{c but } neither one do we really own.  {f um. } /'],c but  neither one do we really own  f um  ,sd,FEMALE,1
+['are you leasing them? /'],are you leasing them ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['both of them are sort of work related,  /']",both of them are sort of work related  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['loaners from work? /'],loaners from work ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"[""<laughter> that's the nicer way, right. /""]",laughter thats the nicer way right ,sd,FEMALE,1
+['do you work for t i? /'],do you work for t i ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['no.  /'],no  ,nn,FEMALE,13
+"[""{f um, } [ i, + actually i'm ] doing consulting right now because i just had a baby,  /""]",f um   i  actually im  doing consulting right now because i just had a baby  ,sd,FEMALE,1
+"[""{c and } my husband's working at bell labs,  /""]",c and  my husbands working at bell labs  ,sd,FEMALE,1
+"[""{c but } he's really from france,  /""]",c but  hes really from france  ,sd,FEMALE,1
+['{c and } these computers actually are from france. /'],c and  these computers actually are from france ,sd,FEMALE,1
+['what brand are they? /'],what brand are they ,qw,MALE,12
+"[""one of them's a compaq -- /""]",one of thems a compaq  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,bk,MALE,14
+"[""-- it's a three eighty-six -- /""]", its a three eightysix  ,sd,FEMALE,1
+"[""i'm jealous. /""]",im jealous ,ba,MALE,6
+"['-- <laughter> and the other is actually a i b m p c compatible,  /']", laughter and the other is actually a i b m p c compatible  ,sd,FEMALE,1
+"[""it's a three eighty-six,  /""]",its a three eightysix  ,sd,FEMALE,1
+"[""i guess it's twenty-five,  /""]",i guess its twentyfive  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['<<silence>> three eight six twenty-five c maybe  /'],silence three eight six twentyfive c maybe  ,sd,FEMALE,1
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+"[""no we don't have the (( )), - /""]",no we dont have the    ,sd,FEMALE,1
+"['(( )) we decided not to get the (( )) which is actually another loaner one too that we picked up for a consulting job that my husband was doing <horn>,  /']",  we decided not to get the   which is actually another loaner one too that we picked up for a consulting job that my husband was doing horn  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['what kind of consulting do you do? /'],what kind of consulting do you do ,qw,MALE,12
+"['{f um, } {d well, } i actually do some work, working at m i t and at nist, national institute of standards and technology --']",f um  d well  i actually do some work working at m i t and at nist national institute of standards and technology ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- in washington,  /']", in washington  ,+,FEMALE,0
+['{c and then } i worked for dragon systems for a while. /'],c and then  i worked for dragon systems for a while ,sd,FEMALE,1
+"[""what kind of work do you do when you're consulting? /""]",what kind of work do you do when youre consulting ,qw,MALE,12
+"['{f um, } {d well, } it depends,  /']",f um  d well  it depends  ,^h,FEMALE,27
+"[""it's very different in the different places,  /""]",its very different in the different places  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['is it programming related? /'],is it programming related ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['yeah.  /'],yeah  ,ny,FEMALE,9
+"['program related, research related,  /']",program related research related  ,sd,FEMALE,1
+"['{c and } i work in the speech field,  /']",c and  i work in the speech field  ,sd,FEMALE,1
+['{c and } i do a lot metacoustic phonetics and --'],c and  i do a lot metacoustic phonetics and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- looking at the acoustic characteristics of speech,  /']", looking at the acoustic characteristics of speech  ,+,FEMALE,0
+"['{c and } i do that type of stuff typically for other people,  /']",c and  i do that type of stuff typically for other people  ,sd,FEMALE,1
+"['{c and } [ we, + {d like } here we ] use the p c -s to do that.  /']",c and   we  d like  here we  use the p c s to do that  ,sd,FEMALE,1
+['mostly i use it for writing papers and things like that. /'],mostly i use it for writing papers and things like that ,sd,FEMALE,1
+['word processing. /'],word processing ,bf,MALE,20
+"['{d well, } more, {f uh, } - /']",d well  more f uh   ,ar,FEMALE,28
+['do you know latek?'],do you know latek,qy,FEMALE,7
+"[""no i'm --""]",no im ,ng,MALE,29
+"['[ wo-, +']", wo ,+,FEMALE,0
+['-- not familiar with that. /'], not familiar with that ,+,MALE,0
+"['word ] text processing,  /']",word  text processing  ,+,FEMALE,0
+"[""{d so } [ i don't, + i don't ] use, {e i mean, } - /""]",d so   i dont  i dont  use e i mean   ,sd,FEMALE,1
+"['you can call it word processing,  /']",you can call it word processing  ,sd,FEMALE,1
+"[""{c but } i don't usually use a word processor to do it -- /""]",c but  i dont usually use a word processor to do it  ,sd,FEMALE,1
+['uh-huh /'],uhhuh ,b,MALE,2
+"[""-- {c and } we don't have too much standard software.  /""]", c and  we dont have too much standard software  ,sd,FEMALE,1
+"[""{d like } [ i haven't bought, + we haven't really bought ] any commercially available software at all.  /""]",d like   i havent bought  we havent really bought  any commercially available software at all  ,sd,FEMALE,1
+"[""{d so } we don't use it for things like our accounts and addresses and things like that.  /""]",d so  we dont use it for things like our accounts and addresses and things like that  ,sd,FEMALE,1
+"['we use it more for just writing programs when we need to or, {f um, } doing research, looking at the speech signal and then doing writing, and also [ as a + <laughter> just as a ] terminal,  /']",we use it more for just writing programs when we need to or f um  doing research looking at the speech signal and then doing writing and also  as a  laughter just as a  terminal  ,sd,FEMALE,1
+['{c and } we connect to other computers to read our net mail and things like that. /'],c and  we connect to other computers to read our net mail and things like that ,sd,FEMALE,1
+"[""{d so, } [ you've got, + you've got ] a modem in it then. /""]",d so   youve got  youve got  a modem in it then ,bf,MALE,20
+"['{f uh, } neither one has a modem,  /']",f uh  neither one has a modem  ,ng,FEMALE,29
+['{c but } we have a modem. /'],c but  we have a modem ,sd,FEMALE,1
+['at home --'],at home ,qy^d,MALE,16
+"['neither one, -/']",neither one ,sd,FEMALE,1
+['-- you have a modem that you can connect to each of them? /'], you have a modem that you can connect to each of them ,+,MALE,0
+['right. /'],right ,na,FEMALE,21
+"[""{f uh, } {c and so } it's an external modem. /""]",f uh  c and so  its an external modem ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['we have (( )). -/'],we have   ,sd,FEMALE,1
+"['[ i got, + when i got ] mine i had an internal modem in it -- /']", i got  when i got  mine i had an internal modem in it  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- i used it, {f uh, } quite a bit when i was, {f uh, } {f uh, } looking at, {f uh, } information on a large bulletin board sponsored by a newspaper [ in a, + in ] fort worth -- /']", i used it f uh  quite a bit when i was f uh  f uh  looking at f uh  information on a large bulletin board sponsored by a newspaper  in a  in  fort worth  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but, } {f uh, } went out of town for a while,  /']", c but  f uh  went out of town for a while  ,sd,MALE,1
+"['[ {c and, } + {c and } ] sort of got off the, {f uh, } bulletin board and off of my micro completely -- /']", c and   c and   sort of got off the f uh  bulletin board and off of my micro completely  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } after a while the modem started making noises on its own [ without, + {f uh, } even without ] using it on the computer,  /']", c and  after a while the modem started making noises on its own  without  f uh  even without  using it on the computer  ,sd,MALE,1
+"['i could turn a computer on,  /']",i could turn a computer on  ,sd,MALE,1
+"[""it'd start squawking.  /""]",itd start squawking  ,sd,MALE,1
+['{c so } i finally <siren> opened up the box and took it out. /'],c so  i finally siren opened up the box and took it out ,sd,MALE,1
+['<laughter> {d so } that was it. /'],laughter d so  that was it ,bf,FEMALE,20
+"[""i think that's the thirty second warning. /""]",i think thats the thirty second warning ,sv,MALE,3
+"[""{f oh, } i didn't hear it.  /""]",f oh  i didnt hear it  ,sd,FEMALE,1
+"['do you hear, [ the, + the ] beep in the background. /']",do you hear  the  the  beep in the background ,qy,FEMALE,7
+['yes. /'],yes ,ny,MALE,9
+"[""{f oh, } that's [ a, + an ] ambulance or something going on here, i think. /""]",f oh  thats  a  an  ambulance or something going on here i think ,sv,FEMALE,3
+['okay.  /'],okay  ,aa,MALE,4
+"['[ where, +']", where ,qw,MALE,12
+"[""i haven't ever noticed the thirty second warning actually. /""]",i havent ever noticed the thirty second warning actually ,sd,FEMALE,1
+"['where ] are you, - /']",where  are you  ,+,MALE,0
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+['in manhattan. /'],in manhattan ,sd,FEMALE,1
+['are you at home now? /'],are you at home now ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"[""i'm at home. /""]",im at home ,sd,FEMALE,1
+"[""{d so } you've got a lot of traffic noise real close. /""]",d so  youve got a lot of traffic noise real close ,qy^d,MALE,16
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+"[""{d so } it'd be interesting for the people that look at this signal <laughter> {e i mean, } because there's a lot of background noise that, {d you know, } people can hear.  /""]",d so  itd be interesting for the people that look at this signal laughter e i mean  because theres a lot of background noise that d you know  people can hear  ,sv,FEMALE,3
+"[""{c so } it'll be interesting how much of it actually gets picked up.  /""]",c so  itll be interesting how much of it actually gets picked up  ,sv,FEMALE,3
+"['{f um, } yeah,  /']",f um  yeah  ,%,FEMALE,5
+"['{c and } often times that, - /']",c and  often times that  ,%,FEMALE,5
+"[""i [ can't talk on th-, + can't do this ] much later than now, between sort of {d like } six, five thirty and six thirty or something like that, because the traffic outside, they honk the horn so loud i can't even hear the phone call. /""]",i  cant talk on th  cant do this  much later than now between sort of d like  six five thirty and six thirty or something like that because the traffic outside they honk the horn so loud i cant even hear the phone call ,sd,FEMALE,1
+['what time is it now where you are? /'],what time is it now where you are ,qw,MALE,12
+"['{f uh, } about twenty after four. /']",f uh  about twenty after four ,sd,FEMALE,1
+"[""{c so } you're an hour ahead of where i am.  /""]",c so  youre an hour ahead of where i am  ,sd,MALE,1
+"[""i'm in [ central -- +""]",im in  central  ,sd,MALE,1
+"['okay,  /']",okay  ,b,FEMALE,2
+['yeah -- /'],yeah  ,%,FEMALE,5
+['-- central ] time zone. /'], central  time zone ,+,MALE,0
+"[""-- we're eastern.  /""]", were eastern  ,sd,FEMALE,1
+"['{c and, } {f um, } [ what + ] [ did, + did ] you ever try using like prodigy or any of those systems? /']",c and  f um   what    did  did  you ever try using like prodigy or any of those systems ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+"[""i haven't done that.  /""]",i havent done that  ,sd,MALE,1
+"['{f uh, } i know someone who has,  /']",f uh  i know someone who has  ,sd,MALE,1
+"[""[ {c and, } + {c and ] } she's, {f uh, } very, {f uh, } pleased with it.  /""]", c and   c and   shes f uh  very f uh  pleased with it  ,sd,MALE,1
+"['she told me some of the things you can do,  /']",she told me some of the things you can do  ,sd,MALE,1
+"[""{c and } it's <baby> just [ a, + a ] very handy tool to have. /""]",c and  its baby just  a  a  very handy tool to have ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c and } you can do a l-, - /']",c and  you can do a l  ,sd,MALE,1
+['it makes things very convenient.  /'],it makes things very convenient  ,sv,MALE,3
+"[""you can save a lot of money, too. certainly cut down on long distance charges [ if you, + if that's what you ] have in mind. /""]",you can save a lot of money too certainly cut down on long distance charges  if you  if thats what you  have in mind ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i've never tried using that,  /""]",ive never tried using that  ,sd,FEMALE,1
+"[""i don't know too much about it.  /""]",i dont know too much about it  ,sd,FEMALE,1
+"['what about, - /']",what about  ,qw,FEMALE,12
+"['[ have you, + did you ] use commercially available software  /']", have you  did you  use commercially available software  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['[ i have, + i have ] used lotus.  /']", i have  i have  used lotus  ,sd,MALE,1
+"['i have used, {f uh, } word perfect -- /']",i have used f uh  word perfect  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } i, - /']", f uh  i  ,%,MALE,5
+['not heavy use.  /'],not heavy use  ,sd,MALE,1
+"[""i've used, {f uh, } d base  /""]",ive used f uh  d base  ,sd,MALE,1
+"[""{c and, } {f uh, } i've used a substantial amount of shareware.  /""]",c and  f uh  ive used a substantial amount of shareware  ,sd,MALE,1
+"[""{f um, } i haven't done much lotus work connected with my job.  /""]",f um  i havent done much lotus work connected with my job  ,sd,MALE,1
+"[""i've been through three classes -- /""]",ive been through three classes  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } i have a great deal of respect for it. /'], c and  i have a great deal of respect for it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f um, } i haven't done much <baby_crying> word processing work with my job.  /""]",f um  i havent done much babycrying word processing work with my job  ,sd,MALE,1
+['i do some -- /'],i do some  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } i, - /']", c and  i  ,%,MALE,5
+"[""{c and } the d base work i've done was </baby_crying> strictly class related. /""]",c and  the d base work ive done was babycrying strictly class related ,sd,MALE,1
+"[""i've never used d base, <baby_crying> {f um, }  /""]",ive never used d base babycrying f um   ,sd,FEMALE,1
+"[""{c but } i've heard both good things and bad things about it. /""]",c but  ive heard both good things and bad things about it ,sd,FEMALE,1
+"[""{d well, } it's probably the granddaddy of most, {f uh, } data base management systems. /""]",d well  its probably the granddaddy of most f uh  data base management systems ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's got some pretty strong competitors.  /""]",its got some pretty strong competitors  ,sd,MALE,1
+"['some of them have reviews that are better than d base,  /']",some of them have reviews that are better than d base  ,sd,MALE,1
+"[""{c so, } [ i, + i ] think by now, it's a matter of, {f uh, } personal taste. /""]",c so   i  i  think by now its a matter of f uh  personal taste ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['people told me that it was sort of cumbersome to use. /'],people told me that it was sort of cumbersome to use ,sd,FEMALE,1
+['i can understand that very easily.  /'],i can understand that very easily  ,sd,MALE,1
+"[""[ i've used, + i've had ] a class on, {f um, } r base and also in paradox -- /""]", ive used  ive had  a class on f um  r base and also in paradox  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } both of those seem very easy to use compared to d base. /'], c and  both of those seem very easy to use compared to d base ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['do you think [ you + ] d base is more flexible or allows you to do more.  /'],do you think  you   d base is more flexible or allows you to do more  ,qy,FEMALE,7
+['{c or } do you think the others are pretty much compatible these days? /'],c or  do you think the others are pretty much compatible these days ,qrr,FEMALE,33
+"[""{f um, } i wouldn't say compatible, but --""]",f um  i wouldnt say compatible but ,sv,MALE,3
+"['{c but, } {f uh } -- -/']",c but  f uh   ,%,FEMALE,5
+['-- certainly comparable. /'], certainly comparable ,+,MALE,0
+"['-- yeah,  /']", yeah  ,b,FEMALE,2
+"[""i didn't mean compatible,  /""]",i didnt mean compatible  ,sd,FEMALE,1
+['<laughter> i meant comparable.  /'],laughter i meant comparable  ,sd,FEMALE,1
+['my brain is going to mush. /'],my brain is going to mush ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } what do you work on at t i? /'],c and  what do you work on at t i ,qw,FEMALE,12
+"[""i'm a computer programmer --""]",im a computer programmer ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- on the i b m main frames. /'], on the i b m main frames ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i do, {f uh, } [ main-, + mainly ] business data processing. /']",i do f uh   main  mainly  business data processing ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['i also handle <baby> production support for the systems in my area of responsibility. /'],i also handle baby production support for the systems in my area of responsibility ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f um, } sometimes i get called late at night at home because there's a production problem,  /""]",f um  sometimes i get called late at night at home because theres a production problem  ,sd,MALE,1
+"[""{c and } that gives me the opportunity to, {f uh, } come in to work and fix it, if i can't think of --""]",c and  that gives me the opportunity to f uh  come in to work and fix it if i cant think of ,sd,MALE,1
+['<laughter.>'],laughter,x,FEMALE,8
+"[""-- some thing to tell the trouble shooter while we're on the phone. /""]", some thing to tell the trouble shooter while were on the phone ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"['{f um, } i also, {f uh, } handle most of the calls from our users and other programmers who need to find out something connected, /']",f um  i also f uh  handle most of the calls from our users and other programmers who need to find out something connected ,sd,MALE,1

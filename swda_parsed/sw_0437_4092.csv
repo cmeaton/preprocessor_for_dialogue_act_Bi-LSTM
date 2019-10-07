@@ -1,0 +1,194 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['((   ))  music do you like? -/'],     music do you like ,qw,MALE,12
+"['<smack> {f uh, } lots of different kinds i guess.  /']",smack f uh  lots of different kinds i guess  ,sd,FEMALE,1
+"['{f uh, } <smack> i like country music, of course -- /']",f uh  smack i like country music of course  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- texas - /'], texas  ,sd,FEMALE,1
+"[""{c and } i listen to christian music a lot because there's a christian music station here in in our city.  /""]",c and  i listen to christian music a lot because theres a christian music station here in in our city  ,sd,FEMALE,1
+['{c so } i listen to it quite a bit. /'],c so  i listen to it quite a bit ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['<smack>  {d so, } -/']",smack  d so  ,%,FEMALE,5
+['<inhaling> i am more into rock and roll myself. /'],inhaling i am more into rock and roll myself ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{c and } i listen cause on friday nights [ they have the, + {f uh, } they have what ]  they call saturday night alive  /']",c and  i listen cause on friday nights  they have the  f uh  they have what   they call saturday night alive  ,sd,FEMALE,1
+"['{c or } [ they have + on [ saturday night, + friday night and saturday night ] --']",c or   they have  on  saturday night  friday night and saturday night  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } they have  ] christian rock and roll.  /'], c and  they have   christian rock and roll  ,+,FEMALE,0
+['{c so } -- -/'],c so   ,%,FEMALE,5
+"['-- {d you know, } they have that type of music,  /']", d you know  they have that type of music  ,sd,FEMALE,1
+['{c but } they just have different words -- /'],c but  they just have different words  ,sd,FEMALE,1
+"['-- {c so, }  i listen to that too. /']", c so   i listen to that too ,sd,FEMALE,1
+['do you like any bluegrass? /'],do you like any bluegrass ,qy,MALE,7
+"['{f uh, } no.  /']",f uh  no  ,nn,FEMALE,13
+"['not really,  /']",not really  ,sd,FEMALE,1
+['huh-uh. /'],huhuh ,nn,FEMALE,13
+['oh. /'],oh ,bk,MALE,14
+['# {c and } [ i like # -- +'], c and   i like   ,sd,FEMALE,1
+"['# {d well, } at least your, # -/']", d well  at least your  ,%,MALE,5
+['-- i like ] rap music.  /'], i like  rap music  ,+,FEMALE,0
+['do you like rap music? /'],do you like rap music ,qy,FEMALE,7
+['not really <laughter>. /'],not really laughter ,ng,MALE,29
+['not really <laughter>. /'],not really laughter ,b^m,FEMALE,24
+['<laughter>.'],laughter,x,MALE,8
+"[""{d well, } i can tell [ we're, + we're ] together here <laughter>. /""]",d well  i can tell  were  were  together here laughter ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['okay.  <laughter>  # {f uh. } # /'],okay  laughter   f uh   ,b,FEMALE,2
+['# {f um. } # /'], f um   ,b,MALE,2
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+"[""{f uh, } we'll have to, {f uh } -- -/""]",f uh  well have to f uh   ,%,MALE,5
+['# what kind of # -- -/'], what kind of   ,%,FEMALE,5
+['-- # i have a lot of # friends that like country music <laughter>. /'],  i have a lot of  friends that like country music laughter ,sd,MALE,1
+['-- <laughter> what kind of rock music do you listen to?  /'], laughter what kind of rock music do you listen to  ,qw,FEMALE,12
+['do you listen to {d like } that really heavy metal stuff  /'],do you listen to d like  that really heavy metal stuff  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['no,  /']",no  ,nn,MALE,13
+"[""i'm more into, {f uh, } older rock, like the psychedelic era,  like, {f uh } -- -/""]",im more into f uh  older rock like the psychedelic era  like f uh   ,sd,MALE,1
+['seventies and like that # stuff. # /'],seventies and like that  stuff  ,qy^d,FEMALE,16
+"['-- # [ se- # + late sixties, ] seventies, {f uh } -- /']",   se   late sixties  seventies f uh   ,arp_nd,MALE,34
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- greatful dead, crosby, stills and nash. /']", greatful dead crosby stills and nash ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i have friends that like that. /'],i have friends that like that ,sd,FEMALE,1
+['what <laughter>? /'],what laughter ,bh,MALE,18
+['yeah <laughter>. /'],yeah laughter ,b,FEMALE,2
+['<laughter>.'],laughter,x,MALE,8
+['{d so } you have never heard of {d like } the christian music that i listen to probably. /'],d so  you have never heard of d like  the christian music that i listen to probably ,qy^d,FEMALE,16
+"[""{f oh, } i've heard a little bit of it.  /""]",f oh  ive heard a little bit of it  ,arp_nd,MALE,34
+"[""i've just, -/""]",ive just ,%,MALE,5
+"['{d like } have you heard [ of, + {f uh, } <smack> of ] carmen?  /']",d like  have you heard  of  f uh  smack of  carmen  ,qy,FEMALE,7
+['have you ever heard of kim? /'],have you ever heard of kim ,qy,FEMALE,7
+"[""{f uh, } {d now } i've heard of striper.  /""]",f uh  d now  ive heard of striper  ,sd,MALE,1
+['# {c so } the only one i can # -- -/'], c so  the only one i can   ,%,MALE,5
+"['# striper,  /']", striper  ,b,FEMALE,2
+"[""they're the really # [ heavy,  + {d yeah } --""]",theyre the really   heavy   d yeah  ,qy^d,FEMALE,16
+['-- # uh-huh. # /'],  uhhuh  ,b,MALE,2
+['-- # {d like } # the heavy ] metal # stuff # --'],  d like   the heavy  metal  stuff  ,+,FEMALE,0
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['-- i guess. /'], i guess ,+,FEMALE,0
+"['{f uh, } the first of amy grant # before # -- -/']",f uh  the first of amy grant  before   ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['-- [ was, + {d you know, } became  ] more mainstream, top forty. -/']",  was  d you know  became   more mainstream top forty ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['cause [ she, + she ]  plays both secular and christian  /']",cause  she  she   plays both secular and christian  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i like her too. /'],i like her too ,sd,FEMALE,1
+"['{f uh, } /']",f uh  ,b,MALE,2
+['i have been to a concert a couple of times of hers. /'],i have been to a concert a couple of times of hers ,sd,FEMALE,1
+"[""i've never actually seen her in concert.  /""]",ive never actually seen her in concert  ,sd,MALE,1
+['i imagine that she puts on a pretty good show. /'],i imagine that she puts on a pretty good show ,qy^d,MALE,16
+['she does. /'],she does ,na,FEMALE,21
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ she's real good. + she's real  good. ]   /""]", shes real good  shes real  good    ,sv,FEMALE,3
+"['{c so, } i like her. /']",c so  i like her ,sd,FEMALE,1
+"['uh-huh <<very faint>>. {f uh, } /']",uhhuh very faint f uh  ,b,MALE,2
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+['<smack> i like some country music.  /'],smack i like some country music  ,sd,MALE,1
+"[""it's just that i like finding a lot of it's, -/""]",its just that i like finding a lot of its ,%,MALE,5
+"[""i don't like the country music that's like my wife left me, # my dog # --""]",i dont like the country music thats like my wife left me  my dog  ,sd,FEMALE,1
+['# yeah # <laughter>. /'], yeah  laughter ,b,MALE,2
+"[""-- left me, everybody's left me. /""]", left me everybodys left me ,+,FEMALE,0
+['<laughter> mama got run over by the train. /'],laughter mama got run over by the train ,^q,MALE,19
+['<laughter>  yeah.  /'],laughter  yeah  ,aa,FEMALE,4
+"[""i don't like that. /""]",i dont like that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know, } i like randy travis -- /']",d you know  i like randy travis  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {d you know, } i like more of the real new ones, # {d you know. } # /']", d you know  i like more of the real new ones  d you know   ,sd,FEMALE,1
+['# like garth brooks. # /'], like garth brooks  ,qy^d,MALE,16
+"['garth brooks,  {f oh }  /']",garth brooks  f oh   ,^h,FEMALE,27
+"['yes, #  /']",yes   ,ny,FEMALE,9
+"[""{d you know } he's fine. # /""]",d you know  hes fine  ,sv,FEMALE,3
+['# reba macintyre. # /'], reba macintyre  ,qy^d,MALE,16
+['yeah.  <laughter>  /'],yeah  laughter  ,ny,FEMALE,9
+['i like them.  /'],i like them  ,sd,FEMALE,1
+"[""i don't care for the older, {d you know, } # {d like }  the dog left me stuff. # /""]",i dont care for the older d you know   d like   the dog left me stuff  ,sd,FEMALE,1
+"[""# you don't like patsy cline? # /""]", you dont like patsy cline  ,qy,MALE,7
+['{f huh? } /'],f huh  ,br,FEMALE,30
+"[""you don't like patsy cline. /""]",you dont like patsy cline ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['huh-uh.  /'],huhuh  ,nn,FEMALE,13
+"[""i don't even really know who she is,   {d you know } <laughter>. /""]",i dont even really know who she is   d you know  laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{d you know, } [ {c so. } + <throat_clearing> <smack> {c but, } ]  have you ever been to any of them concerts that you like?  /']",d you know   c so   throatclearing smack c but    have you ever been to any of them concerts that you like  ,qy,FEMALE,7
+['that music that you like # to. # -/'],that music that you like  to  ,%,FEMALE,5
+"['# {f uh, } # yeah  /']", f uh   yeah  ,ny,MALE,9
+"['actually i just went to see the greatful dead [ about, + i guess about ] a week ago. /']",actually i just went to see the greatful dead  about  i guess about  a week ago ,sd,MALE,1
+"[""{c but } aren't they done with?  /""]",c but  arent they done with  ,qy,FEMALE,7
+['i thought that they <throat_clearing>. -/'],i thought that they throatclearing ,sd,FEMALE,1
+"['no,  /']",no  ,nn,MALE,13
+"[""[ they're + they  are ] still on tour.  /""]", theyre  they  are  still on tour  ,sd,MALE,1
+"['they have been touring,']",they have been touring,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+['since the late sixties <cough>. /'],since the late sixties cough ,+,MALE,0
+['{c and } i just thought that they done broke up and --'],c and  i just thought that they done broke up and ,sd,FEMALE,1
+['no. /'],no ,ar,MALE,28
+['-- # left. # /'],  left  ,+,FEMALE,0
+"[""# they're # still together.  /""]", theyre  still together  ,sd,MALE,1
+"[""# they're still # --""]", theyre still  ,sd,MALE,1
+['# {f huh. # } /'], f huh   ,b,FEMALE,2
+['-- making albums. /'], making albums ,+,MALE,0
+"['wow,  /']",wow  ,ba,FEMALE,6
+"[""i didn't know that. /""]",i didnt know that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"['{f uh, } /']",f uh  ,b,MALE,2
+"[""that's interesting. /""]",thats interesting ,ba,FEMALE,6
+"['in fact, {e i mean } there are people {d you know } that basically just follow them around, from city to city --']",in fact e i mean  there are people d you know  that basically just follow them around from city to city ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- on tour selling tie dye and # things like that. # /'], on tour selling tie dye and  things like that  ,+,MALE,0
+['# <throat_clearing>. #'], throatclearing ,x,FEMALE,8
+"['{f uh, } /']",f uh  ,b,MALE,2
+"[""{c cause } they are on up there in age, aren't they? /""]",c cause  they are on up there in age arent they ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""[ they're, + they're ]  like late forties, early fifties,  /""]", theyre  theyre   like late forties early fifties  ,sd,MALE,1
+['{c but } {d you know } {d like }  whenever one of them dies off they get a replacement <laughter>. /'],c but  d you know  d like   whenever one of them dies off they get a replacement laughter ,sd,MALE,1
+['<laughter>  okay. /'],laughter  okay ,bk,FEMALE,14
+['((   )) .'],    ,x,MALE,8
+['<laughter> alright. /'],laughter alright ,b,FEMALE,2
+"['{d you know, } they seem to have a really bad time with keyboard players.  /']",d you know  they seem to have a really bad time with keyboard players  ,sd,MALE,1
+['they keep on dying  /'],they keep on dying  ,sd,MALE,1
+['{c and } they keep on replacing them  /'],c and  they keep on replacing them  ,sd,MALE,1
+"[""{c and } the new one's  in this thirties {d you know. }  {f uh, } /""]",c and  the new ones  in this thirties d you know   f uh  ,sd,MALE,1
+"['{f oh, } alright. /']",f oh  alright ,b,FEMALE,2
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,MALE,5
+['{c cause } they look pretty rough.  /'],c cause  they look pretty rough  ,sv,FEMALE,3
+"[""{e i mean, }  i've seen {d like } picture of them  /""]",e i mean   ive seen d like  picture of them  ,sd,FEMALE,1
+"['{c and } they just, -/']",c and  they just ,%,FEMALE,5
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""<<very faint>> {d well, } they don't actually look as rough as the rolling stones.  /""]",very faint d well  they dont actually look as rough as the rolling stones  ,sv,MALE,3
+"['they just, - /']",they just  ,%,MALE,5
+"[""i don't know if you saw the tour posters of the rolling stones when they last toured,  /""]",i dont know if you saw the tour posters of the rolling stones when they last toured  ,qy^d,MALE,16
+"['{c but } it looked like leather day at the geriatric, /']",c but  it looked like leather day at the geriatric ,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+['((   ))  <laughter>.'],     laughter,x,MALE,8
+"['<laughter>  yeah,  /']",laughter  yeah  ,aa,FEMALE,4
+"['{e i mean } {c cause } they just, -/']",e i mean  c cause  they just ,%,FEMALE,5
+"['all their faces were just all shriveled, /']",all their faces were just all shriveled ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"['yuck looking,  {e i mean } -- /']",yuck looking  e i mean   ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {f uh. } /'], f uh  ,b,FEMALE,2
+"['{e i mean } it just just looked like they,']",e i mean  it just just looked like they,sv,MALE,3
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+['got a bunch of retirees and put them in leather jackets and blue jeans. /'],got a bunch of retirees and put them in leather jackets and blue jeans ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"['{d well } are you into [ that + that ]  rock music, {d you know, } all that druggy stuff and all that {e i mean? } /']",d well  are you into  that  that   rock music d you know  all that druggy stuff and all that e i mean  ,qy,FEMALE,7
+"['{d well, } {f uh } <laughter>, -/']",d well  f uh  laughter ,%,MALE,5
+['<laughter>.'],laughter,x,FEMALE,8
+['((   )) .'],    ,x,MALE,8
+['<laughter> you know what i am saying  /'],laughter you know what i am saying  ,qh,FEMALE,26
+"['[ {d like, } + {e i mean } {d like } ]    they come on the stage  /']", d like   e i mean  d like      they come on the stage  ,sv,FEMALE,3
+"['{c and } {d like, } {d you know, }  you, - /']",c and  d like  d you know   you  ,%,FEMALE,5
+"[""they don't even know they are there.  {d you know. }  /""]",they dont even know they are there  d you know   ,sv,FEMALE,3
+['they are just so # out of it. # /'],they are just so  out of it  ,sv,FEMALE,3
+"[""# actually, i prefer [ my, + # my ] performers to be pretty sober, {d you know, } [ just + {f uh, } just ] so [ [ that, + {d you know, } that ] + if they're jamming, {d you know, } that ] they don't just lose themselves and {d you know, } go into lala land. /""]", actually i prefer  my   my  performers to be pretty sober d you know   just  f uh  just  so   that  d you know  that   if theyre jamming d you know  that  they dont just lose themselves and d you know  go into lala land ,ng,MALE,29
+['yeah. /'],yeah ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so, } [ i just don't, + i just don't ] like # {d you know. } # -/""]",c so   i just dont  i just dont  like  d you know   ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['that. - /'],that  ,%,FEMALE,5
+"[""{c so, }  <smack> i don't know <throat_clearing>. /""]",c so   smack i dont know throatclearing ,h,FEMALE,15
+"['{d so, }  {f uh, } have you seen any concerts lately? /']",d so   f uh  have you seen any concerts lately ,qy,MALE,7
+"['{f um. }  {f uh, } /']",f um   f uh  ,%,FEMALE,5

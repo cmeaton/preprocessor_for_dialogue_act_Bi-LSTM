@@ -1,0 +1,285 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+"['well yes,  /']",well yes  ,"fo_o_fw_""_by_bc",MALE,0
+['we do have pollution in houston  /'],we do have pollution in houston  ,sd,MALE,1
+"['and it, -/']",and it ,%,MALE,5
+['how bad is it?  /'],how bad is it  ,qw,FEMALE,12
+['do you have smog like they do in california? /'],do you have smog like they do in california ,qy,FEMALE,7
+"['well it, it - /']",well it it  ,%,MALE,5
+"['some, - /']",some  ,no,MALE,31
+"['i think it depends on, uh, you know, what the, ho-, the cloud cover - /']",i think it depends on uh you know what the ho the cloud cover  ,sv,MALE,3
+"[""and like right now, it's, uh, it's kind of overcast, you know,  /""]",and like right now its uh its kind of overcast you know  ,sd,MALE,1
+"[""just, it's hot, /""]",just its hot ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['and the sun is trying, tries to shine through  /']",and the sun is trying tries to shine through  ,sd,MALE,1
+"[""but it's, it's holding in this, this pollution  /""]",but its its holding in this this pollution  ,sv,MALE,3
+"['and i, -/']",and i ,%,MALE,5
+"['it depends on whether you have some sort of temperature inversion, i take it. /']",it depends on whether you have some sort of temperature inversion i take it ,sv,FEMALE,3
+"['i think so,  /']",i think so  ,aa,MALE,4
+"['and, uh, -/']",and uh ,%,MALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"['and we have, uh, pasadena, texas which is sort of between here an, you know, heading toward galveston,  /']",and we have uh pasadena texas which is sort of between here an you know heading toward galveston  ,sd,MALE,1
+"[""i mean it's still part of, it's part of the houston metroplex. /""]",i mean its still part of its part of the houston metroplex ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['what do you think is your primary cause of it. /'],what do you think is your primary cause of it ,qw,FEMALE,12
+"[""well, i think it's industry  /""]",well i think its industry  ,sv,MALE,3
+"[""and i think it's cars. /""]",and i think its cars ,sv,MALE,3
+['you do?  /'],you do  ,qy^d,FEMALE,16
+"[""you really think cars contribute a lot now that they've taken lead out of gas? /""]",you really think cars contribute a lot now that theyve taken lead out of gas ,qy,FEMALE,7
+"[""i don't, i, - /""]",i dont i  ,%,MALE,5
+"['well maybe not,  /']",well maybe not  ,h,MALE,15
+"['but, it, it sure, it sure, se-, - /']",but it it sure it sure se  ,sv,MALE,3
+"['you know, it, - /']",you know it  ,%,MALE,5
+"[""i, i know that when i'm, when i'm behind a car - /""]",i i know that when im when im behind a car  ,sd,MALE,1
+"['and, uh, sometimes, uh, i can really smell especially diesel and things like that, /']",and uh sometimes uh i can really smell especially diesel and things like that ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['you know, comes right into my air conditioner  /']",you know comes right into my air conditioner  ,sd,MALE,1
+"['and, you know, my head and my fa-, - /']",and you know my head and my fa  ,sd,MALE,1
+"[""i'm so stopped up right now, /""]",im so stopped up right now ,sd,MALE,1
+"['um,  /']",um  ,b,FEMALE,2
+['my goodness. /'],my goodness ,ba,FEMALE,6
+"[""i don't know if it's, uh, if it's partly from what's blooming, you know, right now, pollen and stuff like that,  /""]",i dont know if its uh if its partly from whats blooming you know right now pollen and stuff like that  ,sd,MALE,1
+"[""that's part of it,  /""]",thats part of it  ,sd,MALE,1
+"['but, um. -/']",but um ,%,MALE,5
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""i think a lot of it's industrial.  /""]",i think a lot of its industrial  ,sv,FEMALE,3
+"['i also think, uh, that, uh, there is a certain amount that comes from automobiles  /']",i also think uh that uh there is a certain amount that comes from automobiles  ,sv,FEMALE,3
+"[""but it's mostly from older automobiles.  /""]",but its mostly from older automobiles  ,sv,FEMALE,3
+"[""i don't think the newer automobiles are as polluting, uh, frankly. /""]",i dont think the newer automobiles are as polluting uh frankly ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['i think that, uh, i think that, uh, uh, - /']",i think that uh i think that uh uh  ,sv,FEMALE,3
+"['if, uh, - /']",if uh  ,%,FEMALE,5
+"['i, i, i heard a story a while back  /']",i i i heard a story a while back  ,sd,FEMALE,1
+"['something to the effect that if they could just pay to get twenty percent, or, take all the cars off the road that have been, uh, manufactured say before nineteen seventy-five,']",something to the effect that if they could just pay to get twenty percent or take all the cars off the road that have been uh manufactured say before nineteen seventyfive,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['that they could cut the automobile pollution by over fifty percent just by getting rid of those cars that are still left remaining. /'],that they could cut the automobile pollution by over fifty percent just by getting rid of those cars that are still left remaining ,+,FEMALE,0
+"['you mean, uh, fifty percent pollution total --']",you mean uh fifty percent pollution total ,qy,MALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+"['-- from that comes from, -/']", from that comes from ,+,MALE,0
+"['from, from cars - /']",from from cars  ,^2,FEMALE,23
+"['that is, not, not total but just from cars, - /']",that is not not total but just from cars  ,sd,FEMALE,1
+['okay. /'],okay ,%,FEMALE,5
+"['oh, uh-huh. /']",oh uhhuh ,bk,MALE,14
+"['so, that i think would be tremendous help.  /']",so that i think would be tremendous help  ,sv,FEMALE,3
+"[""but i happen to drive an old model car because it's very economical  /""]",but i happen to drive an old model car because its very economical  ,sd,FEMALE,1
+"['and it just keeps getting, uh, gives me good service  /']",and it just keeps getting uh gives me good service  ,sd,FEMALE,1
+"[""and i don't have an incentive to get rid of it as long as it keeps running good and not costing me any money. /""]",and i dont have an incentive to get rid of it as long as it keeps running good and not costing me any money ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""on the other hand i know it's a much more polluter than any of the newer model cars i have. /""]",on the other hand i know its a much more polluter than any of the newer model cars i have ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""but i don't have any incentive to get out of it until it dies. /""]",but i dont have any incentive to get out of it until it dies ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['and, uh, that may be part of the problem.  /']",and uh that may be part of the problem  ,sv,FEMALE,3
+"['als-, -/']",als ,%,FEMALE,5
+"['do you all have pollution in your co-, part of the country, uh, from industry? /']",do you all have pollution in your co part of the country uh from industry ,qy,MALE,7
+"['yeah, {pause}  /']",yeah pause  ,ny,FEMALE,9
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['oh, uh, yeah,  /']",oh uh yeah  ,ny,FEMALE,9
+"[""it's, it's, uh, pretty heavy up here i think  /""]",its its uh pretty heavy up here i think  ,sv,FEMALE,3
+"[""but i think it's mostly industrial, is what i really, uh, believe is the, the main problem.  /""]",but i think its mostly industrial is what i really uh believe is the the main problem  ,sv,FEMALE,3
+"['and, and, uh, {pause} - /']",and and uh pause  ,%,FEMALE,5
+"[""and, uh, uh, people, uh, i don't think are paying as close attention to it in this area as they frankly should.  /""]",and uh uh people uh i dont think are paying as close attention to it in this area as they frankly should  ,sv,FEMALE,3
+"['i, i we, we seem to have a high, uh, cancer rate up here in maryland. /']",i i we we seem to have a high uh cancer rate up here in maryland ,sv,FEMALE,3
+"['really, /']",really ,bh,MALE,18
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['and, uh, -/']",and uh ,%,FEMALE,5
+"['like what ki-, - /']",like what ki  ,%,MALE,5
+['any particular kind or just all kinds? /'],any particular kind or just all kinds ,qy,MALE,7
+"['well, for instance breast cancer seems to be pretty rampant  /']",well for instance breast cancer seems to be pretty rampant  ,sv,FEMALE,3
+"['and, uh, i think, - /']",and uh i think  ,%,FEMALE,5
+"[""of course prostrate cancer's sort of bad for everybody,  /""]",of course prostrate cancers sort of bad for everybody  ,sv,FEMALE,3
+"['but, uh, th-, this state was like the second, - /']",but uh th this state was like the second  ,sd,FEMALE,1
+"[""my wife's a registered nurse,  /""]",my wifes a registered nurse  ,sd,FEMALE,1
+"['and i think this state was like second this year from the top, in terms of, uh, cancer rate for just all kinds.  /']",and i think this state was like second this year from the top in terms of uh cancer rate for just all kinds  ,sv,FEMALE,3
+"[""and i can't help but believe that's not partially caused from pollution.  /""]",and i cant help but believe thats not partially caused from pollution  ,sv,FEMALE,3
+"[""i just don't know exactly what it necessarily is,  /""]",i just dont know exactly what it necessarily is  ,sv,FEMALE,3
+"[""but i just can't believe it is. /""]",but i just cant believe it is ,sv,FEMALE,3
+['um. /'],um ,b,MALE,2
+"['now we have a lot of pollution being caused by cloruph-, uh, fluorocarbons which is the, like freon twelve and freon twenty-two.  /']",now we have a lot of pollution being caused by cloruph uh fluorocarbons which is the like freon twelve and freon twentytwo  ,sd,FEMALE,1
+"['they use freon twenty-two in air conditioning systems in houses and the like and heat pumps, /']",they use freon twentytwo in air conditioning systems in houses and the like and heat pumps ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['and they use freon twelve in car air conditioners  /'],and they use freon twelve in car air conditioners  ,sd,FEMALE,1
+"[""and that's also what's causing our atmosphere to lose it's ozone layer. /""]",and thats also whats causing our atmosphere to lose its ozone layer ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""and i can't help believe if it's sufficient enough to make the atmosphere lose it's ozone layer, that it's not acting as a pollutant in our lungs also,  /""]",and i cant help believe if its sufficient enough to make the atmosphere lose its ozone layer that its not acting as a pollutant in our lungs also  ,sv,FEMALE,3
+"['and having all kinds of effects,  /']",and having all kinds of effects  ,sv,FEMALE,3
+['and. -/'],and ,%,FEMALE,5
+"['well what can we do about the, the, the, the air conditioning problem? /']",well what can we do about the the the the air conditioning problem ,qw,MALE,12
+"[""well they're working now, - /""]",well theyre working now  ,sd,FEMALE,1
+"['i know dupont and dow and several other chemical companies are working, uh, feverishly to try to come up with a substitute for fluorocarbons, /']",i know dupont and dow and several other chemical companies are working uh feverishly to try to come up with a substitute for fluorocarbons ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['and who ever does is going to make, uh, a mint.  /']",and who ever does is going to make uh a mint  ,sv,FEMALE,3
+"['because if they ever come up with a reasonable working agent in place of fluorocarbons, then, uh, -/']",because if they ever come up with a reasonable working agent in place of fluorocarbons then uh ,sd,FEMALE,1
+"[""is that also what's in, uh, hairsp-, aerosol? /""]",is that also whats in uh hairsp aerosol ,qy,MALE,7
+"['well they used to be,  /']",well they used to be  ,na,FEMALE,21
+['but they made them take it out of that. /'],but they made them take it out of that ,sd,FEMALE,1
+"['even, so, so the aerosol is still aerosol, /']",even so so the aerosol is still aerosol ,qy^d,MALE,16
+['right. /'],right ,na,FEMALE,21
+"[""but it doesn't have anything that's damaging. /""]",but it doesnt have anything thats damaging ,qy^d,MALE,16
+"['no,  /']",no  ,nn,FEMALE,13
+"['they, they, they passed a law and made them take the fluorocarbons out of the aerosol containers, /']",they they they passed a law and made them take the fluorocarbons out of the aerosol containers ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"[""well that's good. /""]",well thats good ,sv,MALE,3
+['and that was a move in the right direction.  /'],and that was a move in the right direction  ,sv,FEMALE,3
+['we are doing some things to try to correct the problem.  /'],we are doing some things to try to correct the problem  ,sd,FEMALE,1
+['but there are more things we could do  /'],but there are more things we could do  ,sv,FEMALE,3
+"['and getting rid of old cars, like i said is one way to help correct the problem.  /']",and getting rid of old cars like i said is one way to help correct the problem  ,sv,FEMALE,3
+"['uh, uh, just trying to i think be careful, uh, with the way you handle garbage,  /']",uh uh just trying to i think be careful uh with the way you handle garbage  ,sv,FEMALE,3
+"['i notice in this state, - /']",i notice in this state  ,sd,FEMALE,1
+"[""i don't know if you're doing it in texas yet or not,  /""]",i dont know if youre doing it in texas yet or not  ,sd,FEMALE,1
+"['but in this state we have special containers now we have to put all our cans and bottles and plastic pieces, uh, you know, containers in,  /']",but in this state we have special containers now we have to put all our cans and bottles and plastic pieces uh you know containers in  ,sd,FEMALE,1
+['yeah. /'],yeah ,%,FEMALE,5
+"[""here, they've just started, started doing that,  /""]",here theyve just started started doing that  ,sd,MALE,1
+"[""it's, it's, you know, - /""]",its its you know  ,%,MALE,5
+"[""you're not, you don't have to, - /""]",youre not you dont have to  ,sd,MALE,1
+"['but m-, you know, - /']",but m you know  ,%,MALE,5
+['i know i am.  /'],i know i am  ,sd,MALE,1
+"['i save, -/']",i save ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['well we are doing it pretty religiously in our group too.  /'],well we are doing it pretty religiously in our group too  ,sd,FEMALE,1
+"['but they, uh, - /']",but they uh  ,%,FEMALE,5
+"[""in one of the counties here, they're actually doing a trial program of having a trash police.  /""]",in one of the counties here theyre actually doing a trial program of having a trash police  ,sd,FEMALE,1
+['they have a lady that goes around like a meter maid  /'],they have a lady that goes around like a meter maid  ,sd,FEMALE,1
+"[""and she spot checks people's trash. /""]",and she spot checks peoples trash ,sd,FEMALE,1
+"['no kidding,  /']",no kidding  ,ba,MALE,6
+"['really,  /']",really  ,b,MALE,2
+['oh. /'],oh ,b,MALE,2
+"['and if they find a bottle or a can or anything like that in your trash,']",and if they find a bottle or a can or anything like that in your trash,sd,FEMALE,1
+['is that right. /'],is that right ,bh,MALE,18
+"[""they'll fine you fifty bucks i think the first time and two fifty the second time. /""]",theyll fine you fifty bucks i think the first time and two fifty the second time ,+,FEMALE,0
+"['well, we need to do something,  /']",well we need to do something  ,sv,MALE,3
+['we need to get serious about it. /'],we need to get serious about it ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['you, - /']",you  ,%,FEMALE,5
+"['right,  /']",right  ,b,FEMALE,2
+"[""you've got to get people to see i-, - /""]",youve got to get people to see i  ,sv,FEMALE,3
+"['and surprisingly enough just handling of trash, uh, can cut pollution, uh, from, uh, uh, from just throwing it in a dump, or, or, or, where ever else they used to do with it, maybe used to burn it.  /']",and surprisingly enough just handling of trash uh can cut pollution uh from uh uh from just throwing it in a dump or or or where ever else they used to do with it maybe used to burn it  ,sv,FEMALE,3
+"[""they've stopped that up here too. /""]",theyve stopped that up here too ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['but that, that will cut pollution too.  /']",but that that will cut pollution too  ,sv,FEMALE,3
+"['because you get a lot of out gassing from these things, i think, decaying and tr-, and trying to, - /']",because you get a lot of out gassing from these things i think decaying and tr and trying to  ,sv,FEMALE,3
+"['for instance cans and bottles, they never go away at all. /']",for instance cans and bottles they never go away at all ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""but on, on the other hand, i don't guess they're polluting.  /""]",but on on the other hand i dont guess theyre polluting  ,sv,FEMALE,3
+"['but plastic containers and the like, uh, they may be,  /']",but plastic containers and the like uh they may be  ,sv,FEMALE,3
+"[""i'm not sure of that. /""]",im not sure of that ,sd,FEMALE,1
+"['how much does, uh, planting more trees and things like that help? /']",how much does uh planting more trees and things like that help ,qo,MALE,25
+"[""oh i think that's very important to do. /""]",oh i think thats very important to do ,sv,FEMALE,3
+['(( )) too. /'],  too ,%,MALE,5
+"['i, i really think that, uh, trying to get along with your environment and help it out is a very, very important thing. /']",i i really think that uh trying to get along with your environment and help it out is a very very important thing ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['and, uh, that can help to cut pollution, i guess some.  /']",and uh that can help to cut pollution i guess some  ,sv,FEMALE,3
+"[""i, i don't know how much trees actually act as filtering agents in terms of pulling various pollutants or chemicals out of the air.  /""]",i i dont know how much trees actually act as filtering agents in terms of pulling various pollutants or chemicals out of the air  ,sv,FEMALE,3
+"['i would hope that they would help some, though.  /']",i would hope that they would help some though  ,sv,FEMALE,3
+"[""that's for sure. /""]",thats for sure ,sv,FEMALE,3
+"['i think, uh, it seems like there was something going on, around here, that, you know, -/']",i think uh it seems like there was something going on around here that you know ,sv,MALE,3
+['<throat_clearing>. /'],throatclearing ,x,FEMALE,8
+"['we have all these chemical plants and oil refineries and those kind of things and that they burn off a lot of stuff, /']",we have all these chemical plants and oil refineries and those kind of things and that they burn off a lot of stuff ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""and some of the stuff that they weren't supposed to do that somebody found out, you know, like in the middle of the night, they would go ahead and do it anyway.  /""]",and some of the stuff that they werent supposed to do that somebody found out you know like in the middle of the night they would go ahead and do it anyway  ,sd,MALE,1
+['i think they got caught. /'],i think they got caught ,sd,MALE,1
+['oh good. /'],oh good ,ba,FEMALE,6
+"['but i wonder how much of that kind of stuff, you know, goes on. /']",but i wonder how much of that kind of stuff you know goes on ,sd,MALE,1
+"['well that, uh, that i think may go on a lot  /']",well that uh that i think may go on a lot  ,sv,FEMALE,3
+"['and the primary reason i think it may go on a lot is just as you said, somebody happened to stay up late at night or something.  /']",and the primary reason i think it may go on a lot is just as you said somebody happened to stay up late at night or something  ,sv,FEMALE,3
+"[""i don't think we have a adequate policing, uh, particularly on industry.  /""]",i dont think we have a adequate policing uh particularly on industry  ,sv,FEMALE,3
+"['uh, we have good policing, at least in this state  and, and several of the surrounding states and probably yours too, of car pollutants  /']",uh we have good policing at least in this state  and and several of the surrounding states and probably yours too of car pollutants  ,sv,FEMALE,3
+"[""because we have to go down, uh, once a year here in maryland and get out car's exhaust systems checked for emission content. /""]",because we have to go down uh once a year here in maryland and get out cars exhaust systems checked for emission content ,sd,FEMALE,1
+"['uh, we have to, uh, we have to have a state inspection every year. /']",uh we have to uh we have to have a state inspection every year ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['do you all have that? /'],do you all have that ,qy,MALE,7
+"['uh, no,  /']",uh no  ,nn,FEMALE,13
+"[""we don't have a state inspection, /""]",we dont have a state inspection ,sd,FEMALE,1
+"['so, - /']",so  ,%,MALE,5
+"['which i, - /']",which i  ,%,MALE,5
+"['i don-, - /']",i don  ,%,MALE,5
+"['i would assu-, -/']",i would assu ,%,MALE,5
+['but any time you sell a car or buy a car it has to be inspected in this state. /'],but any time you sell a car or buy a car it has to be inspected in this state ,sd,FEMALE,1
+"[""so i'm assu-, i'm assuming that, you know, they check, they check everything for safety  /""]",so im assu im assuming that you know they check they check everything for safety  ,qy^d,MALE,16
+"['or, -/']",or ,%,MALE,5
+"[""i don't know,  /""]",i dont know  ,no,FEMALE,31
+"[""uh, that's something that you'd have to just check with your authorities.  /""]",uh thats something that youd have to just check with your authorities  ,sd,FEMALE,1
+"['but in this state we have to, uh, pay eight dollars and a half and go to a, an emission station once a year and get every one of our cars checked that are, have been made starting in nineteen seventy-three. /']",but in this state we have to uh pay eight dollars and a half and go to a an emission station once a year and get every one of our cars checked that are have been made starting in nineteen seventythree ,sd,FEMALE,1
+"[""but that's all they check for,  /""]",but thats all they check for  ,qy^d,MALE,16
+"[""they don't check how good, - /""]",they dont check how good  ,qy^d,MALE,16
+['if your tires are good enough or your brakes are good enough. /'],if your tires are good enough or your brakes are good enough ,qy^d,MALE,16
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"[""we don't have inspections like that.  /""]",we dont have inspections like that  ,sd,FEMALE,1
+"[""now, i'm in maryland,  /""]",now im in maryland  ,sd,FEMALE,1
+"['in virginia they check that every two years, i think. /']",in virginia they check that every two years i think ,sv,FEMALE,3
+"['we do that ev-, every year. /']",we do that ev every year ,sd,MALE,1
+"[""and i think that's a good idea too,  /""]",and i think thats a good idea too  ,sv,FEMALE,3
+"['not, no-, not that it necessarily has anything to do with cutting pollution necessarily,  /']",not no not that it necessarily has anything to do with cutting pollution necessarily  ,sd,FEMALE,1
+"[""but i think it's a good idea.  /""]",but i think its a good idea  ,sv,FEMALE,3
+"['the emission check, though, is required in maryland  /']",the emission check though is required in maryland  ,sd,FEMALE,1
+"[""and it's also required in virginia, uh, a sister state to, to this one.  /""]",and its also required in virginia uh a sister state to to this one  ,sd,FEMALE,1
+"[""and that's, that goes a long ways towards cutting pollutants. /""]",and thats that goes a long ways towards cutting pollutants ,sv,FEMALE,3
+"[""well i'll have to check,  /""]",well ill have to check  ,sd,MALE,1
+"[""i'm not sure if, if our state inspection ever-, - /""]",im not sure if if our state inspection ever  ,sd,MALE,1
+"['once a year has to do, you know, - /']",once a year has to do you know  ,sd,MALE,1
+"['if they check the, uh, -/']",if they check the uh ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""well if they don't i would imagine in time they'll get a law with. i-, get around to it,  /""]",well if they dont i would imagine in time theyll get a law with i get around to it  ,sv,FEMALE,3
+"[""and if they don't then that's something i would certainly, uh, uh, suggest you be willing to uh, uh, be for in terms of, uh, -/""]",and if they dont then thats something i would certainly uh uh suggest you be willing to uh uh be for in terms of uh ,sv,FEMALE,3
+"['oh, i would <laughter>. /']",oh i would laughter ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i'm for anything that cleans up the air or the water or, or, or anything. /""]",im for anything that cleans up the air or the water or or or anything ,sd,MALE,1
+"['oh yeah,  /']",oh yeah  ,aa,FEMALE,4
+"['i, i agree.  /']",i i agree  ,aa,FEMALE,4
+"[""now that's another area we haven't even discussed  /""]",now thats another area we havent even discussed  ,sd,FEMALE,1
+"['and that is water pollution and various of the other types of, uh, of, uh, like food pollution.  /']",and that is water pollution and various of the other types of uh of uh like food pollution  ,sd,FEMALE,1
+"['i mean you, you hardly ever hear, hear anybody say anything about food pollution.  /']",i mean you you hardly ever hear hear anybody say anything about food pollution  ,sd,FEMALE,1
+"['but i think there we have a pretty good handle on inspection of foods in this countries,  /']",but i think there we have a pretty good handle on inspection of foods in this countries  ,sv,FEMALE,3
+"[""so, uh, hopefully we're not ingesting too much in the way of, uh, pollutants in our food.  /""]",so uh hopefully were not ingesting too much in the way of uh pollutants in our food  ,sd,FEMALE,1
+"['but water pollution, uh, - /']",but water pollution uh  ,%,FEMALE,5
+"[""i've worried, especially the last few years about just how good the water supply we have in this country is for drinking and the like. /""]",ive worried especially the last few years about just how good the water supply we have in this country is for drinking and the like ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['i know a lot more people are going to bottled water. /'],i know a lot more people are going to bottled water ,sd,FEMALE,1
+['well - /'],well  ,arp_nd,MALE,34
+"[""and that's not necessarily the answer either  /""]",and thats not necessarily the answer either  ,sv,MALE,3
+"[""because they've found out that that's just comes out of somebody's tap. /""]",because theyve found out that thats just comes out of somebodys tap ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['tap,  /']",tap  ,b^m,FEMALE,24
+['yeah <laughter>. /'],yeah laughter ,%,FEMALE,5
+"['so, - /']",so  ,%,MALE,5
+"['but a lot of these, uh, - /']",but a lot of these uh  ,%,MALE,5
+['some of this - /'],some of this  ,%,MALE,5
+"['well, you know, a lot of people have well water,  /']",well you know a lot of people have well water  ,sv,MALE,3
+['in fact in this area too  /'],in fact in this area too  ,sd,MALE,1
+"['and, an, you know, - /']",and an you know  ,%,MALE,5
+"['and, uh, -/']",and uh ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""if you don't get it tested you don't necessarily know what you're, what you're drinking  /""]",if you dont get it tested you dont necessarily know what youre what youre drinking  ,sd,MALE,1
+"['and i, i know a lot of people, you know, have that  /']",and i i know a lot of people you know have that  ,sd,MALE,1
+"['and, you know, you have to wonder if that, you know could have an adverse affect on them too,']",and you know you have to wonder if that you know could have an adverse affect on them too,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""if they don't, i-, they don't get it checked. /""]",if they dont i they dont get it checked ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i'm absolutely for drinking water out of wells as long as you first of course, have it checked  /""]",im absolutely for drinking water out of wells as long as you first of course have it checked  ,sd,FEMALE,1
+"['because it seems, uh, - /']",because it seems uh  ,sv,FEMALE,3
+"['when i was a kid growing up down south, uh, i used to go out in the country where my grandparents were  /']",when i was a kid growing up down south uh i used to go out in the country where my grandparents were  ,sd,FEMALE,1
+"['and we had a well,  /']",and we had a well  ,sd,FEMALE,1
+"['it was one of those draws that, - /']",it was one of those draws that  ,sd,FEMALE,1
+"['i forget what you call those things, /']",i forget what you call those things ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['and, and that was some of the best tasting water,  /']",and and that was some of the best tasting water  ,sv,FEMALE,3
+"['i mean, i can still to this day taste that water. /']",i mean i can still to this day taste that water ,sd,FEMALE,1
+"['when we were, - /']",when we were  ,%,MALE,5
+"['when i was growing up i lived in huntsville, alabama, /']",when i was growing up i lived in huntsville alabama ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['and their water supply came from, uh, spring. /']",and their water supply came from uh spring ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['and it was like ice cold, spring water  /']",and it was like ice cold spring water  ,sd,MALE,1
+"['and i guess parts of the, the city still ha-, you know, get that,  /']",and i guess parts of the the city still ha you know get that  ,sd,MALE,1
+"['but, uh, that was, that was really wonderful. /']",but uh that was that was really wonderful ,sv,MALE,3
+"['oh, i bet it was. /']",oh i bet it was ,ba,FEMALE,6
+"['it was really, really good. /']",it was really really good ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['the-, - /']",the  ,%,FEMALE,5
+"[""once it's been filtered an if it's a deep enough well, filtered through all the earth and everything i think that, uh, - /""]",once its been filtered an if its a deep enough well filtered through all the earth and everything i think that uh  ,sv,FEMALE,3
+['it depends of course where you are.  /'],it depends of course where you are  ,sv,FEMALE,3
+"['a good well, though, i think is very healthy ... /']",a good well though i think is very healthy  ,sv,FEMALE,3

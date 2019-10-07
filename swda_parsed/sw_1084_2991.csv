@@ -1,0 +1,149 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['<throat_clearing> {d so, } p c -s, personal computers.  /']",throatclearing d so  p c s personal computers  ,"fo_o_fw_""_by_bc",MALE,0
+['do you have a personal computer? /'],do you have a personal computer ,qy,MALE,7
+['no  /'],no  ,nn,FEMALE,13
+"[""i don't, not at home. /""]",i dont not at home ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['i work with them quite a bit though. /'],i work with them quite a bit though ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"['[ i, + i ]  work with them at kelly services, doing, {f uh, } data entry. /']", i  i   work with them at kelly services doing f uh  data entry ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['[ what do you, + what do you ] think about them? /']", what do you  what do you  think about them ,qo,MALE,25
+"[""{d well, } i think they're useful,  /""]",d well  i think theyre useful  ,sv,FEMALE,3
+"[""i think [ they're + ] in some instances [ they're, + they're ] over used,  /""]",i think  theyre   in some instances  theyre  theyre  over used  ,sv,FEMALE,3
+"[""{d well, } that's not the right way to  say it. /""]",d well  thats not the right way to  say it ,^h,FEMALE,27
+['<throat_clearing> you mean instead of people  /'],throatclearing you mean instead of people  ,bf,MALE,20
+"['{c or, } -/']",c or  ,%,MALE,5
+"[""{d well } i think that, {f uh, } [ some, + some ]  work places where i've been [ they, + they ] set up - /""]",d well  i think that f uh   some  some   work places where ive been  they  they  set up  ,na,FEMALE,21
+['{d like } every body has <talking> their own p c --'],d like  every body has talking their own p c ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- which a lot of times everybody doesn't  need a p c,  /""]", which a lot of times everybody doesnt  need a p c  ,+,FEMALE,0
+"['{c and } it really, - /']",c and  it really  ,%,FEMALE,5
+"['without them knowing how to use it properly,  it slows them down, more than it helps them accomplish something. /']",without them knowing how to use it properly  it slows them down more than it helps them accomplish something ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"[""they spend more time messing with the  p c than they would actually accomplishing the tasks that they're trying to do  if they didn't have a p c at all. /""]",they spend more time messing with the  p c than they would actually accomplishing the tasks that theyre trying to do  if they didnt have a p c at all ,sv,FEMALE,3
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['{c and } you really have to be able  to type pretty fast [ before, + {d you know, } before ]  it really saves time. /']",c and  you really have to be able  to type pretty fast  before  d you know  before   it really saves time ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""that's true. /""]",thats true ,ba,FEMALE,6
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } you have to, {d you know, } be familiar with  it,  /']",c and  you have to d you know  be familiar with  it  ,sv,FEMALE,3
+"[""{d like } there're so many different software packages, [ it, + you ]  have to be familiar with the one that you're going to be using most. /""]",d like  therere so many different software packages  it  you   have to be familiar with the one that youre going to be using most ,sv,FEMALE,3
+['uh-huh /'],uhhuh ,b,MALE,2
+"['a lot of times, {f uh, } people know about half  of the capabilities of a package that they should know to actually be able to use  it properly,  /']",a lot of times f uh  people know about half  of the capabilities of a package that they should know to actually be able to use  it properly  ,sv,FEMALE,3
+"['{c and so } they waste more time with their trying to, {f uh, }   figure out how to do, {d you know, } other things, than they would [ if they, + <music> if they ]  actually understood what they were trying to do.  /']",c and so  they waste more time with their trying to f uh    figure out how to do d you know  other things than they would  if they  music if they   actually understood what they were trying to do  ,sv,FEMALE,3
+"['{d you know, }  {d like, } {f uh, } they want [ to, + to ]  format a report a certain way -- /']",d you know   d like  f uh  they want  to  to   format a report a certain way  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } if they really understood the  capabilities of the package [ they could, + they could ] do that in about, {d you know, }  half the time that they spend trying to figure out how to do it without spending  the time to learn the package properly. /']", c and  if they really understood the  capabilities of the package  they could  they could  do that in about d you know   half the time that they spend trying to figure out how to do it without spending  the time to learn the package properly ,sv,FEMALE,3
+"['to set up the boundaries correctly, and <throat_clearing> --']",to set up the boundaries correctly and throatclearing ,^2,MALE,23
+"['right,  /']",right  ,aa,FEMALE,4
+['exactly. /'],exactly ,ba,FEMALE,6
+"[""-- how many lines you're going to use  in an, -/""]", how many lines youre going to use  in an ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['a lot of times [ [ they, + they, ] + they ]  do it manually on the computer, which just really is a waste of time,  /']",a lot of times   they  they   they   do it manually on the computer which just really is a waste of time  ,sv,FEMALE,3
+"['{c and then, }  if they ever have to change anything [ [ in that, + in that, ] + in the ]  document, they have to go back and redo it all manually, whereas if they had learned the  package properly to start with and had set it up correctly,  the package would do that for them --']",c and then   if they ever have to change anything   in that  in that   in the   document they have to go back and redo it all manually whereas if they had learned the  package properly to start with and had set it up correctly  the package would do that for them ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- whenever they wanted to make a change, /']", whenever they wanted to make a change ,+,FEMALE,0
+"[""[ [ can't you, + can't you put, ] +""]",  cant you  cant you put  ,qh,MALE,26
+"[""{c so } [ i, + i've ] seen that as a problem. /""]",c so   i  ive  seen that as a problem ,sd,FEMALE,1
+"[""can't you ] put it on a disk and then just edit it,  if you need to when you go back. /""]",cant you  put it on a disk and then just edit it  if you need to when you go back ,+,MALE,0
+"['right,  /']",right  ,b,FEMALE,2
+"[""{c but } [ in some, + in some ]  cases the with the formatting, what i'm talking about is that [ they would set up, + they set up ]  a certain document,  /""]",c but   in some  in some   cases the with the formatting what im talking about is that  they would set up  they set up   a certain document  ,sd,FEMALE,1
+['{c and } it may be eight pages long. /'],c and  it may be eight pages long ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{c and } they set it up manually, so that they have  all their spacings and  formattings and tabs set manually. /']",c and  they set it up manually so that they have  all their spacings and  formattings and tabs set manually ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['[ {c and } + --'], c and   ,%,MALE,5
+"['{c and, } {f um, }']",c and  f um ,sd,FEMALE,1
+"['-- {c and } ] {f um, } -/']", c and   f um  ,+,MALE,0
+"['{c then } when they have to make a change, {a say they want to insert a paragraph. }  they got to  go through the document and reset all the page breaks manually --']",c then  when they have to make a change a say they want to insert a paragraph   they got to  go through the document and reset all the page breaks manually ,+,FEMALE,0
+['rewrite the whole thing. /'],rewrite the whole thing ,^2,MALE,23
+"['-- and rewrite the whole thing instead of  having the, - /']", and rewrite the whole thing instead of  having the  ,+,FEMALE,0
+"['[ if, + if ] they had set up the formatting on the system  itself, it would do that for them, and save them a lot of time.  /']", if  if  they had set up the formatting on the system  itself it would do that for them and save them a lot of time  ,sd,FEMALE,1
+"[""{c but } a lot of people don't  spend the time to learn the package. /""]",c but  a lot of people dont  spend the time to learn the package ,sd,FEMALE,1
+['how does the word wrap work on that?  /'],how does the word wrap work on that  ,qo,MALE,25
+['do you end up with very different length lines? /'],do you end up with very different length lines ,qy,MALE,7
+"['{f oh, } no,  /']",f oh  no  ,nn,FEMALE,13
+['no  /'],no  ,nn,FEMALE,13
+['you can left and right justify the  whole thing.  /'],you can left and right justify the  whole thing  ,sd,FEMALE,1
+['it comes out just perfectly spaced like a block. /'],it comes out just perfectly spaced like a block ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,MALE,5
+"[""[ it'll, + it'll ] automatically, - /""]", itll  itll  automatically  ,sd,FEMALE,1
+"[""it's like typesetting.  /""]",its like typesetting  ,sd,FEMALE,1
+"[""it'll automatically do that for you. /""]",itll automatically do that for you ,sd,FEMALE,1
+['{c and } it divides the words by itself? /'],c and  it divides the words by itself ,qy^d,MALE,16
+"[""usually it doesn't divide words. /""]",usually it doesnt divide words ,ng,FEMALE,29
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+['they usually have it space the words in a  [ line + ] rather than divide a word. /'],they usually have it space the words in a   line   rather than divide a word ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so, } you see, like in a newspaper, they typeset.  /']",c so  you see like in a newspaper they typeset  ,sd,FEMALE,1
+"[""they don't usually break words in a newspaper. /""]",they dont usually break words in a newspaper ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['[ if the, + if one ] line is going to be a lot  shorter than another line, they just add spaces to that line to make it look long  as the rest of the lines. /']", if the  if one  line is going to be a lot  shorter than another line they just add spaces to that line to make it look long  as the rest of the lines ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['they space it out [ in, + in ] the line itself. /']",they space it out  in  in  the line itself ,bf,MALE,20
+['right. /'],right ,aa,FEMALE,4
+['oh. /'],oh ,b,MALE,2
+['{c and } most computers do that. /'],c and  most computers do that ,sd,FEMALE,1
+"['they, -/']",they ,%,MALE,5
+"['[ most pack-, + most software packages ]  will do that for you. /']", most pack  most software packages   will do that for you ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ i've, + i've ] known people that have used a   package [ for, + for ] five years, {d you know, }  /""]", ive  ive  known people that have used a   package  for  for  five years d you know   ,sd,FEMALE,1
+"['{c and } i would say, {d well, } [ have you, + ] {d you know, }  you know more about this package than i do,  /']",c and  i would say d well   have you   d you know   you know more about this package than i do  ,sd,FEMALE,1
+['how do you left justify?   /'],how do you left justify   ,^q,FEMALE,19
+"[""{c and } they would say, i don't know. /""]",c and  they would say i dont know ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } it would take me maybe two or three minutes  looking in the manual to figure out what command it was that  caused this to happen.  /'],c and  it would take me maybe two or three minutes  looking in the manual to figure out what command it was that  caused this to happen  ,sd,FEMALE,1
+"['{c and } they would say, how did you do that?  /']",c and  they would say how did you do that  ,sd,FEMALE,1
+"[""{c and } i'm like, {d well }  it's really easy.  /""]",c and  im like d well   its really easy  ,sd,FEMALE,1
+"['{c and } they were like, {d well, } i never knew that.   /']",c and  they were like d well  i never knew that   ,sd,FEMALE,1
+"[""{c so } obviously they'd  never considered looking it up, {d you know. } /""]",c so  obviously theyd  never considered looking it up d you know  ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""do you think it's a lack of  training,  /""]",do you think its a lack of  training  ,qy,MALE,7
+"[""{c or } it's just that they don't use the materials that are available to them. /""]",c or  its just that they dont use the materials that are available to them ,qrr,MALE,33
+"[""sometimes it's, - /""]",sometimes its  ,no,FEMALE,31
+"['sometimes, - /']",sometimes  ,no,FEMALE,31
+"[""{d well, }  it's a number of different things.  /""]",d well   its a number of different things  ,no,FEMALE,31
+"[""sometimes [ they don't, + {f uh, } they don't ]  think that they can get any information out of the manual.  /""]",sometimes  they dont  f uh  they dont   think that they can get any information out of the manual  ,sv,FEMALE,3
+"[""some manuals aren't really designed very well. /""]",some manuals arent really designed very well ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but } some of them,']",c but  some of them,sd,FEMALE,1
+['<cough>.'],cough,x,MALE,8
+"['are,  /']",are  ,+,FEMALE,0
+"['{c and } more and more of them are coming  out written in a way [ that it, + that just ] a basic, general user can understand them.  /']",c and  more and more of them are coming  out written in a way  that it  that just  a basic general user can understand them  ,sd,FEMALE,1
+"[""{c so, } i think, {f um, } people think it's <talking> going to take them a lot  longer to learn it properly than it really would,  /""]",c so  i think f um  people think its talking going to take them a lot  longer to learn it properly than it really would  ,sd,FEMALE,1
+"[""{c and so } they're really  wasting time rather than saving themselves time, because they think, {d well, } it's quicker just to do it myself --""]",c and so  theyre really  wasting time rather than saving themselves time because they think d well  its quicker just to do it myself ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""-- when it's really not. /""]", when its really not ,+,FEMALE,0
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""it's better to learn it directly from the manual. /""]",its better to learn it directly from the manual ,sv,MALE,3
+"['{d well, } i think so. /']",d well  i think so ,sv,FEMALE,3
+['especially when you have to trouble shoot some things. /'],especially when you have to trouble shoot some things ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['exactly. /'],exactly ,aa,FEMALE,4
+"['<talking> {c because } a lot of the times the  computer <throat_clearing> [ the + ] program still has, {f uh, } bugs in it,  /']",talking c because  a lot of the times the  computer throatclearing  the   program still has f uh  bugs in it  ,sd,MALE,1
+['{c and } you have to work around it. /'],c and  you have to work around it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['have you worked mostly on i b m, /']",have you worked mostly on i b m ,qy^d,MALE,16
+"[""with p c -s they're either <talking> i b m or  i b m compatible, mostly. /""]",with p c s theyre either talking i b m or  i b m compatible mostly ,na,FEMALE,21
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ that's a-, + --""]", thats a  ,sd,MALE,1
+"['that is [ the, + {d you know, } the ] industry standard. /']",that is  the  d you know  the  industry standard ,sd,FEMALE,1
+"[""-- that's all ] i've seen in offices, is i b m. /""]", thats all  ive seen in offices is i b m ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""there's a lot of really good i b m  compatibles, too.  /""]",theres a lot of really good i b m  compatibles too  ,sv,FEMALE,3
+"[""they don't have to necessarily be the i b m brand,  /""]",they dont have to necessarily be the i b m brand  ,sd,FEMALE,1
+['{c but } they have to adhere to that industry standard. /'],c but  they have to adhere to that industry standard ,sd,FEMALE,1
+['right.  /'],right  ,b,MALE,2
+"[""{d well } do you think it's been  five minutes yet  /""]",d well  do you think its been  five minutes yet  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"['{f oh, } probably. /']",f oh  probably ,na,FEMALE,21
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+['<laughter>.'],laughter,x,FEMALE,8
+['{d well } it was nice talking to you. /'],d well  it was nice talking to you ,fc,MALE,10
+['okay. /'],okay ,fc,FEMALE,10
+['thank you. /'],thank you ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10

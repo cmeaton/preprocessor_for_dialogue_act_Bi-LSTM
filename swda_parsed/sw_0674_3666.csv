@@ -1,0 +1,259 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hello. /'],hello ,fp,FEMALE,32
+"['yes,  /']",yes  ,fp,FEMALE,32
+['i forgot we had to hit one <laughter>. /'],i forgot we had to hit one laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['our time will be up. /'],our time will be up ,sd,FEMALE,1
+"['{d well, } i hit one and  nothing happened.  /']",d well  i hit one and  nothing happened  ,sd,FEMALE,1
+"[""what's going on? /""]",whats going on ,qw,FEMALE,12
+"['{d well, } just go ahead and talk,  /']",d well  just go ahead and talk  ,sd,FEMALE,1
+"[""that's all. /""]",thats all ,sd,FEMALE,1
+['are you sure? /'],are you sure ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+"[""don't they usually tell you to say something? /""]",dont they usually tell you to say something ,qy,FEMALE,7
+"[""i don't think so. /""]",i dont think so ,ng,FEMALE,29
+['oh. /'],oh ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['okay,  /']",okay  ,b,FEMALE,2
+"[""we're supposed to talk  about lawn and garden. /""]",were supposed to talk  about lawn and garden ,sd,FEMALE,1
+"['yes,  /']",yes  ,aa,FEMALE,4
+"[""[ i'm, +  i'm ]  supposed to find out what you do for your lawn --""]", im   im   supposed to find out what you do for your lawn ,sd,FEMALE,1
+['what do i do? /'],what do i do ,qy,FEMALE,7
+['-- and garden.  /'], and garden  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{d well, } [ i, +  {f uh, } i ] cut it --']",d well   i   f uh  i  cut it ,sd,FEMALE,1
+['good. /'],good ,b,FEMALE,2
+['-- occasionally. /'], occasionally ,+,FEMALE,0
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""you're ahead of me. /""]",youre ahead of me ,sd,FEMALE,1
+"['[ is, +  {f uh, } is ] that good?  /']", is   f uh  is  that good  ,qy,FEMALE,7
+['okay. /'],okay ,%,FEMALE,5
+"[""that's better. /""]",thats better ,na,FEMALE,21
+['{c and } i edge it occasionally. /'],c and  i edge it occasionally ,sd,FEMALE,1
+"[""{f oh, } that's really good. /""]",f oh  thats really good ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d see, } am i good, or what? /']",d see  am i good or what ,qh,FEMALE,26
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, } {f uh, }']",c and  f uh ,sd,FEMALE,1
+"[""i don't do any of that. /""]",i dont do any of that ,sd,FEMALE,1
+"[""{f uh, } much beyond that i don't do <laughter>. /""]",f uh  much beyond that i dont do laughter ,+,FEMALE,0
+"['really,  /']",really  ,b,FEMALE,2
+"[""{d well, } i call my lawn man,  eric, whatever his name is,  {a i can't remember. }""]",d well  i call my lawn man  eric whatever his name is  a i cant remember ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""who's going to come and build me a fence, too. /""]",whos going to come and build me a fence too ,+,FEMALE,0
+"['{f oh, } he is going to build you a fence. /']",f oh  he is going to build you a fence ,qy^d,FEMALE,16
+"[""{d well, } he's giving me an estimate. /""]",d well  hes giving me an estimate ,no,FEMALE,31
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } for ten dollars a week, i don't see any reason --""]",c and  for ten dollars a week i dont see any reason ,sv,FEMALE,3
+"['what, for --']",what for ,br,FEMALE,30
+['-- for me to --'], for me to ,+,FEMALE,0
+['-- a fence? /'], a fence ,+,FEMALE,0
+['-- be doing it.  /'], be doing it  ,+,FEMALE,0
+"[""{f oh, } {d well, } i thought, isn't he the same one? /""]",f oh  d well  i thought isnt he the same one ,qy,FEMALE,7
+['he is. /'],he is ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b^m,FEMALE,24
+"['but ten dollars, or [ what d-, +   what does ] he charge, not even that.  /']",but ten dollars or  what d    what does  he charge not even that  ,sv,FEMALE,3
+['# what does he charge me? # /'], what does he charge me  ,qw,FEMALE,12
+"['# {d well, } my, - /']", d well  my  ,%,FEMALE,5
+"[""i don't know. # /""]",i dont know  ,sd,FEMALE,1
+"[""it's like next to nothing.  /""]",its like next to nothing  ,sv,FEMALE,3
+"[""[ th-, +   it's ] ten because i, - /""]", th    its  ten because i  ,sd,FEMALE,1
+"[""it's forty a month. /""]",its forty a month ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but } if there's five weeks, i still pay forty. /""]",c but  if theres five weeks i still pay forty ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{c but } {d you know, }  you ought to get him to [ g-, +  pull ] the weeds. /']",c but  d you know   you ought to get him to  g   pull  the weeds ,ad,FEMALE,22
+"[""{d well, } he won't pull weeds.  /""]",d well  he wont pull weeds  ,sd,FEMALE,1
+"[""he says he'll spray them,  /""]",he says hell spray them  ,sd,FEMALE,1
+"[""{c but } he won't pull them. /""]",c but  he wont pull them ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""{f uh, } he won't cut them is what he won't do.""]",f uh  he wont cut them is what he wont do,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['because he said with the rocks --'],because he said with the rocks ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- that it's too dangerous for him to take  [ the, +  the ] trimmer --""]", that its too dangerous for him to take   the   the  trimmer ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- over the rocks  /'], over the rocks  ,+,FEMALE,0
+"[""{c and } he's right. /""]",c and  hes right ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""that's true.  /""]",thats true  ,sv,FEMALE,3
+"['{c but } he just says to keep spraying them so, /']",c but  he just says to keep spraying them so ,sd,FEMALE,1
+"['{d well } {c so, } -/']",d well  c so  ,%,FEMALE,5
+"['anyway, gene sprayed them once or  twice for me  /']",anyway gene sprayed them once or  twice for me  ,sd,FEMALE,1
+['{c so } --'],c so  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['{c so } --'],c so  ,qy^d,FEMALE,16
+"['-- that was real, -/']", that was real ,+,FEMALE,0
+"[""-- [ you haven't, +  you haven't ]  pulled any weeds lately? /""]",  you havent   you havent   pulled any weeds lately ,+,FEMALE,0
+['no. /'],no ,nn,FEMALE,13
+['<laughter>.'],laughter,x,FEMALE,8
+['no.  /'],no  ,nn,FEMALE,13
+['there are two out front  /'],there are two out front  ,sd,FEMALE,1
+"[""i  thought i'd grab one of these days,  /""]",i  thought id grab one of these days  ,sd,FEMALE,1
+"[""{c but } i haven't bothered as i walk on by. /""]",c but  i havent bothered as i walk on by ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['i started to pull the weeds in the rocks out front -- /'],i started to pull the weeds in the rocks out front  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } all of a sudden i came  cross this big clump of weeds  /'], c and  all of a sudden i came  cross this big clump of weeds  ,sd,FEMALE,1
+['{c and } there was dog dirt in it -- /'],c and  there was dog dirt in it  ,sd,FEMALE,1
+"['{f oh, } {f oh, } goody. /']",f oh  f oh  goody ,ba,FEMALE,6
+['-- {c and } i threw the gloves in the  trash bag that was out there  /'], c and  i threw the gloves in the  trash bag that was out there  ,sd,FEMALE,1
+['{c and } i left the whole thing  /'],c and  i left the whole thing  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+['# [ i thought you were going to say there # -- +'],  i thought you were going to say there   ,sd,FEMALE,1
+['-- # that was about a month ago. # /'],  that was about a month ago  ,+,FEMALE,0
+['-- i thought you were going to say there ]  was a snake <laughter> in the weeds <laughter>. /'], i thought you were going to say there   was a snake laughter in the weeds laughter ,+,FEMALE,0
+"['i would rather a snake,  /']",i would rather a snake  ,sd,FEMALE,1
+['no <laughter>. /'],no laughter ,ar,FEMALE,28
+"['{f oh, } god, {f oh } <laughter>. /']",f oh  god f oh  laughter ,ba,FEMALE,6
+['i just left the whole thing.  /'],i just left the whole thing  ,sd,FEMALE,1
+"[""the bag is still out there because i haven't touched it. /""]",the bag is still out there because i havent touched it ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i haven't gone back over there.  /""]",i havent gone back over there  ,sd,FEMALE,1
+['it really made me mad. /'],it really made me mad ,sd,FEMALE,1
+"['{f oh, } god. /']",f oh  god ,ba,FEMALE,6
+"['{d so } {d anyway }  but, -/']",d so  d anyway   but ,%,FEMALE,5
+"['{c but, } {f uh, } how are [ your, +   your ] flowers, your little things you planted?  /']",c but  f uh  how are  your    your  flowers your little things you planted  ,qw,FEMALE,12
+['did they die or what? /'],did they die or what ,qy,FEMALE,7
+"['{f oh, } yeah,  /']",f oh  yeah  ,ny,FEMALE,9
+['now they died. /'],now they died ,sd,FEMALE,1
+"[""{f oh, } they're all, - /""]",f oh  theyre all  ,%,FEMALE,5
+"['{c so }  they, {f oh, } - /']",c so   they f oh   ,%,FEMALE,5
+['are they going to come back in the spring? /'],are they going to come back in the spring ,qy,FEMALE,7
+"[""i don't know. /""]",i dont know ,no,FEMALE,31
+['oh. /'],oh ,b,FEMALE,2
+"[""i don't know,  /""]",i dont know  ,sd,FEMALE,1
+"['{c and } then i got  some nice, {f uh, } mums at thanksgiving that i put in the pots out there -- /']",c and  then i got  some nice f uh  mums at thanksgiving that i put in the pots out there  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } i thought they were  supposed to live through all the cold weather. /'], c and  i thought they were  supposed to live through all the cold weather ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['they looked real pretty until about  a week before christmas,  /']",they looked real pretty until about  a week before christmas  ,sv,FEMALE,3
+"['then they started to die, too. /']",then they started to die too ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""{c so, } i don't think any of it comes back  /""]",c so  i dont think any of it comes back  ,sv,FEMALE,3
+['{c but } --'],c but  ,h,FEMALE,15
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- i don't know,  /""]", i dont know  ,+,FEMALE,0
+"['maybe these, - /']",maybe these  ,sv,FEMALE,3
+"[""sometimes things do that aren't even supposed to. /""]",sometimes things do that arent even supposed to ,sd,FEMALE,1
+"[""i don't know, {f uh, } /""]",i dont know f uh  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['those flowers, remember those little ones you gave me? /']",those flowers remember those little ones you gave me ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+"['yeah,  /']",yeah  ,b^m,FEMALE,24
+"[""{d well, } [ they're, +   i know they were ] still blooming up until about [ a, +  a ] few weeks ago. /""]",d well   theyre    i know they were  still blooming up until about  a   a  few weeks ago ,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+"[""{d well, } that's good.  /""]",d well  thats good  ,ba,FEMALE,6
+"[""they're the best kind. /""]",theyre the best kind ,sv,FEMALE,3
+['yeah  /'],yeah  ,b,FEMALE,2
+"['[ they, +']", they ,sv,FEMALE,3
+"[""[ they, +  they're ] like indestructible. /""]", they   theyre  like indestructible ,sv,FEMALE,3
+"[""they're ] really pretty. /""]",theyre  really pretty ,+,FEMALE,0
+['they really grow nice  /'],they really grow nice  ,sv,FEMALE,3
+"[""{c and } sometimes, they're not supposed to come back,  /""]",c and  sometimes theyre not supposed to come back  ,sd,FEMALE,1
+['{c but } lots of times they do. /'],c but  lots of times they do ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['yeah  /'],yeah  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"[""we'll see.  /""]",well see  ,sv,FEMALE,3
+"[""they're letting us have a lot of time on this --""]",theyre letting us have a lot of time on this ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['{e i mean -- }'],e i mean  ,qy,FEMALE,7
+"[""-- aren't they? /""]", arent they ,+,FEMALE,0
+"[""-- isn't it supposed to be five minutes? /""]", isnt it supposed to be five minutes ,+,FEMALE,0
+"[""{c but } that's because we didn't hit one for a long time. /""]",c but  thats because we didnt hit one for a long time ,sd,FEMALE,1
+"[""we didn't disconnect, did we <laughter>? /""]",we didnt disconnect did we laughter ,qy,FEMALE,7
+['i hope not <laughter>. /'],i hope not laughter ,sv,FEMALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter> neither one of us --'],laughter neither one of us ,sv,FEMALE,3
+"['boy, [ i hate to think -- +']",boy  i hate to think  ,sd,FEMALE,1
+['-- is getting paid for this. /'], is getting paid for this ,+,FEMALE,0
+"[""-- i hate to think ] i'd be talking  to you without getting paid <laughter>. /""]", i hate to think  id be talking  to you without getting paid laughter ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['really,  /']",really  ,ba,FEMALE,6
+['i know it.  /'],i know it  ,sd,FEMALE,1
+"[""i can't believe this.  /""]",i cant believe this  ,sd,FEMALE,1
+['i got somebody from --'],i got somebody from ,sd,FEMALE,1
+['what? /'],what ,br,FEMALE,30
+['-- utah --'], utah ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and somebody, - /']", and somebody  ,+,FEMALE,0
+['where was the person last night --'],where was the person last night ,sd,FEMALE,1
+"[""you're kidding? /""]",youre kidding ,ba,FEMALE,6
+['-- was from far away. /'], was from far away ,+,FEMALE,0
+['really? /'],really ,bh,FEMALE,18
+['{c and } we get each other down the street.  /'],c and  we get each other down the street  ,sd,FEMALE,1
+['this is so funny. /'],this is so funny ,sv,FEMALE,3
+"['<laughter> {d well, } the, {f uh, } - /']",laughter d well  the f uh   ,%,FEMALE,5
+"['[ i, g-, +  i talked ] to  someone woman from oklahoma city and some woman from dallas  /']", i g   i talked  to  someone woman from oklahoma city and some woman from dallas  ,sd,FEMALE,1
+['{c and } that was it. /'],c and  that was it ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i've had dallas, arlington.  /""]",ive had dallas arlington  ,sd,FEMALE,1
+"[""i've had, {f uh, } one plano --""]",ive had f uh  one plano ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and then a lady from brigham, utah whose --']", and then a lady from brigham utah whose ,+,FEMALE,0
+['# wow. # /'], wow  ,ba,FEMALE,6
+['-- # son # lives in plano on ranier someplace.'],  son  lives in plano on ranier someplace,+,FEMALE,0
+['really? /'],really ,bh,FEMALE,18
+"['and then, {f uh, } another state,  /']",and then f uh  another state  ,+,FEMALE,0
+"[""i can't remember,  /""]",i cant remember  ,sd,FEMALE,1
+"['{c but } she told me about the utah jazz,  /']",c but  she told me about the utah jazz  ,sd,FEMALE,1
+['we talked about basketball. /'],we talked about basketball ,sd,FEMALE,1
+"['{f oh, } really <laughter>? /']",f oh  really laughter ,bh,FEMALE,18
+"[""{c and } i don't remember [ what, +   what ] the place was last night,  /""]",c and  i dont remember  what    what  the place was last night  ,sd,FEMALE,1
+['{c but } --'],c but  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- i'm thinking colorado,  /""]", im thinking colorado  ,+,FEMALE,0
+"[""{c but } i'm not sure  /""]",c but  im not sure  ,sd,FEMALE,1
+"[""i'd know the place, anyway. /""]",id know the place anyway ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+"['[ th-, + ] -/']", th   ,%,FEMALE,5
+"[""{c but } mostly they're from the area. /""]",c but  mostly theyre from the area ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['it, -/']",it ,%,FEMALE,5
+"[""{d well, } there isn't really much  to talk about as far as lawn and garden goes. /""]",d well  there isnt really much  to talk about as far as lawn and garden goes ,sv,FEMALE,3
+['not for me. /'],not for me ,aa,FEMALE,4
+['not for me --'],not for me ,sd,FEMALE,1
+"['{d you know, } [ not -- +']",d you know   not  ,sd,FEMALE,1
+['-- either.  /'], either  ,+,FEMALE,0
+['what --'],what ,qw,FEMALE,12
+['-- not ] for me --'], not  for me ,+,FEMALE,0
+"['-- do i, -/']", do i ,+,FEMALE,0
+['-- because all i have is rocks and weeds. /'], because all i have is rocks and weeds ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{c but } i don't, {d you know, } - /""]",c but  i dont d you know   ,sd,FEMALE,1
+"['[ i, +  what do i ] do, cut it one, {d you know, } [ and, +   and ] edge it  /']", i   what do i  do cut it one d you know   and    and  edge it  ,sd,FEMALE,1
+"[""{c and } that's about it. /""]",c and  thats about it ,sd,FEMALE,1
+['i know. /'],i know ,sd,FEMALE,1
+['what do i do with it? /'],what do i do with it ,qw,FEMALE,12
+"['i know,  /']",i know  ,sd,FEMALE,1
+"[""we're not typical texans. /""]",were not typical texans ,sv,FEMALE,3
+['no. /'],no ,aa,FEMALE,4
+"['bu-, <laughter>, -/']",bu laughter ,%,FEMALE,5
+"[""what's going on,  /""]",whats going on  ,qw,FEMALE,12
+['are they going  to tell us to stop or what <laughter>? /'],are they going  to tell us to stop or what laughter ,qy,FEMALE,7
+"[""i don't know,  /""]",i dont know  ,no,FEMALE,31
+['i hope so. /'],i hope so ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['<laughter>   come on,  /']",laughter   come on  ,ad,FEMALE,22
+['come on. /'],come on ,ad,FEMALE,22
+"[""isn't it five minutes? /""]",isnt it five minutes ,qy,FEMALE,7
+"[""i don't know. /""]",i dont know ,no,FEMALE,31
+"[""{e [ i, +  i ] mean, } i'm all talked out about gardens. /""]",e  i   i  mean  im all talked out about gardens ,sd,FEMALE,1
+['i know.  /'],i know  ,sd,FEMALE,1
+"['{d well, } we can talk  about something else.  /']",d well  we can talk  about something else  ,oo_co_cc,FEMALE,36
+"[""it's just a suggested topic. /""]",its just a suggested topic ,sd,FEMALE,1
+"[""{f oh, } {f oh, } it's just suggested? /""]",f oh  f oh  its just suggested ,qy^d,FEMALE,16
+"[""{d so, } how's the baby, do you think <laughter>? /""]",d so  hows the baby do you think laughter ,qo,FEMALE,25
+['what? /'],what ,br,FEMALE,30
+"[""how's the, -/""]",hows the ,qw,FEMALE,12
+"['[ we could talk, +']", we could talk ,oo_co_cc,FEMALE,36
+"[""let's talk about the baby. /""]",lets talk about the baby ,ad,FEMALE,22
+"[""let's talk ] about the baby. /""]",lets talk  about the baby ,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter>.'],laughter,x,FEMALE,8

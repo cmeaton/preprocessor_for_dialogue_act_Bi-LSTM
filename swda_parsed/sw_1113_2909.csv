@@ -1,0 +1,277 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['i know they have a waiting list and a quota on immigration now. /'],i know they have a waiting list and a quota on immigration now ,sd,MALE,1
+"[""<talking> i've lost track.  /""]",talking ive lost track  ,sd,MALE,1
+"[""i don't really know.  /""]",i dont really know  ,sd,MALE,1
+"['[ i, + i ] do have some opinions,  /']", i  i  do have some opinions  ,sd,MALE,1
+['{c but } go ahead. /'],c but  go ahead ,ad,MALE,22
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{f um, } {d well } i know that [ they're, + they're ] real cautious about letting middle eastern people into the country now because of all the terrorism.  /""]",f um  d well  i know that  theyre  theyre  real cautious about letting middle eastern people into the country now because of all the terrorism  ,sv,MALE,3
+"['# [ [ what, # +']",   what  ,qo,MALE,25
+"['# {f uh, } #']", f uh  ,b,MALE,2
+['# what? # ] +'], what   ,+,MALE,0
+"['# okay # ,  /']", okay    ,+,MALE,0
+"[""i hadn't thought about that, {f uh. } /""]",i hadnt thought about that f uh  ,sd,MALE,1
+['what ] all do you know about it? /'],what  all do you know about it ,+,MALE,0
+"['{f uh, } {d well } i just have an opinion,  /']",f uh  d well  i just have an opinion  ,sd,MALE,1
+"[""{d now } [ i didn't think, + i thought ] the terrorism thing was overstated, {e i mean, } /""]",d now   i didnt think  i thought  the terrorism thing was overstated e i mean  ,sv,MALE,3
+['<noise>.'],noise,x,MALE,8
+['there was nothing over here.  /'],there was nothing over here  ,sd,MALE,1
+"['in fact even, - /']",in fact even  ,%,MALE,5
+"['this is not our subject, i guess,  /']",this is not our subject i guess  ,sv,MALE,3
+"[""{c but, } {f uh, } maybe it is or isn't, i suppose. /""]",c but  f uh  maybe it is or isnt i suppose ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['my wife when she talked about the middle east  /'],my wife when she talked about the middle east  ,sd,MALE,1
+"[""{c and } everyone's afraid, {d you know, } of how the war was going to go and everything,  /""]",c and  everyones afraid d you know  of how the war was going to go and everything  ,sd,MALE,1
+"['[ i said, + i told ] her, no,  /']", i said  i told  her no  ,sd,MALE,1
+"[""it's just not going to happen.  /""]",its just not going to happen  ,^q,MALE,19
+"[""there's not going to be any terrorism over him,  /""]",theres not going to be any terrorism over him  ,^q,MALE,19
+"[""{c and } there wasn't, {d you know. }  /""]",c and  there wasnt d you know   ,sd,MALE,1
+"[""they just didn't have an organization,  /""]",they just didnt have an organization  ,sd,MALE,1
+"[""{c but, } {f uh, } [ [ i, + i, ] + i'm ] concerned [ that we're letting too many, + that we don't have enough ] controls.  /""]",c but  f uh    i  i   im  concerned  that were letting too many  that we dont have enough  controls  ,sv,MALE,3
+"[""i think that, {f uh, } the asian gangsters that we've let in here - /""]",i think that f uh  the asian gangsters that weve let in here  ,sv,MALE,3
+['[ {c and } if + --'], c and  if  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } ] the guys from, {f uh, } cuba, {d you know, } there's a lot of criminals down in florida that we've let in from cuba that fidel pushed off on us,  /""]", c and   the guys from f uh  cuba d you know  theres a lot of criminals down in florida that weve let in from cuba that fidel pushed off on us  ,+,MALE,0
+"['[ {c and, } + {f uh, } {c and } ] the last, {d you know, } - /']", c and   f uh  c and   the last d you know   ,%,MALE,5
+"[""out of all the asians we brought in, there's a tremendous criminal element that we let in [ from, + from ] asia  /""]",out of all the asians we brought in theres a tremendous criminal element that we let in  from  from  asia  ,sv,MALE,3
+['{c and } i think that --'],c and  i think that ,sv,MALE,3
+"[""# that's right. # /""]", thats right  ,aa,MALE,4
+"[""-- # there's got # to be some sort of controls over that.  /""]",  theres got  to be some sort of controls over that  ,+,MALE,0
+['{e i mean } this asia mafia thing is getting out of hand. /'],e i mean  this asia mafia thing is getting out of hand ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ [ [ i don't, + i don't, ] + i didn't know what, ] + i don't even know what ] our controls are.  /""]",   i dont  i dont   i didnt know what   i dont even know what  our controls are  ,sd,MALE,1
+"[""i don't even know what, {f uh, } if we have any guidelines at all, {f uh, } on immigration.  /""]",i dont even know what f uh  if we have any guidelines at all f uh  on immigration  ,sd,MALE,1
+"['{f um, } i always thought that we did,  /']",f um  i always thought that we did  ,sd,MALE,1
+"[""{c but } [ [ i don't, + i don't, ] + i don't ] know what they are right now. /""]",c but    i dont  i dont   i dont  know what they are right now ,sd,MALE,1
+"[""[ there, + i don't think there's ] [ much of, + much of ] one, because i'm sure all the people from cuba have been released from that camp that they were in. /""]", there  i dont think theres   much of  much of  one because im sure all the people from cuba have been released from that camp that they were in ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and, } {f uh, } [ most of them, + it's just like australia, most of them ] were criminals from cuba -- /""]",c and  f uh   most of them  its just like australia most of them  were criminals from cuba  ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,MALE,2
+"['-- # {c and } # i think that was just an attempt [ that, + that ] fidel castro to undermine, {d you know } --']",  c and   i think that was just an attempt  that  that  fidel castro to undermine d you know  ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+['-- the united states to some extent.  /'], the united states to some extent  ,+,MALE,0
+['{c so } he just released and got rid of all his criminals and sent them to us. /'],c so  he just released and got rid of all his criminals and sent them to us ,sv,MALE,3
+"[""{c and } it's almost the same thing  [ [ in, +  in, ] + {f uh, } from ] asia, because <<pause>> --""]",c and  its almost the same thing    in   in   f uh  from  asia because pause ,sv,MALE,3
+"['# because we, # -/']", because we  ,^2,MALE,23
+"['-- # [ a lot, + # a lot ] of them was put out of business in vietnam after the war,  /']",   a lot   a lot  of them was put out of business in vietnam after the war  ,+,MALE,0
+"['{c and, } -/']",c and  ,%,MALE,5
+"['[ i, + i ] do have some sympathy with, {f uh, } {d you know, } - /']", i  i  do have some sympathy with f uh  d you know   ,sd,MALE,1
+"['of course we have this big mexican problem,  /']",of course we have this big mexican problem  ,sd,MALE,1
+"['not a problem,  /']",not a problem  ,sd,MALE,1
+"['{c but } i think that we need to do something with, {f uh, } the immigration of back and [ a-, + forth across ] mexico, {f uh } -- /']",c but  i think that we need to do something with f uh  the immigration of back and  a  forth across  mexico f uh   ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- [ i, + i'm ] sympathetic,  /""]",  i  im  sympathetic  ,sd,MALE,1
+"[""i don't know what the answer is, {e i guess. }  /""]",i dont know what the answer is e i guess   ,sd,MALE,1
+"[""i'm sympathetic certainly with that, [ that, + that ] they want to come over here  /""]",im sympathetic certainly with that  that  that  they want to come over here  ,sd,MALE,1
+"['{c and } [ they, + ] i guess hundreds of thousands come over every year to work.   /']",c and   they   i guess hundreds of thousands come over every year to work   ,sv,MALE,3
+"[""{c and } [ if, + if ] they have jobs, {d you know, } i hear the story that they're taking away american jobs.   /""]",c and   if  if  they have jobs d you know  i hear the story that theyre taking away american jobs   ,sd,MALE,1
+"[""{c but } i don't know, {f uh, }  /""]",c but  i dont know f uh   ,h,MALE,15
+"[""i don't know how many american jobs they are really taking away. /""]",i dont know how many american jobs they are really taking away ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"[""{c so } [ i, + i'm ] sympathetic,  /""]",c so   i  im  sympathetic  ,sd,MALE,1
+"[""{c but } i don't have an answer.  /""]",c but  i dont have an answer  ,sd,MALE,1
+"[""[ i don't -- +""]", i dont  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } i think ] that we should have good relations [ with, + with ] mexico,  /']", f uh  i think  that we should have good relations  with  with  mexico  ,+,MALE,0
+"[""{c but } that's not really exactly immigration.  /""]",c but  thats not really exactly immigration  ,sd,MALE,1
+['it is  /'],it is  ,sv,MALE,3
+"[""{c and } it isn't.  /""]",c and  it isnt  ,sv,MALE,3
+"[""i don't know to what degree we owe the people who come across before they're citizens,  /""]",i dont know to what degree we owe the people who come across before theyre citizens  ,sd,MALE,1
+"['owe the children education and all that, {f uh, }  /']",owe the children education and all that f uh   ,sd,MALE,1
+"['although, the idea of education is an answer to a lot of problems in the world.  /']",although the idea of education is an answer to a lot of problems in the world  ,sv,MALE,3
+['{c so } --'],c so  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- i guess it's what they, - /""]", i guess its what they  ,+,MALE,0
+"['[ their, + the ] mexican kids get a good education along the way,  /']", their  the  mexican kids get a good education along the way  ,sd,MALE,1
+"[""{c and } maybe that's a benefit to everybody, {d you know. } /""]",c and  maybe thats a benefit to everybody d you know  ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+['{c and } a lot of the mexican people just cross the border during the daytime to come over here and work -- /'],c and  a lot of the mexican people just cross the border during the daytime to come over here and work  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } they have green cards.   /'], c and  they have green cards   ,sd,MALE,1
+"['[ {c and, } + {f uh, } {c then, } ] like you said, a lot of, - /']", c and   f uh  c then   like you said a lot of  ,bf,MALE,20
+"[""i run into people every day that can't speak english. /""]",i run into people every day that cant speak english ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['[ [ {c and, } + {f uh, } {c and, } ] + {c and } ] most of them, {d you know, } are working in janitorial positions  /']",  c and   f uh  c and    c and   most of them d you know  are working in janitorial positions  ,sd,MALE,1
+"['{d so, }']",d so ,h,MALE,15
+['yeah.  /'],yeah  ,b,MALE,2
+"['# {c and } that, # -/']", c and  that  ,%,MALE,5
+"[""# {d so, } [ i, # + i ] don't know,  /""]", d so   i   i  dont know  ,+,MALE,0
+"[""like you said, i don't know [ how much, + how much ] they're taking from the work force, {d you know. } /""]",like you said i dont know  how much  how much  theyre taking from the work force d you know  ,bf,MALE,20
+"['yeah,  /']",yeah  ,b,MALE,2
+['i never thought that they were much.  /'],i never thought that they were much  ,sv,MALE,3
+"[""i do cringe when i hear some of the problems we've had. /""]",i do cringe when i hear some of the problems weve had ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f um, } {f uh, } of course you mentioned the language.  /']",f um  f uh  of course you mentioned the language  ,sd,MALE,1
+"[""i feel so bad that we, here in texas, or certainly the southern part of the united states, {f uh, } california, texas, and all that, why our kids don't speak fluid spanish, {f uh, } by junior high, {d you know } --""]",i feel so bad that we here in texas or certainly the southern part of the united states f uh  california texas and all that why our kids dont speak fluid spanish f uh  by junior high d you know  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- as well as us, {d you know } -- /']", as well as us d you know   ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- so that we [ could, + wouldn't ] have the language barrier certainly.  /""]", so that we  could  wouldnt  have the language barrier certainly  ,sv,MALE,3
+"['[ [ that, + that, ] + that ] is a shame that we have this tremendous border of mexico,  /']",  that  that   that  is a shame that we have this tremendous border of mexico  ,sv,MALE,3
+"['{c and then, } in europe, {d you know, } they speak their french and all  /']",c and then  in europe d you know  they speak their french and all  ,sd,MALE,1
+"[""{c and } [ they try, + they go ] out of their way to try to speak their neighbor's language so they can understand.  /""]",c and   they try  they go  out of their way to try to speak their neighbors language so they can understand  ,sd,MALE,1
+"[""[ [ we, + we cert-, ] + we ] don't really even make an effort --""]",  we  we cert   we  dont really even make an effort ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- to speak spanish,  /']", to speak spanish  ,+,MALE,0
+['{c and } i feel bad about that <<pause>>.  /'],c and  i feel bad about that pause  ,sd,MALE,1
+['go ahead. /'],go ahead ,ad,MALE,22
+"[""{d well, } that's, - /""]",d well  thats  ,%,MALE,5
+['i - /'],i  ,%,MALE,5
+['yeah  /'],yeah  ,%,MALE,5
+"['i took spanish in school,  /']",i took spanish in school  ,sd,MALE,1
+"[""{c and } that's, {d you know, } one reason that i did it --""]",c and  thats d you know  one reason that i did it ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,MALE,2
+"['-- # is [ because, + # because ] whenever you travel anywhere near the border, {d you know, } there more and more people speak spanish. /']",  is  because   because  whenever you travel anywhere near the border d you know  there more and more people speak spanish ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i guess it's never too late.  /""]",i guess its never too late  ,sv,MALE,3
+"['[ i, + i ] do have some spanish books,  /']", i  i  do have some spanish books  ,sd,MALE,1
+"[""{c and } i've always, {f uh, } - /""]",c and  ive always f uh   ,sd,MALE,1
+"[""every year i say i'm going to try to speak some newcomers language, {d you know. }  /""]",every year i say im going to try to speak some newcomers language d you know   ,sd,MALE,1
+"[""i don't know if it's costing us any money  /""]",i dont know if its costing us any money  ,sd,MALE,1
+"[""{c or } how much money they're putting into it, {f uh, }  /""]",c or  how much money theyre putting into it f uh   ,sd,MALE,1
+"[""that's always a factor,  /""]",thats always a factor  ,sd,MALE,1
+"['{e i mean } [ how much, + my wife says, how much ] the federal government is putting into it --']",e i mean   how much  my wife says how much  the federal government is putting into it ,sd,MALE,1
+['{d well -- }'],d well  ,%,MALE,5
+['-- immigration. /'], immigration ,+,MALE,0
+"['-- yeah,  /']", yeah  ,+,MALE,0
+"[""{d well, } it's basically on the, {d well, } - /""]",d well  its basically on the d well   ,sd,MALE,1
+"[""i think it's mostly concentrated toward the borders,  /""]",i think its mostly concentrated toward the borders  ,sv,MALE,3
+"[""{c and, } {f uh, } it's more, {f um, }  /""]",c and  f uh  its more f um   ,%,MALE,5
+"['the immigration is tied in with, {f uh, } drug trafficking.   /']",the immigration is tied in with f uh  drug trafficking   ,sd,MALE,1
+"['{c so } they have to watch out who comes in,  /']",c so  they have to watch out who comes in  ,sd,MALE,1
+"[""[ {c and, } + {c and } ] they're always finding drugs [ on, + {d you know, } on ] the most, {f um, } <talking> <<person calls out in background>> innocent looking kind of -- -/""]", c and   c and   theyre always finding drugs  on  d you know  on  the most f um  talking person calls out in background innocent looking kind of  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- i forgot what they found,  /']", i forgot what they found  ,sd,MALE,1
+"['{c but } a dog found it the other day, {d you know } --']",c but  a dog found it the other day d you know  ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['-- on the border. /'], on the border ,+,MALE,0
+"['{f oh } yeah,  /']",f oh  yeah  ,b,MALE,2
+"['[ [ i, + i, ] + i ] think that certainly is a problem.  /']",  i  i   i  think that certainly is a problem  ,sv,MALE,3
+"[""i guess our immigration history, that's a great subject.  /""]",i guess our immigration history thats a great subject  ,sd,MALE,1
+"[""they, {f uh, } didn't say to talk about that,  /""]",they f uh  didnt say to talk about that  ,sd,MALE,1
+"['{c but } that is, {e i mean, }  /']",c but  that is e i mean   ,%,MALE,5
+"['on ellis island, they, - /']",on ellis island they  ,sd,MALE,1
+"[""you know they're redoing that and going to make it [ a museum, + a national museum. ] /""]",you know theyre redoing that and going to make it  a museum  a national museum  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['that certainly was interesting,  /']",that certainly was interesting  ,sv,MALE,3
+"['since all of us had, {f uh, } ancestors that came over that way.  /']",since all of us had f uh  ancestors that came over that way  ,sd,MALE,1
+"['{c or } not all,  /']",c or  not all  ,sd,MALE,1
+"['{c but } [ i guess, +  i guess ] if you go back far enough you came over on a boat originally, {d you know. }  /']",c but   i guess   i guess  if you go back far enough you came over on a boat originally d you know   ,sv,MALE,3
+"['{c but, } {f uh, } a lot of us have [ parents, + grandparents, ]  /']",c but  f uh  a lot of us have  parents  grandparents   ,sd,MALE,1
+['my grandparents came over in about eighteen ninety or something like that.   /'],my grandparents came over in about eighteen ninety or something like that   ,sd,MALE,1
+"[""{c and } i'm sure they came over, {d you know, } through ellis island, {d you know. } /""]",c and  im sure they came over d you know  through ellis island d you know  ,sd,MALE,1
+"[""that's right.  /""]",thats right  ,aa,MALE,4
+['{d well. }   *[[slash error]]'],d well    slash error,%,MALE,5
+"['{c so } we all immigrants, one way or another, {d well }  /']",c so  we all immigrants one way or another d well   ,sv,MALE,3
+"['we certainly are, coming from europe. /']",we certainly are coming from europe ,sd,MALE,1
+"['yeah,  /']",yeah  ,+,MALE,0
+"['{c and } [ one of the, + one of the ] things that really gets to me, {f uh, } about the mexicans is that, {f um, } once they have children over here, their children are american citizens then. /']",c and   one of the  one of the  things that really gets to me f uh  about the mexicans is that f um  once they have children over here their children are american citizens then ,sd,MALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,MALE,4
+['those were laws are unusual. /'],those were laws are unusual ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{c and } then they'll ship the parents back  /""]",c and  then theyll ship the parents back  ,sd,MALE,1
+['{c and } that leaves the children without any parents.   /'],c and  that leaves the children without any parents   ,sd,MALE,1
+"['[ [ [ {c so, } +']",   c so  ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c and } they, ] + {d you know, } {c and, } ] + {c and } they ] just follow the rule no matter, {d you know. }  /']",c and  they   d you know  c and    c and  they  just follow the rule no matter d you know   ,+,MALE,0
+"[""{c so } that doesn't seem fair to the children. /""]",c so  that doesnt seem fair to the children ,sv,MALE,3
+"['sometimes common sense should take over rather than, - /']",sometimes common sense should take over rather than  ,sv,MALE,3
+"['yeah,  /']",yeah  ,%,MALE,5
+"[""that's a law doesn't sound like it makes any sense at all --""]",thats a law doesnt sound like it makes any sense at all ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+['-- that you would do it that way. /'], that you would do it that way ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['you would think they could at least get [ [ a, + a, ] + a ] visa or something until they, {f uh, } get citizenship.  /']",you would think they could at least get   a  a   a  visa or something until they f uh  get citizenship  ,sv,MALE,3
+"[""i'm sure they want to. /""]",im sure they want to ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c and then } they granted them amnesty [ if they could prove, + {a when was that, it was in the eighties some time } --']",c and then  they granted them amnesty  if they could prove  a when was that it was in the eighties some time  ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"[""-- if they could prove ] they'd been here five years. /""]", if they could prove  theyd been here five years ,+,MALE,0
+"['i heard something about that, yeah. /']",i heard something about that yeah ,sd,MALE,1
+"['{c and, } {f uh, } a lot of them had been, {d you know. } /']",c and  f uh  a lot of them had been d you know  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['[ some of them, + some of them ] moved back and forth,  /']", some of them  some of them  moved back and forth  ,sd,MALE,1
+['{c but } --'],c but  ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""-- # {f uh, } # most of them don't ever want to go back to mexico,  /""]",  f uh   most of them dont ever want to go back to mexico  ,+,MALE,0
+['especially --'],especially ,sd,MALE,1
+['# {f oh } no. # /'], f oh  no  ,b,MALE,2
+['-- # the way it was then. # /'],  the way it was then  ,+,MALE,0
+"['{f oh, } no,  /']",f oh  no  ,ba,MALE,6
+"['[ [ i, + i could see, ] + you could see ] why. /']",  i  i could see   you could see  why ,ba,MALE,6
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i don't know how much immigration we have from europe and everything.  /""]",i dont know how much immigration we have from europe and everything  ,sd,MALE,1
+['what the controls are. /'],what the controls are ,sd,MALE,1
+"['i think most, {d you know, } like especially the celebrities and everything, [ they just have a, + {f uh, } {d well, } they have ] to get a green card if they going to do any kind of work, {d you know, } in movies --']",i think most d you know  like especially the celebrities and everything  they just have a  f uh  d well  they have  to get a green card if they going to do any kind of work d you know  in movies ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- [ and, + and ] such.  /']",  and  and  such  ,+,MALE,0
+['{c but } most of them have temporary visas. /'],c but  most of them have temporary visas ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"['i guess you can get work visas pretty easily, {f uh. } /']",i guess you can get work visas pretty easily f uh  ,sv,MALE,3
+"[""as long, it's like {d well, } - /""]",as long its like d well   ,sd,MALE,1
+"[""it's a kind of [ a bad, + a [ bad, + bad ] ] example,  /""]",its a kind of  a bad  a  bad  bad   example  ,sd,MALE,1
+['{c but } when rafael septien took the job with the cowboys --'],c but  when rafael septien took the job with the cowboys ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- they had to offer his job to any other applicant that could do it. /'], they had to offer his job to any other applicant that could do it ,+,MALE,0
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+['yeah. /'],yeah ,ny,MALE,9
+['<laughter>.'],laughter,x,MALE,8
+"['so that, {d you know, } - /']",so that d you know   ,%,MALE,5
+"[""{c and } that's the thing with the jobs. /""]",c and  thats the thing with the jobs ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['{c and } of course no one beat him out. /'],c and  of course no one beat him out ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c so, } {d you know. }  he just ruined his own career,  /']",c so  d you know   he just ruined his own career  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['{f oh, } {d well } yeah. /']",f oh  d well  yeah ,b,MALE,2
+['yeah  /'],yeah  ,b,MALE,2
+['<<pause>>.'],pause,x,MALE,8
+"['yeah,  /']",yeah  ,%,MALE,5
+"[""{d well } it's still interesting after all this time that we're probably [ one of the, + one of the ] few countries that people are still desperately trying to immigrate to.  /""]",d well  its still interesting after all this time that were probably  one of the  one of the  few countries that people are still desperately trying to immigrate to  ,sd,MALE,1
+"[""{f uh, } although i guess europe, now that the communism is falling apart, that maybe there'll [ be, + won't be ] that much of a rush to get out of all the communist [ com-, + countries, ] {f uh, }  /""]",f uh  although i guess europe now that the communism is falling apart that maybe therell  be  wont be  that much of a rush to get out of all the communist  com  countries  f uh   ,sv,MALE,3
+"['i guess poland [ now, + now ] is noncommunist  /']",i guess poland  now  now  is noncommunist  ,sv,MALE,3
+['{c so } --'],c so  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- maybe not,  /']", maybe not  ,+,MALE,0
+"['maybe immigration from europe to here will [ s-, + {d you know } slowly, ] {f uh, } change,  /']",maybe immigration from europe to here will  s  d you know  slowly  f uh  change  ,sv,MALE,3
+"[""maybe it'll [ be, + ] even out like trade, {d you know. }  /""]",maybe itll  be   even out like trade d you know   ,sv,MALE,3
+"['so many people will immigrate here [ in the twentieth, + at the year two thousand, ]  /']",so many people will immigrate here  in the twentieth  at the year two thousand   ,sv,MALE,3
+['so many of the people will go back overseas.  /'],so many of the people will go back overseas  ,sv,MALE,3
+"['{d you know, } maybe it will average out,  /']",d you know  maybe it will average out  ,sv,MALE,3
+"[""i don't know. /""]",i dont know ,h,MALE,15
+"['yeah,  /']",yeah  ,aa,MALE,4
+['i think # so. # /'],i think  so  ,aa,MALE,4
+"[""# it # [ [ doesn't, + has, ] + doesn't ] seem so far. /""]", it    doesnt  has   doesnt  seem so far ,sv,MALE,3
+"['{c because } there are other [ [ i, + j-, ] + {f uh, } job ] opportunities,']",c because  there are other   i  j   f uh  job  opportunities,sd,MALE,1
+['<swallowing>.'],swallowing,x,MALE,8
+"[""in europe that there aren't here --""]",in europe that there arent here ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {d you know, } even, {f um, }  /']", d you know  even f um   ,+,MALE,0
+"[""like [ or-, + orchestra ] players can find a job sometimes <noise> <<telephone line noise>> in europe when they can't find one here. /""]",like  or  orchestra  players can find a job sometimes noise telephone line noise in europe when they cant find one here ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } i'm a trumpet player. /""]",c and  im a trumpet player ,sd,MALE,1
+['are you a teacher? /'],are you a teacher ,qy,MALE,7
+"['{f uh, } no,  /']",f uh  no  ,nn,MALE,13
+"[""[ i, + {f uh, } i ] don't any more.  /""]", i  f uh  i  dont any more  ,sd,MALE,1
+['i just went to school  /'],i just went to school  ,sd,MALE,1
+['{c and } i was a music major for a while. /'],c and  i was a music major for a while ,sd,MALE,1
+"['{f oh, } really,  /']",f oh  really  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+['{c but } i had a trumpet teacher that played in the mexico city symphony.  /'],c but  i had a trumpet teacher that played in the mexico city symphony  ,sd,MALE,1
+"['# [ {c so, } # + --']",  c so    ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+['-- {c so } ] he had to have a work visa there. /'], c so   he had to have a work visa there ,+,MALE,0
+['oh. /'],oh ,b,MALE,2
+"['{c and } of course they had a lot of musicians [ from, + from ] other countries --']",c and  of course they had a lot of musicians  from  from  other countries ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['-- # [ and, + {f uh, } ] # in the mexico city symphony. /']",   and  f uh    in the mexico city symphony ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but } i think, {f um, } {d like } three out of the four other people in the trumpet section are from mexico now. /']",c but  i think f um  d like  three out of the four other people in the trumpet section are from mexico now ,sd,MALE,1
+"['{f oh, } really. /']",f oh  really ,b,MALE,2
+"[""{c but } i think [ the conductor, + i don't know, {e or } one of the conductors ] [ is, + is ] from another country. /""]",c but  i think  the conductor  i dont know e or  one of the conductors   is  is  from another country ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""it's like any other symphony. /""]",its like any other symphony ,sd,MALE,1
+['yeah  /'],yeah  ,b,MALE,2
+['</talking>.'],talking,x,MALE,8
+"[""{d you know, } [ {c and then, } + {c and } ] eduardo mana's from mexico  /""]",d you know   c and then   c and   eduardo manas from mexico  ,sd,MALE,1
+"['{c so } he had to, -/']",c so  he had to ,sd,MALE,1

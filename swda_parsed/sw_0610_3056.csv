@@ -1,0 +1,192 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hi ed. /'],hi ed ,fp,FEMALE,32
+['hi. /'],hi ,fp,MALE,32
+['hi. /'],hi ,fp,FEMALE,32
+"['{f uh, } books,  /']",f uh  books  ,sd,MALE,1
+"[""[ i've, +  actually i am ]  reading a couple of different books, <sigh> {f uh, }  /""]", ive   actually i am   reading a couple of different books sigh f uh   ,sd,MALE,1
+"['one [ wa-, +  is, ] {f uh, } a story,  /']",one  wa   is  f uh  a story  ,sd,MALE,1
+"['{d well } it is not a story,  /']",d well  it is not a story  ,sd,MALE,1
+"['it is a collection [ of, +  {f uh, } of ] memos, supposedly written by howard hughes, {f uh, } /']",it is a collection  of   f uh  of  memos supposedly written by howard hughes f uh  ,sd,MALE,1
+['{f oh. } /'],f oh  ,%,FEMALE,5
+"['[ that was, + {f uh, } that was, ] - /']", that was  f uh  that was   ,%,MALE,5
+['it came out a couple of years ago  /'],it came out a couple of years ago  ,sd,MALE,1
+['{c and } i have just now gotten around to reading it.  /'],c and  i have just now gotten around to reading it  ,sd,MALE,1
+"['i have had it a couple years,  /']",i have had it a couple years  ,sd,MALE,1
+"['{c but, } {f uh, } [ jus-, +  jus-, ] <sigh>, -/']",c but  f uh   jus   jus  sigh ,%,MALE,5
+['who wrote that? /'],who wrote that ,qw,FEMALE,12
+"[""{f oh, } i do not remember the man's name,  /""]",f oh  i do not remember the mans name  ,sd,MALE,1
+"['he [ was, +  used ] to be a reporter for, {f uh, } i think, the new york times,  or the washington post, one of the two,  /']",he  was   used  to be a reporter for f uh  i think the new york times  or the washington post one of the two  ,sd,MALE,1
+"['{c and } he supposedly [ got [ [ this, +  this, ] [ s-, +  story, ] +   {f uh, } {e i mean } this, {f uh, } ] + was contacted by this ] guy who had [ these, +  these ]  memos he wanted to sell,  /']",c and  he supposedly  got   this   this   s   story     f uh  e i mean  this f uh    was contacted by this  guy who had  these   these   memos he wanted to sell  ,sd,MALE,1
+"['{c and } [ they were, + they were ] ones that had supposedly been stolen from the,  {f uh, } corporate headquarters [ in, +  {f uh, } in ] los angeles. /']",c and   they were  they were  ones that had supposedly been stolen from the  f uh  corporate headquarters  in   f uh  in  los angeles ,sd,MALE,1
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"['they, on - /']",they on  ,%,MALE,5
+"['i think it was romain drive  or romain street or something,  there in los angeles,  /']",i think it was romain drive  or romain street or something  there in los angeles  ,sd,MALE,1
+"['they used to have a, - /']",they used to have a  ,sd,MALE,1
+"['{e or, } i guess they still do, {f uh, }  /']",e or  i guess they still do f uh   ,sv,MALE,3
+"['had a, {f uh, } {f uh, } big warehouse kind of thing, which had  offices  /']",had a f uh  f uh  big warehouse kind of thing which had  offices  ,sd,MALE,1
+"['{c and } it was sort of nondescript [ for a, + {f uh, } {d you know, } for the ]  size of the company which, inside was basically a store house of a bunch of stuff he  collected,  /']",c and  it was sort of nondescript  for a  f uh  d you know  for the   size of the company which inside was basically a store house of a bunch of stuff he  collected  ,sd,MALE,1
+"['[ he, +  he ] was, {f uh, } a great collector of everything,  /']", he   he  was f uh  a great collector of everything  ,sd,MALE,1
+"['[ [ [ he, +  he, ] +  he  did not, ] +  he did not ] throw anything away  /']",   he   he    he  did not    he did not  throw anything away  ,sd,MALE,1
+"['{c and, } {f uh, } supposedly this guy [ had, +   had ] been breaking there for awhi-,  /']",c and  f uh  supposedly this guy  had    had  been breaking there for awhi  ,sd,MALE,1
+"['he was a, {d like, } {d you know, } burglar,  had been breaking there awhile [ and, + {f uh, }']",he was a d like  d you know  burglar  had been breaking there awhile  and  f uh ,sd,MALE,1
+['i see. /'],i see ,b,FEMALE,2
+"['and ] had ended up, - /']",and  had ended up  ,+,MALE,0
+"['he had some accomplices that were kind of suspect,  /']",he had some accomplices that were kind of suspect  ,sd,MALE,1
+"['{c and } [ they, + {f uh, } they ] broke in [ one, +  one ]  night and found a bunch of memos that were, {f uh, } supposedly [ from, +  from ] hughes [ to, +   {f uh, } to ] his [ main, +  {f uh, } main ]  [ a-, +  assistant ] back, {f uh, } in the fifties and [ si-, +  {f well, } i guess, in the sixties, ]']",c and   they  f uh  they  broke in  one   one   night and found a bunch of memos that were f uh  supposedly  from   from  hughes  to    f uh  to  his  main   f uh  main    a   assistant  back f uh  in the fifties and  si   f well  i guess in the sixties ,sd,MALE,1
+"['{d well, } that is interesting. /']",d well  that is interesting ,ba,FEMALE,6
+['up until his death. /'],up until his death ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"[""{d so, } it's pretty interesting work  /""]",d so  its pretty interesting work  ,sv,MALE,3
+"['{c so, } -/']",c so  ,%,MALE,5
+['that is an intriguing type of book to  be reading and trying to keep up on things like that. /'],that is an intriguing type of book to  be reading and trying to keep up on things like that ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ [ it's a, + it's a little, ] +   it's a little ] hard  ((   ))  /""]",  its a  its a little     its a little  hard       ,sv,MALE,3
+['you have to plod through it  /'],you have to plod through it  ,sv,MALE,3
+"['{c and, } {d you know, } it does not  have a real story, or any plot, /']",c and  d you know  it does not  have a real story or any plot ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['you just kind of have to read and  understand what is going on. /'],you just kind of have to read and  understand what is going on ,sd,MALE,1
+"['{c and, } they have not made  a movie of the week of it yet. /']",c and  they have not made  a movie of the week of it yet ,sd,FEMALE,1
+"['no,  /']",no  ,aa,MALE,4
+['i have not seen it. /'],i have not seen it ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""[ {c but } it's, + {c but } [ it is, +   it is ] ] real interesting, /""]", c but  its  c but   it is    it is   real interesting ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f uh, } i also reading, {f uh, }  [ the, +  {f uh, } thi-, ] - /']",f uh  i also reading f uh    the   f uh  thi   ,sd,MALE,1
+"[""it's [ [ a, +  an old, ] + another old ] book that i happen to have.  /""]",its   a   an old   another old  book that i happen to have  ,sd,MALE,1
+['i am sort of rereading it.  /'],i am sort of rereading it  ,sd,MALE,1
+"[""it's, {f uh, } a book about, {f uh, } the bermuda triangle,  /""]",its f uh  a book about f uh  the bermuda triangle  ,sd,MALE,1
+"[""{c but } [ [ it's, +   {f uh, } it's about, ] +  it's ] a real good book that a guy, {f uh, } wrote who was, {f uh, } a research  librarian,  /""]",c but    its    f uh  its about    its  a real good book that a guy f uh  wrote who was f uh  a research  librarian  ,sd,MALE,1
+"['he wrote, {f uh, } sort of <sigh> debunking many of [ the, +  {f uh, } {f uh, }   ((   ))  the ] stories about the, {f uh, } bermuda triangle.  {d you know, }  /']",he wrote f uh  sort of sigh debunking many of  the   f uh  f uh         the  stories about the f uh  bermuda triangle  d you know   ,sd,MALE,1
+"['[ he, +   he ] was thinking [ [ many, +']", he    he  was thinking   many ,sd,MALE,1
+['{f uh. } /'],f uh  ,%,FEMALE,5
+"['many ] of [ the +  <sigh> the ] myths, +  many of the myths ] of the triangle [ were, +  {f uh, } actually, <sigh> could be ] explained, /']",many  of  the   sigh the  myths   many of the myths  of the triangle  were   f uh  actually sigh could be  explained ,+,MALE,0
+"['explained  ((   )) , /*[[listen; could be br]]']",explained       listen could be br,sd,FEMALE,1
+"['[ {c and, } + {d you know. }  {f uh, } {c and } ]  the [ rea-, + reason ] i [ was, +  ((   ))  picked ] it back up was in light of [ all the, + {f uh, }  ((   ))  {d well } when they found [ the, +  {f uh, } the ] ] airplanes [ on the, +  in the ] atlantic, thinking they  were flight nineteen.  /']", c and   d you know   f uh  c and    the  rea  reason  i  was        picked  it back up was in light of  all the  f uh        d well  when they found  the   f uh  the   airplanes  on the   in the  atlantic thinking they  were flight nineteen  ,sd,MALE,1
+"[""{c and } i don't know if you are familiar with that at all  /""]",c and  i dont know if you are familiar with that at all  ,sd,MALE,1
+"[""{c but } it's, {f uh, } - /""]",c but  its f uh   ,%,MALE,5
+"['flight nineteen [ was one of the, +  {f uh, } <sigh> was [ a, +  a ] ] collection  of a flight of five navy adventures at the end of world war two.  right after world war two,  /']",flight nineteen  was one of the   f uh  sigh was  a   a   collection  of a flight of five navy adventures at the end of world war two  right after world war two  ,sd,MALE,1
+"['{c and } [ they were, +  <sigh> they were ] lost  /']",c and   they were   sigh they were  lost  ,sd,MALE,1
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+['supposedly scooped up by the triangle. /'],supposedly scooped up by the triangle ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+['they were. /'],they were ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ {c and so, } + {c and } ] in the book,  {d you know, } even, - /']", c and so   c and   in the book  d you know  even  ,sd,MALE,1
+"['he wrote this book back in the seventies,  /']",he wrote this book back in the seventies  ,sd,MALE,1
+"['[ {c and } even, +  {c and } even ]  then [ he, +  <sigh> he ] had a very good case for the fact they probably just got lost  and they ditched in the water.  /']", c and  even   c and  even   then  he   sigh he  had a very good case for the fact they probably just got lost  and they ditched in the water  ,sd,MALE,1
+"[""[ {c and, } + {f uh, } {c because } ] [ [ he, +  he ] mentions, + [ he, +  he ]  goes through ] and brings out points from the navy's findings and so forth.  /""]", c and   f uh  c because     he   he  mentions   he   he   goes through  and brings out points from the navys findings and so forth  ,sd,MALE,1
+"[""{c and, } {f uh, }  it's probably, {d you know, } real close to what, {d you know, } everyone is thinking,  now that, <sigh> they just got turned around and could not find their way back. /""]",c and  f uh   its probably d you know  real close to what d you know  everyone is thinking  now that sigh they just got turned around and could not find their way back ,sv,MALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['on that same topic, have you  ever read anything about, {d you know, } the amelia earhart story, whatever happened with her? /']",on that same topic have you  ever read anything about d you know  the amelia earhart story whatever happened with her ,qy,FEMALE,7
+"['{f uh, } no,  /']",f uh  no  ,nn,MALE,13
+['i have not. /'],i have not ,sd,MALE,1
+"['[ i, +  i ] think that would be, - /']", i   i  think that would be  ,sv,FEMALE,3
+"['i am sure there is something out there, {f uh, }  #  ((   )) , # /']",i am sure there is something out there f uh           ,sv,FEMALE,3
+"['# yeah,  /']", yeah  ,b,MALE,2
+"['[ i would + # i would ] like to, too,  /']", i would   i would  like to too  ,sd,MALE,1
+"[""{c because } it's a lot of things coming up here lately about her, {d you know, }  possibilities [ of he-, + of where she ] #  ((   )) , # -/""]",c because  its a lot of things coming up here lately about her d you know   possibilities  of he  of where she          ,sd,MALE,1
+['#  (( i thought she ))  # was a prisoner  of war or something for like ten years. /'],   i thought she    was a prisoner  of war or something for like ten years ,sd,FEMALE,1
+['{f uh } <sigh>. /'],f uh  sigh ,%,MALE,5
+"['{d well } whatever, this is one aspect of it. /']",d well  whatever this is one aspect of it ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['of course, {d you know, } it is so  weird,  /']",of course d you know  it is so  weird  ,sv,FEMALE,3
+"['{c cause } no one will ever really know,  /']",c cause  no one will ever really know  ,sv,FEMALE,3
+"[""[ [ it's, + it, ] + tha-, ] - /""]",  its  it   tha   ,%,FEMALE,5
+"[""[ {c so } + {c but } ] it's  entertaining  /""]", c so   c but   its  entertaining  ,sv,FEMALE,3
+['{c and } it makes you think about things. /'],c and  it makes you think about things ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+['that is for sure. /'],that is for sure ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['{d so, } that is pretty much for  right now,  /']",d so  that is pretty much for  right now  ,sd,MALE,1
+"['that is,']",that is,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['what i have been reading.  /'],what i have been reading  ,+,MALE,0
+['i kind of  like to read different stuff  /'],i kind of  like to read different stuff  ,sd,MALE,1
+"['{c and, } {f uh, } i like to read a novel every now and then,  /']",c and  f uh  i like to read a novel every now and then  ,sd,MALE,1
+"['{c but, } {f uh, } i am trying to get away from just reading novels all the time. /']",c but  f uh  i am trying to get away from just reading novels all the time ,sd,MALE,1
+['right.  /'],right  ,b,FEMALE,2
+"['{d well, } [ i, +  i ]  guess i just have not read anyth-, - /']",d well   i   i   guess i just have not read anyth  ,sd,FEMALE,1
+"[""{e i mean, }  usually, [ i just, +  if i ] find a good book, i will sit,  {d you know, } for two days until it is finished.  if it's that good, /""]",e i mean   usually  i just   if i  find a good book i will sit  d you know  for two days until it is finished  if its that good ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and } i think the last one i read  like that was scott thurow's  /""]",c and  i think the last one i read  like that was scott thurows  ,sd,FEMALE,1
+['{c and } that was presumed innocent. /'],c and  that was presumed innocent ,sd,FEMALE,1
+['yes. /'],yes ,b,MALE,2
+"['{c and } i just really, really  liked the way he writes.  /']",c and  i just really really  liked the way he writes  ,sd,FEMALE,1
+"[""it's just,""]",its just,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i read that, too.  /']",i read that too  ,sd,MALE,1
+"['i got it, {f uh, } right,']",i got it f uh  right,sd,MALE,1
+['incredible. /'],incredible ,+,FEMALE,0
+['after it came out.  /'],after it came out  ,+,MALE,0
+"['my, {f uh, } {d you know, } -/']",my f uh  d you know  ,%,MALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"['he was [ an, +  an ] assistant district  attorney in chicago [ [ at, + {f uh, } and ] + while ] he was writing the book,  /']",he was  an   an  assistant district  attorney in chicago   at  f uh  and   while  he was writing the book  ,sd,MALE,1
+"['{c and, } {f uh, } my  sister-in-law lives in chicago,  /']",c and  f uh  my  sisterinlaw lives in chicago  ,sd,MALE,1
+"['{c and } [ she had, +  before it actually got big, she sent ] me  this book saying, you might like this,  /']",c and   she had   before it actually got big she sent  me  this book saying you might like this  ,sd,MALE,1
+"['this guy is, {d you know, }']",this guy is d you know ,^q,MALE,19
+['{f uh. } /'],f uh  ,b,FEMALE,2
+['from here.  /'],from here  ,+,MALE,0
+"['{c and, } {f uh, }  i read it and really liked it  /']",c and  f uh   i read it and really liked it  ,sd,MALE,1
+"['{c and then } about, - /']",c and then  about  ,%,MALE,5
+['that is when it really got big.  /'],that is when it really got big  ,sd,MALE,1
+"['{c and, {f uh, } so } i, -/']",c and f uh  so  i ,%,MALE,5
+"['that was good, i think. /']",that was good i think ,sv,FEMALE,3
+['((   )) .'],    ,x,MALE,8
+"['[ {c and, } + {c and } ] the other book  i am trying to think, {d you know, } {d like } was in the last year  /']", c and   c and   the other book  i am trying to think d you know  d like  was in the last year  ,sd,FEMALE,1
+"['{c and } i think i did read  tom wolfe and vanity, {f uh, } /']",c and  i think i did read  tom wolfe and vanity f uh  ,sd,FEMALE,1
+"['# (bonfire of the vanity )) , # /']", bonfire of the vanity    ,^2,MALE,23
+['#  (( bon ))  /'],   bon   ,%,FEMALE,5
+['# yeah. /'], yeah ,aa,FEMALE,4
+"['i have not read that, although,']",i have not read that although,sd,MALE,1
+['{f uh. } /'],f uh  ,%,FEMALE,5
+['i have heard it is pretty good. /'],i have heard it is pretty good ,+,MALE,0
+['yeah  /'],yeah  ,b,FEMALE,2
+"['i, - /']",i  ,%,FEMALE,5
+"['that was really, really good,  /']",that was really really good  ,sv,FEMALE,3
+['the movie was nothing compared to the book. /'],the movie was nothing compared to the book ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['that is what i have heard. /'],that is what i have heard ,sd,MALE,1
+['{c and. } - /'],c and   ,%,FEMALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"['i saw the movie,  /']",i saw the movie  ,sd,MALE,1
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+"['{f oh, } the movie was a joke <laughter>  compared to, - /']",f oh  the movie was a joke laughter  compared to  ,sv,FEMALE,3
+"['{e i mean, } {c because } tom wolfe is so perceptive,']",e i mean  c because  tom wolfe is so perceptive,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""when it comes to, {d you know, }  pinpointing, {f uh, } [ [ so-, +  so-, ] +  society's ] ills  and,""]",when it comes to d you know   pinpointing f uh    so   so    societys  ills  and,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+['things like that and just nailing  people to the wall and exposing things  /'],things like that and just nailing  people to the wall and exposing things  ,+,FEMALE,0
+"['[ {c and, } +']", c and  ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"['{c and so, } ] [ it was, +  it was ]  a much more intense book than the sort of flimflam that they cast off in the movie <laughter>. /']",c and so    it was   it was   a much more intense book than the sort of flimflam that they cast off in the movie laughter ,+,FEMALE,0
+['i know. /'],i know ,b,MALE,2
+"['{c and, } {d anyway, } we are not talking  about that,  /']",c and  d anyway  we are not talking  about that  ,sd,FEMALE,1
+"['{c but, } {f uh, } gee, [ i just +   i ] like to read gardening books and things like that.   just to tell me what <laughter> to do with my garden  /']",c but  f uh  gee  i just    i  like to read gardening books and things like that   just to tell me what laughter to do with my garden  ,sd,FEMALE,1
+"['[ {c and, } + {f uh, }']", c and   f uh ,%,FEMALE,5
+['yeah. /'],yeah ,b,MALE,2
+"['{c and, } ] {f uh, } -/']",c and   f uh  ,+,FEMALE,0
+"['i have a lot of, {f uh, } {f uh, }  computer books that - /']",i have a lot of f uh  f uh   computer books that  ,sd,MALE,1
+"['[ i am, +  i do ]  computer work  /']", i am   i do   computer work  ,sd,MALE,1
+['{c and  so } i have a lot of those.  /'],c and  so  i have a lot of those  ,sd,MALE,1
+"['{c  so, } i spend a lot of time looking through those, not necessarily reading them but,']",c  so  i spend a lot of time looking through those not necessarily reading them but,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['looking through them.  /'],looking through them  ,+,MALE,0
+"[""{c but } [ i, +  i'm ]  interested in a lot of that,  /""]",c but   i   im   interested in a lot of that  ,sd,MALE,1
+"['{c but, } {f uh, } i have got a lot of books that [ i, +  i ]  intend to read,  /']",c but  f uh  i have got a lot of books that  i   i   intend to read  ,sd,MALE,1
+"['{c but } i have not been able to yet, {d you know, } for one reason or another. /']",c but  i have not been able to yet d you know  for one reason or another ,sd,MALE,1
+"['{d like, } what is a book on your list,  /']",d like  what is a book on your list  ,qw,FEMALE,12
+['{d you know } i have a list too  /'],d you know  i have a list too  ,sd,FEMALE,1
+['{c and } i have never gotten to it <laughter>. /'],c and  i have never gotten to it laughter ,sd,FEMALE,1
+"['<sigh> {f oh, } gosh, [ i do not, + i   do not ] really have a list,  /']",sigh f oh  gosh  i do not  i   do not  really have a list  ,sd,MALE,1
+"['{c cause } [ i just kind of, +  {f uh, } i just ] have all the books out,  {d you know, }  /']",c cause   i just kind of   f uh  i just  have all the books out  d you know   ,sd,MALE,1
+['i have book shelves  /'],i have book shelves  ,sd,MALE,1
+['{c and } i have them all out  /'],c and  i have them all out  ,sd,MALE,1
+"['{c and } usually when i am  through with one, i will go in <sigh> and, {f uh, } {f uh, } {f uh, } [ look, +  look ]  through, {f uh, }  /']",c and  usually when i am  through with one i will go in sigh and f uh  f uh  f uh   look   look   through f uh   ,sd,MALE,1
+"['i have one now {a {c and }  [ i, +  i ] can not remember the name of it } [ that i, +  that i ]  got is - /']",i have one now a c and    i   i  can not remember the name of it   that i   that i   got is  ,sd,MALE,1
+"['the sister-in-law in chicago usually sends me for my birthday [ or, +  or ]  christmas or something will send me [ another, +  another ] good book  /']",the sisterinlaw in chicago usually sends me for my birthday  or   or   christmas or something will send me  another   another  good book  ,sd,MALE,1
+"['{c and, } {f uh, }']",c and  f uh ,%,MALE,5
+['oh. /'],oh ,b,FEMALE,2
+"['{f uh, } sh-, - /']",f uh  sh  ,+,MALE,0
+['i have one  /'],i have one  ,sd,MALE,1
+"['{c and } i can not remember the name of it, {f uh, }  /']",c and  i can not remember the name of it f uh   ,sd,MALE,1
+['it is supposed to be a mystery. /'],it is supposed to be a mystery ,sd,MALE,1

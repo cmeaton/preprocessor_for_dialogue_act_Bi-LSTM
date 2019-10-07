@@ -1,0 +1,273 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<noise>  <<piano in background>> okay. /'],noise  piano in background okay ,"fo_o_fw_""_by_bc",FEMALE,0
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",MALE,0
+"[""i guess we're set. /""]",i guess were set ,sv,MALE,3
+"['{f um, } /']",f um  ,b,FEMALE,2
+['current events. /'],current events ,sd,MALE,1
+"['i get my current events basically from news, {f uh, } just because i watch,']",i get my current events basically from news f uh  just because i watch,sd,FEMALE,1
+['# television news? # /'], television news  ,^2,MALE,23
+"['# pretty much # a lot of television, {f um, } /']", pretty much  a lot of television f um  ,+,FEMALE,0
+"['is it, {f uh, } c n n or headline news or just local,']",is it f uh  c n n or headline news or just local,qy,MALE,7
+"['# {f uh, } # /']", f uh   ,b,FEMALE,2
+['# news #  /'], news   ,+,MALE,0
+"['{c or, } -/']",c or  ,%,MALE,5
+['i watch a little bit of everything.  /'],i watch a little bit of everything  ,sd,FEMALE,1
+"['i like to tune [ into, + to ] c n n because, {f uh, } {d you know, } you can tune in {d like } any time of day and pretty much get the update on,']",i like to tune  into  to  c n n because f uh  d you know  you can tune in d like  any time of day and pretty much get the update on,sd,FEMALE,1
+['# right. # /'], right  ,b,MALE,2
+"['# everything, #']", everything ,+,FEMALE,0
+['# right. # /'], right  ,b,MALE,2
+['# in # about five or ten minutes.  /'], in  about five or ten minutes  ,+,FEMALE,0
+"[""i think news today, {f um, } it's kind of losing its importance.  /""]",i think news today f um  its kind of losing its importance  ,sv,FEMALE,3
+"[""{d like } [ [ on, + in, ] + on ] radio, if you hear any news at all, it's like two seconds. /""]",d like    on  in   on  radio if you hear any news at all its like two seconds ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{d you know, } really quickly,']",d you know  really quickly,sd,FEMALE,1
+"['# {d well, } # -/']", d well   ,%,MALE,5
+['# on # regular stations. /'], on  regular stations ,+,FEMALE,0
+"['on commercial radio, i guess, [ i, + i ] tend to get more of my news from national public radio of the morning on the way to work,']",on commercial radio i guess  i  i  tend to get more of my news from national public radio of the morning on the way to work,sd,MALE,1
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+"[""that's good, too,  /""]",thats good too  ,ba,FEMALE,6
+['uh-huh. # /'],uhhuh  ,b,FEMALE,2
+['# or evening on the way # to school  /'], or evening on the way  to school  ,+,MALE,0
+"['[ {c so, } +']", c so  ,sd,MALE,1
+['i like k r l d. /'],i like k r l d ,sd,FEMALE,1
+"[""{c so, } ] [ i don't, + {f uh, }""]",c so    i dont  f uh ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""i don't ] see much t v mostly when i'm in school,  /""]",i dont  see much t v mostly when im in school  ,+,MALE,0
+['{c but } i do here. /'],c but  i do here ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['where do you go to school? /'],where do you go to school ,qw,FEMALE,12
+"['{f uh, } university of texas at dallas. /']",f uh  university of texas at dallas ,sd,MALE,1
+"['{f oh, } okay.  /']",f oh  okay  ,bk,FEMALE,14
+['i went to u t at austin. /'],i went to u t at austin ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""{c but, } {f uh, } i'm a news reporter  /""]",c but  f uh  im a news reporter  ,sd,FEMALE,1
+"['{c so } [ i, + <laughter>  i ] should get all [ i  (( can )) + ] , my news [ from the new-, + from the ] t v. /']",c so   i  laughter  i  should get all  i   can     my news  from the new  from the  t v ,sd,FEMALE,1
+['really. /'],really ,b,MALE,2
+"['{c but, } {f um, } -/']",c but  f um  ,%,FEMALE,5
+"[""i do tend to throw on headline news when i'm doing things around the house and just let it play,""]",i do tend to throw on headline news when im doing things around the house and just let it play,sd,MALE,1
+"['# yeah, # /']", yeah  ,b,FEMALE,2
+"['# and # listen,  /']", and  listen  ,+,MALE,0
+"['{c but, } {f uh, } -/']",c but  f uh  ,%,MALE,5
+"[""i usually don't intentionally.  although [ i should, + i don't ] intentionally turn on the television to watch news. /""]",i usually dont intentionally  although  i should  i dont  intentionally turn on the television to watch news ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""{c or } i don't intentionally turn on the radio to listen to the news.  /""]",c or  i dont intentionally turn on the radio to listen to the news  ,sd,FEMALE,1
+"['if it comes on, i just happen to hear it.  /']",if it comes on i just happen to hear it  ,sd,FEMALE,1
+"['{d now, } i will intentionally buy a newspaper [ [ to wa-, + to, ] + <noise>  <<piano in background>> to ] look at the news.  /']",d now  i will intentionally buy a newspaper   to wa  to   noise  piano in background to  look at the news  ,sd,FEMALE,1
+"['{c but } # other, # -/']",c but   other  ,%,FEMALE,5
+"['# yeah,  /']", yeah  ,b,MALE,2
+['# all i ever get out of the paper is a sunday paper  /'], all i ever get out of the paper is a sunday paper  ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+"[""<laughter>  # that's about it. # /""]",laughter   thats about it  ,sd,FEMALE,1
+"[""# that's about it,  /""]", thats about it  ,sd,MALE,1
+['# yeah. /'], yeah ,%,MALE,5
+"[""the sunday paper, it's so full of stuff,  /""]",the sunday paper its so full of stuff  ,sd,FEMALE,1
+"['{c but } you pick your favorite section,  /']",c but  you pick your favorite section  ,sv,FEMALE,3
+"['{c and } the rest,']",c and  the rest,sv,FEMALE,3
+['# right. # /'], right  ,b,MALE,2
+['# you # throw away. /'], you  throw away ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"['although you paid, what, almost two dollars now to get it  /']",although you paid what almost two dollars now to get it  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""i like to listen to, {f uh, } national public radio on the way to work because [ it's, + i don't know, it's ] variety,  /""]",i like to listen to f uh  national public radio on the way to work because  its  i dont know its  variety  ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['it --'],it ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- tends to get like headline news if you listen to it for an hour  ((   )) . /'], tends to get like headline news if you listen to it for an hour       ,+,MALE,0
+"['[ is it, + is it ] pretty good coverage on there? /']", is it  is it  pretty good coverage on there ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+['it usually is.  /'],it usually is  ,sd,MALE,1
+"['they throw in [ a lot of, + {d you know, } a lot of ] interviews and commentaries.  /']",they throw in  a lot of  d you know  a lot of  interviews and commentaries  ,sd,MALE,1
+"[""it's kind of like getting a newspaper.  /""]",its kind of like getting a newspaper  ,sv,MALE,3
+"[""there's a lot of --""]",theres a lot of ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['-- sections to it  /'], sections to it  ,+,MALE,0
+['{c and } --'],c and  ,sd,MALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+"['-- [ they, + they ] present different sides of things. /']",  they  they  present different sides of things ,+,MALE,0
+"['{c because } i find like on k r l d, - /']",c because  i find like on k r l d  ,sd,FEMALE,1
+"['i like to listen to that,  /']",i like to listen to that  ,sd,FEMALE,1
+"['{c but } each story is {d like } no more than two or three lines, {d you know. } /']",c but  each story is d like  no more than two or three lines d you know  ,sd,FEMALE,1
+"['{f oh, } {d well } they spend a little more time, {d you know, }  /']",f oh  d well  they spend a little more time d you know   ,sd,MALE,1
+"['they cover the headlines, /']",they cover the headlines ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['# {c and # then } they go into a lot of the issues and --'], c and  then  they go into a lot of the issues and ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- things where [ they, + they ] spend five or ten minutes discussing something  and,']", things where  they  they  spend five or ten minutes discussing something  and,+,MALE,0
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+['that would probably be better. # /'],that would probably be better  ,sd,FEMALE,1
+['# interviewing people.  /'], interviewing people  ,+,MALE,0
+"[""{c and } it's, # -/""]",c and  its  ,%,MALE,5
+"['especially when you look for the, {d like, } popular radio stations like mostly the music stations, news [ is, + is ] pretty much nonexistent. /']",especially when you look for the d like  popular radio stations like mostly the music stations news  is  is  pretty much nonexistent ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['they have [ little, + little, ] teeny-weeny news,']",they have  little  little  teenyweeny news,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+"['breaks, {d you know. } /']",breaks d you know  ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{c and } only in the morning, i guess, there's a little bit. /""]",c and  only in the morning i guess theres a little bit ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['basically. /'],basically ,sd,FEMALE,1
+"[""i haven't listened to a <breathing>  top forty radio station in so long i wouldn't know. /""]",i havent listened to a breathing  top forty radio station in so long i wouldnt know ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d so, } -/']",d so  ,%,MALE,5
+"[""{c so } let's see, {f um, } /""]",c so  lets see f um  ,^h,FEMALE,27
+"['{c and } i guess i get some kinds of other, {d you know, } business related news through trade journals and things  /']",c and  i guess i get some kinds of other d you know  business related news through trade journals and things  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } /']",f uh  ,b,MALE,2
+['right <laughter>. /'],right laughter ,b,MALE,2
+"['yeah, /']",yeah ,b,MALE,2
+"['# {c but, } {f um, } # -/']", c but  f um   ,%,FEMALE,5
+['# a lot # of people are. /'], a lot  of people are ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['<laughter> trying to get out of wherever they are  /'],laughter trying to get out of wherever they are  ,sv,FEMALE,3
+"['{c but, } {f um, } [ i think, + i think ] news is, - /']",c but  f um   i think  i think  news is  ,sv,FEMALE,3
+"[""i'm wondering where it's going.  /""]",im wondering where its going  ,sd,FEMALE,1
+"['you know how, - /']",you know how  ,%,FEMALE,5
+"['i think it will be [ nonex-, + pretty much <breathing> nonexistent ] except maybe through the paper.  /']",i think it will be  nonex  pretty much breathing nonexistent  except maybe through the paper  ,sv,FEMALE,3
+['i know the newspaper used to be kind of the only source for news.  /'],i know the newspaper used to be kind of the only source for news  ,sd,FEMALE,1
+"[""{c and } now, [ it's, +  it's ] kind of your final choice.  /""]",c and  now  its   its  kind of your final choice  ,sv,FEMALE,3
+"['you watch, - /']",you watch  ,sv,FEMALE,3
+"['first you go to c n n, then you go to radio or something like that. /']",first you go to c n n then you go to radio or something like that ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['where nobody wants,']",where nobody wants,sv,MALE,3
+"['# {c and } i think it, # -/']", c and  i think it  ,%,FEMALE,5
+['# to sit down and # read. /'], to sit down and  read ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""[ it's, + it ] takes a lot more time to read something, /""]", its  it  takes a lot more time to read something ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""# {c and } # you've got news,""]", c and   youve got news,sd,MALE,1
+['# so much more effort.  # /'], so much more effort   ,sv,FEMALE,3
+['# bombarding you from everywhere # now. /'], bombarding you from everywhere  now ,+,MALE,0
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['# {d you # know } you,']", d you  know  you,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['# turn # on the t v, turn on the radio. -/']", turn  on the t v turn on the radio ,+,MALE,0
+['{c but } i think that soon the paper may be kind of the only source again. /'],c but  i think that soon the paper may be kind of the only source again ,sv,FEMALE,3
+['why is that? /'],why is that ,qw,MALE,12
+"[""i don't, - /""]",i dont  ,%,FEMALE,5
+"[""{d well, } just because [ i'm, + i'm ] thinking that [ it, + it's ] getting so  short on radio.  /""]",d well  just because  im  im  thinking that  it  its  getting so  short on radio  ,sv,FEMALE,3
+"['[ you still, + you ] have two or three, - /']", you still  you  have two or three  ,sd,FEMALE,1
+"[""i know in dallas you can probably get [ two, + two ] all news radio stations out of i don't how many popular radio stations.  /""]",i know in dallas you can probably get  two  two  all news radio stations out of i dont how many popular radio stations  ,sd,FEMALE,1
+"['{c and then } on television, you have just the news at six and  ten. /']",c and then  on television you have just the news at six and  ten ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i just, -/']",i just ,%,MALE,5
+"['{c and } [ i just, + i just ] see that dwindling [ in, + in, ] -/']",c and   i just  i just  see that dwindling  in  in  ,sv,FEMALE,3
+"['i find it hard to believe that people will go back to reading over television, {e i mean, } just given the way society is.  /']",i find it hard to believe that people will go back to reading over television e i mean  just given the way society is  ,sv,MALE,3
+"['{c and } i enjoy reading,  /']",c and  i enjoy reading  ,sd,MALE,1
+['{c but } most --'],c but  most ,sv,MALE,3
+"['true,  /']",true  ,aa,FEMALE,4
+['yeah. /'],yeah ,aa,FEMALE,4
+"['-- people would rather turn on the tube [ [ and, + and, ] + and, ]']", people would rather turn on the tube   and  and   and ,+,MALE,0
+['# true.  /'], true  ,aa,FEMALE,4
+"[""that's true, too,  /""]",thats true too  ,aa,FEMALE,4
+['yeah. # /'],yeah  ,aa,FEMALE,4
+"['# flip through the channels, {d you # know, }  and get the headline news at thirty minutes of, /']", flip through the channels d you  know   and get the headline news at thirty minutes of ,+,MALE,0
+['than sit down and take the effort to read --'],than sit down and take the effort to read ,^2,FEMALE,23
+['right. /'],right ,aa,MALE,4
+['-- the paper. /'], the paper ,+,FEMALE,0
+"[""{c and } they don't have to go get one, {d you know. } /""]",c and  they dont have to go get one d you know  ,sv,MALE,3
+"[""one thing i like about the paper, {f um, } as opposed <noise>  <<piano in background>> to television is that, {f uh, } [ when i, + like when i ] report, because i'm in television, i have to get the basic, the main facts and that's it.  /""]",one thing i like about the paper f um  as opposed noise  piano in background to television is that f uh   when i  like when i  report because im in television i have to get the basic the main facts and thats it  ,sv,FEMALE,3
+"[""that's all you have time for. /""]",thats all you have time for ,sv,FEMALE,3
+['right.  /'],right  ,b,MALE,2
+['right. /'],right ,b,MALE,2
+"['whereas in the paper, i like to read the articles because they get every side, every single side,  /']",whereas in the paper i like to read the articles because they get every side every single side  ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"[""{d well, } that's why i like, {f uh, } national public radio --""]",d well  thats why i like f uh  national public radio ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- because they get on one of these little things,  /']", because they get on one of these little things  ,+,MALE,0
+"['they give you headlines that are brief,  /']",they give you headlines that are brief  ,sd,MALE,1
+"['just, - /']",just  ,%,MALE,5
+"[""they touch on what's going on.  /""]",they touch on whats going on  ,sd,MALE,1
+"[""{c and then } they'll get into something and really explore it. /""]",c and then  theyll get into something and really explore it ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } [ it's, + it's ] informative.  /""]",c and   its  its  informative  ,sv,MALE,3
+"[""it's a lot more informative than, {d you know, } quick, half hour news shows that --""]",its a lot more informative than d you know  quick half hour news shows that ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['-- they tell you what they want you to hear. /'], they tell you what they want you to hear ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{c because } that's what we do.  /""]",c because  thats what we do  ,sd,FEMALE,1
+"[""{e i mean } it's like each story is thirty seconds, {d you know. } /""]",e i mean  its like each story is thirty seconds d you know  ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""{c so } it's like you really have to tell as much as you can which is not much in that amount of time.  /""]",c so  its like you really have to tell as much as you can which is not much in that amount of time  ,sd,FEMALE,1
+"['[ {c so, } + {c and } ] it will probably get shorter and shorter as the years go by i think.  /']", c so   c and   it will probably get shorter and shorter as the years go by i think  ,sv,FEMALE,3
+"[""i don't know. /""]",i dont know ,h,FEMALE,15
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""there's so much going on in the world. /""]",theres so much going on in the world ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['communication, {d you know, } expands the world now. /']",communication d you know  expands the world now ,sv,MALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"[""there's too much going on.  /""]",theres too much going on  ,sv,MALE,3
+"[""you can't afford to give more than a couple of seconds here and there. /""]",you cant afford to give more than a couple of seconds here and there ,sv,MALE,3
+"['i think that is one good thing, one great thing, about news,  /']",i think that is one good thing one great thing about news  ,sv,FEMALE,3
+"['{c and } we saw it during the war just now, is that we got all the information within minutes, {d you know. } /']",c and  we saw it during the war just now is that we got all the information within minutes d you know  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['whatever happened, we knew about it about the same time that they knew about it. /']",whatever happened we knew about it about the same time that they knew about it ,sd,FEMALE,1
+"['{c and } the question is, [ how much of it + {e or } how, some of it, ] - /']",c and  the question is  how much of it  e or  how some of it   ,qh,MALE,26
+"[""i guess, there's a lot of debate about censorship [ and -- +""]",i guess theres a lot of debate about censorship  and  ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- and ] what we're really seeing. /""]", and  what were really seeing ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ is it, + is it ] the true story  /']", is it  is it  the true story  ,qh,MALE,26
+['{c or } is it a --'],c or  is it a ,qrr,MALE,33
+['yeah. /'],yeah ,b,FEMALE,2
+['-- little bit biased. /'], little bit biased ,+,MALE,0
+"['{c because } even though we do get the story right away, they were censored as to what they --']",c because  even though we do get the story right away they were censored as to what they ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+['-- could tell us.  /'], could tell us  ,+,FEMALE,0
+"[""{c so } all we had to sit here [ and, + and ] ask is {d well, } what aren't they telling us, {d you know. }  /""]",c so  all we had to sit here  and  and  ask is d well  what arent they telling us d you know   ,qh,FEMALE,26
+"['{c so } [ that, + that ] was pretty scary.  /']",c so   that  that  was pretty scary  ,sd,FEMALE,1
+"['{c but } we, - /']",c but  we  ,%,FEMALE,5
+"['i talked to one woman,  /']",i talked to one woman  ,sd,FEMALE,1
+"[""{c and } she said that she didn't want to know what was going on because if she had a son over in saudi arabia, she wouldn't want to know, {d you know, } that they're bombing [ or, + or ] this and that's going on.  /""]",c and  she said that she didnt want to know what was going on because if she had a son over in saudi arabia she wouldnt want to know d you know  that theyre bombing  or  or  this and thats going on  ,sd,FEMALE,1
+"['{c and } at the same time, i talked to another woman,  /']",c and  at the same time i talked to another woman  ,sd,FEMALE,1
+['{c and } she was so happy to know because she lived through vietnam.  /'],c and  she was so happy to know because she lived through vietnam  ,sd,FEMALE,1
+"[""{c and } she didn't know what was happening at that time. /""]",c and  she didnt know what was happening at that time ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{c and } she was so happy to get the information, {d you know. }  /']",c and  she was so happy to get the information d you know   ,sd,FEMALE,1
+"[""{c so } there's just a lot of different opinions on that.  /""]",c so  theres just a lot of different opinions on that  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""[ [ i, + i, ] + {d you know, }  i ] like [ to, + to ] know what's going on.  /""]",  i  i   d you know   i  like  to  to  know whats going on  ,sd,MALE,1
+"[""sometimes i think there's just a little bit too much. /""]",sometimes i think theres just a little bit too much ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know } you get in the habit of, like i say, turn on headline news  /']",d you know  you get in the habit of like i say turn on headline news  ,sv,MALE,3
+"['{c and } it will play over and over <laughter>, /']",c and  it will play over and over laughter ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c and } you just tune it out because it's the same thing  /""]",c and  you just tune it out because its the same thing  ,sv,MALE,3
+"['{c but, } -/']",c but  ,%,MALE,5
+"['{c and then, } too, a lot of times i think, {f uh, } especially on television they blow things completely out of proportion. /']",c and then  too a lot of times i think f uh  especially on television they blow things completely out of proportion ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['they tend to,']",they tend to,sv,MALE,3
+"['# {d like, } # -/']", d like   ,%,FEMALE,5
+['# dramatize # things. /'], dramatize  things ,+,MALE,0
+"['{d you know, } {d like } this kennedy thing. /']",d you know  d like  this kennedy thing ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""<clicking>  <<sounds like a keyboard>> it's just, {e i mean, } everywhere you turn.  /""]",clicking  sounds like a keyboard its just e i mean  everywhere you turn  ,sv,FEMALE,3
+"['kennedy,  /']",kennedy  ,sd,FEMALE,1
+"['kennedy,  /']",kennedy  ,sd,FEMALE,1
+['kennedy.  /'],kennedy  ,sd,FEMALE,1
+"['{d you know, } what kind of shoes did he wear on the night?  /']",d you know  what kind of shoes did he wear on the night  ,sd,FEMALE,1
+"[""{c and } {d you know, } it's just like, okay, this is # ridiculous. # /""]",c and  d you know  its just like okay this is  ridiculous  ,sd,FEMALE,1
+['# {d like } who cares?  /'], d like  who cares  ,qh,MALE,26
+['# really. /'], really ,b,MALE,2
+"['{d so, } -/']",d so  ,%,FEMALE,5
+"['{d well, } -/']",d well  ,%,MALE,5
+['{c but } what are you doing?  /'],c but  what are you doing  ,qw,FEMALE,12
+['sitting on a computer? /'],sitting on a computer ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['<laughter>  i heard the little clicking. /'],laughter  i heard the little clicking ,sd,FEMALE,1
+['trying to do some c programming. /'],trying to do some c programming ,sd,MALE,1
+"['{f oh, } okay.  /']",f oh  okay  ,bk,FEMALE,14
+"['{d well, } it was nice talking to you. /']",d well  it was nice talking to you ,fc,FEMALE,10
+['okay <breathing>. /'],okay breathing ,fc,MALE,10
+['okay. /'],okay ,fc,FEMALE,10
+['take # care. # /'],take  care  ,fc,MALE,10
+['# take #  care. /'], take   care ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10
+"['uh-huh,  /']",uhhuh  ,fc,FEMALE,10
+['bye. /'],bye ,fc,FEMALE,10

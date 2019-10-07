@@ -1,0 +1,168 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } this is the season for vacations.  /']",d well  this is the season for vacations  ,sd,FEMALE,1
+"['{c and, }  {f uh, } i guess for places i like  to go, i enjoy going to the beach and [ [ having, + having outdoor, ] + being outdoors ] somewhere.  /']",c and   f uh  i guess for places i like  to go i enjoy going to the beach and   having  having outdoor   being outdoors  somewhere  ,sd,FEMALE,1
+"[""someplace that's very different than texas. /""]",someplace thats very different than texas ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{c and } i, - /']",c and  i  ,%,FEMALE,5
+"[""[ as far as, + ] [ maybe, + maybe ] as the summer heat comes along i would sort of like going somewhere where it's not so hot.  and being able to be outside, enjoy [ (( outsor-, )) +  outside ] activities,  /""]", as far as    maybe  maybe  as the summer heat comes along i would sort of like going somewhere where its not so hot  and being able to be outside enjoy   outsor    outside  activities  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+['yeah. /'],yeah ,b,MALE,2
+"['enjoy going places where, - /']",enjoy going places where  ,sd,FEMALE,1
+"['i enjoy playing tennis,  /']",i enjoy playing tennis  ,sd,FEMALE,1
+"['{c so } i like to have a tennis court there,  /']",c so  i like to have a tennis court there  ,sd,FEMALE,1
+"[""[ {c or, } +  {c or } ] if it's at the beach, the beach is great.  /""]", c or    c or   if its at the beach the beach is great  ,sd,FEMALE,1
+['a pool is great.  /'],a pool is great  ,sd,FEMALE,1
+"['(( {c and, }  i )) , -/']", c and   i   ,%,FEMALE,5
+"['[ where, + where ] do you usually go? /']", where  where  do you usually go ,qw,MALE,12
+"[""{f oh, } {d well, } let's see,  /""]",f oh  d well  lets see  ,^h,FEMALE,27
+"['we have plans this year to drive up to the, {f uh, } to colorado. /']",we have plans this year to drive up to the f uh  to colorado ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, }  we will be going to estes park, and colorado springs,  /']",c and   we will be going to estes park and colorado springs  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['one year we went to the southwest corner of colorado, into durango and  north of the area there. /']",one year we went to the southwest corner of colorado into durango and  north of the area there ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } i, - /']",c and  i  ,%,FEMALE,5
+"[""boy that's [ a nice, + a nice ] place to visit.  /""]",boy thats  a nice  a nice  place to visit  ,sv,FEMALE,3
+"[""it's really nice at, - /""]",its really nice at  ,sv,FEMALE,3
+"[""there's a [ nice, + nice ] train ride that goes up to the city of silverton where they used to do a lot of silver mining. /""]",theres a  nice  nice  train ride that goes up to the city of silverton where they used to do a lot of silver mining ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['[ {c and, } + {f uh, } {c and then } ] {d actually, } [ north, + north ] of that is another town [ and, + ] [ a smaller, + on a smaller ] scale, i guess, than silverton.  /']", c and   f uh  c and then   d actually   north  north  of that is another town  and    a smaller  on a smaller  scale i guess than silverton  ,sd,FEMALE,1
+"[""[ {c but, } + i, {c and then } ] there's lots and lots [ of real, + of mountains ] that are covered with, {f uh, } boulders. /""]", c but   i c and then   theres lots and lots  of real  of mountains  that are covered with f uh  boulders ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so, }  i guess people jeep through that area  /']",c so   i guess people jeep through that area  ,sd,FEMALE,1
+['{c and } we did not have a chance to do that.  /'],c and  we did not have a chance to do that  ,sd,FEMALE,1
+"['{c but, }  i sure would like to go back there and do that again. /']",c but   i sure would like to go back there and do that again ,sd,FEMALE,1
+['right.  /'],right  ,b,MALE,2
+"['[ we are, + {f uh, } we have ]  not had a vacation in several years,  /']", we are  f uh  we have   not had a vacation in several years  ,sd,MALE,1
+"['{c so, } <throat_clearing> be our first chance in awhile, {f uh, }  /']",c so  throatclearing be our first chance in awhile f uh   ,sd,MALE,1
+"['we are going to go to, {f uh, } destin, florida, which is a very nice beach area, if you are not familiar with it. /']",we are going to go to f uh  destin florida which is a very nice beach area if you are not familiar with it ,sd,MALE,1
+"['i have not been,  /']",i have not been  ,sd,FEMALE,1
+"[""{c but } i have heard it's wonderful. /""]",c but  i have heard its wonderful ,sd,FEMALE,1
+"[""{f oh, } [ it's, + it's ] gorgeous.  /""]",f oh   its  its  gorgeous  ,sd,MALE,1
+"['{f uh, } we used to go quite a bit, {f uh, } before i moved out here.  /']",f uh  we used to go quite a bit f uh  before i moved out here  ,sd,MALE,1
+"['we were closer  and, {f uh, } used to go almost every summer, {f uh, } and,  rent a condo there on the beach.  /']",we were closer  and f uh  used to go almost every summer f uh  and  rent a condo there on the beach  ,sd,MALE,1
+"[""{f uh, } [ there's quite a few, + {f uh, }  there's a lot  ] of development [ of, + of ] condominiums there on the beach front. /""]",f uh   theres quite a few  f uh   theres a lot   of development  of  of  condominiums there on the beach front ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['[ {c and, } + {f uh, } <noise> {c  so } ] [ they have, + {f uh, } they are ] [ very, + very ] large condos.  /']", c and   f uh  noise c  so    they have  f uh  they are   very  very  large condos  ,sd,MALE,1
+"['{c and, } they have quite a few rooms, [ {c and, } + {f uh, } {c so } ] [ we, + we ] will usually rent one for about a week or so.  /']",c and  they have quite a few rooms  c and   f uh  c so    we  we  will usually rent one for about a week or so  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"['right,  /']",right  ,b,FEMALE,2
+"['{c and } the,']",c and  the,sd,FEMALE,1
+['go down. /'],go down ,sd,MALE,1
+"['beach is nice, /']",beach is nice ,+,FEMALE,0
+['oh. /'],oh ,b,MALE,2
+"[""the beach is really nice, isn't it. /""]",the beach is really nice isnt it ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+"[""[ it's, + {f uh, } it's ] beautiful white sand and very clear blue green water,  and a,""]", its  f uh  its  beautiful white sand and very clear blue green water  and a,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['lot of nice waves usually, {f uh, } /']",lot of nice waves usually f uh  ,+,MALE,0
+['sea shells. /'],sea shells ,^2,FEMALE,23
+"['[ enough, +  enough ] to make it. - /']", enough   enough  to make it  ,sd,MALE,1
+['i am sorry. /'],i am sorry ,fa,MALE,42
+['sea shells. /'],sea shells ,sd,FEMALE,1
+"[""{f uh, } there's not as many sea shells along there, {f uh, }  /""]",f uh  theres not as many sea shells along there f uh   ,sd,MALE,1
+"[""that's the only thing that they really do not, - /""]",thats the only thing that they really do not  ,sd,MALE,1
+"['they have some, but not, not so much. /']",they have some but not not so much ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f um, } if you go further down, {f uh, } you will usually find some,  but not right in there.  /']",f um  if you go further down f uh  you will usually find some  but not right in there  ,sd,MALE,1
+"['{f uh, } i do not know why it is,  /']",f uh  i do not know why it is  ,sd,MALE,1
+"['{c but, }  {f uh, } it  (( just, )) - /']",c but   f uh  it   just   ,%,MALE,5
+"['[ it seems not, + it seems not ] to have as many [ there, + right there. ]  /']", it seems not  it seems not  to have as many  there  right there   ,sd,MALE,1
+"['{c but, }  {f uh, } [ we, + we ] enjoy it, {f uh, }  /']",c but   f uh   we  we  enjoy it f uh   ,sd,MALE,1
+"[""it's, - /""]",its  ,%,MALE,5
+"['[ the place where we stay is, + we usually stay ] at the same place every year,  /']", the place where we stay is  we usually stay  at the same place every year  ,sd,MALE,1
+"['{c and } <throat_clearing> they are, like i say right on the beach.  /']",c and  throatclearing they are like i say right on the beach  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+"['{f oh, } where do you stay?  /']",f oh  where do you stay  ,qw,FEMALE,12
+"['my husband always wants to go to destin,  /']",my husband always wants to go to destin  ,sd,FEMALE,1
+['we just have not gone that direction yet. /'],we just have not gone that direction yet ,sd,FEMALE,1
+"[""it's a place called jetty east, {f uh, }  j e t t y e a s t,  /""]",its a place called jetty east f uh   j e t t y e a s t  ,sd,MALE,1
+"[""{c and } it's, {f uh, } called that because it's at the very end of, {f uh, } a jetty there, which is,""]",c and  its f uh  called that because its at the very end of f uh  a jetty there which is,sd,MALE,1
+['okay. /'],okay ,b,FEMALE,2
+"['{f uh, } sort of at the end of this [ little, + little ] point  /']",f uh  sort of at the end of this  little  little  point  ,+,MALE,0
+"[""{c and, }  {f uh, } it's [ a, + ] at the very end,  /""]",c and   f uh  its  a   at the very end  ,sd,MALE,1
+"[""it's the last set of condominiums there,  /""]",its the last set of condominiums there  ,sd,MALE,1
+"[""{c and } [ it's, + {f uh, } it's ] very nice.  {f uh,  }  /""]",c and   its  f uh  its  very nice  f uh    ,sd,MALE,1
+"[""it's not very expensive, {f uh, }  /""]",its not very expensive f uh   ,sd,MALE,1
+"['you can, - /']",you can  ,sd,MALE,1
+['i think we are going to go with another couple and their kids.  /'],i think we are going to go with another couple and their kids  ,sd,MALE,1
+"[""{c and, }  {f uh, } [ they have a, + we have a, ] {f uh, } i think it's three bedroom or two bedroom, {f uh, } condominium, which will sleep, <inhaling> i do not know, quite a few  (( about )) ,""]",c and   f uh   they have a  we have a  f uh  i think its three bedroom or two bedroom f uh  condominium which will sleep inhaling i do not know quite a few   about  ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""six or eight.   {c and, }  {f uh, } cause it's got, {d you know, } pull out couches and  all that,  /""]",six or eight   c and   f uh  cause its got d you know  pull out couches and  all that  ,+,MALE,0
+"[""{c and, } {f uh, } i think it's going to cost us, per couple, about three hundred dollars for the week. /""]",c and  f uh  i think its going to cost us per couple about three hundred dollars for the week ,sd,MALE,1
+"[""{f oh. }  <laughter> that's nice. /""]",f oh   laughter thats nice ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['it really is,  /']",it really is  ,sd,MALE,1
+"['{c because, } {f uh, } [ the, + ] {f uh, } {d you know, } it has got its own [ kitchen, + full size,']",c because  f uh   the   f uh  d you know  it has got its own  kitchen  full size,sd,MALE,1
+['great. /'],great ,ba,FEMALE,6
+['kitchen ] and everything.  /'],kitchen  and everything  ,+,MALE,0
+"['{c and, }  this one, i think has two baths,  /']",c and   this one i think has two baths  ,sd,MALE,1
+"[""{c and } it's, - /""]",c and  its  ,%,MALE,5
+"['the one we got is [ on the, + on the ] beach side.  /']",the one we got is  on the  on the  beach side  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+"['{f oh, } nice. /']",f oh  nice ,ba,FEMALE,6
+"['we have got a beautiful view and balcony,  /']",we have got a beautiful view and balcony  ,sd,MALE,1
+"['{c and, }  {f uh, } just, - /']",c and   f uh  just  ,%,MALE,5
+"[""{d you know, } it's really a nice stay.   {f uh, }  /""]",d you know  its really a nice stay   f uh   ,sd,MALE,1
+"['in fact, we stayed there on our honeymoon,  /']",in fact we stayed there on our honeymoon  ,sd,MALE,1
+"['[ we, + i ] had won a trip to the bahamas, but did not get to take it on our honeymoon time,  /']", we  i  had won a trip to the bahamas but did not get to take it on our honeymoon time  ,sd,MALE,1
+"['{c so } we instead went there, {f uh, } and loved it just as much [ as, + as ] if we had gone to the bahamas.  /']",c so  we instead went there f uh  and loved it just as much  as  as  if we had gone to the bahamas  ,sd,MALE,1
+"['[ we, +']", we ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['in fact, we  ] stayed an extra day or so, because we liked - /']",in fact we   stayed an extra day or so because we liked  ,+,MALE,0
+"['[ the, + {f uh, } the ] particular [ ro-, + ] {f uh, } {f uh, } {f uh, } suite we had gotten was very nice  /']", the  f uh  the  particular  ro   f uh  f uh  f uh  suite we had gotten was very nice  ,sd,MALE,1
+"['{c and,']",c and,sd,MALE,1
+['great. /'],great ,ba,FEMALE,6
+['so } we decided to stay. /'],so  we decided to stay ,+,MALE,0
+['oh. /'],oh ,b,FEMALE,2
+"[""{c but, }  {f uh, } it's a pretty nice place,  /""]",c but   f uh  its a pretty nice place  ,sd,MALE,1
+"['you will need to try to go and,']",you will need to try to go and,sd,MALE,1
+"['{d well, } [ we have just -- +']",d well   we have just  ,sd,FEMALE,1
+['stay there sometime. /'],stay there sometime ,+,MALE,0
+"['-- we have just, ] -/']", we have just  ,+,FEMALE,0
+"[""it's a little far from here,  /""]",its a little far from here  ,sd,MALE,1
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,MALE,5
+['are you driving? /'],are you driving ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+['we are.  /'],we are  ,sd,MALE,1
+"['we are,  /']",we are  ,sd,MALE,1
+"['it will take, {f uh, } a day and a half to get there, probably. /']",it will take f uh  a day and a half to get there probably ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+['{c so. } -/'],c so  ,%,MALE,5
+"['{d well, } we are, - /']",d well  we are  ,sd,FEMALE,1
+"['the neighborhood that we live, they are switching to an alternate calendar this year,  /']",the neighborhood that we live they are switching to an alternate calendar this year  ,sd,FEMALE,1
+"['{c so } it, - /']",c so  it  ,%,FEMALE,5
+"['[ starting, + {d well, } starting ] at the end of july, we will have two vacation weeks in october and two vacation weeks in march. /']", starting  d well  starting  at the end of july we will have two vacation weeks in october and two vacation weeks in march ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c so } that will be an interesting turn on vacations for our family.  /'],c so  that will be an interesting turn on vacations for our family  ,sd,FEMALE,1
+"['{c so, }  i, -/']",c so   i ,%,FEMALE,5
+"['{f uh, } [ what does, + what does ] that mean, alternate? /']",f uh   what does  what does  that mean alternate ,qw,MALE,12
+"[""{d well, } it's, - /""]",d well  its  ,%,FEMALE,5
+"['what it truly is supposed to mean is nine weeks of school, three weeks of vacation,']",what it truly is supposed to mean is nine weeks of school three weeks of vacation,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+"['nine weeks of school, three weeks of vacation. /']",nine weeks of school three weeks of vacation ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ {c and, }  {f uh, } in, + {c and } in  ] the summer would be more like a [ two month, + two month ] break. /']", c and   f uh  in  c and  in   the summer would be more like a  two month  two month  break ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['[ {c so, } + {c and } ] [ they hope to boost the, + they hope to boost the ] learning of the children.']", c so   c and    they hope to boost the  they hope to boost the  learning of the children,sd,FEMALE,1
+['i see. /'],i see ,bk,MALE,14
+['just the retention of the material for them.  /'],just the retention of the material for them  ,+,FEMALE,0
+"['{c so, }  {f uh, } -/']",c so   f uh  ,%,FEMALE,5
+"['kind of scattering the vacation [ out, + throughout  ] the year. /']",kind of scattering the vacation  out  throughout   the year ,sd,MALE,1
+"['yeah, /']",yeah ,b,FEMALE,2
+['yeah. /'],yeah ,b,MALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{c so, }  <noise> it's <noise> - /""]",c so   noise its noise  ,%,FEMALE,5
+"['[ {c so, } +  {d anyway, } {c so }  ]  [ maybe, + maybe ] within a year, we will see how that falls <laughter>. /']", c so    d anyway  c so      maybe  maybe  within a year we will see how that falls laughter ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['[ we will head for, + we will head for ] florida, maybe in somewhat of an off season, instead of summer. /']", we will head for  we will head for  florida maybe in somewhat of an off season instead of summer ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{d so, }  {f uh. } -/']",d so   f uh  ,%,FEMALE,5
+['okay. /'],okay ,b,MALE,2
+"[""{d well, } that's probably [ ne-, + ] all we need to do today. /""]",d well  thats probably  ne   all we need to do today ,ad,FEMALE,22
+['okay. /'],okay ,aa,MALE,4
+['alright. /'],alright ,fc,FEMALE,10
+['so long. /'],so long ,fc,MALE,10
+['thanks a lot. /'],thanks a lot ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10

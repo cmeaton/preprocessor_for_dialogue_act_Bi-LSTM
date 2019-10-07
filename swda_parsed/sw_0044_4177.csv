@@ -1,0 +1,144 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hi.  /'],hi  ,fp,MALE,32
+"['{d so, } do you think you get good coverage from the sources that you have? /']",d so  do you think you get good coverage from the sources that you have ,qy,MALE,7
+"['{f uh, } actually no,  /']",f uh  actually no  ,nn,MALE,13
+"[""[ {c because, } + {c because } ] i'm in school.  /""]", c because   c because   im in school  ,sd,MALE,1
+"['[ i, + i ] kind of miss out on most of the current events.  /']", i  i  kind of miss out on most of the current events  ,sd,MALE,1
+['i just catch the major ones off the news or if someone starts to talk about it. /'],i just catch the major ones off the news or if someone starts to talk about it ,sd,MALE,1
+['do you watch a lot of t v to get the news then? /'],do you watch a lot of t v to get the news then ,qy,MALE,7
+"[""{f uh, } i don't watch a lot of it,  /""]",f uh  i dont watch a lot of it  ,ng,MALE,29
+"[""{c but } that's the on-, - /""]",c but  thats the on  ,%,MALE,5
+"[""basically that's my only major source of information. /""]",basically thats my only major source of information ,sd,MALE,1
+['{f um. }  /'],f um   ,%,MALE,5
+"['[ what about, + what about ] you? /']", what about  what about  you ,qo,MALE,25
+"['{d well, } i read, {f uh, } - /']",d well  i read f uh   ,sd,MALE,1
+['i get a bunch of different things.  /'],i get a bunch of different things  ,sd,MALE,1
+['i get a newspaper every day  /'],i get a newspaper every day  ,sd,MALE,1
+"['{c and } i try to [ at, + at ] least have a few minutes to look through that  /']",c and  i try to  at  at  least have a few minutes to look through that  ,sd,MALE,1
+"['{c and } i look through, {f uh, } - /']",c and  i look through f uh   ,sd,MALE,1
+"['i get a newsweek every week which [ i, + i ] pretty much read that cover to cover  /']",i get a newsweek every week which  i  i  pretty much read that cover to cover  ,sd,MALE,1
+"['{c and } i, as far as, {d you know, } - /']",c and  i as far as d you know   ,%,MALE,5
+['that satisfies most of the short term news i get.  /'],that satisfies most of the short term news i get  ,sd,MALE,1
+"[""{f uh, } don't watch much t v,  /""]",f uh  dont watch much t v  ,sd,MALE,1
+"[""don't have enough time  /""]",dont have enough time  ,sd,MALE,1
+"[""{c and, } {f uh, } don't listen to the radio too much especially the news channels or anything like that, {d you know, }  /""]",c and  f uh  dont listen to the radio too much especially the news channels or anything like that d you know   ,sd,MALE,1
+['they might give you a little blurbs like --'],they might give you a little blurbs like ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['-- this happened or that happened  /'], this happened or that happened  ,+,MALE,0
+"[""{c and } that's about all i ever hear of it.  /""]",c and  thats about all i ever hear of it  ,sd,MALE,1
+"['{f uh, } {c but } most of my news probably comes from newsweek  /']",f uh  c but  most of my news probably comes from newsweek  ,sd,MALE,1
+"[""{c and } for the longer term [ i, + i ] read, {f uh, } {d like } scientific american [ and, + and, ] {f uh, } readers' digest and some of those other types of magazines that come out which, they, - /""]",c and  for the longer term  i  i  read f uh  d like  scientific american  and  and  f uh  readers digest and some of those other types of magazines that come out which they  ,sd,MALE,1
+"[""the news isn't, {d like, } immediate what you'd generally think of as news,  /""]",the news isnt d like  immediate what youd generally think of as news  ,sd,MALE,1
+"[""{c but } it's recent material. /""]",c but  its recent material ,sd,MALE,1
+"[""{c and } it's more in depth. /""]",c and  its more in depth ,^2,MALE,23
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['[ it is, + it is ] more in depth, less broad.  /']", it is  it is  more in depth less broad  ,sv,MALE,3
+"[""{d well, } {d actually, } it's, probably isn't less broad,  /""]",d well  d actually  its probably isnt less broad  ,ar,MALE,28
+"[""{c but } it's just more in depth  /""]",c but  its just more in depth  ,sv,MALE,3
+"['{c and, } {f uh, } [ [ it is, + it is more sig-, ] + it is more just significant ] information, {d you know. }  /']",c and  f uh    it is  it is more sig   it is more just significant  information d you know   ,sv,MALE,3
+"['it is the big events, not the little events. /']",it is the big events not the little events ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['not the fact that there was a big auto accident down on the corner of broad and main, {d you know. } /']",not the fact that there was a big auto accident down on the corner of broad and main d you know  ,sd,MALE,1
+"['i know,  /']",i know  ,aa,MALE,4
+"[""where they're just trying to fill in. /""]",where theyre just trying to fill in ,sv,MALE,3
+"['yes,  /']",yes  ,aa,MALE,4
+"[""{c or } they're [ making, + making ] time because they to fill in an hour's worth of news. /""]",c or  theyre  making  making  time because they to fill in an hours worth of news ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['{f uh, } i get kind of bored watching t v actually, when i watch the news on t v because --']",f uh  i get kind of bored watching t v actually when i watch the news on t v because ,sd,MALE,1
+"['i know,  /']",i know  ,b,MALE,2
+"['[ i do, + i do, ] too. /']", i do  i do  too ,sd,MALE,1
+['-- it goes so slow  /'], it goes so slow  ,+,MALE,0
+"[""{c and, then } there's nothing that, {d you know, } really is {d like } {f oh, } so exciting. /""]",c and then  theres nothing that d you know  really is d like  f oh  so exciting ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['you may find one little, {f uh, } news item interesting  /']",you may find one little f uh  news item interesting  ,sv,MALE,3
+"['{c so } you have to wait twenty minutes [ to, + to ] hear about it. /']",c so  you have to wait twenty minutes  to  to  hear about it ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ that, + that's ] about what it ends up being.  /""]", that  thats  about what it ends up being  ,sv,MALE,3
+['listen to the news to hear the traffic report or something <laughter>. /'],listen to the news to hear the traffic report or something laughter ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{d actually, } [ y-, + you ] mention newsweek,  /']",d actually   y  you  mention newsweek  ,sd,MALE,1
+"['[ [ i, + i, ] + i ] do like, {f uh, } u s news and world report.  /']",  i  i   i  do like f uh  u s news and world report  ,sd,MALE,1
+"[""i don't get to read it as much as i like,  /""]",i dont get to read it as much as i like  ,sd,MALE,1
+"[""{c but } [ that's, + i think that's ] a good magazine. /""]",c but   thats  i think thats  a good magazine ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i think they're about the same.  /""]",i think theyre about the same  ,sv,MALE,3
+"['[ [ i, + {d you know, } they, ] + they ] certainly have a very similar, {f uh, } charter at least in my mind.  /']",  i  d you know  they   they  certainly have a very similar f uh  charter at least in my mind  ,sv,MALE,3
+"['{c and, } {f uh, } {f uh, } [ [ what, + what kind of, ] + {f uh, } what kind of ] news normally interests you,  /']",c and  f uh  f uh    what  what kind of   f uh  what kind of  news normally interests you  ,qw,MALE,12
+"['{e i mean } [ what do you, + [ what, + what ] do you ] find interesting --']",e i mean   what do you   what  what  do you  find interesting ,qw,MALE,12
+['{d well } --'],d well  ,sd,MALE,1
+['-- versus what do you find boring? /'], versus what do you find boring ,+,MALE,0
+"[""-- right now trying to keep abreast of, {f uh, } what's going on in europe, {d you know, } with all the, u s s r's satellites breaking off, trying to become independent and, {d you know, } european community coming together. /""]", right now trying to keep abreast of f uh  whats going on in europe d you know  with all the u s s rs satellites breaking off trying to become independent and d you know  european community coming together ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""that's going to affect our, {f uh, } economy quite a bit. /""]",thats going to affect our f uh  economy quite a bit ,sv,MALE,3
+"['i think it will, - /']",i think it will  ,aa,MALE,4
+"[""{f uh, } [ they, + they ] keep claiming it's going to have a big influence,  /""]",f uh   they  they  keep claiming its going to have a big influence  ,sd,MALE,1
+"[""{c but } we've yet to see it  /""]",c but  weve yet to see it  ,sd,MALE,1
+"['{c and } th-, - /']",c and  th  ,%,MALE,5
+"[""it's real short term yet, though,  /""]",its real short term yet though  ,sd,MALE,1
+"[""{e i mean, } it's only been, three months or something like that --""]",e i mean  its only been three months or something like that ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['-- since that happened  /'], since that happened  ,+,MALE,0
+"['{d so, } -/']",d so  ,%,MALE,5
+['yeah. /'],yeah ,b,MALE,2
+"[""{c but } they like to tell us that it's going to be important <laughter>. /""]",c but  they like to tell us that its going to be important laughter ,sv,MALE,3
+"[""[ i'm, + i'm ] pretty sure it is, because, {f uh } --""]", im  im  pretty sure it is because f uh  ,sv,MALE,3
+"['i think it is, too. /']",i think it is too ,aa,MALE,4
+"[""-- [ once, + once ] europe becomes unified and, {f uh, } their economy becomes one big economy we're going to be, {f uh, } kind of hurting <laughter>. /""]",  once  once  europe becomes unified and f uh  their economy becomes one big economy were going to be f uh  kind of hurting laughter ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""[ i, + i ] think that's a possibility, - /""]", i  i  think thats a possibility  ,sv,MALE,3
+"['{f uh, } [ it, + we ] might also be helped, though, because [ it, + it ] will be easier to do business over there, too. /']",f uh   it  we  might also be helped though because  it  it  will be easier to do business over there too ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['definitely. /'],definitely ,aa,MALE,4
+['for the companies that already have a presence over there  /'],for the companies that already have a presence over there  ,sv,MALE,3
+"['{c and, } {f uh, } i know of at least one company that specifically went over there and established a presence before nineteen ninety-two so that they would have it when it --']",c and  f uh  i know of at least one company that specifically went over there and established a presence before nineteen ninetytwo so that they would have it when it ,sd,MALE,1
+"['{f oh, } yeah -- /']",f oh  yeah  ,b,MALE,2
+['-- came time. /'], came time ,+,MALE,0
+"['-- so they have a toe hold,  /']", so they have a toe hold  ,bf,MALE,20
+['i good toe hold. /'],i good toe hold ,bf,MALE,20
+['yep.  /'],yep  ,aa,MALE,4
+"[""{c because } once you're in there, then you can easily expand.  /""]",c because  once youre in there then you can easily expand  ,sv,MALE,3
+['{c but } getting in after nineteen ninety-two is more difficult. /'],c but  getting in after nineteen ninetytwo is more difficult ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{c because, } when they first start off, they're going to be highly protectionist  /""]",c because  when they first start off theyre going to be highly protectionist  ,sv,MALE,3
+"['{d so, } -/']",d so  ,%,MALE,5
+['yes. /'],yes ,aa,MALE,4
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and } there's already a lot of evidence that they are being very protectionist,  /""]",c and  theres already a lot of evidence that they are being very protectionist  ,sv,MALE,3
+"[""even amongst themselves, they're being somewhat protectionist, {d you know. } /""]",even amongst themselves theyre being somewhat protectionist d you know  ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""{d like, } england doesn't want to do one thing  /""]",d like  england doesnt want to do one thing  ,sd,MALE,1
+"[""[ {c and, } + {c and } ] sweden doesn't want to do other thing  /""]", c and   c and   sweden doesnt want to do other thing  ,sd,MALE,1
+"[""{c and } [ they're, + they've ] all got their own reasons which have to be resolved yet. /""]",c and   theyre  theyve  all got their own reasons which have to be resolved yet ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } some of it, {e i mean, } is, - /']",c and  some of it e i mean  is  ,%,MALE,5
+"[""i'm sure within those people's minds, it's quite justified. /""]",im sure within those peoples minds its quite justified ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ i, + i ] can understand their viewpoint,  /']", i  i  can understand their viewpoint  ,sd,MALE,1
+"[""[ they're just, + they're ] starting off,  /""]", theyre just  theyre  starting off  ,sd,MALE,1
+"[""their economy's a little bit weak,  /""]",their economys a little bit weak  ,sd,MALE,1
+['{c so } you want to --'],c so  you want to ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- get established before they --'], get established before they ,+,MALE,0
+['before they --'],before they ,^2,MALE,23
+"['-- com-, -/']", com ,+,MALE,0
+['-- open up their borders to everyone. /'], open up their borders to everyone ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+['totally. /'],totally ,aa,MALE,4
+"['{f uh, } what is the, {f uh, } - /']",f uh  what is the f uh   ,qw,MALE,12
+['do you watch anything {d like } with sports or anything like that? /'],do you watch anything d like  with sports or anything like that ,qy,MALE,7
+"[""{d actually } i'm not really into sports.  /""]",d actually  im not really into sports  ,^h,MALE,27
+"['my roommates are,  /']",my roommates are  ,^h,MALE,27
+"['{c so, } unfortunately, i forced to watch quite a bit of sports. /']",c so  unfortunately i forced to watch quite a bit of sports ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+['<laughter>.'],laughter,x,MALE,8
+['against your will. /'],against your will ,bf,MALE,20
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['we have to, fight over the remote control. /']",we have to fight over the remote control ,sd,MALE,1
+"['<laughter> yeah,  /']",laughter yeah  ,b,MALE,2
+['at least you guys have a remote control. /'],at least you guys have a remote control ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""it's sometimes better to not have one of those.  /""]",its sometimes better to not have one of those  ,sv,MALE,3
+"['course, you can always [ mislocate it. +']",course you can always  mislocate it ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{e or } misplace it, ] {e i mean, not mislocate it, but misplace it }  /']",e or  misplace it  e i mean not mislocate it but misplace it   ,+,MALE,0
+"['{c and, } -/']",c and  ,%,MALE,5

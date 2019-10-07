@@ -1,0 +1,235 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""i'm sorry, {f um } -- /""]",im sorry f um   ,fa,FEMALE,42
+"[""that's okay,  /""]",thats okay  ,bd,FEMALE,38
+"[""i didn't hear. /""]",i didnt hear ,sd,FEMALE,1
+['-- hobbies. /'], hobbies ,sd,FEMALE,1
+['okay. /'],okay ,b,FEMALE,2
+"['let me see,  /']",let me see  ,^h,FEMALE,27
+"[""i don't know if that took or not,  /""]",i dont know if that took or not  ,sd,FEMALE,1
+"[""i'll do it again. /""]",ill do it again ,oo_co_cc,FEMALE,36
+['okay. /'],okay ,b,FEMALE,2
+['<beep> okay.  /'],beep okay  ,%,FEMALE,5
+['what are your hobbies?  /'],what are your hobbies  ,qw,FEMALE,12
+"['i hear you have kids, right? /']",i hear you have kids right ,qy,FEMALE,7
+['you heard her in the background <laughter>.  /'],you heard her in the background laughter  ,sd,FEMALE,1
+"[""that's babies. /""]",thats babies ,sd,FEMALE,1
+"[""<laughter> that's your full time, {f uh, } hobby, right? /""]",laughter thats your full time f uh  hobby right ,qy,FEMALE,7
+"['takes a lot of time, {f huh. }  /']",takes a lot of time f huh   ,na,FEMALE,21
+"['i like, {f uh, } most sports.  /']",i like f uh  most sports  ,sd,FEMALE,1
+['i like to do that.  /'],i like to do that  ,sd,FEMALE,1
+['i kind of like to do a little bit of sewing. /'],i kind of like to do a little bit of sewing ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f oh, } little bit of embroidery work, once in a while. /']",f oh  little bit of embroidery work once in a while ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['what do you like to do? /'],what do you like to do ,qo,FEMALE,25
+"[""{f um, } i try to do some painting, although i'm not very good at it <laughter>. /""]",f um  i try to do some painting although im not very good at it laughter ,sd,FEMALE,1
+"[""{d well, } i'm sure you probably are. /""]",d well  im sure you probably are ,ba,FEMALE,6
+"['{d well, } no,  /']",d well  no  ,bd,FEMALE,38
+['not <laughter> really. /'],not laughter really ,bd,FEMALE,38
+"['<laughter> you like it,  /']",laughter you like it  ,sv,FEMALE,3
+"[""that's the main  ((   )) . -/""]",thats the main       ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""[ [ i, + i   have, ] + {d you know, } i inherited ] the genes that make me think i'm creative,""]",  i  i   have   d you know  i inherited  the genes that make me think im creative,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['but not the ones that give me the ability to be. /'],but not the ones that give me the ability to be ,+,FEMALE,0
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"['{c so, } i always try. /']",c so  i always try ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['[ i, + i  ] do some sewing, mostly out of necessity.  /']", i  i   do some sewing mostly out of necessity  ,sd,FEMALE,1
+"[""{f um, } i'm making drapes for my house, just because i'm, -/""]",f um  im making drapes for my house just because im ,sd,FEMALE,1
+"[""{f oh, } boy, that's hard sewing. /""]",f oh  boy thats hard sewing ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""{d well, } it isn't and it is.  /""]",d well  it isnt and it is  ,aap_am,FEMALE,39
+"['it is, {d you know, } - /']",it is d you know   ,%,FEMALE,5
+"[""actually the sewing isn't the hard part,  /""]",actually the sewing isnt the hard part  ,sd,FEMALE,1
+"[""it's just being able to lay out the material and measure it --""]",its just being able to lay out the material and measure it ,sv,FEMALE,3
+"['measure it and get it to, -/']",measure it and get it to ,bf,FEMALE,20
+['-- because you need so much room. /'], because you need so much room ,+,FEMALE,0
+"['{d well, } [ if + ] [ it, + it  ] depends on how elaborate you get it.  /']",d well   if    it  it   depends on how elaborate you get it  ,aap_am,FEMALE,39
+"['if you get pleats and  all kinds of, -/']",if you get pleats and  all kinds of ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""i've been doing that  /""]",ive been doing that  ,sd,FEMALE,1
+"['{c and, }']",c and ,%,FEMALE,5
+"[""that's a lot of work. /""]",thats a lot of work ,ba,FEMALE,6
+"['that, - /']",that  ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['that, - /']",that  ,%,FEMALE,5
+['{c but } usually have to do the pleats by hand.  /'],c but  usually have to do the pleats by hand  ,sd,FEMALE,1
+"['{c so } that, at least --']",c so  that at least ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- i can do, {d you know, } watching t v or whatever  /']", i can do d you know  watching t v or whatever  ,+,FEMALE,0
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['right,  /']",right  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{c and } [ i've, + i've  ] gone and, {d you know, } put the needle through my thumb a few times <laughter>,""]",c and   ive  ive   gone and d you know  put the needle through my thumb a few times laughter,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['trying to get it through  /'],trying to get it through  ,+,FEMALE,0
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['that feels really good. /'],that feels really good ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""{c so } that's not really my favorite thing to do or anything, but [ i, + i  ] need to do it. /""]",c so  thats not really my favorite thing to do or anything but  i  i   need to do it ,sd,FEMALE,1
+"['to do it,  /']",to do it  ,aa,FEMALE,4
+['right. /'],right ,aa,FEMALE,4
+"[""[ i have, + let's see, i have ] a dog, and a lot of fish.  /""]", i have  lets see i have  a dog and a lot of fish  ,sd,FEMALE,1
+"['keeping fish, i guess --']",keeping fish i guess ,sd,FEMALE,1
+['keeping fish  ((   )) . -/'],keeping fish       ,b^m,FEMALE,24
+['-- is my biggest hobby. /'], is my biggest hobby ,+,FEMALE,0
+"[""{d well, } they're probably easier than keeping dogs, though, aren't they. /""]",d well  theyre probably easier than keeping dogs though arent they ,sv,FEMALE,3
+"['{f um, } yes and no.  /']",f um  yes and no  ,aap_am,FEMALE,39
+"['it depends on how frequently they die, and --']",it depends on how frequently they die and ,sd,FEMALE,1
+"['{f oh, } no. /']",f oh  no ,ba,FEMALE,6
+['-- how much that bothers you. /'], how much that bothers you ,+,FEMALE,0
+"['how much that bothers you,  /']",how much that bothers you  ,b^m,FEMALE,24
+['{c and } you probably have to clean out the tank too. /'],c and  you probably have to clean out the tank too ,sv,FEMALE,3
+"[""that's, - /""]",thats  ,%,FEMALE,5
+"[""you don't have to do as much [ as, + as  ] i thought.  /""]",you dont have to do as much  as  as   i thought  ,arp_nd,FEMALE,34
+"['in fact, my problem, - /']",in fact my problem  ,%,FEMALE,5
+['i had fish as a kid  /'],i had fish as a kid  ,sd,FEMALE,1
+['{c and } they always died --'],c and  they always died ,sd,FEMALE,1
+"['{f oh, } no. /']",f oh  no ,ba,FEMALE,6
+"['-- immediately,  /']", immediately  ,+,FEMALE,0
+"[""{c and, } [ what, i'm, + what i  ] think now is the reason is i kept the tank too clean -- /""]",c and   what im  what i   think now is the reason is i kept the tank too clean  ,sv,FEMALE,3
+"[""{f oh, } you're kidding -- /""]",f oh  youre kidding  ,ba,FEMALE,6
+"['-- {c because } you have, -/']", c because  you have ,%,FEMALE,5
+"['-- {c because } they need to have a little bit of the, -/']", c because  they need to have a little bit of the ,bf,FEMALE,20
+"['right,  /']",right  ,aa,FEMALE,4
+"['you need to let the bacteria build up,  /']",you need to let the bacteria build up  ,sv,FEMALE,3
+['{c and then } it keeps all the chemicals in balance. /'],c and then  it keeps all the chemicals in balance ,sv,FEMALE,3
+['i see. /'],i see ,b,FEMALE,2
+"['{c and } i would just take everything out and just {d like, } {d you know, } wash it with scalding hot water -- /']",c and  i would just take everything out and just d like  d you know  wash it with scalding hot water  ,sd,FEMALE,1
+"['{f oh, } no. /']",f oh  no ,ba,FEMALE,6
+"['-- {c and } it would kill all the bacteria,  /']", c and  it would kill all the bacteria  ,sd,FEMALE,1
+['{c and } that would screw up all the chemical cycles again -- /'],c and  that would screw up all the chemical cycles again  ,sd,FEMALE,1
+"[""{c and so }  you'd have to --""]",c and so   youd have to ,bf,FEMALE,20
+['-- {c so. } -/'], c so  ,%,FEMALE,5
+['-- start all over --'], start all over ,+,FEMALE,0
+['right. /'],right ,aa,FEMALE,4
+['-- to build that up probably. /'], to build that up probably ,+,FEMALE,0
+"[""that's right.  /""]",thats right  ,aa,FEMALE,4
+"['{c so } now [ only, + i only  ] clean things to make things look more aesthetically pleasing -- /']",c so  now  only  i only   clean things to make things look more aesthetically pleasing  ,sd,FEMALE,1
+"['right,  /']",right  ,aa,FEMALE,4
+['right. /'],right ,aa,FEMALE,4
+"[""-- {c and } i don't try and sterilize things <laughter>. /""]", c and  i dont try and sterilize things laughter ,sd,FEMALE,1
+"[""don't go through the whole nine yards  /""]",dont go through the whole nine yards  ,bf,FEMALE,20
+['{c and } --'],c and  ,sv,FEMALE,3
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+['-- they kind of need a little bit of that. /'], they kind of need a little bit of that ,+,FEMALE,0
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"[""{c so } you've had fish for a long time. /""]",c so  youve had fish for a long time ,bf,FEMALE,20
+"[""{d well, } i've had them, - /""]",d well  ive had them  ,%,FEMALE,5
+"[""i guess it's been two years now i've had [ a, + a  ] tank here,  /""]",i guess its been two years now ive had  a  a   tank here  ,sd,FEMALE,1
+"['{c and then } back at home i used to have a small, {d you know, } five gallon tank.   /']",c and then  back at home i used to have a small d you know  five gallon tank   ,sd,FEMALE,1
+['{c but } that never worked well.  /'],c but  that never worked well  ,sd,FEMALE,1
+['what size do you have now? /'],what size do you have now ,qw,FEMALE,12
+['i have fifty-five gallons now. /  *[[sd]]'],i have fiftyfive gallons now   sd,+,FEMALE,0
+"[""{f oh, } that's a good size. /""]",f oh  thats a good size ,ba,FEMALE,6
+"[""it's a lot easier. /""]",its a lot easier ,sd,FEMALE,1
+"['have you ever had it, {f uh, } crack or break or leak. /']",have you ever had it f uh  crack or break or leak ,qy,FEMALE,7
+['no <laughter>. /'],no laughter ,nn,FEMALE,13
+['<laughter>  ((   )) .'],laughter      ,x,FEMALE,8
+"['no,  /']",no  ,nn,FEMALE,13
+['not yet. /'],not yet ,sd,FEMALE,1
+"[""fifty-five gallons, you'd hope it would never do that. /""]",fiftyfive gallons youd hope it would never do that ,sv,FEMALE,3
+"[""that's right,  /""]",thats right  ,aa,FEMALE,4
+['i really do.  /'],i really do  ,sd,FEMALE,1
+"['{c but, } {d you know. } -/']",c but  d you know  ,%,FEMALE,5
+['do you have all kinds of different fish  /'],do you have all kinds of different fish  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['i just have, {d you know, } what they call community fish --']",i just have d you know  what they call community fish ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- guppies, and platies [ and, + and  ] basic things.  /']", guppies and platies  and  and   basic things  ,+,FEMALE,0
+"[""i don't get into the -- -/""]",i dont get into the  ,sd,FEMALE,1
+['real exotic. -/'],real exotic ,^2,FEMALE,23
+"['-- right,  /']", right  ,aa,FEMALE,4
+['right.  /'],right  ,aa,FEMALE,4
+['the expensive ones. /'],the expensive ones ,sd,FEMALE,1
+"[""{d well, } they're probably [ hardy, + harder  ] to take care of  /""]",d well  theyre probably  hardy  harder   to take care of  ,sv,FEMALE,3
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['they are.  /'],they are  ,aa,FEMALE,4
+"[""they're very expensive  /""]",theyre very expensive  ,sd,FEMALE,1
+"[""{c and, } {d you know, } [ when you die, it's like, + when they die it's   more like ] an investment. /""]",c and  d you know   when you die its like  when they die its   more like  an investment ,sv,FEMALE,3
+"['yes,  /']",yes  ,b,FEMALE,2
+['i bet it is. /'],i bet it is ,ba,FEMALE,6
+['you lost an investment  /'],you lost an investment  ,sv,FEMALE,3
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['do you have problems with [ them, + {f uh, } the fish  ] eating each other? /']",do you have problems with  them  f uh  the fish   eating each other ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['not really.  /'],not really  ,sd,FEMALE,1
+"[""only if there's baby fish. /""]",only if theres baby fish ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['you always have to isolate those. /'],you always have to isolate those ,sd,FEMALE,1
+"['then you have to, - /']",then you have to  ,%,FEMALE,5
+['how do you isolate them? /'],how do you isolate them ,qw,FEMALE,12
+['you get a -- -/'],you get a  ,sd,FEMALE,1
+['a jar or something  /'],a jar or something  ,qy^d,FEMALE,16
+['{c or. } -/'],c or  ,%,FEMALE,5
+"['-- {d well, } no,  /']", d well  no  ,nn,FEMALE,13
+['they have breeders. /'],they have breeders ,sd,FEMALE,1
+['okay. /'],okay ,bk,FEMALE,14
+"[""it's a little plastic things that sort of floats -- /""]",its a little plastic things that sort of floats  ,sd,FEMALE,1
+['okay. /'],okay ,b,FEMALE,2
+['-- {c and } you put the mother fish in there  /'], c and  you put the mother fish in there  ,sd,FEMALE,1
+"[""{c and then } it's got {d like } a trough underneath her -- /""]",c and then  its got d like  a trough underneath her  ,sd,FEMALE,1
+['okay. /'],okay ,b,FEMALE,2
+['-- {c so } as the babies come out they fall down in the trough  /'], c so  as the babies come out they fall down in the trough  ,sd,FEMALE,1
+"[""{c and } there's a hole in the middle so they fall into the bottom part of the chamber --""]",c and  theres a hole in the middle so they fall into the bottom part of the chamber ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""-- so the mother can't get to them either.  /""]", so the mother cant get to them either  ,+,FEMALE,0
+"[""{c and } that's, {d you know, } - /""]",c and  thats d you know   ,%,FEMALE,5
+"['it kind of works,  /']",it kind of works  ,sd,FEMALE,1
+"[""{c but } it's also got slots in it so the water can circulate -- /""]",c but  its also got slots in it so the water can circulate  ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""it'll fit out the slots. /""]",itll fit out the slots ,sd,FEMALE,1
+"[""it'll go through the slot. /""]",itll go through the slot ,bf,FEMALE,20
+"[""that's right,  /""]",thats right  ,aa,FEMALE,4
+"['[ {c so. } + {c but, }  ] {d you know, } it works, i guess. /']", c so   c but    d you know  it works i guess ,sd,FEMALE,1
+['that works all right then.  /'],that works all right then  ,qy^d,FEMALE,16
+"[""they don't, {f uh, } want the mothers to be with the little fish either. /""]",they dont f uh  want the mothers to be with the little fish either ,bf,FEMALE,20
+"[""{f oh, } they'll eat them. /""]",f oh  theyll eat them ,sd,FEMALE,1
+['they will. /'],they will ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,FEMALE,9
+"[""isn't that odd. /""]",isnt that odd ,qy,FEMALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"[""you wouldn't think that. /""]",you wouldnt think that ,sv,FEMALE,3
+"[""[ it, + {c and } it's  ] funny because the one i have, every single month without fail she has babies. /""]", it  c and  its   funny because the one i have every single month without fail she has babies ,sd,FEMALE,1
+"[""you're kidding. /""]",youre kidding ,ba,FEMALE,6
+"['{f oh, } no.  /']",f oh  no  ,aa,FEMALE,4
+"['all the time,  /']",all the time  ,sd,FEMALE,1
+"['{c and, } {f um, } i, - /']",c and  f um  i  ,%,FEMALE,5
+"[""{c and } she's supposed to, - /""]",c and  shes supposed to  ,%,FEMALE,5
+"[""her variety, it says they won't eat the babies,  /""]",her variety it says they wont eat the babies  ,sd,FEMALE,1
+"[""{c and } i've seen her do it.  /""]",c and  ive seen her do it  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"[""{c and } that just makes you sick almost, doesn't it? /""]",c and  that just makes you sick almost doesnt it ,qy,FEMALE,7
+"[""{f oh, } it's ter-, - /""]",f oh  its ter  ,%,FEMALE,5
+"['{d well, } it makes you understand that, {d you know, } things are different <laughter>. /']",d well  it makes you understand that d you know  things are different laughter ,sd,FEMALE,1
+"['things are different in the animal kingdom, {f huh. } /']",things are different in the animal kingdom f huh  ,bf,FEMALE,20
+"[""[ we might, +  {d right. } we might ] decide what's proper and what isn't,  /""]", we might   d right  we might  decide whats proper and what isnt  ,sd,FEMALE,1
+['{c but } --'],c but  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- {d you know, } that's the way it is for them. /""]", d you know  thats the way it is for them ,+,FEMALE,0
+"[""that's kind of the way they do it. /""]",thats kind of the way they do it ,bf,FEMALE,20
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""that's it. /""]",thats it ,aa,FEMALE,4
+['survival of the fittest or something. /'],survival of the fittest or something ,bf,FEMALE,20
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['{c because } if the baby is strong enough, it can swim away fast enough --']",c because  if the baby is strong enough it can swim away fast enough ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- and go hide. /'], and go hide ,+,FEMALE,0
+"['go hide from them,  /']",go hide from them  ,bf,FEMALE,20
+['{d well } --'],d well  ,qh,FEMALE,26
+['{d so. } -/'],d so  ,%,FEMALE,5
+"['-- {c and then, } you think, {d well, } how did they do it out in the real world anyway --']", c and then  you think d well  how did they do it out in the real world anyway ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['-- when these fish are in the tropicals or wherever they are --'], when these fish are in the tropicals or wherever they are ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- kind of trying to keep up with that,  /']", kind of trying to keep up with that  ,+,FEMALE,0
+"[""{c but. }  if you're like me, you never have enough time for the hobbies. /""]",c but   if youre like me you never have enough time for the hobbies ,qy^d,FEMALE,16
+"['no,  /']",no  ,nn,FEMALE,13
+['not really. /'],not really ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['[ i, + i  ] try.  /']", i  i   try  ,sd,FEMALE,1
+"['[ i also, + i  ] play a couple of instruments. /']", i also  i   play a couple of instruments ,sd,FEMALE,1

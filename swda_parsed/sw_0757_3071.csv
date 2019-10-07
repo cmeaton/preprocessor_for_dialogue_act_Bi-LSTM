@@ -1,0 +1,230 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<laughter>.'],laughter,x,FEMALE,8
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f um, } i guess we're supposed to talk about music. /""]",f um  i guess were supposed to talk about music ,sd,FEMALE,1
+['okay. /'],okay ,aa,FEMALE,4
+"['{c and, } {f uh, } let me go ahead and push one here.  /']",c and  f uh  let me go ahead and push one here  ,oo_co_cc,FEMALE,36
+"['<tone> {f uh, } do you ha-, - /']",tone f uh  do you ha  ,qy,FEMALE,7
+['are you a musician yourself? /'],are you a musician yourself ,qy,FEMALE,7
+"['{f uh, } {d well, } i sing. /']",f uh  d well  i sing ,na,FEMALE,21
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""i don't play an instrument. /""]",i dont play an instrument ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['where, - /']",where  ,%,FEMALE,5
+"['do you sing [ in, + in ]  a choir or a choral group? /']",do you sing  in  in   a choir or a choral group ,qy,FEMALE,7
+"['{f oh, } not right now. /']",f oh  not right now ,ng,FEMALE,29
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['what kind of singing do you like to do? /'],what kind of singing do you like to do ,qw,FEMALE,12
+"['<talking> {f oh, } pretty much anything. /']",talking f oh  pretty much anything ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{f um, }  [ [ [ are you, {f uh, } + [ are, + are, ] ] + have you, ] + have you ]  been singing a long time  /']",f um      are you f uh    are  are    have you   have you   been singing a long time  ,qy,FEMALE,7
+['{c or } have you studied? /'],c or  have you studied ,qrr,FEMALE,33
+"['{f oh, } yeah. /']",f oh  yeah ,ny,FEMALE,9
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['a long time out, all through college and everything  i was in the choirs. /']",a long time out all through college and everything  i was in the choirs ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c and } i've had some classical vocal training. /""]",c and  ive had some classical vocal training ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{f oh, } great.  /']",f oh  great  ,ba,FEMALE,6
+"['[ did, +  did ] you do that  in, {f uh, } texas, or somewhere else? /']", did   did  you do that  in f uh  texas or somewhere else ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['i was in europe. /'],i was in europe ,sd,FEMALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+['whereabouts? /'],whereabouts ,qw,FEMALE,12
+"['[ in, + {f uh, } in ] germany. /']", in  f uh  in  germany ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{f oh, } that's wonderful.  /""]",f oh  thats wonderful  ,ba,FEMALE,6
+"['{f um, } {d well, }  i likewise sang in high school and in college in choirs,  /']",f um  d well   i likewise sang in high school and in college in choirs  ,sd,FEMALE,1
+"[""{c and then } i didn't sing in a  choral group, {f um, } until after i was, {f uh, } married,  /""]",c and then  i didnt sing in a  choral group f um  until after i was f uh  married  ,sd,FEMALE,1
+"['{c and } i sang in a  couple of, {f uh, } community choirs, and  then <breathing> {f um, } waited for a while,  /']",c and  i sang in a  couple of f uh  community choirs and  then breathing f um  waited for a while  ,sd,FEMALE,1
+"[""{c and } now  [ i've, + for about the last eight years i've ] sung in a church choir here,""]",c and  now   ive  for about the last eight years ive  sung in a church choir here,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+['in texas.  /'],in texas  ,+,FEMALE,0
+"['{c and, } {f um, } {c so } [ i, + i ] enjoy,']",c and  f um  c so   i  i  enjoy,sd,FEMALE,1
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+"['(( just ))  the chorals singing a lot,']", just   the chorals singing a lot,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['as well.  /'],as well  ,+,FEMALE,0
+"['{f um, } are you a soprano, alto, or, -/']",f um  are you a soprano alto or ,qy,FEMALE,7
+['soprano. /'],soprano ,sd,FEMALE,1
+['a soprano.  /'],a soprano  ,b^m,FEMALE,24
+"['yeah,  so am i.  /']",yeah  so am i  ,sd,FEMALE,1
+"['do you, - /']",do you  ,qy,FEMALE,7
+"['{c and, } {f uh, }  what kind of music do you like  to sing?  /']",c and  f uh   what kind of music do you like  to sing  ,qw,FEMALE,12
+"['{f um, } you were saying you had classical training.  /']",f um  you were saying you had classical training  ,sd,FEMALE,1
+"['do you have a particular composer that you like or,']",do you have a particular composer that you like or,qy,FEMALE,7
+"['{f oh, } {d well, } /']",f oh  d well  ,%,FEMALE,5
+['a particular  (( type )) ? /'],a particular   type   ,+,FEMALE,0
+"[""as far as opera goes, i'm, i think most fond of verdi. /""]",as far as opera goes im i think most fond of verdi ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['<noise>.'],noise,x,FEMALE,8
+"[""i've been listening to, {f um, } [ some, + {f uh, } some ]  advertisements for madam butterfly,  /""]",ive been listening to f um   some  f uh  some   advertisements for madam butterfly  ,sd,FEMALE,1
+"[""{c and } i'm wondering [ if you, + if you ]  have ever done anything like that,  /""]",c and  im wondering  if you  if you   have ever done anything like that  ,sd,FEMALE,1
+"['[ have you ever done any, {f uh, } + [ if, +']", have you ever done any f uh    if ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['no, /']",no ,nn,FEMALE,13
+['if ] you had done madam butterfly. ] /'],if  you had done madam butterfly  ,+,FEMALE,0
+"[""i haven't done, <noise> {f uh, } - /""]",i havent done noise f uh   ,sd,FEMALE,1
+"[""i'd love to, /""]",id love to ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"[""{c but, } {f um, } that's, {f uh, } puccini, i think,  /""]",c but  f um  thats f uh  puccini i think  ,sd,FEMALE,1
+['right? /'],right ,^g,FEMALE,40
+"['uh-huh,  /']",uhhuh  ,ny,FEMALE,9
+"['yes,  /']",yes  ,ny,FEMALE,9
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+"['{f um, }  madam butterfly was, {f um, }']",f um   madam butterfly was f um ,sd,FEMALE,1
+['<cough>.'],cough,x,FEMALE,8
+"['in dallas,  /']",in dallas  ,+,FEMALE,0
+"[""it's been two or three years ago now,  /""]",its been two or three years ago now  ,sd,FEMALE,1
+"['{c and then }  i went to see that,  /']",c and then   i went to see that  ,sd,FEMALE,1
+"['{c and, }']",c and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['it was really wonderful.  /'],it was really wonderful  ,+,FEMALE,0
+"['it was particularly well, - /']",it was particularly well  ,sd,FEMALE,1
+"['the acting was particularly nice, i thought,  /']",the acting was particularly nice i thought  ,sd,FEMALE,1
+"['{c and, } {f um, } {c so, }']",c and  f um  c so ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['it was quite popular.  /'],it was quite popular  ,+,FEMALE,0
+"[""{f um, } you don't play, {f um, }  an instrument  /""]",f um  you dont play f um   an instrument  ,sd,FEMALE,1
+"['{c so, }']",c so ,qy,FEMALE,7
+"['{f uh, } {f um, } have you ever wanted to,  {d like } guitar or piano or <laughter>, -/']",f uh  f um  have you ever wanted to  d like  guitar or piano or laughter ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""[ that, + i think that's ]  always a good instrument for anybody who sings or does, {d you know, } some other kind of instrument,  /""]", that  i think thats   always a good instrument for anybody who sings or does d you know  some other kind of instrument  ,sv,FEMALE,3
+"['i think piano is always good background, /']",i think piano is always good background ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['beginner. - /'],beginner  ,%,FEMALE,5
+"['{f um, } i played piano [ all through, + ]  {d well, } i guess from the time i was [ fi-, + five ] until i graduated from college,  /']",f um  i played piano  all through    d well  i guess from the time i was  fi  five  until i graduated from college  ,sd,FEMALE,1
+"['{c and, } {f uh, } {c then } i was a piano teacher for a while while my husband was in graduate school,  /']",c and  f uh  c then  i was a piano teacher for a while while my husband was in graduate school  ,sd,FEMALE,1
+"['{c so, } {f um, } that was the instrument both of my children started on,  /']",c so  f um  that was the instrument both of my children started on  ,sd,FEMALE,1
+['{c but }  neither of them stayed with it <laughter>. /'],c but   neither of them stayed with it laughter ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['one of them, {f um, } turned into a violist,  /']",one of them f um  turned into a violist  ,sd,FEMALE,1
+"['{c and } the other one [ is, + the boy is, ] {f um, } guitar [ and, + and ] percussion,  /']",c and  the other one  is  the boy is  f um  guitar  and  and  percussion  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } {c but } the, - /']",f um  c but  the  ,%,FEMALE,5
+"['[ i, + i ]  think that the piano background is very, {f um, } useful,  /']", i  i   think that the piano background is very f um  useful  ,sv,FEMALE,3
+"[""{c and, } {f um, } i'm sure that [ it, + for you, it ]  would have been great to be able to accompany yourself,""]",c and  f um  im sure that  it  for you it   would have been great to be able to accompany yourself,sv,FEMALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,aa,FEMALE,4
+['just for practicing and so on. /'],just for practicing and so on ,+,FEMALE,0
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['do you have any other kind of music that you like? /'],do you have any other kind of music that you like ,qy,FEMALE,7
+"['{f um, } {f oh, } i like to listen to all different  kinds of music. /']",f um  f oh  i like to listen to all different  kinds of music ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['i have a, - /']",i have a  ,%,FEMALE,5
+"['i used to work with a  fellow who had, {f um, } - /']",i used to work with a  fellow who had f um   ,sd,FEMALE,1
+"['although this was a computer company, he had his, {f uh, } p h d in  musical, {f uh, } i guess it was in composition, {d actually, } from university of north   texas,  /']",although this was a computer company he had his f uh  p h d in  musical f uh  i guess it was in composition d actually  from university of north   texas  ,sd,FEMALE,1
+"['{c and, } {f uh, } {d yet } when i would go into [ his, +']",c and  f uh  d yet  when i would go into  his ,sd,FEMALE,1
+['<music>.'],music,x,FEMALE,8
+"[""his ] office every now and then, you never knew what  kind of music he'd be playing on the radio </music> <laughter>.  /""]",his  office every now and then you never knew what  kind of music hed be playing on the radio music laughter  ,+,FEMALE,0
+"['it may be country,  /']",it may be country  ,sd,FEMALE,1
+"['it might be classical,  /']",it might be classical  ,sd,FEMALE,1
+"['it might be rock, {d you know } -- /']",it might be rock d you know   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- it was just, he said [ that, + that ] just about  what you said, that he just liked all kinds of music. /']", it was just he said  that  that  just about  what you said that he just liked all kinds of music ,sd,FEMALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+['<noise>.'],noise,x,FEMALE,8
+"['{c and } [ that was, + that was ]  neat [ for, + for ] me to hear that somebody is, -/']",c and   that was  that was   neat  for  for  me to hear that somebody is ,sd,FEMALE,1
+"[""there's, {d you know, } some of the  really totally country stuff, i don't really particularly like  /""]",theres d you know  some of the  really totally country stuff i dont really particularly like  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{f um, } do you have any  plans to, {f uh, } do anything with your music in the near future  /']",f um  do you have any  plans to f uh  do anything with your music in the near future  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['{d well, } <breathing> [ i have, + i have ]  {d like, } we, - /']",d well  breathing  i have  i have   d like  we  ,sd,FEMALE,1
+['i wish i could -- /'],i wish i could  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c but } [ i, + i ] don't really know how  to go about it without having a degree /""]", c but   i  i  dont really know how  to go about it without having a degree ,sd,FEMALE,1
+"['{c or, } -/']",c or  ,%,FEMALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f um } <phone_ringing>, /']",f um  phoneringing ,%,FEMALE,5
+"[""i know that there are, if you're interested in  choral singing, - /""]",i know that there are if youre interested in  choral singing  ,sd,FEMALE,1
+"[""i'm not sure where,""]",im not sure where,sd,FEMALE,1
+['<phone_ringing>.'],phoneringing,x,FEMALE,8
+"['you are in texas,  /']",you are in texas  ,+,FEMALE,0
+"['{c but } i do know that some  communities have,']",c but  i do know that some  communities have,sd,FEMALE,1
+['<phone_ringing>.'],phoneringing,x,FEMALE,8
+"['{f uh, } community choruses  /']",f uh  community choruses  ,+,FEMALE,0
+"['{c and, }']",c and ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } that's often a good way to get back into it again.  /""]",f uh  thats often a good way to get back into it again  ,+,FEMALE,0
+"[""{f um, } it's not [ r-, + ] terribly demanding.  /""]",f um  its not  r   terribly demanding  ,sv,FEMALE,3
+"['you might have to audition,  /']",you might have to audition  ,sd,FEMALE,1
+"[""{c but }  that probably wouldn't be a problem,  /""]",c but   that probably wouldnt be a problem  ,sv,FEMALE,3
+"['{c but, } {f um, } <lipsmack>  there usually, {d you know, } - /']",c but  f um  lipsmack  there usually d you know   ,sd,FEMALE,1
+['that they take tours and things like that - /'],that they take tours and things like that  ,sd,FEMALE,1
+['{c and } you get to know --'],c and  you get to know ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {d you know, } people socially as well [ as, + as ]  in a musical setting,  /']", d you know  people socially as well  as  as   in a musical setting  ,+,FEMALE,0
+['{c so } --'],c so  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- that's always fun.  /""]", thats always fun  ,+,FEMALE,0
+"[""i think [ that's, + {d well, } that's ]  one reason why i have enjoyed my choir so much, is that not only do we  sing wonderful music,  /""]",i think  thats  d well  thats   one reason why i have enjoyed my choir so much is that not only do we  sing wonderful music  ,sd,FEMALE,1
+"[""{c but } we've gotten to know each other quite well, {f um, } [ in, + ]  on [ a, + a ] social level,  /""]",c but  weve gotten to know each other quite well f um   in    on  a  a  social level  ,sd,FEMALE,1
+"['[ {c and, } +']", c and  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } ] i think we sing better because of that.  /'],c and   i think we sing better because of that  ,+,FEMALE,0
+"['[ i think, + {d you know, }']", i think  d you know ,sd,FEMALE,1
+"[""that's good. /""]",thats good ,ba,FEMALE,6
+"['i think ] we sing more like, {f uh, } people who  trust each other <laughter>,']",i think  we sing more like f uh  people who  trust each other laughter,+,FEMALE,0
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['which is really nice.  /'],which is really nice  ,+,FEMALE,0
+"['{d so, } whereabouts in,']",d so  whereabouts in,qw,FEMALE,12
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+"['texas are you, if i could ask? /']",texas are you if i could ask ,+,FEMALE,0
+"[""{f oh, } i'm in flower mound. /""]",f oh  im in flower mound ,sd,FEMALE,1
+"['flower mound,  /']",flower mound  ,b^m,FEMALE,24
+['okay. /'],okay ,bk,FEMALE,14
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d well, } i'm in plano,  /""]",d well  im in plano  ,sd,FEMALE,1
+"[""{c so, }  {f um, } we're  just not too far apart, {d actually. } /""]",c so   f um  were  just not too far apart d actually  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's pretty close. /""]",thats pretty close ,sv,FEMALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['it was funny, {f um, } <lipsmack> {f uh, }  /']",it was funny f um  lipsmack f uh   ,sd,FEMALE,1
+"[""it's, {d you know, } - /""]",its d you know   ,%,FEMALE,5
+"['i talk to people all over, {f uh, } texas, {f um,  and only one person  outside [ of the coun-, + {f uh, } of the state, ]  /']",i talk to people all over f uh  texas f um  and only one person  outside  of the coun  f uh  of the state   ,sd,FEMALE,1
+"[""{c so } i'm always asking [ where, + where ]  in the state, {d you know, } the person is from if they're in texas. /""]",c so  im always asking  where  where   in the state d you know  the person is from if theyre in texas ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f um, } [ are, + do ] you have a family? /']",f um   are  do  you have a family ,qy,FEMALE,7
+"[""{f um, } i'm married. /""]",f um  im married ,na,FEMALE,21
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['i was wondering [ if your, + if your ]  spouse, - /']",i was wondering  if your  if your   spouse  ,qy^d,FEMALE,16
+"['{c or } [ if, + {d you know, } if ] you had, {f uh, } other musical people in your family. /']",c or   if  d you know  if  you had f uh  other musical people in your family ,qrr,FEMALE,33
+"[""<noise> i'm sorry? /""]",noise im sorry ,br,FEMALE,30
+"['{f uh, } if you have other people in your  family who are also musical. /']",f uh  if you have other people in your  family who are also musical ,qy^d,FEMALE,16
+"['{f oh, } a little bit. /']",f oh  a little bit ,na,FEMALE,21
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+['do you come by it naturally?  /'],do you come by it naturally  ,qy,FEMALE,7
+"['[ was your, + were your ]  parents that musical? /']", was your  were your   parents that musical ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['i think so. /'],i think so ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['that often is the case, {f um, }  /']",that often is the case f um   ,sv,FEMALE,3
+"['the, {d you know, } - /']",the d you know   ,%,FEMALE,5
+"[""[ [ it's, + it, ] + sometimes it ] will skip.  /""]",  its  it   sometimes it  will skip  ,sv,FEMALE,3
+"['like my husband is not  musical at all,  /']",like my husband is not  musical at all  ,sd,FEMALE,1
+"['{c but } his mother is very musical,  /']",c but  his mother is very musical  ,sd,FEMALE,1
+"['[ {c and, } + {f um, } {c and } ] his children  are very musical,  /']", c and   f um  c and   his children  are very musical  ,sd,FEMALE,1
+"['{c so } <laughter> you never know where the talent is going to show up, i guess, sometimes.  /']",c so  laughter you never know where the talent is going to show up i guess sometimes  ,sv,FEMALE,3
+"[""{c so, } {f um, } {d well, } i'm not sure how long we've talked. /""]",c so  f um  d well  im not sure how long weve talked ,sd,FEMALE,1
+"['i think, -/']",i think ,%,FEMALE,5
+"[""i [ haven't paid, + haven't been paying ]  attention [ to the, +  to the ] clock. /""]",i  havent paid  havent been paying   attention  to the   to the  clock ,sd,FEMALE,1
+"[""{c but, } {f uh, } i'll bet [ we've done, + we've done ] at least five minutes. /""]",c but  f uh  ill bet  weve done  weve done  at least five minutes ,sd,FEMALE,1
+['probably <laughter>. /'],probably laughter ,sd,FEMALE,1
+"[""<laughter> {d well, } i've enjoyed talking with you,""]",laughter d well  ive enjoyed talking with you,fc,FEMALE,10
+['okay. /'],okay ,fc,FEMALE,10
+"['{f uh, } becky,  /']",f uh  becky  ,+,FEMALE,0
+"[""{c and, } {f um, } maybe we'll talk again. /""]",c and  f um  maybe well talk again ,fc,FEMALE,10
+"['all right,  /']",all right  ,fc,FEMALE,10
+['thanks. /'],thanks ,ft,FEMALE,43
+['uh-huh.  /'],uhhuh  ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

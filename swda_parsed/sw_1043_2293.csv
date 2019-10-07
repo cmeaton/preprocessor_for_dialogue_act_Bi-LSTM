@@ -1,0 +1,154 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay. /'],okay ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{d well, } discussing air pollution today, i guess. /']",d well  discussing air pollution today i guess ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } {f uh, } {d well, } give me your first impressions. /']",f um  f uh  d well  give me your first impressions ,ad,MALE,22
+"[""{f uh, } i don't know,  /""]",f uh  i dont know  ,h,FEMALE,15
+"[""there's a lot of air pollution. /""]",theres a lot of air pollution ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['{f um, } i think industries and companies provide a lot of it -- /']",f um  i think industries and companies provide a lot of it  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and, }  [ with, +  {f uh, } i guess with ] the oil burning over in kuwait and stuff, that would have a lot of air pollution in it. /']", c and    with   f uh  i guess with  the oil burning over in kuwait and stuff that would have a lot of air pollution in it ,sv,FEMALE,3
+"['{f uh, } puts a whole, - /']",f uh  puts a whole  ,%,MALE,5
+"['yeah,  /']",yeah  ,%,MALE,5
+"['gets a whole new picture to what real air pollution can be,  /']",gets a whole new picture to what real air pollution can be  ,sv,MALE,3
+"['{c but, } {f uh, } that stuff going on over there. - /']",c but  f uh  that stuff going on over there  ,sv,MALE,3
+"['[ [ what, + what, ] + {f uh, } what ] part of pennsylvania are you in? /']",  what  what   f uh  what  part of pennsylvania are you in ,qw,MALE,12
+"[""{f um, } i'm north of pittsburgh,  /""]",f um  im north of pittsburgh  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['okay,  /']",okay  ,bk,MALE,14
+"['okay,  /']",okay  ,b,MALE,2
+"[""{c so, } [ it's, + it's ] amazing too, {d you know, } [ with that, + with the ] oil wells burning over there, that's the exact same stuff that's coming out of cars every day, [ just in, + {f uh, } just in ] a little different # grade, i guess. # /""]",c so   its  its  amazing too d you know   with that  with the  oil wells burning over there thats the exact same stuff thats coming out of cars every day  just in  f uh  just in  a little different  grade i guess  ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""{c but, } {f uh, } in dallas, [ we've got, + we've ] just, {f uh, } brought in a whole new set of requirements on inspections and things like that for cars, because, {f uh, } people just don't use mass transit and stuff in dallas.  /""]",c but  f uh  in dallas  weve got  weve  just f uh  brought in a whole new set of requirements on inspections and things like that for cars because f uh  people just dont use mass transit and stuff in dallas  ,sd,MALE,1
+"['everybody loves their car,  /']",everybody loves their car  ,sv,MALE,3
+"['{c and } you see an awful lot of, {f uh, } one person vehicles on the road [ on, + ] during rush hours.  /']",c and  you see an awful lot of f uh  one person vehicles on the road  on   during rush hours  ,sd,MALE,1
+['that seems to be our biggest problem down here.  /'],that seems to be our biggest problem down here  ,sv,MALE,3
+"[""{f um, } {d you know, } [ there's, + {f uh, } there's ] a lot of industry around,  /""]",f um  d you know   theres  f uh  theres  a lot of industry around  ,sd,MALE,1
+"[""{c but, } {f uh, } [ it's not, + it's ] - /""]",c but  f uh   its not  its   ,%,MALE,5
+"[""any pollution that industry's dumping around here is not going into the air.  /""]",any pollution that industrys dumping around here is not going into the air  ,sv,MALE,3
+"[""it's typically water <laughter> type situation. /""]",its typically water laughter type situation ,sv,MALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{f um. } [ we have a couple, + we have ] {d like } a steel mill and a couple refineries and stuff,  /']",f um   we have a couple  we have  d like  a steel mill and a couple refineries and stuff  ,sd,FEMALE,1
+"[""{c and } i know there's a lot of air pollution going in there,  /""]",c and  i know theres a lot of air pollution going in there  ,sv,FEMALE,3
+"['{c and } {d like } [ they, + they ] get fined whenever they do the air pollution -- /']",c and  d like   they  they  get fined whenever they do the air pollution  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c but } the fine is nothing, {d you know, } /']", c but  the fine is nothing d you know  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""# [ it's, + it's, ] #""]",  its  its  ,sv,MALE,3
+"[""# it's like # nothing to them. /""]", its like  nothing to them ,^2,FEMALE,23
+"['[ like, + like ] two hours of output or something like that. /']", like  like  two hours of output or something like that ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah, /']",yeah ,b,FEMALE,2
+"[""that's true,  /""]",thats true  ,ba,MALE,6
+"[""that's true. /""]",thats true ,ba,MALE,6
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ i, + [ a, + ] {f uh, } i ] grew up in south dakota,  /']", i   a   f uh  i  grew up in south dakota  ,sd,MALE,1
+"['{c so } [ i was never, + <laughter> i was never ] exposed --']",c so   i was never  laughter i was never  exposed ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- to anything [ [ of, + of ] the, + of the ] sort.  /']", to anything   of  of  the  of the  sort  ,+,MALE,0
+"['{f um, } there were always e p a people {c and } what not were always telling us that, {f uh, } farm chemicals and what not were destroying our water system and all that -- /']",f um  there were always e p a people c and  what not were always telling us that f uh  farm chemicals and what not were destroying our water system and all that  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but } [ we just, + we  just ] never saw the results.  /']", c but   we just  we  just  never saw the results  ,sd,MALE,1
+"['[  there was, + there was ] dust in the air during planting seasons and what not,  /']",  there was  there was  dust in the air during planting seasons and what not  ,sd,MALE,1
+"['{c but } [ that, + that ] was all we ever saw,  /']",c but   that  that  was all we ever saw  ,sd,MALE,1
+"['{c and then } five years ago i moved to dallas,  /']",c and then  five years ago i moved to dallas  ,sd,MALE,1
+"[""{c and } i suddenly started to understand what burning eyes, and all that stuff is about that i'd always heard about.  /""]",c and  i suddenly started to understand what burning eyes and all that stuff is about that id always heard about  ,sd,MALE,1
+"[""[ [ [  it, + {f uh, } it's, ] + it gets, ] + it's ] real depressing.  /""]",    it  f uh  its   it gets   its  real depressing  ,sd,MALE,1
+"[""in the morning sometime you can tell if it's a good day or a bad day by, {f uh, } how far out from downtown, {f uh, } you can be on the road and still not see it. /""]",in the morning sometime you can tell if its a good day or a bad day by f uh  how far out from downtown f uh  you can be on the road and still not see it ,sd,MALE,1
+"['{f oh, } my god <laughter>. /']",f oh  my god laughter ,ba,FEMALE,6
+"['<laughter> {c and, } {f uh, } yeah,  /']",laughter c and  f uh  yeah  ,%,MALE,5
+"[""{e i mean, } it's not, - /""]",e i mean  its not  ,%,MALE,5
+"[""i don't think dallas is considered, {f uh, } a real bad place for air pollution,  /""]",i dont think dallas is considered f uh  a real bad place for air pollution  ,sv,MALE,3
+"[""{c but, } [ [ you, + you ] can tell, + you can tell ] the differences in the days, [ when it's, + when ] the haze is kind of yellowish gray instead of just being [ a, + a ] foggy, misty # color # -- /""]",c but    you  you  can tell  you can tell  the differences in the days  when its  when  the haze is kind of yellowish gray instead of just being  a  a  foggy misty  color   ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""-- {c and, } {f uh, } [ [ it, + it's ] a little, + it's a little ] disappointing sometimes you start to realize what you're breathing. /""]", c and  f uh    it  its  a little  its a little  disappointing sometimes you start to realize what youre breathing ,sd,MALE,1
+"['{f uh, } yeah,  /']",f uh  yeah  ,b,FEMALE,2
+"[""{c but, } i don't know what they can do to really prevent it, {d you know. } - /""]",c but  i dont know what they can do to really prevent it d you know   ,sd,FEMALE,1
+"['{d like, } how, - /']",d like  how  ,%,FEMALE,5
+['what can they do about the oil burning over in kuwait?  /'],what can they do about the oil burning over in kuwait  ,qh,FEMALE,26
+"['what, {d you know, } - /']",what d you know   ,%,FEMALE,5
+"['{e i mean } they fine the industries,  /']",e i mean  they fine the industries  ,sd,FEMALE,1
+"[""{c but } {d you know, } that doesn't seem to stop them # there # -- /""]",c but  d you know  that doesnt seem to stop them  there   ,sv,FEMALE,3
+['# right. # /'], right  ,b,MALE,2
+"[""-- i don't know what else they can do. /""]", i dont know what else they can do ,sd,FEMALE,1
+['right.  /'],right  ,b,MALE,2
+"[""[ it, + it's ] that there really isn't a whole lot.  /""]", it  its  that there really isnt a whole lot  ,sv,MALE,3
+"[""[  it's one of those, + {f uh, } <throat_clearing> it's one of those ] things that if they do a little bit [ and, + {f uh, } and, ] {d you know, } [ e-, + every ] little bit does help,  /""]",  its one of those  f uh  throatclearing its one of those  things that if they do a little bit  and  f uh  and  d you know   e  every  little bit does help  ,sv,MALE,3
+['i do believe that.  /'],i do believe that  ,h,MALE,15
+"['{f um, } {c but } i also believe that the earth is a kind of a self-regulating system,  /']",f um  c but  i also believe that the earth is a kind of a selfregulating system  ,sd,MALE,1
+"['{c and, } {f uh, } it will clean itself up, eventually.  /']",c and  f uh  it will clean itself up eventually  ,sv,MALE,3
+"['it, - /']",it  ,%,MALE,5
+"['the whole idea is [ not to, + not to ] push the limit too hard, i guess -- /']",the whole idea is  not to  not to  push the limit too hard i guess  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ let the, + {d you know, } let the ] [ natural, + natural ] systems take care of the problem as much as possible. /']",  let the  d you know  let the   natural  natural  systems take care of the problem as much as possible ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ i, + i, ] - /']", i  i   ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i just don't understand, {d you know, } what else anyone can do about it.  /""]",i just dont understand d you know  what else anyone can do about it  ,sd,FEMALE,1
+"[""i don't think it's something that people really think about, either. /""]",i dont think its something that people really think about either ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{d you know, } [ [ it's, + {e i mean, } it, ] + it ] should probably be a big issue, {d you know, } because [ it's, + it's ] doing a lot of damage,  /""]",d you know    its  e i mean  it   it  should probably be a big issue d you know  because  its  its  doing a lot of damage  ,sv,FEMALE,3
+"['{c but } i, - /']",c but  i  ,%,FEMALE,5
+"[""it's something, {d you know, } - /""]",its something d you know   ,sv,FEMALE,3
+"[""i don't think many people really think about it, because it's nothing they, - /""]",i dont think many people really think about it because its nothing they  ,sv,FEMALE,3
+"[""i don't think we really have too much control over it. /""]",i dont think we really have too much control over it ,sv,FEMALE,3
+['right.  /'],right  ,b,MALE,2
+"[""{c and } it's one of those things, - /""]",c and  its one of those things  ,sv,MALE,3
+"[""[ it, + it's ] so hard to measure [ what, + what ] the damage is -- /""]", it  its  so hard to measure  what  what  the damage is  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""--  it's kind of like,  {f oh, } - /""]",  its kind of like  f oh   ,sv,MALE,3
+"[""i guess it's [ kind of like,  + kind of like ] cigarette smoking, {d you know. }  /""]",i guess its  kind of like   kind of like  cigarette smoking d you know   ,sv,MALE,3
+"[""[ it, + it ] could go on for years and years until they start to see some results and people can [ actually, + actually ] say, yeah, [ [ it's, + it's, ] + it's ] [ doing, + doing ] some damage --""]", it  it  could go on for years and years until they start to see some results and people can  actually  actually  say yeah   its  its   its   doing  doing  some damage ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- and something's got to be done.  /""]", and somethings got to be done  ,+,MALE,0
+"[""{f um, } [ there's, + {d you know, } there's ] a lot of things like that.  /""]",f um   theres  d you know  theres  a lot of things like that  ,sv,MALE,3
+"['it, - /']",it  ,%,MALE,5
+"['[ you can, + {f uh, } you can ] pound on something for a long time before it finally breaks,  /']", you can  f uh  you can  pound on something for a long time before it finally breaks  ,sv,MALE,3
+"[""{c but } until it breaks, you don't really know that [ there, + ] you were doing anything to it. /""]",c but  until it breaks you dont really know that  there   you were doing anything to it ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['exactly. /'],exactly ,ba,FEMALE,6
+"['{c but, } {f uh, } -/']",c but  f uh  ,%,MALE,5
+"[""{d well, } i really don't know <laughter> too much else about it. /""]",d well  i really dont know laughter too much else about it ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{d well, [ } that's, + that's, ] - /""]",d well   thats  thats   ,%,MALE,5
+"[""i think we both agree [ it's, + it's ] one of those deals that, {f uh, } - /""]",i think we both agree  its  its  one of those deals that f uh   ,sv,MALE,3
+"[""i just think there's a lot of other problems right now -- /""]",i just think theres a lot of other problems right now  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, } {f uh, } we've done a lot to take care of it. /""]", c and  f uh  weve done a lot to take care of it ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['we have tried, - /']",we have tried  ,sv,FEMALE,3
+"['{e i mean, } {d you know, } {c and, } {f um, } [ i, + i ] know [ where, + {d you know, } where ] a couple of the mills that have, - /']",e i mean  d you know  c and  f um   i  i  know  where  d you know  where  a couple of the mills that have  ,sd,FEMALE,1
+"['i know they put things on their stacks, {d you know, } to filter the smoke, and do all kinds of things,  /']",i know they put things on their stacks d you know  to filter the smoke and do all kinds of things  ,sd,FEMALE,1
+"['{c but, } {e i mean, } every now and then it breaks, {d you know, }  /']",c but  e i mean  every now and then it breaks d you know   ,sd,FEMALE,1
+['[ {c and } + --'], c and   ,sd,FEMALE,1
+"['{f oh, } sure. /']",f oh  sure ,b,MALE,2
+"['-- {c and } ] you just have smoke going out into the air for a day or two, until you can get it fixed. /']", c and   you just have smoke going out into the air for a day or two until you can get it fixed ,+,FEMALE,0
+['sure. /'],sure ,b,MALE,2
+"[""[ {c and so, } + {c so, } ] {d you know, } it's something [ we, + we ] have tried to help. /""]", c and so   c so   d you know  its something  we  we  have tried to help ,sd,FEMALE,1
+"[""{f oh, } there's no doubt about it. /""]",f oh  theres no doubt about it ,ba,MALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i don't know if you ever happened to see some of the {d like, } twenty twenty and what not about rumania and east germany when they first got pictures out of there --""]",i dont know if you ever happened to see some of the d like  twenty twenty and what not about rumania and east germany when they first got pictures out of there ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- about how some of their systems had been running for twenty and thirty years -- /'], about how some of their systems had been running for twenty and thirty years  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {f uh, } {d you know, } they had absolutely no regulations, no controls whatsoever,  /']", c and  f uh  d you know  they had absolutely no regulations no controls whatsoever  ,sd,MALE,1
+"['{c and } they had destroyed entire forests and what not, just because the air was so polluted.  /']",c and  they had destroyed entire forests and what not just because the air was so polluted  ,sd,MALE,1
+"[""[ that's, + that's ] the kind of things that, {f uh, } you don't see in this country,  /""]", thats  thats  the kind of things that f uh  you dont see in this country  ,sv,MALE,3
+"[""{c and } [ that's, + that's ] why i think that, {d you know, } it's, - /""]",c and   thats  thats  why i think that d you know  its  ,sv,MALE,3
+"[""i don't know if you can ever do enough,  /""]",i dont know if you can ever do enough  ,sv,MALE,3
+"[""{c but, } {f uh, } i think it's all relative [ to the, + to the ] time and place,  /""]",c but  f uh  i think its all relative  to the  to the  time and place  ,sv,MALE,3
+"[""{c and } i think right now [ it's, + it's ] pretty much under control. /""]",c and  i think right now  its  its  pretty much under control ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['okay,  /']",okay  ,%,FEMALE,5
+['{d well. } -/'],d well  ,%,FEMALE,5
+['all righty. /'],all righty ,fc,MALE,10
+['uh-huh.  /'],uhhuh  ,fc,FEMALE,10
+"[""it's been nice talking to you. /""]",its been nice talking to you ,fc,FEMALE,10
+"['{d well, } you bet. /']",d well  you bet ,fc,MALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye. /'],bye ,fc,MALE,10

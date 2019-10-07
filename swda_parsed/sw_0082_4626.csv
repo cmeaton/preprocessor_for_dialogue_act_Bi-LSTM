@@ -1,0 +1,121 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay <laughter>. /'],okay laughter ,"fo_o_fw_""_by_bc",MALE,0
+['how are you?  /'],how are you  ,qo,MALE,25
+['you want to go ahead and start talking about whether you budget # <laughter>? # /'],you want to go ahead and start talking about whether you budget  laughter  ,qy,MALE,7
+['# ((yes)). #  /'], yes   ,ny,MALE,9
+['yeah.  /'],yeah  ,ny,MALE,9
+"['{d well } [ [ [ i-, + i, ] + i, ] + i ] feel like, {f uh, } i am from mars.  /']",d well     i  i   i   i  feel like f uh  i am from mars  ,sd,MALE,1
+"[""{e i mean } i'm fifty years old  /""]",e i mean  im fifty years old  ,sd,MALE,1
+"[""{c and, } {f uh, } i've been divorced for, {f um, } eighteen years.  /""]",c and  f uh  ive been divorced for f um  eighteen years  ,sd,MALE,1
+"[""{c but } i've two kids and all.  /""]",c but  ive two kids and all  ,sd,MALE,1
+"[""{c but } [ [ i, + {f uh, } i, ] + i've ] never had a budget  /""]",c but    i  f uh  i   ive  never had a budget  ,sd,MALE,1
+"[""{c and } i don't, {f uh, } do any planning  /""]",c and  i dont f uh  do any planning  ,sd,MALE,1
+"[""{c and } i don't know, /""]",c and  i dont know ,h,MALE,15
+['<noise>.'],noise,x,MALE,8
+"[""(( )) [ i don't, + {f uh, } {f uh, } i don't ] have a long-term financial plan.  /""]",   i dont  f uh  f uh  i dont  have a longterm financial plan  ,sd,MALE,1
+"[""i don't try to control my expenses. /""]",i dont try to control my expenses ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""{c but } [ i'm, + i'm ] glad you're a stranger. /""]",c but   im  im  glad youre a stranger ,sd,MALE,1
+['<laughter> that sounds kind of like me. /'],laughter that sounds kind of like me ,sv,MALE,3
+"[""{c but, } really, [ [ [ [ i'm, + i happy, ] + i, ] + i, ] + {d well } i'm ] curious how other people live.  /""]",c but  really     im  i happy   i   i   d well  im  curious how other people live  ,sd,MALE,1
+"['{f uh, } {c so } maybe we should start with you <laughter>.  /']",f uh  c so  maybe we should start with you laughter  ,sd,MALE,1
+['what do you do? /'],what do you do ,qw,MALE,12
+['about the same thing. /'],about the same thing ,sd,MALE,1
+['really? /'],really ,bh,MALE,18
+['yeah. /'],yeah ,ny,MALE,9
+['oh.  /'],oh  ,b,MALE,2
+"[""maybe  they're going to arrest us both. /""]",maybe  theyre going to arrest us both ,sd,MALE,1
+"[""i'm even in worse shape because i have eight children  /""]",im even in worse shape because i have eight children  ,sd,MALE,1
+"['{c and, } {f uh, } we live from hand to mouth <laughter>.  /']",c and  f uh  we live from hand to mouth laughter  ,sd,MALE,1
+"[""we hope that there's enough money at the end of the month to pay for the bills and if there's not, then we <laughter> (( )) due for the next month. /""]",we hope that theres enough money at the end of the month to pay for the bills and if theres not then we laughter   due for the next month ,sd,MALE,1
+['wow. /'],wow ,ba,MALE,6
+"[""a couple of times we've tried some things  /""]",a couple of times weve tried some things  ,sd,MALE,1
+['{c and } they worked  /'],c and  they worked  ,sd,MALE,1
+"[""{c but } i'm not disciplined enough <swallowing> to keep doing it. /""]",c but  im not disciplined enough swallowing to keep doing it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['the best program we ever had is at the beginning of the month we [ took and, + {f uh, } took ] my check and divided it out into envelopes --']",the best program we ever had is at the beginning of the month we  took and  f uh  took  my check and divided it out into envelopes ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- and then paid for the expenses out of that envelope  /'], and then paid for the expenses out of that envelope  ,+,MALE,0
+"[""{c and } when the envelope was empty <laughter>, then you didn't have any more money to spend in that area. /""]",c and  when the envelope was empty laughter then you didnt have any more money to spend in that area ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } that worked out real well cause we didn't have to keep writing down what we'd spent. /""]",c and  that worked out real well cause we didnt have to keep writing down what wed spent ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['<swallowing> it was just that when that was empty, you knew you were out of money.  /']",swallowing it was just that when that was empty you knew you were out of money  ,sd,MALE,1
+['{c and } we did that pretty successfully for about three months  /'],c and  we did that pretty successfully for about three months  ,sd,MALE,1
+['{c and then } we started <laughter> borrowing from one envelope to put it in the other envelope  /'],c and then  we started laughter borrowing from one envelope to put it in the other envelope  ,sd,MALE,1
+['{c and } in about two months we were back to doing the same thing we always do. /'],c and  in about two months we were back to doing the same thing we always do ,sd,MALE,1
+"['{f huh. } the, {f uh, } - /']",f huh  the f uh   ,%,MALE,5
+"['i had a part-time job around, {f oh } gosh, fifteen years ago, seventy-six, /']",i had a parttime job around f oh  gosh fifteen years ago seventysix ,sd,MALE,1
+['<noise>.'],noise,x,MALE,8
+"['{c and, } {f uh, } {f uh, } this was a sort of a career shift at the time  /']",c and  f uh  f uh  this was a sort of a career shift at the time  ,sd,MALE,1
+['{c and so } i was willing to take a half time job to do that.  /'],c and so  i was willing to take a half time job to do that  ,sd,MALE,1
+"['{c and } i actually did, - /']",c and  i actually did  ,sd,MALE,1
+"['my bank account would, {f uh, } - /']",my bank account would f uh   ,sd,MALE,1
+"[""[ [ i'd, + i, ] + i ] kept  bouncing checks, just at the end of the month  /""]",  id  i   i  kept  bouncing checks just at the end of the month  ,sd,MALE,1
+"['{c but } [ i, + i ] had miscalculated.  /']",c but   i  i  had miscalculated  ,sd,MALE,1
+"[""[ i, + {d well } i ] didn't keep a balance <laughter>.  /""]", i  d well  i  didnt keep a balance laughter  ,sd,MALE,1
+"[""it's one of the problems <<speaks this very faintly>>. /""]",its one of the problems speaks this very faintly ,sv,MALE,3
+['<laughter>.'],laughter,x,MALE,8
+['i never had to in the past. /'],i never had to in the past ,sd,MALE,1
+['<noise>.'],noise,x,MALE,8
+"['i always kept plenty of money in my checking account,  /']",i always kept plenty of money in my checking account  ,sd,MALE,1
+"[""{c but } when you're only earning half the salary. even though i wasn't spending much money, [ i sometimes + i sometimes ] would just, - /""]",c but  when youre only earning half the salary even though i wasnt spending much money  i sometimes  i sometimes  would just  ,sd,MALE,1
+['things would get to tight.  /'],things would get to tight  ,sd,MALE,1
+"['{f uh, } {c and } sometimes what i would do is keep a piece of paper in my wallet  /']",f uh  c and  sometimes what i would do is keep a piece of paper in my wallet  ,sd,MALE,1
+"['{c and } every time [ i, + {f uh, } i ] spent money, {e i mean } cash mostly, i would, {f uh, } write it down --']",c and  every time  i  f uh  i  spent money e i mean  cash mostly i would f uh  write it down ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- so i could see at the end of a month how much i spent on food so i could do better planning. /'], so i could see at the end of a month how much i spent on food so i could do better planning ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c but } i would forget to write the things down  /'],c but  i would forget to write the things down  ,sd,MALE,1
+"[""{c and } [ [ [ it, + that ] + i, ] + i ] don't know if i ever went as far as three months or not <laughter> [ [ i-, + i-, ] + in ] keeping that kind of data.  /""]",c and     it  that   i   i  dont know if i ever went as far as three months or not laughter   i  i   in  keeping that kind of data  ,sd,MALE,1
+"[""i certainly haven't done that in sixteen years or whatever. /""]",i certainly havent done that in sixteen years or whatever ,sd,MALE,1
+"[""i even find now {d like } with the automatic tellers, i'll go take money out of that -- /""]",i even find now d like  with the automatic tellers ill go take money out of that  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- {c and then } i forget to take that <laughter> out of my  checking account. /'], c and then  i forget to take that laughter out of my  checking account ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+['yeah. /'],yeah ,b,MALE,2
+"[""{c so } [ [ i, + i, ] + i ] leave a little bit of a slush fund in my checking account [ and i figure that, + ] so the balance showing in the checking account is always somewhat different that what's really there. /""]",c so    i  i   i  leave a little bit of a slush fund in my checking account  and i figure that   so the balance showing in the checking account is always somewhat different that whats really there ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } i figure that gives me room for the mistakes i make. /'],c and  i figure that gives me room for the mistakes i make ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['the, {f uh, } - /']",the f uh   ,%,MALE,5
+"['[ [ i, + i-, ] + i ] have to say that,  /']",  i  i   i  have to say that  ,sd,MALE,1
+"[""let's see, at this point on, i don't run out of money.  /""]",lets see at this point on i dont run out of money  ,sd,MALE,1
+"['{f uh, } {c and } it, {f uh, } - /']",f uh  c and  it f uh   ,%,MALE,5
+"[""[ {c a-, } + {c and } ] i don't, {e i mean } - /""]", c a   c and   i dont e i mean   ,%,MALE,5
+"[""someday, if i were to get remarried i might want to buy a house which requires lots of money which i don't have  /""]",someday if i were to get remarried i might want to buy a house which requires lots of money which i dont have  ,sd,MALE,1
+"['{c and } [ [ i, + i, ] + i ] think my strategy [ if, + if ] i may, [ [ [ i-, + i-, ] + is to, ] + is to ] not spend money.  /']",c and    i  i   i  think my strategy  if  if  i may    i  i   is to   is to  not spend money  ,sd,MALE,1
+"[""{e i mean } i don't have expensive tastes.  /""]",e i mean  i dont have expensive tastes  ,sd,MALE,1
+"[""i don't go out.  /""]",i dont go out  ,sd,MALE,1
+"['{e i mean } i buy a car,  /']",e i mean  i buy a car  ,sd,MALE,1
+"[""{d well } the last car i got rid of i'd had, - /""]",d well  the last car i got rid of id had  ,sd,MALE,1
+['it was nineteen years old. /'],it was nineteen years old ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['[ pe-, + people ] were embarrassed for me.  /']", pe  people  were embarrassed for me  ,sd,MALE,1
+"['# {e i mean } [ it was, + it was ] a good car  /']", e i mean   it was  it was  a good car  ,sv,MALE,3
+"['{c and, } # -/']",c and   ,%,MALE,5
+['# <laughter>. #  {c ((but } it was)) still running. /'], laughter   c but  it was still running ,bf,MALE,20
+"['{f oh, } it was great.  /']",f oh  it was great  ,sv,MALE,3
+"['[ my, + my ] mechanics loved it because [ it was an old, + it was a sixty-five ] buick  /']", my  my  mechanics loved it because  it was an old  it was a sixtyfive  buick  ,sd,MALE,1
+"[""{c and } it just wouldn't stop.  /""]",c and  it just wouldnt stop  ,sd,MALE,1
+"['{f uh, } {c and } it, - /']",f uh  c and  it  ,%,MALE,5
+"[""[ i, + i ] just didn't feel the need for a new car.  /""]", i  i  just didnt feel the need for a new car  ,sd,MALE,1
+"[""it isn't like i couldn't afford one. /""]",it isnt like i couldnt afford one ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{f uh, } {c and } now, {e i mean } [ i, + i ] don't, {f uh, } - /""]",f uh  c and  now e i mean   i  i  dont f uh   ,%,MALE,5
+['i tend to eat expensive food.  /'],i tend to eat expensive food  ,sd,MALE,1
+"[""{e i mean } i don't mind buying a good steak  /""]",e i mean  i dont mind buying a good steak  ,sd,MALE,1
+"['{c but } for me, i only do that every week or, [ without even, + ]']",c but  for me i only do that every week or  without even  ,sd,MALE,1
+['<child_talking>.'],childtalking,x,MALE,8
+"['{e i mean, } maybe once a month. /']",e i mean  maybe once a month ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['{e i mean } you buy [ a, + a ] tenderloin steak, it costs outrageous, {d like } twelve dollars a pound.  /']",e i mean  you buy  a  a  tenderloin steak it costs outrageous d like  twelve dollars a pound  ,sd,MALE,1
+"[""you buy [ a, + a, ] less than half a pound so it's six or seven dollars.  /""]",you buy  a  a  less than half a pound so its six or seven dollars  ,sd,MALE,1
+"[""to me, i realize if you have eight kids you're not going to run out and do that. /""]",to me i realize if you have eight kids youre not going to run out and do that ,sv,MALE,3
+['<laughter> not very often <noise>. /'],laughter not very often noise ,aa,MALE,4
+"[""[ {c but, } + {c but } ] [ i'm just, + i'm just ] saying as a single person, [ that's, + that's ] a drop in the bucket.  /""]", c but   c but    im just  im just  saying as a single person  thats  thats  a drop in the bucket  ,sv,MALE,3
+"[""{c and so } if you're extravagant on how you buy food, it doesn't add up.  [ if you're buying, + {e i mean } if you're not going ] to super expensive restaurants, which i don't care to go to. /""]",c and so  if youre extravagant on how you buy food it doesnt add up   if youre buying  e i mean  if youre not going  to super expensive restaurants which i dont care to go to ,sv,MALE,3
+"[""that's right. /""]",thats right ,aa,MALE,4
+"[""[ so, + so ] that's, i think, one of the reasons i don't need to budget is that [ [ i don't have, + i don't, ] + i don't have ] to hold myself back from buying that expensive thing because i can't afford it, because i'm not interested in that expensive thing. /""]", so  so  thats i think one of the reasons i dont need to budget is that   i dont have  i dont   i dont have  to hold myself back from buying that expensive thing because i cant afford it because im not interested in that expensive thing ,sd,MALE,1
+"['((a lot of)), -/']",a lot of ,%,MALE,5

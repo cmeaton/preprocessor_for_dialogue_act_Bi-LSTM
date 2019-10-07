@@ -1,0 +1,178 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } let me see,  /']",d well  let me see  ,^h,MALE,27
+['what have you seen lately? /'],what have you seen lately ,qw,MALE,12
+"['{d well, } {f uh, } city slickers, and star trek five. /']",d well  f uh  city slickers and star trek five ,sd,MALE,1
+['five? /'],five ,qy,MALE,7
+"['yeah <laughter>,  /']",yeah laughter  ,ny,MALE,9
+['yeah. /'],yeah ,ny,MALE,9
+"['y-, - /']",y  ,%,MALE,5
+"['[ only, + only ] five? /']", only  only  five ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['<laughter>.'],laughter,x,MALE,8
+"[""i thought i'd better see that one before i go and see six. /""]",i thought id better see that one before i go and see six ,sd,MALE,1
+"['<throat_clearing> {d well, } no,  /']",throatclearing d well  no  ,ar,MALE,28
+"[""didn't need to. /""]",didnt need to ,sv,MALE,3
+"['no,  /']",no  ,aa,MALE,4
+['i found that out <laughter>. /'],i found that out laughter ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+['how about yourself? /'],how about yourself ,qo,MALE,25
+['i just saw the latest one. /'],i just saw the latest one ,sd,MALE,1
+['how is it? /'],how is it ,qw,MALE,12
+['it was fantastic. /'],it was fantastic ,sd,MALE,1
+"[""{f oh, } i can't wait. /""]",f oh  i cant wait ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""it's, - /""]",its  ,%,MALE,5
+['the lines in there were just  perfect.  /'],the lines in there were just  perfect  ,sd,MALE,1
+"['{e i mean, } it was classic trek. /']",e i mean  it was classic trek ,sd,MALE,1
+"['{d now, } does the old star trek guys meet the new guys? /']",d now  does the old star trek guys meet the new guys ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+['huh-uh. /'],huhuh ,nn,MALE,13
+"['no,  /']",no  ,b,MALE,2
+"[""it's just the old guys still. /""]",its just the old guys still ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+['it was just a rumor that that would  happen this time.  /'],it was just a rumor that that would  happen this time  ,sv,MALE,3
+"['however, the rumor [ is, + is ] that it will  [ happen next, + happen next ] time  /']",however the rumor  is  is  that it will   happen next  happen next  time  ,sv,MALE,3
+"['{c so, } -/']",c so  ,%,MALE,5
+"['you know, that i read in [ people or somewhere, +   {e no, } it was u s a today ] -- /']",you know that i read in  people or somewhere    e no  it was u s a today   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- that they said they weren't going to do anymore.  /""]", that they said they werent going to do anymore  ,sd,MALE,1
+['that was it. /'],that was it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but, } -/']",c but  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{f uh, } except that the rumor [ is, + is ]  that they still might,  /']",f uh  except that the rumor  is  is   that they still might  ,sv,MALE,3
+['{c but } it may not include the entire crew  /'],c but  it may not include the entire crew  ,sv,MALE,3
+['{c and } it will be a next  generation meets this generation <throat_clearing>. /'],c and  it will be a next  generation meets this generation throatclearing ,sv,MALE,3
+['{f huh. } /'],f huh  ,b,MALE,2
+"['{d so, } -/']",d so  ,%,MALE,5
+"[""i'm not sure what the difference in light years  between the new generation and [ the, + the ] old guys was. /""]",im not sure what the difference in light years  between the new generation and  the  the  old guys was ,qw^d,MALE,41
+"[""i think it's a hundred years. /""]",i think its a hundred years ,sd,MALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+['somewhere in that range.  /'],somewhere in that range  ,sd,MALE,1
+"['considering that  spock was on [ an, + ] {f uh, } {d you know, } couple weeks ago --']",considering that  spock was on  an   f uh  d you know  couple weeks ago ,sd,MALE,1
+"[""{f oh, } that's right. /""]",f oh  thats right ,aa,MALE,4
+"['-- and that [ the, + the ] very first episode of  next generation, they had mccoy. /']", and that  the  the  very first episode of  next generation they had mccoy ,+,MALE,0
+['is that right?  /'],is that right  ,bh,MALE,18
+['he was --'],he was ,qy,MALE,7
+"['{c and, } -/']",c and  ,%,MALE,5
+['-- a doctor  --'], a doctor  ,+,MALE,0
+['uh-huh. /'],uhhuh ,ny,MALE,9
+['-- still? /'], still ,+,MALE,0
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['{d well, } {d you know, } he was rear  admiral, whatever, {d you know, }  /']",d well  d you know  he was rear  admiral whatever d you know   ,sd,MALE,1
+['{c and } he just kind of hobbled down the halls real slow.  /'],c and  he just kind of hobbled down the halls real slow  ,sd,MALE,1
+['vulcans age a lot better <laughter>. /'],vulcans age a lot better laughter ,sv,MALE,3
+"['{d well, } yeah,  /']",d well  yeah  ,aa,MALE,4
+"[""he didn't look too bad, did he? /""]",he didnt look too bad did he ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+['huh-uh.  /'],huhuh  ,nn,MALE,13
+"['matter of fact, he looks just as about as  old  and the, {f uh, } next generation as he does in the latest star trek <laughter>.  /']",matter of fact he looks just as about as  old  and the f uh  next generation as he does in the latest star trek laughter  ,sd,MALE,1
+['imagine that. /'],imagine that ,ba,MALE,6
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""that's amazing. /""]",thats amazing ,ba,MALE,6
+['<laughter>.'],laughter,x,MALE,8
+"['{c but, }  did they have some pretty good special effects? /']",c but   did they have some pretty good special effects ,qy,MALE,7
+"['<throat_clearing>  {f oh, } excellent,  excellent special effects.  /']",throatclearing  f oh  excellent  excellent special effects  ,na,MALE,21
+"['{c but } i think the script was, {d you know, } just incredible compared to the last one. /']",c but  i think the script was d you know  just incredible compared to the last one ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['[ five was, +  the script was ] bad, bad, bad <laughter>. /']", five was   the script was  bad bad bad laughter ,sv,MALE,3
+"['{d well, } you know why? /']",d well  you know why ,qh,MALE,26
+"['no,  /']",no  ,nn,MALE,13
+"[""i don't.  /""]",i dont  ,sd,MALE,1
+['why? /'],why ,qw,MALE,12
+"['{f uh, } william shatner wrote it. /']",f uh  william shatner wrote it ,sd,MALE,1
+"['{f oh, } is that right? /']",f oh  is that right ,bh,MALE,18
+"['{c and } even worse, he directed it. /']",c and  even worse he directed it ,sd,MALE,1
+"['{f uh, } /']",f uh  ,b,MALE,2
+['<laughter>.'],laughter,x,MALE,8
+"['[ l-, +   leonard, ] [ s-, + ] nimoy, he does a lot better. /']", l    leonard   s   nimoy he does a lot better ,sv,MALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,MALE,4
+"[""[ he, + in fact, {f uh, } he ] didn't direct  this one.  /""]", he  in fact f uh  he  didnt direct  this one  ,sd,MALE,1
+['he produced this one <throat_clearing>.  /'],he produced this one throatclearing  ,sd,MALE,1
+"['{c but } he directed the one  before, {f uh, } i think star trek four, something like that. /']",c but  he directed the one  before f uh  i think star trek four something like that ,sd,MALE,1
+"['[ in search of spock, +  {e or, } {e no, } journey home, ]  i think that was. /']", in search of spock   e or  e no  journey home   i think that was ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+['uh-huh. /'],uhhuh ,aa,MALE,4
+"[""[ are, + you're ] a real life trekkie? /""]", are  youre  a real life trekkie ,qy,MALE,7
+"['l-, - /']",l  ,%,MALE,5
+['i think so <laughter>. /'],i think so laughter ,na,MALE,21
+['i really like them.  /'],i really like them  ,sd,MALE,1
+"[""[ i, + i ] wouldn't go so far as  being a trekkie,  /""]", i  i  wouldnt go so far as  being a trekkie  ,sd,MALE,1
+['{c but } -- -/'],c but   ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } /']", f uh  ,b,MALE,2
+"[""{d well, } i've gone to, {d you know, } one for real  live trek convention  /""]",d well  ive gone to d you know  one for real  live trek convention  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['i saw james doohan, {d you know, } the guy  that plays, {f uh, } scotty. /']",i saw james doohan d you know  the guy  that plays f uh  scotty ,sd,MALE,1
+"['{f huh, }  did you get to talk to him? /']",f huh   did you get to talk to him ,qy,MALE,7
+['no <laughter>. /'],no laughter ,nn,MALE,13
+['it was --'],it was ,sd,MALE,1
+['not in a crowd like that. /'],not in a crowd like that ,qy^d,MALE,16
+['-- crowded. /'], crowded ,+,MALE,0
+['huh-uh. /'],huhuh ,b,MALE,2
+['no. /'],no ,nn,MALE,13
+"['it was like, {f uh, } want an autograph, want to stand  in line for about four hours. /']",it was like f uh  want an autograph want to stand  in line for about four hours ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['<laughter>.'],laughter,x,MALE,8
+['wow. /'],wow ,ba,MALE,6
+['<throat_clearing> it was a pretty crowded place. /'],throatclearing it was a pretty crowded place ,sd,MALE,1
+['{f huh. }  they have some good management principals in  this new generation. /'],f huh   they have some good management principals in  this new generation ,sd,MALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i, - /']",i  ,%,MALE,5
+"[""[ it's, + it's ] kind  of funny.  /""]", its  its  kind  of funny  ,sd,MALE,1
+"['i, {f uh, } was reading in, {f uh, } a book.  {f uh, } trying to think, - /']",i f uh  was reading in f uh  a book  f uh  trying to think  ,sd,MALE,1
+"[""i can't quite remember the  name of the book,  /""]",i cant quite remember the  name of the book  ,sd,MALE,1
+"[""{c but } [ it was, + it was ] saying don't do star  trek management style.  /""]",c but   it was  it was  saying dont do star  trek management style  ,sd,MALE,1
+"['{c and } they were referring to, {d you know, } captain kirk,  /']",c and  they were referring to d you know  captain kirk  ,sd,MALE,1
+"['every time he left  the enterprise, everything went to hell. /']",every time he left  the enterprise everything went to hell ,sd,MALE,1
+['oh. /'],oh ,b,MALE,2
+['<laughter> {c and } nothing got righted until he got  back up on the ship <laughter>. /'],laughter c and  nothing got righted until he got  back up on the ship laughter ,sd,MALE,1
+"['right,  /']",right  ,b,MALE,2
+"['{c so } he kind of was a cowboy type, too. /']",c so  he kind of was a cowboy type too ,qy^d,MALE,16
+['uh-huh /'],uhhuh ,ny,MALE,9
+['made all the decisions  /'],made all the decisions  ,qy^d,MALE,16
+"['{c but, }  {f uh, }  jean luke does more of [ a, + a, ]']",c but   f uh   jean luke does more of  a  a ,sv,MALE,3
+['<throat_clearing>.'],throatclearing,x,MALE,8
+['committee type of management. /'],committee type of management ,+,MALE,0
+"['uh-huh,  /']",uhhuh  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""{f uh, } it's definitely a lot better  <laughter>.  a lot more realistic really. /""]",f uh  its definitely a lot better  laughter  a lot more realistic really ,sv,MALE,3
+['what other movies have you seen? /'],what other movies have you seen ,qw,MALE,12
+"['{f uh, } saw the addams family last week. /']",f uh  saw the addams family last week ,sd,MALE,1
+"['{f oh, } how was that? /']",f oh  how was that ,qw,MALE,12
+['<throat_clearing> it was pretty good.  /'],throatclearing it was pretty good  ,sd,MALE,1
+"['{f uh, } there were a few things different than the old series,  /']",f uh  there were a few things different than the old series  ,sd,MALE,1
+"['{c but } [ on the, + on the ]   whole, it was pretty similar.  and, <breathing> a lot of fun. /']",c but   on the  on the    whole it was pretty similar  and breathing a lot of fun ,sd,MALE,1
+"['lots of little funny spots, {f huh. } /']",lots of little funny spots f huh  ,qy,MALE,7
+"['{f oh, } yeah,  /']",f oh  yeah  ,ny,MALE,9
+['yeah. /'],yeah ,ny,MALE,9
+['did they have thing  /'],did they have thing  ,qy,MALE,7
+"['{c and, } -/']",c and  ,%,MALE,5
+"['{f oh, } yes,  /']",f oh  yes  ,ny,MALE,9
+"['in fact, thing has a [ big, + much bigger ]  role than he does in the series.  /']",in fact thing has a  big  much bigger   role than he does in the series  ,sd,MALE,1
+"['{e i mean, } {d you know, } there is lots of  areas where thing saves the day. /']",e i mean  d you know  there is lots of  areas where thing saves the day ,sd,MALE,1
+['really? /'],really ,bh,MALE,18
+['{c and } he runs around a lot. /'],c and  he runs around a lot ,sd,MALE,1
+"['how did, - /']",how did  ,%,MALE,5
+"[""i've always wondered how he gets around. /""]",ive always wondered how he gets around ,qw^d,MALE,41
+"['{f uh, } {d you know, } just finger hopping. /']",f uh  d you know  just finger hopping ,sd,MALE,1
+"[""{c but } he's in a box, right? /""]",c but  hes in a box right ,qy,MALE,7
+"['<laughter> no,  /']",laughter no  ,nn,MALE,13
+"['no,  /']",no  ,nn,MALE,13
+"['no,  /']",no  ,nn,MALE,13
+"[""in fact, it's funny.  /""]",in fact its funny  ,sd,MALE,1
+"[""he never [ did, +  does ] come in out of a box, i don't think.  /""]",he never  did   does  come in out of a box i dont think  ,sd,MALE,1
+"['yeah,  /']",yeah  ,%,MALE,5
+['he was just  kind of walking around. /'],he was just  kind of walking around ,sd,MALE,1
+"[""didn't he used to? /""]",didnt he used to ,qy,MALE,7
+['not really.  /'],not really  ,ng,MALE,29
+['he was always --'],he was always ,sd,MALE,1
+['oh. /'],oh ,bk,MALE,14
+['-- in the box before. /'], in the box before ,+,MALE,0
+"[""{f oh, } [ that's, + {d yeah, } that's, ] okay. /""]",f oh   thats  d yeah  thats  okay ,bk,MALE,14
+['yeah. /'],yeah ,b,MALE,2
+"['yeah,  /']",yeah  ,b^m,MALE,24
+"[""that's what i was thinking. /""]",thats what i was thinking ,sd,MALE,1

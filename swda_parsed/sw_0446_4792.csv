@@ -1,0 +1,162 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""i'm nevin from sunnyvale, california. /""]",im nevin from sunnyvale california ,sd,MALE,1
+"['hi,  /']",hi  ,fp,MALE,32
+"['this is jim bliss from minneapolis, minnesota.  /']",this is jim bliss from minneapolis minnesota  ,sd,MALE,1
+['how you doing? /'],how you doing ,fp,MALE,32
+['pretty good. /'],pretty good ,fp,MALE,32
+['good.   /'],good   ,fp,MALE,32
+"['{f uh, } i guess the topic is trial by jury and --']",f uh  i guess the topic is trial by jury and ,sd,MALE,1
+['yep. /'],yep ,aa,MALE,4
+['-- how we should change that or how we would change it.   /'], how we should change that or how we would change it   ,+,MALE,0
+"[""{f uh,  } i'm ready whenever you are. /""]",f uh   im ready whenever you are ,sd,MALE,1
+['okay <beep>. /'],okay beep ,bk,MALE,14
+"['{d so, }  {f uh, } [ what are your, + what are your ] thoughts on the subject there? /']",d so   f uh   what are your  what are your  thoughts on the subject there ,qw,MALE,12
+"['{d well } i definitely think, {d like } decisions have to be unanimous. /']",d well  i definitely think d like  decisions have to be unanimous ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""i think that's probably a good thing. /""]",i think thats probably a good thing ,sv,MALE,3
+"[""it's probably the safest thing. /""]",its probably the safest thing ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""{e i mean, } it's to easy to get a quorum -- /""]",e i mean  its to easy to get a quorum  ,sv,MALE,3
+['yep <laughter>. /'],yep laughter ,aa,MALE,4
+"[""-- {c and } simple majority won't do. /""]", c and  simple majority wont do ,sv,MALE,3
+['<laughter> no.  /'],laughter no  ,aa,MALE,4
+"[""{c and } even {d like, } {d you know, } two-thirds majority, {e i mean, } it's <laughter>, -/""]",c and  even d like  d you know  twothirds majority e i mean  its laughter ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's, - /""]",thats  ,%,MALE,5
+"['yeah,  /']",yeah  ,aa,MALE,4
+['quorums are to easy to get. /'],quorums are to easy to get ,sv,MALE,3
+['yep. /'],yep ,aa,MALE,4
+"[""{c and } there's always [ that, + that ] chance that one or two people could be playing devil's advocate for a good reason, {d you know. } /""]",c and  theres always  that  that  chance that one or two people could be playing devils advocate for a good reason d you know  ,sv,MALE,3
+"[""{c so } [ it's, + it's ] -- -/""]",c so   its  its   ,%,MALE,5
+['-- definitely  /'], definitely  ,%,MALE,5
+"[""{c but, }  {f uh, } i don't know.   /""]",c but   f uh  i dont know   ,h,MALE,15
+"[""[ i could, + i couldn't ] believe they suggested that judges should be doing the sentencing. /""]", i could  i couldnt  believe they suggested that judges should be doing the sentencing ,sd,MALE,1
+['yeah.  /'],yeah  ,aa,MALE,4
+['(( {d like } ))  gives them a little too much power <laughter>. /'], d like    gives them a little too much power laughter ,sv,MALE,3
+['yeah <laughter>.  /'],yeah laughter  ,aa,MALE,4
+"['tha-, - /']",tha  ,%,MALE,5
+"['[ i, + i  ] know of a couple of people at least who would be arguing with that.  or arguing against that pretty vehemently.  /']", i  i   know of a couple of people at least who would be arguing with that  or arguing against that pretty vehemently  ,sd,MALE,1
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,MALE,5
+"['{c plus, } {d you know, } you may be, {d you know, } doing, {d you know, } [ a, + a ] guilty verdict  /']",c plus  d you know  you may be d you know  doing d you know   a  a  guilty verdict  ,sd,MALE,1
+"['{c but } [ it may not be, + {d you know, } it may be ] for technical reasons <laughter>. /']",c but   it may not be  d you know  it may be  for technical reasons laughter ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"['about the only good thing i would say about  that is [ it  w-, + that it would, ] {f uh, } hurry the process up a bit -- /']",about the only good thing i would say about  that is  it  w  that it would  f uh  hurry the process up a bit  ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""-- {c but } {e i mean } even now [ we've got, + i know  we've got ] plenty of cases out there where people have been wrongly convicted and things like that #  /""]", c but  e i mean  even now  weve got  i know  weve got  plenty of cases out there where people have been wrongly convicted and things like that   ,sd,MALE,1
+['{c and } # --'],c and   ,%,MALE,5
+['# i # know  ((   )) . /'], i  know       ,aa,MALE,4
+"[""-- that's what the trial by jury. - /""]", thats what the trial by jury  ,+,MALE,0
+"['{e i mean, } jeez [ if, + if ] the judge was doing it himself, without any checks and balances --']",e i mean  jeez  if  if  the judge was doing it himself without any checks and balances ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['-- # whose to say. # /'],  whose to say  ,+,MALE,0
+"['# it, - /']", it  ,%,MALE,5
+['there would be # much more of that <laughter>. /'],there would be  much more of that laughter ,sv,MALE,3
+['yeah <laughter>  /'],yeah laughter  ,aa,MALE,4
+['no doubt.  /'],no doubt  ,aa,MALE,4
+['are you involved in the legal system at all? /'],are you involved in the legal system at all ,qy,MALE,7
+['no.  /'],no  ,nn,MALE,13
+['#  (( {c but } [ i + )) . #'],   c but   i    ,sd,MALE,1
+['# okay. # /'], okay  ,bk,MALE,14
+"[""i ] tend to follow it [ just to, + just to ] know what's going on. /""]",i  tend to follow it  just to  just to  know whats going on ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"[""i've got some friends that are lawyers  /""]",ive got some friends that are lawyers  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+['i do too  /'],i do too  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+['one of them just got his law degree.  /'],one of them just got his law degree  ,sd,MALE,1
+"[""{c but, }  {f uh, } to tell you the truth, i'm not real familiar with, {f uh, } the system of [ juris-, + jurisprudence ] the way it is right now. /""]",c but   f uh  to tell you the truth im not real familiar with f uh  the system of  juris  jurisprudence  the way it is right now ,sd,MALE,1
+['# no. # /'], no  ,aa,MALE,4
+"[""# i # really haven't studied it in depth. /""]", i  really havent studied it in depth ,sd,MALE,1
+['yeah.  /'],yeah  ,aa,MALE,4
+"['i know a little more about civil cases [ when, + than ] criminal cases.']",i know a little more about civil cases  when  than  criminal cases,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['which is, <snorting> - /']",which is snorting  ,+,MALE,0
+"[""it's more in how you present it versus, {d you know, } who's right. /""]",its more in how you present it versus d you know  whos right ,sv,MALE,3
+"[""i'm sure of it.  /""]",im sure of it  ,aa,MALE,4
+"[""{c because } a lot of those things, [ [ it's all, + it's in, ] + it's ] largely a matter of viewpoint.""]",c because  a lot of those things   its all  its in   its  largely a matter of viewpoint,sv,MALE,3
+['yep. /'],yep ,b,MALE,2
+['and who can argue their case better. /'],and who can argue their case better ,+,MALE,0
+"[""{f uh, } it's kind of weird.  /""]",f uh  its kind of weird  ,sv,MALE,3
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"[""[ you + <laughter> i ] always think about watching the people's court or something.""]", you  laughter i  always think about watching the peoples court or something,sd,MALE,1
+['and how weird those cases get. /'],and how weird those cases get ,+,MALE,0
+"[""it's just, -/""]",its just ,%,MALE,5
+['yeah. /'],yeah ,b,MALE,2
+"[""-- {d like, } {d you know, } you [ go + say ] okay, we can't bring up this point because then they're going to, {d you know, } - /""]", d like  d you know  you  go  say  okay we cant bring up this point because then theyre going to d you know   ,sd,MALE,1
+"['the opposition will say this, this and this and <laughter> <throat_clearing>, -/']",the opposition will say this this and this and laughter throatclearing ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""{c and } it's like, boy, the stuff that they can twist around --""]",c and  its like boy the stuff that they can twist around ,sd,MALE,1
+['yep <laughter>. /'],yep laughter ,b,MALE,2
+"['-- is, - /']", is  ,+,MALE,0
+"[""it's pretty amazing. /""]",its pretty amazing ,sv,MALE,3
+"[""{c and } it's like [ the, + the ] truth isn't really important anymore.  /""]",c and  its like  the  the  truth isnt really important anymore  ,sv,MALE,3
+"[""it's, -/""]",its ,%,MALE,5
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""it's not.  /""]",its not  ,aa,MALE,4
+"['{c and } then you get people [ who, + who ] bring in cases just because they want to bring them up just because. /']",c and  then you get people  who  who  bring in cases just because they want to bring them up just because ,sd,MALE,1
+['yep. /'],yep ,b,MALE,2
+"[""{d like } [ this, + this ] friend of mine's pretty obnoxious  /""]",d like   this  this  friend of mines pretty obnoxious  ,sd,MALE,1
+['{c and } he really gets into suing people. /'],c and  he really gets into suing people ,sd,MALE,1
+"[""{c and so } [ he'll, + he'll ] sue just about anybody just for the chance to get into court,""]",c and so   hell  hell  sue just about anybody just for the chance to get into court,sd,MALE,1
+"['and argue his case <laughter> {d you know, }  /']",and argue his case laughter d you know   ,+,MALE,0
+"['{c but, } -/']",c but  ,%,MALE,5
+"[""it is. ] +  it's, ] + it's ] wasting people's time  and the taxpayers' money and  everything else.  /  *[[aa,sv]]""]",it is    its   its  wasting peoples time  and the taxpayers money and  everything else    aasv,+,MALE,0
+"['# {c but, }  {f uh, } # -/']", c but   f uh   ,%,MALE,5
+['# yeah  /'], yeah  ,b,MALE,2
+"[""{c but } # it's for the more general, - /""]",c but   its for the more general  ,%,MALE,5
+"[""people don't want to take responsibility. /""]",people dont want to take responsibility ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""# {d you know, } it's, # -/""]", d you know  its  ,%,MALE,5
+"[""# [ {c and, } + {c and ] } # most of the time they're looking to place blame.  # {f uh } # --""]",  c and   c and    most of the time theyre looking to place blame   f uh   ,sv,MALE,3
+['# yep <laughter>. # /'], yep laughter  ,b,MALE,2
+['-- and stuff.  /'], and stuff  ,+,MALE,0
+"[""{d see, } you're from california,  /""]",d see  youre from california  ,sd,MALE,1
+['is that right? /'],is that right ,qy,MALE,7
+"['{f uh, } yeah.  /']",f uh  yeah  ,ny,MALE,9
+['{d well } originally from chicago  /'],d well  originally from chicago  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+"['{f oh, } okay.  /']",f oh  okay  ,bk,MALE,14
+['i was just thinking  /'],i was just thinking  ,sd,MALE,1
+"['[ i wonder, + i wonder ] [ how, + how  ] the civil system or the court system must differ between there and {d say } where i am in minneapolis.  #  ((   ))  # /']", i wonder  i wonder   how  how   the civil system or the court system must differ between there and d say  where i am in minneapolis          ,qw^d,MALE,41
+"['# i really, # -/']", i really  ,%,MALE,5
+"[""from what i understand, it's all pretty the same except when you get to louisiana. /""]",from what i understand its all pretty the same except when you get to louisiana ,sd,MALE,1
+"['{c and } louisiana is completely different cause it was based on the, - /']",c and  louisiana is completely different cause it was based on the  ,sd,MALE,1
+"['what is it,  /']",what is it  ,^h,MALE,27
+"[""it's based on common law  /""]",its based on common law  ,sd,MALE,1
+['{c and } --'],c and  ,sd,MALE,1
+['-- the rest of the country is not or something like that. /'], the rest of the country is not or something like that ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+['pretty strange.  /'],pretty strange  ,sv,MALE,3
+"['{c but, }  {f uh, } fortunately i never have had to go in --']",c but   f uh  fortunately i never have had to go in ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""i haven't either other than, -/""]",i havent either other than ,aa,MALE,4
+"['-- [ even, + even ] for jury duty.  /']",  even  even  for jury duty  ,+,MALE,0
+"[""{c but, }  {f uh, } that friend of mine's telling me that i might have to go in [ for, + {f uh, } as ] a witness.  /""]",c but   f uh  that friend of mines telling me that i might have to go in  for  f uh  as  a witness  ,sd,MALE,1
+['he may subpoena me. /'],he may subpoena me ,sd,MALE,1
+"[""{c so } we'll see what happens.  /""]",c so  well see what happens  ,sd,MALE,1
+"['{c but, }  {f uh, } -/']",c but   f uh  ,%,MALE,5
+"[""i'm not really sure how we could change the legal system to make it better.   ((   )) . /""]",im not really sure how we could change the legal system to make it better        ,sd,MALE,1
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""it's, - /""]",its  ,%,MALE,5
+"['there are too many big problems, {d you know. }  /']",there are too many big problems d you know   ,sv,MALE,3
+"[""[ there's, + there's ] such a backlog of court cases right now.""]", theres  theres  such a backlog of court cases right now,sd,MALE,1
+['i know. /'],i know ,aa,MALE,4
+"['{d you know, } to try to get them all [ in + in ] a good time  /']",d you know  to try to get them all  in  in  a good time  ,+,MALE,0
+['{c and } we already have too many lawyers as it is. /'],c and  we already have too many lawyers as it is ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{c and } if it's criminal cases [ we, + you ] can't put them in jail because there's no room left. /""]",c and  if its criminal cases  we  you  cant put them in jail because theres no room left ,sd,MALE,1
+['yeah.  /'],yeah  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's true.  /""]",thats true  ,aa,MALE,4
+"[""{c and, }  in fact, they're even letting some go. /""]",c and   in fact theyre even letting some go ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""[ [ i, +  i, ] + i'm ] originally from florida  /""]",  i   i   im  originally from florida  ,sd,MALE,1
+"[""{c and } [ it's like -- +""]",c and   its like  ,sd,MALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+"[""-- it seems like ] every year they let out more and more just cause they don't have room for them, {d you know. }   /""]", it seems like  every year they let out more and more just cause they dont have room for them d you know    ,+,MALE,0
+"[""[ that's not a, + that's not a ] good solution either. /""]", thats not a  thats not a  good solution either ,sv,MALE,3
+['not at all. /'],not at all ,aa,MALE,4
+"[""i'm not real sure what the, -/""]",im not real sure what the ,sd,MALE,1

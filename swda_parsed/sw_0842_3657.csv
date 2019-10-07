@@ -1,0 +1,135 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay jerry. /'],okay jerry ,"fo_o_fw_""_by_bc",MALE,0
+"['ok-, -/']",ok ,"fo_o_fw_""_by_bc",MALE,0
+"[""i guess, {f uh, } tonight's topic is about, {f uh, } personal computers and level of interest [ and, + {f uh, } and ] [ your, + your ] expertise. /""]",i guess f uh  tonights topic is about f uh  personal computers and level of interest  and  f uh  and   your  your  expertise ,sd,MALE,1
+['<laughter> oops <laughter>. /'],laughter oops laughter ,b,MALE,2
+['<laughter>.'],laughter,x,MALE,8
+"['{f oh, } {d well. } -/']",f oh  d well  ,b,MALE,2
+"['{f oh, } {d well. } -/']",f oh  d well  ,b,MALE,2
+"['{d well, } okay,  /']",d well  okay  ,b,MALE,2
+"[""{d well, } [ let's, + let's ] fire away.  /""]",d well   lets  lets  fire away  ,ad,MALE,22
+"['{f uh, } {d well, } brian, /']",f uh  d well  brian ,%,MALE,5
+['okay.  /'],okay  ,aa,MALE,4
+"['{d well, } first of all, - /']",d well  first of all  ,%,MALE,5
+['you want me to start off? /'],you want me to start off ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""[ [ why don't you, + why don't we, ] + why don't you ] do about thirty seconds  /""]",  why dont you  why dont we   why dont you  do about thirty seconds  ,ad,MALE,22
+"[""{c and } i'll do thirty seconds  /""]",c and  ill do thirty seconds  ,oo_co_cc,MALE,36
+['{c and then } we can work off of there. /'],c and then  we can work off of there ,ad,MALE,22
+"['okay,  /']",okay  ,aa,MALE,4
+"['[ real, + real ] fine.  /']", real  real  fine  ,aa,MALE,4
+"['{f uh, } first of all, {f uh, } yes,  /']",f uh  first of all f uh  yes  ,sd,MALE,1
+"['{f uh, } i do own a p c here at home  /']",f uh  i do own a p c here at home  ,sd,MALE,1
+['{c and } i also have one at the office.  /'],c and  i also have one at the office  ,sd,MALE,1
+['{c and } my level of interest is quite high with p c -s  /'],c and  my level of interest is quite high with p c s  ,sd,MALE,1
+"['{c and } [ i was really, + i am really ] interested in them, however, not to the extent as i was about, {f uh, } two years ago when i basically knew about everything there was to know about different things  /']",c and   i was really  i am really  interested in them however not to the extent as i was about f uh  two years ago when i basically knew about everything there was to know about different things  ,sd,MALE,1
+['{c and } that was the time when we were shopping for one.  /'],c and  that was the time when we were shopping for one  ,sd,MALE,1
+"['{c and } i think we got a top of the line at that time,  /']",c and  i think we got a top of the line at that time  ,sd,MALE,1
+"['{c but, } {f uh, } as you know p c -s change quite rapidly  /']",c but  f uh  as you know p c s change quite rapidly  ,sd,MALE,1
+['{c and } the technological advances kind of outdated our p c where i can get the same p c i got two years ago at the fraction of the cost.  /'],c and  the technological advances kind of outdated our p c where i can get the same p c i got two years ago at the fraction of the cost  ,sd,MALE,1
+['{c and } i also enjoy using ours at home  /'],c and  i also enjoy using ours at home  ,sd,MALE,1
+"['{c and } we use it for [ a, + a ] number of different things.  /']",c and  we use it for  a  a  number of different things  ,sd,MALE,1
+"['plus i get in [ a lot, + an awful lot ] of good use of one at [ work, + where i work. ]  /']",plus i get in  a lot  an awful lot  of good use of one at  work  where i work   ,sd,MALE,1
+"['lot of, {f uh, } analytical, {f uh, } testing, reviews, {f uh, } lot of different things i use it [ at h-, + at ] work,  /']",lot of f uh  analytical f uh  testing reviews f uh  lot of different things i use it  at h  at  work  ,sd,MALE,1
+['{c so } i enjoy p c -s  /'],c so  i enjoy p c s  ,sd,MALE,1
+"['{c and } [ they, + they ] make my [ w-, + ] life and my work a lot easier.  /']",c and   they  they  make my  w   life and my work a lot easier  ,sd,MALE,1
+['how about yourself? /'],how about yourself ,qo,MALE,25
+"['{d well, } {f uh, } since, {f uh, } - /']",d well  f uh  since f uh   ,%,MALE,5
+"[""{d well, } i guess since this time last year i've changed, {f uh, } jobs within the firm i'm with -- /""]",d well  i guess since this time last year ive changed f uh  jobs within the firm im with  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- <lipsmack> {c and, } {f uh, } i now am learning to be a sys admin [ on, + on, ] not only p c -s, but, {f uh, } [ pers-, + ] {f uh, } professional work stations --']", lipsmack c and  f uh  i now am learning to be a sys admin  on  on  not only p c s but f uh   pers   f uh  professional work stations ,sd,MALE,1
+['wow. /'],wow ,ba,MALE,6
+['-- as well. /'], as well ,+,MALE,0
+['all right. /'],all right ,ba,MALE,6
+"['{c and } these are the big mamas, i. e. sons, {f uh, } hewlett packards, {f uh } --']",c and  these are the big mamas i e sons f uh  hewlett packards f uh  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } [ sor-, + ] {f uh, } <lipsmack> {f oh, } the big solburns [ and, + and ] so forth. /']", f uh   sor   f uh  lipsmack f oh  the big solburns  and  and  so forth ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['{c and, } {f uh, } <breathing> h-, - /']",c and  f uh  breathing h  ,%,MALE,5
+"['[ {c and, } + {c and, } ] {f uh, } we have, {f uh, } two p c -s here.  /']", c and   c and   f uh  we have f uh  two p c s here  ,sd,MALE,1
+"['we have, {f uh, } an x t  /']",we have f uh  an x t  ,sd,MALE,1
+"['{c and then } recently [ we, + we ] made [ a, + ] [ the + ] command decision to go ahead and get, {f uh, } the absolute top of the line because spouse is a, {f uh, } programmer. /']",c and then  recently  we  we  made  a    the   command decision to go ahead and get f uh  the absolute top of the line because spouse is a f uh  programmer ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and so } we got one [ that, +']",c and so  we got one  that ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['{f oh, } yes. /']",f oh  yes ,b,MALE,2
+"['<laughter> {c so, } {f uh, } [ i, + i ] get to see all kinds of different applications. /']",laughter c so  f uh   i  i  get to see all kinds of different applications ,sd,MALE,1
+"[""sounds like you're an expert at it, too. /""]",sounds like youre an expert at it too ,sv,MALE,3
+"['no,  /']",no  ,bd,MALE,38
+['no. /'],no ,bd,MALE,38
+['<laughter>.'],laughter,x,MALE,8
+"['learning,  /']",learning  ,bd,MALE,38
+"[""[ i'm learning t-, + i'm learning to ] be, {f uh, } one who knows what's he's doing -- /""]", im learning t  im learning to  be f uh  one who knows whats hes doing  ,bd,MALE,38
+['yes. /'],yes ,b,MALE,2
+"['-- {c but, } expert,  /']", c but  expert  ,qh,MALE,26
+['no <laughter>. /'],no laughter ,nn,MALE,13
+"['{f oh, } {d well, } {d well. } -/']",f oh  d well  d well  ,%,MALE,5
+"['i frown on [ that, +  that ] term because, {f uh, } too many people, [ s-, + ] {d you know, } {f uh, } misuse the word  /']",i frown on  that   that  term because f uh  too many people  s   d you know  f uh  misuse the word  ,sv,MALE,3
+['<laughter>.'],laughter,x,MALE,8
+"['{c but } [ my area, + [ m-, + ] my level ] of expertise is increasing almost daily. /']",c but   my area   m   my level  of expertise is increasing almost daily ,sd,MALE,1
+"[""{d well, } that's great, be-, -/""]",d well  thats great be ,ba,MALE,6
+"['{c and, } {f uh, } yeah,  /']",c and  f uh  yeah  ,b,MALE,2
+"[""{c so, } i've got a p c and a work station at work  /""]",c so  ive got a p c and a work station at work  ,sd,MALE,1
+['{c and } i -- -/'],c and  i  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } we have two p c -s here [ w-, + ] at home. /']", c and  we have two p c s here  w   at home ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['{c and } the, - /']",c and  the  ,%,MALE,5
+"[""a lot of [ [ the, + the, ] + the ] new mama we're, {f uh, } - /""]",a lot of   the  the   the  new mama were f uh   ,sd,MALE,1
+"[""i've got aldus and, {f uh, } micrographics on it as far as, {f uh, } technical publishing  /""]",ive got aldus and f uh  micrographics on it as far as f uh  technical publishing  ,sd,MALE,1
+"['{c and } we do [ a, + ] quite a bit of church work with ours. /']",c and  we do  a   quite a bit of church work with ours ,sd,MALE,1
+['great. /'],great ,ba,MALE,6
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+"['we do an awful lot of that, too <laughter> with ours. /']",we do an awful lot of that too laughter with ours ,sd,MALE,1
+"['{d you know, } some, - /']",d you know  some  ,%,MALE,5
+"[""[ [ i, + i, ] + i've ] found that, {f uh, } the more we do with it, {f uh, } - /""]",  i  i   ive  found that f uh  the more we do with it f uh   ,sd,MALE,1
+"['it seem, - /']",it seem  ,%,MALE,5
+"[""{c and } the lord's just pleased that we're kind of, - /""]",c and  the lords just pleased that were kind of  ,sv,MALE,3
+"[""[ this is, + this is, ] part of giving back a portion of what he's given to us. /""]", this is  this is  part of giving back a portion of what hes given to us ,sv,MALE,3
+['<laughter>.'],laughter,x,MALE,8
+"[""{c so, } {f uh, } i don't mind, because seems like the more we do, [ there's, + there's ] the more stuff that's, {f uh, } available that comes along and so forth. /""]",c so  f uh  i dont mind because seems like the more we do  theres  theres  the more stuff thats f uh  available that comes along and so forth ,sv,MALE,3
+"['{f oh, } yes. /']",f oh  yes ,aa,MALE,4
+"['{c and, } -/']",c and  ,%,MALE,5
+['definitely agree with that. /'],definitely agree with that ,aa,MALE,4
+"[""{c so, } {f uh, } rather than being niggardly [ and, +  and, ] chintzy, {f uh, } we've just said, you bet, boss, seeing as he was the one that, {f uh, }""]",c so  f uh  rather than being niggardly  and   and  chintzy f uh  weve just said you bet boss seeing as he was the one that f uh ,sv,MALE,3
+['<laughter>.'],laughter,x,MALE,8
+['enabled us to get the money to buy the four eighty-six. /'],enabled us to get the money to buy the four eightysix ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c because } the top of the line we've got, - /""]",c because  the top of the line weve got  ,sd,MALE,1
+"[""{d well, } we've got a compatible.  /""]",d well  weve got a compatible  ,sd,MALE,1
+"['it, - /']",it  ,%,MALE,5
+['yeah. /'],yeah ,b,MALE,2
+"['wow,  /']",wow  ,ba,MALE,6
+"['wow,  /']",wow  ,ba,MALE,6
+"['you got, - /']",you got  ,%,MALE,5
+"[""that's a four eighty-six processor, too? /""]",thats a four eightysix processor too ,qy,MALE,7
+"['uh-huh,  /']",uhhuh  ,ny,MALE,9
+['uh-huh. /'],uhhuh ,ny,MALE,9
+['wow <laughter>. /'],wow laughter ,ba,MALE,6
+['like i said --'],like i said ,sd,MALE,1
+"[""that's, -/""]",thats ,%,MALE,5
+['yes. /'],yes ,b,MALE,2
+['you have to have that to support unix. /'],you have to have that to support unix ,^2,MALE,23
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['of ram. /'],of ram ,^2,MALE,23
+"['{c and then, } {f uh, } [ [ it, + it, ] + it ] likes to live on about a hundred and  fifty megabyte hard drive. /']",c and then  f uh    it  it   it  likes to live on about a hundred and  fifty megabyte hard drive ,sd,MALE,1
+['right <laughter>. /'],right laughter ,b,MALE,2
+['{c so } the next size up was a two hundred and eleven  /'],c so  the next size up was a two hundred and eleven  ,sd,MALE,1
+"['{c and so } rather than just have one, we went ahead and got two.  /']",c and so  rather than just have one we went ahead and got two  ,sd,MALE,1
+"[""{f uh, } at some point in time i'm going to do the mirroring, {f uh, } experiment to where one disk mirrors the other for --""]",f uh  at some point in time im going to do the mirroring f uh  experiment to where one disk mirrors the other for ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- fault tolerance. /'], fault tolerance ,+,MALE,0
+"['wow,  /']",wow  ,ba,MALE,6
+['okay. /'],okay ,b,MALE,2
+"['{c and, } {f uh, } {f oh, } [ speak, + speak ] of the angel, she just walked in <yelling>. /']",c and  f uh  f oh   speak  speak  of the angel she just walked in yelling ,sd,MALE,1
+"['{d well, } good for her <laughter>. /']",d well  good for her laughter ,sd,MALE,1
+['t i stuff <<to another person>>.  /'],t i stuff to another person  ,t3,MALE,35
+"['{c so, } {f uh, } {f uh, } -/']",c so  f uh  f uh  ,%,MALE,5
+"[""you say she's a programmer also. /""]",you say shes a programmer also ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""[ she's, + she's ] a squirrel for, {f uh, } {f uh, } contractor out at american airlines. /""]", shes  shes  a squirrel for f uh  f uh  contractor out at american airlines ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so, } -/']",c so  ,%,MALE,5
+"['{d well, } great.  /']",d well  great  ,ba,MALE,6
+"['{d well, } she probably needs that kind of a powerful type of a machine to do her work. /']",d well  she probably needs that kind of a powerful type of a machine to do her work ,sv,MALE,3

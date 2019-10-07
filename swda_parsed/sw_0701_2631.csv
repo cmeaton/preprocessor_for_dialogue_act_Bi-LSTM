@@ -1,0 +1,343 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay, {f um, }  /']",okay f um   ,"fo_o_fw_""_by_bc",FEMALE,0
+['i have two children  /'],i have two children  ,sd,FEMALE,1
+"[""{c and } they're older  now,  /""]",c and  theyre older  now  ,sd,FEMALE,1
+"['{c but, } {f um, } i found it very difficult to find good child care when i was looking for a place to for stay while i thought school, /']",c but  f um  i found it very difficult to find good child care when i was looking for a place to for stay while i thought school ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# {c and, } # {f um, } i wanted [ when they were very young + when they were babies ] {d say } till they were about two years old i preferred that they had an  individual take care of them in a home  /']", c and   f um  i wanted  when they were very young  when they were babies  d say  till they were about two years old i preferred that they had an  individual take care of them in a home  ,sd,FEMALE,1
+"[""{c and } that's what i looked for  /""]",c and  thats what i looked for  ,sd,FEMALE,1
+"['{c and } i was lucky enough to find one right across from my school,  /']",c and  i was lucky enough to find one right across from my school  ,sd,FEMALE,1
+['{c and } that worked. /'],c and  that worked ,sd,FEMALE,1
+"[""{d well, } that's good. /""]",d well  thats good ,ba,MALE,6
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['that worked out real well  /'],that worked out real well  ,sd,FEMALE,1
+"['{c but } when they  got older i wanted them to be in a school type situation, [ three, + ] i think they were both  three when they started where they could learn to interact with kids [ and, +']",c but  when they  got older i wanted them to be in a school type situation  three   i think they were both  three when they started where they could learn to interact with kids  and ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""# and ] # be around kids their own age because i think  [ that's that, + ] that would prepare them for school also,  (( it's real important )) ,""]", and   be around kids their own age because i think   thats that   that would prepare them for school also   its real important  ,+,FEMALE,0
+"['# yes,  /']", yes  ,aa,MALE,4
+['yeah. # /'],yeah  ,aa,MALE,4
+"['# that they # do that, {f um, } that they get that preparation for school, /']", that they  do that f um  that they get that preparation for school ,+,FEMALE,0
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['# {c so } # - /'], c so    ,%,FEMALE,5
+"['{c but } i had, - /']",c but  i had  ,%,FEMALE,5
+"[""i have switched schools  several times because [ i, + [ di-, + ] i ] really didn't care for what was going on at that the school.  /""]",i have switched schools  several times because  i   di   i  really didnt care for what was going on at that the school  ,sd,FEMALE,1
+"[""i wanted them to learn to play i didn't academics forced on them at an early age. /""]",i wanted them to learn to play i didnt academics forced on them at an early age ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i, {f um, } - /']",i f um   ,%,MALE,5
+"[""that, that's, - /""]",that thats  ,%,MALE,5
+"['{f oh, } {f oh, } you mean  you switched schools for the kids. /']",f oh  f oh  you mean  you switched schools for the kids ,bf,MALE,20
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['[ for the sch-, + for the kids. ] /']", for the sch  for the kids  ,b^m,FEMALE,24
+['uh-huh. /'],uhhuh ,b,MALE,2
+['yes. /'],yes ,b,FEMALE,2
+"['we-, - /']",we  ,%,MALE,5
+"[""{d well, } i'm just recently married. /""]",d well  im just recently married ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so } i don't have any children.""]",c so  i dont have any children,sd,MALE,1
+['okay. /'],okay ,b,FEMALE,2
+['though we plan on having them soon  /'],though we plan on having them soon  ,+,MALE,0
+"[""{c but } i think, {f um, }  that [ i, that + ] that's probably one of the biggest difficulties, {f uh, }  /""]",c but  i think f um   that  i that   thats probably one of the biggest difficulties f uh   ,sv,MALE,3
+"[""i think, {f um, }  i'm lucky though that, {f um, } my wife <smack>  will probably not have to work  while our children,""]",i think f um   im lucky though that f um  my wife smack  will probably not have to work  while our children,sd,MALE,1
+['# oh.  # /'], oh   ,b,FEMALE,2
+"['# are # under four,']", are  under four,+,MALE,0
+['# wonderful.  # /'], wonderful   ,ba,FEMALE,6
+['# or # five.  /'], or  five  ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""((   ))  i'm a college professor, /""]",     im a college professor ,sd,MALE,1
+"['# {f oh, } # /']", f oh   ,b,FEMALE,2
+"['# {c so, } # -/']", c so   ,%,MALE,5
+['great. /'],great ,ba,FEMALE,6
+"[""{c and } that's also, - /""]",c and  thats also  ,%,MALE,5
+"[""{c and } it's nice for me  because, {f um, } <smack> most of the time you have [ so, + so ] much flexible hours so that i could  probably work two or  three days a week,""]",c and  its nice for me  because f um  smack most of the time you have  so  so  much flexible hours so that i could  probably work two or  three days a week,sd,MALE,1
+['# {f um. }  # /'], f um    ,b,FEMALE,2
+"['# and # then one or two evenings,']", and  then one or two evenings,+,MALE,0
+['# great.  # /'], great   ,ba,FEMALE,6
+"['# so # that if my wife [ does, + {f um, } does ] go back to work part time, {f um, } <smack>  there probably will be a possibility that i could stay home two days that she would go to work and that i would have to teach at night. /']", so  that if my wife  does  f um  does  go back to work part time f um  smack  there probably will be a possibility that i could stay home two days that she would go to work and that i would have to teach at night ,+,MALE,0
+"[""{f oh } that's, wonderful. /""]",f oh  thats wonderful ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['{c so } it will probably workout real  nice for us, {f uh, } /']",c so  it will probably workout real  nice for us f uh  ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""# i # think we're very lucky because just my job sort of  builds in flexible schedules, /""]", i  think were very lucky because just my job sort of  builds in flexible schedules ,sd,MALE,1
+"[""# that's wonderful.  # /""]", thats wonderful   ,ba,FEMALE,6
+"['# i can # even teach on saturdays [ and, +']", i can  even teach on saturdays  and ,sd,MALE,1
+"['# {f oh, } # /']", f oh   ,b,FEMALE,2
+"['# and ] # things,']", and   things,+,MALE,0
+"['great, /']",great ,ba,FEMALE,6
+['like that.  /'],like that  ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{f um, } i do know that my  brother and his wife have a terrible time finding, {f uh, } child care, /']",f um  i do know that my  brother and his wife have a terrible time finding f uh  child care ,sd,MALE,1
+['# right. # /'], right  ,b,FEMALE,2
+"['# {c and } # one of the things they made in, {f um, }  {f uh, } - /']", c and   one of the things they made in f um   f uh   ,sd,MALE,1
+['real - /'],real  ,%,MALE,5
+"['they\'re number one priority was that, {f um, } they\'re children didn\'t  have to leave their home <smack>. /   *[[transcript error--spelling of initial ""they\'re"" should be ""their""]]']",theyre number one priority was that f um  theyre children didnt  have to leave their home smack    transcript errorspelling of initial theyre should be their,sd,MALE,1
+"[""{f oh, } that's,""]",f oh  thats,ba,FEMALE,6
+"['# {c so, } #']", c so  ,%,MALE,5
+"['# wonderful # too, /']", wonderful  too ,+,FEMALE,0
+"['they, {f um, } {f um, } - /']",they f um  f um   ,+,MALE,0
+"['my sister-in-law is  [ a, + {f uh, } {f um, } a ] clinical speech pathologist, /']",my sisterinlaw is   a  f uh  f um  a  clinical speech pathologist ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# {c so, } # she is als-, - /']", c so   she is als  ,sd,MALE,1
+"[""i guess her most recent  position after she returned back to work, she applied for a director's position [ an-, + ] and got it.  /""]",i guess her most recent  position after she returned back to work she applied for a directors position  an   and got it  ,sd,MALE,1
+"[""{c so, } i guess she's very well qualified for her field i guess  /""]",c so  i guess shes very well qualified for her field i guess  ,sd,MALE,1
+"['{c and }  even though she took off two years for, {f um, } - /']",c and   even though she took off two years for f um   ,sd,MALE,1
+"['i guess four years all together, -/']",i guess four years all together ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# it # would be three years,  /']", it  would be three years  ,sd,MALE,1
+"[""how old's  (( kayla ))  /""]",how olds   kayla   ,t1,MALE,37
+"['three, {d yeah, }  /']",three d yeah   ,t1,MALE,37
+"['i guess she took off three years all together, {f um, } <smack>   [ for + ] cause i guess they have a four year old,  /']",i guess she took off three years all together f um  smack    for   cause i guess they have a four year old  ,sd,MALE,1
+"['[ {c and } + {d yeah, }  {c and } ]  my nephew is [ two, + ] almost two, /']", c and   d yeah   c and    my nephew is  two   almost two ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c so } i guess she took off three all together  /'],c so  i guess she took off three all together  ,sd,MALE,1
+"['{c and then }  when she decided to go back to work, {f um, } she was able to find good position and  pay for somebody to come into their home. /']",c and then   when she decided to go back to work f um  she was able to find good position and  pay for somebody to come into their home ,sd,MALE,1
+"[""{f oh, } that's wonderful. /""]",f oh  thats wonderful ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['i think they were really lucky there,  /']",i think they were really lucky there  ,sd,MALE,1
+"[""{c but }  i think they've lost this woman [ she wi-, + she will ] not continue. /""]",c but   i think theyve lost this woman  she wi  she will  not continue ,sd,MALE,1
+"['{f oh, } dear. /']",f oh  dear ,ba,FEMALE,6
+"[""[ {c and, } + {c and } ] she won't do it in the summer  because her kids are home from school. /""]", c and   c and   she wont do it in the summer  because her kids are home from school ,sd,MALE,1
+"['sure,  /']",sure  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""<smack>  {c so } i don't know what they are going to do. /""]",smack  c so  i dont know what they are going to do ,sd,MALE,1
+"[""{f oh, } {d you know } that's an ideal situation, /""]",f oh  d you know  thats an ideal situation ,sv,FEMALE,3
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# {c but } # not many people can afford,']", c but   not many people can afford,sd,FEMALE,1
+"['# yeah,  /']", yeah  ,aa,MALE,4
+"['[ i think, + #']", i think  ,sd,MALE,1
+"['# something like, # -/']", something like  ,+,FEMALE,0
+"[""i think ] they [ they're both, + they were both ] professionals unlike me [ they're, {f um, } + they were ] married, my brother's five years  younger then she is, /""]",i think  they  theyre both  they were both  professionals unlike me  theyre f um   they were  married my brothers five years  younger then she is ,+,MALE,0
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# {c so } # she was probably twenty-seven  when they were married, /']", c so   she was probably twentyseven  when they were married ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# {c so } # she already [ had, + had ]  gotten bachelors and masters and established herself [ in a,']", c so   she already  had  had   gotten bachelors and masters and established herself  in a,sd,MALE,1
+['# sure.  # /'], sure   ,b,FEMALE,2
+"['# profes-, + # in a practice ] almost.']", profes   in a practice  almost,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } where, {d you know, } he then they waited a  couple years  /']",f um  where d you know  he then they waited a  couple years  ,+,MALE,0
+"[""[ {c and, } + {c and } ] he got himself pretty far along, i guess they didn't have kids  until he was about, [ twenty sev-, + ] twenty-six  /""]", c and   c and   he got himself pretty far along i guess they didnt have kids  until he was about  twenty sev   twentysix  ,sd,MALE,1
+"['{c so } by that time she  was so well established, {d you know, }']",c so  by that time she  was so well established d you know ,sd,MALE,1
+['# right. # /'], right  ,b,FEMALE,2
+['# i # guess it made it a lot easier. /'], i  guess it made it a lot easier ,+,MALE,0
+['# sure.  # /'], sure   ,b,FEMALE,2
+"['# {c but, } # {f uh, } i think the longer you wait [ the easier, + the easier ] it is,']", c but   f uh  i think the longer you wait  the easier  the easier  it is,sv,MALE,3
+"['# {f oh, } i do to.  # /']", f oh  i do to   ,aa,FEMALE,4
+"['# if you have [ that, + # that ]  professional occupation where you can change. /']", if you have  that   that   professional occupation where you can change ,+,MALE,0
+"['{f oh, } yeah, /']",f oh  yeah ,aa,FEMALE,4
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""# {c but } # [ they're + they're ] are just so many people  out there that aren't that, {f uh, }""]", c but    theyre  theyre  are just so many people  out there that arent that f uh ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"['# lucky, # {f uh, } /']", lucky  f uh  ,+,FEMALE,0
+"[""# that's right,  /""]", thats right  ,aa,MALE,4
+"[""that's true,  {d yeah. } # /""]",thats true  d yeah   ,aa,MALE,4
+"[""# {f uh, } {c because } i'm a single # parent, /""]", f uh  c because  im a single  parent ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# {c and } # i, {f uh, } {d you know, } my [ husband and  i, + ex-husband and i ] got a divorce, {f um, } when the children were small  /']", c and   i f uh  d you know  my  husband and  i  exhusband and i  got a divorce f um  when the children were small  ,sd,FEMALE,1
+"['{c and so } i, {f uh, }  was a teacher  /']",c and so  i f uh   was a teacher  ,sd,FEMALE,1
+"['i, {f uh, } still am teacher, /']",i f uh  still am teacher ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# {c and } # it was really difficult to find affordable  child care that [ was that + was what ] i wanted,']", c and   it was really difficult to find affordable  child care that  was that  was what  i wanted,sd,FEMALE,1
+['# yep.  # /'], yep   ,b,MALE,2
+"['# where # i could,']", where  i could,+,FEMALE,0
+"['# yeah,  /']", yeah  ,aa,MALE,4
+"['# have piece # of mind [ and + ] when i taught school / *[[ transcriber spelling error--""piece"" should be ""peace""]]']", have piece  of mind  and   when i taught school   transcriber spelling errorpiece should be peace,+,FEMALE,0
+"['{c and }  i knew my kids were being taken,']",c and   i knew my kids were being taken,sd,FEMALE,1
+['# care of.  # /'], care of   ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{c and, } {f uh, } {c plus } [ i, + i, ]  {f uh, } wanted them to get something out of it,']",c and  f uh  c plus   i  i   f uh  wanted them to get something out of it,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""# i # just didn't want it to be a day where they went and slept and ate cookies  and,""]", i  just didnt want it to be a day where they went and slept and ate cookies  and,+,FEMALE,0
+['# yeah  /'], yeah  ,b,MALE,2
+"['that, # -/']",that  ,%,MALE,5
+"[""#  (( that's it )) . # /""]",   thats it    ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""[ that's, + {d you know, } that's ] so important [ [ i, + {f um, } i, ] + i ] guess it's so  funny now with schools, {d you know, } they don't take kid  into kindergarten, [ and  when, + ] i guess when they're five, -/""]", thats  d you know  thats  so important   i  f um  i   i  guess its so  funny now with schools d you know  they dont take kid  into kindergarten  and  when   i guess when theyre five ,sv,MALE,3
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['# {c and } # sometimes they flunk kindergarten now. /'], c and   sometimes they flunk kindergarten now ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""they don't let them into kindergarten unless they can count to ten and know their a b c -s  /""]",they dont let them into kindergarten unless they can count to ten and know their a b c s  ,sd,MALE,1
+"[""{c and } i think that's so funny because, {f um, } <smack>,  [ i don't, + i don't ] know if i want - /""]",c and  i think thats so funny because f um  smack   i dont  i dont  know if i want  ,sd,MALE,1
+['# sure.  # /'], sure   ,b,FEMALE,2
+"['# {c and } # i, - /']", c and   i  ,%,MALE,5
+"[""it's a very important part of  your life  /""]",its a very important part of  your life  ,sv,MALE,3
+"['{c and } i hope to read with my kids,  /']",c and  i hope to read with my kids  ,sd,MALE,1
+"[""{c but } i don't know if i want my kids to  go to school.  at four,""]",c but  i dont know if i want my kids to  go to school  at four,sd,MALE,1
+['# well.  # /'], well   ,%,FEMALE,5
+"['# or # three, /']", or  three ,+,MALE,0
+['# i agree with that.  # /'], i agree with that   ,aa,FEMALE,4
+"['# {d you know, } i can # see [ tha-, + ] that when you make that point. /']", d you know  i can  see  tha   that when you make that point ,sd,MALE,1
+"['{d well, } the thing is,']",d well  the thing is,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""# i # teach this grade and [ i, + i ] can see very readily the kids that didn't never learn socially how to get along with other,""]", i  teach this grade and  i  i  can see very readily the kids that didnt never learn socially how to get along with other,+,FEMALE,0
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['# children #  /'], children   ,+,FEMALE,0
+"[""{c and } they're the ones that are  having problems not only getting along with the other kids but academically,""]",c and  theyre the ones that are  having problems not only getting along with the other kids but academically,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""# because # [ [ they were not, + they're should be, ] +  there's to many ] things in their way, /  *[[to should be too]]""]", because    they were not  theyre should be    theres to many  things in their way   to should be too,+,FEMALE,0
+"['# yep,  /']", yep  ,b,MALE,2
+['uh-huh. # /'],uhhuh  ,b,MALE,2
+['# {c and so } # i want my - /'], c and so   i want my  ,sd,FEMALE,1
+['i wanted my  children  /'],i wanted my  children  ,sd,FEMALE,1
+"['{c and } they did learn [ to get, + to get ] along with other people. /']",c and  they did learn  to get  to get  along with other people ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"[""that's a really important point. /""]",thats a really important point ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['{c and } {e i mean } i feel a lot of  maladjusted adults  /'],c and  e i mean  i feel a lot of  maladjusted adults  ,sv,FEMALE,3
+"['{c and } i bet if we trace back to their,']",c and  i bet if we trace back to their,sv,FEMALE,3
+['# <laughter>.  #'], laughter  ,x,MALE,8
+"[""# early # childhood we could see some, {d you know, }  times they didn't get to play or be with other kids their own age really learn  how do get along with,""]", early  childhood we could see some d you know   times they didnt get to play or be with other kids their own age really learn  how do get along with,+,FEMALE,0
+['# yep.  # /'], yep   ,b,MALE,2
+['# people.  # /'], people   ,+,FEMALE,0
+"[""i think [ that's really, + ] that's important  /""]",i think  thats really   thats important  ,sv,MALE,3
+"[""[ i, + i've ] seen the same thing  /""]", i  ive  seen the same thing  ,sd,MALE,1
+"[""[ i, + i ] think you're exactly right because, {d you know, } i've gone  ou-, - /""]", i  i  think youre exactly right because d you know  ive gone  ou  ,sv,MALE,3
+['or - /'],or  ,%,MALE,5
+"['before i was married i went out with a girl, <laughter>,  /']",before i was married i went out with a girl laughter  ,sd,MALE,1
+"['{c and }  {d you know, } <laughter>, {f um, } {d boy, } [ after, + {d you know, } after ] about two months  i realize this girl really has some deep set emotional problems. /']",c and   d you know  laughter f um  d boy   after  d you know  after  about two months  i realize this girl really has some deep set emotional problems ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } i bet, - /']",c and  i bet  ,sd,MALE,1
+"['{c and } they could be traced back to  just [ not being, + ] {f uh, } {d you know, } being moved between day care centers when she was  one and two and three years old,']",c and  they could be traced back to  just  not being   f uh  d you know  being moved between day care centers when she was  one and two and three years old,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# and # [ never, + ]  always being a bit snippy and spiteful.  /']", and   never    always being a bit snippy and spiteful  ,+,MALE,0
+['i bet you could trace all the way back <laughter>. /'],i bet you could trace all the way back laughter ,sv,MALE,3
+"['i bet you could too,']",i bet you could too,sv,FEMALE,3
+['# yeah. # /'], yeah  ,b,MALE,2
+"['# because # [ it, + ] {d you know, } kids have to learn  how to get along with other people, /']", because   it   d you know  kids have to learn  how to get along with other people ,+,FEMALE,0
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""# {c and } # if they don't they just don't turn out to be really, {d you know, } good adults or,""]", c and   if they dont they just dont turn out to be really d you know  good adults or,sv,FEMALE,3
+"[""# that's true,  /""]", thats true  ,aa,MALE,4
+['yeah. # /'],yeah  ,aa,MALE,4
+"['# successful adults i # should say, /']", successful adults i  should say ,+,FEMALE,0
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# {d you # know, } {d really }  /']", d you  know  d really   ,%,FEMALE,5
+"['{c but, } {f uh, }  it is a big problem  /']",c but  f uh   it is a big problem  ,sv,FEMALE,3
+"['{c and } {d you kno-, } i have lot of friends right now that, {f uh, } have young  children  /']",c and  d you kno  i have lot of friends right now that f uh  have young  children  ,sd,FEMALE,1
+"['{c and } they daily have problems [ with, + with ] whoever is taking care of the child, /']",c and  they daily have problems  with  with  whoever is taking care of the child ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# {c or } # they switch a lot, which is not good for the  child either. /']", c or   they switch a lot which is not good for the  child either ,sd,FEMALE,1
+"['yep,  /']",yep  ,aa,MALE,4
+"[""that's true.  /""]",thats true  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's really true. /""]",thats really true ,aa,MALE,4
+"['{c so } you need, - /']",c so  you need  ,%,FEMALE,5
+"[""cause you need that consistency  when they're young like that,  /""]",cause you need that consistency  when theyre young like that  ,sv,FEMALE,3
+"['{c and } it would be ideal like [ you, + you ] hope when  you have children,']",c and  it would be ideal like  you  you  hope when  you have children,sv,FEMALE,3
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# your # wife gets to stay home, /']", your  wife gets to stay home ,+,FEMALE,0
+['# yeah. # /'], yeah  ,b,MALE,2
+"['# i # would [ have, + have ] given anything if i would have been able,']", i  would  have  have  given anything if i would have been able,sd,FEMALE,1
+"['# yeah, # /']", yeah  ,b,MALE,2
+['# to # stay home with my children. /'], to  stay home with my children ,+,FEMALE,0
+"[""[ i, + i ] think [ i'm, + i'm ] very lucky. /""]", i  i  think  im  im  very lucky ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['you. -/'],you ,%,FEMALE,5
+"['{f um, } {c because } of having, {d you know, } flexible higher education provides a flexible schedule. /']",f um  c because  of having d you know  flexible higher education provides a flexible schedule ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['especial-, - /']",especial  ,%,MALE,5
+['i teach a computer classes  /'],i teach a computer classes  ,sd,MALE,1
+"['{c so, }']",c so ,sd,MALE,1
+"['# {f oh, } great.  # /']", f oh  great   ,ba,FEMALE,6
+"[""# [ it's, + it's ] # one of things where i'm paid a  little bit better then a history or an english professor  /""]",  its  its   one of things where im paid a  little bit better then a history or an english professor  ,+,MALE,0
+"[""{c and } i'm also, {f um, }  {d you know, } - /""]",c and  im also f um   d you know   ,sd,MALE,1
+"['they have vocational type courses on weekends,']",they have vocational type courses on weekends,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# almost # everywhere, /']", almost  everywhere ,+,MALE,0
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# {c and, } # {d you know, } you can take you can teach  two three hours classes on a saturday,']", c and   d you know  you can take you can teach  two three hours classes on a saturday,sd,MALE,1
+"[""# {f oh, } that's, #""]", f oh  thats ,ba,FEMALE,6
+"['# which means, #']", which means ,+,MALE,0
+['wonderful. /'],wonderful ,+,FEMALE,0
+"[""that, {d you know, } whole week's worth of courses  /""]",that d you know  whole weeks worth of courses  ,+,MALE,0
+"['{c so } that lets you be available three days during the week,']",c so  that lets you be available three days during the week,sd,MALE,1
+"['# {f oh, } great.  # /']", f oh  great   ,ba,FEMALE,6
+"['# {d you know, }  /']", d you know   ,+,MALE,0
+['# {c so } you be will home with your  kids [ i + ] {d you know }  /'], c so  you be will home with your  kids  i   d you know   ,sd,MALE,1
+"[""it's really funny [ is + ]  that [ i, +  <laughter>, i ] picked this career  when i was in college because, {f uh, } i think with my commitment to  family and, {f um, }""]",its really funny  is    that  i   laughter i  picked this career  when i was in college because f uh  i think with my commitment to  family and f um ,sd,MALE,1
+['# {f um. }  #'], f um   ,sv,FEMALE,3
+"['# wanting # to spend more time with my children,']", wanting  to spend more time with my children,+,MALE,0
+"[""# you're very wise.  # /""]", youre very wise   ,+,FEMALE,0
+"['# because my dad # had very, {f um, } nine to five type job,']", because my dad  had very f um  nine to five type job,+,MALE,0
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# with, # {f uh, } forty-five minute commute into the city, and a forty-five commute home,  /']", with  f uh  fortyfive minute commute into the city and a fortyfive commute home  ,+,MALE,0
+"['{c so, } by the time he got home he was so tired  /']",c so  by the time he got home he was so tired  ,sd,MALE,1
+"['{c and } he was all rung out from the day, /']",c and  he was all rung out from the day ,sd,MALE,1
+['# sure.  # /'], sure   ,b,FEMALE,2
+"['# {c and } # i think [ he, + he ] missed a lot of, {f um, } our up bringing. /']", c and   i think  he  he  missed a lot of f um  our up bringing ,sd,MALE,1
+['sure. /'],sure ,b,FEMALE,2
+"['{d you know, } my mother - /']",d you know  my mother  ,sd,MALE,1
+"['[ i, + i ] came from a  family,  [ tha-, +  that ] my mother stayed home until we started school. /']", i  i  came from a  family   tha   that  my mother stayed home until we started school ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f um, } {c and } [ i, + i ] don't, {f uh, } - /""]",f um  c and   i  i  dont f uh   ,%,MALE,5
+['# <laughter>.  #'], laughter  ,x,MALE,8
+['# thirteen # and a sixteen year old. /'], thirteen  and a sixteen year old ,+,FEMALE,0
+"[""it's probably costing you a fortune. /""]",its probably costing you a fortune ,sv,MALE,3
+"['{f oh } it is, -/']",f oh  it is ,sd,FEMALE,1
+['# <laughter>.  #'], laughter  ,x,MALE,8
+"['# they # really are expensive,  /']", they  really are expensive  ,sv,FEMALE,3
+['yeah. /'],yeah ,%,FEMALE,5
+"['my goodness, [ if, + if ] you want them to be able to  drive the car, the insurance bill. -/']",my goodness  if  if  you want them to be able to  drive the car the insurance bill ,sd,MALE,1
+['exactly. /'],exactly ,aa,FEMALE,4
+"['th-, {f um, } -/']",th f um  ,%,MALE,5
+"['{d well, } {c and } they - /']",d well  c and  they  ,%,FEMALE,5
+['most of the area where we live in most of the kids have cars. /'],most of the area where we live in most of the kids have cars ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+"[""{c so, } {d you know, } right now i'm looking for a little truck for my for my son, /""]",c so  d you know  right now im looking for a little truck for my for my son ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# {c so } # that {d you know } an [ [ older, + older, ] + older, ]  <laughter>, truck  /']", c so   that d you know  an   older  older   older   laughter truck  ,sd,FEMALE,1
+"['so i can afford it, /']",so i can afford it ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"['# {c but, } # {d you know, } [ i, + i ] just look forward to him helping me out because  (( ))  i for years just car,']", c but   d you know   i  i  just look forward to him helping me out because     i for years just car,sd,FEMALE,1
+"['# carpools, {f uh, } # -/']", carpools f uh   ,^2,MALE,23
+['# drove in # carpools all over the place  /'], drove in  carpools all over the place  ,+,FEMALE,0
+"['[ {c and, } +']", c and  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['my parents did a lot of that. /'],my parents did a lot of that ,sd,MALE,1
+"['{c and } ] it will be nice just to be able to have him say will you go to the store, will you take his sister somewhere,']",c and   it will be nice just to be able to have him say will you go to the store will you take his sister somewhere,+,FEMALE,0
+"[""# that's right.  # /""]", thats right   ,aa,MALE,4
+['# something like # that. /'], something like  that ,+,FEMALE,0
+['yep.  /'],yep  ,aa,MALE,4
+"['{c and } just to save you trips to and from,']",c and  just to save you trips to and from,bf,MALE,20
+"['# right,  /']", right  ,aa,FEMALE,4
+['exactly.  # /'],exactly   ,aa,FEMALE,4
+"['# {d you know, } # {f uh, } ball games and athletic events,']", d you know   f uh  ball games and athletic events,+,MALE,0
+['# right. # /'], right  ,aa,FEMALE,4
+['# and # activities at the school. /'], and  activities at the school ,+,MALE,0
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""isn't that something how, {d you know, } you think about child care  /""]",isnt that something how d you know  you think about child care  ,qh,MALE,26
+['{c and } it lasts along time. / *[[along -> a long]]'],c and  it lasts along time  along  a long,sd,MALE,1
+"['it,  <laughter> does for ever. /']",it  laughter does for ever ,sd,FEMALE,1
+"['[ it, + <laughter> it ] lasts a long time. /']", it  laughter it  lasts a long time ,sd,MALE,1
+"[""{c and then } when you get through with your own you've got grandchildren,  /""]",c and then  when you get through with your own youve got grandchildren  ,sd,FEMALE,1
+['{c so } - /'],c so   ,%,FEMALE,5
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter>.'],laughter,x,MALE,8
+"[""it's not ending is it <laughter>?  /""]",its not ending is it laughter  ,qy,FEMALE,7
+"[""you think we've  talked [ a long, + a long ] enough time? /""]",you think weve  talked  a long  a long  enough time ,qy,FEMALE,7
+"[""{f oh, } they come in, {d see } this is the first time  i've done this. /""]",f oh  they come in d see  this is the first time  ive done this ,sd,FEMALE,1
+"['{f oh, } in ten minutes, you have to talk that long. /']",f oh  in ten minutes you have to talk that long ,qy,FEMALE,7
+"[""{d well, } you don't have to  /""]",d well  you dont have to  ,ng,MALE,29
+"['{c but } [ they, +']",c but   they ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# they, ] # - /']", they    ,+,MALE,0
+"['{f um, } you go the length  /']",f um  you go the length  ,sd,MALE,1
+"[""{c and }  sometimes if it's a very busy time  period you'll go about seven minutes. /""]",c and   sometimes if its a very busy time  period youll go about seven minutes ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+['depends on how old the tapes are at that time. /'],depends on how old the tapes are at that time ,sd,MALE,1
+['i see. /'],i see ,bk,FEMALE,14
+['uh-huh. /'],uhhuh ,b,MALE,2
+['i see. /'],i see ,bk,FEMALE,14
+['yeah. /'],yeah ,b,MALE,2
+"['are you from the, - /']",are you from the  ,qy,FEMALE,7
+['where are you from? /'],where are you from ,qw,FEMALE,12
+"['this is baltimore, maryland. /']",this is baltimore maryland ,sd,MALE,1
+"[""{f oh, } {d my gosh, } i'm from, {f uh, } plano, texas [ which is, + which is ] outside of dallas. /""]",f oh  d my gosh  im from f uh  plano texas  which is  which is  outside of dallas ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{d well, } most of most of the people  i talk to  are from texas. /']",d well  most of most of the people  i talk to  are from texas ,sd,MALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+"[""{c because } that's where t i is <laughter>. /""]",c because  thats where t i is laughter ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""{c and } [ i've discussed, +""]",c and   ive discussed ,sd,MALE,1
+['# that makes sense.  # /'], that makes sense   ,ba,FEMALE,6
+"[""# i've discussed, ] {f um. }  # -/""]", ive discussed  f um    ,+,MALE,0

@@ -1,0 +1,118 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['((   ))   are you there? /'],      are you there ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,MALE,9
+"['okay,  /']",okay  ,b,FEMALE,2
+['{d now } tell me your favorite team. /'],d now  tell me your favorite team ,ad,FEMALE,22
+"['{f uh, } baseball? /']",f uh  baseball ,qy,MALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"[""<lipsmack> {d well, } i've  [ been +  kind of  <breathing>, been ] intrigued with the rangers, {f uh, } more so with, {f uh, } {f uh, }  their management than anything else.  /""]",lipsmack d well  ive   been   kind of  breathing been  intrigued with the rangers f uh  more so with f uh  f uh   their management than anything else  ,sd,MALE,1
+"[""[ i, +  i ] don't follow baseball [ that, +  that ] closely,  /""]", i   i  dont follow baseball  that   that  closely  ,sd,MALE,1
+"[""{c but, }  {f uh, } {d you know, } since i live here so close to arlington, {f uh, } that's the  team that i've been kind of following. /""]",c but   f uh  d you know  since i live here so close to arlington f uh  thats the  team that ive been kind of following ,sd,MALE,1
+['okay.  /'],okay  ,b,FEMALE,2
+"[""i think it's a little bit  late in the season for them to assign us - /""]",i think its a little bit  late in the season for them to assign us  ,sv,FEMALE,3
+"[""where do you think they're headed,  /""]",where do you think theyre headed  ,qw,FEMALE,12
+"[""{c so }  we'll have to talk about the future --""]",c so   well have to talk about the future ,ad,FEMALE,22
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- with the rangers. /'], with the rangers ,+,FEMALE,0
+['right. /'],right ,aa,MALE,4
+"[""what are your thinkings on what they can do, what they'll be able to do? /""]",what are your thinkings on what they can do what theyll be able to do ,qo,FEMALE,25
+"[""{d well, } i think that, {f uh, } {d you know, }  with, {f uh, } so much controversy over ruben sierra not signing and asking us for so much money,  it's, {f um, } {d you know, } i think <breathing> - /""]",d well  i think that f uh  d you know   with f uh  so much controversy over ruben sierra not signing and asking us for so much money  its f um  d you know  i think breathing  ,sv,MALE,3
+"[""i'm not real sure about   th-, - /""]",im not real sure about   th  ,sd,MALE,1
+"[""do you know anything about ruben sierra's, # {f uh, } # /""]",do you know anything about ruben sierras  f uh   ,qy,MALE,7
+"['# {d well, } # i heard tonight on  the news that he is willing to come down.']", d well   i heard tonight on  the news that he is willing to come down,arp_nd,FEMALE,34
+['yeah #  /'],yeah   ,b,MALE,2
+"['that, #']",that ,bf,MALE,20
+"['# on his, # -/']", on his  ,+,FEMALE,0
+"['he was willing to come down a little bit #  [ and, + ] #']",he was willing to come down a little bit    and   ,+,MALE,0
+['# yes. # /'], yes  ,aa,FEMALE,4
+"['# {c and } the rangers go up a # little bit,  /']", c and  the rangers go up a  little bit  ,b^m,FEMALE,24
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } a little bit [ from  three, +   {d you know, } from thirty ] million dollars or  thirty-five mil-, <breathing> - /']",c but  a little bit  from  three    d you know  from thirty  million dollars or  thirtyfive mil breathing  ,sd,MALE,1
+"[""that's a lot of money. /""]",thats a lot of money ,sv,MALE,3
+"['i think the entire baseball, - /']",i think the entire baseball  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"[""they're the ones that probably are paying the highest. /""]",theyre the ones that probably are paying the highest ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['# they are. # /'], they are  ,sv,MALE,3
+['# {c and } i # think this is absolutely ridiculous. /'], c and  i  think this is absolutely ridiculous ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['no. /'],no ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{c and } [ i really think, + i really think ]  [ that, +  {f uh, } that ] they ought to, - /']",c and   i really think  i really think    that   f uh  that  they ought to  ,sv,MALE,3
+"[""i'm not real sure that they should pay him that much money.  /""]",im not real sure that they should pay him that much money  ,sv,MALE,3
+"['i think they should, {f uh, } {f uh, } pay him what his salary is going to be, {f uh, }  and let him, - /']",i think they should f uh  f uh  pay him what his salary is going to be f uh   and let him  ,sv,MALE,3
+"[""{c because } he's got one more year before he turns into a free agent. /""]",c because  hes got one more year before he turns into a free agent ,sd,MALE,1
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"['{c and then, } {f uh, } who knows,  /']",c and then  f uh  who knows  ,qh,MALE,26
+"['if he produces next year, they may have to end up paying him anyway,  /']",if he produces next year they may have to end up paying him anyway  ,sv,MALE,3
+"[""{c but } if he doesn't,  then his market value will go down  /""]",c but  if he doesnt  then his market value will go down  ,sv,MALE,3
+"['{c and } they can pick him up [ for, +  for ] a lot less # [ than, # +']",c and  they can pick him up  for   for  a lot less   than  ,sv,MALE,3
+['#  ((   )) . #'],       ,%,FEMALE,5
+"['than ] they would, {f uh, }  if they paid him [ the si-, +  {d you know, } the six ] million dollars a year this year. /']",than  they would f uh   if they paid him  the si   d you know  the six  million dollars a year this year ,+,MALE,0
+"['what i saw on the news today,  that - /']",what i saw on the news today  that  ,sd,FEMALE,1
+"['[ bu-, +  buechele ] was back just to visit. /']", bu   buechele  was back just to visit ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i'm awful sorry he's not # still. # -/""]",im awful sorry hes not  still  ,sd,FEMALE,1
+"['# {f oh, } # yeah,  /']", f oh   yeah  ,aa,MALE,4
+"['{c but } {d you know, }  what, he, - /']",c but  d you know   what he  ,sd,MALE,1
+['that was a great deal for him. /'],that was a great deal for him ,sv,MALE,3
+"[""{f oh, } i'm sure it was. /""]",f oh  im sure it was ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,b,MALE,2
+['it was a great deal for him  /'],it was a great deal for him  ,sv,MALE,3
+"['[ {c and, } +   {c and, } ]  {f uh, } he just signed on, {f uh, }  /']", c and     c and    f uh  he just signed on f uh   ,sd,MALE,1
+"['i think it was like a five year deal with, {f uh } --']",i think it was like a five year deal with f uh  ,sd,MALE,1
+['pittsburgh. /'],pittsburgh ,^2,FEMALE,23
+['-- pittsburgh. /'], pittsburgh ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c so, } {d you know, } he's real happy there.  /""]",c so  d you know  hes real happy there  ,sd,MALE,1
+"['as far as the rangers are concerned, [ i think, + i think ] they [ need some, +   definitely need some ] pitching. /']",as far as the rangers are concerned  i think  i think  they  need some    definitely need some  pitching ,sv,MALE,3
+"['yes, sir. /']",yes sir ,aa,FEMALE,4
+"['{f uh, } {c and so } [ i, +  {d you # know } i, # ] -/']",f uh  c and so   i   d you  know  i   ,%,MALE,5
+"['# {d well, } what # do you think of howse, who is the coach for the pitchers? /']", d well  what  do you think of howse who is the coach for the pitchers ,qo,FEMALE,25
+['the pitching coach? /'],the pitching coach ,br,MALE,30
+['yes. /'],yes ,aa,FEMALE,4
+"['{d well, } {d you know, } i  was just looking at the news tonight,  /']",d well  d you know  i  was just looking at the news tonight  ,sd,MALE,1
+"['{c and } they showed  [ [ a, +  a, ] +  a ] black guy that [ was  go-, + was helping  ] out, {f uh, }']",c and  they showed    a   a    a  black guy that  was  go  was helping   out f uh ,sd,MALE,1
+['his assistant. /'],his assistant ,^2,FEMALE,23
+['his assistant. /'],his assistant ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } i think that's [ a, +  a ]  great addition.  /""]",c and  i think thats  a   a   great addition  ,sv,MALE,3
+"['{e i mean, } he seemed to know what he was doing  /']",e i mean  he seemed to know what he was doing  ,sv,MALE,3
+"['[ {c and, } +   # {c and, } ]  {f uh, } # -/']", c and      c and    f uh   ,%,MALE,5
+['# i really # wish they could see fit to get rid of howse. /'], i really  wish they could see fit to get rid of howse ,sd,FEMALE,1
+"[""{f oh, } you don't like howse, # {f huh? } # /""]",f oh  you dont like howse  f huh   ,qy,MALE,7
+"['# no,  /']", no  ,nn,FEMALE,13
+"['#  no,  /']",  no  ,nn,FEMALE,13
+"[""i really don't. /""]",i really dont ,sd,FEMALE,1
+['# <laughter>. #'], laughter ,x,MALE,8
+"[""# {c and } i'm not # going to stand up, {d you know } on # my, #""]", c and  im not  going to stand up d you know  on  my ,sd,FEMALE,1
+['# <laughter>. #'], laughter ,x,MALE,8
+"['soapbox and say that, /']",soapbox and say that ,+,FEMALE,0
+['<breathing>.'],breathing,x,MALE,8
+"[""{c but } i'm,""]",c but  im,sd,FEMALE,1
+['<breathing>.'],breathing,x,MALE,8
+['not fond of howse  /'],not fond of howse  ,+,FEMALE,0
+"[""{c and } i'm not fond of grieves. /""]",c and  im not fond of grieves ,sd,FEMALE,1
+"['{f oh, } tom grieve? /']",f oh  tom grieve ,br,MALE,30
+['yeah. /'],yeah ,aa,FEMALE,4
+['<lipsmack> yeah.  /'],lipsmack yeah  ,b,MALE,2
+"[""[ i'm, +  i'm ]  not sure [ that, +  {f um, } that ] they're ready to get rid [ of, +  of, ] {f uh, } tom grieve yet,  /""]", im   im   not sure  that   f um  that  theyre ready to get rid  of   of  f uh  tom grieve yet  ,sd,MALE,1
+"['{c but } howse might be a different, {f uh, } situation,  /']",c but  howse might be a different f uh  situation  ,sd,MALE,1
+"[""{c and } i think you're probably right, [ that they, +   that they ] need [ some, +  {d you know, } some ] changes in, {f uh, } pitching coach, maybe  /""]",c and  i think youre probably right  that they    that they  need  some   d you know  some  changes in f uh  pitching coach maybe  ,sv,MALE,3
+"['{c and, }  {f um, } -/']",c and   f um  ,%,MALE,5
+"[""{d well, } i'm just gullible enough  that i think bobby valentine is, {f um, } {f uh, } doing all right #  /""]",d well  im just gullible enough  that i think bobby valentine is f um  f uh  doing all right   ,sd,FEMALE,1
+"[""{c and } i'm sure, # -/""]",c and  im sure  ,%,FEMALE,5
+"['# you # do, {f huh? } /']", you  do f huh  ,qy,MALE,7
+"['{d well # <laughter>, } # /']",d well  laughter   ,arp_nd,FEMALE,34
+"[""# <laughter> that's contrary to,  {f uh, } # popular belief, {d you know } # <laughter>. # /""]", laughter thats contrary to  f uh   popular belief d you know   laughter  ,sd,MALE,1
+"['# <laughter> # {f oh, } i know,  /']", laughter  f oh  i know  ,aa,FEMALE,4
+"['i know so,  /']",i know so  ,sd,FEMALE,1
+"['{c but } i would like so much for these rangers to get their act together  {c and } give, {f um, } <lipsmack> {f oh, } {f uh, } nolan ryan the support he needs. /']",c but  i would like so much for these rangers to get their act together  c and  give f um  lipsmack f oh  f uh  nolan ryan the support he needs ,sd,FEMALE,1
+"['<breathing> {f oh, } i know <breathing>.  /']",breathing f oh  i know breathing  ,aa,MALE,4
+"[""{d you know, } it's too bad that, {f uh, } it has to be a forty-two year old guy [ to, +  to ]  lead [ the, +  {f uh, } the ] rangers, {d you know. } /""]",d you know  its too bad that f uh  it has to be a fortytwo year old guy  to   to   lead  the   f uh  the  rangers d you know  ,sv,MALE,3
+['i understand. /'],i understand ,aa,FEMALE,4
+"['they need to have [ some, +  some ]  young guys that can take the lead  /']",they need to have  some   some   young guys that can take the lead  ,sv,MALE,3
+"['[ {c and, } +  {c and, } ] - /']", c and    c and    ,%,MALE,5
+"['{f uh, }']",f uh ,%,MALE,5
+"['{d well, } [ i just +  <laughter> {f oh, } i ]  have so many mixed emotions about all this. /']",d well   i just   laughter f oh  i   have so many mixed emotions about all this ,sd,FEMALE,1
+['yeah. /'],yeah ,+,MALE,0
+"['{c but } i think with their new stadium, they should go and let, -/']",c but  i think with their new stadium they should go and let ,sv,FEMALE,3

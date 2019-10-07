@@ -1,0 +1,105 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay, lowell,  /']",okay lowell  ,"fo_o_fw_""_by_bc",MALE,0
+"[""{d so } i'd like to know, {f um, } [ what, + what ] do you do in lawn and  garden,  /""]",d so  id like to know f um   what  what  do you do in lawn and  garden  ,qw,MALE,12
+"[""[ [ what, + {f uh, } what's, ] + what's ] of interest to you  /""]",  what  f uh  whats   whats  of interest to you  ,qw,MALE,12
+['{c and } how do you go about it? /'],c and  how do you go about it ,qw,MALE,12
+"['{d well, } i have a town home,  /']",d well  i have a town home  ,sd,MALE,1
+"[""{c so } i don't do a lot of regular maintenance,  /""]",c so  i dont do a lot of regular maintenance  ,sd,MALE,1
+"['{c but } i do have a large garden out in back,  /']",c but  i do have a large garden out in back  ,sd,MALE,1
+"['{c so } we do a lot of <throat_clearing> things with perennials and, {f uh, } also a few annual plants, {f uh, }  /']",c so  we do a lot of throatclearing things with perennials and f uh  also a few annual plants f uh   ,sd,MALE,1
+['{c and then } every year i grow a garden. /'],c and then  every year i grow a garden ,sd,MALE,1
+"['{f oh, } [ you do, + you do ] {d actually, } {f uh, } grow a garden to produce food? /']",f oh   you do  you do  d actually  f uh  grow a garden to produce food ,qy,MALE,7
+['yes. /'],yes ,ny,MALE,9
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['{c so } how much room do you have? /'],c so  how much room do you have ,qw,MALE,12
+"['{f um, } we have virtually no room out in front,  /']",f um  we have virtually no room out in front  ,sd,MALE,1
+"[""{c and then } in the back i'd say we have about an eighth of an acre -- /""]",c and then  in the back id say we have about an eighth of an acre  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } we pretty much fill it up with, {f uh, } like i said, perennials, things that [ aren't, + don't ] have to fool with every year,  /""]", c and  we pretty much fill it up with f uh  like i said perennials things that  arent  dont  have to fool with every year  ,sd,MALE,1
+"[""{c but } then i've got, {f uh, } a twenty-five by twenty area that i do gardening, <sniffing> as far as, {d you know, } tomatoes and cucumbers and beans  /""]",c but  then ive got f uh  a twentyfive by twenty area that i do gardening sniffing as far as d you know  tomatoes and cucumbers and beans  ,sd,MALE,1
+['{c and. } -/'],c and  ,%,MALE,5
+"[""{f oh, } that's what i was curious about,  /""]",f oh  thats what i was curious about  ,bk,MALE,14
+"['i was wondering whether you had actually some of the flowers that you had planted were bulb type that you would dig up [ and, + and then ] put down your garden and then put them back in later, or something like that.  /']",i was wondering whether you had actually some of the flowers that you had planted were bulb type that you would dig up  and  and then  put down your garden and then put them back in later or something like that  ,qy^d,MALE,16
+['{c so } you. -/'],c so  you ,%,MALE,5
+"['no,  /']",no  ,nn,MALE,13
+['we have a separate area for the garden. /'],we have a separate area for the garden ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['you do have a separate area. /'],you do have a separate area ,b^m,MALE,24
+"['yeah,  /']",yeah  ,aa,MALE,4
+['{c and } last year was the first year we tried two new things.  /'],c and  last year was the first year we tried two new things  ,sd,MALE,1
+"['we tried corn,  /']",we tried corn  ,sd,MALE,1
+['{c and } --'],c and  ,sd,MALE,1
+['oh. /'],oh ,b,MALE,2
+['-- we tried a watermelon. /'], we tried a watermelon ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['{d well, } tell me this, {f uh, } lowell,  /']",d well  tell me this f uh  lowell  ,ad,MALE,22
+"['[ do you en-, + do you ] enjoy doing that kind of work,  /']", do you en  do you  enjoy doing that kind of work  ,qy,MALE,7
+['{c and } --'],c and  ,qy,MALE,7
+['{f uh. } /'],f uh  ,b,MALE,2
+['-- do you have the time to relax so that you can take advantage of it? /'], do you have the time to relax so that you can take advantage of it ,+,MALE,0
+['i enjoy doing it on a limited basis.  /'],i enjoy doing it on a limited basis  ,na,MALE,21
+"[""i don't think that if i, - /""]",i dont think that if i  ,%,MALE,5
+"[""the reason i bought a townhouse is so that i wouldn't, - /""]",the reason i bought a townhouse is so that i wouldnt  ,sd,MALE,1
+"['i get, - /']",i get  ,%,MALE,5
+"[""i'm allergic to grass.  /""]",im allergic to grass  ,sd,MALE,1
+"[""{c so } i don't mow grass or anything like that.  /""]",c so  i dont mow grass or anything like that  ,sd,MALE,1
+"[""{c so } i think if i had a big home and a big lawn [ i'd, + i ] don't believe i would enjoy it.  /""]",c so  i think if i had a big home and a big lawn  id  i  dont believe i would enjoy it  ,sd,MALE,1
+"['{c but } just on the limited basis that i do it, i do enjoy it very much. /']",c but  just on the limited basis that i do it i do enjoy it very much ,na,MALE,21
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""{d well, } i'm a little more fortunate i think from that point of view.  /""]",d well  im a little more fortunate i think from that point of view  ,sv,MALE,3
+"[""i'm not allergic to things,  /""]",im not allergic to things  ,sd,MALE,1
+['{c and } i moved here in state college quite a while ago and was fortunate to get some land.  /'],c and  i moved here in state college quite a while ago and was fortunate to get some land  ,sd,MALE,1
+"['{c so, } {d actually } i have nine acres <laughter>. /']",c so  d actually  i have nine acres laughter ,sd,MALE,1
+"['{f oh, } wow. /']",f oh  wow ,ba,MALE,6
+"['{c and, } {f uh, } for many years i grew sweet corn,  /']",c and  f uh  for many years i grew sweet corn  ,sd,MALE,1
+"['{f uh, } [ {c and, } + {c and } ] my kids were there,  /']",f uh   c and   c and   my kids were there  ,sd,MALE,1
+"['{c and so } we set up a shop there,  /']",c and so  we set up a shop there  ,sd,MALE,1
+"['{c and, } {f uh, } i would, {f uh, } collect the corn very carefully, ear by ear,  /']",c and  f uh  i would f uh  collect the corn very carefully ear by ear  ,sd,MALE,1
+"['{c and } it was never more than one to two hours old,  /']",c and  it was never more than one to two hours old  ,sd,MALE,1
+"['{c and } people came from miles and miles around to get that corn, because they knew it was individually picked and very, very fresh. /']",c and  people came from miles and miles around to get that corn because they knew it was individually picked and very very fresh ,sd,MALE,1
+['how about that. /'],how about that ,ba,MALE,6
+"['{c so } we had a nice thing going there,  /']",c so  we had a nice thing going there  ,sd,MALE,1
+['{c and } it was delicious.  /'],c and  it was delicious  ,sd,MALE,1
+"['{f huh, } i really enjoyed that,  /']",f huh  i really enjoyed that  ,sd,MALE,1
+"['{c and then } i also have [ a, + a ] garden.  /']",c and then  i also have  a  a  garden  ,sd,MALE,1
+"[""{f oh, } it's probably, {f uh, } twenty-five by thirty or forty, something like that, that i put in my normal food garden things each year,  /""]",f oh  its probably f uh  twentyfive by thirty or forty something like that that i put in my normal food garden things each year  ,sd,MALE,1
+"['{c and, } {f uh, } i have [ a little bit of everything, + {e or } a whole lot of everything ] in the - /']",c and  f uh  i have  a little bit of everything  e or  a whole lot of everything  in the  ,sd,MALE,1
+"['{d actually. }  i love, {f uh, } broccoli, brussels sprouts,  /']",d actually   i love f uh  broccoli brussels sprouts  ,sd,MALE,1
+"['{c and } i have all kinds of tomatoes, kale, and all those good things,  /']",c and  i have all kinds of tomatoes kale and all those good things  ,sd,MALE,1
+"['{c and } i rent out my field that i used to plant in sweet corn to a local farmer,  /']",c and  i rent out my field that i used to plant in sweet corn to a local farmer  ,sd,MALE,1
+"['{c and then } he plants about a quarter of an acre of sweet corn for me to use,  /']",c and then  he plants about a quarter of an acre of sweet corn for me to use  ,sd,MALE,1
+['{c so } i get out of that amount of work at any rate. /'],c so  i get out of that amount of work at any rate ,sd,MALE,1
+"[""{d well, } that's nice. /""]",d well  thats nice ,ba,MALE,6
+"['[ it is, + it is ] very, very nice.  /']", it is  it is  very very nice  ,sd,MALE,1
+"['[  i, + i ] really enjoy it.  /']",  i  i  really enjoy it  ,sd,MALE,1
+['my problem is not having enough time to do the job as completely and as thoroughly as i would like.  /'],my problem is not having enough time to do the job as completely and as thoroughly as i would like  ,sd,MALE,1
+['i enjoy it very much. /'],i enjoy it very much ,sd,MALE,1
+['that much land requires an awful lot of time. /'],that much land requires an awful lot of time ,bf,MALE,20
+"['yes,  /']",yes  ,aa,MALE,4
+['it does.  /'],it does  ,aa,MALE,4
+"['{f uh, } {c and } {d actually } i had a pony there for twenty-five years,  /']",f uh  c and  d actually  i had a pony there for twentyfive years  ,sd,MALE,1
+['{c and } he had two acres that he had for his own grazing <laughter>. /'],c and  he had two acres that he had for his own grazing laughter ,sd,MALE,1
+['how about that. /'],how about that ,ba,MALE,6
+"['{c so } he had his own backyard garden, too.  /']",c so  he had his own backyard garden too  ,sd,MALE,1
+"['{c but } [ that, + that ]  worked out very nicely too.  /']",c but   that  that   worked out very nicely too  ,sd,MALE,1
+"['i built him a barn back there [ where, + ] in the part of my corn field,  /']",i built him a barn back there  where   in the part of my corn field  ,sd,MALE,1
+"['{c and } he lived in that,  /']",c and  he lived in that  ,sd,MALE,1
+"['{c but, } {f uh, } as far as gardening is concerned, we do enjoy it.  /']",c but  f uh  as far as gardening is concerned we do enjoy it  ,sd,MALE,1
+['my wife is in charge of the flowers.  /'],my wife is in charge of the flowers  ,sd,MALE,1
+"['she does all of the flower gardening throughout the whole property,  /']",she does all of the flower gardening throughout the whole property  ,sd,MALE,1
+"['{c and } we have, {d you know, } [ an acre, + an acre ] and a half that the house is sitting in the middle of,  /']",c and  we have d you know   an acre  an acre  and a half that the house is sitting in the middle of  ,sd,MALE,1
+"['{c and } she has flower gardens and bulbs, perennials and things.  /']",c and  she has flower gardens and bulbs perennials and things  ,sd,MALE,1
+"['we have blueberries, blackberries.  /']",we have blueberries blackberries  ,sd,MALE,1
+"['i have two or three, {f uh, } apple trees,  /']",i have two or three f uh  apple trees  ,sd,MALE,1
+['the golden delicious were fantastic this year.  /'],the golden delicious were fantastic this year  ,sd,MALE,1
+"['my neighbor has pear trees, and, {f um, } {f oh, } blueberries, all kinds of food around there,  if we just had time to take advantage of it.  /']",my neighbor has pear trees and f um  f oh  blueberries all kinds of food around there  if we just had time to take advantage of it  ,sd,MALE,1
+"[""my wife has spent probably i don't know how many hours in the last two or three weeks canning pears, because there were so many of them,  /""]",my wife has spent probably i dont know how many hours in the last two or three weeks canning pears because there were so many of them  ,sd,MALE,1
+['{c and } i have been totally engulfed with golden delicious apples.  /'],c and  i have been totally engulfed with golden delicious apples  ,sd,MALE,1
+"[""i just couldn't handle [ the, + the ] amount of them we got this year.  /""]",i just couldnt handle  the  the  amount of them we got this year  ,sd,MALE,1
+"[""it's really been a remarkable year. /""]",its really been a remarkable year ,sd,MALE,1
+"['{d well, } i bet you could answer a question for me.  /']",d well  i bet you could answer a question for me  ,sv,MALE,3
+"[""what's a good apple to bake pies with? /""]",whats a good apple to bake pies with ,qw,MALE,12
+"['i use my golden delicious,  /']",i use my golden delicious  ,sd,MALE,1
+['{c and } they make delicious pies. /'],c and  they make delicious pies ,sd,MALE,1
+"[""are there m- 'n - /""]",are there m n  ,qy,MALE,7
+"[""there's an afflu- -/""]",theres an afflu ,%,MALE,5

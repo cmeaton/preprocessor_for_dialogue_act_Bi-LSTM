@@ -1,0 +1,100 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['go ahead. /'],go ahead ,ad,FEMALE,22
+"[""{f um, } i haven't given this  [ a, +  a ] lot of thought.  /""]",f um  i havent given this   a   a  lot of thought  ,sd,MALE,1
+"[""i'm, {f uh, }  {a [ that, +  that's ] a whole, }  pleased with the [ pr-,  +  practice ] that is they, - /""]",im f uh   a  that   thats  a whole   pleased with the  pr    practice  that is they  ,sd,MALE,1
+"[""[ i, +  {f uh, } i ] don't, - /""]", i   f uh  i  dont  ,%,MALE,5
+"[""(( you would favor ))  invasions  of privacy on the other hand that's arguable but [ that, +  that, ]  {f uh, } people who's jobs are critical to public safety should have to meet special standards.  /""]", you would favor   invasions  of privacy on the other hand thats arguable but  that   that   f uh  people whos jobs are critical to public safety should have to meet special standards  ,sv,MALE,3
+"[""{f uh, } i haven't given this matter enough thought. /""]",f uh  i havent given this matter enough thought ,sd,MALE,1
+['do you work for t i? /'],do you work for t i ,qy,FEMALE,7
+"['no, # {f uh, } # /']",no  f uh   ,nn,MALE,13
+['# oh. # /'], oh  ,bk,FEMALE,14
+"[""i'm in the washington area.  /""]",im in the washington area  ,sd,MALE,1
+['i work for  (( n i s t )) . /'],i work for   n i s t   ,sd,MALE,1
+"['{f oh, } okay.  /']",f oh  okay  ,bk,FEMALE,14
+"['{f oh, } all right.  /']",f oh  all right  ,bk,FEMALE,14
+"['{d well, } see we have the testing already here.  /']",d well  see we have the testing already here  ,sd,FEMALE,1
+"[""we've  had it for, {f oh, } about five years. /""]",weve  had it for f oh  about five years ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['it used to just be for new employees. #  /'],it used to just be for new employees   ,sd,FEMALE,1
+['{c and } now # --'],c and  now  ,sd,FEMALE,1
+"['# {c and } now, # -/']", c and  now  ,b^m,MALE,24
+"[""-- it's for all employees.  /""]", its for all employees  ,+,FEMALE,0
+"['they, {f uh, } randomly select employee numbers  /']",they f uh  randomly select employee numbers  ,sd,FEMALE,1
+"['{c and, } {f uh, } the day that  they select you is when you have to go [ and, +  and ] be tested. /']",c and  f uh  the day that  they select you is when you have to go  and   and  be tested ,sd,FEMALE,1
+"['# okay,  /']", okay  ,b,MALE,2
+['{c and } how do people feel about it? # /'],c and  how do people feel about it  ,qo,MALE,25
+"[""# {d so, } we're familiar with it. #  /""]", d so  were familiar with it   ,sd,FEMALE,1
+"['{f oh, } we have a lot of, {f um, } people upset about it at the beginning.    some not all.  /']",f oh  we have a lot of f um  people upset about it at the beginning    some not all  ,sd,FEMALE,1
+"['{c but } what was happening at t i is that they found certain parts of the company there was a lot of drug abuse.    {f um, } <breathing> mainly the areas [ whe-, +  where ] they were doing  a lot of, {f um, } manufacturing type things  /']",c but  what was happening at t i is that they found certain parts of the company there was a lot of drug abuse    f um  breathing mainly the areas  whe   where  they were doing  a lot of f um  manufacturing type things  ,sd,FEMALE,1
+"['{c and } what they ended up doing  is, {f uh, } kind of {d like } doing a little bit of an undercover agent to watch  what was happening,  /']",c and  what they ended up doing  is f uh  kind of d like  doing a little bit of an undercover agent to watch  what was happening  ,sd,FEMALE,1
+"['{c and } we had people using on the premises and actually selling and  dealing, {d you know, } on the premises. /']",c and  we had people using on the premises and actually selling and  dealing d you know  on the premises ,sd,FEMALE,1
+"['{d well, } okay,  /']",d well  okay  ,b,MALE,2
+"[""[ that's, +  that's ]  a very different issue. /""]", thats   thats   a very different issue ,sv,MALE,3
+"['<laughter> {d well, } yeah,  /']",laughter d well  yeah  ,b,FEMALE,2
+"['it was,  {d you know, } combination [ of, +  of,  ] {f uh, } both activities [ and, +  {f uh, } and ]  using too  /']",it was  d you know  combination  of   of   f uh  both activities  and   f uh  and   using too  ,sd,FEMALE,1
+"['{c so } they developed this, {f uh, } drug policy [ so that, +  {f uh, } to ]  eliminate, - /']",c so  they developed this f uh  drug policy  so that   f uh  to   eliminate  ,sd,FEMALE,1
+"[""there's some parts of the company that we do, {f uh, } government  contracts,  /""]",theres some parts of the company that we do f uh  government  contracts  ,sd,FEMALE,1
+"['{c and } i think some of those require the drug testing,  /']",c and  i think some of those require the drug testing  ,sv,FEMALE,3
+"[""{c but } now t i thought {d well, } we'll just do it for all employees [ that, + ]  {f um, } not just because of safety issues but because we want a totally drug free safe environment for all people to work in  /""]",c but  now t i thought d well  well just do it for all employees  that    f um  not just because of safety issues but because we want a totally drug free safe environment for all people to work in  ,sd,FEMALE,1
+"[""{c and } that we  shouldn't have, {f um, } people on drugs within our, {d you know, } offices and such. /""]",c and  that we  shouldnt have f um  people on drugs within our d you know  offices and such ,^q,FEMALE,19
+"['# {c and, } # -/']", c and   ,%,MALE,5
+"[""# i haven't # personally ever been tested,  /""]", i havent  personally ever been tested  ,sd,FEMALE,1
+"[""{c but } i don't have a problem with it. /""]",c but  i dont have a problem with it ,sd,FEMALE,1
+"['{f um, } does the testing cover  alcohol as well as illegal drugs? /']",f um  does the testing cover  alcohol as well as illegal drugs ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""{c but } one thing that  [ to, +  to ] me was, {f um, } going on, stretching it a little too far was that they also check,  {f um, } if you are taking somebody else's prescription drug.  /""]",c but  one thing that   to   to  me was f um  going on stretching it a little too far was that they also check  f um  if you are taking somebody elses prescription drug  ,sv,FEMALE,3
+"['{d you know, } it happens a lot of times  /']",d you know  it happens a lot of times  ,sd,FEMALE,1
+['like some member of the  family gets the flu or whatever  /'],like some member of the  family gets the flu or whatever  ,sd,FEMALE,1
+"['{c and,  {d you know } --']",c and  d you know  ,sd,FEMALE,1
+"['#  (( {d well } )) , # -/']",   d well     ,%,MALE,5
+"[""-- # then } # they give it to everybody  else in the family and don't always go back to the, {d you know, } doctor and get another prescription.  /""]",  then   they give it to everybody  else in the family and dont always go back to the d you know  doctor and get another prescription  ,+,FEMALE,0
+"['{d well, } according to what they do at t i, if you take a prescription drug it has to be in your name.  /']",d well  according to what they do at t i if you take a prescription drug it has to be in your name  ,sd,FEMALE,1
+"[""[ it, +  {d you know, } it ] can't be in your spouse's name  /""]", it   d you know  it  cant be in your spouses name  ,sd,FEMALE,1
+"['{c so } [ they will look, +  {e i mean, } the testing will look ] for, i guess, any kind of drugs,  /']",c so   they will look   e i mean  the testing will look  for i guess any kind of drugs  ,sv,FEMALE,3
+['{c and } you have to tell them what they are taking a prescription for. /'],c and  you have to tell them what they are taking a prescription for ,sd,FEMALE,1
+['{c so } they ask you to declare  beforehand what prescription drugs you are taking? /'],c so  they ask you to declare  beforehand what prescription drugs you are taking ,qy,MALE,7
+['right.  /'],right  ,na,FEMALE,21
+"['yes,  /']",yes  ,ny,FEMALE,9
+['yes.  /'],yes  ,ny,FEMALE,9
+"['when you get tested you are supposed to tell them, {d you know, } everything  [ that, +  that  ] might be there.  /']",when you get tested you are supposed to tell them d you know  everything   that   that   might be there  ,sd,FEMALE,1
+"['{c and } then if they ever, {f um, } question you or  something you may have to show proof that you do have a prescription in your name. /']",c and  then if they ever f um  question you or  something you may have to show proof that you do have a prescription in your name ,sd,FEMALE,1
+['okay.  /'],okay  ,b,MALE,2
+"[""{d well, } [ it, +   {e i mean, } it's, ] i guess that, in fact, [ they don't test [ for, +  for, ] +  they don't routinely test for ] very many prescription drugs  /""]",d well   it    e i mean  its  i guess that in fact  they dont test  for   for    they dont routinely test for  very many prescription drugs  ,sv,MALE,3
+"[""[ {c but } that i, +  {c but } they  ]  (( don't say in advance )) , {f uh, } #  /""]", c but  that i   c but  they     dont say in advance   f uh    ,sd,MALE,1
+"['{c so, } # -/']",c so   ,%,MALE,5
+"['# {d well, } # what they [ wo-, +  be ]  testing for are the ones that would have {d like, } {d you know, } barbiturates  or codeine things like that in them. /']", d well   what they  wo   be   testing for are the ones that would have d like  d you know  barbiturates  or codeine things like that in them ,sv,FEMALE,3
+['the ones that would kind of constitute controlled substances or # something  (( anyway )) . # /'],the ones that would kind of constitute controlled substances or  something   anyway    ,bf,MALE,20
+"['# right,  /']", right  ,aa,FEMALE,4
+['right. #  /'],right   ,aa,FEMALE,4
+"[""i guess that's what [ i-, +  they ] wouldn't be looking for penicillin and [ an-, +  antibiotics  ]  and stuff.  /""]",i guess thats what  i   they  wouldnt be looking for penicillin and  an   antibiotics    and stuff  ,sv,FEMALE,3
+"['they would be looking for the, {d yeah, }  controlled things, barbiturates # amphetamines. # /']",they would be looking for the d yeah   controlled things barbiturates  amphetamines  ,sv,FEMALE,3
+['# {c so } what they are # asking you to tell them is all the prescription drugs you are taking which are controlled substances. /'], c so  what they are  asking you to tell them is all the prescription drugs you are taking which are controlled substances ,bf,MALE,20
+"['right,  /']",right  ,aa,FEMALE,4
+['right.  /'],right  ,aa,FEMALE,4
+"['you pretty much,  {d you know, } put down what you remember even if it was just contact or  something like that.  /']",you pretty much  d you know  put down what you remember even if it was just contact or  something like that  ,sd,FEMALE,1
+"['{c but } afterwards, {f uh, } maybe if you had a  controlled # substance <laughter>. #']",c but  afterwards f uh  maybe if you had a  controlled  substance laughter ,sd,FEMALE,1
+"['# is contact a, #']", is contact a ,qy,MALE,7
+"['{d well, } # <laughter>, # -/']",d well   laughter  ,+,FEMALE,0
+"['# bo-, # -/']", bo  ,+,MALE,0
+"['[ you, +  you ] probably put down,  {d you know, } you had  (( drixoral ))  or  contact if you would remember that you did it. /']", you   you  probably put down  d you know  you had   drixoral   or  contact if you would remember that you did it ,sd,FEMALE,1
+['okay.  /'],okay  ,b,MALE,2
+"['is contact a,']",is contact a,qy,MALE,7
+['no. /'],no ,nn,FEMALE,13
+['#  ((   ))  substance? # /'],       substance  ,+,MALE,0
+"[""# <laughter> i'm, #""]", laughter im ,sd,FEMALE,1
+['okay. /'],okay ,bk,MALE,14
+"['just saying you probably  [ pro-, + ] put down on the sheet --']",just saying you probably   pro   put down on the sheet ,+,FEMALE,0
+['# okay. # /'], okay  ,b,MALE,2
+['-- # anything # you have taken.  /'],  anything  you have taken  ,+,FEMALE,0
+"['{c but } if they had a controlled substance, maybe they would ask you  then to show that you had that prescription in your name.  /']",c but  if they had a controlled substance maybe they would ask you  then to show that you had that prescription in your name  ,sv,FEMALE,3
+"['i know i had one contract employee through manpower was not a t i person,']",i know i had one contract employee through manpower was not a t i person,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['but was a contract person,  /']",but was a contract person  ,+,FEMALE,0
+"['{c and } they test them too even if you are not a real, {f uh, } t i -er.  /']",c and  they test them too even if you are not a real f uh  t i er  ,sd,FEMALE,1
+['if you are a contract employee here --'],if you are a contract employee here ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['-- # they test # you too.  /'],  they test  you too  ,+,FEMALE,0
+"['{c and } he had taken some kind of,  {f um, } <lipsmack> {f oh, } {d you know, } {f uh, } - /']",c and  he had taken some kind of  f um  lipsmack f oh  d you know  f uh   ,sd,FEMALE,1
+"['just, he had some kind of  flu or  something.  /']",just he had some kind of  flu or  something  ,sd,FEMALE,1
+['he got a real bad migraine  /'],he got a real bad migraine  ,sd,FEMALE,1
+"[""{c and } he took his mother's, -/""]",c and  he took his mothers ,sd,FEMALE,1

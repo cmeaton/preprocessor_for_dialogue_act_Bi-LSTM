@@ -1,0 +1,129 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['do you have a p c? /'],do you have a p c ,qy,MALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+['i have a macintosh s e thirty. /'],i have a macintosh s e thirty ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+['a lot of my friends are into macintoshes.  /'],a lot of my friends are into macintoshes  ,sd,MALE,1
+"['i have [ a, {f um, }  p c, + a i b m p c ] myself. /']",i have  a f um   p c  a i b m p c  myself ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['a two eighty-six.  /'],a two eightysix  ,sd,MALE,1
+"[""i'm probably eventually going to get a three eighty-six.  {f um. } /""]",im probably eventually going to get a three eightysix  f um  ,sd,MALE,1
+['what do you use yours for mostly? /'],what do you use yours for mostly ,qw,MALE,12
+"['{f um, } mostly, {f um, } word processing applications and, {f uh, } just as a dumb terminal. /']",f um  mostly f um  word processing applications and f uh  just as a dumb terminal ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{f um, } {c but } [ i, + {f um, } i ]  think eventually i'll start using it for spreadsheets and  things like that.  /""]",f um  c but   i  f um  i   think eventually ill start using it for spreadsheets and  things like that  ,sd,MALE,1
+"['{f um, }  what do you find that you use yours mostly for? /']",f um   what do you find that you use yours mostly for ,qw,MALE,12
+"['{d well, } i do a lot of word processing and spreadsheets and data base,  /']",d well  i do a lot of word processing and spreadsheets and data base  ,sd,MALE,1
+"['{c and, } {f uh, } about the only thing - /']",c and  f uh  about the only thing  ,%,MALE,5
+"[""[ i am, + {f uh, } i'm ] just starting to get into, {f uh, } a little bit more communications now.  /""]", i am  f uh  im  just starting to get into f uh  a little bit more communications now  ,sd,MALE,1
+"[""i've just today ordered a fax modem  /""]",ive just today ordered a fax modem  ,sd,MALE,1
+"[""{c so } i'll be able to --""]",c so  ill be able to ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- send and receive faxes right over there without using, {d you know, } - /']", send and receive faxes right over there without using d you know   ,+,MALE,0
+"[""you don't have to make a hard copy that way. /""]",you dont have to make a hard copy that way ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } are you using windows? /']",f uh  are you using windows ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+"[""[ i, + i ] think [ i, + i'm ] planning on {d like } moving up, getting a three eighty-six before i move up to windows --""]", i  i  think  i  im  planning on d like  moving up getting a three eightysix before i move up to windows ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- although, {d you know, } i do like [ the, + the ] graphical user environment. /']", although d you know  i do like  the  the  graphical user environment ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""{d well, } it's getting to be more and more like a macintosh <laughter>. /""]",d well  its getting to be more and more like a macintosh laughter ,sv,MALE,3
+"['<laughter> yeah,  /']",laughter yeah  ,aa,MALE,4
+"[""it's, {f um, } - /""]",its f um   ,%,MALE,5
+"['[ [ i want, + i want ] to be able  ((   )) + i just want it ] more for multi tasking, which i suppose is also like a macintosh. /']",  i want  i want  to be able       i just want it  more for multi tasking which i suppose is also like a macintosh ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{f uh. } /'],f uh  ,b,MALE,2
+"['{d well, } the one thing i used to use a, {f uh, } - /']",d well  the one thing i used to use a f uh   ,sd,MALE,1
+"[""i've never used an i b m actually.  /""]",ive never used an i b m actually  ,sd,MALE,1
+"['i used to use [ a, +  just an ] apple two e, which of course [ is +  --']",i used to use  a   just an  apple two e which of course  is   ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- looks ] pretty primitive now. /'], looks  pretty primitive now ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's what i learned a lot of languages on, was an apple two e in my high school. /""]",thats what i learned a lot of languages on was an apple two e in my high school ,sd,MALE,1
+"[""{c but } i don't have [ any, + {f uh, } any ] real programming capabilities on my, {f uh, } mac right now. /""]",c but  i dont have  any  f uh  any  real programming capabilities on my f uh  mac right now ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i don't have, {f uh, } any compilers -- /""]",i dont have f uh  any compilers  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c so } i'm, {f uh. } -/""]", c so  im f uh  ,%,MALE,5
+"['{d well, } do you use your computer for, {f um, } just things around the house, or in the  ((   )) . -/']",d well  do you use your computer for f um  just things around the house or in the       ,qy,MALE,7
+['i use it in my business. /'],i use it in my business ,sd,MALE,1
+"['{d well, } {d see, } what do you do? /']",d well  d see  what do you do ,qw,MALE,12
+"['i, {f uh, } do, {f uh, } consultation [ and, + and ] testing of various kinds for, {f uh, } english as a second language programs. /']",i f uh  do f uh  consultation  and  and  testing of various kinds for f uh  english as a second language programs ,sd,MALE,1
+"['{f oh, } wow.  /']",f oh  wow  ,ba,MALE,6
+"['{f um, }  {c and, }  {f uh, } [ are these {d like, } + {f uh, } do these ] programs,  {f um, } - /']",f um   c and   f uh   are these d like   f uh  do these  programs  f um   ,%,MALE,5
+"['[  are, + are ] they based [ [ on, + on ] a, + on a, ] {f um, } other language,  /']",  are  are  they based   on  on  a  on a  f um  other language  ,qy,MALE,7
+"['{c or } [ are  they based, + are they based ] - /']",c or   are  they based  are they based   ,%,MALE,5
+"['{d like } [ a lot of the, + {f um, } {d you know, } a lot of the ]  english as a second language classes will have people from all sorts of, {d you know, } parts of the world,  /']",d like   a lot of the  f um  d you know  a lot of the   english as a second language classes will have people from all sorts of d you know  parts of the world  ,sv,MALE,3
+"['{c and } the teacher just [ tries to, + tries to ] teach english, {d you know, } through natural understanding. /']",c and  the teacher just  tries to  tries to  teach english d you know  through natural understanding ,sv,MALE,3
+"[""[ that's, {f uh, } exactly what, + {d yeah, } that's the kind of thing ] i'm working with exactly. /""]", thats f uh  exactly what  d yeah  thats the kind of thing  im working with exactly ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['you seem to be, {f uh, } better informed than the average person on that. /']",you seem to be f uh  better informed than the average person on that ,sv,MALE,3
+"['{d well, } it was just, {f uh, } when i was high school, i worked for the community school,  /']",d well  it was just f uh  when i was high school i worked for the community school  ,sd,MALE,1
+['{c and } they had a english second language class  /'],c and  they had a english second language class  ,sd,MALE,1
+"['{c and } it always seemed strange to me that, {d you know, } [ all these, + all these ] people that, {d you know, } spoke english not too well, and spoke, {d you know, } a variety of different languages were all being taught at the same time. /']",c and  it always seemed strange to me that d you know   all these  all these  people that d you know  spoke english not too well and spoke d you know  a variety of different languages were all being taught at the same time ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i imagine it's a lot harder on a computer because [ you have to, + {d you know, } you don't have ] as many cues,  /""]",i imagine its a lot harder on a computer because  you have to  d you know  you dont have  as many cues  ,sv,MALE,3
+"[""you [ can't, + don't ] have hand gestures and things like that. /""]",you  cant  dont  have hand gestures and things like that ,sv,MALE,3
+['right.  /'],right  ,aa,MALE,4
+"['{d well, } now, we, {f uh, } - /']",d well  now we f uh   ,%,MALE,5
+['what i use a computer for is to write materials that --'],what i use a computer for is to write materials that ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- are later printed, though.  /']", are later printed though  ,+,MALE,0
+"['most of the stuff that i do is not, {f uh, } interactive -- /']",most of the stuff that i do is not f uh  interactive  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } i use it for [ t-, + ] {f uh, } data analysis on testing,  /']", c and  i use it for  t   f uh  data analysis on testing  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['{f uh, } to see how well they retain the vocabulary and things like that. /']",f uh  to see how well they retain the vocabulary and things like that ,qy^d,MALE,16
+"['{d well, } [ just, + actually, just, ] {f uh, } item analysis, statistical analysis of the tests, {f uh. } /']",d well   just  actually just  f uh  item analysis statistical analysis of the tests f uh  ,arp_nd,MALE,34
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know, } when you write a test you have to look at some data from it and  see how the different questions are performing --']",d you know  when you write a test you have to look at some data from it and  see how the different questions are performing ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- and find out which ones are discriminating well and which ones aren't --""]", and find out which ones are discriminating well and which ones arent ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- find out how reliable the test is,  /']", find out how reliable the test is  ,+,MALE,0
+['you try correlate it with other tests and things of that sort.  /'],you try correlate it with other tests and things of that sort  ,sd,MALE,1
+"[""{c so } it's, involves a lot of spreadsheet use. /""]",c so  its involves a lot of spreadsheet use ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['i would imagine so.  /'],i would imagine so  ,ba,MALE,6
+"['{f um, }  {c so, }  {f um, } what were you doing when you were using an apple two e? /']",f um   c so   f um  what were you doing when you were using an apple two e ,qw,MALE,12
+"['{d well, } i was doing some of the same stuff, but doing it more slowly <laughter>,']",d well  i was doing some of the same stuff but doing it more slowly laughter,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+['and with smaller files.  /'],and with smaller files  ,+,MALE,0
+"[""<laughter> i can't believe, {d you know, } i've got, {f uh, } five, {f uh, } megabytes on this one now -- /""]",laughter i cant believe d you know  ive got f uh  five f uh  megabytes on this one now  ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""[ it, + it's ]   ((   )) . -/""]", it  its         ,%,MALE,5
+['-- {c and } on my two e i had a hundred twenty-eight k <laughter>. /'], c and  on my two e i had a hundred twentyeight k laughter ,sd,MALE,1
+"['yes,  /']",yes  ,aa,MALE,4
+"[""it's amazing, {d you know, }  [ how, + how ] {d like } in the general user community the expectations have just grown so much.  /""]",its amazing d you know    how  how  d like  in the general user community the expectations have just grown so much  ,sv,MALE,3
+['i remember my first computer was a t r s eighty with four k on it -- /'],i remember my first computer was a t r s eighty with four k on it  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- {c and } {d you know, } [ [ then, + then ] we, + then i ] started playing with apples, {d you know, }  /']", c and  d you know    then  then  we  then i  started playing with apples d you know   ,sd,MALE,1
+"['{c and } those had forty-eight,  /']",c and  those had fortyeight  ,sd,MALE,1
+"['{c or, } {d you know, } if they were really great --']",c or  d you know  if they were really great ,sd,MALE,1
+"['{f oh, } [ [ the old -- +']",f oh    the old  ,qy,MALE,7
+['-- they had sixty-four k. /'], they had sixtyfour k ,+,MALE,0
+"[""-- the old ] apple, + {f uh, }  [ the, + the ] original apple  ] had, [ what, + ] [ yeah, + ] forty-eight i guess, didn't it. /""]", the old  apple  f uh    the  the  original apple   had  what    yeah   fortyeight i guess didnt it ,+,MALE,0
+"['{f uh, } [ i know, +']",f uh   i know ,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"['i know ] that in my school they had a bunch that had sixteen k on them, # is all,  /']",i know  that in my school they had a bunch that had sixteen k on them  is all  ,+,MALE,0
+['{c and } # -- -/'],c and    ,%,MALE,5
+['# my goodness. # /'], my goodness  ,ba,MALE,6
+"[""-- [ there's, + i remember that there was ] one game that i played that required forty-eight k  /""]",  theres  i remember that there was  one game that i played that required fortyeight k  ,sd,MALE,1
+['{c and } there was only one computer that had forty-eight k on it at the time. /'],c and  there was only one computer that had fortyeight k on it at the time ,sd,MALE,1
+['uh-huh <laughter> <throat_clearing>. /'],uhhuh laughter throatclearing ,b,MALE,2
+"[""{c and } {d you know } it's just so amazing that generally, {d you know, } [ if you, + if you, ] - /""]",c and  d you know  its just so amazing that generally d you know   if you  if you   ,%,MALE,5
+"[""i'm not sure about macintoshes,  /""]",im not sure about macintoshes  ,sd,MALE,1
+"['{c but } i know i b m -s, [ [ you, + you ] generally, + {d you know, } you buy ] a megabyte at a time. /']",c but  i know i b m s   you  you  generally  d you know  you buy  a megabyte at a time ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{d you know, } [ [ that's, + that's ] your low-, + that's the low ] end.  {f uh. } /""]",d you know    thats  thats  your low  thats the low  end  f uh  ,sd,MALE,1
+['{d well } the s p thirty goes up to eight -- /'],d well  the s p thirty goes up to eight  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c but } i haven't upgraded it quite that far yet.  /""]", c but  i havent upgraded it quite that far yet  ,sd,MALE,1
+"['i think probably when i get system seven i may have to do that [ and, + and ] get [ another, + possibly another ] hard disk.  /']",i think probably when i get system seven i may have to do that  and  and  get  another  possibly another  hard disk  ,sd,MALE,1
+"[""i don't know.  /""]",i dont know  ,h,MALE,15
+['they say that system seven uses a lot of memory. /'],they say that system seven uses a lot of memory ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+['i imagine  ((   )) . /'],i imagine       ,ba,MALE,6

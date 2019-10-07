@@ -1,0 +1,225 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hello. /'],hello ,fp,FEMALE,32
+"['hello, /']",hello ,fp,FEMALE,32
+['hi. /'],hi ,fp,FEMALE,32
+['hello  /'],hello  ,fp,FEMALE,32
+['this is lois. /'],this is lois ,fp,FEMALE,32
+"['hi,  /']",hi  ,fp,FEMALE,32
+"['hi,  /']",hi  ,fp,FEMALE,32
+['this is lisa. /'],this is lisa ,fp,FEMALE,32
+"['{c and, } {f uh, } i called {d you know, } from [ [ that, + the, ] + the ] t i data base calling instructions. /']",c and  f uh  i called d you know  from   that  the   the  t i data base calling instructions ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i got a call yesterday too.  /'],i got a call yesterday too  ,sd,FEMALE,1
+['this is a different subject though. /'],this is a different subject though ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['this is about changes in the women in the, -/']",this is about changes in the women in the ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } there's really a lot, isn't there. /""]",f uh  theres really a lot isnt there ,qy,FEMALE,7
+['yeah <laughter>. /'],yeah laughter ,ny,FEMALE,9
+['i think there really is. /'],i think there really is ,sv,FEMALE,3
+"[""it's kind of an easy thing to talk about. /""]",its kind of an easy thing to talk about ,sv,FEMALE,3
+"[""{f oh, } i guess the work force would be the main, wouldn't it. /""]",f oh  i guess the work force would be the main wouldnt it ,qy,FEMALE,7
+"['yeah, {f uh, }  /']",yeah f uh   ,ny,FEMALE,9
+['i think you have to push one  /'],i think you have to push one  ,ad,FEMALE,22
+['{c and then } we can start recording it. /'],c and then  we can start recording it ,ad,FEMALE,22
+['okay <tone>.  /'],okay tone  ,aa,FEMALE,4
+['all right. /'],all right ,aa,FEMALE,4
+['okay. /'],okay ,b,FEMALE,2
+['are you ready now? /'],are you ready now ,qy,FEMALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"['okay,  /']",okay  ,b,FEMALE,2
+"['like i said i guess it would be the work force, {d you know, } as far as changes in the generations. /']",like i said i guess it would be the work force d you know  as far as changes in the generations ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+"[""i know because, i know when my mother was [ a, + ] {d you know, } going into the work force there wasn't very many opportunities for her, i guess,  /""]",i know because i know when my mother was  a   d you know  going into the work force there wasnt very many opportunities for her i guess  ,sd,FEMALE,1
+"[""she's in her late forties.  /""]",shes in her late forties  ,sd,FEMALE,1
+['you were expected to stay home and take care of the kids  /'],you were expected to stay home and take care of the kids  ,sd,FEMALE,1
+"[""{c and } i've never faced that at all. /""]",c and  ive never faced that at all ,sd,FEMALE,1
+"['{f uh, } no,  /']",f uh  no  ,aa,FEMALE,4
+"[""i think [ no-, + now, ]  you go to work when they're six weeks old,""]",i think  no  now   you go to work when theyre six weeks old,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, }  /']",d you know   ,+,FEMALE,0
+['{c and } you stay there.  /'],c and  you stay there  ,sv,FEMALE,3
+"[""{c and } i feel like the next generation, you'll probably just work right along with your husband, {d you know. } /""]",c and  i feel like the next generation youll probably just work right along with your husband d you know  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+"[""i think it's definitely gotten better. /""]",i think its definitely gotten better ,sv,FEMALE,3
+"['{f oh, } i do to, much.  /']",f oh  i do to much  ,aa,FEMALE,4
+"[""{c and } it's just going to get better. /""]",c and  its just going to get better ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['it really is. /'],it really is ,sv,FEMALE,3
+"['{c because } women are in every field now,  /']",c because  women are in every field now  ,sd,FEMALE,1
+"[""{e i mean } i can't think of a field that they're not involved in. /""]",e i mean  i cant think of a field that theyre not involved in ,sd,FEMALE,1
+"[""{f oh, } i can't either, not a one. /""]",f oh  i cant either not a one ,sd,FEMALE,1
+"[""{c and } i know at least in the medical field, it seems like they've come out with a lot further advances as far as female medications and things since women have gotten into the doctor field. /""]",c and  i know at least in the medical field it seems like theyve come out with a lot further advances as far as female medications and things since women have gotten into the doctor field ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""i don't think that men really took the  time to work on that sort of thing. /""]",i dont think that men really took the  time to work on that sort of thing ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['even in washington, {d you know, }']",even in washington d you know ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['there seems to be a lot more women involved. /'],there seems to be a lot more women involved ,+,FEMALE,0
+"[""hopefully, the next generation, it won't even be an issue,  /""]",hopefully the next generation it wont even be an issue  ,sv,FEMALE,3
+"['{e i mean } people will just look at you as a person and not as a man or a woman, /']",e i mean  people will just look at you as a person and not as a man or a woman ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['i think that would be the best goal. /'],i think that would be the best goal ,sv,FEMALE,3
+"['{f oh, } i do too,  /']",f oh  i do too  ,aa,FEMALE,4
+['just your qualifications   /'],just your qualifications   ,bf,FEMALE,20
+['{c and } that would be it. /'],c and  that would be it ,bf,FEMALE,20
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+"['exactly,  /']",exactly  ,aa,FEMALE,4
+"['not what color you are,  how old you are, what your male or  female.  /']",not what color you are  how old you are what your male or  female  ,sv,FEMALE,3
+"['that would be wonderful,  /']",that would be wonderful  ,sv,FEMALE,3
+"[""(( i guess ))   it's kind of an ideal world though, {f huh } <laughter>. /""]", i guess    its kind of an ideal world though f huh  laughter ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""i kind of think, maybe in time, that,  {d you know, } you'll go by social security numbers, {d you know, } /""]",i kind of think maybe in time that  d you know  youll go by social security numbers d you know  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } that way they can't say {d well } they  picked a male over a female, female over a male, {d you know, } /""]",c and  that way they cant say d well  they  picked a male over a female female over a male d you know  ,sv,FEMALE,3
+"['exactly,  /']",exactly  ,aa,FEMALE,4
+"['or the way you look,  /']",or the way you look  ,sv,FEMALE,3
+"['or the way you, {d you know, } -/']",or the way you d you know  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['your age or anything.  /'],your age or anything  ,sv,FEMALE,3
+['i think that would  be a wonderful way to do it. /'],i think that would  be a wonderful way to do it ,sv,FEMALE,3
+['i do to  /'],i do to  ,aa,FEMALE,4
+"['just go by your social security number  and then look at you qualifications [ that, + {d you know, } that ] you have. /']",just go by your social security number  and then look at you qualifications  that  d you know  that  you have ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+"['{c and then, } -/']",c and then  ,%,FEMALE,5
+"['{c and then } if you get it, {d you know } then, -/']",c and then  if you get it d you know  then ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+"[""also, with, {f uh, } women in the work  force they've gotten a lot more options as far as, {d you know, } what's it called, job sharing. /""]",also with f uh  women in the work  force theyve gotten a lot more options as far as d you know  whats it called job sharing ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d like } if you and another lady were to share the same full time job,']",d like  if you and another lady were to share the same full time job,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['or, -/']",or ,+,FEMALE,0
+"[""as a matter of fact, that's what i'm doing. /""]",as a matter of fact thats what im doing ,sd,FEMALE,1
+['is it. /'],is it ,bh,FEMALE,18
+"['uh-huh,  /']",uhhuh  ,ny,FEMALE,9
+['it sure is. /'],it sure is ,sd,FEMALE,1
+['that would be great. /'],that would be great ,sv,FEMALE,3
+['it sure is. /'],it sure is ,aa,FEMALE,4
+"['{c or, } a lot of women i know now and [ my, + {f uh, } one of my ] supervisors, when she went on l o a to have her baby, we hooked up, {f uh, } {f uh, } a terminal at her house  /']",c or  a lot of women i know now and  my  f uh  one of my  supervisors when she went on l o a to have her baby we hooked up f uh  f uh  a terminal at her house  ,sd,FEMALE,1
+"['and [ she, + {d you know, } we ] could send her messages,  /']",and  she  d you know  we  could send her messages  ,sd,FEMALE,1
+"['[ {c and, } + {c and } ] she kept in touch like that,']", c and   c and   she kept in touch like that,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['and basically, just worked out of her house.  /']",and basically just worked out of her house  ,+,FEMALE,0
+"['i would just take her the actual paperwork once, {f uh, } every week or two,  /']",i would just take her the actual paperwork once f uh  every week or two  ,sd,FEMALE,1
+['{c and } that worked out great too. /'],c and  that worked out great too ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['yeah  /'],yeah  ,aa,FEMALE,4
+['that is. /'],that is ,sv,FEMALE,3
+"[""{c and } that's a real attractive option, if you have  [ the, + the ] technology for it. /""]",c and  thats a real attractive option if you have   the  the  technology for it ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['all it [ was, + was, ] {d you know, } - /']",all it  was  was  d you know   ,sd,FEMALE,1
+"['{e i mean, } she just used a phone modem  /']",e i mean  she just used a phone modem  ,sd,FEMALE,1
+"['{c and } [ she was + {d like } she was ] sitting in the office,  /']",c and   she was  d like  she was  sitting in the office  ,sd,FEMALE,1
+"[""{c so } i think that's real nice too, to come up with different options.  /""]",c so  i think thats real nice too to come up with different options  ,sv,FEMALE,3
+['do you like the job sharing? /'],do you like the job sharing ,qy,FEMALE,7
+"['{f oh, } i do, /']",f oh  i do ,na,FEMALE,21
+['do you? /'],do you ,bh,FEMALE,18
+"['i really do,  /']",i really do  ,sd,FEMALE,1
+"[""i think it's great. /""]",i think its great ,sd,FEMALE,1
+"['do you work like half days, or half weeks or, -/']",do you work like half days or half weeks or ,qy,FEMALE,7
+"[""{f uh, } {d well } {d like, } one week she'll work  three days and i'll work two  /""]",f uh  d well  d like  one week shell work  three days and ill work two  ,sd,FEMALE,1
+"[""{c and } she'll work two, /""]",c and  shell work two ,sd,FEMALE,1
+"[""{f oh, } {f oh } that's great, /""]",f oh  f oh  thats great ,ba,FEMALE,6
+['{c and } we just share off like that. /'],c and  we just share off like that ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['do you get the full benefits? /'],do you get the full benefits ,qy,FEMALE,7
+"['uh-huh,  /']",uhhuh  ,ny,FEMALE,9
+['yeah  /'],yeah  ,ny,FEMALE,9
+['we get the full benefits. /'],we get the full benefits ,sd,FEMALE,1
+"[""{f oh, } that's wonderful. /""]",f oh  thats wonderful ,ba,FEMALE,6
+"[""{c but } we've just really got a wonderful  system that we're working under. /""]",c but  weve just really got a wonderful  system that were working under ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['especially with children,  and so  many  things going on,']",especially with children  and so  many  things going on,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['that would be great. /'],that would be great ,+,FEMALE,0
+"['it really is,  /']",it really is  ,sd,FEMALE,1
+"[""{c and } that way we're not really  missing any thing out, {d you know, }""]",c and  that way were not really  missing any thing out d you know ,sd,FEMALE,1
+"['either way, -/']",either way ,^2,FEMALE,23
+"['of  ((   ))  children,  /']",of       children  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['you have your career and your home life,  /']",you have your career and your home life  ,bf,FEMALE,20
+"['{c and } that would be a nice way, especially if you have young children. /']",c and  that would be a nice way especially if you have young children ,sv,FEMALE,3
+"['{f oh, } it is,  /']",f oh  it is  ,sd,FEMALE,1
+"['it is,  /']",it is  ,sd,FEMALE,1
+"['{d well } both of ours  is school age,  /']",d well  both of ours  is school age  ,sd,FEMALE,1
+"[""{c but } we don't want to miss any of those  p t a -s and, {d you know, } all of that. /""]",c but  we dont want to miss any of those  p t a s and d you know  all of that ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+"['{f oh, } no,  /']",f oh  no  ,aa,FEMALE,4
+"['i think, - /']",i think  ,%,FEMALE,5
+['yeah.  /'],yeah  ,%,FEMALE,5
+"[""my son's just in day-care  /""]",my sons just in daycare  ,sd,FEMALE,1
+['{c but } even that they have extracurricular activities  /'],c but  even that they have extracurricular activities  ,sd,FEMALE,1
+"[""{c and } the older they get the more that you're involved in that. /""]",c and  the older they get the more that youre involved in that ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""i think it's great,  /""]",i think its great  ,sv,FEMALE,3
+"['i really, -/']",i really ,%,FEMALE,5
+"['yeah, /']",yeah ,b,FEMALE,2
+['{c and } i look for more of that in the next generation. /'],c and  i look for more of that in the next generation ,sd,FEMALE,1
+"['i do too, especially as women get up in management  [ and, + and ] can be in on those decision making, - /']",i do too especially as women get up in management   and  and  can be in on those decision making  ,sd,FEMALE,1
+"['{d you know, }  when that subject  comes up they can say yes,  /']",d you know   when that subject  comes up they can say yes  ,sd,FEMALE,1
+['that would be wonderful. /'],that would be wonderful ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+"['{f oh, } i do too. /']",f oh  i do too ,sd,FEMALE,1
+"[""plus, i bet it [ cuts, + cuts ] down on your  absenteeism because you've got two days off that you can do everything,  /""]",plus i bet it  cuts  cuts  down on your  absenteeism because youve got two days off that you can do everything  ,sv,FEMALE,3
+"[""{c so } you don't have to,  {d you know, } unless you're just really sick,  or the child's sick. /""]",c so  you dont have to  d you know  unless youre just really sick  or the childs sick ,sv,FEMALE,3
+"[""most of the time now, {d you know, }    it's just the weekend,  /""]",most of the time now d you know     its just the weekend  ,sd,FEMALE,1
+['{c or } just forget it. /'],c or  just forget it ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['{f oh } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+"['i have to plan way  in advance, because, - /']",i have to plan way  in advance because  ,sd,FEMALE,1
+"[""{c or, }  what i've done is found {d like } doctors' and dentists' office with extended hours. /""]",c or   what ive done is found d like  doctors and dentists office with extended hours ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""that's been real helpful too,  /""]",thats been real helpful too  ,sd,FEMALE,1
+['{d like } my doctor stays open til nine in the evening.  /'],d like  my doctor stays open til nine in the evening  ,sd,FEMALE,1
+"[""{c so } that's real helpful,  /""]",c so  thats real helpful  ,sd,FEMALE,1
+"[""{c so } you don't, {d you know, } have to do it during office hours, run out on your lunch hour. /""]",c so  you dont d you know  have to do it during office hours run out on your lunch hour ,sd,FEMALE,1
+"[""i don't know how many times i've done that to do something,""]",i dont know how many times ive done that to do something,sd,FEMALE,1
+"['to do,  /']",to do  ,b^m,FEMALE,24
+['yeah. /'],yeah ,b,FEMALE,2
+"['post office or the bank or any kind of errand,  /']",post office or the bank or any kind of errand  ,+,FEMALE,0
+['{c so. } -/'],c so  ,%,FEMALE,5
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"[""{d well } i think we've really come  a long way in that because, -/""]",d well  i think weve really come  a long way in that because ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+"['i guess i take it for granted, kind of, because,  i just, - /']",i guess i take it for granted kind of because  i just  ,sd,FEMALE,1
+"[""it's always been that way. /""]",its always been that way ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } i know, -/']",c but  i know ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{c but } i can [ rem-, + remember ]  back growing up, my mother, - /']",c but  i can  rem  remember   back growing up my mother  ,sd,FEMALE,1
+['{e i mean } it was - /'],e i mean  it was  ,%,FEMALE,5
+"['she  always worked,  /']",she  always worked  ,sd,FEMALE,1
+"[""{c but } it wasn't that easy  for her to just take off. /""]",c but  it wasnt that easy  for her to just take off ,sd,FEMALE,1
+"['{f oh } no,  /']",f oh  no  ,aa,FEMALE,4
+"['i can remember my mother  getting in trouble if, {d you know, } one of was sick,  /']",i can remember my mother  getting in trouble if d you know  one of was sick  ,sd,FEMALE,1
+"[""{c and } i know she probably didn't   make hardly anything, {d you know, } compared to the work that she did. /""]",c and  i know she probably didnt   make hardly anything d you know  compared to the work that she did ,sd,FEMALE,1
+['{f oh } yeah. /'],f oh  yeah ,aa,FEMALE,4
+"['i think there is still some discrimination  there where [ as, + ] {d you know, } men and women work in the same job,  /']",i think there is still some discrimination  there where  as   d you know  men and women work in the same job  ,sd,FEMALE,1
+"['i think men get paid more, /']",i think men get paid more ,sd,FEMALE,1
+"['{f oh, } i do too. /']",f oh  i do too ,aa,FEMALE,4
+"[""{c but } i think that's improving.  /""]",c but  i think thats improving  ,sv,FEMALE,3
+"[""it's such a slow process  /""]",its such a slow process  ,sv,FEMALE,3
+"[""it's frustrating,  /""]",its frustrating  ,sv,FEMALE,3
+"['{c but, }']",c but ,sv,FEMALE,3
+"['yes,  /']",yes  ,b,FEMALE,2
+['yes. /'],yes ,b,FEMALE,2
+"[""you can see that it's wrong  /""]",you can see that its wrong  ,+,FEMALE,0
+"['{c and } you just want to make it right,  /']",c and  you just want to make it right  ,sv,FEMALE,3
+['{c but } at least the wheels are moving forward. /'],c but  at least the wheels are moving forward ,sv,FEMALE,3
+['they really are. /'],they really are ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""i think it's getting better, not worse.  /""]",i think its getting better not worse  ,sv,FEMALE,3
+"['{d well, } i should probably get back to my job <laughter>. /']",d well  i should probably get back to my job laughter ,fc,FEMALE,10
+"['i know,  /']",i know  ,fc,FEMALE,10
+['<laughter> i know the feeling. /'],laughter i know the feeling ,fc,FEMALE,10
+['call again. /'],call again ,fc,FEMALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+['i sure will.  /'],i sure will  ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

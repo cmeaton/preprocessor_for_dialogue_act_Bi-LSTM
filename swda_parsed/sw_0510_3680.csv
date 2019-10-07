@@ -1,0 +1,84 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['tell me what you think about the vietnam war. /'],tell me what you think about the vietnam war ,ad,MALE,22
+['okay.  /'],okay  ,aa,MALE,4
+"[""{d well, } i'm a vietnam era veteran,  /""]",d well  im a vietnam era veteran  ,sd,MALE,1
+"['{c and, } {f uh, } i was, {f uh, } fortunate not to have to serve in the theater,  /']",c and  f uh  i was f uh  fortunate not to have to serve in the theater  ,sd,MALE,1
+"['however, my support roll in the service was to support those in the theater of operation.  {f uh, }  /']",however my support roll in the service was to support those in the theater of operation  f uh   ,sd,MALE,1
+"[""i'm of the old school that believes that, {f uh, } the, {f uh, } {f uh, } contracts that we made back years ago needed to be honored.  /""]",im of the old school that believes that f uh  the f uh  f uh  contracts that we made back years ago needed to be honored  ,sd,MALE,1
+"['however, {f uh, } i think we could have executed the war {c and } gotten it over a whole lot quicker.  {f uh, }  /']",however f uh  i think we could have executed the war c and  gotten it over a whole lot quicker  f uh   ,sv,MALE,3
+"['{c but } those are my personal thoughts,  /']",c but  those are my personal thoughts  ,sd,MALE,1
+"[""{c and } i think that if we'd let the generals run the war like we let the generals run world war two we'd had got it over a whole lot quicker and lost a lot fewer people.  /""]",c and  i think that if wed let the generals run the war like we let the generals run world war two wed had got it over a whole lot quicker and lost a lot fewer people  ,sv,MALE,3
+"['{c but } as it was, the politicians ran [ the, + the ] korean conflict and  ultimately the vietnam thing,  /']",c but  as it was the politicians ran  the  the  korean conflict and  ultimately the vietnam thing  ,sv,MALE,3
+"['{c and } we managed to come out, {f uh, } losers all the way around.  /']",c and  we managed to come out f uh  losers all the way around  ,sv,MALE,3
+"['{c and } {c so } this is what [ trigger-, + ultimately triggered  ] us, {f uh, } united states, {f uh, } per se, [ being, +  {f uh, } deciding ] to get out of the role of world policeman.  /']",c and  c so  this is what  trigger  ultimately triggered   us f uh  united states f uh  per se  being   f uh  deciding  to get out of the role of world policeman  ,sv,MALE,3
+"['your views, -/']",your views ,ad,MALE,22
+"[""{f uh, } as i understand it, {a {c and } i, {f uh, } <barking> don't know a lot about it, } {f uh, } we got in there because of <barking> france -- /""]",f uh  as i understand it a c and  i f uh  barking dont know a lot about it  f uh  we got in there because of barking france  ,sv,MALE,3
+['{d well. } /'],d well  ,%,MALE,5
+"['-- {f uh, } france was there first.  /']", f uh  france was there first  ,sd,MALE,1
+"['they had, -/']",they had ,%,MALE,5
+"['we got into it because of seato agreement, back just right after world war two that, <noise> {f uh, } we pledged a mutual, {f uh, } {f uh, } defense [ of, + of ] the south vietnamese,  /']",we got into it because of seato agreement back just right after world war two that noise f uh  we pledged a mutual f uh  f uh  defense  of  of  the south vietnamese  ,sd,MALE,1
+"['{c and } as it turned out they were in a civil war one with another,  /']",c and  as it turned out they were in a civil war one with another  ,sd,MALE,1
+['{c and } really we <laughter> <noise> - /'],c and  really we laughter noise  ,%,MALE,5
+"['[ i, + i ] question us, {d you know, } now,  /']", i  i  question us d you know  now  ,sd,MALE,1
+['of course hindsight is all too clear. /'],of course hindsight is all too clear ,sd,MALE,1
+['sure. /'],sure ,b,MALE,2
+"[""{f uh, } {c so, } [ we're, + [ we, + we ] ] [ have to, + have to ] deal [ with, + with  ] the, {f uh, } situation [ as, + as ] we played it. /""]",f uh  c so   were   we  we    have to  have to  deal  with  with   the f uh  situation  as  as  we played it ,sv,MALE,3
+"['jerry, what did you think of people like, {f uh, } jane fonda, another [ war an-, + anti-war ] activist. /']",jerry what did you think of people like f uh  jane fonda another  war an  antiwar  activist ,qw,MALE,12
+"['i, <laughter> - /']",i laughter  ,%,MALE,5
+"[""don't get me started on those people.  /""]",dont get me started on those people  ,sv,MALE,3
+"['{d you know, } [ before she, + before jane fonda  ] [ did, + did ] what she did, i thought she was a wonderful person,  /']",d you know   before she  before jane fonda    did  did  what she did i thought she was a wonderful person  ,sv,MALE,3
+"['{c but } after, {f uh, } {f uh, } {d well, } - /']",c but  after f uh  f uh  d well   ,%,MALE,5
+"[""[ i, + i  ] just don't [ have anything, + want anything ] to do with her any more,  /""]", i  i   just dont  have anything  want anything  to do with her any more  ,sd,MALE,1
+"['{c because } [ you support, +  {f uh, } you support ] your government. /']",c because   you support   f uh  you support  your government ,sv,MALE,3
+['right or wrong? /'],right or wrong ,qy,MALE,7
+"['{f uh, } okay,  /']",f uh  okay  ,na,MALE,21
+"['right or wrong,  /']",right or wrong  ,sd,MALE,1
+"[""i don't think [ [ is, + is, ] + ] we can determine whether we were right or wrong,  /""]",i dont think   is  is    we can determine whether we were right or wrong  ,sv,MALE,3
+"[""{c because, } [ you're, + you're  ] having to deal with, again, {f uh, } - /""]",c because   youre  youre   having to deal with again f uh   ,sv,MALE,3
+['i think we could have made a different agreement --'],i think we could have made a different agreement ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- back in [ [ for-, + the for-, ] + the late forties ] era that would have kept  ((   )) of there. /']", back in   for  the for   the late forties  era that would have kept      of there ,+,MALE,0
+"[""{f uh, } {d you know, } [ i, + i ] didn't  realize that we'd signed some type of deal like  that.  /""]",f uh  d you know   i  i  didnt  realize that wed signed some type of deal like  that  ,sd,MALE,1
+"['i thought we came in as first advisors to the french, and then they decided to pull out  /']",i thought we came in as first advisors to the french and then they decided to pull out  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"['can you hold just a second, terry? /']",can you hold just a second terry ,ad,MALE,22
+['sure. /'],sure ,aa,MALE,4
+['one moment please. /'],one moment please ,ad,MALE,22
+['sure <clicking> <beep>.  <<talking to someone else or himself.>>  /'],sure clicking beep  talking to someone else or himself  ,aa,MALE,4
+['wonder what happens to this little beastie on call waiting or something.  /'],wonder what happens to this little beastie on call waiting or something  ,t1,MALE,37
+"['{f huh, } fascinating.  /']",f huh  fascinating  ,t1,MALE,37
+"[""well that's not, -/""]",well thats not ,t1,MALE,37
+['sorry for the delay. /'],sorry for the delay ,fa,MALE,42
+"[""that's okay. /""]",thats okay ,bd,MALE,38
+"['{f uh, } yeah,  /']",f uh  yeah  ,%,MALE,5
+"['this is, - /']",this is  ,%,MALE,5
+"['[ [ the, + {f uh, } the, ] + the, ] {f uh, } mutual defense thing was, {f uh, } - /']",  the  f uh  the   the  f uh  mutual defense thing was f uh   ,sd,MALE,1
+"['[ we, + we, ] - /']", we  we   ,%,MALE,5
+"['it was complicated,  /']",it was complicated  ,sv,MALE,3
+"[""{c and } i don't think everybody knows the whole situation.  /""]",c and  i dont think everybody knows the whole situation  ,sv,MALE,3
+"[""i don't.  /""]",i dont  ,sd,MALE,1
+"['{c but } from what i can gather, is we went and said yeah,  we will help the south vietnamese, {f uh, } should they ask.  /']",c but  from what i can gather is we went and said yeah  we will help the south vietnamese f uh  should they ask  ,sd,MALE,1
+"['{d well, } the french went in and tried their old style warfare, and, {f uh, } got soundly thrashed.  /']",d well  the french went in and tried their old style warfare and f uh  got soundly thrashed  ,sd,MALE,1
+"[""{c and } we didn't do a whole lot better. /""]",c and  we didnt do a whole lot better ,sd,MALE,1
+"['{f um. }  no,  /']",f um   no  ,aa,MALE,4
+"['[ i + ] had thought that they had, {f uh, } colonies there, or something. /']", i   had thought that they had f uh  colonies there or something ,qy^d,MALE,16
+"['{d well, } yeah,  /']",d well  yeah  ,ny,MALE,9
+"['that was the old french colony, but see, [ the french, + the french ] were our, {f uh, } allies in nato -- /']",that was the old french colony but see  the french  the french  were our f uh  allies in nato  ,sd,MALE,1
+['right. /'],right ,bk,MALE,14
+"[""-- {c and } they're also our allies in seato, which was the southeast asia treaty organization, which has since been, {f uh, } disbanded as far as i know,  /""]", c and  theyre also our allies in seato which was the southeast asia treaty organization which has since been f uh  disbanded as far as i know  ,sd,MALE,1
+"['{d you know, } nato [ is, + is ] on the way of being disbanded.  {f uh, }  /']",d you know  nato  is  is  on the way of being disbanded  f uh   ,sd,MALE,1
+"['{c but, } {f uh, } [ the, + {d you know, } the ] french, {d yeah }  /']",c but  f uh   the  d you know  the  french d yeah   ,%,MALE,5
+"[""we go in as an ally to the french and says yeah,  [ we'll, + we'll ] help you out, if you get in a bind.   /""]",we go in as an ally to the french and says yeah   well  well  help you out if you get in a bind   ,sd,MALE,1
+"[""{d well, } they got in a bind and says we don't want to, {d you know, } play any more -- /""]",d well  they got in a bind and says we dont want to d you know  play any more  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c so, } {f uh, } [ [ we, + we ] kind of, + we kind of ] [ got, + got ] the ball rolling ourselves versus a bunch of top secret silly [ organi-, + {f uh, } {f um, } {f oh, } operations ] and then the [ full scale, + {d you know, } full scale ] troops, et cetera, et cetera, et cetera. /']", c so  f uh    we  we  kind of  we kind of   got  got  the ball rolling ourselves versus a bunch of top secret silly  organi  f uh  f um  f oh  operations  and then the  full scale  d you know  full scale  troops et cetera et cetera et cetera ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i'm thirty-two,  /""]",im thirtytwo  ,sd,MALE,1
+"['{c so, } {f uh, } i bar-, - /']",c so  f uh  i bar  ,%,MALE,5
+"['{d well, } i missed it.  /']",d well  i missed it  ,sd,MALE,1
+['seventy-four is when they quit sending troops. /'],seventyfour is when they quit sending troops ,sd,MALE,1
+"['{f uh, } yeah,  /']",f uh  yeah  ,aa,MALE,4
+['yeah  /'],yeah  ,aa,MALE,4
+['roughly. /'],roughly ,aap_am,MALE,39
+['yeah.  /'],yeah  ,aa,MALE,4
+"['i was just probably three or four years, /']",i was just probably three or four years ,sd,MALE,1

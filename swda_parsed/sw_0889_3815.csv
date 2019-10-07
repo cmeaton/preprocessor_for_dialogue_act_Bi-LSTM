@@ -1,0 +1,128 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } are you in the market for a new car? /']",d well  are you in the market for a new car ,qy,FEMALE,7
+"['{f uh, } {d well, } yeah,  /']",f uh  d well  yeah  ,ny,MALE,9
+['i am as a matter of fact.  /'],i am as a matter of fact  ,sd,MALE,1
+"[""{d well, } {d [ act-, + actually ] } i'm looking for another car,  /""]",d well  d  act  actually   im looking for another car  ,sd,MALE,1
+"['{c but, } {f uh, } {f uh, } new,  /']",c but  f uh  f uh  new  ,sd,MALE,1
+['probably not. -/'],probably not ,%,MALE,5
+['oh.  /'],oh  ,b,FEMALE,2
+['what sort of requirements to you have for your car? /'],what sort of requirements to you have for your car ,qw,FEMALE,12
+"['{f uh, } sports car. /']",f uh  sports car ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } usually {c either } black {c or } red. /']",f uh  usually c either  black c or  red ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['and electric windows, and power locks <laughter>. /']",and electric windows and power locks laughter ,sd,MALE,1
+['i see <laughter>. /'],i see laughter ,ba,FEMALE,6
+"['{d now, } -/']",d now  ,%,MALE,5
+"['[ top of, + <laughter> top of ] the line. /']", top of  laughter top of  the line ,qy^d,FEMALE,16
+"['{d well, } not so much that as it is, - /']",d well  not so much that as it is  ,ng,MALE,29
+"[""i've had so many times when, {f uh, } {f uh, } {d you know, } i'll have a friend next to me or i see [ somebody, + ] {f uh, } guy broken down on the side of the road and try to lean over and roll down the window. /""]",ive had so many times when f uh  f uh  d you know  ill have a friend next to me or i see  somebody   f uh  guy broken down on the side of the road and try to lean over and roll down the window ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['it is just a real pain,  /']",it is just a real pain  ,sd,MALE,1
+"[""{c or, } {d you know, } if i'm driving along and there's somebody next to me and, {f uh, } somebody that i know and you try to talk to them --""]",c or  d you know  if im driving along and theres somebody next to me and f uh  somebody that i know and you try to talk to them ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- it's real difficult to drive, reach over, and try to roll down the window. /""]", its real difficult to drive reach over and try to roll down the window ,+,MALE,0
+"['right,  /']",right  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+"['[ {c and, } + {f uh, } {c so, } ] power locks, power windows are [ just, +  just ] things that, {f uh, } just really help a lot <laughter>. /']", c and   f uh  c so   power locks power windows are  just   just  things that f uh  just really help a lot laughter ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['what about you? /'],what about you ,qo,MALE,25
+"[""{d well, } i guess i'm, {f uh, } more traditional in that i don't like [ p-, + <laughter> power ] windows or power locks,""]",d well  i guess im f uh  more traditional in that i dont like  p  laughter power  windows or power locks,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['because the people that i know [ h-, + ] who have them always seem to have trouble with them. /']",because the people that i know  h   who have them always seem to have trouble with them ,+,FEMALE,0
+['oh. /'],oh ,b,MALE,2
+"[""[ {c and, } + {f uh, } {c so } ] [ i don't, + i just don't ] like anything that i can't figure out why it doesn't work <laughter>. /""]", c and   f uh  c so    i dont  i just dont  like anything that i cant figure out why it doesnt work laughter ,sd,FEMALE,1
+['sure. /'],sure ,b,MALE,2
+"['{c and then } i want, {d you know, } good, {f uh, } gas mileage  /']",c and then  i want d you know  good f uh  gas mileage  ,sd,FEMALE,1
+['{c and } i want an air bag  /'],c and  i want an air bag  ,sd,FEMALE,1
+"['{c and, } {f uh, } i guess, -/']",c and  f uh  i guess ,%,FEMALE,5
+['have you ever had a car with an air bag? /'],have you ever had a car with an air bag ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i haven't.  /""]",i havent  ,sd,FEMALE,1
+['have you? /'],have you ,qy,FEMALE,7
+['no. /'],no ,nn,MALE,13
+"['somehow i just think, {d you know, } i like the idea <laughter>. /']",somehow i just think d you know  i like the idea laughter ,sd,FEMALE,1
+"['{d well, } [ it, + it ] [ see-, + sure seems ] to save lives  /']",d well   it  it   see  sure seems  to save lives  ,sd,MALE,1
+['{c and } -- -/'],c and   ,%,MALE,5
+['right. /'],right ,b,FEMALE,2
+"['-- {f uh, } yeah.  /']", f uh  yeah  ,b,MALE,2
+"['[ i, + {d actually, } i ] like the anti-lock brakes. /']", i  d actually  i  like the antilock brakes ,sd,MALE,1
+"['right,  /']",right  ,aa,FEMALE,4
+"[""that's a good idea. /""]",thats a good idea ,sv,FEMALE,3
+"['{c and } i have never had a chance to, - /']",c and  i have never had a chance to  ,sd,MALE,1
+"['i have been in cars that have had them,  /']",i have been in cars that have had them  ,sd,MALE,1
+"[""{c but } i've never tromped on the brakes [ to see, + {f uh, } {d you know, } on ice or water just to see ] if they didn't lock up. /""]",c but  ive never tromped on the brakes  to see  f uh  d you know  on ice or water just to see  if they didnt lock up ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c but, } {f uh, } you think you'd buy, {f uh, } an american car or a european or  japanese? /""]",c but  f uh  you think youd buy f uh  an american car or a european or  japanese ,qy,MALE,7
+"[""{d well, } [ i, + {d actually } i ] don't know a lot about different brands.  /""]",d well   i  d actually  i  dont know a lot about different brands  ,sd,FEMALE,1
+"['i tend to have, {d you know, } my requirements like the last time i bought a car [ i, + i ] guess i did sort of prefer american  /']",i tend to have d you know  my requirements like the last time i bought a car  i  i  guess i did sort of prefer american  ,sd,FEMALE,1
+"['{c and } my requirements were basically, {d you know, } good repair record, good mileage, {f uh, }  /']",c and  my requirements were basically d you know  good repair record good mileage f uh   ,sd,FEMALE,1
+['<lipsmack> {c and } i needed air-conditioning  /'],lipsmack c and  i needed airconditioning  ,sd,FEMALE,1
+"[""{c and, }  {f uh, } <lipsmack> can't remember what my, {f oh, } - /""]",c and   f uh  lipsmack cant remember what my f oh   ,sd,FEMALE,1
+"[""i wanted [ s-, +  {f uh, } stick ] shift.  {c and,  so } i didn't have a whole lot of choice <laughter>.  /""]",i wanted  s   f uh  stick  shift  c and  so  i didnt have a whole lot of choice laughter  ,sd,FEMALE,1
+"['there was one car in all of [ the, + the ] metropolitan area that i could find that, {d you know, } was sort of a medium priced car with a <laughter> stick shift in it. /']",there was one car in all of  the  the  metropolitan area that i could find that d you know  was sort of a medium priced car with a laughter stick shift in it ,sd,FEMALE,1
+['what was that? /'],what was that ,qw,MALE,12
+"['[  it, + it ] turned out to be [ a, + a ] chrysler.  {f uh } <lipsmack>, lancer. /']",  it  it  turned out to be  a  a  chrysler  f uh  lipsmack lancer ,sd,FEMALE,1
+"['huh,  /']",huh  ,b,MALE,2
+"['stick shift,  /']",stick shift  ,b^m,MALE,24
+['huh? /'],huh ,^g,MALE,40
+['yeah. /'],yeah ,ny,FEMALE,9
+"['did it have, what, a three speed or a four speed? /']",did it have what a three speed or a four speed ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['a five speed.  /'],a five speed  ,sd,FEMALE,1
+"[""{c and } [ it, + basically, it ] was something that a military guy had ordered and hadn't picked up,  /""]",c and   it  basically it  was something that a military guy had ordered and hadnt picked up  ,sd,FEMALE,1
+['{c and so } it had been on the lot three months  /'],c and so  it had been on the lot three months  ,sd,FEMALE,1
+['{c and } they were really eager to sell it. /'],c and  they were really eager to sell it ,sd,FEMALE,1
+['wow. /'],wow ,ba,MALE,6
+"[""{c so, } i guess in this area, at least, {d you know, } if it's not automatic, it doesn't move. /""]",c so  i guess in this area at least d you know  if its not automatic it doesnt move ,sv,FEMALE,3
+"['{d well, } {d actually, } i much prefer a stick shift  /']",d well  d actually  i much prefer a stick shift  ,sd,MALE,1
+"[""{c and, } what, [ i'm, + i'm ] curious. - /""]",c and  what  im  im  curious  ,%,MALE,5
+"['[ i, + i ] know why i love a stick shift.  /']", i  i  know why i love a stick shift  ,sd,MALE,1
+"['[ why d-, + <laughter> why did ] you want one? /']", why d  laughter why did  you want one ,qw,MALE,12
+"['{d well, } i just wanted it because, again, i had, i guess traditionally always had a car that had one  /']",d well  i just wanted it because again i had i guess traditionally always had a car that had one  ,sd,FEMALE,1
+['{c and } i thought it would be more reliable. /'],c and  i thought it would be more reliable ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } /']",f uh  ,b,FEMALE,2
+"[""it's hard to find stick shift cars anymore. /""]",its hard to find stick shift cars anymore ,sv,MALE,3
+['<laughter> i found that out. /'],laughter i found that out ,aa,FEMALE,4
+['<laughter>.'],laughter,x,MALE,8
+"['<laughter> {e i mean, } {d you know, } the people would just sort of look at me like, you must be crazy when i,']",laughter e i mean  d you know  the people would just sort of look at me like you must be crazy when i,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['went in to, and asked and that was a requirement  /']",went in to and asked and that was a requirement  ,+,FEMALE,0
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['huh,  /']",huh  ,b,MALE,2
+['yeah. /'],yeah ,%,MALE,5
+"['{d so, } -/']",d so  ,%,FEMALE,5
+"['no,  /']",no  ,nn,MALE,13
+['{e i mean } most of the sports cars are stick shift. /'],e i mean  most of the sports cars are stick shift ,sd,MALE,1
+"[""{d well, } i'm not even sure all of them are anymore.  at least in this area. /""]",d well  im not even sure all of them are anymore  at least in this area ,sd,FEMALE,1
+['huh. /'],huh ,b,MALE,2
+"['not that i was looking for sports cars,  /']",not that i was looking for sports cars  ,sd,FEMALE,1
+"[""{c but, } {d now } the people i've talked to don't seem to have stick shift. /""]",c but  d now  the people ive talked to dont seem to have stick shift ,sd,FEMALE,1
+['huh. /'],huh ,b,MALE,2
+['{c and so } why do you like stick shift? /'],c and so  why do you like stick shift ,qw,FEMALE,12
+"[""{f uh, } i guess [ i, + i ] grew up on it {c and } it's fun.  /""]",f uh  i guess  i  i  grew up on it c and  its fun  ,sd,MALE,1
+"[""[  it's, + it's ] an enjoyable part of driving.  /""]",  its  its  an enjoyable part of driving  ,sd,MALE,1
+"['i do feel like i have, {f uh, } more control --']",i do feel like i have f uh  more control ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- over the car  /'], over the car  ,+,MALE,0
+"['{c and } [ [ it, + it, ] + to me, it ] gives me more, a lot more control in snow and ice --']",c and    it  it   to me it  gives me more a lot more control in snow and ice ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and slick conditions. /'], and slick conditions ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"['{f uh, } [ it, + [ i-, + ] it ] does, {f uh, }  /']",f uh   it   i   it  does f uh   ,%,MALE,5
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"[""[ it, + it's ] really more fun than anything  /""]", it  its  really more fun than anything  ,sd,MALE,1
+"[""[ else. + ]  as long as you're not stuck in heavy traffic, it's fun  <laughter>. /""]", else    as long as youre not stuck in heavy traffic its fun  laughter ,sv,MALE,3
+"['right,  /']",right  ,b,FEMALE,2
+"[""{c and } {d actually } it's probably safer on, {d you know, } [ at + ] long trips because it keeps you more active. /""]",c and  d actually  its probably safer on d you know   at   long trips because it keeps you more active ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah  /'],yeah  ,b,MALE,2
+['<sniffing>.'],sniffing,x,MALE,8
+"['{d so, } -/']",d so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{f uh, } of course, i like gadgets [ and, + and, ] {f uh, } fun things,']",f uh  of course i like gadgets  and  and  f uh  fun things,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['<laughter> on the cars, which are all the things, course, the c-, -/']",laughter on the cars which are all the things course the c ,+,MALE,0

@@ -1,0 +1,246 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""{d well } like i was saying, burlington's crime, it doesn't involve children  /""]",d well  like i was saying burlingtons crime it doesnt involve children  ,sd,FEMALE,1
+"['{c and, }  what you see on the t v -s [ from, + {d you know, } in ] washington and new york. - /']",c and   what you see on the t v s  from  d you know  in  washington and new york  ,sd,FEMALE,1
+"['{c so } what i believe the people want, - /']",c so  what i believe the people want  ,sv,FEMALE,3
+"[""the subject [ is, + is ] big city crime, which is something that i don't have any first hand experiences about,  /""]",the subject  is  is  big city crime which is something that i dont have any first hand experiences about  ,sd,FEMALE,1
+"['{c but } i have, {d you know, } concerns,  /']",c but  i have d you know  concerns  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- i have a few ideas of, {f um, } how to combat it.  /']", i have a few ideas of f um  how to combat it  ,+,FEMALE,0
+"[""{e i mean, }  [ i  don't, + i don't ] think, ideally, {d you know, } you need money to do everything  /""]",e i mean    i  dont  i dont  think ideally d you know  you need money to do everything  ,sd,FEMALE,1
+['{c so } --'],c so  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- that's one thing  /""]", thats one thing  ,+,FEMALE,0
+"[""[ [ that, + that's, ] + that's ] crime that you can't fight it if you need that money.  /""]",  that  thats   thats  crime that you cant fight it if you need that money  ,sd,FEMALE,1
+['# {c so. } # -/'], c so   ,%,FEMALE,5
+"['# right, #  /']", right   ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } when, {f uh, } we lived in san antonio,  /']",d well  when f uh  we lived in san antonio  ,sd,FEMALE,1
+"['i grew up around san antonio,  /']",i grew up around san antonio  ,sd,FEMALE,1
+"[""{c and } it's always been a very large, {f uh, } city, and increasingly growing.  /""]",c and  its always been a very large f uh  city and increasingly growing  ,sd,FEMALE,1
+"[""it's has kind of the split population.  /""]",its has kind of the split population  ,sd,FEMALE,1
+"[""{f um, } there's a lot of retired military, {f uh, } individuals that live there,  /""]",f um  theres a lot of retired military f uh  individuals that live there  ,sd,FEMALE,1
+"[""{c and then } there's a very large hispanic population there.  /""]",c and then  theres a very large hispanic population there  ,sd,FEMALE,1
+"['{c and } the one thing that we noticed that over the years has gotten worse and worse is hispanic, {f uh, } gang crime in the city -- /']",c and  the one thing that we noticed that over the years has gotten worse and worse is hispanic f uh  gang crime in the city  ,sd,FEMALE,1
+"['# {f oh, } # /']", f oh   ,b,FEMALE,2
+"[""-- # {c and } # that has, {f uh, } been the worse thing that we've seen happening. /""]",  c and   that has f uh  been the worse thing that weve seen happening ,sd,FEMALE,1
+"[""does it spread out of the neighborhoods into [ the more + the, ] {f uh, } retired people's community,  /""]",does it spread out of the neighborhoods into  the more  the  f uh  retired peoples community  ,qy^d,FEMALE,16
+['{c or } does it stay in the bad neighborhoods? /'],c or  does it stay in the bad neighborhoods ,qrr,FEMALE,33
+"['{f um, } the majority of the actual gang crimes, like [ the pat-, +  the drive by shootings ] and stuff stays in the neighborhoods,  /']",f um  the majority of the actual gang crimes like  the pat   the drive by shootings  and stuff stays in the neighborhoods  ,sd,FEMALE,1
+"['{c but } the crime spreads out into the more affluent divisions through robberies, rape {c and, }  {f uh, } car crime.  /']",c but  the crime spreads out into the more affluent divisions through robberies rape c and   f uh  car crime  ,sd,FEMALE,1
+"[""there's a [ very large, + {f uh, } {e or } very high ] percentage of car theft.  /""]",theres a  very large  f uh  e or  very high  percentage of car theft  ,sd,FEMALE,1
+"[""{c and }  [ san an-, + san antonio's ] not far from the border to mexico,  /""]",c and    san an  san antonios  not far from the border to mexico  ,sd,FEMALE,1
+"['{c so } a lot of the, {f uh, } cars go to, {f uh, } {d you know, }  ((   ))  shops,  /']",c so  a lot of the f uh  cars go to f uh  d you know        shops  ,sd,FEMALE,1
+"['{c and } they take them apart,  /']",c and  they take them apart  ,sd,FEMALE,1
+"['{c and } a lot of them go over the border, especially like mercedes.  /']",c and  a lot of them go over the border especially like mercedes  ,sd,FEMALE,1
+"['a lot of [ those, + those ] in  [ [ the, + the  ]   z, + {f uh, } the  z  ] cars, the datsun cars end up over the border,  /']",a lot of  those  those  in    the  the     z  f uh  the  z   cars the datsun cars end up over the border  ,sd,FEMALE,1
+['{c and } {f uh } -- -/'],c and  f uh   ,%,FEMALE,5
+"[""{c so } that's a big concern if you live there,""]",c so  thats a big concern if you live there,qy^d,FEMALE,16
+"['-- # very much so, # /']",  very much so  ,na,FEMALE,21
+['# is to really lock your car up # . /'], is to really lock your car up   ,+,FEMALE,0
+"['very much so,  /']",very much so  ,na,FEMALE,21
+"['in fact, for a while there they had downtown if you were to come to a stop light, they had a rash of [ where people were, + when people were ] stopped at stop signs that people would get in their car and hold a knife and  hold them up.  /']",in fact for a while there they had downtown if you were to come to a stop light they had a rash of  where people were  when people were  stopped at stop signs that people would get in their car and hold a knife and  hold them up  ,sd,FEMALE,1
+"[""{c so } now, ever since then, when you drive into the city, most people keep their doors locked while they're in the car, until they get down there,  /""]",c so  now ever since then when you drive into the city most people keep their doors locked while theyre in the car until they get down there  ,sd,FEMALE,1
+"[""{c and } once you've reached [ the, + the ] river walk area, which is the tourist area, it's usually pretty safe during the day, if you're just kind of cautious and don't go down the back streets or alleys, [ and, + ] {f um, } {d you know, } or alone.  /""]",c and  once youve reached  the  the  river walk area which is the tourist area its usually pretty safe during the day if youre just kind of cautious and dont go down the back streets or alleys  and   f um  d you know  or alone  ,sd,FEMALE,1
+"[""if you stay with the groups and along the area where they have the river patrol cops, it's very nice.  /""]",if you stay with the groups and along the area where they have the river patrol cops its very nice  ,sd,FEMALE,1
+"['{c but } [ at, + at ] evening, {f um, } again, [ you, + they ] have the high tourist area, the river walk area, which is nice,  /']",c but   at  at  evening f um  again  you  they  have the high tourist area the river walk area which is nice  ,sd,FEMALE,1
+"[""{c but } you don't want to get off the beaten track.  /""]",c but  you dont want to get off the beaten track  ,sd,FEMALE,1
+"[""{f um, } there's a lot of parking garages there because parking is very tight.  /""]",f um  theres a lot of parking garages there because parking is very tight  ,sd,FEMALE,1
+"[""{c and so } you don't want to get caught in the parking garage, {f uh, } alone. /""]",c and so  you dont want to get caught in the parking garage f uh  alone ,sd,FEMALE,1
+"['{f oh, } {d my, } it sounds like, {f um, } san juan, puerto rico,  /']",f oh  d my  it sounds like f um  san juan puerto rico  ,sd,FEMALE,1
+"['we were there just, {d well } for a lay over -- /']",we were there just d well  for a lay over  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, }  {f um, } {d well, } it wasn't a lay over,  /""]", c and   f um  d well  it wasnt a lay over  ,sd,FEMALE,1
+"['[ [ we were, + we had, ] + we were ] staying at the other end of the island,  /']",  we were  we had   we were  staying at the other end of the island  ,sd,FEMALE,1
+['{c and } we drove into san juan to catch our plane. /'],c and  we drove into san juan to catch our plane ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['it was at night,  /']",it was at night  ,sd,FEMALE,1
+"['{c and } this boy really wanted to go on the beach,  /']",c and  this boy really wanted to go on the beach  ,sd,FEMALE,1
+['{c and } they look at you crazy -- /'],c and  they look at you crazy  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- you don't go on the beach. /""]", you dont go on the beach ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {d well, } it's a big tourist town, {d you know, }  /""]", d well  its a big tourist town d you know   ,sd,FEMALE,1
+"[""[ don't they, + don't people ] go for a walk on the beach at night?  /""]", dont they  dont people  go for a walk on the beach at night  ,^q,FEMALE,19
+"['{c and } they said, no,  /']",c and  they said no  ,sd,FEMALE,1
+"[""it's very safe in the daytime -- /""]",its very safe in the daytime  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but } at night, they even have the policemen come around at dusk and sound their sirens, pretty much telling people, be wary, {d you know, } and get off the beach. /']", c but  at night they even have the policemen come around at dusk and sound their sirens pretty much telling people be wary d you know  and get off the beach ,sd,FEMALE,1
+"[""it's just so sad, {d you know, }  /""]",its just so sad d you know   ,sv,FEMALE,3
+"['it is just really so sad, {d you know, }  /']",it is just really so sad d you know   ,sv,FEMALE,3
+"[""it is just really so sad because you can't enjoy anything any more.  /""]",it is just really so sad because you cant enjoy anything any more  ,sv,FEMALE,3
+"[""{f um, } in san antonio i don't know what the answer is.  /""]",f um  in san antonio i dont know what the answer is  ,sd,FEMALE,1
+"['education, i think, is a lot of it.  /']",education i think is a lot of it  ,sv,FEMALE,3
+"['{f um, } so  many of the kids are drop outs.  /']",f um  so  many of the kids are drop outs  ,sd,FEMALE,1
+"[""{f um, } {f uh, } there's a lot of drugs that go on, and that they just have hopeless lives.  /""]",f um  f uh  theres a lot of drugs that go on and that they just have hopeless lives  ,sd,FEMALE,1
+"['[ they, + they ] lead themselves down hopeless tunnels.  /']", they  they  lead themselves down hopeless tunnels  ,sd,FEMALE,1
+['i think education helps a little bit there.  /'],i think education helps a little bit there  ,sv,FEMALE,3
+"[""{f um, } then again, i don't know really what steps there are that they, -/""]",f um  then again i dont know really what steps there are that they ,sv,FEMALE,3
+"['{d well, } [ what they, + what they ] say they try to do is to get the kids, {f um, } early and young. /']",d well   what they  what they  say they try to do is to get the kids f um  early and young ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } what we have here in burlington, which it doesn't cost a lot of money, but they have a kids council --""]",c and  what we have here in burlington which it doesnt cost a lot of money but they have a kids council ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- that they have all these after school activities for kids. /'], that they have all these after school activities for kids ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['they set up kids with elderly people, in the winter time they shovel their snow.  /']",they set up kids with elderly people in the winter time they shovel their snow  ,sd,FEMALE,1
+"['they have a big brother, big sister program. /']",they have a big brother big sister program ,sd,FEMALE,1
+"['they have bottle drives,  /']",they have bottle drives  ,sd,FEMALE,1
+['they have cleanup outings.  /'],they have cleanup outings  ,sd,FEMALE,1
+"['{c and } they have also organized fun activities like gyms, going to the beach, and playing volleyball at the beach in the summer,  /']",c and  they have also organized fun activities like gyms going to the beach and playing volleyball at the beach in the summer  ,sd,FEMALE,1
+['{c and } they have gyms open.  /'],c and  they have gyms open  ,sd,FEMALE,1
+['{c and } it seems that the younger you can get them and get them involved with programs --'],c and  it seems that the younger you can get them and get them involved with programs ,sd,FEMALE,1
+"['-- after school, you might keep them -- /']", after school you might keep them  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but } [ you, + again, you ] need that one on one like a big brother, trying to [ keep the younger kid, + {d you know, } tell him,  ] hey stay in school,  /']", c but   you  again you  need that one on one like a big brother trying to  keep the younger kid  d you know  tell him   hey stay in school  ,sd,FEMALE,1
+"[""it'll get better, {d you know, }  /""]",itll get better d you know   ,sv,FEMALE,3
+"[""so that your mom doesn't have a job -- -/""]",so that your mom doesnt have a job  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } she doesn't work,  /""]", c and  she doesnt work  ,sv,FEMALE,3
+"[""you don't know,  /""]",you dont know  ,sv,FEMALE,3
+['you can be better than that.  /'],you can be better than that  ,sv,FEMALE,3
+"[""you don't have to live [ on the, + ] {d you know, } for a street life. /""]",you dont have to live  on the   d you know  for a street life ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c but. } -/'],c but  ,%,FEMALE,5
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""that's good, that sounds like they've got a lot going on there. /""]",thats good that sounds like theyve got a lot going on there ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{c but } it's so cheap they don't have a problem here.  /""]",c but  its so cheap they dont have a problem here  ,sd,FEMALE,1
+"['{e i mean, } {f um, } they can deal with that --']",e i mean  f um  they can deal with that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- scale.  /'], scale  ,+,FEMALE,0
+['they might have five hundred troubled youths. /'],they might have five hundred troubled youths ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""when you have five thousand troubled youths, plus when you're getting into [ th-, + {d well, }  the  ] kids now, it's twelve years old  /""]",when you have five thousand troubled youths plus when youre getting into  th  d well   the   kids now its twelve years old  ,sd,FEMALE,1
+"[""{c and } they're selling drugs -- /""]",c and  theyre selling drugs  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } they've got a fifteen year old that's their boss --""]", c and  theyve got a fifteen year old thats their boss ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- that is carrying a gun. /'], that is carrying a gun ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ it's just, + it's ] the morals of the people which, {e i mean, } i guess [ we, + everybody's ] responsible for the society,  /""]", its just  its  the morals of the people which e i mean  i guess  we  everybodys  responsible for the society  ,sv,FEMALE,3
+"['{c but, }  if i had a child [ that, + that ] did things so bad, - /']",c but   if i had a child  that  that  did things so bad  ,sd,FEMALE,1
+"[""it's not, they don't care about anybody -- /""]",its not they dont care about anybody  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- these people they're stealing from,  they're just the big bad rich guy -- /""]", these people theyre stealing from  theyre just the big bad rich guy  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } we don't have it,  /""]", c and  we dont have it  ,^q,FEMALE,19
+"['{c so } we deserve it,  /']",c so  we deserve it  ,^q,FEMALE,19
+['{c and } we should take it. /'],c and  we should take it ,^q,FEMALE,19
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""i don't know how you combat that.  /""]",i dont know how you combat that  ,sd,FEMALE,1
+"[""[ i, + i ] don't know where you start [ or, + ] with a lot of these kids,  /""]", i  i  dont know where you start  or   with a lot of these kids  ,sd,FEMALE,1
+"['{f um, } so many of them, all they see is just the gangs -- /']",f um  so many of them all they see is just the gangs  ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"[""-- {c and } unless you can take them out of the environment enough to where they don't have the peer pressure from the gangs as soon as they come home from school. /""]", c and  unless you can take them out of the environment enough to where they dont have the peer pressure from the gangs as soon as they come home from school ,sd,FEMALE,1
+"['{d well, } i think a lot of it is the parents are totally irresponsible, too.  /']",d well  i think a lot of it is the parents are totally irresponsible too  ,sv,FEMALE,3
+"[""we're talking --""]",were talking ,sd,FEMALE,1
+['{f oh } yeah. /'],f oh  yeah ,b,FEMALE,2
+['-- these kids are fourteen years old.  /'], these kids are fourteen years old  ,+,FEMALE,0
+['the parents might be thirty years old -- /'],the parents might be thirty years old  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } i'm thirty years old,  /""]", c and  im thirty years old  ,sd,FEMALE,1
+"[""{c and } i'm kind of irresponsible,  /""]",c and  im kind of irresponsible  ,sd,FEMALE,1
+"['{c but } i have the morals that keep me from, {d you know, } - /']",c but  i have the morals that keep me from d you know   ,sd,FEMALE,1
+"[""if i was going to go out and drink or do something, i wouldn't do it in front of my child.  /""]",if i was going to go out and drink or do something i wouldnt do it in front of my child  ,sd,FEMALE,1
+"['these people, {d you know, } they bring [ their, + their ] johns home  /']",these people d you know  they bring  their  their  johns home  ,sv,FEMALE,3
+['{c and } they bring their drugs home  /'],c and  they bring their drugs home  ,sv,FEMALE,3
+['{c and } the kids are just sitting there in the same room. /'],c and  the kids are just sitting there in the same room ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's just that they have absolutely [ no, + no ] morals -- /""]",its just that they have absolutely  no  no  morals  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } it's really sad. /""]", c and  its really sad ,sv,FEMALE,3
+"[""{c and } i don't know how you combat that.  /""]",c and  i dont know how you combat that  ,sd,FEMALE,1
+"['i rea-, - /']",i rea  ,%,FEMALE,5
+"[""i don't know what the answer is to that problem, {d you know. } /""]",i dont know what the answer is to that problem d you know  ,sd,FEMALE,1
+['{c but } i like your idea of education <laughter> -- /'],c but  i like your idea of education laughter  ,sd,FEMALE,1
+"['uh-huh <laughter>, /']",uhhuh laughter ,b,FEMALE,2
+"[""-- {e i mean } if the parents aren't supplying it, they've got to get it --""]", e i mean  if the parents arent supplying it theyve got to get it ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- from someone else --'], from someone else ,+,FEMALE,0
+"['yeah, /']",yeah ,b,FEMALE,2
+"['-- from the schools, /']", from the schools ,+,FEMALE,0
+"['{c and } what do those kids do,  /']",c and  what do those kids do  ,sv,FEMALE,3
+"['they get it at school and come home,  /']",they get it at school and come home  ,sv,FEMALE,3
+['what do they do then.  /'],what do they do then  ,sv,FEMALE,3
+"['[ [ i, + i ] feel,  + i feel ] for them,  /']",  i  i  feel   i feel  for them  ,sd,FEMALE,1
+"[""i don't know how to make it better for them  /""]",i dont know how to make it better for them  ,sd,FEMALE,1
+"[""{c or, } {d you know, } because [ it, + ]  they can't remove themselves,  /""]",c or  d you know  because  it    they cant remove themselves  ,sv,FEMALE,3
+"[""they can't just leave and say okay, {d well, } it's not acceptable,  /""]",they cant just leave and say okay d well  its not acceptable  ,sv,FEMALE,3
+"[""i'm leaving the big city, mom,  /""]",im leaving the big city mom  ,^q,FEMALE,19
+"[""{c and } [ i'm, + i'm ] going off, {d you know, }  /""]",c and   im  im  going off d you know   ,^q,FEMALE,19
+"[""when they're ten, they have to live in it,  /""]",when theyre ten they have to live in it  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""it's really sad,  /""]",its really sad  ,sv,FEMALE,3
+"['{d like } if they did have a big brother, big sister program -- -/']",d like  if they did have a big brother big sister program  ,sv,FEMALE,3
+"['-- [ those, + those ] people trying to help the kids,  /']",  those  those  people trying to help the kids  ,sv,FEMALE,3
+"['the parents might have hostilities towards them, {d you know, }']",the parents might have hostilities towards them d you know ,sv,FEMALE,3
+"['right,  /']",right  ,b,FEMALE,2
+"['i think so,  /']",i think so  ,sv,FEMALE,3
+"['{c and } {f uh, } -/']",c and  f uh  ,%,FEMALE,5
+"[""like you're judging us,  /""]",like youre judging us  ,+,FEMALE,0
+"[""{c and } i'm not good enough to raise my child, which basically is true -- /""]",c and  im not good enough to raise my child which basically is true  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- [ [ it's, + it's, ] + it's, ] - /""]",   its  its   its   ,%,FEMALE,5
+"[""i'm glad i don't live in a big city --""]",im glad i dont live in a big city ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['yeah, /']",yeah ,b,FEMALE,2
+"[""-- [ just because, + {e i mean, } not just because ] i wouldn't feel safe,  /""]",  just because  e i mean  not just because  i wouldnt feel safe  ,+,FEMALE,0
+"[""it's just because that i would be reminded every day --""]",its just because that i would be reminded every day ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- of something that i don't see,  /""]", of something that i dont see  ,+,FEMALE,0
+"['{c and } i might see it on [ a, + {d you know, } a ] sixty minutes special. /']",c and  i might see it on  a  d you know  a  sixty minutes special ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['no,  /']",no  ,b,FEMALE,2
+"['in san antonio it was {d like } every day,  /']",in san antonio it was d like  every day  ,sd,FEMALE,1
+"['it was just a matter of who was shot that night, /']",it was just a matter of who was shot that night ,sd,FEMALE,1
+['i know it  /'],i know it  ,sd,FEMALE,1
+"['{c but } san antonio is considered a nice clean city, believe it or  not <laughter>. /']",c but  san antonio is considered a nice clean city believe it or  not laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{e i mean, } they have all kinds of nice write ups about it -- /']",e i mean  they have all kinds of nice write ups about it  ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+"['[ {c but, } +']", c but  ,sd,FEMALE,1
+['-- {c but } any big city has a bad section. /'], c but  any big city has a bad section ,^2,FEMALE,23
+"[""{c but } ] there's a lot of them,  /""]",c but   theres a lot of them  ,+,FEMALE,0
+"[""it's very prevalent,  /""]",its very prevalent  ,sd,FEMALE,1
+['a lot of the crime is very prevalent. /'],a lot of the crime is very prevalent ,sd,FEMALE,1
+"['yes,  /']",yes  ,b,FEMALE,2
+"[""they're very bold it seems. /""]",theyre very bold it seems ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['very much.  /'],very much  ,sd,FEMALE,1
+"[""when we moved here to monterrey it was a big change, because it's such a small community,  /""]",when we moved here to monterrey it was a big change because its such a small community  ,sd,FEMALE,1
+"[""we're just above carmel,  /""]",were just above carmel  ,sd,FEMALE,1
+"[""{c and, }  {f um, } there's hardly, - /""]",c and   f um  theres hardly  ,sd,FEMALE,1
+"['most everybody seems pretty well employed around here,  /']",most everybody seems pretty well employed around here  ,sd,FEMALE,1
+"[""{c and } {f um, } those that aren't, - /""]",c and  f um  those that arent  ,%,FEMALE,5
+"[""there's celinas which is about a fifteen minute drive, which is mostly migrant workers,  /""]",theres celinas which is about a fifteen minute drive which is mostly migrant workers  ,sd,FEMALE,1
+"[""{c and } there's a lot of crime there,  {f um, } migrant hispanic farm workers, people that are down and out,  /""]",c and  theres a lot of crime there  f um  migrant hispanic farm workers people that are down and out  ,sd,FEMALE,1
+"['{c and } {f uh, } they all seem to congregate in celinas, not so much here in monterrey.  /']",c and  f uh  they all seem to congregate in celinas not so much here in monterrey  ,sd,FEMALE,1
+"[""{c so, } [ it's, + it's ] pretty quiet.  {d you know, }  /""]",c so   its  its  pretty quiet  d you know   ,sd,FEMALE,1
+"['we walk the streets at night,  /']",we walk the streets at night  ,sd,FEMALE,1
+"['{c and, }  {f uh, } people run in the park,  /']",c and   f uh  people run in the park  ,sd,FEMALE,1
+"[""{c and } {d you know, } you're just, - /""]",c and  d you know  youre just  ,%,FEMALE,5
+"[""have your normal smarts about you, then you really don't have to worry,  /""]",have your normal smarts about you then you really dont have to worry  ,sd,FEMALE,1
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['really,  /']",really  ,b,FEMALE,2
+"['[ even, + {f uh, } even ] in the worst crime areas in burlington,  /']", even  f uh  even  in the worst crime areas in burlington  ,sd,FEMALE,1
+"['[ i, + i ] can walk the streets.  /']", i  i  can walk the streets  ,sd,FEMALE,1
+"[""i wouldn't, - /""]",i wouldnt  ,%,FEMALE,5
+"['[ i, + if i  ] did it every night --']", i  if i   did it every night ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- i think there would be trouble in our house,  /']", i think there would be trouble in our house  ,+,FEMALE,0
+"[""{c so } you wouldn't get confronted or anything -- /""]",c so  you wouldnt get confronted or anything  ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""-- {c but } i don't think you would, {f uh, }  /""]", c but  i dont think you would f uh   ,sv,FEMALE,3
+"['someone might grab you, mess around with you,  /']",someone might grab you mess around with you  ,sv,FEMALE,3
+"[""{c but } they're not going to grab you, steal [ you-, + your ] money and slit your throat --""]",c but  theyre not going to grab you steal  you  your  money and slit your throat ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- which in a lot of big cities -- -/'], which in a lot of big cities  ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- {e i mean } that's what [ you, +  your  ] going to have to expect that to happen.  /""]", e i mean  thats what  you   your   going to have to expect that to happen  ,sv,FEMALE,3
+['people are just totally unfeeling. /'],people are just totally unfeeling ,sv,FEMALE,3
+"['uh-huh, {f uh, }  /']",uhhuh f uh   ,b,FEMALE,2
+"[""i didn't know that about burlington,  /""]",i didnt know that about burlington  ,sd,FEMALE,1
+"[""i'll have to keep that in mind <laughter>. /""]",ill have to keep that in mind laughter ,oo_co_cc,FEMALE,36

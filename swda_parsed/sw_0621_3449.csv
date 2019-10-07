@@ -1,0 +1,151 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['yes. /'],yes ,"fo_o_fw_""_by_bc",MALE,0
+"[""i haven't, {f uh, } talked to anybody  outside the metroplex,  /""]",i havent f uh  talked to anybody  outside the metroplex  ,sd,FEMALE,1
+"[""{c so } i didn't even think of saying arlington, texas. /""]",c so  i didnt even think of saying arlington texas ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['this is a real first <laughter>. /'],this is a real first laughter ,sd,FEMALE,1
+['yes. /'],yes ,b,MALE,2
+['are you at work? /'],are you at work ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+['i am. /'],i am ,sd,MALE,1
+"[""[ [ i, +  i, ] +  i've ]  been trying to get people at five thirty and six thirty in the evening  /""]",  i   i    ive   been trying to get people at five thirty and six thirty in the evening  ,sd,FEMALE,1
+"[""{c and } i thought, {d well, } i'm not  having any luck,  /""]",c and  i thought d well  im not  having any luck  ,sd,FEMALE,1
+"[""i'll try the middle of the afternoon. /""]",ill try the middle of the afternoon ,^q,FEMALE,19
+"[""{d well, } [ i'm, +  i'm ] happy we got through. /""]",d well   im   im  happy we got through ,sd,MALE,1
+"['i am, too.  /']",i am too  ,aa,FEMALE,4
+"['{d well, } do you have any,  {f uh, } opinion on the subject? /']",d well  do you have any  f uh  opinion on the subject ,qy,FEMALE,7
+"[""{d well, } [ i'm, +  i'm ]  especially interested with [ what, +  what's ] happening in the soviet union, {f uh, }  /""]",d well   im   im   especially interested with  what   whats  happening in the soviet union f uh   ,sd,MALE,1
+"['[ [ the, +  the ] move to, {f uh } -- +']",  the   the  move to f uh   ,sv,MALE,3
+['democracy. /'],democracy ,^2,FEMALE,23
+"[""-- [ [ the, + the, ] + the, ] ukraine's  vote [ to, +  {f uh, } basically to ] ] secede and set itself up independently --""]",   the  the   the  ukraines  vote  to   f uh  basically to   secede and set itself up independently ,+,MALE,0
+['oh. /'],oh ,b,FEMALE,2
+"['-- {f uh, } is quite a remarkable,  counts,  /']", f uh  is quite a remarkable  counts  ,+,MALE,0
+"['[ is that, + is that ] reported in the texas papers? /']", is that  is that  reported in the texas papers ,qy,MALE,7
+"['{f oh, } sure,  /']",f oh  sure  ,na,FEMALE,21
+"['[ we, + {f uh, } we ]  hear a little of the news <laughter>.  {f uh, }  /']", we  f uh  we   hear a little of the news laughter  f uh   ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,%,FEMALE,5
+['i have heard about that the last couple of days.  /'],i have heard about that the last couple of days  ,sd,FEMALE,1
+"['[ how, +  how ] big is the ukraine, the area,  /']", how   how  big is the ukraine the area  ,qw,FEMALE,12
+['do you know? /'],do you know ,qy,FEMALE,7
+"[""{f uh, } as an area, it's not, -/""]",f uh  as an area its not ,%,MALE,5
+"['or a population or anything,  /']",or a population or anything  ,%,FEMALE,5
+"[""i'm really uninformed. /""]",im really uninformed ,sd,FEMALE,1
+"[""[ i, +  i'm ] afraid i don't have  the statistics in front of me. /""]", i   im  afraid i dont have  the statistics in front of me ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ it's a, + <lipsmack>, it's not a ]  tiny area.  {f uh, }  /""]", its a  lipsmack its not a   tiny area  f uh   ,sv,MALE,3
+"['if i was looking at a u s map, i would say it [ was +  sort of reminds ] me  [ of, + of ] a, {f uh, } - /']",if i was looking at a u s map i would say it  was   sort of reminds  me   of  of  a f uh   ,sd,MALE,1
+"[""it's not as big as california proportionately. /""]",its not as big as california proportionately ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ [ {c but, } + {c but, } ] + {c but } ]  [ it's, + it's ] more significant, in the sense of, it's a great agricultural region. /""]",  c but   c but    c but     its  its  more significant in the sense of its a great agricultural region ,sv,MALE,3
+"['{f oh, } i see,  /']",f oh  i see  ,b,FEMALE,2
+"[""{f oh, } [ i, +  i ]  didn't really know that,  /""]",f oh   i   i   didnt really know that  ,sd,FEMALE,1
+"['i know a lot of [ their, +  {f oh, } their ] countries that they had overtaken, or  wanted to be independent or  several of them, right, /']",i know a lot of  their   f oh  their  countries that they had overtaken or  wanted to be independent or  several of them right ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+"['{c and, } {f uh, } what about astonia,  /']",c and  f uh  what about astonia  ,qw,FEMALE,12
+"['are they, -/']",are they ,qy,FEMALE,7
+"[""they're completely out now. /""]",theyre completely out now ,sd,MALE,1
+"['right,  /']",right  ,aa,FEMALE,4
+['i thought they were. /'],i thought they were ,sd,FEMALE,1
+"['yes,  /']",yes  ,aa,MALE,4
+"['[ the three, + the three ]  baltic, {f uh, } republics got out as quickly as they could. /']", the three  the three   baltic f uh  republics got out as quickly as they could ,sd,MALE,1
+"['[ {c but, } + {c but, } ] [ the, + the ]  ukraine is especially significant because [ it, + ] of the agriculture? /']", c but   c but    the  the   ukraine is especially significant because  it   of the agriculture ,qy^d,FEMALE,16
+"['right,  /']",right  ,na,MALE,21
+"[""[ it's, + it's ] very important  for the economics [ of the whole, + of the ] soviet union. /""]", its  its  very important  for the economics  of the whole  of the  soviet union ,sv,MALE,3
+"['{f uh, } {c so } there were probably  really fight to keep it in if they could. /']",f uh  c so  there were probably  really fight to keep it in if they could ,qy^d,FEMALE,16
+"['right, {f uh, }  /']",right f uh   ,na,MALE,21
+"[""except they can't fight <laughter>. /""]",except they cant fight laughter ,sv,MALE,3
+"['no,  /']",no  ,aa,FEMALE,4
+"[""they don't, /""]",they dont ,sd,FEMALE,1
+"[""it's done democratically, {f uh, } /""]",its done democratically f uh  ,sd,MALE,1
+"['{c and } bush has already given his  <laughter> opinion on it, right? /']",c and  bush has already given his  laughter opinion on it right ,qy,FEMALE,7
+['yes. /'],yes ,ny,MALE,9
+"[""didn't i read that? /""]",didnt i read that ,qy,FEMALE,7
+['yes. /'],yes ,ny,MALE,9
+"['{c so, } {d now, } {f uh, } not  [ that they may, + that may ] matter,  /']",c so  d now  f uh  not   that they may  that may  matter  ,sv,FEMALE,3
+"[""i don't know, anymore.  /""]",i dont know anymore  ,h,FEMALE,15
+"['i, {f uh, } fear for the russians from what  i read, {d you know, }  /']",i f uh  fear for the russians from what  i read d you know   ,sd,FEMALE,1
+"[""i wonder how they're going to get through the winter.""]",i wonder how theyre going to get through the winter,sd,FEMALE,1
+"['{f uh, } /']",f uh  ,%,MALE,5
+"['food wise or any wise,  /']",food wise or any wise  ,+,FEMALE,0
+"[""sounds to me  like they'll start rioting soon, {e or } not  that that would do any good,  /""]",sounds to me  like theyll start rioting soon e or  not  that that would do any good  ,sv,FEMALE,3
+"[""{c but } i guess people do that when they're desperate. /""]",c but  i guess people do that when theyre desperate ,sv,FEMALE,3
+"[""[ that, + that's ] true, {f uh, }  hasn't happened here for a while,  /""]", that  thats  true f uh   hasnt happened here for a while  ,sv,MALE,3
+"['{c but } it, {f uh, } -/']",c but  it f uh  ,%,MALE,5
+"[""{d well, } that's true,  /""]",d well  thats true  ,aa,FEMALE,4
+"['since the depression,  /']",since the depression  ,sd,FEMALE,1
+['i guess when the veterans went to washington -- -/'],i guess when the veterans went to washington  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- and {d well, } {d you know, }  the war riots, of course.  /']", and d well  d you know   the war riots of course  ,sv,FEMALE,3
+"[""let's just hope we don't get to that point <laughter>. /""]",lets just hope we dont get to that point laughter ,ad,FEMALE,22
+['<laughter>.'],laughter,x,MALE,8
+['things are not so good in texas job wise. /'],things are not so good in texas job wise ,sd,FEMALE,1
+"['no,  /']",no  ,aa,MALE,4
+"[""[ [ i've, + i've ] heard they're, +   i hear you have ] some problems. /""]",  ive  ive  heard theyre    i hear you have  some problems ,sd,MALE,1
+"['{d well, } we do.  /']",d well  we do  ,sd,FEMALE,1
+"['we have lots and  lots of, {f uh, } layoffs here.  lot of companies folding, lot of layoffs  /']",we have lots and  lots of f uh  layoffs here  lot of companies folding lot of layoffs  ,sd,FEMALE,1
+"[""{c and } it's pretty scary. /""]",c and  its pretty scary ,sv,FEMALE,3
+"['[ do, + [ do you, + do you ] ]  blame [ the, + the ] government in washington for this? /']", do   do you  do you    blame  the  the  government in washington for this ,qy,MALE,7
+"[""{d well, } i don't understand economics  that well.  /""]",d well  i dont understand economics  that well  ,sd,FEMALE,1
+"[""i don't know,  /""]",i dont know  ,no,FEMALE,31
+"[""[ i, + i ] know that we have a terrible situation with foreign trade  and that other countries put a lot of restrictions that we don't -- /""]", i  i  know that we have a terrible situation with foreign trade  and that other countries put a lot of restrictions that we dont  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- {c and so } i assume that that has [ some effect. +'], c and so  i assume that that has  some effect ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['{e or } a great effect. ] /'],e or  a great effect  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } [ i do, + {f uh, } {e i mean, }  they said ] during the way, reagan-bush years, the rich got richer,  /']",c and   i do  f uh  e i mean   they said  during the way reaganbush years the rich got richer  ,sd,FEMALE,1
+"['the poor got poorer,  /']",the poor got poorer  ,sd,FEMALE,1
+['the statistics prove that <laughter>  /'],the statistics prove that laughter  ,sd,FEMALE,1
+"['{c so, } {f uh, } [ i, + i ] guess, -/']",c so  f uh   i  i  guess ,%,FEMALE,5
+"[""{d so } then, [ you think [ it's, + it's, ] +   you think it's ] reagan and bush have done this  /""]",d so  then  you think  its  its     you think its  reagan and bush have done this  ,qy,MALE,7
+['{c or } is it just coincidence it was during this period? /'],c or  is it just coincidence it was during this period ,qrr,MALE,33
+"[""{d well, } i really don't know.  /""]",d well  i really dont know  ,no,FEMALE,31
+"['i think [ maybe they, + {f uh, } maybe they ] contributed to it.  /']",i think  maybe they  f uh  maybe they  contributed to it  ,sd,FEMALE,1
+"['maybe they should pay more attention  [ to these trade, + {e or, } {d you know, } to the more equalization of the trade. ] /']",maybe they should pay more attention   to these trade  e or  d you know  to the more equalization of the trade  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""of course, if somebody [ in, + in ]  china can make something for ten cents and we have to make it for ten dollars because we have  unions, {d well, } i don't know what's going to happen then. /""]",of course if somebody  in  in   china can make something for ten cents and we have to make it for ten dollars because we have  unions d well  i dont know whats going to happen then ,sd,FEMALE,1
+"['{f oh, } the chinese use slave labor, too. /']",f oh  the chinese use slave labor too ,aa,MALE,4
+['right. /'],right ,b,FEMALE,2
+"[""[ that's, + that's ] one of the ways they get away with it. /""]", thats  thats  one of the ways they get away with it ,sv,MALE,3
+['and child labor. /'],and child labor ,^2,FEMALE,23
+['yeah. /'],yeah ,aa,MALE,4
+['right.  /'],right  ,b,FEMALE,2
+"[""{d well, } i don't know.  /""]",d well  i dont know  ,sd,FEMALE,1
+['what do you think has caused our horrible situation? /'],what do you think has caused our horrible situation ,qw,FEMALE,12
+"[""{f uh, } i don't think there's any one --""]",f uh  i dont think theres any one ,sv,MALE,3
+['one thing. /'],one thing ,^2,FEMALE,23
+['-- simple answer to the whole thing.  /'], simple answer to the whole thing  ,+,MALE,0
+"[""{e i mean } [ it's, + that's ] very complicated. /""]",e i mean   its  thats  very complicated ,sv,MALE,3
+"['right,  /']",right  ,b,FEMALE,2
+"['{d well, } they say, too,  that having a democratic congress and  republican president is not good.  /']",d well  they say too  that having a democratic congress and  republican president is not good  ,sd,FEMALE,1
+"[""{e i mean, }  i've read that is a theory. /""]",e i mean   ive read that is a theory ,sd,FEMALE,1
+['{d so } which one are we going to throw out? /'],d so  which one are we going to throw out ,qw,MALE,12
+"['<laughter>  {d well, } i hate to say it,  /']",laughter  d well  i hate to say it  ,sd,FEMALE,1
+"[""{c but, } [ i, + i'm ] tending to go straight back into my original democratic party. /""]",c but   i  im  tending to go straight back into my original democratic party ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['<laughter> {f uh, } /']",laughter f uh  ,%,FEMALE,5
+"[""[ texas, + texas ]  used to be a democratic state, didn't it? /""]", texas  texas   used to be a democratic state didnt it ,qy,MALE,7
+"['{f oh, } i know,  /']",f oh  i know  ,sd,FEMALE,1
+"['it used to,  /']",it used to  ,sv,FEMALE,3
+['right.  /'],right  ,aa,FEMALE,4
+"[""{d well, } you don't want too many democrats anymore  /""]",d well  you dont want too many democrats anymore  ,sv,FEMALE,3
+"['{c and } for a while i kind of  deserted the party,  /']",c and  for a while i kind of  deserted the party  ,sd,FEMALE,1
+"[""{c but } now it's looking better to me. /""]",c but  now its looking better to me ,sd,FEMALE,1
+['i like your governor. /'],i like your governor ,sd,MALE,1
+"['{f oh, } do you?  /']",f oh  do you  ,bh,FEMALE,18
+"[""{f oh, } i'm glad to hear that. /""]",f oh  im glad to hear that ,sd,FEMALE,1
+"[""she's an impressive woman. /""]",shes an impressive woman ,sv,MALE,3
+"['{d well, } i think so, too.  /']",d well  i think so too  ,aa,FEMALE,4
+"['[ i, + i ]  just, admire her a lot. /']", i  i   just admire her a lot ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c and, } {f uh, } [ i ho-, + i really hope ]  she does well.  /']",c and  f uh   i ho  i really hope   she does well  ,sd,FEMALE,1
+"[""{c but } she's, {f uh, } [ n-, + ] {d you know, } probably more popular out of the state  than she is here, although she did manage to win. /""]",c but  shes f uh   n   d you know  probably more popular out of the state  than she is here although she did manage to win ,sv,FEMALE,3
+['right <laughter>. /'],right laughter ,b,MALE,2
+"['{c but } look who she was running against,  {d you know } <laughter>. /']",c but  look who she was running against  d you know  laughter ,ad,FEMALE,22
+"['{d well, } yeah,  /']",d well  yeah  ,b,MALE,2
+['anybody could beat claytie in texas. /'],anybody could beat claytie in texas ,sv,MALE,3
+['he shot himself in the foot so many times <laughter>. /'],he shot himself in the foot so many times laughter ,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+['how did you get on this t i thing? /'],how did you get on this t i thing ,qw,FEMALE,12
+"['{f oh, } [ i, + i ] know some of the people. /']",f oh   i  i  know some of the people ,sd,MALE,1

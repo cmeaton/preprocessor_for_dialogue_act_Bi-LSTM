@@ -1,0 +1,201 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['i hope you know more about the subject of baseball  /'],i hope you know more about the subject of baseball  ,sd,FEMALE,1
+"[""{c and } where they're going <laughter> than i do beca-, -/""]",c and  where theyre going laughter than i do beca ,sd,FEMALE,1
+"['{f oh, } i know a little bit about it.  /']",f oh  i know a little bit about it  ,sd,MALE,1
+"[""i'm not a die-hard fan  /""]",im not a diehard fan  ,sd,MALE,1
+"['{c but } [ i, + i ] enjoy the, - /']",c but   i  i  enjoy the  ,sd,MALE,1
+['i like the boston red sox myself. /'],i like the boston red sox myself ,sd,MALE,1
+"['{d well, } i, - /']",d well  i  ,%,FEMALE,5
+"['of all the sports [ that there are, + that there is, ] i like baseball the best.  /']",of all the sports  that there are  that there is  i like baseball the best  ,sd,FEMALE,1
+"[""however, i haven't been to a baseball game in years,  /""]",however i havent been to a baseball game in years  ,sd,FEMALE,1
+"['{c but } i have kept, {f uh, } my eye on the rangers. /']",c but  i have kept f uh  my eye on the rangers ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{d you know } - /'],d you know   ,qy,FEMALE,7
+"['{c and } i guess they were doing pretty good up to a point,  /']",c and  i guess they were doing pretty good up to a point  ,sd,FEMALE,1
+['{c and then } they kind of fell on their face <laughter>. /'],c and then  they kind of fell on their face laughter ,sd,FEMALE,1
+"['{d well, } with, {f uh, } - /']",d well  with f uh   ,%,MALE,5
+"['their biggest point of interest has been nolan ryan not the rest of the team lately,  /']",their biggest point of interest has been nolan ryan not the rest of the team lately  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['correct,  /']",correct  ,ba,FEMALE,6
+['right.  /'],right  ,b,FEMALE,2
+['right <laughter>. /'],right laughter ,b,MALE,2
+"[""{f oh, } it's amazing. /""]",f oh  its amazing ,ba,MALE,6
+"[""they're so astronomical i can't even imagine --""]",theyre so astronomical i cant even imagine ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['-- <laughter> that kind of money.  /'], laughter that kind of money  ,+,FEMALE,0
+"[""you know it's just, {f uh, } phenomenal <lipsmack>. /""]",you know its just f uh  phenomenal lipsmack ,sd,FEMALE,1
+"['{d well, } fortunately the red sox, last time i saw the paper earlier this week, were in first place and doing quite well. /']",d well  fortunately the red sox last time i saw the paper earlier this week were in first place and doing quite well ,sd,MALE,1
+"['{d well, } good. /']",d well  good ,ba,FEMALE,6
+"[""{f um, } i've been really busy at work this past week  /""]",f um  ive been really busy at work this past week  ,sd,MALE,1
+"[""{c and } normally on my way into work i'll pick up a newspaper  /""]",c and  normally on my way into work ill pick up a newspaper  ,sd,MALE,1
+"['{c and, } {f uh, } i-, - /']",c and  f uh  i  ,%,MALE,5
+"[""{c so } every day i'll have a newspaper at work,  /""]",c so  every day ill have a newspaper at work  ,sd,MALE,1
+"[""{c and } when i take a break, i'll take a look at the newspaper.  /""]",c and  when i take a break ill take a look at the newspaper  ,sd,MALE,1
+"[""{c but } this week i've been so busy i didn't even bother to stop <laughter>. /""]",c but  this week ive been so busy i didnt even bother to stop laughter ,sd,MALE,1
+['i understand.  /'],i understand  ,ba,FEMALE,6
+['i understand. /'],i understand ,ba,FEMALE,6
+"[""{c but } [ hopefully, + hopefully ] next week i'll get back to my normal routine. /""]",c but   hopefully  hopefully  next week ill get back to my normal routine ,sd,MALE,1
+['okay.  /'],okay  ,b,FEMALE,2
+"['{f uh, } you are involved with t i -s, {f uh, } speech, {f um, } recognition? /']",f uh  you are involved with t i s f uh  speech f um  recognition ,qy,FEMALE,7
+"['{d well, } not really.  /']",d well  not really  ,ng,MALE,29
+"['[ i, + {f um } --']", i  f um  ,sd,MALE,1
+['how did you find out about it? /'],how did you find out about it ,qw,FEMALE,12
+['-- i ] work at  ((   ))  laboratory. /'], i  work at       laboratory ,+,MALE,0
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"['from, {f uh, } - /']",from f uh   ,%,MALE,5
+"[""i'm an officer in the air force, /""]",im an officer in the air force ,sd,MALE,1
+['i see. /'],i see ,ba,FEMALE,6
+['interesting. /'],interesting ,ba,FEMALE,6
+"['{f oh, } great. /']",f oh  great ,ba,FEMALE,6
+"['{c and, } {f uh, } the speech laboratory does some work with, {f uh, } t i,']",c and  f uh  the speech laboratory does some work with f uh  t i,sd,MALE,1
+['i see. /'],i see ,ba,FEMALE,6
+"['[ at, + ] {f uh, } not in my office  /']", at   f uh  not in my office  ,+,MALE,0
+"['{c but, } {f uh, } in my division they do,']",c but  f uh  in my division they do,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['quite a bit of speech work. /'],quite a bit of speech work ,+,MALE,0
+"[""{d well, } that's good.  /""]",d well  thats good  ,ba,FEMALE,6
+"[""{d well, } that's interesting.  /""]",d well  thats interesting  ,ba,FEMALE,6
+"['{c and } the topics are interesting, {f uh, }  /']",c and  the topics are interesting f uh   ,sd,FEMALE,1
+"['they run a whole  (( gamut )) [ of, + of, ] {f uh, } subjects,  /']",they run a whole   gamut   of  of  f uh  subjects  ,sd,FEMALE,1
+"['{c and, } {f uh, } i think we can address every topic,  /']",c and  f uh  i think we can address every topic  ,sv,FEMALE,3
+['{c but } the depth of knowledge is quite different. /'],c but  the depth of knowledge is quite different ,sv,FEMALE,3
+['sure.  /'],sure  ,b,MALE,2
+['sure. /'],sure ,b,MALE,2
+"['{c so, } {f uh, } when they chose baseball, - /']",c so  f uh  when they chose baseball  ,sd,FEMALE,1
+"[""{e i mean, } [ [ i'm, + i'm, ] + i ] can understand baseball, {d you know, }  /""]",e i mean    im  im   i  can understand baseball d you know   ,sd,FEMALE,1
+"[""i don't understand football. /""]",i dont understand football ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['<laughter> {f oh, } i prefer to, - /']",laughter f oh  i prefer to  ,sd,MALE,1
+"['[ i, + i ] like, - /']", i  i  like  ,sd,MALE,1
+['i never used to really like  watching football that much  /'],i never used to really like  watching football that much  ,sd,MALE,1
+"[""{c but } more and more these days [ i'm, + i'll ] like a football game,  /""]",c but  more and more these days  im  ill  like a football game  ,sd,MALE,1
+"[""{c but } i've always liked baseball. /""]",c but  ive always liked baseball ,sd,MALE,1
+"['[ i, + i ] prefer to watch, {f um, } - /']", i  i  prefer to watch f um   ,sd,MALE,1
+"[""i guess i'm one of the few people that also prefers baseball to football.  /""]",i guess im one of the few people that also prefers baseball to football  ,sv,MALE,3
+"[""{c and } [ i, + i'd ] much rather go to a baseball game than to a football game. /""]",c and   i  id  much rather go to a baseball game than to a football game ,sd,MALE,1
+"['{d well, } [ i, + i ] can relate to baseball because i used to play baseball.  /']",d well   i  i  can relate to baseball because i used to play baseball  ,sd,FEMALE,1
+"[""{c but } i can't relate to football because i've never,""]",c but  i cant relate to football because ive never,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""played football [ and, + and ] don't, [ and + ] have any interest,  /""]",played football  and  and  dont  and   have any interest  ,+,FEMALE,0
+"['{c and } i said if i ever had a son, he would not play football.  /']",c and  i said if i ever had a son he would not play football  ,sd,FEMALE,1
+"['{c and, } {f uh, } i had four daughters  /']",c and  f uh  i had four daughters  ,sd,FEMALE,1
+"[""<laughter> {c so } that wasn't a question,  /""]",laughter c so  that wasnt a question  ,sd,FEMALE,1
+"['{c but } now i have a grandson that [ i-, + {d you know, } is ] gung ho for, {f uh, } football. /']",c but  now i have a grandson that  i  d you know  is  gung ho for f uh  football ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d well, } -/']",d well  ,%,MALE,5
+"[""{d well, } there's injuries in a lot of sport. /""]",d well  theres injuries in a lot of sport ,sd,MALE,1
+"['i understand that, /']",i understand that ,ba,FEMALE,6
+"[""[ i'd, + i, ] -/""]", id  i  ,%,MALE,5
+"['{c but } i think [ the, + ] they happen more in football.  /']",c but  i think  the   they happen more in football  ,sv,FEMALE,3
+['i think the odds are cut down. /'],i think the odds are cut down ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know, } [ i, + i ] know they can get hurt in baseball too.  /']",d you know   i  i  know they can get hurt in baseball too  ,sv,FEMALE,3
+"['the bat is a very heavy object, can do a lot of damage  /']",the bat is a very heavy object can do a lot of damage  ,sv,FEMALE,3
+"['{c but, } {f uh, } i think that they have [ a, + a ] lower  [ (( racial ))  of injuries, +']",c but  f uh  i think that they have  a  a  lower    racial   of injuries ,sv,FEMALE,3
+['ratio of injuries ] in baseball. /'],ratio of injuries  in baseball ,+,FEMALE,0
+"[""it's true.  /""]",its true  ,aa,MALE,4
+"['[  i, + i ] would say that baseball tends to be one of the less,']",  i  i  would say that baseball tends to be one of the less,sv,MALE,3
+"['because the-, -/']",because the ,%,FEMALE,5
+"['troublesome sports, /']",troublesome sports ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but, } {f uh, } for some people it's just, {f uh, } {f uh, } -/""]",c but  f uh  for some people its just f uh  f uh  ,sd,MALE,1
+['a love for them. /'],a love for them ,^2,FEMALE,23
+"['{d well, } that, - /']",d well  that  ,%,MALE,5
+['not so much that - /'],not so much that  ,ar,MALE,28
+"['{c but, } {f uh, } even in baseball you can, - /']",c but  f uh  even in baseball you can  ,sv,MALE,3
+"['{d like } when i played baseball when i was growing up, i had trouble, {f uh, } {f uh, } just throwing the ball because [ i wa-, very, + i was ] always very strong  /']",d like  when i played baseball when i was growing up i had trouble f uh  f uh  just throwing the ball because  i wa very  i was  always very strong  ,sd,MALE,1
+"['{c and } i could-, th-, - /']",c and  i could th  ,%,MALE,5
+"['when i was young i could throw harder,']",when i was young i could throw harder,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['than my, {f uh, }  {d like } ligaments and all that should have been allowed to. /']",than my f uh   d like  ligaments and all that should have been allowed to ,+,MALE,0
+['i see. /'],i see ,ba,FEMALE,6
+"['{c and so } i was always throwing my arm out  and, {f uh, }']",c and so  i was always throwing my arm out  and f uh ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['having trouble.  /'],having trouble  ,+,MALE,0
+"['[ i, + {c and } i ] was a catcher  /']", i  c and  i  was a catcher  ,sd,MALE,1
+"['{c so } i was constantly throwing back to the pitcher and then down to second base and all and [ k-, + ] that kind of stuff.  /']",c so  i was constantly throwing back to the pitcher and then down to second base and all and  k   that kind of stuff  ,sd,MALE,1
+"['{c so } i, - /']",c so  i  ,%,MALE,5
+"['that was always a problem for me was [ just, + just ] the constant throwing,  /']",that was always a problem for me was  just  just  the constant throwing  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['[ did you, + did you ] sustain any permanent, {f uh, } injury with that? /']", did you  did you  sustain any permanent f uh  injury with that ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+['i did that wrestling <laughter>. /'],i did that wrestling laughter ,sd,MALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"['no,  /']",no  ,nn,MALE,13
+"[""i'd, - /""]",id  ,%,MALE,5
+"['{d well, } [ i, + i, ] {f uh, } always been quite an athlete and doing different things  /']",d well   i  i  f uh  always been quite an athlete and doing different things  ,sd,MALE,1
+"[""{c and, } {f um, } the other thing was i'd never really let injuries stop me.  /""]",c and  f um  the other thing was id never really let injuries stop me  ,sd,MALE,1
+"['{c but } interestingly enough you mentioned football, is like, - /']",c but  interestingly enough you mentioned football is like  ,sd,MALE,1
+"[""now i won't play football anymore because of [ the, + {f uh, } the ] separated shoulder wrestling, /""]",now i wont play football anymore because of  the  f uh  the  separated shoulder wrestling ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ {c so. } + {f um, } {c but } ] [ i stood the, + stood the ] injury wrestling,  /']", c so   f um  c but    i stood the  stood the  injury wrestling  ,sd,MALE,1
+"['{c but } it, - /']",c but  it  ,%,MALE,5
+"['as long as i let it heal, it never really bothered me  /']",as long as i let it heal it never really bothered me  ,sd,MALE,1
+"['then playing football this fall,']",then playing football this fall,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ i, + {a it was just flag football too. }  i ] separated it again  /']", i  a it was just flag football too   i  separated it again  ,+,MALE,0
+"['{c and } it seemed to be,']",c and  it seemed to be,sd,MALE,1
+"['{f oh, } boy. /']",f oh  boy ,ba,FEMALE,6
+"['{d like } the straw that broke the camels back,  /']",d like  the straw that broke the camels back  ,+,MALE,0
+['{c so. } -/'],c so  ,%,MALE,5
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{d well, } [ i have, + {f uh, } i have ] a broken arm that i had since i was three.  /']",d well   i have  f uh  i have  a broken arm that i had since i was three  ,sd,FEMALE,1
+['it was never set right. /'],it was never set right ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, } {f uh, } {f uh, } i liked bowling [ as a, + as a ] kind of a relaxing sport.   /']",c and  f uh  f uh  i liked bowling  as a  as a  kind of a relaxing sport   ,sd,FEMALE,1
+"['{c and, } {f uh, } one of the men that was [ in our rel-, + on our ] league, {f uh, } noticed, {f uh, } {d you know, } {f uh, } my broken arm and the way my ball would do.   /']",c and  f uh  one of the men that was  in our rel  on our  league f uh  noticed f uh  d you know  f uh  my broken arm and the way my ball would do   ,sd,FEMALE,1
+"['{c and } he says, let me show you how to use your arm to your advantage.  /']",c and  he says let me show you how to use your arm to your advantage  ,sd,FEMALE,1
+"['{c and so } he brought me up from like a hundred and fifteen, i had my high game of two eighty-seven. /']",c and so  he brought me up from like a hundred and fifteen i had my high game of two eightyseven ,sd,FEMALE,1
+['my god. /'],my god ,ba,MALE,6
+"['<laughter> {c so, } {f uh, } yeah  /']",laughter c so  f uh  yeah  ,b,FEMALE,2
+"['<throat_clearing>.  {f um, } it was really funny, {d you know, } that he would tell me where to stand and how to hold my arm [ and, + and ] how to, {f uh, } follow through with my, {f uh, } - /']",throatclearing  f um  it was really funny d you know  that he would tell me where to stand and how to hold my arm  and  and  how to f uh  follow through with my f uh   ,sd,FEMALE,1
+"['(( addressing that )) , to put the ball, -/']", addressing that   to put the ball ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['the, {f uh, } pins. - /']",the f uh  pins  ,%,FEMALE,5
+['{c so } that was interesting.   /'],c so  that was interesting   ,sd,FEMALE,1
+"['{c so } [ i really, + {f um, } i ] got a lot of, {f uh, } recognition from [ the, + {f uh, } {f uh, } the ] bowling league, i guess. /']",c so   i really  f um  i  got a lot of f uh  recognition from  the  f uh  f uh  the  bowling league i guess ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i'm not sure where all my pins came from,  /""]",im not sure where all my pins came from  ,sd,FEMALE,1
+"[""{c but } it's, - /""]",c but  its  ,%,FEMALE,5
+['{c but } that was quite awhile ago  /'],c but  that was quite awhile ago  ,sd,FEMALE,1
+"['[ {c but } i, + {c and } i ] never pursued it.  /']", c but  i  c and  i  never pursued it  ,sd,FEMALE,1
+"['{c and } a lot of people said, {d well, } you should have turned pro.  /']",c and  a lot of people said d well  you should have turned pro  ,sd,FEMALE,1
+"['{c and } i thought, no,  /']",c and  i thought no  ,sd,FEMALE,1
+"['not m-, - /']",not m  ,%,FEMALE,5
+"['m-, - /']",m  ,%,FEMALE,5
+"[""i don't, - /""]",i dont  ,%,FEMALE,5
+"[""my love wasn't there for the game.  /""]",my love wasnt there for the game  ,sd,FEMALE,1
+"['i liked to [ as a, + as a ] method of, {f uh, } entertainment and i, {f uh, }']",i liked to  as a  as a  method of f uh  entertainment and i f uh ,sd,FEMALE,1
+['sure. /'],sure ,b,MALE,2
+['fellowship  /'],fellowship  ,+,FEMALE,0
+"['{c but } outside of that, no.  /']",c but  outside of that no  ,sd,FEMALE,1
+"[""i didn't.  /""]",i didnt  ,sd,FEMALE,1
+"['[ [ {c and } i, + {c and } i ] + still, i ] like to bowl,  /']",  c and  i  c and  i   still i  like to bowl  ,sd,FEMALE,1
+"[""{c but, } {f uh, } <lipsmack> i don't have, {f uh, } jack <laughter> standing behind me to tell me what to do <laughter>. /""]",c but  f uh  lipsmack i dont have f uh  jack laughter standing behind me to tell me what to do laughter ,sd,FEMALE,1
+"['are  [ you  on, + you on ] any leagues now? /']",are   you  on  you on  any leagues now ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i'm not. /""]",im not ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+['no.  /'],no  ,nn,FEMALE,13
+"['no, {f uh,  /']",no f uh  ,nn,FEMALE,13
+"['} at t i they have [ a sponsor, + ] a junior league achievement  /']", at t i they have  a sponsor   a junior league achievement  ,sd,FEMALE,1
+"[""{c and, } {f uh, } it's true bowling  /""]",c and  f uh  its true bowling  ,sd,FEMALE,1
+"[""{c and } i've never, {f uh, } shared that with them.  /""]",c and  ive never f uh  shared that with them  ,sd,FEMALE,1
+"['i would have to brush up on my bowling before i even tried to, {f uh, } win a lot of money for the junior achievement,']",i would have to brush up on my bowling before i even tried to f uh  win a lot of money for the junior achievement,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } organization.  /']",f uh  organization  ,+,FEMALE,0
+"[""{c but } that's the only thing that i would, {d you know, } be ((   ))  to do. /""]",c but  thats the only thing that i would d you know  be      to do ,sd,FEMALE,1
+['right.  /'],right  ,b,MALE,2
+"['{d well, } my grandmother has been bowling for, gosh, maybe thirty, forty years.  /']",d well  my grandmother has been bowling for gosh maybe thirty forty years  ,sd,MALE,1
+"[""i don't know, /""]",i dont know ,h,MALE,15
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['a long time. /'],a long time ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } [ she still, + she's ] got to be, -/""]",c and   she still  shes  got to be ,sd,MALE,1
+"['still carries a good [ lim-, + ] {f uh, } average? /']",still carries a good  lim   f uh  average ,qy^d,FEMALE,16
+"['{d well, } no,  /']",d well  no  ,nn,MALE,13
+"['she does-, -/']",she does ,%,MALE,5

@@ -1,0 +1,114 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['yeah,  /']",yeah  ,"fo_o_fw_""_by_bc",MALE,0
+['they just raised our taxes up here about a year ago. /'],they just raised our taxes up here about a year ago ,sd,MALE,1
+"[""{d well, } they've, {f uh, } statewide raises,  /""]",d well  theyve f uh  statewide raises  ,sd,FEMALE,1
+['they raise ours it seems {d like }  constantly.  /'],they raise ours it seems d like   constantly  ,sd,FEMALE,1
+"['we just, {f uh, } passed a new one, {f uh, }  /']",we just f uh  passed a new one f uh   ,sd,FEMALE,1
+"[""fortunately or unfortunately  it doesn't go into effect because we did not get the united airlines. /""]",fortunately or unfortunately  it doesnt go into effect because we did not get the united airlines ,sd,FEMALE,1
+"['{f oh, } right  /']",f oh  right  ,b,MALE,2
+"[""indianapolis got that, didn't they? /""]",indianapolis got that didnt they ,qy,MALE,7
+['right.  /'],right  ,na,FEMALE,21
+"['{c and, }  {f uh, } we had passed [ a, + a ]  provisional one that  [ [ if, + if it did, ] + if they did ] locate here we would raise our taxes.  /']",c and   f uh  we had passed  a  a   provisional one that    if  if it did   if they did  locate here we would raise our taxes  ,sd,FEMALE,1
+"[""{c but, }  {f uh, } at least we thought we'd get something back from that. /""]",c but   f uh  at least we thought wed get something back from that ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{f uh, } how do you feel about taxes? /']",f uh  how do you feel about taxes ,qo,FEMALE,25
+"['{d well, } it seems like a big politics game  /']",d well  it seems like a big politics game  ,sv,MALE,3
+"['{d like }  up here, last year, the governor was up for re-election  /']",d like   up here last year the governor was up for reelection  ,sd,MALE,1
+"['{c so } he said the budget was fine,  /']",c so  he said the budget was fine  ,sd,MALE,1
+"[""the state didn't have any money  /""]",the state didnt have any money  ,sd,MALE,1
+['{c and then } right after he won the election he said we owed a lot of money  /'],c and then  right after he won the election he said we owed a lot of money  ,sd,MALE,1
+['{c so } they raised all our taxes. /'],c so  they raised all our taxes ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c and } now it's election time again  /""]",c and  now its election time again  ,sd,MALE,1
+"[""{c so } they're trying to lower them. /""]",c so  theyre trying to lower them ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""{c so } they're just talk about lowering them  /""]",c so  theyre just talk about lowering them  ,sd,MALE,1
+"['{c but } they never do,  /']",c but  they never do  ,sd,MALE,1
+['they just keep raising them. /'],they just keep raising them ,sd,MALE,1
+"[""i've never seen taxes really go down. /""]",ive never seen taxes really go down ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['me neither.   /'],me neither   ,sd,MALE,1
+"[""{d well, } actually they're going to here because they didn't have a budget for so long  /""]",d well  actually theyre going to here because they didnt have a budget for so long  ,sd,MALE,1
+['{c so } they raised the tax rate real high for the last three months of this year  /'],c so  they raised the tax rate real high for the last three months of this year  ,sd,MALE,1
+"[""{c and } they're going to lower it for next year. /""]",c and  theyre going to lower it for next year ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""i guess they figure they're going to make up for all they didn't get when they should have had a budget. /""]",i guess they figure theyre going to make up for all they didnt get when they should have had a budget ,sv,MALE,3
+['i hope they put that in writing <laughter>. /'],i hope they put that in writing laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['<laughter> yeah,  /']",laughter yeah  ,aa,MALE,4
+"[""they say they're going to lower,  /""]",they say theyre going to lower  ,sd,MALE,1
+"[""{c but } i'll see. /""]",c but  ill see ,sd,MALE,1
+"['i feel like the middle class people are supporting the nation   and, {f uh, } that the rich are not paying their share  /']",i feel like the middle class people are supporting the nation   and f uh  that the rich are not paying their share  ,sv,FEMALE,3
+"[""{c and } of course the poor can't afford it either,  /""]",c and  of course the poor cant afford it either  ,sv,FEMALE,3
+"['{c but, }  {f uh, } i really feel like - /']",c but   f uh  i really feel like  ,%,FEMALE,5
+"['[ {c and, } + {c and } ]  i feel like, {d you know, } - /']", c and   c and    i feel like d you know   ,%,FEMALE,5
+"[""i'm a middle class person income wise anyway  /""]",im a middle class person income wise anyway  ,sd,FEMALE,1
+"['{c and, }  {f uh, } i get tired of supporting the whole country. /']",c and   f uh  i get tired of supporting the whole country ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['so do i.  /'],so do i  ,sd,MALE,1
+"[""{e i mean, } i'm [ [ a, + a ] + ]  middle class barely,  /""]",e i mean  im   a  a     middle class barely  ,sd,MALE,1
+"[""{c but, }  {f uh, } i don't think the rich are paying [ [ mo-, + less, ] + not enough, ]  /""]",c but   f uh  i dont think the rich are paying   mo  less   not enough   ,sv,MALE,3
+"[""i think they're paying too much. /""]",i think theyre paying too much ,sv,MALE,3
+['you think the rich are paying too much? /'],you think the rich are paying too much ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""{e i mean } if you're in [ the, +  the ] [ three, + three ] percent bracket  and they take a third of your check every month, {d well, } that's ridiculous.  /""]",e i mean  if youre in  the   the   three  three  percent bracket  and they take a third of your check every month d well  thats ridiculous  ,sv,MALE,3
+['why bother working? /'],why bother working ,qh,MALE,26
+"[""{d well, } i don't know many rich that don't have enough tax breaks to, - /""]",d well  i dont know many rich that dont have enough tax breaks to  ,sd,FEMALE,1
+"[""{e i mean, } i'm talking about the really rich. /""]",e i mean  im talking about the really rich ,sd,FEMALE,1
+"['{d well, } they should just tax everybody the same amount no matter what you make. /']",d well  they should just tax everybody the same amount no matter what you make ,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+['that would be fair. /'],that would be fair ,sv,MALE,3
+"[""{d now } i'll go along with that.""]",d now  ill go along with that,aa,FEMALE,4
+['yeah -- /'],yeah  ,b,MALE,2
+"['{d you know, } /']",d you know  ,+,FEMALE,0
+['-- no loopholes or anything.  /'], no loopholes or anything  ,sv,MALE,3
+['everybody pays ten percent or fifteen or  whatever. /'],everybody pays ten percent or fifteen or  whatever ,sv,MALE,3
+['right.  /'],right  ,aa,FEMALE,4
+"['{d now, } i think that would be fair. /']",d now  i think that would be fair ,aa,FEMALE,4
+['right. /'],right ,b,MALE,2
+"['{c and } i, {d you know, } - /']",c and  i d you know   ,%,FEMALE,5
+"['[ no, + no ]  ifs, ands and buts, {d you know, }  /']", no  no   ifs ands and buts d you know   ,sv,FEMALE,3
+"['no big elaborate laws that [ say, + {f uh, } {d you know, } call  ] for a lot of enforcement or a lot of review.  /']",no big elaborate laws that  say  f uh  d you know  call   for a lot of enforcement or a lot of review  ,sv,FEMALE,3
+"[""it's just, {d you know, } you make this,  you pay ten percent.  /""]",its just d you know  you make this  you pay ten percent  ,sv,FEMALE,3
+"['if you make a hundred dollars, you pay ten percent,  /']",if you make a hundred dollars you pay ten percent  ,sv,FEMALE,3
+"['if you make a million dollars, you pay ten percent. /']",if you make a million dollars you pay ten percent ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's the way our state tax is here.  /""]",thats the way our state tax is here  ,sd,MALE,1
+"[""i think it's pretty fair. /""]",i think its pretty fair ,sv,MALE,3
+['our state taxes are somewhat based on the federal. /'],our state taxes are somewhat based on the federal ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, }  {f uh, } they have not gotten it <breathing> where the withholding is accurate. /']",c and   f uh  they have not gotten it breathing where the withholding is accurate ,sd,FEMALE,1
+['oh <laughter>. /'],oh laughter ,b,MALE,2
+"['[ [  {c so, } + {c and, } ] +  {c and } ]  you withhold no matter what you do,  /']",   c so   c and     c and    you withhold no matter what you do  ,sd,FEMALE,1
+"[""they withhold what they're supposed to and at the end of the year it's not enough. /""]",they withhold what theyre supposed to and at the end of the year its not enough ,sd,FEMALE,1
+"['{f oh, } great,  /']",f oh  great  ,ba,MALE,6
+['{c so } you ought to be saving up some every month to make up for all what they should be taking out. /'],c so  you ought to be saving up some every month to make up for all what they should be taking out ,sv,MALE,3
+"['right,  /']",right  ,aa,FEMALE,4
+"['{c so } now, {d you know, } when you sign your [ w-four form or whatever, + w-two --']",c so  now d you know  when you sign your  wfour form or whatever  wtwo ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- whatever ] that is, then they always say, do you want a extra amount for state.']", whatever  that is then they always say do you want a extra amount for state,+,FEMALE,0
+['<laughter>.'],laughter,x,MALE,8
+"['which is ridiculous,  /']",which is ridiculous  ,+,FEMALE,0
+"[""{c but } it's been that way for the last probably ten years. /""]",c but  its been that way for the last probably ten years ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['i guess you have to check yes  /'],i guess you have to check yes  ,sv,MALE,3
+['{c or } you come down to the end of the year  /'],c or  you come down to the end of the year  ,sv,MALE,3
+"[""{c and } you don't have it to give it to them. /""]",c and  you dont have it to give it to them ,sv,MALE,3
+"['right,  /']",right  ,aa,FEMALE,4
+['unless you have a lot of deductions. /'],unless you have a lot of deductions ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['{c but, } {d you know, } if you have a lot of federal deduction, it ends up hurting you state wise. /']",c but  d you know  if you have a lot of federal deduction it ends up hurting you state wise ,sv,FEMALE,3
+['really? /'],really ,bh,MALE,18
+"['{c and } you end up owing, {d you know, }  /']",c and  you end up owing d you know   ,sv,FEMALE,3
+['you may get nine hundred dollars back from federal  /'],you may get nine hundred dollars back from federal  ,sv,FEMALE,3
+"[""{c and } you're going to owe fifteen hundred in state. /""]",c and  youre going to owe fifteen hundred in state ,sv,FEMALE,3
+['ouch <laughter>. /'],ouch laughter ,ba,MALE,6
+"[""{c and, }  {f uh, } [ it's, + it's ]  just ridiculous.  /""]",c and   f uh   its  its   just ridiculous  ,sv,FEMALE,3
+"[""{c but, } [  i, + i ] don't know.  /""]",c but    i  i  dont know  ,h,FEMALE,15
+"[""i've, - /""]",ive  ,%,FEMALE,5
+"['they just came up with a twenty-five percent increase on personal property [ in, + in ] oklahoma county and that is a chunk. /']",they just came up with a twentyfive percent increase on personal property  in  in  oklahoma county and that is a chunk ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""i'll say <laughter>. /""]",ill say laughter ,ba,MALE,6
+['i mean twenty-five percent increase. /'],i mean twentyfive percent increase ,sd,FEMALE,1
+"['y-, - /']",y  ,%,MALE,5
+"['is, -/']",is ,%,MALE,5

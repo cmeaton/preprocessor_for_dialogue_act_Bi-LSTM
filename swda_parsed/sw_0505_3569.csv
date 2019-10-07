@@ -1,0 +1,93 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['[ what, + what, ] - /']", what  what   ,%,MALE,5
+['how do you get your main source of current events? /'],how do you get your main source of current events ,qw,MALE,12
+"['{d well, } {f uh, } until recently i was taking the wall street journal,  /']",d well  f uh  until recently i was taking the wall street journal  ,sd,MALE,1
+"['{c and } i thought that was a good way,  /']",c and  i thought that was a good way  ,sd,MALE,1
+['{c but } i have about five different magazines that i get that keeps me up on things.  /'],c but  i have about five different magazines that i get that keeps me up on things  ,sd,MALE,1
+"[""{d you know, }  it's a week or two late,  /""]",d you know   its a week or two late  ,sd,MALE,1
+"[""{c but, } {f uh, } that's how i'm staying up. /""]",c but  f uh  thats how im staying up ,sd,MALE,1
+['i either watch the news  /'],i either watch the news  ,sd,MALE,1
+"[""[ {c or, } + {c or } ] occasionally i'll read the paper. /""]", c or   c or   occasionally ill read the paper ,sd,MALE,1
+"[""{f uh, } do you like how it's presented on the news? /""]",f uh  do you like how its presented on the news ,qy,MALE,7
+"['{f um, } no,  /']",f um  no  ,nn,MALE,13
+"[""i think the media's a little bit too manipulative.  /""]",i think the medias a little bit too manipulative  ,sv,MALE,3
+"['they allow you,   {f uh, } - /']",they allow you   f uh   ,sv,MALE,3
+"['[ they, + they ] try to lead you too much, i believe,  /']", they  they  try to lead you too much i believe  ,sv,MALE,3
+"[""{c and } sometimes they're not very open,  /""]",c and  sometimes theyre not very open  ,sv,MALE,3
+"[""[ i, + i don't  ] know,  /""]", i  i dont   know  ,sd,MALE,1
+"[""i think they're a little bit biased sometimes.  /""]",i think theyre a little bit biased sometimes  ,sv,MALE,3
+"['like for example, [ the kennedy, + the kennedy ] rape case.  /']",like for example  the kennedy  the kennedy  rape case  ,sd,MALE,1
+"['the coverage on that was, {d you know, } - /']",the coverage on that was d you know   ,sv,MALE,3
+"['when it first happened   it was,  he was  guilty, he was guilty,  he was guilty.  /']",when it first happened   it was  he was  guilty he was guilty  he was guilty  ,sd,MALE,1
+"['{d you know, } they try to have you form opinions or whatever,  /']",d you know  they try to have you form opinions or whatever  ,sv,MALE,3
+"[""{c and  then } [ i, + i ] didn't like [ the thi-, + the  things ] that were going on when we had desert storm and stuff like that.  /""]",c and  then   i  i  didnt like  the thi  the  things  that were going on when we had desert storm and stuff like that  ,sd,MALE,1
+"[""{d you know, } basically [ [ i, + i, ] + i ] think they don't present [ the, + the ] whole sides [ of, + of ] everything. /""]",d you know  basically   i  i   i  think they dont present  the  the  whole sides  of  of  everything ,sv,MALE,3
+"[""{c so, } [ it, + it ] makes you feel like they're, {f uh, } wanting you to take their opinion. /""]",c so   it  it  makes you feel like theyre f uh  wanting you to take their opinion ,bf,MALE,20
+['right.  /'],right  ,aa,MALE,4
+"[""[ [ [ it's, + it's, ] + it's, ] instead of reporting the news, + it's ] more like an editorial, i believe --""]",   its  its   its  instead of reporting the news  its  more like an editorial i believe ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- on a lot of issues. /'], on a lot of issues ,+,MALE,0
+"[""i've noticed that too,  /""]",ive noticed that too  ,sd,MALE,1
+"[""{c and } it's kind of distressing, isn't it? /""]",c and  its kind of distressing isnt it ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+"[""{c and } [ they just, + i've noticed that they do it just ]  with subtle little words, {f uh, } usually, {f uh, }  just  that sway the whole, {f uh, } report [ that, + ] {d you know, } by just a couple of words. /""]",c and   they just  ive noticed that they do it just   with subtle little words f uh  usually f uh   just  that sway the whole f uh  report  that   d you know  by just a couple of words ,sv,MALE,3
+"['{d well, } [ when, + when ] i was in school, [ i, + {f um, } i ] was a communications major,  /']",d well   when  when  i was in school  i  f um  i  was a communications major  ,sd,MALE,1
+"[""{c so }  [ [ i, +  i, ] +  i'm ] well aware of the little subtle words and persuasive speaking, [ and, +  and  ] so forth <laughter>. /""]",c so     i   i    im  well aware of the little subtle words and persuasive speaking  and   and   so forth laughter ,sd,MALE,1
+"['{c so, } communications, {f huh. }  /']",c so  communications f huh   ,bf,MALE,20
+['were you looking into becoming a reporter  /'],were you looking into becoming a reporter  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"['i was,  /']",i was  ,na,MALE,21
+"['{c and, } {f um, } [ i we-, + i ventured ] off in a whole entire different [ field, + field.  ]  /']",c and  f um   i we  i ventured  off in a whole entire different  field  field    ,sd,MALE,1
+['i went with the state. /'],i went with the state ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, } {f uh, } i, {f um, } went with the department of state treasurer in retirement disability,  /']",c and  f uh  i f um  went with the department of state treasurer in retirement disability  ,sd,MALE,1
+['calculate benefits. /'],calculate benefits ,sd,MALE,1
+"[""i bet that's a interesting job. /""]",i bet thats a interesting job ,ba,MALE,6
+['yeah.  /'],yeah  ,aa,MALE,4
+"['{c so } the, - /']",c so  the  ,%,MALE,5
+"['[ {c so, } +  {c and, } ] {d you know, }  [ working, + {d you know, } working ] for state government you hear all about current events, about things going on within the state itself.  /']", c so    c and   d you know    working  d you know  working  for state government you hear all about current events about things going on within the state itself  ,sd,MALE,1
+"[""{c so } [ that, + that's ] another source [ that [ i, + i, ] + where i ] keep up with current events  /""]",c so   that  thats  another source  that  i  i   where i  keep up with current events  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""there's one that i'm reading right now.  /""]",theres one that im reading right now  ,sd,MALE,1
+"[""it's information week.  /""]",its information week  ,sd,MALE,1
+"['it says a t and t  to account for [ the, + the ] benefits that the a i c p a now says you have to show as a liability.   /']",it says a t and t  to account for  the  the  benefits that the a i c p a now says you have to show as a liability   ,sd,MALE,1
+"[""it's going to cost them seven point five billion after tax charge in ninety-three,""]",its going to cost them seven point five billion after tax charge in ninetythree,sd,MALE,1
+['<gasp>.'],gasp,x,MALE,8
+['to account for that. /'],to account for that ,+,MALE,0
+"[""it's a lot of money. /""]",its a lot of money ,ba,MALE,6
+"[""{c and } it'll drop their earnings by a hundred million a year forever more. /""]",c and  itll drop their earnings by a hundred million a year forever more ,sd,MALE,1
+"[""<gasp> it's a lot of money. /""]",gasp its a lot of money ,ba,MALE,6
+"['yeah,  /']",yeah  ,aa,MALE,4
+['it is.  /'],it is  ,sd,MALE,1
+"['{c and, } {d yeah, }  you have to stay up on stuff,  /']",c and  d yeah   you have to stay up on stuff  ,sv,MALE,3
+"['{c and } i bet in [ your, + your  ] job that you have to,  /']",c and  i bet in  your  your   job that you have to  ,sd,MALE,1
+['do you read the wall street journal? /'],do you read the wall street journal ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+"['{d well, } no,  /']",d well  no  ,nn,MALE,13
+"['[ [ i, + i, ] + i ] primarily deal with the state employees,  /']",  i  i   i  primarily deal with the state employees  ,sd,MALE,1
+"[""{c but } [ i, + i ] find interesting tidbits in what the news reports as far as [ the, + {d like } the ] state of north carolina's budget, and stuff like that.   /""]",c but   i  i  find interesting tidbits in what the news reports as far as  the  d like  the  state of north carolinas budget and stuff like that   ,sd,MALE,1
+"['{c and } i really know what the budget is,   /']",c and  i really know what the budget is   ,sd,MALE,1
+"[""[ {c and, } + {c and, } ] {f uh, } {f uh, } when they were saying we were so poor and  they couldn't pay taxes, and pay people their income tax refunds and things like that,  /""]", c and   c and   f uh  f uh  when they were saying we were so poor and  they couldnt pay taxes and pay people their income tax refunds and things like that  ,sd,MALE,1
+"[""{c and, } {d you know, } i'm well aware of the billions of assets that the state has,  /""]",c and  d you know  im well aware of the billions of assets that the state has  ,sd,MALE,1
+"[""{c and } [ it, + it's  ] just funny.  /""]",c and   it  its   just funny  ,sv,MALE,3
+"[""{d you know, }  {c so } [ [ that's, + that's, ] + that's, ] - /""]",d you know   c so    thats  thats   thats   ,%,MALE,5
+"[""{c so } i don't have a whole lot of faith [ in, +  in, ] {d you know, } the news.   /""]",c so  i dont have a whole lot of faith  in   in  d you know  the news   ,sd,MALE,1
+"[""course it's,  - /""]",course its   ,%,MALE,5
+"['[ they, + they ] get what they hear from, - /']", they  they  get what they hear from  ,sv,MALE,3
+"[""{c but, } {d you know, } it's not always [ i, + i ] think one hundred percent reliable. /""]",c but  d you know  its not always  i  i  think one hundred percent reliable ,sv,MALE,3
+['can you think of anything that could be done to make our news media more accurate and objective? /'],can you think of anything that could be done to make our news media more accurate and objective ,qo,MALE,25
+"['i think they need to [ do a little bit, + go into a little bit ] more depth, {f uh, } before they would just report,  {d like } somebody wants to make a statement or  something like that,  /']",i think they need to  do a little bit  go into a little bit  more depth f uh  before they would just report  d like  somebody wants to make a statement or  something like that  ,sv,MALE,3
+"['{c because } {e i mean, } another example is the, {f uh, } aids issue or  whatever.  /']",c because  e i mean  another example is the f uh  aids issue or  whatever  ,sd,MALE,1
+"['{d you know, } someone said, {f oh, } i found a cure.  /']",d you know  someone said f oh  i found a cure  ,sd,MALE,1
+"['they immediately, - /']",they immediately  ,%,MALE,5
+"['the headlines on the news or whatever is,  someone says they found a cure for aids.  /']",the headlines on the news or whatever is  someone says they found a cure for aids  ,sd,MALE,1
+"[""{c and then } two months later it's discovered it's not, {d you know, }  /""]",c and then  two months later its discovered its not d you know   ,sd,MALE,1
+"['[ before they, + before they ] come out with something like that they need [ to, + to ] research the matter, i believe, a little bit more. /']", before they  before they  come out with something like that they need  to  to  research the matter i believe a little bit more ,sd,MALE,1
+"[""i guess they do that so they don't get scooped, {d you know, }  /""]",i guess they do that so they dont get scooped d you know   ,sv,MALE,3
+['{c so } they have the big story. /'],c so  they have the big story ,sv,MALE,3
+"['{d well, }  that, - /']",d well   that  ,%,MALE,5
+"['{d well, } yeah  /']",d well  yeah  ,aa,MALE,4
+"['[ i, + i, ] - /']", i  i   ,%,MALE,5
+"['it, - /']",it  ,%,MALE,5
+"['i think the, -/']",i think the ,%,MALE,5

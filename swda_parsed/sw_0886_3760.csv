@@ -1,0 +1,186 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay, {f uh, } i guess, we are just supposed to talk about things we do in our spare time. /']",okay f uh  i guess we are just supposed to talk about things we do in our spare time ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } i basically read books. /']",f uh  i basically read books ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['it is, - /']",it is  ,%,FEMALE,5
+['i do. - /'],i do  ,sd,FEMALE,1
+"[""sometimes, when everybody's gone to bed, my kids are in bed and my husband in bed,  /""]",sometimes when everybodys gone to bed my kids are in bed and my husband in bed  ,sd,FEMALE,1
+"['{c so } i will just stay up and finish a book that i am, - /']",c so  i will just stay up and finish a book that i am  ,sd,FEMALE,1
+['i have about three books that i am going on.  /'],i have about three books that i am going on  ,sd,FEMALE,1
+"['{c and } i will work on one for a little  bit, {d you know, }  and then the next one.  /']",c and  i will work on one for a little  bit d you know   and then the next one  ,sd,FEMALE,1
+"[""{c but } that's just kind of, -/""]",c but  thats just kind of ,%,FEMALE,5
+"['{d well, } that is pretty impressive to have three books going. /']",d well  that is pretty impressive to have three books going ,sv,MALE,3
+"['<laughter> not always,  /']",laughter not always  ,bd,FEMALE,38
+['just sometimes. /'],just sometimes ,bd,FEMALE,38
+"['{f oh, } yeah.  /']",f oh  yeah  ,b,MALE,2
+['{c and } what what kind of books do you read? /'],c and  what what kind of books do you read ,qw,MALE,12
+"['{f uh, } just really different ones.  /']",f uh  just really different ones  ,sd,FEMALE,1
+"['{f uh, } i have one that i was reading on, {f uh, } raising your children and then another one on [ a, + an ] autobiography, and another one on, {f uh, } {f uh, } {f uh, } like a crime story <children>. /']",f uh  i have one that i was reading on f uh  raising your children and then another one on  a  an  autobiography and another one on f uh  f uh  f uh  like a crime story children ,sd,FEMALE,1
+['{f oh } yeah  /'],f oh  yeah  ,b,MALE,2
+['<children>.'],children,x,MALE,8
+['a true crime story. /'],a true crime story ,sd,FEMALE,1
+"['{f oh, } do you like those detective stories?  /']",f oh  do you like those detective stories  ,qy,MALE,7
+['<children>.'],children,x,MALE,8
+['yeah.  /'],yeah  ,ny,FEMALE,9
+"['{c but } this, - /']",c but  this  ,%,FEMALE,5
+['it was a true one.  /'],it was a true one  ,sd,FEMALE,1
+['it was just a little different though.  /'],it was just a little different though  ,sd,FEMALE,1
+['<children> reading that one last night. /'],children reading that one last night ,sd,FEMALE,1
+"['{f oh, } {d well } that is interesting.  /']",f oh  d well  that is interesting  ,ba,MALE,6
+"['{d actually, } i like to read also,  /']",d actually  i like to read also  ,sd,MALE,1
+"['{c but, } {f uh, } usually fall into one or two categories, {c either } true science fiction {c or } fantasy on the one hand {c or } highly technical. /']",c but  f uh  usually fall into one or two categories c either  true science fiction c or  fantasy on the one hand c or  highly technical ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['like my husband. /'],like my husband ,sd,FEMALE,1
+['yeah  /'],yeah  ,b,MALE,2
+['<children>.'],children,x,MALE,8
+['yeah  /'],yeah  ,b,FEMALE,2
+['<children>.'],children,x,FEMALE,8
+"['yeah,  /']",yeah  ,b,MALE,2
+['kind of one or the other.  /'],kind of one or the other  ,sd,MALE,1
+"['you must, {f uh, } work for t i? /']",you must f uh  work for t i ,qy^d,FEMALE,16
+['yes. /'],yes ,ny,MALE,9
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['my husband does too. /'],my husband does too ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['{c and } i am a computer scientist. /'],c and  i am a computer scientist ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but, } i have a lot of other hobbies. /']",c but  i have a lot of other hobbies ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['really. /'],really ,b,FEMALE,2
+"['{d well, } yeah,  /']",d well  yeah  ,b,MALE,2
+"['i am kind of, {f uh, } i guess what you would call [ it, + ] a project person. /']",i am kind of f uh  i guess what you would call  it   a project person ,sd,MALE,1
+"['{f oh, } really. /']",f oh  really ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c and } i love, - /']",c and  i love  ,sd,MALE,1
+['{d like } i have a shop  /'],d like  i have a shop  ,sd,MALE,1
+"['{c and } when things break around the house, i always try to fix them myself  /']",c and  when things break around the house i always try to fix them myself  ,sd,MALE,1
+"['{c and so, } hobby, - /']",c and so  hobby  ,%,MALE,5
+"[""[ it's, + it's ] funny, {f uh, }  /""]", its  its  funny f uh   ,sd,MALE,1
+"['from the one stand point, it is work.  /']",from the one stand point it is work  ,sd,MALE,1
+"['{c but } it is a hobby too, that i enjoy --']",c but  it is a hobby too that i enjoy ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- to do.  /'], to do  ,+,MALE,0
+"['# to find broken, # -/']", to find broken  ,sd,MALE,1
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+['#  what kinds of things do you fix? /'],  what kinds of things do you fix ,qw,FEMALE,12
+"['{d well, } essentially anything you find in a house.  {f uh, } a stove, or oven or a broken piece of porcelain or, {f uh, } chipped tile on the floor.  {e i mean } just anything. /']",d well  essentially anything you find in a house  f uh  a stove or oven or a broken piece of porcelain or f uh  chipped tile on the floor  e i mean  just anything ,sd,MALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+['{c and } you have a shop? /'],c and  you have a shop ,qy,FEMALE,7
+"['{d well } [ it, + it ] is not anything elaborate.  /']",d well   it  it  is not anything elaborate  ,na,MALE,21
+['it is just a work bench and a gazillion tools. /'],it is just a work bench and a gazillion tools ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but, } enough that, again for anything in the house i could # probably, # -/']",c but  enough that again for anything in the house i could  probably  ,sd,MALE,1
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+['#  you can fix just about everything and anything. /'],  you can fix just about everything and anything ,^2,FEMALE,23
+['right. /'],right ,aa,MALE,4
+"['{d well, } that is great. /']",d well  that is great ,ba,FEMALE,6
+"['{c and } in the car, - /']",c and  in the car  ,%,MALE,5
+['i guess the car too. /'],i guess the car too ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and so, } {f uh, } i think i probably would consider that a hobby.  /']",c and so  f uh  i think i probably would consider that a hobby  ,sv,MALE,3
+"['although, sometimes it gets to be excessive. /']",although sometimes it gets to be excessive ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['that is pretty much like my husband.  /'],that is pretty much like my husband  ,sd,FEMALE,1
+"['[  he is, + he is ] pretty, {f uh, } mobile in that area too.  /']",  he is  he is  pretty f uh  mobile in that area too  ,sd,FEMALE,1
+"['[  he, + he ] works on the cars.  /']",  he  he  works on the cars  ,sd,FEMALE,1
+['he rarely takes them in -- /'],he rarely takes them in  ,sd,FEMALE,1
+['yeah  /'],yeah  ,b,MALE,2
+"['i, -/']",i ,%,MALE,5
+"['-- {c and, } {f uh, } he works on irons, and all t v -s and stuff too.  /']", c and  f uh  he works on irons and all t v s and stuff too  ,sd,FEMALE,1
+['we rarely have to take those things in too. /'],we rarely have to take those things in too ,sd,FEMALE,1
+['right.  /'],right  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i think [ it, + it, ] - /']",i think  it  it   ,%,MALE,5
+"['not only can it be fun,  /']",not only can it be fun  ,sv,MALE,3
+['{c but } it can certainly help your finances. /'],c but  it can certainly help your finances ,sv,MALE,3
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['definitely. /'],definitely ,aa,FEMALE,4
+"['{c so, } do you have any [ art, + ] {f uh, } {a how do i say it, } creative or artistic # hobbies? # /']",c so  do you have any  art   f uh  a how do i say it  creative or artistic  hobbies  ,qy,MALE,7
+['# {f uh. } # not really.  /'], f uh   not really  ,ng,FEMALE,29
+"['{e i mean } during christmas i work on, {d you know, } like, {f uh, } holiday sweat shirts and those kinds of things. /']",e i mean  during christmas i work on d you know  like f uh  holiday sweat shirts and those kinds of things ,sd,FEMALE,1
+"['{f oh } yeah,  /']",f oh  yeah  ,b,MALE,2
+"[""{d well that's } good. /""]",d well thats  good ,ba,MALE,6
+"['[ {c but, } + {c but, } ] {f uh, } not really <laughter>. /']", c but   c but   f uh  not really laughter ,bd,FEMALE,38
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{d well, } i don't necessarily either.  /""]",d well  i dont necessarily either  ,sd,MALE,1
+['i can plink out a song or two on a piano -- /'],i can plink out a song or two on a piano  ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- {c and } i can, {f uh, } - /']", c and  i can f uh   ,%,MALE,5
+"[""i don't necessarily draw or do any of that kind of art,  /""]",i dont necessarily draw or do any of that kind of art  ,sd,MALE,1
+['i guess --'],i guess ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- {f uh, } graphic arts --']", f uh  graphic arts ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- is that what they call it,  /']", is that what they call it  ,+,MALE,0
+"[""i can't do any of that,  /""]",i cant do any of that  ,sd,MALE,1
+['{c but } sweat shirts is certainly impressive. /'],c but  sweat shirts is certainly impressive ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{f uh, } i belong to this organization [ for, + ] {f uh, }  [ if, + if ] you have preschool children -- /']",f uh  i belong to this organization  for   f uh    if  if  you have preschool children  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and, } {f uh, } every once and a while they will have a craft, {f uh, } section for the moms -- /']", c and  f uh  every once and a while they will have a craft f uh  section for the moms  ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['-- {c and } those are really neat  /'], c and  those are really neat  ,sd,FEMALE,1
+"['{c  and } we learn to do the, {f uh, } transfer pictures <noise> on the sweatshirts --']",c  and  we learn to do the f uh  transfer pictures noise on the sweatshirts ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['-- transfer photos -- /'], transfer photos  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and, } {f uh, } those are really neat.  /']", c and  f uh  those are really neat  ,sd,FEMALE,1
+['{c so } we learn different crafts like that --'],c so  we learn different crafts like that ,sd,FEMALE,1
+['i see. /'],i see ,ba,MALE,6
+"['-- {f uh }  <noise>, /']", f uh   noise ,+,FEMALE,0
+"['{d well, } that is neat <children>. /']",d well  that is neat children ,ba,MALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+['i guess you could consider that a hobby.  /'],i guess you could consider that a hobby  ,sv,MALE,3
+"['[  do you, + do you ] cook for a hobby  /']",  do you  do you  cook for a hobby  ,qy,MALE,7
+"['{c or } do you, -/']",c or  do you ,qrr,MALE,33
+['no  /'],no  ,nn,FEMALE,13
+['<laughter> i cook dinner   <laughter>. /'],laughter i cook dinner   laughter ,sd,FEMALE,1
+"[""<laughter> that's not something you, -/""]",laughter thats not something you ,sv,MALE,3
+"[""i don't consider it a hobby <laughter>. /""]",i dont consider it a hobby laughter ,sv,FEMALE,3
+['i understand that. /'],i understand that ,ba,MALE,6
+"['{c but, } {f uh, } {d you know, } i - /']",c but  f uh  d you know  i  ,%,FEMALE,5
+['no  /'],no  ,nn,FEMALE,13
+['i am not a real  elaborate cook or anything like  that unfortunately. /'],i am not a real  elaborate cook or anything like  that unfortunately ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['i like to bake off and on.  /'],i like to bake off and on  ,sd,FEMALE,1
+"['{c and } usually once a week i will bake something,  /']",c and  usually once a week i will bake something  ,sd,FEMALE,1
+"[""{c but } it's not anything elaborate, {d you know } <laughter>. /""]",c but  its not anything elaborate d you know  laughter ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""at least, i don't think it is. /""]",at least i dont think it is ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d so, } -/']",d so  ,%,FEMALE,5
+"['{c but, } i think that still borders on hobby. /']",c but  i think that still borders on hobby ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['probably the other thing i do which <noise> i am sure will sound horrible to you, [ but + ] is i program for fun.  {f uh, } on the computer. /']",probably the other thing i do which noise i am sure will sound horrible to you  but   is i program for fun  f uh  on the computer ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so, } i have [ little projects + <children> little computer projects ] going on that i consider hobbies. /']",c so  i have  little projects  children little computer projects  going on that i consider hobbies ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } drive my wife crazy. /']",c but  drive my wife crazy ,sd,MALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+['{d well } good.  /'],d well  good  ,ba,FEMALE,6
+['you have a computer at home? /'],you have a computer at home ,qy^d,FEMALE,16
+"['i do,  /']",i do  ,na,MALE,21
+['yes. /'],yes ,ny,MALE,9
+"['{f oh, } good.  /']",f oh  good  ,ba,FEMALE,6
+['yeah. /'],yeah ,%,FEMALE,5
+"['in fact, there is actually several of them here right now. /']",in fact there is actually several of them here right now ,sd,MALE,1
+"['{f oh, } # really. # /']",f oh   really  ,b,FEMALE,2
+['# not all of them # being mine. /'], not all of them  being mine ,sd,MALE,1
+['wow.  /'],wow  ,ba,FEMALE,6
+['then you are busy <children>. /'],then you are busy children ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,MALE,9
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['that is very good. /'],that is very good ,ba,FEMALE,6
+"['{f uh, } i wonder if you can construe raising children <children> as being a hobby?  /']",f uh  i wonder if you can construe raising children children as being a hobby  ,qy,MALE,7
+['<laughter>.'],laughter,x,MALE,8
+"['<laughter> {d well, } you know one of the books  [ that i did, + that i was ] reading, - /']",laughter d well  you know one of the books   that i did  that i was  reading  ,sd,FEMALE,1
+"['{c and } i stopped because it was so, - /']",c and  i stopped because it was so  ,sd,FEMALE,1
+"[""it's - /""]",its  ,%,FEMALE,5
+['the book is so detailed -- /'],the book is so detailed  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } you have to, - /']", c and  you have to  ,sd,FEMALE,1
+"[""sometimes i have to go back and read the page over again cause i didn't quite get it all.  /""]",sometimes i have to go back and read the page over again cause i didnt quite get it all  ,sd,FEMALE,1
+"['{c and, } {f uh, } it is so detailed, /']",c and  f uh  it is so detailed ,sd,FEMALE,1

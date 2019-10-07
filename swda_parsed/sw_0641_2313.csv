@@ -1,0 +1,234 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } how many credit cards do you have? /']",d well  how many credit cards do you have ,qw,MALE,12
+"[""{f um, } [ i've only, +  i've got about ]  four maybe.  /""]",f um   ive only   ive got about   four maybe  ,sd,MALE,1
+"[""i try to limit them because [ [ i, +  {d well } one, ] +  i ] don't use them too much.  /""]",i try to limit them because   i   d well  one    i  dont use them too much  ,sd,MALE,1
+"['{c and } i use my visa just [ for abou-, +  for about ] everything,  /']",c and  i use my visa just  for abou   for about  everything  ,sd,MALE,1
+['{c and } i pay it all off.  /'],c and  i pay it all off  ,sd,MALE,1
+"['{c so } i try not to, - /']",c so  i try not to  ,sd,MALE,1
+['i just use it for free money for thirty days basically. /'],i just use it for free money for thirty days basically ,sd,MALE,1
+['sounds like we have no conflict.  /'],sounds like we have no conflict  ,sv,MALE,3
+"['we had,  /']",we had  ,%,MALE,5
+['for a while i was carrying one card  /'],for a while i was carrying one card  ,sd,MALE,1
+['{c and } my wife was carrying a different one.  /'],c and  my wife was carrying a different one  ,sd,MALE,1
+"['{c and } since the slips all look alike, {f uh, } you commingle them  /']",c and  since the slips all look alike f uh  you commingle them  ,sd,MALE,1
+['{c and then }  you get the statement  /'],c and then   you get the statement  ,sd,MALE,1
+"['{c and } you try to sort them out, {f uh, }  /']",c and  you try to sort them out f uh   ,sd,MALE,1
+"['{c and } [ it, +   {f uh, } <laughter> it ] caused more confusion about it.  /']",c and   it    f uh  laughter it  caused more confusion about it  ,sv,MALE,3
+"['i finally said, gee, this is kind of a waste of time.  /']",i finally said gee this is kind of a waste of time  ,sd,MALE,1
+"['{c and then } when a t and t came along and offered a free one, {f uh, }  i accepted that,  /']",c and then  when a t and t came along and offered a free one f uh   i accepted that  ,sd,MALE,1
+"[""{c and } we've been using that one.  /""]",c and  weve been using that one  ,sd,MALE,1
+"['{f uh, } the interesting thing [ is, +   is ] [ that, + ]  {f uh, } the amount of money you [ can +  can ] run up on them.  /']",f uh  the interesting thing  is    is   that    f uh  the amount of money you  can   can  run up on them  ,sv,MALE,3
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"['do you know any people that run up [ big, +  big ] bills? /']",do you know any people that run up  big   big  bills ,qy,MALE,7
+"[""[ [ i'm, +  i'm ] + {d you know, } i'm ]  in the age group you get out of college,  /""]",  im   im   d you know  im   in the age group you get out of college  ,^h,MALE,27
+['{c and } i think a lot of these people have them maxed out. /'],c and  i think a lot of these people have them maxed out ,sv,MALE,3
+"[""{d well, } [ did, +  {f um, } were ]  you able to get one while you're in college? /""]",d well   did   f um  were   you able to get one while youre in college ,qy,MALE,7
+"[""{f um, } i don't think i ever tried. /""]",f um  i dont think i ever tried ,ng,MALE,29
+"[""just curious, because i have a son that's  a senior this year,  /""]",just curious because i have a son thats  a senior this year  ,sd,MALE,1
+"[""{c and } he's heading off, with any kind of luck,  /""]",c and  hes heading off with any kind of luck  ,sd,MALE,1
+"['{c but } there has been, - /']",c but  there has been  ,%,MALE,5
+"[""i've had a couple of ads [ [ [ for, +  for, ] +  for ] +  to ]  provide a card for a college student.  /""]",ive had a couple of ads    for   for    for    to   provide a card for a college student  ,sd,MALE,1
+"['{f uh, } what do you think about the idea of providing one for somebody like that? /']",f uh  what do you think about the idea of providing one for somebody like that ,qo,MALE,25
+"['{f um, } {d well, } - /']",f um  d well   ,arp_nd,MALE,34
+"['<throat_clearing> yeah,  /']",throatclearing yeah  ,%,MALE,5
+"['[ i, + i, ] {d you know, } - /']", i  i  d you know   ,%,MALE,5
+"[""it's, {d you know, } feasible,  /""]",its d you know  feasible  ,sv,MALE,3
+"['{e i mean, } i know a lot of college kids [ who  have them, +  {d you know, } who had them, ] but just depends. /']",e i mean  i know a lot of college kids  who  have them   d you know  who had them  but just depends ,sd,MALE,1
+"['{d well, } [ [ [ that, + that, ] +  that, ] +   i guess [ from the, +  from the ] card issuer, {f uh, } that ] - /']",d well     that  that    that     i guess  from the   from the  card issuer f uh  that   ,%,MALE,5
+"[""[ since, +  since ] [ [ it's, +  it's ] in, mo-, + ]  the parent gets it for them,   that  really the  parent becomes the one that's responsible,  /""]", since   since    its   its  in mo    the parent gets it for them   that  really the  parent becomes the one thats responsible  ,sd,MALE,1
+"[""{c but } it's, -/""]",c but  its ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+['{c so } basically if you want  to take the risk <laughter>. /'],c so  basically if you want  to take the risk laughter ,qy^d,MALE,16
+"['yes,  /']",yes  ,ny,MALE,9
+"[""it's whether the parent wants to take the risk. /""]",its whether the parent wants to take the risk ,bf,MALE,20
+"[""it's your risk,  /""]",its your risk  ,sd,MALE,1
+"['do you trust, [ your, +  your ] son, /']",do you trust  your   your  son ,qh,MALE,26
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ to, +  to ] go run up a big  bill - /']", to   to  go run up a big  bill  ,^2,MALE,23
+"['{c and, } the thing is, there some advantages,  if he got off --']",c and  the thing is there some advantages  if he got off ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- some place and stranded.  /'], some place and stranded  ,+,MALE,0
+"[""[ [ i, +  i'm, ] +    i'm ] leaning towards doing it --""]",  i   im      im  leaning towards doing it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- [ for, +  for ] [ conven-, +']",  for   for   conven ,+,MALE,0
+"[""i'd say, [ do-, + ] {d you know, }  have one with, {d you know } --""]",id say  do   d you know   have one with d you know  ,sv,MALE,3
+"['a convenience, ] /']",a convenience  ,+,MALE,0
+['-- at least a thousand dollar credit limit or something. /'], at least a thousand dollar credit limit or something ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{c and } the idea that, {d you know, }  if he got in trouble, there's [ some, +  some ] ways of getting out, and that he doesn't  have to carry cash. - /""]",c and  the idea that d you know   if he got in trouble theres  some   some  ways of getting out and that he doesnt  have to carry cash  ,bf,MALE,20
+"['the, {f uh, } - /']",the f uh   ,%,MALE,5
+"[""[ i, +  i ] like the idea of credit cards that, {f uh, }  [ [ i don't, +  i don't, ] +  i don't ] carry cash around,  [ and, +  and, ] {f uh, } i don't  even carry checks around.  /""]", i   i  like the idea of credit cards that f uh     i dont   i dont    i dont  carry cash around   and   and  f uh  i dont  even carry checks around  ,sd,MALE,1
+"['i let my wife take the checkbook,  /']",i let my wife take the checkbook  ,sd,MALE,1
+"['{c and } she writes the checks,  /']",c and  she writes the checks  ,sd,MALE,1
+['{c and } i record them.  /'],c and  i record them  ,sd,MALE,1
+"[""{d so } [ [ [ it's, +  {f uh, } it's, ] + {f uh, } it's, ] +  {c but } it's ]  interesting that, {f uh, } [ the people [ that can, +  that can, ] + {f uh, }  the amounts of money you can ] run up [ [ wi-, +  on, ] +  on ] credit cards, - /""]",d so     its   f uh  its   f uh  its    c but  its   interesting that f uh   the people  that can   that can   f uh   the amounts of money you can  run up   wi   on    on  credit cards  ,sv,MALE,3
+"['{c and, } {f uh, } [ i, +  i ] had recently had some dealings with a  fellow that - /']",c and  f uh   i   i  had recently had some dealings with a  fellow that  ,sd,MALE,1
+"['[ they had run up, +  he was making, ] {f oh, } considered a modest salary  for an engineer,  /']", they had run up   he was making  f oh  considered a modest salary  for an engineer  ,sd,MALE,1
+"['{c and } he had run up, {f uh, } more than a years salary [ in, +  in ] various  debts to,  /']",c and  he had run up f uh  more than a years salary  in   in  various  debts to  ,sd,MALE,1
+['{c and } he wound up declaring  bankruptcy  /'],c and  he wound up declaring  bankruptcy  ,sd,MALE,1
+"['{c but } there, - /']",c but  there  ,%,MALE,5
+"[""[ it, +  it's ] hard to believe that you'd run up twenty, thirty thousand dollars of, {f uh, } - /""]", it   its  hard to believe that youd run up twenty thirty thousand dollars of f uh   ,sv,MALE,3
+"['{d well, } it was a combination of things --']",d well  it was a combination of things ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- he had,  /']", he had  ,+,MALE,0
+"['[ there were, +  there were ]  several credit cards,  /']", there were   there were   several credit cards  ,sd,MALE,1
+"['{c and then } there were several other businesses,  /']",c and then  there were several other businesses  ,sd,MALE,1
+"['[ the, +  the ] extended loan payment for your car. /']", the   the  extended loan payment for your car ,^2,MALE,23
+"['yes,  /']",yes  ,aa,MALE,4
+['yeah. /'],yeah ,aa,MALE,4
+['yeah.  /'],yeah  ,ny,MALE,9
+['i saw that. /'],i saw that ,sd,MALE,1
+"[""the interesting thing about that [ is, +   is ] [ [ that, +  {f uh, } that, ] +  that ] they're encouraging you to [ incur more, +  incur more ] debt,  /""]",the interesting thing about that  is    is    that   f uh  that    that  theyre encouraging you to  incur more   incur more  debt  ,sv,MALE,3
+"['{c and, } -/']",c and  ,%,MALE,5
+"[""{d well, } [ [ it's, +  it's, ] +  it's ]  business,  /""]",d well    its   its    its   business  ,sd,MALE,1
+"[""{c and } they're making money off that. /""]",c and  theyre making money off that ,sd,MALE,1
+['{c and } they make more money if you extend your loan. /'],c and  they make more money if you extend your loan ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ [ {c and, } +  {c and }      it's, ] + {c so } it's ] business,  /""]",  c and    c and       its   c so  its  business  ,sd,MALE,1
+"[""[ {c so, } +  {c and ] } you notice that [ they're, +  they're ] only going to do it to {d like }  cars that are one or two years old. /""]", c so    c and   you notice that  theyre   theyre  only going to do it to d like   cars that are one or two years old ,qy^d,MALE,16
+['yes. /'],yes ,ny,MALE,9
+"[""{c and so } they've already shifted the risk.  /""]",c and so  theyve already shifted the risk  ,sd,MALE,1
+"['if they assume that car, then they just have to sell it themselves,  /']",if they assume that car then they just have to sell it themselves  ,sd,MALE,1
+"[""{c and } they'll recover the loan, /""]",c and  theyll recover the loan ,sd,MALE,1
+"[""{c and } they know that people own a  car that new unless absolutely die of service  /*[[listen; can't be right transcription]]""]",c and  they know that people own a  car that new unless absolutely die of service  listen cant be right transcription,sd,MALE,1
+"[""((   ))   they're not going to keep on if the car were older. /""]",      theyre not going to keep on if the car were older ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['the interesting thing about it [ is +  is ]  that [ from [ a, +  {f uh, } {f uh, } an ] economy standpoint +  {e or } in economics, ] - /']",the interesting thing about it  is   is   that  from  a   f uh  f uh  an  economy standpoint   e or  in economics   ,sv,MALE,3
+"[""[ [ i, +  i ]  thinks it's, +  i think it's ] [ poor, +  poor, ] {f uh, } economics [ to, +  to ] carry all that consumer debt --""]",  i   i   thinks its   i think its   poor   poor  f uh  economics  to   to  carry all that consumer debt ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- at least from a tax standpoint,  /']", at least from a tax standpoint  ,+,MALE,0
+"[""{c so. }  it's interesting [ that, +  that ] the american public is encouraged to incur all  that debt and then next year none of it will be deductible,  /""]",c so   its interesting  that   that  the american public is encouraged to incur all  that debt and then next year none of it will be deductible  ,sv,MALE,3
+"[""{c and } this  year it's ten percent or so. /""]",c and  this  year its ten percent or so ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['{f uh. } /'],f uh  ,%,MALE,5
+"[""[ it's, +  {f uh, } it's ] interesting  [ that, +  that, ] {f uh, } they encourage us to do things, -/""]", its   f uh  its  interesting   that   that  f uh  they encourage us to do things ,sv,MALE,3
+"[""[ what, +  {d now } what's ] ten percent,  we can deduct, /""]", what   d now  whats  ten percent  we can deduct ,br,MALE,30
+"['i think ten percent,  /']",i think ten percent  ,sd,MALE,1
+['yes. /'],yes ,"fo_o_fw_""_by_bc",MALE,0
+"[""i didn't know that. /""]",i didnt know that ,sd,MALE,1
+"['[ of your, +  of your ] consumer credit.  /']", of your   of your  consumer credit  ,sd,MALE,1
+"[""{f oh, } if you had a thousand dollars, that means there's another hundred dollar deduction i've given you. /""]",f oh  if you had a thousand dollars that means theres another hundred dollar deduction ive given you ,sd,MALE,1
+"[""i didn't think you could,  /""]",i didnt think you could  ,qy^d,MALE,16
+"['any thing on [ a loan +  {e or, }']",any thing on  a loan   e or ,sd,MALE,1
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""it's on, {f uh, } yeah. /""]",its on f uh  yeah ,sd,MALE,1
+"['{e i mean } a mortgage ] i know you can, /']",e i mean  a mortgage  i know you can ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['on [ the, +  the, ] - /']",on  the   the   ,%,MALE,5
+"[""[ [ there's, +  there's, ] +  there's ]  a place for consumer debt  /""]",  theres   theres    theres   a place for consumer debt  ,sd,MALE,1
+"['{c and  then } you take ten percent of it,  /']",c and  then  you take ten percent of it  ,ad,MALE,22
+"['on the, -/']",on the ,%,MALE,5
+"[""{f oh, } i've never itemized yet. /""]",f oh  ive never itemized yet ,sd,MALE,1
+"['{f oh, } okay, /']",f oh  okay ,b,MALE,2
+"[""{d so } maybe that's.""]",d so  maybe thats,h,MALE,15
+"[""it's on [ schedule, +  {f um, }""]",its on  schedule   f um ,sd,MALE,1
+"['schedule a or, -/']",schedule a or ,+,MALE,0
+"['schedule a ] under, {f uh, } - /']",schedule a  under f uh   ,+,MALE,0
+"[""{d well, } [ it's  the same place, +  it's the same place ] you put, {f uh, } interest.  /""]",d well   its  the same place   its the same place  you put f uh  interest  ,sd,MALE,1
+"[""[ {c but, } + {c but } ]  see [ that's what, + that's what ] makes texas squirrelly laws that [ you can't, +  you can't ]  take out [ a, + a ] second mortgage, like  some states where you can take out the mortgage and  declare that,  /""]", c but   c but    see  thats what  thats what  makes texas squirrelly laws that  you cant   you cant   take out  a  a  second mortgage like  some states where you can take out the mortgage and  declare that  ,sv,MALE,3
+"[""{c and so, } {f uh, } it's fully deductible.  /""]",c and so  f uh  its fully deductible  ,sd,MALE,1
+"['the laws are a little  squirrelly,  /']",the laws are a little  squirrelly  ,sv,MALE,3
+['{c but } it basically comes down to - /'],c but  it basically comes down to  ,sd,MALE,1
+"[""it's not in your best  interest to borrow money from a tax standpoint. /""]",its not in your best  interest to borrow money from a tax standpoint ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['{c but, } {f uh, } anyway, -/']",c but  f uh  anyway ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ [ i try, +  [ i, +  i ]  really do, ] +  i just try ] to stay out of  debt,  /']",  i try    i   i   really do    i just try  to stay out of  debt  ,sd,MALE,1
+"['[ {c and } i, +  {c and } i ] use my visa [ for, +  for ] as much as i can,  /']", c and  i   c and  i  use my visa  for   for  as much as i can  ,sd,MALE,1
+"['{c and } i pay it all off,  /']",c and  i pay it all off  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"[""sounds like [ you're, +  you're ]  [ very respon-, +  very financially responsible. ]  /""]",sounds like  youre   youre    very respon   very financially responsible   ,qy^d,MALE,16
+"[""[ it's, +  {f uh, }""]", its   f uh ,%,MALE,5
+['uh-huh. /'],uhhuh ,ny,MALE,9
+"[""that's, ]  {f uh, } - /""]",thats   f uh   ,+,MALE,0
+"[""there're a lot of people who really run, - /""]",therere a lot of people who really run  ,sv,MALE,3
+"['my boss drives quite a ways to work,  /']",my boss drives quite a ways to work  ,sd,MALE,1
+"[""{c and } he's got just enormous  debts,  /""]",c and  hes got just enormous  debts  ,sd,MALE,1
+"[""{c and } he's, - /""]",c and  hes  ,%,MALE,5
+"[""{c but, } {e i mean, } what do you say, it's {d like, } shucks, <laughter>  boss, i'm sure sorry you've got all that debt.  /""]",c but  e i mean  what do you say its d like  shucks laughter  boss im sure sorry youve got all that debt  ,qh,MALE,26
+"[""{d well, } he's [ had, +  had ] two  kids in college  [ and, +  and ] this kind of thing,  /""]",d well  hes  had   had  two  kids in college   and   and  this kind of thing  ,sd,MALE,1
+['{c and } that -- -/'],c and  that  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['--  i think that the whole credit  card issue, i think they certainly encourage people to run up the debts  /']",  i think that the whole credit  card issue i think they certainly encourage people to run up the debts  ,sv,MALE,3
+"['[ {c and, } + {c but } ] i agree with you -- /']", c and   c but   i agree with you  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- [ i don't, +  i  ((   )) ]  my debts. - /""]",  i dont   i        my debts  ,%,MALE,5
+"['{d well, } i did buy a new house last summer. /']",d well  i did buy a new house last summer ,sd,MALE,1
+"['<throat_clearing> hell, i took a five year  note out on my car [ when i, +  {d right } when i ] got out of college,  /']",throatclearing hell i took a five year  note out on my car  when i   d right  when i  got out of college  ,sd,MALE,1
+"[""{c and, } {f uh, } i'll never do that again.  /""]",c and  f uh  ill never do that again  ,sd,MALE,1
+"['i still got a couple of years on it to go,  /']",i still got a couple of years on it to go  ,sd,MALE,1
+"[""{c and } i'm, -/""]",c and  im ,%,MALE,5
+"[""[ it's, +  it's ] remarkable how many  people as soon as they get out of college buy a new car,  /""]", its   its  remarkable how many  people as soon as they get out of college buy a new car  ,sv,MALE,3
+"[""{c and } [ that, +  {f uh, }  apparently that's ] been going on for a really long time.  /""]",c and   that   f uh   apparently thats  been going on for a really long time  ,sv,MALE,3
+"[""i didn't do it.  /""]",i didnt do it  ,sd,MALE,1
+"['[ i, +  i ] bought a  second hand car when i was, the middle of my senior year. /']", i   i  bought a  second hand car when i was the middle of my senior year ,sd,MALE,1
+"[""{d well, } [ you, + you ] think you're  starting out well, until you start paying all those bills.""]",d well   you  you  think youre  starting out well until you start paying all those bills,sv,MALE,3
+['yep. /'],yep ,b,MALE,2
+"['{f uh, } apartment rent,  /']",f uh  apartment rent  ,+,MALE,0
+"['{c and, } -/']",c and  ,%,MALE,5
+['miscellaneous things like food and --'],miscellaneous things like food and ,^2,MALE,23
+['yeah. /'],yeah ,b,MALE,2
+"['-- other things,  /']", other things  ,+,MALE,0
+"['these habits you  get into, eating  /']",these habits you  get into eating  ,sd,MALE,1
+"[""[ {c and, } + {c and, } ] {f uh, } [ [ it's, +  it's, ] +  it's ] amazing [ how it, +  what you ] learn. /""]", c and   c and   f uh    its   its    its  amazing  how it   what you  learn ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+['{c so. } -/'],c so  ,%,MALE,5
+"['{d well, } anything else good to say about credit cards? /']",d well  anything else good to say about credit cards ,qy,MALE,7
+['{f um } -- /'],f um   ,%,MALE,5
+"['i might just, -/']",i might just ,%,MALE,5
+"[""-- {d you know, } they're convenient,  {d you know, }  /""]", d you know  theyre convenient  d you know   ,sv,MALE,3
+"[""that's probably one big thing about them,  /""]",thats probably one big thing about them  ,sv,MALE,3
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+"[""you don't have to carry the cash,  /""]",you dont have to carry the cash  ,bf,MALE,20
+"[""[ [ {c and, } + {c and, } ] +  {f uh, } {c and } ]  [ [ it's, +  it's, ] +  it's ] certainly accepted [ more places than, +  the places, ]   {d you know, } - /""]",  c and   c and     f uh  c and      its   its    its  certainly accepted  more places than   the places    d you know   ,sd,MALE,1
+"[""it's hard to cash a check if you're out of state,  /""]",its hard to cash a check if youre out of state  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{d well, } i was used to using  my credit card, {d like } at skaggs alpha beta in dallas, and stuff -- /']",d well  i was used to using  my credit card d like  at skaggs alpha beta in dallas and stuff  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- {c and } now i'm out here in phoenix. /""]", c and  now im out here in phoenix ,sd,MALE,1
+"[""[ they don't allow, +  they don't do ] tha-, -/""]", they dont allow   they dont do  tha ,sd,MALE,1
+"['[ they, +  they, ] - /']", they   they   ,%,MALE,5
+"['none of these grocery  stores take any credit cards,  /']",none of these grocery  stores take any credit cards  ,sd,MALE,1
+"['{c so } now i have to carry cash when i go to the grocery store,  which is new to me, {d you know, }  /']",c so  now i have to carry cash when i go to the grocery store  which is new to me d you know   ,sd,MALE,1
+['i got to have sixty bucks on me or something. /'],i got to have sixty bucks on me or something ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c so, } {f uh } --']",c so  f uh  ,sv,MALE,3
+['carry all that cash with you. /'],carry all that cash with you ,bf,MALE,20
+"['-- that was interesting, cause i  always, {d you know, } - /']", that was interesting cause i  always d you know   ,+,MALE,0
+['you --'],you ,sd,MALE,1
+"['{d well, } {d you know } [ [ they, +  they -- ] +']",d well  d you know    they   they   ,sd,MALE,1
+"[""-- didn't have to worry about  carrying that much unless i knew i, -/""]", didnt have to worry about  carrying that much unless i knew i ,+,MALE,0
+"[""-- they've ] started towards a little  bit of the debit card,  /""]", theyve  started towards a little  bit of the debit card  ,+,MALE,0
+"['have you seen the debit cards where they actually debit your account when you, -/']",have you seen the debit cards where they actually debit your account when you ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""i've heard about them. /""]",ive heard about them ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{c and } i think that's where, -/""]",c and  i think thats where ,sv,MALE,3
+"[""that's mostly locally,  /""]",thats mostly locally  ,sd,MALE,1
+"['the banks will line up with, {f uh. } -/']",the banks will line up with f uh  ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i've seen a couple, - /""]",ive seen a couple  ,sd,MALE,1
+"['although the, - /']",although the  ,%,MALE,5
+"[""so  many of the grocery stores don't do that because of [ the, +  the ] time frame  which they get paid, in general,  /""]",so  many of the grocery stores dont do that because of  the   the  time frame  which they get paid in general  ,sv,MALE,3
+"['that, {f uh, } - /']",that f uh   ,%,MALE,5
+"['they, - /']",they  ,%,MALE,5
+"[""i've seen checks [ deposited  the very next day, +  {e i mean, } cleared my account the next day. ]  /""]",ive seen checks  deposited  the very next day   e i mean  cleared my account the next day   ,sd,MALE,1
+['my wife will write  a check for groceries  /'],my wife will write  a check for groceries  ,sd,MALE,1
+"['{c and, } {d you know, } almost, - /']",c and  d you know  almost  ,%,MALE,5
+"[""{d well } i guess it's the day after,  {f uh, }  /""]",d well  i guess its the day after  f uh   ,sd,MALE,1
+"[""technically it's two days,  /""]",technically its two days  ,sd,MALE,1
+"['{c but } [ [ the-, +  the-, ] +  they ] took that check  and scurried it to the bank  /']",c but    the   the    they  took that check  and scurried it to the bank  ,sd,MALE,1
+"['{c and } the bank scurried it back to my account,  /']",c and  the bank scurried it back to my account  ,sd,MALE,1
+"[""{c and } you thought there'd be just a little bit of float,  /""]",c and  you thought thered be just a little bit of float  ,sd,MALE,1
+"[""{c but } apparently that's why [ [ the, +   {f uh, } the, ] + {f uh, } the, ] {f uh, } grocery stores are reluctant to do that, because their volume,  that is quite high,  /""]",c but  apparently thats why   the    f uh  the   f uh  the  f uh  grocery stores are reluctant to do that because their volume  that is quite high  ,sv,MALE,3
+"['{c and } they have, {f uh, } - /']",c and  they have f uh   ,%,MALE,5
+['the costability of the  cash flow is a big issue for them. /'],the costability of the  cash flow is a big issue for them ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['anyway.  /'],anyway  ,fc,MALE,10
+"[""{d well, } it's good talking to you. /""]",d well  its good talking to you ,fc,MALE,10
+['all righty. /'],all righty ,fc,MALE,10
+"[""maybe [ we'll get across, +  we'll cross ]  paths again.  /""]",maybe  well get across   well cross   paths again  ,fc,MALE,10
+['good night. /'],good night ,fc,MALE,10
+['all righty.  /'],all righty  ,fc,MALE,10
+['take it easy. /'],take it easy ,fc,MALE,10

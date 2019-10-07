@@ -1,0 +1,88 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['go ahead. /'],go ahead ,ad,FEMALE,22
+"['{d well, } {f uh, } a friend of mine actually works for mcdonald douglas  [ in the, + {f uh, } in the  ] space station program  /']",d well  f uh  a friend of mine actually works for mcdonald douglas   in the  f uh  in the   space station program  ,sd,MALE,1
+['{c so } --'],c so  ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""-- i get to find out a lot of information about what's going on there  /""]", i get to find out a lot of information about whats going on there  ,+,MALE,0
+['# {c and } # --'], c and   ,sv,MALE,3
+['# sure. # /'], sure  ,b,FEMALE,2
+"[""-- it sure sounds like that's going to be a really viable program if it continues to be funded at current levels. /""]", it sure sounds like thats going to be a really viable program if it continues to be funded at current levels ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } [ they're, + they're  ] going to be doing a lot of interesting things.  /""]",f uh   theyre  theyre   going to be doing a lot of interesting things  ,sv,MALE,3
+"[""{f uh, } i think one of the big things he's involved with is the micro gravity payloads.  /""]",f uh  i think one of the big things hes involved with is the micro gravity payloads  ,sv,MALE,3
+"[""{c and } that has a direct impact on a lot of things that we really can't do down here on earth including, {f uh, } some new pharmaceutical techniques. /""]",c and  that has a direct impact on a lot of things that we really cant do down here on earth including f uh  some new pharmaceutical techniques ,sv,MALE,3
+"[""{f oh, } you're kidding.  /""]",f oh  youre kidding  ,ba,FEMALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c so, } {d you know, } # [ there's # -- +""]",c so  d you know    theres   ,sv,MALE,3
+['# {f huh. } # /'], f huh   ,%,FEMALE,5
+"[""-- there's  ] a big opportunity for us to explore, {f uh, } what sorts of things you can do in a zero gravity environment. /""]", theres   a big opportunity for us to explore f uh  what sorts of things you can do in a zero gravity environment ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['# sure. # /'], sure  ,b,FEMALE,2
+"[""# {c so. } #  i suspect that we'll see a lot of gains from that. /""]", c so    i suspect that well see a lot of gains from that ,sv,MALE,3
+"[""{f oh, } that's good because sometimes i wonder, {d you know, } being a, {f uh, } lay person out there [ of + ] not, {f uh, } knowing [ e-, + exactly  ] what's going on in space. whether, {d you know, } they're going ahead and doing things and whether or not  /""]",f oh  thats good because sometimes i wonder d you know  being a f uh  lay person out there  of   not f uh  knowing  e  exactly   whats going on in space whether d you know  theyre going ahead and doing things and whether or not  ,sd,FEMALE,1
+"[""we're spending too much money on the programs and not spending enough money on the earth that we have here.  /""]",were spending too much money on the programs and not spending enough money on the earth that we have here  ,sd,FEMALE,1
+"['being, {d you know, } - /']",being d you know   ,%,FEMALE,5
+"[""to me, all this, {f uh, } space exploration that we've done thus far has told us that there's no other place like earth.    that, {f uh,  }  we can't live on mars.  /""]",to me all this f uh  space exploration that weve done thus far has told us that theres no other place like earth    that f uh    we cant live on mars  ,sd,FEMALE,1
+"[""we can't live here,  /""]",we cant live here  ,sv,FEMALE,3
+"[""we can't live there.  /""]",we cant live there  ,sv,FEMALE,3
+"['{e i mean, } this is [ the, + the  ] place that we have to live.  /']",e i mean  this is  the  the   place that we have to live  ,sv,FEMALE,3
+"[""{e i mean, } there's, {f uh, } no other resource for us [ to, + to  ] look at other than here.  /""]",e i mean  theres f uh  no other resource for us  to  to   look at other than here  ,sv,FEMALE,3
+"[""{c so, }  it's kind of like, to me, - /""]",c so   its kind of like to me  ,%,FEMALE,5
+"[""i would like to see a lot more money being put toward taking care of the environment that we have here and not so much emphasis put on what's going out in space  /""]",i would like to see a lot more money being put toward taking care of the environment that we have here and not so much emphasis put on whats going out in space  ,sv,FEMALE,3
+"['{c and } what, {d you know, } - /']",c and  what d you know   ,%,FEMALE,5
+['not that i want everything to halt  /'],not that i want everything to halt  ,sd,FEMALE,1
+"[""{c and } let's forget about the space program or whatever,  /""]",c and  lets forget about the space program or whatever  ,sd,FEMALE,1
+"[""{c because } we're always curious  /""]",c because  were always curious  ,sv,FEMALE,3
+['{c and }  we always need to know more things.  /'],c and   we always need to know more things  ,sv,FEMALE,3
+"[""{c but, } {f uh, } to me it's kind of like let's try and clean up the air that we have here.  /""]",c but  f uh  to me its kind of like lets try and clean up the air that we have here  ,sv,FEMALE,3
+"[""let's try to take care of the lakes that are getting polluted and the other things that are going on here.  /""]",lets try to take care of the lakes that are getting polluted and the other things that are going on here  ,sv,FEMALE,3
+"['mainly because, {f uh, } - /']",mainly because f uh   ,%,FEMALE,5
+['the space program has taught us that there is no other place for us.  /'],the space program has taught us that there is no other place for us  ,sv,FEMALE,3
+['{e i mean } this is it.  /'],e i mean  this is it  ,sv,FEMALE,3
+"['{e i mean }  [ if we would have, + {f uh, } if we would have ] went into space and found mars a livable, {f uh, } planet, we probably would have <noise> inhabited it  /']",e i mean    if we would have  f uh  if we would have  went into space and found mars a livable f uh  planet we probably would have noise inhabited it  ,sv,FEMALE,3
+"['{c and, } {f uh, } {d you know, } who would have cared about earth?  /']",c and  f uh  d you know  who would have cared about earth  ,qh,FEMALE,26
+"['it would have been another planet to kind of take over and, {f uh, } continue on.  /']",it would have been another planet to kind of take over and f uh  continue on  ,sv,FEMALE,3
+"['[ {c so, } + {d you know, } {c and }  ] that - /']", c so   d you know  c and    that  ,%,FEMALE,5
+"[""when i look at the space program itself, i think of it, {d you know, } as being in terms of [ it's, + it's  ] interesting to learn but [ [ it's also, + it's,  ] + it  ] brings down the fact that this earth is it.  /""]",when i look at the space program itself i think of it d you know  as being in terms of  its  its   interesting to learn but   its also  its    it   brings down the fact that this earth is it  ,sd,FEMALE,1
+"[""it's it for us,  {a you know what i mean? }""]",its it for us  a you know what i mean ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"['{f uh, } unless technology makes the decision that we are all going to live in space or whatever.  /']",f uh  unless technology makes the decision that we are all going to live in space or whatever  ,+,FEMALE,0
+"['{c but } i would love to, {f uh, } go into the space shuttle some day and, {f uh, } just see, {f uh, } {d you know, } the earth and the different planets and  things like that.  /']",c but  i would love to f uh  go into the space shuttle some day and f uh  just see f uh  d you know  the earth and the different planets and  things like that  ,sd,FEMALE,1
+"[""[ i, + i  ] think it would be very interesting to do but whether it would be feasible to do i don't know. /""]", i  i   think it would be very interesting to do but whether it would be feasible to do i dont know ,sd,FEMALE,1
+"['{d well, } {f uh, } <swallowing> as far as the practical aspects go, i suspect that the space station may actually be a good compromise --']",d well  f uh  swallowing as far as the practical aspects go i suspect that the space station may actually be a good compromise ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- between, {d you know, } [ deep space + <<mispronounced>>, {e i'm sorry, } deep space + ] exploration --""]", between d you know   deep space  mispronounced e im sorry  deep space   exploration ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ and, + {f uh, } and  ] not doing anything --']",  and  f uh  and   not doing anything ,+,MALE,0
+['sure. /'],sure ,b,FEMALE,2
+['-- because we have the opportunity to off load some things to the space station. /'], because we have the opportunity to off load some things to the space station ,+,MALE,0
+['exactly.  /'],exactly  ,aa,FEMALE,4
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, } {f uh, } {d you know, } perhaps we can find better techniques for doing things that, {f uh, } we'd normally do down here --""]",c and  f uh  d you know  perhaps we can find better techniques for doing things that f uh  wed normally do down here ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- that are damaging to the environment. /'], that are damaging to the environment ,+,MALE,0
+['exactly.  /'],exactly  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""that's true, {d you know. }  /""]",thats true d you know   ,ba,FEMALE,6
+"['{c and } [ i, + i  ] think of, {f uh, } - /']",c and   i  i   think of f uh   ,%,FEMALE,5
+"[""i'm sure you probably have heard of the genesis program that's going on currently out in the arizona desert. /""]",im sure you probably have heard of the genesis program thats going on currently out in the arizona desert ,qy^d,FEMALE,16
+['uh-huh. /'],uhhuh ,ny,MALE,9
+"[""{f uh, } [ there's, + {f uh, } {d you know, } they're  ] trying to look at how things effect everything in trying to create, {d you know, } an environment where they have an ocean and they have the lakes and then they have the desert part of it   /""]",f uh   theres  f uh  d you know  theyre   trying to look at how things effect everything in trying to create d you know  an environment where they have an ocean and they have the lakes and then they have the desert part of it   ,sd,FEMALE,1
+"[""{c and  then } they have an area that's more, {f uh, } {d you know, } full of, {f uh, } vegetation, tropicals, that kind of thing, to kind of look at things and say, {d you know, } [ the + ] environment wise, this is where we're living  /""]",c and  then  they have an area thats more f uh  d you know  full of f uh  vegetation tropicals that kind of thing to kind of look at things and say d you know   the   environment wise this is where were living  ,sd,FEMALE,1
+"['{c but } [ what, + what  ] effects it  /']",c but   what  what   effects it  ,%,FEMALE,5
+['{c and }  how can we improve it and things like that.  /'],c and   how can we improve it and things like that  ,sd,FEMALE,1
+"['{c and } [ i, + i  ] think in space, {f uh, } - /']",c and   i  i   think in space f uh   ,%,FEMALE,5
+"[""i don't know how many people could live up in space, {f uh, } for any length of time <laughter>.  /""]",i dont know how many people could live up in space f uh  for any length of time laughter  ,sd,FEMALE,1
+"[""{e i mean } just the way that we're affected by when it's cloudy out - /""]",e i mean  just the way that were affected by when its cloudy out  ,sd,FEMALE,1
+"[""{c and } it's cloudy for days  /""]",c and  its cloudy for days  ,sd,FEMALE,1
+"[""{c and } we don't see the sun  /""]",c and  we dont see the sun  ,sd,FEMALE,1
+"['{c and } the people, their moods are extreme, # {d you know. } # /']",c and  the people their moods are extreme  d you know   ,sv,FEMALE,3
+['# right. # /'], right  ,b,MALE,2
+"[""it's like, god if i don't get to see the sun i'm going to be in this bad mood all this entire time  /""]",its like god if i dont get to see the sun im going to be in this bad mood all this entire time  ,sv,FEMALE,3
+['{c and } this is how i see people reacting.  /'],c and  this is how i see people reacting  ,sd,FEMALE,1
+"['{d you know, } when is the sun going to come out?  /']",d you know  when is the sun going to come out  ,qh,FEMALE,26
+"['{c so } i wonder how, {d you know, } somebody living up in space is going to be able to tolerate never seeing the sun <laughter>. {d you know, } in the aspect that we see it.']",c so  i wonder how d you know  somebody living up in space is going to be able to tolerate never seeing the sun laughter d you know  in the aspect that we see it,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{f uh, } and never seeing, {f uh, } {d you know, } light, bright days, {d you know. }  /']",f uh  and never seeing f uh  d you know  light bright days d you know   ,+,FEMALE,0
+"['{c and, } -/']",c and  ,%,FEMALE,5

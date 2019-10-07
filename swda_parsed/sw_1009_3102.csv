@@ -1,0 +1,259 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""{c so, } {f uh, } let's see [ wh-, + what  ] was the topic,  /""]",c so  f uh  lets see  wh  what   was the topic  ,^h,MALE,27
+['i forgot  /'],i forgot  ,sd,MALE,1
+"['((   ))  we are supposed to talk, -/']",     we are supposed to talk ,sd,MALE,1
+"['advice [ for people taking + for parents,  ] {f uh, } help their kids through college. /']",advice  for people taking  for parents   f uh  help their kids through college ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['do you have any children? /'],do you have any children ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['i just graduated from college. /'],i just graduated from college ,sd,FEMALE,1
+"['{f oh, } did you? /']",f oh  did you ,bh,MALE,18
+['yes. /'],yes ,ny,FEMALE,9
+['where did you go? /'],where did you go ,qw,MALE,12
+['i went to clarion. /'],i went to clarion ,sd,FEMALE,1
+['clarion. /'],clarion ,bf,MALE,20
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+"['{f huh, } {f uh, } [ would you, + {e i mean, } if you had children, would you  ] want them to go to a certain place  /']",f huh  f uh   would you  e i mean  if you had children would you   want them to go to a certain place  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"['{f um, } i would want them to make that decision  /']",f um  i would want them to make that decision  ,sd,FEMALE,1
+"['{c and } i would, {d you know, } -/']",c and  i would d you know  ,%,FEMALE,5
+['yeah. /'],yeah ,b,MALE,2
+"['{f uh, } i pretty much made my decision on my own and my [ b-, + older brother,  ] likewise. /']",f uh  i pretty much made my decision on my own and my  b  older brother   likewise ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, } {f uh, } {d you know, } [ we, + we  ] were both pretty much happy with what we did. /']",c and  f uh  d you know   we  we   were both pretty much happy with what we did ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c so, } i think, i would not push them towards any one place. /']",c so  i think i would not push them towards any one place ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['i know,  /']",i know  ,ba,MALE,6
+['i kind of feel the same way  /'],i kind of feel the same way  ,sv,MALE,3
+"['[ i, + i  ] just finished college a couple years ago  /']", i  i   just finished college a couple years ago  ,sd,MALE,1
+"['{c and } i, {f uh, } {d you know, } - /']",c and  i f uh  d you know   ,%,MALE,5
+"['it was while i had my family and everything and it was a lot harder,  /']",it was while i had my family and everything and it was a lot harder  ,sd,MALE,1
+"['{c but, } {f uh, } {d you know, } i went to a college that was fairly local  /']",c but  f uh  d you know  i went to a college that was fairly local  ,sd,MALE,1
+"['{c and } i feel like my education, {d you know, } - /']",c and  i feel like my education d you know   ,sd,MALE,1
+"['you get out of it what you put into it, i think. /']",you get out of it what you put into it i think ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } {d you know, } i know, - /']",c but  d you know  i know  ,%,MALE,5
+"[""it's, - /""]",its  ,%,MALE,5
+"['some people are real adamant about, {d you know, } going to a certain school or whatever. /']",some people are real adamant about d you know  going to a certain school or whatever ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i do not know,  /']",i do not know  ,h,MALE,15
+"['i guess [ it, + a lot of it  ] would depend on maybe what your major was or something,  /']",i guess  it  a lot of it   would depend on maybe what your major was or something  ,sd,MALE,1
+['i do not know.  /'],i do not know  ,h,MALE,15
+"['{c but, } -/']",c but  ,%,MALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['exactly. /'],exactly ,aa,FEMALE,4
+"['{c but, } -/']",c but  ,%,MALE,5
+"['i think one of the first things kids ought to look for is, first of all, they have to decide what they want to major in.']",i think one of the first things kids ought to look for is first of all they have to decide what they want to major in,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""and then, {d you know, } find a school that's good for that. /""]",and then d you know  find a school thats good for that ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+['is that why you picked the school you did  /'],is that why you picked the school you did  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"['{d well } i picked it for a couple of reasons, it was only about an hour and ten minutes away from home,']",d well  i picked it for a couple of reasons it was only about an hour and ten minutes away from home,ng,FEMALE,29
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['so it was far enough away that i was away,']",so it was far enough away that i was away,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['but yet close enough if i ever wanted to go home, i could. /']",but yet close enough if i ever wanted to go home i could ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+['{c so } you lived there at school then? /'],c so  you lived there at school then ,qy,MALE,7
+['you lived there at school. /'],you lived there at school ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['i lived up at school. /'],i lived up at school ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{f uh, } another reason was, {f uh, } i paid for my entire education.']",f uh  another reason was f uh  i paid for my entire education,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['so i had to look for something that i could afford economically. /'],so i had to look for something that i could afford economically ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"['{d you know, } {c and, } {f uh, } [ clarion was, + {f oh, } it was  ] roughly around six thousand a year. /']",d you know  c and  f uh   clarion was  f oh  it was   roughly around six thousand a year ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['{c and } that was for tuition  /'],c and  that was for tuition  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['that was for everything.  /'],that was for everything  ,sd,FEMALE,1
+"['{c and } {d now, } i did not go out a lot  /']",c and  d now  i did not go out a lot  ,sd,FEMALE,1
+"['{c and } i did not order out a lot, /']",c and  i did not order out a lot ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } [ i, + {d you know, } i  ] did not spend money on myself. /']",c and   i  d you know  i   did not spend money on myself ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but, } {f uh, } then again, i was there for school  /']",c but  f uh  then again i was there for school  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['yeah. /'],yeah ,b,MALE,2
+"['{f uh, } {c and } then another reason was i was not sure, {d you know, } - /']",f uh  c and  then another reason was i was not sure d you know   ,sd,FEMALE,1
+"['i always wanted to go to school for nursing, and then at the last minute, i changed my mind. /']",i always wanted to go to school for nursing and then at the last minute i changed my mind ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } i knew that clarion was known, {d you know, }  ((   ))  for two things,  /']",c and  i knew that clarion was known d you know        for two things  ,sd,FEMALE,1
+"['actually, for their, - /']",actually for their  ,%,FEMALE,5
+"[""they are known as a teacher's school --""]",they are known as a teachers school ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- and also for their business.  /'], and also for their business  ,+,FEMALE,0
+"[""{c so, } that's what i ended up going for is for business. /""]",c so  thats what i ended up going for is for business ,sd,FEMALE,1
+['for business. -/'],for business ,bf,MALE,20
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+"['{c so, } {f uh, } are you working somewhere then  /']",c so  f uh  are you working somewhere then  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"['no,  /']",no  ,nn,FEMALE,13
+['no  /'],no  ,nn,FEMALE,13
+"['not yet,  /']",not yet  ,sd,FEMALE,1
+"['i am moving shortly,  /']",i am moving shortly  ,sd,FEMALE,1
+['{c so } i am not looking around here. /'],c so  i am not looking around here ,sd,FEMALE,1
+"['{f oh, } i see,  /']",f oh  i see  ,bk,MALE,14
+['where are you going to move to? /'],where are you going to move to ,qw,MALE,12
+"['{f uh, } maryland. /']",f uh  maryland ,sd,FEMALE,1
+"['{f oh, } are you? /']",f oh  are you ,bh,MALE,18
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['do you have friends there  /'],do you have friends there  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+['my fiancee is down there <laughter>. /'],my fiancee is down there laughter ,sd,FEMALE,1
+"['{f oh, } i see.  /']",f oh  i see  ,bk,MALE,14
+"['{c so, } does he work for a company down there? /']",c so  does he work for a company down there ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['he works for the government. /'],he works for the government ,sd,FEMALE,1
+"['{f oh, } i see.  /']",f oh  i see  ,bk,MALE,14
+"['{f oh, } the big company. /']",f oh  the big company ,bf,MALE,20
+['yeah  /'],yeah  ,aa,FEMALE,4
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c so, } yeah,  /']",c so  yeah  ,b,MALE,2
+"['[ i, + i  ] have been working for t i for about twelve years, i guess.  /']", i  i   have been working for t i for about twelve years i guess  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } [ i am not originally, + i am originally  ] from illinois, but, {d you know, } i have gone to college, i guess a few different places,  /']",c but   i am not originally  i am originally   from illinois but d you know  i have gone to college i guess a few different places  ,sd,MALE,1
+"['{c but } i think, {d you know, } [ mo-, + for the most  ] part, {d you know, } the teachers have been pretty good and i have got out of it [ what i have, + what i have  ] put into it. /']",c but  i think d you know   mo  for the most   part d you know  the teachers have been pretty good and i have got out of it  what i have  what i have   put into it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ {c so, } + {c but, }  ] {d you know, } [ i think, + i think  ] that's most of it personally,  /""]", c so   c but    d you know   i think  i think   thats most of it personally  ,sd,MALE,1
+"[""{c but } that's why [ i, + {d you know, } with my kids, i  ] think that, {d you know, } i am just going to encourage them to go.  /""]",c but  thats why  i  d you know  with my kids i   think that d you know  i am just going to encourage them to go  ,sd,MALE,1
+['{c and } i am going to try to help them financially  /'],c and  i am going to try to help them financially  ,sd,MALE,1
+"['{c but, } {f uh, } i think, {d you know, } financially, i am, - /']",c but  f uh  i think d you know  financially i am  ,sd,MALE,1
+"[""there's only so much i can do for them, /""]",theres only so much i can do for them ,sd,MALE,1
+['exactly. /'],exactly ,aa,FEMALE,4
+"[""{c and } i will say, here's what you have got,  /""]",c and  i will say heres what you have got  ,sd,MALE,1
+"['you can either, {d you know, } go a couple of years locally and, {d you know, } then if you want to move off to a more expensive school then, we might be able to handle it.  but,']",you can either d you know  go a couple of years locally and d you know  then if you want to move off to a more expensive school then we might be able to handle it  but,^q,MALE,19
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['otherwise, you can just go for four years, {d you know, } somewhere  and i will [ try to, + try to  ] help you.  {c but, } {f uh, } i do not know, {d you know, }  the financial end of it,  like you said.  /']",otherwise you can just go for four years d you know  somewhere  and i will  try to  try to   help you  c but  f uh  i do not know d you know   the financial end of it  like you said  ,+,MALE,0
+['i put my wife through school too.  /'],i put my wife through school too  ,sd,MALE,1
+"['of course t i paid for a lot of the tuition and books and stuff, but, {f uh, } it still was a challenge to do.  /']",of course t i paid for a lot of the tuition and books and stuff but f uh  it still was a challenge to do  ,sd,MALE,1
+"[""[ {c and, } + {f uh, } {c so, }  ] i think, {d you know, } financially [ that's, + that's  ] one of the big aspects. /""]", c and   f uh  c so    i think d you know  financially  thats  thats   one of the big aspects ,sd,MALE,1
+"['exactly,  /']",exactly  ,aa,FEMALE,4
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, } you, -/']",d you know  you ,%,MALE,5
+"['it does have a lot of bearing on it, whether you are paying for yourself,']",it does have a lot of bearing on it whether you are paying for yourself,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"['or whether your parents are, {d you know. } /']",or whether your parents are d you know  ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"['{d well, } [ did you, + {f uh, } since you were paid for school yourself, do you  ] think you had a different outlook on it, like your grades and things like  that? /']",d well   did you  f uh  since you were paid for school yourself do you   think you had a different outlook on it like your grades and things like  that ,qy,MALE,7
+"['{f uh, } yeah,  /']",f uh  yeah  ,ny,FEMALE,9
+"['because i was paying for it myself, i kind of slacked off,  /']",because i was paying for it myself i kind of slacked off  ,sd,FEMALE,1
+['{c because } i felt it was mine and i could do with it what i wanted. /'],c because  i felt it was mine and i could do with it what i wanted ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['i think if my parents would have paid for it they would have been on me, {d you know, } /']",i think if my parents would have paid for it they would have been on me d you know  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } they pretty much got to the point,  /']",f uh  they pretty much got to the point  ,sd,FEMALE,1
+"['{d well, } {d well, } {d you know, } you are at that age  /']",d well  d well  d you know  you are at that age  ,^q,FEMALE,19
+['{c and } you are going to have to decide what you want to do.  /'],c and  you are going to have to decide what you want to do  ,^q,FEMALE,19
+"['if you goof,']",if you goof,^q,FEMALE,19
+['right. /'],right ,b,MALE,2
+"[""up, it's your fault,  /""]",up its your fault  ,+,FEMALE,0
+"[""it's not ours, {d you know. } /""]",its not ours d you know  ,^q,FEMALE,19
+['right. /'],right ,b,MALE,2
+"['{c and then, } lets me go - /']",c and then  lets me go  ,%,FEMALE,5
+"['{c and, } {e i mean, } i did not do poorly.  /']",c and  e i mean  i did not do poorly  ,sd,FEMALE,1
+"['i finished with a two five,  /']",i finished with a two five  ,sd,FEMALE,1
+"[""that's not that wonderful either. /""]",thats not that wonderful either ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['{c but, } {f uh, } {d you know, } {e [ i, + i  ] mean } i worked,  /']",c but  f uh  d you know  e  i  i   mean  i worked  ,sd,FEMALE,1
+"['i did not, {d you know, }']",i did not d you know ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['goof around,  /']",goof around  ,+,FEMALE,0
+['i worked. /'],i worked ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['it was just harder,  {d you know, }  /']",it was just harder  d you know   ,sd,FEMALE,1
+"['((   ))  i do not know,  /']",     i do not know  ,h,FEMALE,15
+"['i was used to being,  {d you know, } on top  /']",i was used to being  d you know  on top  ,sd,FEMALE,1
+"['{c and } when i started there, it was like, you are mediocre,  /']",c and  when i started there it was like you are mediocre  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+"['{d well } {d see, } i think, {d you know, } - /']",d well  d see  i think d you know   ,%,MALE,5
+['i have known a lot of people that would go to school and their parents paid for it  /'],i have known a lot of people that would go to school and their parents paid for it  ,sd,MALE,1
+"['[ {c and, } + {c and }  ] i guess it depends on the way you are raised too,  /']", c and   c and    i guess it depends on the way you are raised too  ,sd,MALE,1
+"['{c but } [ if you, + if you  ] grow to expect that, {d you know, }']",c but   if you  if you   grow to expect that d you know ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['you kind of go there as sort of a vacation, {d you know, } /']",you kind of go there as sort of a vacation d you know  ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['i, - /']",i  ,%,MALE,5
+"[""that's the way a lot of my friends did it  /""]",thats the way a lot of my friends did it  ,sd,MALE,1
+"['{c and, } {d you know, }  [ they were not, + they did not  ] take it very serious.  /']",c and  d you know    they were not  they did not   take it very serious  ,sd,MALE,1
+"['i know i took it real serious,  /']",i know i took it real serious  ,sd,MALE,1
+"[""{c 'cause } i did not start to college until, {d you know, } <laughter> i was about eight or  ten years [ and, + ] {f uh, } {d you know, } out of what i should have been in school. /""]",c cause  i did not start to college until d you know  laughter i was about eight or  ten years  and   f uh  d you know  out of what i should have been in school ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ {c but, } + {f uh, } {d you know, } {c so }  ] i think that helped me be real serious about it.  /']", c but   f uh  d you know  c so    i think that helped me be real serious about it  ,sd,MALE,1
+"['{c and } [ i, + i  ] ended up graduating with {d like } a three point six. /']",c and   i  i   ended up graduating with d like  a three point six ,sd,MALE,1
+"['{f oh, } wow,  /']",f oh  wow  ,ba,FEMALE,6
+"[""that's really good. /""]",thats really good ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c so } i, {d you know, } - /']",c so  i d you know   ,%,MALE,5
+"['{c and } that was hard cause i had two kids,']",c and  that was hard cause i had two kids,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['and, {d you know, } a family and everything else,  /']",and d you know  a family and everything else  ,+,MALE,0
+['{c so } i had a lot of different hats to wear all at the same time.  /'],c so  i had a lot of different hats to wear all at the same time  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d see, } {d well } i screwed myself up also,  /']",d see  d well  i screwed myself up also  ,sd,FEMALE,1
+"['there was a point in time that i decided that i did not want to in school,  /']",there was a point in time that i decided that i did not want to in school  ,sd,FEMALE,1
+"['{c and } my parents never pushed me until my dad just said, what are you going to do  /']",c and  my parents never pushed me until my dad just said what are you going to do  ,sd,FEMALE,1
+"['{c and } i said, {d well } i am going to go because i have not whipping butter the rest of my life, {d you know. } /']",c and  i said d well  i am going to go because i have not whipping butter the rest of my life d you know  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['you are  right,  /']",you are  right  ,ba,MALE,6
+['exactly. /'],exactly ,aa,MALE,4
+"['{c so, } i went and i just took business, /']",c so  i went and i just took business ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d well, } being as i was paying for it myself, {d you know, } i just kept, - /']",d well  being as i was paying for it myself d you know  i just kept  ,sd,FEMALE,1
+['you do not get into your major until {d like } your second or third year. /'],you do not get into your major until d like  your second or third year ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['{c and } i am going into my third year  /'],c and  i am going into my third year  ,sd,FEMALE,1
+"['{c and } i decided, {d well } i do not want to do accounting anymore,  /']",c and  i decided d well  i do not want to do accounting anymore  ,sd,FEMALE,1
+['right -- -/'],right  ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } i thought, {f oh, } my god, i am paying for this myself,  /']", c and  i thought f oh  my god i am paying for this myself  ,sd,FEMALE,1
+"['i am not switching completely because,']",i am not switching completely because,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['i will put myself a year behind. /'],i will put myself a year behind ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['{c so } i switched to finance,  /']",c so  i switched to finance  ,sd,FEMALE,1
+['{c and } i liked it better <noise>  /'],c and  i liked it better noise  ,sd,FEMALE,1
+"['{c and } i pulled myself from a two oh to a two five, {d you know, }']",c and  i pulled myself from a two oh to a two five d you know ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['in [ my last year, + my  ] senior year. /']",in  my last year  my   senior year ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['{c but } i would have really liked to go on, {f uh, } secondary ed with math education,  /']",c but  i would have really liked to go on f uh  secondary ed with math education  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but } it was just the fact i was paying for it myself,  /']",c but  it was just the fact i was paying for it myself  ,sd,FEMALE,1
+"['i was not going,']",i was not going,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['to put myself behind another  year. /'],to put myself behind another  year ,+,FEMALE,0
+['right.  /'],right  ,b,MALE,2
+"['{d well } [ m-, + my  ] wife, was sort of in the same situation,  /']",d well   m  my   wife was sort of in the same situation  ,sd,MALE,1
+"['[ she was, + she  ] went to school to be a teacher just because she did not really know what else to go,']", she was  she   went to school to be a teacher just because she did not really know what else to go,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['for,  /']",for  ,+,MALE,0
+['{c and } she did not realize until she got to be a senior and was doing her student teaching that she did not like it. /'],c and  she did not realize until she got to be a senior and was doing her student teaching that she did not like it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } {d you know, } by then she had practically got her degree,  /']",c but  d you know  by then she had practically got her degree  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+['exactly. /'],exactly ,aa,FEMALE,4
+"['{c so, } {d you know, } -/']",c so  d you know  ,%,MALE,5
+"['[ i think + if, {f uh, } i would have went with the math, i think  ] i would have done a lot better, because i was more interested. /']", i think  if f uh  i would have went with the math i think   i would have done a lot better because i was more interested ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } [ that's what + [ i, + i  ] knew that's what  ] i wanted.  /""]",c and   thats what   i  i   knew thats what   i wanted  ,sd,FEMALE,1
+"['{c but, } {f uh, } i think a lot of kids that hold off a year or two, /']",c but  f uh  i think a lot of kids that hold off a year or two ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f oh, } my gosh,  /']",f oh  my gosh  ,ba,FEMALE,6
+['i would like to see the results on a study done.  /'],i would like to see the results on a study done  ,sd,FEMALE,1
+['i think they would do a lot better.  because they are more focused. /'],i think they would do a lot better  because they are more focused ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['they know exactly what they want to do. /'],they know exactly what they want to do ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ i think, + i think  ] you are right,  /']", i think  i think   you are right  ,sd,MALE,1
+"['when you pull yourself away and then you get out and you say, man i really need this. -/']",when you pull yourself away and then you get out and you say man i really need this ,sd,MALE,1

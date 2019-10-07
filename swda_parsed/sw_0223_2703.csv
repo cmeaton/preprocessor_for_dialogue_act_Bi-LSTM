@@ -1,0 +1,403 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay <static>. /'],okay static ,"fo_o_fw_""_by_bc",MALE,0
+['okay <static>. /'],okay static ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""{f um, } {d well, } i'm not, - /""]",f um  d well  im not  ,%,MALE,5
+"['{e i mean, } i read a lot,  /']",e i mean  i read a lot  ,sd,MALE,1
+"[""{c but } [ i don't, + i don't ] read a whole, - /""]",c but   i dont  i dont  read a whole  ,sd,MALE,1
+"['{e i mean, } <<stutters>> {f uh, } {f eh, } {f eh, } {f eh, } [ [ [ i, + i, ] + i, ] + i ] tend to read {d like } only out of a couple, {d you know, } groups. /']",e i mean  stutters f uh  f eh  f eh  f eh     i  i   i   i  tend to read d like  only out of a couple d you know  groups ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } {c and } [ i'm, a, + {f uh, } i'm a ] big baseball fan,  /""]",f uh  c and   im a  f uh  im a  big baseball fan  ,sd,MALE,1
+['{c so } i tend to read a lot of the baseball books  /'],c so  i tend to read a lot of the baseball books  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"[""i'm a big baseball fan too. /""]",im a big baseball fan too ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,MALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c and, }  {f uh, } i read a lot of science fiction. /']",c and   f uh  i read a lot of science fiction ,sd,MALE,1
+"['e-, - /']",e  ,%,FEMALE,5
+"['{d well, } i like, - /']",d well  i like  ,%,FEMALE,5
+"['i teach school,  /']",i teach school  ,sd,FEMALE,1
+"[""{c and so } during the school year, i just don't have time to read.  /""]",c and so  during the school year i just dont have time to read  ,sd,FEMALE,1
+"['{c and } [ i, + {d you know, } i ] would love [ to, + to ] be able to read more because [ i, + i ] enjoy it so much.  /']",c and   i  d you know  i  would love  to  to  be able to read more because  i  i  enjoy it so much  ,sd,FEMALE,1
+"[""{c but } with correcting papers [ and, + and ] [ i, + ] two  [ o-, + ] kids of my own, i just don't have time.  /""]",c but  with correcting papers  and  and   i   two   o   kids of my own i just dont have time  ,sd,FEMALE,1
+"['{c but } in the summer, i try to read a lot. /']",c but  in the summer i try to read a lot ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ {c and, } +  {c and, } ]  of course, being a woman, i like romance novels and stuff like  that a whole lot.  /']", c and    c and    of course being a woman i like romance novels and stuff like  that a whole lot  ,sd,FEMALE,1
+"['i just, - /']",i just  ,%,FEMALE,5
+"[""i really enjoy that because it's kind of [ a, + a ] getaway type thing. /""]",i really enjoy that because its kind of  a  a  getaway type thing ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so } [ i, + i ] read a lot of that.  /']",c so   i  i  read a lot of that  ,sd,FEMALE,1
+['{c but } i also love sports.  /'],c but  i also love sports  ,sd,FEMALE,1
+"[""{c and, }  {f uh, } {f uh, } [ i, + i ] don't have time to read in, - /""]",c and   f uh  f uh   i  i  dont have time to read in  ,sd,FEMALE,1
+['{c but } i do read sports illustrated --'],c but  i do read sports illustrated ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- [ i-, + ] during [ the, + the ] year because my son gets that.  /']",  i   during  the  the  year because my son gets that  ,+,FEMALE,0
+"[""{c and, }  {f uh, } {c but, }  {f uh, } i don't read a lot of nonfiction,  /""]",c and   f uh  c but   f uh  i dont read a lot of nonfiction  ,sd,FEMALE,1
+"[""{c and } i really should because there's so many self-improvement books out right now that [ would, + would ] [ be, + ] benefit me greatly,  /""]",c and  i really should because theres so many selfimprovement books out right now that  would  would   be   benefit me greatly  ,sd,FEMALE,1
+"[""{c but } i just don't. -/""]",c but  i just dont ,sd,FEMALE,1
+['uh-huh <<pause>>.  /'],uhhuh pause  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ i, + {f um, } i ] don't really, i [ pro-, + <laughter> probably ] should.  /""]", i  f um  i  dont really i  pro  laughter probably  should  ,sd,MALE,1
+"[""i don't really read the self-improvement books or things like that.  /""]",i dont really read the selfimprovement books or things like that  ,sd,MALE,1
+"[""[ i, + {f uh, } {f um, } i'll ] get {d like, }  {f uh, } books on history and stuff like that that look interesting.  /""]", i  f uh  f um  ill  get d like   f uh  books on history and stuff like that that look interesting  ,sd,MALE,1
+"[""{c and } [ i, + {f uh, } of course, i ] don't ever get around to reading them <laughter>. /""]",c and   i  f uh  of course i  dont ever get around to reading them laughter ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, } i got, {f uh, } {f um, } - /']",d you know  i got f uh  f um   ,%,MALE,5
+"['[ i b-, + i belong ] to quality paperback book club. /']", i b  i belong  to quality paperback book club ,sd,MALE,1
+"['{f oh, } do you? /']",f oh  do you ,bh,FEMALE,18
+"[""{c and } i'll [ get, + get ] stuff out of that.  /""]",c and  ill  get  get  stuff out of that  ,sd,MALE,1
+"['{d like } i got battle cry of freedom, {d you know, }']",d like  i got battle cry of freedom d you know ,sd,MALE,1
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+['# {d like } # a couple of years ago.  /'], d like   a couple of years ago  ,+,MALE,0
+"['{c and } i started reading, and got about sixty pages into it  /']",c and  i started reading and got about sixty pages into it  ,sd,MALE,1
+"[""{c and } it's like eight hundred pages <laughter>. /""]",c and  its like eight hundred pages laughter ,sd,MALE,1
+"['{f oh, } my word. /']",f oh  my word ,ba,FEMALE,6
+"['{c and } it was like, {f uh, } i want to read something else for a while <laughter>. /']",c and  it was like f uh  i want to read something else for a while laughter ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""it's, i-, - /""]",its i  ,%,FEMALE,5
+"['some of those books are real tough to get into,  /']",some of those books are real tough to get into  ,sd,FEMALE,1
+"[""{c but } after you get into them, they're really good. /""]",c but  after you get into them theyre really good ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""{c but } it's just tough to get through that first two hundred pages or so. /""]",c but  its just tough to get through that first two hundred pages or so ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['{d well, } especially, {d you know, } {d well, } - /']",d well  especially d you know  d well   ,%,MALE,5
+"['battle cry of freedom starts off, {d you know, } in the eighteen forties, {d you know. }']",battle cry of freedom starts off d you know  in the eighteen forties d you know ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } it's {d like, } - /""]",c and  its d like   ,+,MALE,0
+"[""wait, the war wasn't until the eightee-, {d you know. }  /""]",wait the war wasnt until the eightee d you know   ,sd,MALE,1
+"[""it's {d like, }  okay,  /""]",its d like   okay  ,sv,MALE,3
+"['{c and } i realize these things, {d you know. }  /']",c and  i realize these things d you know   ,sd,MALE,1
+"['these things take awhile {d like } to move up,  /']",these things take awhile d like  to move up  ,sd,MALE,1
+"[""{c but } [ it's, + {d you know, } it's ] hard sometimes. /""]",c but   its  d you know  its  hard sometimes ,sv,MALE,3
+"[""it's right,  /""]",its right  ,ba,FEMALE,6
+"[""that's right.  /""]",thats right  ,ba,FEMALE,6
+"['i find though,  that [ if, + ] when i find an author, - /']",i find though  that  if   when i find an author  ,sd,FEMALE,1
+"[""{f uh, } {c and } you don't read a lot of fiction, you said.  /""]",f uh  c and  you dont read a lot of fiction you said  ,sd,FEMALE,1
+"['# {c but } when i find, # -/']", c but  when i find  ,sd,FEMALE,1
+['# i read a lot of science fiction. # /'], i read a lot of science fiction  ,sd,MALE,1
+['do you? /'],do you ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+"['when i find an author i really like, i try to read everything they write.']",when i find an author i really like i try to read everything they write,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"['that, {c and  } - /']",that c and    ,%,MALE,5
+"['[ i, + i ] do the same thing.  /']", i  i  do the same thing  ,sd,MALE,1
+"['i, -/']",i ,%,MALE,5
+"['because [ you, + you ] get used to their style  and you really enjoy it. /']",because  you  you  get used to their style  and you really enjoy it ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{f uh, } there's one science fiction writer named, {f uh, } allen dean foster. /""]",f uh  theres one science fiction writer named f uh  allen dean foster ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""i've heard of him. /""]",ive heard of him ,sd,FEMALE,1
+"['{f oh, } okay,  /']",f oh  okay  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"['he, {f um, } - /']",he f um   ,%,MALE,5
+['i must have {d like } fifty or sixty books by him <laughter>. /'],i must have d like  fifty or sixty books by him laughter ,sd,MALE,1
+['is that right? /'],is that right ,bh,FEMALE,18
+"[""{e i mean, } [ i have, + {d you know, } i have ] [ everything he's ever + {d well, } almost everything he's ever ] done. /""]",e i mean   i have  d you know  i have   everything hes ever  d well  almost everything hes ever  done ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, }  {f um, } {d you know, } [ i, + i ] know that [ when i, + {d you know, } when i ] get his book [ i'm, + i'm ] usually going to enjoy it. /""]",c and   f um  d you know   i  i  know that  when i  d you know  when i  get his book  im  im  usually going to enjoy it ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f um, } {c so } it's really, {d you know, } - /""]",f um  c so  its really d you know   ,%,MALE,5
+"[""[ it's, + it's ] fun  [ to, +  to ] do that.  {f uh, } /""]", its  its  fun   to   to  do that  f uh  ,sv,MALE,3
+"[""isn't it amazing that somebody can write that many books <laughter>  about science fiction?  /""]",isnt it amazing that somebody can write that many books laughter  about science fiction  ,qh,FEMALE,26
+"[""i think that's unbelievable. /""]",i think thats unbelievable ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"['{d well, } he does a lot of {d like, }  {f um, } {f uh, } movie adaptations and things like that. /']",d well  he does a lot of d like   f um  f uh  movie adaptations and things like that ,sd,MALE,1
+"['{f oh, } does he really? /']",f oh  does he really ,bh,FEMALE,18
+['yeah.  /'],yeah  ,ny,MALE,9
+"['{c and, }  {f uh, } his adaptations are usually really good. /']",c and   f uh  his adaptations are usually really good ,sv,MALE,3
+['oh <<faintly>>. /'],oh faintly ,b,FEMALE,2
+"[""{f um, } [ it's, + it's ] funny he, {f um, } - /""]",f um   its  its  funny he f um   ,sv,MALE,3
+"['[ the, + the ] novelization of star wars  was list-, - /']", the  the  novelization of star wars  was list  ,sd,MALE,1
+"['{d you know, } [ it, + it ] was out [ in the, + {f uh, } in the ] stores as being by george lucas.  /']",d you know   it  it  was out  in the  f uh  in the  stores as being by george lucas  ,sd,MALE,1
+"['{c but } it turns out that, {f uh, } foster actually, {f uh, } ghost wrote it for him. /']",c but  it turns out that f uh  foster actually f uh  ghost wrote it for him ,sd,MALE,1
+['is that right? /'],is that right ,bh,FEMALE,18
+"['[ wh-, + which, ] {d you know, } - /']", wh  which  d you know   ,%,MALE,5
+"[""when i read it, i should have realized that because, {e i mean, } it had foster's style written all over it <laughter>. /""]",when i read it i should have realized that because e i mean  it had fosters style written all over it laughter ,sd,MALE,1
+['is that right? /'],is that right ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{d well, } [ i, + i've ] never read anything of his,  /""]",d well   i  ive  never read anything of his  ,sd,FEMALE,1
+"[""{c but } i've heard about him.  /""]",c but  ive heard about him  ,sd,FEMALE,1
+"[""{c but } wouldn't you think he would, - /""]",c but  wouldnt you think he would  ,sd,FEMALE,1
+"['does he get some royalties from that, # hopefully? # /']",does he get some royalties from that  hopefully  ,qy,FEMALE,7
+"[""# {f oh, } i'm sure he #  does <laughter>. /""]", f oh  im sure he   does laughter ,na,MALE,21
+"['{d well, } i would think he would <laughter>. /']",d well  i would think he would laughter ,sv,FEMALE,3
+"[""i'd hope so.  /""]",id hope so  ,sd,MALE,1
+"[""{d well, } i mean he's doing all right, probably <laughter>. /""]",d well  i mean hes doing all right probably laughter ,sd,MALE,1
+"[""{f oh, } i'm sure he is,  /""]",f oh  im sure he is  ,aa,FEMALE,4
+"[""i'm sure he is.  /""]",im sure he is  ,aa,FEMALE,4
+"['{c but } sometimes the more you get the more you want too,  /']",c but  sometimes the more you get the more you want too  ,sv,FEMALE,3
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+"[""that's true. /""]",thats true ,ba,MALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d well, } yeah.  /']",d well  yeah  ,b,MALE,2
+"[""[ you, + you're ] a baseball fan,  /""]", you  youre  a baseball fan  ,sd,MALE,1
+"[""[ you're, + you're ] aware of that kind of thing <laughter>. /""]", youre  youre  aware of that kind of thing laughter ,sv,MALE,3
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,FEMALE,4
+"['{f oh, } right,  /']",f oh  right  ,b,FEMALE,2
+"['right,  /']",right  ,b,FEMALE,2
+['<laughter>  right.  /'],laughter  right  ,b,FEMALE,2
+"[""[ i, + in fact, i'm ] a sports fan, period. /""]", i  in fact im  a sports fan period ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['we, - /']",we  ,%,FEMALE,5
+"[""{e i mean, } [ th-, + that's ] why i like to read sports illustrated so much  /""]",e i mean   th  thats  why i like to read sports illustrated so much  ,sd,FEMALE,1
+"[""{c because } there's everything in it. /""]",c because  theres everything in it ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"['i [ had a, + {f uh, } had a ] subscription to that last year,  /']",i  had a  f uh  had a  subscription to that last year  ,sd,MALE,1
+"[""{c but } [ i'm, + {f uh, } i'm ] mostly a baseball fan.  /""]",c but   im  f uh  im  mostly a baseball fan  ,sd,MALE,1
+"[""{c so } [ i'm, +""]",c so   im ,sd,MALE,1
+['# oh.  # /'], oh   ,b,FEMALE,2
+"[""# i'm # ] not, as inter-, {d you know, } - /""]", im   not as inter d you know   ,+,MALE,0
+['the other stuff is interesting  /'],the other stuff is interesting  ,sd,MALE,1
+"['{c but, }  {f um, } i was mostly interested in the baseball stuff. /']",c but   f um  i was mostly interested in the baseball stuff ,sd,MALE,1
+"[""{d so } you're probably, {f uh, } a baltimore fan, right, an oriole fan? /""]",d so  youre probably f uh  a baltimore fan right an oriole fan ,qy,FEMALE,7
+"[""{f uh, } {d actually } i'm a red sox fan more than anything. /""]",f uh  d actually  im a red sox fan more than anything ,no,MALE,31
+['is that right? /'],is that right ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['boston?  /'],boston  ,bh,FEMALE,18
+"[""{f oh, } {d well, } that's good too. /""]",f oh  d well  thats good too ,sv,FEMALE,3
+"['{f um, } {c but, }  {f uh, } [ [ i, + i, ] + i ] do like the orioles also. /']",f um  c but   f uh    i  i   i  do like the orioles also ,sd,MALE,1
+"[""[ i'm, + i'm ] sure you do.  /""]", im  im  sure you do  ,sv,FEMALE,3
+"[""{d well } i'm a ranger fan simply because i live here. /""]",d well  im a ranger fan simply because i live here ,sd,FEMALE,1
+['yeah <<faint>>. /'],yeah faint ,b,MALE,2
+"['{c but } [ i, + i ] was, {f uh, } - /']",c but   i  i  was f uh   ,%,FEMALE,5
+"[""i'm not from here.  /""]",im not from here  ,sd,FEMALE,1
+"[""i'm originally from ohio,  /""]",im originally from ohio  ,sd,FEMALE,1
+"[""{c so } i've always followed the tigers.  because, {d you know, } [ i was, +""]",c so  ive always followed the tigers  because d you know   i was ,sd,FEMALE,1
+['# toledo. # /'], toledo  ,sv,MALE,3
+['# i was # ]  born and raised in toledo.  /'], i was    born and raised in toledo  ,+,FEMALE,0
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['# i was #  in toledo last summer.  /'], i was   in toledo last summer  ,sd,MALE,1
+"['went [ to a, + {f uh, } to a ] mud hens double header <laughter>. /']",went  to a  f uh  to a  mud hens double header laughter ,sd,MALE,1
+"['{f oh, } i love the mud hens <laughter>.  /']",f oh  i love the mud hens laughter  ,sd,FEMALE,1
+"[""they're great.  /""]",theyre great  ,sv,FEMALE,3
+['i love the name #  /'],i love the name   ,sd,FEMALE,1
+"['{c and, }  there #']",c and   there ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"['was a [ b-, + really big ] article on the mud hens in sports illustrated last year. /']",was a  b  really big  article on the mud hens in sports illustrated last year ,+,FEMALE,0
+['y-. - /'],y  ,%,MALE,5
+"['i saved that issue, {d actually. } /']",i saved that issue d actually  ,sd,MALE,1
+['did you? /'],did you ,bh,FEMALE,18
+"[""{f um, } that's when i had the subscription. /""]",f um  thats when i had the subscription ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['it was a lot of fun. /'],it was a lot of fun ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['i li-, - /']",i li  ,%,FEMALE,5
+['i really enjoy that team.  /'],i really enjoy that team  ,sd,FEMALE,1
+"['[ i, + we ] used to go there all the time.  /']", i  we  used to go there all the time  ,sd,FEMALE,1
+"['i used to live in iowa too,  /']",i used to live in iowa too  ,sd,FEMALE,1
+['{c and } they have the iowa oaks.  /'],c and  they have the iowa oaks  ,sd,FEMALE,1
+"['{c and } we used to [ go, + <laughter>  go ] to their games all the time.  /']",c and  we used to  go  laughter  go  to their games all the time  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"[""they don't exist anymore,  /""]",they dont exist anymore  ,sd,MALE,1
+"[""i don't,""]",i dont,h,MALE,15
+"['# [ i know, + #']",  i know  ,sd,FEMALE,1
+['# think. # /'], think  ,+,MALE,0
+"[""# i know ] they don't. # /""]", i know  they dont  ,+,FEMALE,0
+['# at least not by that name. #  /'], at least not by that name   ,sd,MALE,1
+"[""there's the iowa cubs,  /""]",theres the iowa cubs  ,sd,MALE,1
+"[""{c but } i don't know if they play,""]",c but  i dont know if they play,sd,MALE,1
+"['# {f oh, } [ they must, # +']", f oh   they must  ,sd,FEMALE,1
+['# in the same # location. /'], in the same  location ,+,MALE,0
+"['they must ] have changed then.  because it used, {d well } - /']",they must  have changed then  because it used d well   ,+,FEMALE,0
+"[""i haven't lived there for l-, - /""]",i havent lived there for l  ,sd,FEMALE,1
+"[""i've been here for like twelve years now,  /""]",ive been here for like twelve years now  ,sd,FEMALE,1
+"[""[ {c so. }  +  {c and }  ] i haven't been back to des moines in a long time.  /""]", c so     c and    i havent been back to des moines in a long time  ,sd,FEMALE,1
+['{c but } --'],c but  ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,MALE,2
+"['-- we used to always go to their games,  /']", we used to always go to their games  ,+,FEMALE,0
+['{c and } it was kind of fun.  /'],c and  it was kind of fun  ,sd,FEMALE,1
+"[""it's almost, {f uh, } more fun than going to a major league game.  /""]",its almost f uh  more fun than going to a major league game  ,sd,FEMALE,1
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+"['i just really enjoy # the, #']",i just really enjoy  the ,sd,FEMALE,1
+"['# i, - /']", i  ,%,MALE,5
+"['# # minor league, #']",  minor league ,sd,MALE,1
+['# farm teams. # /'], farm teams  ,+,FEMALE,0
+"['baseball, i think <laughter>  is a lot more fun than,']",baseball i think laughter  is a lot more fun than,+,MALE,0
+"['# yes, # /']", yes  ,aa,FEMALE,4
+['# major # league baseball. /'], major  league baseball ,+,MALE,0
+['it is.  /'],it is  ,aa,FEMALE,4
+"[""it's not quite so serious, {d you know. } /""]",its not quite so serious d you know  ,sd,FEMALE,1
+"[""{c and } it's a lot cheaper <laughter>. /""]",c and  its a lot cheaper laughter ,sd,MALE,1
+"[""that's for sure,  /""]",thats for sure  ,ba,FEMALE,6
+"[""that's,""]",thats,ba,FEMALE,6
+['yeah.  /'],yeah  ,b,MALE,2
+"[""[ there's, + {f um, }""]", theres  f um ,sd,MALE,1
+['for sure. /'],for sure ,+,FEMALE,0
+"[""there's ] a city just west [ of freder-, + of, {f uh } baltimore,  ] called frederick.  /""]",theres  a city just west  of freder  of f uh  baltimore   called frederick  ,+,MALE,0
+"[""it's about --""]",its about ,sd,MALE,1
+['is that right? /'],is that right ,bh,FEMALE,18
+['-- forty miles west.  /'], forty miles west  ,+,MALE,0
+['{c and } they have a minor league team.  /'],c and  they have a minor league team  ,sd,MALE,1
+['{c and } i go out there almost as much as the orioles  /'],c and  i go out there almost as much as the orioles  ,sd,MALE,1
+"['{c and, }  {f um, } -/']",c and   f um  ,%,MALE,5
+['# is that right? # /'], is that right  ,bh,FEMALE,18
+"['#  i, - /']",  i  ,%,MALE,5
+"[""it's just # a lot of fun.  /""]",its just  a lot of fun  ,sd,MALE,1
+"[""{e i mean, } it's free parking  /""]",e i mean  its free parking  ,sd,MALE,1
+"['{c and } [ three + [ bu-, + bu-, ] {d you know, } four ] bucks now to get in.  /']",c and   three   bu  bu  d you know  four  bucks now to get in  ,sd,MALE,1
+"['{c and, } {d you know, } the hot dogs are a dollar  /']",c and  d you know  the hot dogs are a dollar  ,sd,MALE,1
+"[""[ {c and, } +  {c and } ] it's # just great. # /""]", c and    c and   its  just great  ,sd,MALE,1
+"['# {d well, } [ how, + # {d like } how ] much is an oriole game? /']", d well   how   d like  how  much is an oriole game ,qw,FEMALE,12
+['oriole game?  /'],oriole game  ,^h,MALE,27
+"[""if you park in the lot across the street from the stadium, it's four bucks.  /""]",if you park in the lot across the street from the stadium its four bucks  ,sd,MALE,1
+"['[ the ticket, + [ the ch-, + the cheapest ] ticket ] you can normally get is like six fifty to seven fifty. /']", the ticket   the ch  the cheapest  ticket  you can normally get is like six fifty to seven fifty ,sd,MALE,1
+"['{f oh, } gosh.  /']",f oh  gosh  ,ba,FEMALE,6
+"[""{d see, } it's higher than the rangers. /""]",d see  its higher than the rangers ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"['{c and, }  {f um, } hot dogs {d like } start at a dollar fifty <laughter>. /']",c and   f um  hot dogs d like  start at a dollar fifty laughter ,sd,MALE,1
+"['{f oh, } yeah.  /']",f oh  yeah  ,b,FEMALE,2
+"['a-, - /']",a  ,%,FEMALE,5
+['the food here is outrageous.  /'],the food here is outrageous  ,sd,FEMALE,1
+"['{c but, }  {f uh, } you can get a good seat for, {f uh, } {d well } - /']",c but   f uh  you can get a good seat for f uh  d well   ,sd,FEMALE,1
+['it used to be three dollars.  /'],it used to be three dollars  ,sd,FEMALE,1
+"[""{c but } i think it's gone up to [ fo-, + four ] dollars this year. /""]",c but  i think its gone up to  fo  four  dollars this year ,sd,FEMALE,1
+"[""{f oh, } that's nice. /""]",f oh  thats nice ,ba,MALE,6
+"[""{c but, } {d you know, } it's in the bleachers, way out [ in the, +  {d you know, } in ] center field,  /""]",c but  d you know  its in the bleachers way out  in the   d you know  in  center field  ,sd,FEMALE,1
+"[""{c but } it's still nice. /""]",c but  its still nice ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['you still can see well.  /'],you still can see well  ,sd,FEMALE,1
+"['{c and, }  {f uh, } we usually sit there unless somebody gives <laughter> us tickets, {d you know, } box seats --']",c and   f uh  we usually sit there unless somebody gives laughter us tickets d you know  box seats ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c or } something, then we usually sit out there. /']", c or  something then we usually sit out there ,+,FEMALE,0
+['{d well } how much are the box seats there?  /'],d well  how much are the box seats there  ,qw,MALE,12
+['do you know # offhand? # /'],do you know  offhand  ,qy,MALE,7
+"['# box seats #  run from, {f oh, } like eight dollars to twelve dollars. /']", box seats   run from f oh  like eight dollars to twelve dollars ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""[ that's, + {f um, } that's ] a little steeper.  /""]", thats  f um  thats  a little steeper  ,sd,MALE,1
+"['i think the, {f uh, } most expensive seats in memorial are eleven bucks.  /']",i think the f uh  most expensive seats in memorial are eleven bucks  ,sd,MALE,1
+"[""{c but } we're getting a new stadium next year - /""]",c but  were getting a new stadium next year  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+"[""{f oh, } {c so } it'll go up. /""]",f oh  c so  itll go up ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""it'll go up.  /""]",itll go up  ,sd,MALE,1
+"['{c and, }  if it opens <laughter>.  /']",c and   if it opens laughter  ,sd,MALE,1
+"[""it's, {f uh, } something we're really irritated about around here.  /""]",its f uh  something were really irritated about around here  ,sd,MALE,1
+['{c or } some people are really irritated about.  /'],c or  some people are really irritated about  ,sd,MALE,1
+"[""[ [ they're, + they're ] building this new sta-, + they built the new stadium ] downtown.  /""]",  theyre  theyre  building this new sta  they built the new stadium  downtown  ,sd,MALE,1
+"[""{c and } they're saying how there's going to be a lot more parking for the stadium. /""]",c and  theyre saying how theres going to be a lot more parking for the stadium ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } i park for free up [ at, + at ] memorial stadium because i know where i can do it for free <laughter>. /']",c but  i park for free up  at  at  memorial stadium because i know where i can do it for free laughter ,sd,MALE,1
+"['{f oh, } {f oh. } /']",f oh  f oh  ,b,FEMALE,2
+"[""{c and, }  {f um, } i'm not going to be able to do that downtown <laughter>. /""]",c and   f um  im not going to be able to do that downtown laughter ,sd,MALE,1
+"[""{f uh, } [ that's, + {d yeah, }  that's  ] a bummer. /""]",f uh   thats  d yeah   thats   a bummer ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"['we, -/']",we ,%,MALE,5
+"['{d well, } {d see, } baseball here though is the cheapest game in town.  because the cowboys, - /']",d well  d see  baseball here though is the cheapest game in town  because the cowboys  ,sd,FEMALE,1
+"[""[ it's out-, + it's outrageous -- ]""]", its out  its outrageous  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- to go to the cowboy game.  /'], to go to the cowboy game  ,+,FEMALE,0
+"['{c and } the mavericks are t-, - /']",c and  the mavericks are t  ,sv,FEMALE,3
+"[""it's high too. /""]",its high too ,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,MALE,2
+"[""# {c so } # baseball's cheap,""]", c so   baseballs cheap,sd,FEMALE,1
+"[""# weren't you guys, #""]", werent you guys ,qy,MALE,7
+['# compared to other # games. /'], compared to other  games ,+,FEMALE,0
+['supposed to get a stadium in downtown dallas? /'],supposed to get a stadium in downtown dallas ,+,MALE,0
+"[""{d well, } that didn't go [ s-, + ] over,""]",d well  that didnt go  s   over,sd,FEMALE,1
+"[""{f oh, } [ it d-, + it didn't, ]""]",f oh   it d  it didnt ,bf,MALE,20
+['# now.  /'], now  ,+,FEMALE,0
+"['[ [ [ they, + they, # ] +']",   they  they   ,sd,FEMALE,1
+['# go through. # /'], go through  ,+,MALE,0
+"[""they  decided, ] + {d you know, } george bush, [ who, + who's ] the main owner of the rangers, decided ] that, {f uh, } they'd stay in arlington.  /""]",they  decided   d you know  george bush  who  whos  the main owner of the rangers decided  that f uh  theyd stay in arlington  ,+,FEMALE,0
+"[""{c so } arlington's going to build a stadium, a bigger one. /""]",c so  arlingtons going to build a stadium a bigger one ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"[""{c so } [ we're going to, + they're going to ] stay there.  which is fine, because arlington's got a lot of things to offer.  /""]",c so   were going to  theyre going to  stay there  which is fine because arlingtons got a lot of things to offer  ,sd,FEMALE,1
+"['[ {c and, } +  {c and } ] that was their [ main, + main ] money making, {d you know, }']", c and    c and   that was their  main  main  money making d you know ,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,MALE,2
+['# deal # for the city.  /'], deal  for the city  ,+,FEMALE,0
+['{c and } it would have devastated them if they would have taken it away. /'],c and  it would have devastated them if they would have taken it away ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['because  everything, - /']",because  everything  ,%,FEMALE,5
+"[""there's six flags right by the stadium, there's a wet 'n wild  /""]",theres six flags right by the stadium theres a wet n wild  ,sd,FEMALE,1
+"['[ {c and, } +']", c and  ,%,FEMALE,5
+['# uh-huh.  # /'], uhhuh   ,b,MALE,2
+"[""# {c and } ] # it, {d you know, } that's, - /""]", c and    it d you know  thats  ,+,FEMALE,0
+['all the tourists come there. /'],all the tourists come there ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ {c and, } +  {c and } ] they, - /']", c and    c and   they  ,%,FEMALE,5
+"['it would have been devastated,  /']",it would have been devastated  ,sd,FEMALE,1
+['they would have collapsed.  /'],they would have collapsed  ,sd,FEMALE,1
+"[""{c so } i'm kind of glad they're staying there.  because it's right in the middle of fort worth-dallas,  /""]",c so  im kind of glad theyre staying there  because its right in the middle of fort worthdallas  ,sd,FEMALE,1
+"['{c and, } {d you know, } -/']",c and  d you know  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+"[""[ that's, + that's ] what i'd always heard,  /""]", thats  thats  what id always heard  ,sd,MALE,1
+"[""i've, {f uh, } -/""]",ive f uh  ,%,MALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['[ [ we, + {d you know, } we, ] + i ] like it there.  /']",  we  d you know  we   i  like it there  ,sd,FEMALE,1
+"[""{c and } i think dallas has enough to offer that they don't have to hog everything <laughter>.  /""]",c and  i think dallas has enough to offer that they dont have to hog everything laughter  ,sv,FEMALE,3
+"[""{c so, }  i'm glad that they're staying in arlington. /""]",c so   im glad that theyre staying in arlington ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } it's takes us maybe, {f uh, } [ {d we-, } + {d well, } ] thirty-five to forty minutes to get there from plano, which is not too bad at all. /""]",c and  its takes us maybe f uh   d we   d well   thirtyfive to forty minutes to get there from plano which is not too bad at all ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""that's about what it takes me to get to memorial. /""]",thats about what it takes me to get to memorial ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f um, }']",f um ,sd,MALE,1
+"['# {d so, }  # -/']", d so    ,%,FEMALE,5
+"[""[ # it's # actu-, + it actually ] funny that, {f um, } i live just outside of baltimore.  /""]",  its  actu  it actually  funny that f um  i live just outside of baltimore  ,+,MALE,0
+"['{c and } it takes me almost the same amount of time to go to frederick, [ but + ] as it does to go to [ the, + the ] ballpark [ in me-, + in, {f uh, } baltimore. ]']",c and  it takes me almost the same amount of time to go to frederick  but   as it does to go to  the  the  ballpark  in me  in f uh  baltimore ,sd,MALE,1
+['is that right? /'],is that right ,bh,FEMALE,18
+"['because, {f um, } to go out to frederick, i just jump on the interstate  /']",because f um  to go out to frederick i just jump on the interstate  ,+,MALE,0
+"['{c and, } - /']",c and   ,%,MALE,5
+['{c because } i live just south of the interstate. /'],c because  i live just south of the interstate ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ h-, + hop ] on the interstate,  /']", h  hop  on the interstate  ,sd,MALE,1
+"[""{c and } the stadium's right off the interstate <laughter>. /""]",c and  the stadiums right off the interstate laughter ,sd,MALE,1
+"['{f oh, } gosh. /']",f oh  gosh ,ba,FEMALE,6
+"[""{c so, }  it's like i drive west  /""]",c so   its like i drive west  ,sd,MALE,1
+"[""{c and } i'm there.  /""]",c and  im there  ,sd,MALE,1
+"[""{c and, } {d you know, } {c and then } to go into baltimore, {e i mean, } [ it + {d well, } it's ] fewer miles,  /""]",c and  d you know  c and then  to go into baltimore e i mean   it  d well  its  fewer miles  ,sd,MALE,1
+"[""{c but } i've got to go, stop and  go traffic and everything. /""]",c but  ive got to go stop and  go traffic and everything ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['do you read, {f um, } - /']",do you read f um   ,qy,MALE,7
+['i guess you read sports illustrated  /'],i guess you read sports illustrated  ,sv,MALE,3
+"[""{c but } you don't read many sports books  /""]",c but  you dont read many sports books  ,sv,MALE,3
+"['{c or, } -/']",c or  ,%,MALE,5
+"['{d well, } not really.  /']",d well  not really  ,ng,FEMALE,29
+"['{d now } my son does,  /']",d now  my son does  ,sd,FEMALE,1
+"['[ i have, + i have ] a son that just turned sixteen, /']", i have  i have  a son that just turned sixteen ,sd,FEMALE,1
+['# uh-huh.  # /'], uhhuh   ,b,MALE,2
+"['# {c and } # he reads everything [  he gets, + he [ gets  his, + get his  ] ] hands on.  /']", c and   he reads everything   he gets  he  gets  his  get his    hands on  ,sd,FEMALE,1
+"[""he's reading a dick vitelle book right now because he's a real big dick vitelle fan. /""]",hes reading a dick vitelle book right now because hes a real big dick vitelle fan ,sd,FEMALE,1
+"[""he's a basketball fan because [ he, + he ] plays for the high school he goes to  /""]",hes a basketball fan because  he  he  plays for the high school he goes to  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+"['-- {f uh, } just loves [ d-, + dick ] vitelle, <laughter> which not many people do.  /']", f uh  just loves  d  dick  vitelle laughter which not many people do  ,+,FEMALE,0
+"[""[ {c so, } + {c but } ] he's reading it,  /""]", c so   c but   hes reading it  ,sd,FEMALE,1
+"[""<sigh> {c and }  he's r-, - /""]",sigh c and   hes r  ,%,FEMALE,5
+"[""{c and } he says, he's so interesting, mom.  /""]",c and  he says hes so interesting mom  ,sd,FEMALE,1
+"[""you just can't believe all the things he's done. /""]",you just cant believe all the things hes done ,^q,FEMALE,19
+['<sniffing>.'],sniffing,x,MALE,8
+"[""{c and } he's really enjoying that.  /""]",c and  hes really enjoying that  ,sd,FEMALE,1
+"['{c and } i, - /']",c and  i  ,%,FEMALE,5
+"['{c and } he said, mom, you need to read it after i get finished.  /']",c and  he said mom you need to read it after i get finished  ,sd,FEMALE,1
+['{c so } maybe i will. /'],c so  maybe i will ,sd,FEMALE,1
+"['[ there was, + {f uh, }  i understand there was ] a really good basketball [ b-, + book ] called, {f uh, } a season on the brink. /']", there was  f uh   i understand there was  a really good basketball  b  book  called f uh  a season on the brink ,sd,MALE,1
+['i never heard that one. /'],i never heard that one ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i'm not sure.  /""]",im not sure  ,h,MALE,15
+"[""i don't know.  /""]",i dont know  ,h,MALE,15
+"[""<<pause>> i'm trying to think of the guy's name.  /""]",pause im trying to think of the guys name  ,^h,MALE,27
+['it was like john feinstein or something like that --'],it was like john feinstein or something like that ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- wrote it.  /'], wrote it  ,+,MALE,0
+['i just heard about it the other night. /'],i just heard about it the other night ,sd,MALE,1
+['huh. /'],huh ,b,FEMALE,2
+"['{f uh, } i was listening to something on the radio --']",f uh  i was listening to something on the radio ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- about, {f uh, }']", about f uh ,+,MALE,0
+['# uh-huh.  # /'], uhhuh   ,b,FEMALE,2
+"['# {d you # know, } a talk show about sports books,  /']", d you  know  a talk show about sports books  ,+,MALE,0
+"['[ {c and } they, + {c and } they ] mentioned that one. /']", c and  they  c and  they  mentioned that one ,sd,MALE,1
+"[""i'll have to tell my son about that.  /""]",ill have to tell my son about that  ,sd,FEMALE,1
+"[""i'm sure he'd like it. /""]",im sure hed like it ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"['{c and, }  {f uh, } i was thinking about, - /']",c and   f uh  i was thinking about  ,sd,MALE,1
+"['[ there was a, + i saw a  ] book kicking around on the history of the a b a, which, -/']", there was a  i saw a   book kicking around on the history of the a b a which ,sd,MALE,1
+"['{f oh, } that would be good  /']",f oh  that would be good  ,ba,FEMALE,6
+['yeah.  /'],yeah  ,b,MALE,2
+"[""[ i get in to, + even when i don't like the sport so much, <<sound fading>> i get interested in ] the history of sports franchises </hiss or static>,  /""]", i get in to  even when i dont like the sport so much sound fading i get interested in  the history of sports franchises hiss or static  ,sd,MALE,1

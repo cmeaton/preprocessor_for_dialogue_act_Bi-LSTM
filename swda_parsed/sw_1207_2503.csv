@@ -1,0 +1,257 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['<tv> hi, wanet <<this is his last name>>.  /']",tv hi wanet this is his last name  ,fp,MALE,32
+['how are you? /'],how are you ,fp,MALE,32
+"[""i'm doing fine.  /""]",im doing fine  ,fp,MALE,32
+['where you from? /'],where you from ,qw,MALE,12
+"[""i'm from new england.  /""]",im from new england  ,sd,MALE,1
+['massachusetts. /'],massachusetts ,sd,MALE,1
+['okay.   /'],okay   ,bk,MALE,14
+"[""i'm from berkeley, california. /""]",im from berkeley california ,sd,MALE,1
+['wow!  /'],wow  ,ba,MALE,6
+"['this is [ quite a, +  quite a ] long distance. /']",this is  quite a   quite a  long distance ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+['it certainly is. /'],it certainly is ,aa,MALE,4
+['do you have any pets? /'],do you have any pets ,qy,MALE,7
+['no.  /'],no  ,nn,MALE,13
+['use too.  /'],use too  ,sd,MALE,1
+"['use to,  /']",use to  ,sd,MALE,1
+"['{c but } <throat_clearing> [ none, +  none ] right now. /']",c but  throatclearing  none   none  right now ,sd,MALE,1
+"[""how come, {f uh, } you don't have any now?  /""]",how come f uh  you dont have any now  ,qw,MALE,12
+['you get tired of them? /'],you get tired of them ,qy,MALE,7
+"['{d well, } [ i, +  i ] live in an apartment building  /']",d well   i   i  live in an apartment building  ,sd,MALE,1
+"[""[ [ [ {c and, } + {c and, } ] + {f uh, } {c and, } ] + {c and, } ] [ [ it, +  it, ] +  it's ] [ ju-, +  just ] not feasible --""]",   c and   c and    f uh  c and    c and     it   it    its   ju   just  not feasible ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+['-- # {d you know. } #  /'],  d you know    ,+,MALE,0
+"[""i'd love to have a dog, # {d you know. } # /""]",id love to have a dog  d you know   ,sd,MALE,1
+"[""# i've got # a little doggy, {f uh, } that i've had [ quite, +  {f uh, } quite ] a long time.  /""]", ive got  a little doggy f uh  that ive had  quite   f uh  quite  a long time  ,sd,MALE,1
+"[""in fact, she just turned sixteen years old new year's eve. /""]",in fact she just turned sixteen years old new years eve ,sd,MALE,1
+['{f ah. } /'],f ah  ,%,MALE,5
+"['{c and, } {f uh } <sniffing>, -/']",c and  f uh  sniffing ,%,MALE,5
+['is she? /'],is she ,%,MALE,5
+['i beg your pardon? /'],i beg your pardon ,br,MALE,30
+['what is she? /'],what is she ,qw,MALE,12
+"[""she's, {f uh, } {f uh, } {f uh, } a poodle.  /""]",shes f uh  f uh  f uh  a poodle  ,sd,MALE,1
+"['{f uh, } [ a toy poodle, + a toy poodle ] #  /']",f uh   a toy poodle  a toy poodle    ,sd,MALE,1
+"[""{c and } she's, # -/""]",c and  shes  ,%,MALE,5
+['# ah.  /'], ah  ,b,MALE,2
+"['ah,  /']",ah  ,b,MALE,2
+"['[ my, + i ] got # my mom a # teacup (( little mutt )) , #']", my  i  got  my mom a  teacup  little mutt   ,sd,MALE,1
+['# <laughter>. #'], laughter ,x,MALE,8
+['not too long ago. /'],not too long ago ,+,MALE,0
+['this is a little bigger than a teacup. /'],this is a little bigger than a teacup ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and, } {f uh, } it's funny [ how, + {f uh, } how ] [ i, + i, ] {f uh, } [ a-, + acquired ] this animal.  /""]",c and  f uh  its funny  how  f uh  how   i  i  f uh   a  acquired  this animal  ,sd,MALE,1
+"['{f uh, } when i was, {f uh, } married, my, {f uh, } ex-wife had said that she had a friend who had a little puppy.  that she needed, - /']",f uh  when i was f uh  married my f uh  exwife had said that she had a friend who had a little puppy  that she needed  ,sd,MALE,1
+"['{f uh, } the woman needed someone to baby-sit  /']",f uh  the woman needed someone to babysit  ,sd,MALE,1
+"['{c and, } {f uh, } this is what she had told the kids  /']",c and  f uh  this is what she had told the kids  ,sd,MALE,1
+['{c and } she even told me that.  /'],c and  she even told me that  ,sd,MALE,1
+"['{c and } after the two week period was up, {f uh, } she then informed me that the woman no longer wanted the little puppy and wanted to know if we wanted to keep it.  /']",c and  after the two week period was up f uh  she then informed me that the woman no longer wanted the little puppy and wanted to know if we wanted to keep it  ,sd,MALE,1
+"[""{d well, } after you had an animal for a <laughter> couple of weeks, [ it's, + ] {f uh, } <laughter> # [ you become # -- +""]",d well  after you had an animal for a laughter couple of weeks  its   f uh  laughter   you become   ,sv,MALE,3
+"['# {f oh, } for sure. # /']", f oh  for sure  ,aa,MALE,4
+['-- you become ] attached to it. /'], you become  attached to it ,+,MALE,0
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"[""{c so, } i've had this dog now [ for, + for ] sixteen years  /""]",c so  ive had this dog now  for  for  sixteen years  ,sd,MALE,1
+"[""{c and } she's been a lot of company <swallowing>.  /""]",c and  shes been a lot of company swallowing  ,sd,MALE,1
+"[""{f uh, } she's, {f uh, } however, getting a little old  /""]",f uh  shes f uh  however getting a little old  ,sd,MALE,1
+['{c and } things are starting to fail.  /'],c and  things are starting to fail  ,sd,MALE,1
+"['{f uh, } [ i, + i ] live alone now  /']",f uh   i  i  live alone now  ,sd,MALE,1
+['{c and } she stays in the house all day while i go to work  /'],c and  she stays in the house all day while i go to work  ,sd,MALE,1
+"[""{c and, } {f uh, } she's been holding herself pretty well.  [ the, + ] {f uh, } up until, {d you know, } recently where she's been having accidents in the house because she either is losing control or she forgets where she is  /""]",c and  f uh  shes been holding herself pretty well   the   f uh  up until d you know  recently where shes been having accidents in the house because she either is losing control or she forgets where she is  ,sd,MALE,1
+"['{c and, } {f uh, } i find a little present on the floor <laughter> sometimes when i come home. #  /']",c and  f uh  i find a little present on the floor laughter sometimes when i come home   ,sd,MALE,1
+"[""{c but } [ she's, +  she's ] usually pretty good. # /""]",c but   shes   shes  usually pretty good  ,sd,MALE,1
+"['# <laughter> <static> # yes,  /']", laughter static  yes  ,b,MALE,2
+"[""{d well. } [ my, + my ] mother has one that's, {f uh, } - /""]",d well   my  my  mother has one thats f uh   ,sd,MALE,1
+"[""[ it's, + {f uh, } it's, ] {f uh, } teacup  /""]", its  f uh  its  f uh  teacup  ,sd,MALE,1
+"[""{c and, } {f uh, } it's <whistling> made such a difference for her.  /""]",c and  f uh  its whistling made such a difference for her  ,sd,MALE,1
+"['{c but, } {d you know, } just, i, [ e-, +  e-, ] {d you know, } - /']",c but  d you know  just i  e   e  d you know   ,%,MALE,5
+"[""the way my mom's presence countenance is, [ just, +  just ] for having a puppy  /""]",the way my moms presence countenance is  just   just  for having a puppy  ,sd,MALE,1
+"['{c but, } {d you know, } having this dog - /']",c but  d you know  having this dog  ,%,MALE,5
+"[""she's had it for, i guess three years now.""]",shes had it for i guess three years now,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f oh, } possibly four.  /']",f oh  possibly four  ,+,MALE,0
+"[""{c but, } {f uh, } [ [ [ it was, + it, ] + it's ] + it's ] really made such a difference for her.  /""]",c but  f uh     it was  it   its   its  really made such a difference for her  ,sd,MALE,1
+"['i really would like to, {f uh, } - /']",i really would like to f uh   ,sd,MALE,1
+"[""i'm a disabled person -- /""]",im a disabled person  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c so } i'm unable [ to, + to, ] really take care of a pet  /""]", c so  im unable  to  to  really take care of a pet  ,sd,MALE,1
+"[""{c and } if that weren't so,  i would certainly have one.  /""]",c and  if that werent so  i would certainly have one  ,sd,MALE,1
+"['[ i just, +  i just, ] - /']", i just   i just   ,%,MALE,5
+['it frustrates me sometimes not being able to have a dog #  /'],it frustrates me sometimes not being able to have a dog   ,sd,MALE,1
+['(( yeah )) . # /'], yeah    ,b,MALE,2
+"[""# {f huh. } {d well, } # you might want to get yourself, {f uh, } an animal that doesn't require much attention.  like a cat. /""]", f huh  d well   you might want to get yourself f uh  an animal that doesnt require much attention  like a cat ,ad,MALE,22
+"['{f oh, } yeah.  /']",f oh  yeah  ,b,MALE,2
+"['{d well, } yeah,  /']",d well  yeah  ,b,MALE,2
+"['{f uh, } [ [ i, +  i, ] +  i ] typically am not a cat person. /']",f uh    i   i    i  typically am not a cat person ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['i have a friend that, {f uh, } has on occasion, {f uh } brought her cat over for me to keep [ for, + <noise> {d you know, } from ] time to time <swallowing>.  /']",i have a friend that f uh  has on occasion f uh  brought her cat over for me to keep  for  noise d you know  from  time to time swallowing  ,sd,MALE,1
+['{c and } this cat is like no other cat i have ever seen.  /'],c and  this cat is like no other cat i have ever seen  ,sd,MALE,1
+"['{c and, } {f uh, } it would sleep on my chest,']",c and  f uh  it would sleep on my chest,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,MALE,8
+['{d you know. } /'],d you know  ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""[ it's just, +  it's just ] a # great cat,  /""]", its just   its just  a  great cat  ,sd,MALE,1
+['{c but. } # -/'],c but   ,%,MALE,5
+"['# {d well, } [ my, + my ] personal # preference [ is, + is ] a dog.  /']", d well   my  my  personal  preference  is  is  a dog  ,sd,MALE,1
+"[""{f uh, } i don't know [ that, + {f uh, } that ] i would ever want a cat.  /""]",f uh  i dont know  that  f uh  that  i would ever want a cat  ,sd,MALE,1
+"['{f oh, } i like cats.  /']",f oh  i like cats  ,sd,MALE,1
+"[""i just wouldn't want to own one.  /""]",i just wouldnt want to own one  ,sd,MALE,1
+['{f uh } --'],f uh  ,sv,MALE,3
+"[""# {d well, } you don't own cats. # /""]", d well  you dont own cats  ,sv,MALE,3
+"[""-- # [ [ they're not, + {f uh, } # they're, ] + they're ] affectionate  /""]",    theyre not  f uh   theyre   theyre  affectionate  ,+,MALE,0
+"['{c but } they, - /']",c but  they  ,%,MALE,5
+['(( yeah ))  /'], yeah   ,%,MALE,5
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"[""i can't seem to communicate with a cat like i can with my dog. /""]",i cant seem to communicate with a cat like i can with my dog ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['[ [ you, +  they, ] +  they ] own you --']",  you   they    they  own you ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['right <laughter>. /'],right laughter ,aa,MALE,4
+"['-- [ or, +  or, ] {d you know, }']",  or   or  d you know ,+,MALE,0
+['<cough>.'],cough,x,MALE,8
+"['grant you with you their presence, # {d you know. } # /']",grant you with you their presence  d you know   ,+,MALE,0
+['# yeah.  /'], yeah  ,aa,MALE,4
+['right.  /'],right  ,aa,MALE,4
+"['# that, - /']", that  ,%,MALE,5
+"['yes,  /']",yes  ,%,MALE,5
+"[""we're supposed to appreciate them.  /""]",were supposed to appreciate them  ,sd,MALE,1
+"['{d well, } [ [ my, + my ] dog + [ when i came home, + {f uh, } when i come home ] in the evenings, my dog ] greets me at the door.  /']",d well    my  my  dog   when i came home  f uh  when i come home  in the evenings my dog  greets me at the door  ,sd,MALE,1
+"[""i don't know that a cat would do that, {f uh } <laughter>. /""]",i dont know that a cat would do that f uh  laughter ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['i used to have,']",i used to have,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,MALE,8
+['a cat that could read me better than any human being in my life. /'],a cat that could read me better than any human being in my life ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+['i could just walk in the door  /'],i could just walk in the door  ,sd,MALE,1
+"['{c and } she knew whether [ [ to, +  to, ] +  to  ] quietly come up to me or to just run and knock me over. /']",c and  she knew whether   to   to    to   quietly come up to me or to just run and knock me over ,sd,MALE,1
+['# <laughter>. #'], laughter ,x,MALE,8
+['# {e i mean } she # really could pick up on my mood --'], e i mean  she  really could pick up on my mood ,sd,MALE,1
+"['# yeah,  /']", yeah  ,b,MALE,2
+['yeah. # /'],yeah  ,b,MALE,2
+"['-- # {f uh, } the # way i walked in the door.  /']",  f uh  the  way i walked in the door  ,+,MALE,0
+"['it was, {f uh, } uncanny <noise> <<sounds like a truck>>. /']",it was f uh  uncanny noise sounds like a truck ,sv,MALE,3
+"[""{f huh. } [ i, + i ] think, {f uh, } in a way we're able to read each other pretty well because, {f uh, } she knows when i'm upset and i know when she's not feeling good too <sigh>. #  /""]",f huh   i  i  think f uh  in a way were able to read each other pretty well because f uh  she knows when im upset and i know when shes not feeling good too sigh   ,sd,MALE,1
+['{c so. } # -/'],c so   ,%,MALE,5
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""i know {d like } when she has an accident, i know she's not doing it on purpose.  /""]",i know d like  when she has an accident i know shes not doing it on purpose  ,sd,MALE,1
+['[ when -- +'], when  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- when ] she was younger, she used to do that to get even with me, /']", when  she was younger she used to do that to get even with me ,+,MALE,0
+['# <laughter>. #'], laughter ,x,MALE,8
+"['# {f uh, } [ {c and, } +  {c and, } ] # {d you know, } some people might not believe that  /']", f uh   c and    c and    d you know  some people might not believe that  ,sd,MALE,1
+"['[ [ {c but, } +  {c but, } ] +  {c but, } ] {f uh, } i do <laughter> <sniffing>. /']",  c but    c but     c but   f uh  i do laughter sniffing ,sd,MALE,1
+['sure <talking>.  /'],sure talking  ,b,MALE,2
+"['{f oh, } absolutely. /']",f oh  absolutely ,ba,MALE,6
+"['{d like } [ if i, + if i ] put her in a room all by herself and close the door and leave her there for a few hours, {f uh, } because i was going out. she would, {f uh, } break something or rip up the carpet or do something just [ [ to, + {f uh, } to, ] + to ] let me know that she was unhappy with what i did <laughter>. /']",d like   if i  if i  put her in a room all by herself and close the door and leave her there for a few hours f uh  because i was going out she would f uh  break something or rip up the carpet or do something just   to  f uh  to   to  let me know that she was unhappy with what i did laughter ,sd,MALE,1
+['really? /'],really ,bh,MALE,18
+['yeah. /'],yeah ,ny,MALE,9
+"[""that's the way, - /""]",thats the way  ,%,MALE,5
+"['{d well, } i had that cat that i mentioned, (( alfie )) .  /']",d well  i had that cat that i mentioned  alfie    ,sd,MALE,1
+"['one morning, {d you know, } the first thing you do is you get up and [ [ you, + you, ] + you ] feed this cat [ some-, + something ] [ and, + and ] you make sure that it can get to its litter box.  /']",one morning d you know  the first thing you do is you get up and   you  you   you  feed this cat  some  something   and  and  you make sure that it can get to its litter box  ,sd,MALE,1
+"['{d well, } --']",d well  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- for some reason during the night, the door was not quite wide enough for it to get through  /']", for some reason during the night the door was not quite wide enough for it to get through  ,+,MALE,0
+"['{c and, } {f uh, } the next morning, {f uh, } when my roommate got up [ and, + and, ] {f uh, } did not feed it right away, it decided [ that, + that ] it was going to protest. /']",c and  f uh  the next morning f uh  when my roommate got up  and  and  f uh  did not feed it right away it decided  that  that  it was going to protest ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{c and so } it jumped up on my bed and anointed my blanket,']",c and so  it jumped up on my bed and anointed my blanket,sd,MALE,1
+['# <laughter>. #'], laughter ,x,MALE,8
+"['# for me.  [ looking, +  looking ] # at me eye to eye,']", for me   looking   looking   at me eye to eye,+,MALE,0
+['# <laughter>. #'], laughter ,x,MALE,8
+['# all the time while it was doing it. #  /'], all the time while it was doing it   ,+,MALE,0
+['all right.  # have i got your attention now? # /'],all right   have i got your attention now  ,^q,MALE,19
+"['# <laughter> # {f oh, } yes.  /']", laughter  f oh  yes  ,b,MALE,2
+['animals have a way of talking <laughter>. /'],animals have a way of talking laughter ,sv,MALE,3
+['(( alfie )) did.  /'], alfie  did  ,sd,MALE,1
+['i tell you if i could have gotten a hold of that cat that day. /'],i tell you if i could have gotten a hold of that cat that day ,sd,MALE,1
+"[""<laughter> [ i, + i ] don't know [ that i'd, + {f uh, } that i'd ] trade my dog in for the world.   /""]",laughter  i  i  dont know  that id  f uh  that id  trade my dog in for the world   ,sd,MALE,1
+"['{f uh, } it was about two years ago she got sick on me  /']",f uh  it was about two years ago she got sick on me  ,sd,MALE,1
+"[""{c and } i took her [ to the, + {f uh, } to the ] vet's because she wasn't eating [ and, + and, ] {f uh, } she wasn't able to jump.  /""]",c and  i took her  to the  f uh  to the  vets because she wasnt eating  and  and  f uh  she wasnt able to jump  ,sd,MALE,1
+"['she, {d you know, } lost all her activity  /']",she d you know  lost all her activity  ,sd,MALE,1
+"['{c and, } {f uh, } she stayed there for one day  /']",c and  f uh  she stayed there for one day  ,sd,MALE,1
+"[""{c and } the doctor called me up and said, {f uh, } she had a low white cell count and that, {f uh, } [ she wasn't, + she was ] dying and, {f uh, } suggested that i take her to a [ [ working hos-, + dog hospital, ] + animal hospital ] <swallowing>.  /""]",c and  the doctor called me up and said f uh  she had a low white cell count and that f uh   she wasnt  she was  dying and f uh  suggested that i take her to a   working hos  dog hospital   animal hospital  swallowing  ,sd,MALE,1
+['{c so } i took his suggestion  /'],c so  i took his suggestion  ,sd,MALE,1
+"['{c and } i, {f uh, } took [ the, + the ] dog to [ a hospital. + the dog hospital ] there  /']",c and  i f uh  took  the  the  dog to  a hospital  the dog hospital  there  ,sd,MALE,1
+"[""{c and } they said they'd keep her there for three days.  /""]",c and  they said theyd keep her there for three days  ,sd,MALE,1
+"['{d well, } she ended staying there five days at a hundred and something dollars a day because she was in intensive care <laughter>.  /']",d well  she ended staying there five days at a hundred and something dollars a day because she was in intensive care laughter  ,sd,MALE,1
+['it cost me over five hundred dollars. /'],it cost me over five hundred dollars ,sd,MALE,1
+['ouch. /'],ouch ,ba,MALE,6
+"['{c plus, } [ [ the, + the, ] + {f uh, } the ] vet sent me a bill for what he did <swallowing>  /']",c plus    the  the   f uh  the  vet sent me a bill for what he did swallowing  ,sd,MALE,1
+"['{c and, } {f uh, } then she recouped.  /']",c and  f uh  then she recouped  ,sd,MALE,1
+['she was okay for a couple of years.  /'],she was okay for a couple of years  ,sd,MALE,1
+['{c and then } she got sick on me again  /'],c and then  she got sick on me again  ,sd,MALE,1
+['{c and } i brought her to a different vet this time  /'],c and  i brought her to a different vet this time  ,sd,MALE,1
+['{c and } i told the vet what medication i had given her and everything <sniffing>.  /'],c and  i told the vet what medication i had given her and everything sniffing  ,sd,MALE,1
+"['{c and, } {f uh, } he gave me [ the medication, + the same medication ] that i gave her the last time  /']",c and  f uh  he gave me  the medication  the same medication  that i gave her the last time  ,sd,MALE,1
+['{c and } she was okay  /'],c and  she was okay  ,sd,MALE,1
+"[""{c and } she's been okay every since.  /""]",c and  shes been okay every since  ,sd,MALE,1
+"[""it's been about two years now. /""]",its been about two years now ,sd,MALE,1
+"[""{f huh. } {d well, } that's great,  /""]",f huh  d well  thats great  ,ba,MALE,6
+['it really is.  /'],it really is  ,ba,MALE,6
+"[""[ i, + <laughter> i'm ] glad (( that )) she was able to pull out of it (( that way )) and so cheaply the second time. /""]", i  laughter im  glad  that  she was able to pull out of it  that way  and so cheaply the second time ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{d well, } [ the, + {d see } the ] problem is [ [ if, + if the, ] + if someone ] would have came up to me and said it's going to cost you five hundred dollars to keep your dog alive.  /""]",d well   the  d see  the  problem is   if  if the   if someone  would have came up to me and said its going to cost you five hundred dollars to keep your dog alive  ,sd,MALE,1
+['what do you want to do?  /'],what do you want to do  ,^q,MALE,19
+['i probably would have had second thoughts. /'],i probably would have had second thoughts ,sd,MALE,1
+['yeah.  /'],yeah  ,aa,MALE,4
+"['# of course, you would. # /']", of course you would  ,aa,MALE,4
+"[""# {c but } [ what they, + # {d well, } what they ] do is, is they say, {d well } it's going to cost, {d you know, } twenty dollars for tests and forty dollars for this  /""]", c but   what they   d well  what they  do is is they say d well  its going to cost d you know  twenty dollars for tests and forty dollars for this  ,sd,MALE,1
+"['[ [ {c and, } + {c and, } ] + {d you know, } {c and } ] it creeps up on you.  /']",  c and   c and    d you know  c and   it creeps up on you  ,sd,MALE,1
+"[""you don't know that, {f uh, } {d you know } <laughter>.  /""]",you dont know that f uh  d you know  laughter  ,sd,MALE,1
+"[""[ [ you really, + y-, ] + you ] don't know what it's going to until it's all over. /""]",  you really  y   you  dont know what its going to until its all over ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{f uh, } to give you an example.  my mom had an elderly cat who, {f uh, } whoever evidently got a hold of it - /']",f uh  to give you an example  my mom had an elderly cat who f uh  whoever evidently got a hold of it  ,sd,MALE,1
+"['{c and, } {f uh, } the cat got sick.  /']",c and  f uh  the cat got sick  ,sd,MALE,1
+['{c so } she took the cat to the vet  /'],c so  she took the cat to the vet  ,sd,MALE,1
+['{c and } she had the cat there for two days  /'],c and  she had the cat there for two days  ,sd,MALE,1
+['{c and then } the cat died.  /'],c and then  the cat died  ,sd,MALE,1
+"['{c so } the doctor had called her up and said, {f uh, } your cat died  /']",c so  the doctor had called her up and said f uh  your cat died  ,sd,MALE,1
+"['{c and } you owe me this bill,  /']",c and  you owe me this bill  ,^q,MALE,19
+"['{c and } {f oh, } by the way, do you want me [ to, + to ] bury the cat # <laughter>. # /']",c and  f oh  by the way do you want me  to  to  bury the cat  laughter  ,^q,MALE,19
+['# <laughter>. #'], laughter ,x,MALE,8
+"['{c so, } it cost her three hundred dollars, {f uh, }  /']",c so  it cost her three hundred dollars f uh   ,sd,MALE,1
+"[""{c and } she didn't get the cat back.  /""]",c and  she didnt get the cat back  ,sd,MALE,1
+"['{c so, } yeah,  /']",c so  yeah  ,%,MALE,5
+"['they had to pay for all the medical, {f uh, } bills that the cat ran up plus the burial expenses. /']",they had to pay for all the medical f uh  bills that the cat ran up plus the burial expenses ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""<laughter> {c and, } {f uh, } {d you know, } she just brought the cat in because he wasn't feeling good <sniffing>.  /""]",laughter c and  f uh  d you know  she just brought the cat in because he wasnt feeling good sniffing  ,sd,MALE,1
+['# {c so } [ that # -- +'], c so   that   ,sd,MALE,1
+['# really. #  /'], really   ,b,MALE,2
+['geez. /'],geez ,ba,MALE,6
+['-- that ] was kind of a surprise <throat_clearing> #  /'], that  was kind of a surprise throatclearing   ,+,MALE,0
+"['(( at lea-, )) # /']", at lea   ,%,MALE,5
+['# yeah.  /'], yeah  ,b,MALE,2
+['# you kind of wonder what really happened. /'], you kind of wonder what really happened ,qy^d,MALE,16
+['yeah.  /'],yeah  ,ny,MALE,9
+"['{d well } even the, {d you know, } - /']",d well  even the d you know   ,%,MALE,5
+"['[ they, + they ] claimed they did the best that they could [ have + have ]  /']", they  they  claimed they did the best that they could  have  have   ,sd,MALE,1
+"['{c and } then the cat, {f uh, } died.  /']",c and  then the cat f uh  died  ,sd,MALE,1
+['{c so } -- -/'],c so   ,%,MALE,5
+['my goodness. /'],my goodness ,ba,MALE,6
+"[""-- [ i'm, +  i'm ] looking for another cat for them.  {f uh, } /""]",  im   im  looking for another cat for them  f uh  ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""[ [ i, + i've, ] + i've ] got a little kitten, {f uh, } that's still, {f uh, } just being born right now.  /""]",  i  ive   ive  got a little kitten f uh  thats still f uh  just being born right now  ,sd,MALE,1
+"[""{c so } another five or six weeks <inhaling> i'll be bringing the little kitten over [ to, + {f uh, } to ] my folks. /""]",c so  another five or six weeks inhaling ill be bringing the little kitten over  to  f uh  to  my folks ,sd,MALE,1
+"['{d well, }  [ [ [ that, + that, ] + that, ] + that ] will make their day. /']",d well      that  that   that   that  will make their day ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"['[ i, + i ] think it will  /']", i  i  think it will  ,sv,MALE,3
+"[""{c because } they're both [ in their, + in their ] seventies.  and, {f uh, } the cat, {f uh, } although it's a little bit of work for them sometimes, [ it turns, + it turns ] out to be, {f uh, } {f uh, } a pleasant experience for them.  /""]",c because  theyre both  in their  in their  seventies  and f uh  the cat f uh  although its a little bit of work for them sometimes  it turns  it turns  out to be f uh  f uh  a pleasant experience for them  ,sd,MALE,1
+"['{f uh, } i think they enjoy that. /']",f uh  i think they enjoy that ,sv,MALE,3
+['only work initially. /'],only work initially ,bf,MALE,20
+['yeah. /'],yeah ,aa,MALE,4
+"['for cats anyway, # {d you know. } # /']",for cats anyway  d you know   ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,MALE,2
+"['{d well, } listen  /']",d well  listen  ,ad,MALE,22
+"[""it's been a pleasure talking to you. /""]",its been a pleasure talking to you ,fc,MALE,10
+"['{d well, } the same here. /']",d well  the same here ,fc,MALE,10
+['{c and } you take care. /'],c and  you take care ,fc,MALE,10
+['okay. /'],okay ,fc,MALE,10
+['<buzzer>.'],buzzer,x,MALE,8
+['bye now. /'],bye now ,fc,MALE,10
+"[""</buzzer> maybe we'll talk again <buzzer> sometimes </buzzer>. /""]",buzzer maybe well talk again buzzer sometimes buzzer ,fc,MALE,10
+['okay.  /'],okay  ,fc,MALE,10
+['what is that sound? /'],what is that sound ,qw,MALE,12
+"[""that's my buzzer at the door <laughter>. /""]",thats my buzzer at the door laughter ,sd,MALE,1
+"['{f oh, } okay.   /']",f oh  okay   ,bk,MALE,14
+"[""i'll let you go. /""]",ill let you go ,fc,MALE,10
+['okay. /'],okay ,fc,MALE,10
+['# right #  </tv>. /'], right   tv ,fc,MALE,10
+['# thank you #  </static>. /'], thank you   static ,fc,MALE,10

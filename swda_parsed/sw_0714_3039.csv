@@ -1,0 +1,272 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['we can start. /'],we can start ,ad,FEMALE,22
+['okay.  /'],okay  ,aa,FEMALE,4
+['hi. /'],hi ,fp,FEMALE,32
+['hi. /'],hi ,fp,FEMALE,32
+['how many children do you have? /'],how many children do you have ,qw,FEMALE,12
+['i have four. /'],i have four ,sd,FEMALE,1
+"['{f oh, } four,  /']",f oh  four  ,b^m,FEMALE,24
+"['okay,  /']",okay  ,bk,FEMALE,14
+['okay. /'],okay ,bk,FEMALE,14
+['how many do you have? /'],how many do you have ,qw,FEMALE,12
+"['{d well, } i have two children and, {f uh, } two stepdaughters. /']",d well  i have two children and f uh  two stepdaughters ,sd,FEMALE,1
+['okay. /'],okay ,bk,FEMALE,14
+"['<laughter> {c so } we have four altogether, too. /']",laughter c so  we have four altogether too ,sd,FEMALE,1
+['okay. /'],okay ,bk,FEMALE,14
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['[ are you, + are you ] running ragged these days? /']", are you  are you  running ragged these days ,qy,FEMALE,7
+"['{d well, } no,  /']",d well  no  ,nn,FEMALE,13
+['{c because } mine are all grown <laughter>. /'],c because  mine are all grown laughter ,sd,FEMALE,1
+"['{f oh, } they are.  /']",f oh  they are  ,b,FEMALE,2
+['oh <laughter>. /'],oh laughter ,b,FEMALE,2
+"['{c so } the topic for me, - /']",c so  the topic for me  ,sd,FEMALE,1
+"['[ i, + i ]  can only [ rera-, + relate ] now to my grandchildren. /']", i  i   can only  rera  relate  now to my grandchildren ,sd,FEMALE,1
+"['{f oh, } {d well } --']",f oh  d well  ,ba,FEMALE,6
+"['i do keep my, -/']",i do keep my ,sd,FEMALE,1
+['-- good.  /'], good  ,+,FEMALE,0
+"['impart me some wisdom, catherine <laughter>. /']",impart me some wisdom catherine laughter ,ad,FEMALE,22
+"['<laughter> {f uh, } i do take care of my youngest granddaughter, {f uh, } most every saturday.  /']",laughter f uh  i do take care of my youngest granddaughter f uh  most every saturday  ,sd,FEMALE,1
+"['{f uh, } my daughter and her husband work saturdays.  /']",f uh  my daughter and her husband work saturdays  ,sd,FEMALE,1
+"['my daughter is, {f uh, } {f uh, } doing a schedule of, {f uh, }  twenty-four hours on the weekend,  /']",my daughter is f uh  f uh  doing a schedule of f uh   twentyfour hours on the weekend  ,sd,FEMALE,1
+['{c but } she gets paid for forty. /'],c but  she gets paid for forty ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } dave is, {f uh, } in supervisory work  /']",c and  dave is f uh  in supervisory work  ,sd,FEMALE,1
+['{c and }  he has to work almost every saturday  /'],c and   he has to work almost every saturday  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } /']",f uh  ,%,FEMALE,5
+['how old is your granddaughter? /'],how old is your granddaughter ,qw,FEMALE,12
+"[""she's three. /""]",shes three ,sd,FEMALE,1
+"[""{f oh, } {c  so } she's a little one. /""]",f oh  c  so  shes a little one ,bf,FEMALE,20
+['yes. /'],yes ,aa,FEMALE,4
+['yeah. /'],yeah ,b,FEMALE,2
+"[""[ she's, + she's ] little <laughter>. /""]", shes  shes  little laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""she's says how are you doing grandma today. /""]",shes says how are you doing grandma today ,sd,FEMALE,1
+['oh <laughter>. /'],oh laughter ,b,FEMALE,2
+['<laughter> whoa <laughter>. /'],laughter whoa laughter ,ba,FEMALE,6
+['are you surviving.  /'],are you surviving  ,qy,FEMALE,7
+"['is she [ ol-, + ] your oldest  [ grandd-, + ] child? /']",is she  ol   your oldest   grandd   child ,qy,FEMALE,7
+"['{f oh, } no,  /']",f oh  no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+['no.  /'],no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"[""she's my baby. /""]",shes my baby ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""she's my baby,  /""]",shes my baby  ,sd,FEMALE,1
+['yeah. /'],yeah ,%,FEMALE,5
+['oh. /'],oh ,b,FEMALE,2
+['she was a miracle baby. /'],she was a miracle baby ,sd,FEMALE,1
+['was she? /'],was she ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['she really was. /'],she really was ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['oh. /'],oh ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{f oh, } that's nice.  /""]",f oh  thats nice  ,ba,FEMALE,6
+"['now do your other  grandchildren live in [ dal-, + ] the dallas area? /']",now do your other  grandchildren live in  dal   the dallas area ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+"['they do,  /']",they do  ,na,FEMALE,21
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['do you get to see them? /'],do you get to see them ,qy,FEMALE,7
+"['they really do,  /']",they really do  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['how nice.  /'],how nice  ,ba,FEMALE,6
+['what a treat.  /'],what a treat  ,ba,FEMALE,6
+"['{d you know, }  being from plano, {d you know, } i know so very few people who have extended family in town.  /']",d you know   being from plano d you know  i know so very few people who have extended family in town  ,sd,FEMALE,1
+"[""i'm real jealous when i hear that somebody has a grandma around --""]",im real jealous when i hear that somebody has a grandma around ,sd,FEMALE,1
+['oh -- /'],oh  ,b,FEMALE,2
+['-- because --'], because ,+,FEMALE,0
+"['-- yeah,  /']", yeah  ,b,FEMALE,2
+"[""that's --""]",thats ,ba,FEMALE,6
+"[""-- we don't,  /""]", we dont  ,+,FEMALE,0
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['-- really, - /']", really  ,+,FEMALE,0
+"[""that's really wonderful. /""]",thats really wonderful ,ba,FEMALE,6
+"['it is,  /']",it is  ,aa,FEMALE,4
+['it is. /'],it is ,aa,FEMALE,4
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, } {d you know, } just so that they get to know their grandparents, but also for help <laughter>. /']",c and  d you know  just so that they get to know their grandparents but also for help laughter ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""[ we don't, + we don't ] have that luxury.  /""]", we dont  we dont  have that luxury  ,sd,FEMALE,1
+"['{c but, }  we have lots of friends,  /']",c but   we have lots of friends  ,sd,FEMALE,1
+"['[ {c and, } + {c and } ] everybody tends to be in the same boat.  /']", c and   c and   everybody tends to be in the same boat  ,sd,FEMALE,1
+"['{c so }  [ we, + we ] trade off a whole lot with friends and, {d you know, } run here and run there. /']",c so    we  we  trade off a whole lot with friends and d you know  run here and run there ,sd,FEMALE,1
+"[""we're right smack dab in the middle of baseball season right now.  /""]",were right smack dab in the middle of baseball season right now  ,sd,FEMALE,1
+['{c and } we have three playing baseball. /'],c and  we have three playing baseball ,sd,FEMALE,1
+"[""{f oh, } that's marvelous. /""]",f oh  thats marvelous ,ba,FEMALE,6
+['{c so } <laughter>. -/'],c so  laughter ,%,FEMALE,5
+"[""{d well } <noise> they keep you hopping, i'm sure. /""]",d well  noise they keep you hopping im sure ,sv,FEMALE,3
+['they definitely do. /'],they definitely do ,aa,FEMALE,4
+"['{d well, } i know, {f uh, } that, {f uh, } one of the  ladies i know, they are very involved with their little girl  /']",d well  i know f uh  that f uh  one of the  ladies i know they are very involved with their little girl  ,sd,FEMALE,1
+"[""[ {c and, } + {c and } ]  i think it's excellent because she's getting qualified quality time --""]", c and   c and    i think its excellent because shes getting qualified quality time ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- for, {f uh, } her musical, {f uh, } talents --']", for f uh  her musical f uh  talents ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- her sports abilities -- /'], her sports abilities  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {f uh, } i think because she is, {f uh, } <lipsmack> the only child that they concentrate, {f uh, }  they would like to have more,  /']", c and  f uh  i think because she is f uh  lipsmack the only child that they concentrate f uh   they would like to have more  ,sd,FEMALE,1
+"[""{c but }  that hasn't been, {f uh, } possible. /""]",c but   that hasnt been f uh  possible ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, } {f uh, } she's tried many, {f uh, } avenues -- /""]",c and  f uh  shes tried many f uh  avenues  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- [ {c and, } + {c and } ] {c so } now it's just, {d you know, } that she's kind of resolved herself that, {d yes, } this is going to be the only one <lipsmack>. /""]",  c and   c and   c so  now its just d you know  that shes kind of resolved herself that d yes  this is going to be the only one lipsmack ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{c and } she devotes,  /']",c and  she devotes  ,bf,FEMALE,20
+['yeah. /'],yeah ,aa,FEMALE,4
+"[""{c and } they're focusing on all of her, {f uh, } welfare. /""]",c and  theyre focusing on all of her f uh  welfare ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } our kids, {d you know, } - /']",d well  our kids d you know   ,sd,FEMALE,1
+"[""{f uh, } my daughter [ s-, + ] {f uh, } sings with younger generation, i don't know if you've ever heard of them.  /""]",f uh  my daughter  s   f uh  sings with younger generation i dont know if youve ever heard of them  ,sd,FEMALE,1
+"[""there they're a singing group here in plano. /""]",there theyre a singing group here in plano ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"[""{c and } they're part of the [ ch-, + ]  {f uh, } plano children's [ civics, + civic ] chorus. /""]",c and  theyre part of the  ch    f uh  plano childrens  civics  civic  chorus ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } they're going to washington, d. c. next december <lipsmack>.  {f uh, } to sing for president bush at the white house at christmas time. /""]",c and  theyre going to washington d c next december lipsmack  f uh  to sing for president bush at the white house at christmas time ,sd,FEMALE,1
+"['{f oh, } how wonderful. /']",f oh  how wonderful ,ba,FEMALE,6
+"[""isn't that neat?  /""]",isnt that neat  ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"['{c so, }']",c so ,sd,FEMALE,1
+"[""that's wonderful. /""]",thats wonderful ,ba,FEMALE,6
+"['{c so } we have been really up to our eye balls in fund raising and trying to get, {f uh, } -/']",c so  we have been really up to our eye balls in fund raising and trying to get f uh  ,+,FEMALE,0
+"[""{d well, } that's wonderful. /""]",d well  thats wonderful ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['it is.  /'],it is  ,sd,FEMALE,1
+['it is.  /'],it is  ,sd,FEMALE,1
+"['{d so, } {d you know, } {c and then }  she plays softball  /']",d so  d you know  c and then   she plays softball  ,sd,FEMALE,1
+['{c and } my son plays baseball  /'],c and  my son plays baseball  ,sd,FEMALE,1
+['{c and } my stepdaughter plays softball  /'],c and  my stepdaughter plays softball  ,sd,FEMALE,1
+"['{c so }  [ we, + we ] tend to do a lot of running.  /']",c so    we  we  tend to do a lot of running  ,sd,FEMALE,1
+['things are very different nowadays than when i grew up -- /'],things are very different nowadays than when i grew up  ,sv,FEMALE,3
+"['{f oh, } they are. /']",f oh  they are ,aa,FEMALE,4
+"[""-- {c and } i'm sure when your children grew up you didn't, {d you know, } - /""]", c and  im sure when your children grew up you didnt d you know   ,sv,FEMALE,3
+"[""i don't remember doing all these things. /""]",i dont remember doing all these things ,sd,FEMALE,1
+['no. /'],no ,aa,FEMALE,4
+"[""i certainly don't remember my parents running  me here and there and supporting me in all these things,  /""]",i certainly dont remember my parents running  me here and there and supporting me in all these things  ,sd,FEMALE,1
+"['{c but } we had more,  i guess family time alone --']",c but  we had more  i guess family time alone ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""you're, -/""]",youre ,%,FEMALE,5
+['-- where we did nothing.'], where we did nothing,+,FEMALE,0
+['now i think --'],now i think ,sv,FEMALE,3
+['which was good. /'],which was good ,+,FEMALE,0
+"['-- [ every-, + ] everything is doing, doing, doing, out of the house.']",  every   everything is doing doing doing out of the house,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['yeah. /'],yeah ,aa,FEMALE,4
+['which can be very hectic. /'],which can be very hectic ,+,FEMALE,0
+['it can be  /'],it can be  ,aa,FEMALE,4
+"['[ {c and, } + {c and } ] sometimes  [ i, + {d you know, } i ] kind of long for the good old days when <laughter> --']", c and   c and   sometimes   i  d you know  i  kind of long for the good old days when laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""it wasn't so he-, -/""]",it wasnt so he ,bf,FEMALE,20
+"[""-- we didn't do all these running.  /""]", we didnt do all these running  ,+,FEMALE,0
+"['{c but } on the other  hand, we just love watching the kids play and getting to know the other  parents  /']",c but  on the other  hand we just love watching the kids play and getting to know the other  parents  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- we've had a lot of fun with that, too. /""]", weve had a lot of fun with that too ,+,FEMALE,0
+"['you have to look on that, on the, {f uh, } positive side of that. /']",you have to look on that on the f uh  positive side of that ,sv,FEMALE,3
+"[""it's just different. /""]",its just different ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+['it is. /'],it is ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""it's just a different lifestyle. /""]",its just a different lifestyle ,bf,FEMALE,20
+"[""it's just very different. /""]",its just very different ,b^m,FEMALE,24
+['yes. /'],yes ,aa,FEMALE,4
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f uh, } /']",f uh  ,%,FEMALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"['my, {f uh, } second grandson is in a  cappella /']",my f uh  second grandson is in a  cappella ,sd,FEMALE,1
+"[""{c and } i know what you're talking about when he's involved, {d you know, } the children are involved --""]",c and  i know what youre talking about when hes involved d you know  the children are involved ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- in that,  /']", in that  ,+,FEMALE,0
+"[""{c and } he's been, - /""]",c and  hes been  ,sd,FEMALE,1
+['he has traveled  /'],he has traveled  ,sd,FEMALE,1
+"['{c and } they have won awards,  /']",c and  they have won awards  ,sd,FEMALE,1
+['{c so } i - /'],c so  i  ,%,FEMALE,5
+"['{f oh, } really. /']",f oh  really ,bh,FEMALE,18
+['yeah. /'],yeah ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{c and, } i know where  you're coming from -- /""]",c and  i know where  youre coming from  ,ba,FEMALE,6
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- {c and } [ it's, + it's ] very nice. /""]", c and   its  its  very nice ,sv,FEMALE,3
+['it is very nice. /'],it is very nice ,aa,FEMALE,4
+"['i think, {f uh, } {f uh, } those type of children, {f uh, }  that are involved in things like that, their, {f uh, } goals are going to be set  higher than the average child that are not participating in things. /']",i think f uh  f uh  those type of children f uh   that are involved in things like that their f uh  goals are going to be set  higher than the average child that are not participating in things ,sv,FEMALE,3
+"['{d well, } i think so,  /']",d well  i think so  ,aa,FEMALE,4
+"[""[ {c and, } + {c and } ]  i think they've learned a whole lot about being part of a team, whether the team is your singing group,  your band, [ your +  --""]", c and   c and    i think theyve learned a whole lot about being part of a team whether the team is your singing group  your band  your   ,sv,FEMALE,3
+['right. /'],right ,aa,FEMALE,4
+['-- your ] sports team --'], your  sports team ,+,FEMALE,0
+"['going to, -/']",going to ,%,FEMALE,5
+"['-- {d you know, } you all have to pull together. /']", d you know  you all have to pull together ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,FEMALE,5
+"['[ [ a, + a, ] + a ] team effort,  /']",  a  a   a  team effort  ,bf,FEMALE,20
+['yes. /'],yes ,%,FEMALE,5
+"['<lipsmack> yeah,  /']",lipsmack yeah  ,aa,FEMALE,4
+"[""{c and so } i've been real pleased  with that, too. /""]",c and so  ive been real pleased  with that too ,sd,FEMALE,1
+"[""i think they've learned some real good life skills.  {f uh, } {d you know, } being --""]",i think theyve learned some real good life skills  f uh  d you know  being ,sd,FEMALE,1
+"['[ that, +']", that ,ba,FEMALE,6
+['-- involved in all those things.  /'], involved in all those things  ,+,FEMALE,0
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,FEMALE,5
+"[""that's ] wonderful.  /""]",thats  wonderful  ,+,FEMALE,0
+"[""that's really is --""]",thats really is ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- nice to have in your background,  that, {d you know, } then [ you can, + [ you're, + ] you can ] be very flexible. /""]", nice to have in your background  that d you know  then  you can   youre   you can  be very flexible ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, } {f uh, } there's less, {f uh, } friction involved in relationships when you add that skill --""]",c and  f uh  theres less f uh  friction involved in relationships when you add that skill ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- of teamwork. /'], of teamwork ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } {e i mean } a lot of people that  are adults are having to go back and  learn those basics when our children are already learning that. /']",c and  f uh  e i mean  a lot of people that  are adults are having to go back and  learn those basics when our children are already learning that ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+['yes. /'],yes ,aa,FEMALE,4
+"[""{c and } i think it's a [ step, + [ a, + a ] giant step ] of progress, i really do. /""]",c and  i think its a  step   a  a  giant step  of progress i really do ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+"['{c so, } {f uh, } i, -/']",c so  f uh  i ,%,FEMALE,5
+['give me some wonderful advice catherine.  /'],give me some wonderful advice catherine  ,ad,FEMALE,22
+['what is the best advice of mothering that you know?  <laughter>. /'],what is the best advice of mothering that you know  laughter ,qw,FEMALE,12
+"['the best of,']",the best of,sv,FEMALE,3
+"[""besides don't sweat the small stuff <laughter>. /""]",besides dont sweat the small stuff laughter ,sd,FEMALE,1
+"['{d well, } {f uh, } cathy, i think if you look to the word of god --']",d well  f uh  cathy i think if you look to the word of god ,+,FEMALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{f oh, } that's good, that's real good advice. /""]",f oh  thats good thats real good advice ,sv,FEMALE,3
+"['-- and, {f uh, } think on the things that  are pure and lovely  /']", and f uh  think on the things that  are pure and lovely  ,+,FEMALE,0
+"['{c and, } {f uh, } keep your mind off of negative things. /']",c and  f uh  keep your mind off of negative things ,ad,FEMALE,22
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } keep your mind on positive things  /'],c and  keep your mind on positive things  ,ad,FEMALE,22
+"['[ {c and, } + {c and } ] stress that to your children. /']", c and   c and   stress that to your children ,ad,FEMALE,22
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, } {f uh, } [ even if they're, + even if they're ]  discouraged, tell them that that's just a passing moment --""]",c and  f uh   even if theyre  even if theyre   discouraged tell them that thats just a passing moment ,ad,FEMALE,22
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and to dwell on those things  that are, {f uh, } <lipsmack> not negative and  that are positive things in their life -- /']", and to dwell on those things  that are f uh  lipsmack not negative and  that are positive things in their life  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, } i think you'll see a lot of growth [ in, + {f uh, } in ] their ability to, {f uh, } control their thought pattern  /""]", c and  i think youll see a lot of growth  in  f uh  in  their ability to f uh  control their thought pattern  ,sv,FEMALE,3
+"[""[ {c and, } + {c and } ]  when you employ the word of god there's nothing as powerful as the word of god. /""]", c and   c and    when you employ the word of god theres nothing as powerful as the word of god ,sv,FEMALE,3
+['absolutely.  /'],absolutely  ,aa,FEMALE,4
+"['{d well, } i would agree with that.  /']",d well  i would agree with that  ,aa,FEMALE,4
+"[""we're also real active in our church  /""]",were also real active in our church  ,sd,FEMALE,1
+['{c and } my kids do an awful lot with that.  /'],c and  my kids do an awful lot with that  ,sd,FEMALE,1
+['allyson sings in the choir.  /'],allyson sings in the choir  ,sd,FEMALE,1
+"[""i told her that's a gift from god  /""]",i told her thats a gift from god  ,sd,FEMALE,1
+['{c and } you need to return that back. /'],c and  you need to return that back ,^q,FEMALE,19
+"['{f oh, } absolutely.  /']",f oh  absolutely  ,aa,FEMALE,4
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"['{c and } [ you owe, + you owe ] that --']",c and   you owe  you owe  that ,^q,FEMALE,19
+['uh-huh  /'],uhhuh  ,b,FEMALE,2
+['<<faint>>.'],faint,x,FEMALE,8
+"[""-- back to god because he's given you that ability and that talent  /""]", back to god because hes given you that ability and that talent  ,+,FEMALE,0
+['[ {c and } + --'], c and   ,sv,FEMALE,3
+['right. /'],right ,aa,FEMALE,4
+"[""-- {c and } ] that's real nice.  /""]", c and   thats real nice  ,+,FEMALE,0
+"[""i'm real proud of her.  /""]",im real proud of her  ,sd,FEMALE,1
+"[""i'm equally proud of her when i see her in church as i am when i see her performing.  /""]",im equally proud of her when i see her in church as i am when i see her performing  ,sd,FEMALE,1
+"[""{d you know, } that's, that's real neat. /""]",d you know  thats thats real neat ,sd,FEMALE,1
+"['{d well, } [ if she looks, +']",d well   if she looks ,sv,FEMALE,3
+['<throat_clearing> <<faint>>.'],throatclearing faint,x,FEMALE,8
+"[""if she looks ] at it as you suggest [ [ [ that, + that ] + that's, ] + that ] she can give [ her, + [ h-, + ] her ] talent back to the lord for  his glory --""]",if she looks  at it as you suggest    that  that   thats   that  she can give  her   h   her  talent back to the lord for  his glory ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- and she can look at it that way [ and, + and, ] {f uh, } that's ... -/""]", and she can look at it that way  and  and  f uh  thats  ,+,FEMALE,0

@@ -1,0 +1,104 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{f uh, } what do you consider an invasion of privacy? /']",f uh  what do you consider an invasion of privacy ,qo,FEMALE,25
+"[""{f uh, } i was just now told that's what the topic was  /""]",f uh  i was just now told thats what the topic was  ,sd,MALE,1
+"['{c and, } {f uh, } i guess invasion of privacy, {f uh, } to me, for example would be unauthorized use of credit cards --']",c and  f uh  i guess invasion of privacy f uh  to me for example would be unauthorized use of credit cards ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- for example.  /'], for example  ,+,MALE,0
+"[""{c and, } {f uh, } i guess recently one of the t v stations here, {f uh, } ran a series of, {f uh, } news casts on unauthorized credit card usage and how easy it was to get a person's credit card numbers.""]",c and  f uh  i guess recently one of the t v stations here f uh  ran a series of f uh  news casts on unauthorized credit card usage and how easy it was to get a persons credit card numbers,sd,MALE,1
+"[""it's very easy. /""]",its very easy ,sv,FEMALE,3
+['and use it  /'],and use it  ,+,MALE,0
+['{c and } i was quite surprised at that.  /'],c and  i was quite surprised at that  ,sd,MALE,1
+"['i guess i can consider myself fortunate that, {f uh, } it never happened to me. /']",i guess i can consider myself fortunate that f uh  it never happened to me ,sd,MALE,1
+"[""{d now, } [ i've never, +""]",d now   ive never ,sd,FEMALE,1
+"[""i don't know what i'd really do if it did. /""]",i dont know what id really do if it did ,sd,MALE,1
+"[""i've never ] had that happen to me either.  /""]",ive never  had that happen to me either  ,+,FEMALE,0
+"['what do you think about places, - /']",what do you think about places  ,qo,FEMALE,25
+"[""{d like } i was in michael's the other night and charged something,  /""]",d like  i was in michaels the other night and charged something  ,sd,FEMALE,1
+"['{c and } they asked for my home phone even though, {d you know, } the charge had been approved.  /']",c and  they asked for my home phone even though d you know  the charge had been approved  ,sd,FEMALE,1
+['what do you think of that? /'],what do you think of that ,qo,FEMALE,25
+"['{f uh, } /']",f uh  ,^h,MALE,27
+['does it bother you to give it? /'],does it bother you to give it ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+"[""not really because i'm listed in the phone book.  /""]",not really because im listed in the phone book  ,sd,MALE,1
+"['if i was the type of individual that, {f uh, } had an unlisted number, [ i, + i ] think i would be hesitant to give it. /']",if i was the type of individual that f uh  had an unlisted number  i  i  think i would be hesitant to give it ,sd,MALE,1
+"[""you know that [ [ they, + they ] now have a, + {f uh, } i believe it's a ] federal law that you do not have to give your phone number on charge tickets. /""]",you know that   they  they  now have a  f uh  i believe its a  federal law that you do not have to give your phone number on charge tickets ,sd,FEMALE,1
+"['one of the things that upset me when i lived in california was, {f uh, } they did a lot of things with [ s-, + your social ] security number. /']",one of the things that upset me when i lived in california was f uh  they did a lot of things with  s  your social  security number ,sd,MALE,1
+"['security number,  /']",security number  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""as a matter of fact, they even went to the point of printing our social security number on your driver's license. /""]",as a matter of fact they even went to the point of printing our social security number on your drivers license ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c and } they would not cash checks unless they had your social security number,  /']",c and  they would not cash checks unless they had your social security number  ,sd,MALE,1
+['{c so } we had our social security numbers imprinted on our checks. /'],c so  we had our social security numbers imprinted on our checks ,sd,MALE,1
+"['{f uh, } uh-huh. /']",f uh  uhhuh ,b,FEMALE,2
+"['{c and } i was really, {d you know, } unhappy about that situation.  /']",c and  i was really d you know  unhappy about that situation  ,sd,MALE,1
+['i think that was an invasion of privacy. /'],i think that was an invasion of privacy ,sv,MALE,3
+"['privacy,  /']",privacy  ,b^m,FEMALE,24
+"['yes,  /']",yes  ,aa,FEMALE,4
+['yes.  /'],yes  ,aa,FEMALE,4
+"['i can see, {d you know, } where that was.  /']",i can see d you know  where that was  ,aa,FEMALE,4
+"[""[ i, + i ] don't mind my phone number and address or work phone being given, {d you know, } when i have to cash a check.  /""]", i  i  dont mind my phone number and address or work phone being given d you know  when i have to cash a check  ,sd,FEMALE,1
+"[""i don't see any need for it when i'm charging something,  /""]",i dont see any need for it when im charging something  ,sd,FEMALE,1
+"['{c but } [ i, + neither am i ] a person that <laughter> has the guts to say, no,  /']",c but   i  neither am i  a person that laughter has the guts to say no  ,sd,FEMALE,1
+"[""i'm not going to give it to you, either <laughter>. /""]",im not going to give it to you either laughter ,^q,FEMALE,19
+['right. /'],right ,b,MALE,2
+"['{d you know, } {c and, } {f uh, } -/']",d you know  c and  f uh  ,%,FEMALE,5
+"[""one of the biggest things, i think that's going on in this country right now is the selling of, {f uh, } mail lists and things like  that. /""]",one of the biggest things i think thats going on in this country right now is the selling of f uh  mail lists and things like  that ,sv,MALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+['yes. /'],yes ,aa,FEMALE,4
+"['{d you know, } {f uh, } recently [ we, + {f uh, } i ] purchased some magazines, u s news --']",d you know  f uh  recently  we  f uh  i  purchased some magazines u s news ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and forbes magazine. /'], and forbes magazine ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } every since that day, i have been inundated with, {d you  know, } {f uh, } subscriptions to this, subscriptions to that, {f uh, } this news letter, this investment letter, {f uh, } even to the point of people calling me at home.  /']",c and  every since that day i have been inundated with d you  know  f uh  subscriptions to this subscriptions to that f uh  this news letter this investment letter f uh  even to the point of people calling me at home  ,sd,MALE,1
+"['{c and } prior to me ordering these magazines, i never got those kind of calls. /']",c and  prior to me ordering these magazines i never got those kind of calls ,sd,MALE,1
+"['right,  /']",right  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+"['{c and, } -/']",c and  ,%,MALE,5
+"[""i discovered with, {f uh, } charge cards, {f uh, } i feel like that i don't know whether it's the stores themselves that sell the list or  whether the, {f uh, } {f uh, } credit report bureau sells it,  /""]",i discovered with f uh  charge cards f uh  i feel like that i dont know whether its the stores themselves that sell the list or  whether the f uh  f uh  credit report bureau sells it  ,sd,FEMALE,1
+"[""{c but } i get catalogs from people i've never even heard of. /""]",c but  i get catalogs from people ive never even heard of ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } i know they have to be coming from my charge cards, {d you know. } /']",c and  i know they have to be coming from my charge cards d you know  ,sd,FEMALE,1
+"['from [ some, + some ] list,  /']",from  some  some  list  ,sv,MALE,3
+['yeah. /'],yeah ,%,MALE,5
+"[""from some list, {d you know, } that knows that i have [ a, + say a ] charge account [ at, + at ] neiman's or something  /""]",from some list d you know  that knows that i have  a  say a  charge account  at  at  neimans or something  ,sd,FEMALE,1
+"[""{c because } then i'll get catalogs that, {d you know, } are within that range --""]",c because  then ill get catalogs that d you know  are within that range ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- that i would never order from --'], that i would never order from ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"['-- ordinarily,  /']", ordinarily  ,+,FEMALE,0
+"['[ {c and, } + {f uh, } {d you know, } {c and } ] [ i get, + i get ] tired of that.  /']", c and   f uh  d you know  c and    i get  i get  tired of that  ,sd,FEMALE,1
+"['[ i, + {c because } i ] look at all that junk mail,  /']", i  c because  i  look at all that junk mail  ,sd,FEMALE,1
+"[""{c and } i think of how inept our post office is and how that's taking up <laughter> --""]",c and  i think of how inept our post office is and how thats taking up laughter ,sv,FEMALE,3
+['all their time. /'],all their time ,^2,MALE,23
+"['-- {d you know, } all their time to sort  /']", d you know  all their time to sort  ,+,FEMALE,0
+"[""{c and } they're not even paying full postage. /""]",c and  theyre not even paying full postage ,sd,FEMALE,1
+['sure. /'],sure ,b,MALE,2
+"['{d you know, } {c and } if you did away with some of that, our postal service might give better service. /']",d you know  c and  if you did away with some of that our postal service might give better service ,sv,FEMALE,3
+"[""i think the general public would be, {d you know, } {f uh, } tremendously upset if they knew how easy it is for, {f uh, } let's say the criminal individuals [ to, + to ] get access to people's records, {f uh, } their credit cards --""]",i think the general public would be d you know  f uh  tremendously upset if they knew how easy it is for f uh  lets say the criminal individuals  to  to  get access to peoples records f uh  their credit cards ,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+"[""-- driver's licenses, checks, things like that. /""]", drivers licenses checks things like that ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } i don't think anybody really knows what to do about it. /""]",f uh  i dont think anybody really knows what to do about it ,sv,MALE,3
+"['no,  /']",no  ,aa,FEMALE,4
+['no. /'],no ,aa,FEMALE,4
+"[""computers caused a lot of this, i'm sure. /""]",computers caused a lot of this im sure ,sv,MALE,3
+"[""{d well, } {d you know, } let's face it,  /""]",d well  d you know  lets face it  ,ad,FEMALE,22
+"[""computers can be gotten into very easily [ [ if you, + if you really have [ the, + the ] know with all, ] + if you're, {d you know, } so inclined to, {f uh, } {f oh, } {a what do i want to say, } have ] the smarts to be able to tinker with something like that.""]",computers can be gotten into very easily   if you  if you really have  the  the  know with all   if youre d you know  so inclined to f uh  f oh  a what do i want to say  have  the smarts to be able to tinker with something like that,sv,FEMALE,3
+['sure. /'],sure ,b,MALE,2
+"['{d you know, } and have a basic knowledge,  /']",d you know  and have a basic knowledge  ,+,FEMALE,0
+"[""they're very easy to get into.  /""]",theyre very easy to get into  ,sv,FEMALE,3
+['to tap into a system. /'],to tap into a system ,sv,FEMALE,3
+"['seems as though they are,  /']",seems as though they are  ,aa,MALE,4
+['yeah. /'],yeah ,aa,MALE,4
+"['uh-huh, {d you know, }  /']",uhhuh d you know   ,b,FEMALE,2
+"['and, {f uh, } which is scary,  /']",and f uh  which is scary  ,sv,FEMALE,3
+"['{e i mean, } {d you know, } our lives are on computers. /']",e i mean  d you know  our lives are on computers ,sv,FEMALE,3
+['unfortunately. /'],unfortunately ,ba,MALE,6
+"[""[ {c and, } + {f uh, } {c and } ] i don't know,  /""]", c and   f uh  c and   i dont know  ,h,FEMALE,15
+"['[ i kind of, + i resent ] the calls of an evening trying to sell me something.  /']", i kind of  i resent  the calls of an evening trying to sell me something  ,sd,FEMALE,1
+"['{f uh, } -/']",f uh  ,%,FEMALE,5
+"[""fortunately, i [ haven't, + {f uh, } haven't, ] {f uh, } been inundated with that situation yet. /""]",fortunately i  havent  f uh  havent  f uh  been inundated with that situation yet ,sd,MALE,1
+"['we are constantly, it seems like.  /']",we are constantly it seems like  ,sd,FEMALE,1
+"[""i don't know why.  /""]",i dont know why  ,sd,FEMALE,1
+"['{d you know, } either wanting to clean our carpet, sell us storm windows, -/']",d you know  either wanting to clean our carpet sell us storm windows ,sd,FEMALE,1

@@ -1,0 +1,179 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{f oh, } {d so } what would be [ the, + ]  your favorite meal to cook? /']",f oh  d so  what would be  the    your favorite meal to cook ,qw,MALE,12
+['<laughter> none to cook.  /'],laughter none to cook  ,sd,FEMALE,1
+"[""i don't like to cook <laughter>. /""]",i dont like to cook laughter ,sd,FEMALE,1
+"[""don't like to cook, huh? /""]",dont like to cook huh ,b,MALE,2
+"['spaghetti, i guess, though.  /']",spaghetti i guess though  ,aap_am,FEMALE,39
+['i make a mean spaghetti. /'],i make a mean spaghetti ,sd,FEMALE,1
+"['make a mean spaghetti, huh? /']",make a mean spaghetti huh ,b,MALE,2
+['yeah  /'],yeah  ,aa,FEMALE,4
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f uh, } got kids? /']",f uh  got kids ,qy,MALE,7
+['no. /'],no ,nn,FEMALE,13
+"['m-, - /']",m  ,%,MALE,5
+['married? /'],married ,qy,MALE,7
+"['huh-uh.  /  *[[according to the following utterance, this is an affirmative answer, so should be ""uh-huh""]]']",huhuh    according to the following utterance this is an affirmative answer so should be uhhuh,ny,FEMALE,9
+['just my husband and i and the two dogs. /'],just my husband and i and the two dogs ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['<laughter> {d so } what about yours? /'],laughter d so  what about yours ,qo,FEMALE,25
+"[""{d well, } [ uh-, + ] my wife and i and we've got a thirteen week old baby  /""]",d well   uh   my wife and i and weve got a thirteen week old baby  ,sd,MALE,1
+['{c so } --'],c so  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- don't do much cooking for him yet. /""]", dont do much cooking for him yet ,+,MALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f uh, } /']",f uh  ,%,MALE,5
+"[""{c so } i guess it's supposed to be dinner party, is that what they said? /""]",c so  i guess its supposed to be dinner party is that what they said ,qy,FEMALE,7
+"['{f uh, } yeah  /']",f uh  yeah  ,ny,MALE,9
+['what kind of menu would you plan for a  dinner party/'],what kind of menu would you plan for a  dinner party,sd,MALE,1
+"['{c and, } {f uh, } what kind of dishes you might have for it, or --']",c and  f uh  what kind of dishes you might have for it or ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- some sort of thing like that. /'], some sort of thing like that ,+,MALE,0
+"['huh,  /']",huh  ,b,FEMALE,2
+"[""we don't, -/""]",we dont ,sd,FEMALE,1
+"[""let's see, a good dinner party --""]",lets see a good dinner party ,^h,MALE,27
+"['think you, -/']",think you ,%,FEMALE,5
+['-- menu. /'], menu ,+,MALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"['i suppose it would just about depend on who was coming,  i guess. /']",i suppose it would just about depend on who was coming  i guess ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } {f uh, } something light and easy. /']",d you know  f uh  something light and easy ,sd,MALE,1
+"['if it was pretty  [ in-, + ] informal --']",if it was pretty   in   informal ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- about anything. /'], about anything ,+,MALE,0
+['sometimes --'],sometimes ,sd,FEMALE,1
+['breast  (( of chicken ))  <<faint>>. /'],breast   of chicken   faint ,sd,MALE,1
+"[""-- [ we'll have, + {f uh, } we'll have ]  a bunch of people over and cook deer. /""]",  well have  f uh  well have   a bunch of people over and cook deer ,+,FEMALE,0
+"['{f oh, } gosh,  /']",f oh  gosh  ,ba,MALE,6
+['yeah.  /'],yeah  ,%,MALE,5
+['<laughter>.'],laughter,x,FEMALE,8
+['how do you usually cook your deer? /'],how do you usually cook your deer ,qw,MALE,12
+['huh? /'],huh ,br,FEMALE,30
+['how do you usually cook your deer? /'],how do you usually cook your deer ,qw,MALE,12
+['<laughter> how do we usually? /'],laughter how do we usually ,br,FEMALE,30
+['yeah. /'],yeah ,ny,MALE,9
+"[""on the grill, we'll take the back strap and soak it in italian dressing for a couple of hours --""]",on the grill well take the back strap and soak it in italian dressing for a couple of hours ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- and throw it on the grill  /'], and throw it on the grill  ,+,FEMALE,0
+['{c and } it is good. /'],c and  it is good ,sd,FEMALE,1
+['i imagine. /'],i imagine ,ba,MALE,6
+['real good. /'],real good ,sd,FEMALE,1
+['i would imagine it is. /'],i would imagine it is ,ba,MALE,6
+"[""either that {c or } hamburgers, we really don't have dinner parties. /""]",either that c or  hamburgers we really dont have dinner parties ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['yeah,  /']",yeah  ,b,MALE,2
+['i understand. /'],i understand ,ba,MALE,6
+"['we just had, {f uh, } deer stew sort of --']",we just had f uh  deer stew sort of ,sd,MALE,1
+"['-- {f uh, } it was deer steak stew.']", f uh  it was deer steak stew,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } {d well } <noise>, about a day, day and a half in the crock pot, {f uh } --']",f uh  d well  noise about a day day and a half in the crock pot f uh  ,+,MALE,0
+['ooh. /'],ooh ,ba,FEMALE,6
+"['-- {f uh, } some deer steaks --']", f uh  some deer steaks ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- in kind of a mushroom gravy. /'], in kind of a mushroom gravy ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } some veggies in it. /']",f uh  some veggies in it ,sd,MALE,1
+['did you kill --'],did you kill ,qy,FEMALE,7
+"['delic-, -/']",delic ,%,MALE,5
+['-- the deer? /'], the deer ,+,FEMALE,0
+['no. /'],no ,nn,MALE,13
+['no. /'],no ,b^m,FEMALE,24
+"['no,  /']",no  ,nn,MALE,13
+"[""the times i've been out deer hunting, [ i, + i ] can go out in the woods unarmed and deer will be tripping over me and vice versa. /""]",the times ive been out deer hunting  i  i  can go out in the woods unarmed and deer will be tripping over me and vice versa ,sd,MALE,1
+['uh-huh  /'],uhhuh  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['{e i mean, } i get close to the woods with anything resembling a weapon  /']",e i mean  i get close to the woods with anything resembling a weapon  ,sd,MALE,1
+"[""{c and } suddenly there isn't a deer within fifty miles. /""]",c and  suddenly there isnt a deer within fifty miles ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c so, } no,  /']",c so  no  ,nn,MALE,13
+['this was given to us by some friends. /'],this was given to us by some friends ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } guy was [ in a, + {f uh, } in a ] hunting club -- /']",f uh  guy was  in a  f uh  in a  hunting club  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {d you know, } - /']", c and  d you know   ,%,MALE,5
+['{c but } the whole group  goes out hunting  /'],c but  the whole group  goes out hunting  ,sd,MALE,1
+"['{c and then } at the end of the day, they split it  -- /']",c and then  at the end of the day they split it   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } whoever brought it down gets the lion's share  /""]", c and  whoever brought it down gets the lions share  ,sd,MALE,1
+"['{c and } the rest of it is split with the rest, with everybody in the group. /']",c and  the rest of it is split with the rest with everybody in the group ,sd,MALE,1
+"[""{f oh, } {d well, } that's nice. /""]",f oh  d well  thats nice ,ba,FEMALE,6
+"['{d well, } he wou-, - /']",d well  he wou  ,%,MALE,5
+"['[ they, + they ]  went out last year and almost everybody got it, the limit -- /']", they  they   went out last year and almost everybody got it the limit  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c so } [ there's, + ]  everybody had deer coming out their ears. /""]", c so   theres    everybody had deer coming out their ears ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c so, } -/']",c so  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['we still got some from last year. /'],we still got some from last year ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ they, + they ] gave us some deer  /']", they  they  gave us some deer  ,sd,MALE,1
+"[""{c and } some of it's still in the freezer  /""]",c and  some of its still in the freezer  ,sd,MALE,1
+"['{c and } they, - /']",c and  they  ,%,MALE,5
+['about eight months ago <laughter> they gave it to us. /'],about eight months ago laughter they gave it to us ,sd,MALE,1
+['<laughter> yeah. /'],laughter yeah ,b,FEMALE,2
+"['[ we, + we ] either crock pot deer  /']", we  we  either crock pot deer  ,sd,MALE,1
+"[""{c or } we'll, {f uh, } {d you know, } put it out on the grill so that, {f uh } --""]",c or  well f uh  d you know  put it out on the grill so that f uh  ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- the bulk of the tallow will dribble off of it. /'], the bulk of the tallow will dribble off of it ,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['we h-, - /']",we h  ,%,FEMALE,5
+"['we usually have most of it made into, {f uh, } hamburger meat, though.']",we usually have most of it made into f uh  hamburger meat though,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['and cook, {d you know, } spaghetti with it. /']",and cook d you know  spaghetti with it ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+['chili. /'],chili ,sd,FEMALE,1
+['that is good. /'],that is good ,sv,MALE,3
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['deer spaghetti is real good. /'],deer spaghetti is real good ,sv,MALE,3
+['uh-huh  /'],uhhuh  ,aa,FEMALE,4
+['<laughter>.'],laughter,x,FEMALE,8
+"['anyway, {f uh, } no,  /']",anyway f uh  no  ,"fo_o_fw_""_by_bc",MALE,0
+"[""i think if i was going to have a dinner party, i'd probably have, {f uh, } sandwiches or something along those  lines and --""]",i think if i was going to have a dinner party id probably have f uh  sandwiches or something along those  lines and ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- then, {f uh, } {f uh, } {d you know, } just something light finger food sort of something or,']", then f uh  f uh  d you know  just something light finger food sort of something or,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['or maybe have something roasting out on the fire. /'],or maybe have something roasting out on the fire ,+,MALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f oh, } {d well, } anyway.']",f oh  d well  anyway,sd,MALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+"[""{f uh, } we don't do much in the way of entertaining. /""]",f uh  we dont do much in the way of entertaining ,+,MALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"[""usually it's,""]",usually its,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['one other couple come over for a dinner. /'],one other couple come over for a dinner ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""let's see, what did we have the last time we had guests over.  /""]",lets see what did we have the last time we had guests over  ,t1,MALE,37
+"['{f ah, } yeah,  /']",f ah  yeah  ,"fo_o_fw_""_by_bc",MALE,0
+"['we had [ a, + {f uh, } a ] turkey loaf. /']",we had  a  f uh  a  turkey loaf ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['which, {f uh, } kind of taco turkey loaf. /']",which f uh  kind of taco turkey loaf ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['it was good. /'],it was good ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f uh, } scalloped potatoes. /']",f uh  scalloped potatoes ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['no,  /']",no  ,ar,MALE,28
+['mashed potatoes. /'],mashed potatoes ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['mashed potatoes with, {f uh, } [ m-, + ]  cheese melted over the top of them. /']",mashed potatoes with f uh   m    cheese melted over the top of them ,sd,MALE,1
+['a couple things like that.  /'],a couple things like that  ,sd,MALE,1
+['it was pretty good  (( little ))  dinner. /'],it was pretty good   little   dinner ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""usually it's k-, -/""]",usually its k ,%,MALE,5
+"[""this isn't a good topic for me right now.  /""]",this isnt a good topic for me right now  ,sd,FEMALE,1
+"[""i'm on a diet <laughter>. /""]",im on a diet laughter ,sd,FEMALE,1
+"[""{f oh, } don't you hate that?  /""]",f oh  dont you hate that  ,bh,MALE,18
+"[""[ i've got a, + i got a ]  few pounds to lose myself. /""]", ive got a  i got a   few pounds to lose myself ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""that's okay. /""]",thats okay ,bd,MALE,38
+['{f um. } /'],f um  ,%,FEMALE,5
+"[""i've been fighting my weight since i was about ten years old. /""]",ive been fighting my weight since i was about ten years old ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['i have, too.  /']",i have too  ,sd,FEMALE,1
+['i was real skinny till i was ten. /'],i was real skinny till i was ten ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i [ was, + ]  left the fourth grade weighing about a hundred pounds and started the seventh grade, grade at two, /']",i  was    left the fourth grade weighing about a hundred pounds and started the seventh grade grade at two ,sd,MALE,1

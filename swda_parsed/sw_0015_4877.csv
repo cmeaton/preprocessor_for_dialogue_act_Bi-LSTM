@@ -1,0 +1,158 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<child_talking> <talking> <baby_crying>.'],childtalking talking babycrying,x,FEMALE,8
+['<clicking> okay.  /'],clicking okay  ,"fo_o_fw_""_by_bc",MALE,0
+"[""{f uh, } {d so } [ [ your, + you, ] + i guess you're ] probably in the [ same, + {f uh, } same ] situation {f uh, } we're in.  /""]",f uh  d so    your  you   i guess youre  probably in the  same  f uh  same  situation f uh  were in  ,sv,MALE,3
+"[""we're kind of past having to provide child care.  /""]",were kind of past having to provide child care  ,sd,MALE,1
+"['[ our, + our ] kids are grown up.  /']", our  our  kids are grown up  ,sd,MALE,1
+"[""we don't have any grandchildren yet.  /""]",we dont have any grandchildren yet  ,sd,MALE,1
+"[""{c but, } {f uh, } {f uh, } they're, -/""]",c but  f uh  f uh  theyre ,%,MALE,5
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['how old are your children? /'],how old are your children ,qw,FEMALE,12
+"[""{f uh, } one's twenty-six  /""]",f uh  ones twentysix  ,sd,MALE,1
+"['{c and } the other is, {f uh, } [ twenty, + twenty-one. ] /']",c and  the other is f uh   twenty  twentyone  ,sd,MALE,1
+['uh-huh </baby_crying>. /'],uhhuh babycrying ,b,FEMALE,2
+"[""{c so } [ [ they're, + {f uh, } {f uh, }""]",c so    theyre  f uh  f uh ,sd,MALE,1
+"[""{d well, } they're going to be getting there. /""]",d well  theyre going to be getting there ,^2,FEMALE,23
+"[""they're, ] + they're ] getting there.  /""]",theyre   theyre  getting there  ,+,MALE,0
+"[""{d you know, } # there's [ [ no # + --""]",d you know   theres   no   ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['-- no, ] + no ] prospects right away for anything to happen. /']", no   no  prospects right away for anything to happen ,+,MALE,0
+"['[ u-, + uh-huh. ]  /']", u  uhhuh   ,b,FEMALE,2
+"['{f oh, } i see. /']",f oh  i see ,b,FEMALE,2
+"['{c but, } {f uh, } -/']",c but  f uh  ,%,MALE,5
+"['i have, {f uh, } five children.  /']",i have f uh  five children  ,sd,FEMALE,1
+['i have a eighteen year old son.  /'],i have a eighteen year old son  ,sd,FEMALE,1
+"['the ((rest)) of my girls are {d like } twenty-three, twenty-six, twenty-eight, and twenty-nine. /']",the rest of my girls are d like  twentythree twentysix twentyeight and twentynine ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } i have three granddaughters right now. /'],c and  i have three granddaughters right now ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+"['{c and, } {f uh, } i, {f uh, } - /']",c and  f uh  i f uh   ,%,FEMALE,5
+"[""<sigh> one's in iowa. /""]",sigh ones in iowa ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and, } {f uh, } [ she's, + she's ] a teacher  /""]",c and  f uh   shes  shes  a teacher  ,sd,FEMALE,1
+"['{c and } what she does is she,']",c and  what she does is she,sd,FEMALE,1
+['<noise>.'],noise,x,MALE,8
+['teaches at a preschool. /'],teaches at a preschool ,+,FEMALE,0
+"['# {f oh, } okay. # /']", f oh  okay  ,b,MALE,2
+"['# [ {c and, } + # {c and so } ] she kind of, - /']",  c and    c and so   she kind of  ,%,FEMALE,5
+"['{c and } they let her bring [ her, + her ] little daughter in for free. /']",c and  they let her bring  her  her  little daughter in for free ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ {c and then, } + {c so } ] (( )) - /']", c and then   c so      ,%,FEMALE,5
+['{c but } she just works part-time. /'],c but  she just works parttime ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['then i have another daughter in, {f uh, } bountiful, utah  /']",then i have another daughter in f uh  bountiful utah  ,sd,FEMALE,1
+['{c and } she has to work full-time  /'],c and  she has to work fulltime  ,sd,FEMALE,1
+"[""{c and } it's just tearing her apart.  /""]",c and  its just tearing her apart  ,sd,FEMALE,1
+['she has a private baby-sitter. /'],she has a private babysitter ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c and, } {f uh, } the baby just screams.  /']",c and  f uh  the baby just screams  ,sd,FEMALE,1
+"['{e i mean, } the baby is {d like } seventeen months  /']",e i mean  the baby is d like  seventeen months  ,sd,FEMALE,1
+['{c and } she just screams. /'],c and  she just screams ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{d well } even if she knows that they're fixing to get ready to go over there. - /""]",d well  even if she knows that theyre fixing to get ready to go over there  ,sd,FEMALE,1
+"[""they're not even there yet  --""]",theyre not even there yet  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {d you know. }  /'], d you know   ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"[""it's # hard.  /""]",its  hard  ,sv,MALE,3
+"['we, # -/']",we  ,%,MALE,5
+"['# [ {c and, } # + {c and then } ] [ i have my, + {f uh, } {f uh, } i have a ] seven month old granddaughter  /']",  c and    c and then    i have my  f uh  f uh  i have a  seven month old granddaughter  ,sd,FEMALE,1
+"['{c and, } {f uh, } her mother stays home  /']",c and  f uh  her mother stays home  ,sd,FEMALE,1
+"['{c and } [ [ she, + they ] live, + they live ] with us. {d you know, } [ in, + ] as orange county --']",c and    she  they  live  they live  with us d you know   in   as orange county ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- is really expensive. /'], is really expensive ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['they live with us  /'],they live with us  ,sd,FEMALE,1
+"['{c and so, } of course, we love it. because we get to see this cute little baby all the time.  /']",c and so  of course we love it because we get to see this cute little baby all the time  ,sd,FEMALE,1
+"['{c but, } {f uh, } {f uh, } she just, - /']",c but  f uh  f uh  she just  ,%,FEMALE,5
+"['{f uh, } she used to work [ in pre, + in the preschool ] [ [ and, + and, ] + and ] child care  /']",f uh  she used to work  in pre  in the preschool    and  and   and  child care  ,sd,FEMALE,1
+['{c and } she says after working in there - /'],c and  she says after working in there  ,sd,FEMALE,1
+"['[ {c and, } + {c and, } ] {d you know, } here she was a provider  /']", c and   c and   d you know  here she was a provider  ,sd,FEMALE,1
+"[""{c but, } {d you know, } there's only so much one person can do. /""]",c but  d you know  theres only so much one person can do ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""she said it's so awful.  /""]",she said its so awful  ,sd,FEMALE,1
+"[""she said she'll never put her child [ [ [ [ in a, + in a, ] + in a preca-, ] + in a p-, ] + in a preschool. ] /""]",she said shell never put her child     in a  in a   in a preca   in a p   in a preschool  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i'm sure there must be some good ones around here somewhere. /""]",im sure there must be some good ones around here somewhere ,sv,FEMALE,3
+['huh. /'],huh ,b,MALE,2
+"[""{c but } [ it's really, + it's [ really, + really ] ] very difficult #  /""]",c but   its really  its  really  really   very difficult   ,sv,FEMALE,3
+"['{c and, } # -/']",c and   ,%,FEMALE,5
+['# yeah. #  /'], yeah   ,b,MALE,2
+['what did you do when your kids were growing up?  /'],what did you do when your kids were growing up  ,qw,MALE,12
+"['were you, -/']",were you ,%,MALE,5
+"['{d well, } [ when, + when ] - /']",d well   when  when   ,%,FEMALE,5
+"['[ the, + {f uh, } the ] [ first, {f uh, } ten years, + {d see } first ten ] or twelve years, i stayed home. /']", the  f uh  the   first f uh  ten years  d see  first ten  or twelve years i stayed home ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, } {f uh, } {c then } after that [ i, + i ] went to work. /']",c and  f uh  c then  after that  i  i  went to work ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, } {f uh, } {f uh, } {f uh, } a couple of times i just, {f uh, } {f uh, } {d you know, } - /']",c and  f uh  f uh  f uh  a couple of times i just f uh  f uh  d you know   ,sd,FEMALE,1
+"['[ th-, + then ] i had one job  /']", th  then  i had one job  ,sd,FEMALE,1
+['{c and then } that job ran out because it was kind of a government seeded type job.  /'],c and then  that job ran out because it was kind of a government seeded type job  ,sd,FEMALE,1
+"['[ {c and then, } + {c and then } ] {d like } [ about, + ] later [ i, + i ] tried to get the baby to a baby-sitter.  /']", c and then   c and then   d like   about   later  i  i  tried to get the baby to a babysitter  ,sd,FEMALE,1
+"['supposed to be good, {f uh, } recommended person from the church - /']",supposed to be good f uh  recommended person from the church  ,sd,FEMALE,1
+['{c and } i knew her personally.  /'],c and  i knew her personally  ,sd,FEMALE,1
+['she had two kids of her own and everything.  /'],she had two kids of her own and everything  ,sd,FEMALE,1
+"[""{c but } i quit my job because i couldn't stand how she was taking care of my child. /""]",c but  i quit my job because i couldnt stand how she was taking care of my child ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{e i mean, } first of all, {f uh, } her children were sick all the time.  /']",e i mean  first of all f uh  her children were sick all the time  ,sd,FEMALE,1
+"['{c so } when my son stayed over there, he got sick. /']",c so  when my son stayed over there he got sick ,sd,FEMALE,1
+"['he got sick,  /']",he got sick  ,b^m,MALE,24
+['# yeah. # /'], yeah  ,b,MALE,2
+"['# [ same thing, # + same thing ] that [ the, + her ] kids had,  /']",  same thing   same thing  that  the  her  kids had  ,sd,FEMALE,1
+['right? /'],right ,^g,FEMALE,40
+['right.  /'],right  ,b^m,MALE,24
+"['# {d well, } # -/']", d well   ,%,MALE,5
+"[""# {c and so, } # {f uh, } we didn't take her over there until {d like } about eleven o'clock.  /""]", c and so   f uh  we didnt take her over there until d like  about eleven oclock  ,sd,FEMALE,1
+"[""{c then } [ he, + she'd ] take my son and her daughter over [ t-, + to ] kindergarten.  /""]",c then   he  shed  take my son and her daughter over  t  to  kindergarten  ,sd,FEMALE,1
+"['{c but } s-, - /']",c but  s  ,%,FEMALE,5
+"[""that day, {f uh, } i was saying now [ he, + he's ] sick.  /""]",that day f uh  i was saying now  he  hes  sick  ,sd,FEMALE,1
+"['{c and } [ she goes + {d well, } she goes, ] he has the same thing that all my kids have.  /']",c and   she goes  d well  she goes  he has the same thing that all my kids have  ,sd,FEMALE,1
+"[""that's what he got, {d you know. }  /""]",thats what he got d you know   ,sd,FEMALE,1
+"['goes, {d well, } okay,  /']",goes d well  okay  ,sd,FEMALE,1
+"[""{c so } it's not like he's going to infect her kids.   /""]",c so  its not like hes going to infect her kids   ,sd,FEMALE,1
+"['{c but } then what happened [ was, + is, ] i said, {f uh, } he just threw up  /']",c but  then what happened  was  is  i said f uh  he just threw up  ,sd,FEMALE,1
+['{c and } kindergarten starts at eleven thirty  /'],c and  kindergarten starts at eleven thirty  ,sd,FEMALE,1
+"[""{c so } she said {d well } she'll keep him home  /""]",c so  she said d well  shell keep him home  ,sd,FEMALE,1
+"[""{c and } he'll probably just sleep anyway. /""]",c and  hell probably just sleep anyway ,sd,FEMALE,1
+['<noise>.'],noise,x,MALE,8
+"['{d well, } you know, what  /']",d well  you know what  ,qh,FEMALE,26
+"['that woman [ sent her, + sent him ] to kindergarten.  /']",that woman  sent her  sent him  to kindergarten  ,sd,FEMALE,1
+['she sent him to kindergarten.  /'],she sent him to kindergarten  ,sd,FEMALE,1
+"['as soon as he went there, the teacher took one look at him  /']",as soon as he went there the teacher took one look at him  ,sd,FEMALE,1
+['{c and } he threw up again  /'],c and  he threw up again  ,sd,FEMALE,1
+"[""{c and } [ they put him in the nursery, + {f uh, } they put him in the nurse's office. ] /""]",c and   they put him in the nursery  f uh  they put him in the nurses office  ,sd,FEMALE,1
+"['((guess so)),  /']",guess so  ,ba,MALE,6
+['yeah. /'],yeah ,b,MALE,2
+"['{c and then } what happened [ was, + is, ] {d you know, } they gave her a call because they knew that she was my baby-sitter.  /']",c and then  what happened  was  is  d you know  they gave her a call because they knew that she was my babysitter  ,sd,FEMALE,1
+['called her - /'],called her  ,sd,FEMALE,1
+"[""{c and } they said, {f uh, } <swallowing> that he's sick.  /""]",c and  they said f uh  swallowing that hes sick  ,sd,FEMALE,1
+"[""{d well } she wasn't home. /""]",d well  she wasnt home ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,%,MALE,5
+"['{e i mean } [ her, + all her ] kids were sick  /']",e i mean   her  all her  kids were sick  ,sd,FEMALE,1
+"[""{c but } she wasn't home, {d right. }  /""]",c but  she wasnt home d right   ,sd,FEMALE,1
+"['[ {c and } her, + {c and } [ her, + her ] ] daughter that was in kindergarten with him also did not go to school because she was sick.  /']", c and  her  c and   her  her   daughter that was in kindergarten with him also did not go to school because she was sick  ,sd,FEMALE,1
+"[""{d now } [ why didn't he, + why didn't she ] keep him home with her?  /""]",d now   why didnt he  why didnt she  keep him home with her  ,qh,FEMALE,26
+"['no,  /']",no  ,nn,FEMALE,13
+"[""she didn't do that.  /""]",she didnt do that  ,sd,FEMALE,1
+"[""{c so, }  it got to the point where [ he's, + he's ] supposed to get out of, {f uh, } kindergarten {d like } about two thirty.  /""]",c so   it got to the point where  hes  hes  supposed to get out of f uh  kindergarten d like  about two thirty  ,sd,FEMALE,1
+['{c and } i had to leave work.  /'],c and  i had to leave work  ,sd,FEMALE,1
+"[""[ it was, + it was ] five o'clock in the evening  /""]", it was  it was  five oclock in the evening  ,sd,FEMALE,1
+['{c and } i found out he was still there at school.  /'],c and  i found out he was still there at school  ,sd,FEMALE,1
+['{c and } they were calling me  /'],c and  they were calling me  ,sd,FEMALE,1
+"[""{c and } they said somebody's got to pick him up.  /""]",c and  they said somebodys got to pick him up  ,sd,FEMALE,1
+"['{c and } i kept thinking that [ she was going to get picked up, + she was going to pick him up ] because she only lives [ in + ] {d like } two blocks away from the school.  /']",c and  i kept thinking that  she was going to get picked up  she was going to pick him up  because she only lives  in   d like  two blocks away from the school  ,sd,FEMALE,1
+['i was trying to get my husband to come and pick him up and all that kind of stuff.  /'],i was trying to get my husband to come and pick him up and all that kind of stuff  ,sd,FEMALE,1
+['{c and } he had a hundred and four fever.  /'],c and  he had a hundred and four fever  ,sd,FEMALE,1
+"[""they couldn't, {f uh, } give him anything because they're not allowed to at school and # everything. # /""]",they couldnt f uh  give him anything because theyre not allowed to at school and  everything  ,sd,FEMALE,1
+['# right. # /'], right  ,b,MALE,2
+['i was so furious.  /'],i was so furious  ,sd,FEMALE,1
+"['[ i, + i ] quit that job  /']", i  i  quit that job  ,sd,FEMALE,1
+['{c and } i stayed home for awhile longer.  /'],c and  i stayed home for awhile longer  ,sd,FEMALE,1
+"['then i went and got [ a, + {f uh, } a ] job in real estate where i can kind of adjust my time a little bit better. /']",then i went and got  a  f uh  a  job in real estate where i can kind of adjust my time a little bit better ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+['a little more flexibility.  /'],a little more flexibility  ,bf,MALE,20
+['you can # come and go. # /'],you can  come and go  ,bf,MALE,20
+"['# yeah,  /']", yeah  ,aa,FEMALE,4
+"[""{c but, } # {f uh, } i haven't had any [ good, + really very good ] # experience with child care </child_talking> </talking>. # /""]",c but   f uh  i havent had any  good  really very good   experience with child care childtalking talking  ,sd,FEMALE,1
+['# yeah.  /'], yeah  ,b,MALE,2
+"['[ when, + when ] # our kids were small we had a couple of, {f uh, } [ good, + good ] women who, {f uh, } would often [ c-, + {f uh, } get them to come ] to the house. /']", when  when   our kids were small we had a couple of f uh   good  good  women who f uh  would often  c  f uh  get them to come  to the house ,sd,MALE,1

@@ -1,0 +1,138 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['well, tom, just tonight, i was working on my car out of necessity,  /']",well tom just tonight i was working on my car out of necessity  ,sd,MALE,1
+"['and i had, uh, uh, had a long age-old problem of my bright lights not working,  /']",and i had uh uh had a long ageold problem of my bright lights not working  ,sd,MALE,1
+"['uh, this is the type of, uh, switch where you flip the, the lever, the turn signal on the column -- /']",uh this is the type of uh switch where you flip the the lever the turn signal on the column  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- and when i would, uh, put it in the bright light position the lights would go out completely,  /']", and when i would uh put it in the bright light position the lights would go out completely  ,sd,MALE,1
+['which is even worse than them just not getting bright <laughter>. /'],which is even worse than them just not getting bright laughter ,sv,MALE,3
+['exactly. /'],exactly ,aa,MALE,4
+"['and i had presumed that it was the switch,  /']",and i had presumed that it was the switch  ,sd,MALE,1
+"['and, uh, this is, uh, an older car,  /']",and uh this is uh an older car  ,sd,MALE,1
+"[""it's a seventy-two m g,  /""]",its a seventytwo m g  ,sd,MALE,1
+"['so i had to mail order the part, uh,  /']",so i had to mail order the part uh  ,sd,MALE,1
+"['which i had done,  /']",which i had done  ,sd,MALE,1
+"['and tonight i went out and, uh, at least hooked in the new part, only to discover that that apparently is not the problem,  /']",and tonight i went out and uh at least hooked in the new part only to discover that that apparently is not the problem  ,sd,MALE,1
+"[""it's not in the switch, because it does the same thing with the new switch. /""]",its not in the switch because it does the same thing with the new switch ,sd,MALE,1
+['oh. /'],oh ,b,MALE,2
+"[""so i'll be faced with having to return that product and, uh, hoping that, uh, you know, that they will accept it,  /""]",so ill be faced with having to return that product and uh hoping that uh you know that they will accept it  ,sd,MALE,1
+"[""although it's been removed from the box it's obviously not been really used. /""]",although its been removed from the box its obviously not been really used ,sd,MALE,1
+"[""did you do the diagnosis, or was it just an assumption that that's probably the part that failed? /""]",did you do the diagnosis or was it just an assumption that thats probably the part that failed ,qy,MALE,7
+"['uh, i had done what diagnosis i could, primarily by looking at a wiring diagram that i did have of the car --']",uh i had done what diagnosis i could primarily by looking at a wiring diagram that i did have of the car ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- and, uh, pretty much decided that that had to be the problem.  /']", and uh pretty much decided that that had to be the problem  ,+,MALE,0
+"['i talked to one mechanic about it,  /']",i talked to one mechanic about it  ,sd,MALE,1
+['and he suspected the switch also.  /'],and he suspected the switch also  ,sd,MALE,1
+"[""uh, but i've not, you know, - /""]",uh but ive not you know  ,%,MALE,5
+"[""i really don't know what the problem might be.  /""]",i really dont know what the problem might be  ,sd,MALE,1
+"['it, it, the other switch could be the main switch itself, uh, that turns the lights on or off, which is on the dashboard -- /']",it it the other switch could be the main switch itself uh that turns the lights on or off which is on the dashboard  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- uh, it might be tied into the equation somehow,  /']", uh it might be tied into the equation somehow  ,sv,MALE,3
+"['but, -/']",but ,%,MALE,5
+"['yeah, i know,  /']",yeah i know  ,b,MALE,2
+"['uh, when working with the, uh, flashers, there is, uh, usually a, a special fuse that operates the flashers.  /']",uh when working with the uh flashers there is uh usually a a special fuse that operates the flashers  ,sv,MALE,3
+['do you have a separate fuse for your high beam --'],do you have a separate fuse for your high beam ,qy,MALE,7
+['i --'],i ,no,MALE,31
+['-- as opposed to your low beam? /'], as opposed to your low beam ,+,MALE,0
+"[""-- i don't know,  /""]", i dont know  ,+,MALE,0
+['i should look at that.  /'],i should look at that  ,sv,MALE,3
+"[""i don't remember seeing one in the, uh, in the diagram -- /""]",i dont remember seeing one in the uh in the diagram  ,sd,MALE,1
+['diagram. /'],diagram ,^2,MALE,23
+"[""-- so i'll have to go back and look at that. /""]", so ill have to go back and look at that ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i don't even know if my current cars have a separate fuse.  /""]",i dont even know if my current cars have a separate fuse  ,sd,MALE,1
+"[""i know sometimes when you think there are things running while they're at the same unit, like the headlamp -- /""]",i know sometimes when you think there are things running while theyre at the same unit like the headlamp  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- you tend to think, well, there's one fuse operating the whole thing,  /""]", you tend to think well theres one fuse operating the whole thing  ,sd,MALE,1
+"['but sometimes the extra amperage that a high beam drives as opposed to a low beam requires, uh, the use of a, of a maybe a higher fuse. /']",but sometimes the extra amperage that a high beam drives as opposed to a low beam requires uh the use of a of a maybe a higher fuse ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""that's a good idea. /""]",thats a good idea ,sv,MALE,3
+"[""so, that's a possibility. /""]",so thats a possibility ,sv,MALE,3
+"[""what i've typically found when that, uh, - /""]",what ive typically found when that uh  ,sd,MALE,1
+"[""companies are pretty good about accepting returns on products like that when they're not needed after all,  /""]",companies are pretty good about accepting returns on products like that when theyre not needed after all  ,sv,MALE,3
+"[""and i hope that that's the case this time. /""]",and i hope that thats the case this time ,sd,MALE,1
+"['is this a, a mail order parts house that specializes in, in parts for parts for, uh, old imports? /']",is this a a mail order parts house that specializes in in parts for parts for uh old imports ,qy,MALE,7
+"['right,  /']",right  ,na,MALE,21
+['exactly -- /'],exactly  ,na,MALE,21
+"['who, -/']",who ,%,MALE,5
+"[""-- it's out of kansas --""]", its out of kansas ,sd,MALE,1
+['um -- /'],um  ,b,MALE,2
+['-- somewhere. /'], somewhere ,+,MALE,0
+"[""-- so, it's not j c whitney or somebody like that. /""]", so its not j c whitney or somebody like that ,qy^d,MALE,16
+"['no,  /']",no  ,nn,MALE,13
+"[""it's not.  /""]",its not  ,sd,MALE,1
+"['i also got a piece of chrome for the, the hood that they had indicated was the right part for this car,  /']",i also got a piece of chrome for the the hood that they had indicated was the right part for this car  ,sd,MALE,1
+"['but it is not either,  /']",but it is not either  ,sd,MALE,1
+"[""it's obviously doesn't quite fit,  /""]",its obviously doesnt quite fit  ,sd,MALE,1
+"['so it must be for a different year,  /']",so it must be for a different year  ,sd,MALE,1
+"[""so i'll have to try to return that as well. /""]",so ill have to try to return that as well ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['have you found any, uh, uh, reliable import service people in the metroplex? /']",have you found any uh uh reliable import service people in the metroplex ,qy,MALE,7
+"['well, i had one person that i used for years and years on this car,  /']",well i had one person that i used for years and years on this car  ,na,MALE,21
+"[""because i've owned this car since it was new,  /""]",because ive owned this car since it was new  ,sd,MALE,1
+"['and, uh, - /']",and uh  ,%,MALE,5
+"[""but it's over like in the brook hollow industrial district down on stemmons and --""]",but its over like in the brook hollow industrial district down on stemmons and ,sd,MALE,1
+"['oh, yeah. /']",oh yeah ,b,MALE,2
+['-- inwood area -- /'], inwood area  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- and i hadn't used him for some years,  /""]", and i hadnt used him for some years  ,sd,MALE,1
+['and the last time i called him back it turned out that he had further specialized  /'],and the last time i called him back it turned out that he had further specialized  ,sd,MALE,1
+"['instead of, uh, all import cars, he has narrowed it down to where he only works on, uh, german cars and {pause} german cars <laughter>. /']",instead of uh all import cars he has narrowed it down to where he only works on uh german cars and pause german cars laughter ,sd,MALE,1
+"[""i'll be darned. /""]",ill be darned ,ba,MALE,6
+"[""i'm not sure that he works on much else at all,  /""]",im not sure that he works on much else at all  ,sd,MALE,1
+"[""but he doesn't work on british cars any more, and gave me the name of somebody else to take a look at it.  /""]",but he doesnt work on british cars any more and gave me the name of somebody else to take a look at it  ,sd,MALE,1
+"['so, uh, uh, i may have to check with that person,  /']",so uh uh i may have to check with that person  ,sd,MALE,1
+"['as it turns out that one, that shop is near where i now work.  /']",as it turns out that one that shop is near where i now work  ,sd,MALE,1
+"[""so, i'll, uh, i should be able to take it in and check that part out.  /""]",so ill uh i should be able to take it in and check that part out  ,sd,MALE,1
+"[""i've not had to exchange any other parts recently, because they were defective.  /""]",ive not had to exchange any other parts recently because they were defective  ,sd,MALE,1
+"[""now, i've had, had pretty good luck,  /""]",now ive had had pretty good luck  ,sd,MALE,1
+"['i just, however, did, uh, have to get a, a, uh, one of these jam box portable dual cassette players, uh, repaired. /']",i just however did uh have to get a a uh one of these jam box portable dual cassette players uh repaired ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i purchased it at sam's,  /""]",i purchased it at sams  ,sd,MALE,1
+"['and i had assumed that it had a ninety day warranty,  /']",and i had assumed that it had a ninety day warranty  ,sd,MALE,1
+"['and i should have checked more carefully and done a better job of saving the receipt,  /']",and i should have checked more carefully and done a better job of saving the receipt  ,sv,MALE,3
+"[""because i didn't take it in right away, and let a whole year go by.  /""]",because i didnt take it in right away and let a whole year go by  ,sd,MALE,1
+"[""uh, some of the buttons didn't work right, where you had to actually physically hold them down to get it to record or to play,  /""]",uh some of the buttons didnt work right where you had to actually physically hold them down to get it to record or to play  ,sd,MALE,1
+"[""and as it turned out, it had a full year's warranty,  /""]",and as it turned out it had a full years warranty  ,sd,MALE,1
+['and i could have gotten it repaired for free  /'],and i could have gotten it repaired for free  ,sd,MALE,1
+['but --'],but ,sd,MALE,1
+"['oh, my goodness. /']",oh my goodness ,ba,MALE,6
+"['-- i had to take it in, /']", i had to take it in ,+,MALE,0
+['<throat_clearing>. /'],throatclearing ,x,MALE,8
+"['while it was in the shop i ended up finding the receipt that i thought had long since been lost,  /']",while it was in the shop i ended up finding the receipt that i thought had long since been lost  ,sd,MALE,1
+"[""uh, but it didn't do me any good, because i had, i had missed the window by about a week or two. /""]",uh but it didnt do me any good because i had i had missed the window by about a week or two ,sd,MALE,1
+"['oh, no. /']",oh no ,ba,MALE,6
+"[""so i didn't even,  i didn't really, uh, even bring it up when i went in to pick it up.  /""]",so i didnt even  i didnt really uh even bring it up when i went in to pick it up  ,sd,MALE,1
+"[""but, uh, that's really my only experience in the past year where i've had to take a product back because of a defect. /""]",but uh thats really my only experience in the past year where ive had to take a product back because of a defect ,sd,MALE,1
+"[""well, ours wasn't within the last year.  /""]",well ours wasnt within the last year  ,sd,MALE,1
+"[""i guess it's been within the last two years, uh,  /""]",i guess its been within the last two years uh  ,sd,MALE,1
+"['judy has an oldsmobile that we bought new,  /']",judy has an oldsmobile that we bought new  ,sd,MALE,1
+"[""and it's one with the, uh, electronic ignition and the computer controlled mixer, and, uh, - /""]",and its one with the uh electronic ignition and the computer controlled mixer and uh  ,sd,MALE,1
+"[""i don't know what else it all controls, but the fuel mixture and cruise control and things of that sort,  /""]",i dont know what else it all controls but the fuel mixture and cruise control and things of that sort  ,sd,MALE,1
+"['and we found that the, uh, uh, we were having two problems.  /']",and we found that the uh uh we were having two problems  ,sd,MALE,1
+"['it was idling fast, when you first started the engine, to the point that we park on a hill, under our car port,  /']",it was idling fast when you first started the engine to the point that we park on a hill under our car port  ,sd,MALE,1
+"['and, it, when you first dropped it into geared it would immediately want to back up into the alley,  /']",and it when you first dropped it into geared it would immediately want to back up into the alley  ,sd,MALE,1
+"['and knowing that, you always had to keep your foot on the brake hard,  /']",and knowing that you always had to keep your foot on the brake hard  ,sd,MALE,1
+['otherwise it would just wrench control away from you. /'],otherwise it would just wrench control away from you ,sd,MALE,1
+['good grief. /'],good grief ,ba,MALE,6
+"['and the other problem judy would have is occasionally she would, uh, be driving along, uh, decelerating, like coming to a stop sign, but not yet stopped at the stop sign -- /']",and the other problem judy would have is occasionally she would uh be driving along uh decelerating like coming to a stop sign but not yet stopped at the stop sign  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- and the engine would just quit.   /'], and the engine would just quit   ,sd,MALE,1
+['<laughter>. /'],laughter ,x,MALE,8
+"['so, we took it back to the, uh, oldsmobile place and asked them to check it out,  /']",so we took it back to the uh oldsmobile place and asked them to check it out  ,sd,MALE,1
+"['and at first they thought it was just a matter of timing,  /']",and at first they thought it was just a matter of timing  ,sd,MALE,1
+['so they adjusted timing  /'],so they adjusted timing  ,sd,MALE,1
+"[""and the problem didn't go away,  /""]",and the problem didnt go away  ,sd,MALE,1
+"['so we ended up taking it back again,  /']",so we ended up taking it back again  ,sd,MALE,1
+"[""and i don't know why they don't look at these things the first time around,  /""]",and i dont know why they dont look at these things the first time around  ,sd,MALE,1
+"['but the second time around they looked at their, uh, recall service and their service reports from region or headquarters whatever,  /']",but the second time around they looked at their uh recall service and their service reports from region or headquarters whatever  ,sd,MALE,1
+"['and, and they had a description of the exact problem we were experiencing that apparently was a programming error --']",and and they had a description of the exact problem we were experiencing that apparently was a programming error ,sd,MALE,1
+['huh. /'],huh ,b,MALE,2
+"['-- in the, uh, computer control unit,  /']", in the uh computer control unit  ,+,MALE,0
+"['which fortunately they replaced under warranty, because it was about a three hundred or three hundred and fifty dollar part -- /']",which fortunately they replaced under warranty because it was about a three hundred or three hundred and fifty dollar part  ,sd,MALE,1
+['my goodness. /'],my goodness ,ba,MALE,6
+"['-- and, uh, so once they replaced it, then the, the car seemed to work fine --']", and uh so once they replaced it then the the car seemed to work fine ,sd,MALE,1
+['huh. /'],huh ,b,MALE,2
+"['-- for a considerable period of time,  /']", for a considerable period of time  ,+,MALE,0
+"['and now it seems to be, - /']",and now it seems to be  ,sd,MALE,1
+"[""we don-, we're not experiencing the stalling,  /""]",we don were not experiencing the stalling  ,sd,MALE,1
+"[""but we're still experiencing a very uneven, -/""]",but were still experiencing a very uneven ,sd,MALE,1

@@ -1,0 +1,114 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<clicking> have you had that experience recently? /'],clicking have you had that experience recently ,qy,FEMALE,7
+"[""[ recently, + i can't really say recently.  ]  /""]", recently  i cant really say recently    ,ng,MALE,29
+"['{c but } i think  [ about, + {f uh, } about ] a year ago, {f uh, } i bought a product from some company down [ at, + {f uh, } in ] atlanta, georgia.  /']",c but  i think   about  f uh  about  a year ago f uh  i bought a product from some company down  at  f uh  in  atlanta georgia  ,sd,MALE,1
+"['i believe it was [ one of these, + {f uh, } one of these, ] {f uh, } mixers.  [ these, + {d like } these ] juice machines #  /']",i believe it was  one of these  f uh  one of these  f uh  mixers   these  d like  these  juice machines   ,sd,MALE,1
+"['{c and, }  {f uh } # --']",c and   f uh   ,sd,MALE,1
+"['# {f oh, } yeah. # /']", f oh  yeah  ,b,FEMALE,2
+"['-- [ the, + {f uh, } the ] blade they sent me at first that went into the machine, it looked, {d you know, } perfectly okay  /']",  the  f uh  the  blade they sent me at first that went into the machine it looked d you know  perfectly okay  ,+,MALE,0
+"['{c but } i found that, {f uh, } it was made of some material which actually ended up rusting --']",c but  i found that f uh  it was made of some material which actually ended up rusting ,sd,MALE,1
+['# oh. # /'], oh  ,b,FEMALE,2
+"['-- # {f uh, } # after, - /']",  f uh   after  ,+,MALE,0
+"['even, despite, {d you know, } diligent washing, [ it, + it ] got rusty after about, {f uh, } three weeks of use.   /']",even despite d you know  diligent washing  it  it  got rusty after about f uh  three weeks of use   ,sd,MALE,1
+"[""{c and } i don't think it was my fault because [ [ i-, + i, ] + {d you know, } i ] had made a point of {d like } drying it off and cleaning it  /""]",c and  i dont think it was my fault because   i  i   d you know  i  had made a point of d like  drying it off and cleaning it  ,sd,MALE,1
+"['{c but, }  {f uh, } [ it was really, + {f uh, } it was, ] - /']",c but   f uh   it was really  f uh  it was   ,%,MALE,5
+"['i had to send it back after  {d like, }  {d you know, } the third week because i realized [ it was + {d like, }  it was ] not, - /']",i had to send it back after  d like   d you know  the third week because i realized  it was  d like   it was  not  ,sd,MALE,1
+"['something was very, very wrong with the blade.  /']",something was very very wrong with the blade  ,sd,MALE,1
+"['{f uh, } what about you? /']",f uh  what about you ,qo,MALE,25
+"[""{d well, } i don't have so much trouble with products as service. /""]",d well  i dont have so much trouble with products as service ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i don't feel like that's as big a problem.  /""]",i dont feel like thats as big a problem  ,sv,FEMALE,3
+"[""i've had a few answering machines over the last two years just because i've had a lot of trouble with them working correctly. /""]",ive had a few answering machines over the last two years just because ive had a lot of trouble with them working correctly ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } i'm not convinced that any of them work a hundred percent. /""]",c and  im not convinced that any of them work a hundred percent ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } the one i have now is okay, most of the time. /']",f uh  the one i have now is okay most of the time ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but } that's it.  /""]",c but  thats it  ,sd,FEMALE,1
+"[""{c but } [ that's, + that's ] probably the worst.  /""]",c but   thats  thats  probably the worst  ,sd,FEMALE,1
+"[""my daughter has a charm bracelet i bought her that's guaranteed.  {f uh, }  james avery.  /""]",my daughter has a charm bracelet i bought her thats guaranteed  f uh   james avery  ,sd,FEMALE,1
+"[""i don't know if you have that up there  /""]",i dont know if you have that up there  ,sd,FEMALE,1
+"[""{c but } [ it, + it's ] a very good company.  # that # --""]",c but   it  its  a very good company   that  ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['-- sells sterling silver things  /'], sells sterling silver things  ,+,FEMALE,0
+['{c and } --'],c and  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } she has a charm bracelet with lots of charms on it, a lot of money into it by now -- /']", f uh  she has a charm bracelet with lots of charms on it a lot of money into it by now  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } the catch broke  /'], c and  the catch broke  ,sd,FEMALE,1
+['{c and } she was sitting in school on a carpet  /'],c and  she was sitting in school on a carpet  ,sd,FEMALE,1
+"['{c and } when she stood up, it caught and broke  /']",c and  when she stood up it caught and broke  ,sd,FEMALE,1
+['{c and } we took it back  /'],c and  we took it back  ,sd,FEMALE,1
+"['{c and } they said {f oh, } this was just obviously yanked. /']",c and  they said f oh  this was just obviously yanked ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['this was yanked.  /'],this was yanked  ,^q,FEMALE,19
+['{e i mean } they were so rude about it. /'],e i mean  they were so rude about it ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['{c and so } we wanted a different kind of catch  /'],c and so  we wanted a different kind of catch  ,sd,FEMALE,1
+"[""{c and } she said {d well } it's not guaranteed.  /""]",c and  she said d well  its not guaranteed  ,sd,FEMALE,1
+"[""{c and } i said, {d well } put it on because apparently nothing's guaranteed  /""]",c and  i said d well  put it on because apparently nothings guaranteed  ,sd,FEMALE,1
+['{c so } do it anyway. /'],c so  do it anyway ,^q,FEMALE,19
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c so } we got the kind we wanted  /'],c so  we got the kind we wanted  ,sd,FEMALE,1
+['{c and } i was really disappointed with that.  /'],c and  i was really disappointed with that  ,sd,FEMALE,1
+['i felt that this was a company that should have been more reliable -- /'],i felt that this was a company that should have been more reliable  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } i happened to need a birthday present for one of her friends  /'], c and  i happened to need a birthday present for one of her friends  ,sd,FEMALE,1
+['{c and } i called there to see if they had it  /'],c and  i called there to see if they had it  ,sd,FEMALE,1
+['{c and } the lady was very nice.  /'],c and  the lady was very nice  ,sd,FEMALE,1
+"['{c and } i said my goodness,  /']",c and  i said my goodness  ,sd,FEMALE,1
+"[""i said you've been very nice, what's your name.  /""]",i said youve been very nice whats your name  ,sd,FEMALE,1
+['{c and } she told me  /'],c and  she told me  ,sd,FEMALE,1
+['{c and } i said {d well } i really appreciate it.  /'],c and  i said d well  i really appreciate it  ,sd,FEMALE,1
+"['i said there seems to be a big attitude problem in that,']",i said there seems to be a big attitude problem in that,sd,FEMALE,1
+['store  /'],store  ,+,FEMALE,0
+['{c and } it turned out she was the assistant manager #  /'],c and  it turned out she was the assistant manager   ,sd,FEMALE,1
+"['{c so, }  # -/']",c so    ,%,FEMALE,5
+['right.  /'],right  ,aa,FEMALE,4
+"['{c so } i felt kind of good about that, {d you know. }  /']",c so  i felt kind of good about that d you know   ,sd,FEMALE,1
+"[""# i didn't # --""]", i didnt  ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""-- even know the person's name that had given <<mispronounced>> me the hard time or anything -- /""]", even know the persons name that had given mispronounced me the hard time or anything  ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"['-- {c but } i just felt like, {d well } at least i did something.  /']", c but  i just felt like d well  at least i did something  ,sd,FEMALE,1
+"[""maybe they'll fix it.  /""]",maybe theyll fix it  ,sd,FEMALE,1
+"['they might work on that, {d you know. } /']",they might work on that d you know  ,sd,FEMALE,1
+"['right,  /']",right  ,b,MALE,2
+['# right. # /'], right  ,b,MALE,2
+['# {c but } # i find attitudes are more of a problem.  /'], c but   i find attitudes are more of a problem  ,sv,FEMALE,3
+['service is more of a problem. /'],service is more of a problem ,sv,FEMALE,3
+"['i find, - /']",i find  ,%,MALE,5
+"['up here in the northeast, [ we have, + {f uh, } {d well } [ w-, + we ] have ] these mail order companies like l l bean  /']",up here in the northeast  we have  f uh  d well   w  we  have  these mail order companies like l l bean  ,sd,MALE,1
+"['{c and, } {f uh, } they are famous for, i guess, having really top-notch service.  /']",c and  f uh  they are famous for i guess having really topnotch service  ,sd,MALE,1
+"[""they've got, # {f uh } # -- -/""]",theyve got  f uh    ,%,MALE,5
+['# really. # /'], really  ,ba,FEMALE,6
+"[""-- {e i mean } [ [ [ i've, +  i've, ] + i, ] + i have ] friends and family who order from them because [ you can, + you can ] [ literally, +  {a i've heard stories where you can } literally ] buy something from them one year, wear it for a year and a half,  /""]", e i mean     ive   ive   i   i have  friends and family who order from them because  you can  you can   literally   a ive heard stories where you can  literally  buy something from them one year wear it for a year and a half  ,sd,MALE,1
+"['{c and } even after, like eighteen months of, {d you know, } reasonably satisfactory use, they will accept it in any condition  /']",c and  even after like eighteen months of d you know  reasonably satisfactory use they will accept it in any condition  ,sd,MALE,1
+"[""{c and } they will gladly, no questions asked, take it back if for some bizarre reason you decide you don't want it anymore.  /""]",c and  they will gladly no questions asked take it back if for some bizarre reason you decide you dont want it anymore  ,sd,MALE,1
+"[""{f uh, }  [  they'll, + they'll ] actually do things like this.  /""]",f uh     theyll  theyll  actually do things like this  ,sd,MALE,1
+"[""{e i mean } [ [ they're really, + they, ] + they ] [ go-, + ] bend over backwards service wise for you.  /""]",e i mean    theyre really  they   they   go   bend over backwards service wise for you  ,sd,MALE,1
+"[""[  i've, + {f uh } --""]",  ive  f uh  ,sd,MALE,1
+"[""that's really great. /""]",thats really great ,ba,FEMALE,6
+"[""-- i've ] found also a lot of companies nowadays,  [ have, + they have ] eight hundred numbers you can call.  /""]", ive  found also a lot of companies nowadays   have  they have  eight hundred numbers you can call  ,+,MALE,0
+"['i guess [ [ if, + if ] you call [ the e-, + any eight ] hundred number, + {f uh, }  if, [ you, + you ] can call up [ e-, + any eight ] hundred number  ] directory assistance,  [ and + ] you can get, {f uh, } the eight hundred number of the customer service support line for a number of companies.  /']",i guess   if  if  you call  the e  any eight  hundred number  f uh   if  you  you  can call up  e  any eight  hundred number   directory assistance   and   you can get f uh  the eight hundred number of the customer service support line for a number of companies  ,sd,MALE,1
+"[""{c and, }  {f um, } {d actually } i've tried that with a few companies lately.  /""]",c and   f um  d actually  ive tried that with a few companies lately  ,sd,MALE,1
+"[""{c and } [ they've, + most of them have ] been pretty good,  /""]",c and   theyve  most of them have  been pretty good  ,sd,MALE,1
+"['{c but } [ i, + i ] was, - /']",c but   i  i  was  ,%,MALE,5
+"['one reason why, [ i, + {d like } i ] buy a lot of clothing through mail order is that, {f uh, } if you buy through bean or though, - /']",one reason why  i  d like  i  buy a lot of clothing through mail order is that f uh  if you buy through bean or though  ,sd,MALE,1
+"[""{f uh, } i guess [ bean's, + one of bean's ] big competitors is land's end out in, {f uh, }  i guess it's wisconsin somewhere.  /""]",f uh  i guess  beans  one of beans  big competitors is lands end out in f uh   i guess its wisconsin somewhere  ,sd,MALE,1
+"[""[ [ they, + they  are, ] + {f uh, } they're ] very good # about # --""]",  they  they  are   f uh  theyre  very good  about  ,sd,MALE,1
+['# huh. # /'], huh  ,b,FEMALE,2
+"['-- {f uh, } insur-, - /']", f uh  insur  ,+,MALE,0
+['{d like } the customer is always right  /'],d like  the customer is always right  ,sd,MALE,1
+"['{c and } {d you know, } no matter how crabby you might be over the phone, they are very understanding  /']",c and  d you know  no matter how crabby you might be over the phone they are very understanding  ,sd,MALE,1
+"[""{c and, }  {f uh, } [ [ they usually get, + {d you know, } [ they, + they ] make things are, ] + they ma- make sure things are ] set properly if you're any way dissatisfied with their merchandise. /""]",c and   f uh    they usually get  d you know   they  they  make things are   they ma make sure things are  set properly if youre any way dissatisfied with their merchandise ,sd,MALE,1
+"[""that's really good.  /""]",thats really good  ,ba,FEMALE,6
+['it use to be like that. /'],it use to be like that ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,%,MALE,5
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""# i don't # think most places are like that anymore. /""]", i dont  think most places are like that anymore ,sv,FEMALE,3
+"['{d  well } [ [ i think, + i guess ] + nowadays [ with the, + {f uh, } with the ] economy the way it is, i guess,  ] - /']",d  well    i think  i guess   nowadays  with the  f uh  with the  economy the way it is i guess    ,sv,MALE,3
+"['[ there was a, + there was a ] story on the news tonight about how, because a lot of companies are, {f uh, } {d you know, } - /']", there was a  there was a  story on the news tonight about how because a lot of companies are f uh  d you know   ,sd,MALE,1
+"['things are getting rough out there,  /']",things are getting rough out there  ,sv,MALE,3
+"[""there's a lot of, {d you know, } - /""]",theres a lot of d you know   ,%,MALE,5
+"['the morale among employees tends to go down and that, in turn, {d like, } {d you know, } -/']",the morale among employees tends to go down and that in turn d like  d you know  ,sv,MALE,3

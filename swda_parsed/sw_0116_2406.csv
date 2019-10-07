@@ -1,0 +1,271 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['uh-huh. /'],uhhuh ,"fo_o_fw_""_by_bc",MALE,0
+['okay  /'],okay  ,b,MALE,2
+['movies.  /'],movies  ,sd,MALE,1
+"[""i haven't seen too many lately.  /""]",i havent seen too many lately  ,sd,MALE,1
+['i have kids  /'],i have kids  ,sd,MALE,1
+"['{c and } we went and  saw the rescuers down under, [ under, +']",c and  we went and  saw the rescuers down under  under ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['over ] [ the, + the ] break.  /']",over   the  the  break  ,+,MALE,0
+"['[ do, + do ] you have  kids you take to movies  /']", do  do  you have  kids you take to movies  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"['no,  /']",no  ,nn,MALE,13
+['no kids. /'],no kids ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""it's a walt disney movie  /""]",its a walt disney movie  ,sd,MALE,1
+"[""{c and } it didn't get [ as, +  {d you know, } as ] good a reviews as {d like } the little mermaid, their last one, and got all kinds of academy awards and things last year.  /""]",c and  it didnt get  as   d you know  as  good a reviews as d like  the little mermaid their last one and got all kinds of academy awards and things last year  ,sd,MALE,1
+"['{c but } this one [ was, +  i thought was ] excellent.  /']",c but  this one  was   i thought was  excellent  ,sd,MALE,1
+"['the  ((   )) , -/']",the       ,%,MALE,5
+['was that the animated version? /'],was that the animated version ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""it's animated.  /""]",its animated  ,sd,MALE,1
+"[""{c and } i can't believe  how good they're getting with their animation now.  /""]",c and  i cant believe  how good theyre getting with their animation now  ,sd,MALE,1
+"[""it's [ just, +   just ] the special effects, {d you know. }  /""]",its  just    just  the special effects d you know   ,sd,MALE,1
+"[""{c and } in this movie, [ this, + there's this ] boy  /""]",c and  in this movie  this  theres this  boy  ,sd,MALE,1
+"['{c and } he rescues this, {f uh, } bald eagle  /']",c and  he rescues this f uh  bald eagle  ,sd,MALE,1
+"[""[ {c and, } + {f uh, } {c and } ] it's a huge eagle,  {d you know, } wing span of twenty feet or something like that.  /""]", c and   f uh  c and   its a huge eagle  d you know  wing span of twenty feet or something like that  ,sd,MALE,1
+['{c and } the boy actually rides on his back  /'],c and  the boy actually rides on his back  ,sd,MALE,1
+"['{c and } he rides through the clouds, {d you know, }  /']",c and  he rides through the clouds d you know   ,sd,MALE,1
+"['{c and } you see him coming  out of the clouds, his head coming out and then the bird coming out,  /']",c and  you see him coming  out of the clouds his head coming out and then the bird coming out  ,sd,MALE,1
+"[""{c and } [ it, +  {d you know, } they're ] flying all over with it.  /""]",c and   it   d you know  theyre  flying all over with it  ,sd,MALE,1
+"['{c and } {e i mean, } i know [ they, + there ]  must have [ used, + been ] computers or  something for animation this day,  /']",c and  e i mean  i know  they  there   must have  used  been  computers or  something for animation this day  ,sd,MALE,1
+"['{c but } it was just so  real, realistic and  lifelike and good animation.  /']",c but  it was just so  real realistic and  lifelike and good animation  ,sd,MALE,1
+['it was a good show. /'],it was a good show ,sd,MALE,1
+['even better than roger rabbit insofar as animation? /'],even better than roger rabbit insofar as animation ,qy,MALE,7
+"['{d well, } roger was a composite one. /']",d well  roger was a composite one ,arp_nd,MALE,34
+['(( yeah )) . /'], yeah   ,b,MALE,2
+"[""[ there's one, + there's a ]   movie i've seen, roger rabbit.  /""]", theres one  theres a    movie ive seen roger rabbit  ,sd,MALE,1
+"[""that's not a recent movie,  /""]",thats not a recent movie  ,sd,MALE,1
+"['{c but, }  {f uh, } i enjoyed that show. /']",c but   f uh  i enjoyed that show ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""that was made  [ in + ] [ a few, +  i don't know, several ] years back, i guess. /""]",that was made   in    a few   i dont know several  years back i guess ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"[""[ latest, + latest ] one i've saw which  was a mistake to go see was lionheart,  /""]", latest  latest  one ive saw which  was a mistake to go see was lionheart  ,sd,MALE,1
+['had claude van damme. /'],had claude van damme ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ [ he was, + he's ] + of course, {f uh, }  i guess he's ] trained in this, {f uh, } martial arts of some sort,  /""]",  he was  hes   of course f uh   i guess hes  trained in this f uh  martial arts of some sort  ,sd,MALE,1
+"['{c but } the plot was bland,  /']",c but  the plot was bland  ,sd,MALE,1
+['the acting was bland.  /'],the acting was bland  ,sd,MALE,1
+['it was just mostly centered upon his abilities to -- -/'],it was just mostly centered upon his abilities to  ,sd,MALE,1
+"['chop them up, {f huh? } /']",chop them up f huh  ,^2,MALE,23
+"['-- yeah,  /']", yeah  ,aa,MALE,4
+"['chop them up,  /']",chop them up  ,b^m,MALE,24
+['exactly.  /'],exactly  ,aa,MALE,4
+"['{c and, } -/']",c and  ,%,MALE,5
+"[""<laughter> this is supposed to be [ the, + the ] guy that's, {f uh, } replaces   bruce lee or whatever [ or, +""]",laughter this is supposed to be  the  the  guy thats f uh  replaces   bruce lee or whatever  or ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['or ] the next chuck norris type of guy. /'],or  the next chuck norris type of guy ,+,MALE,0
+"[""{c or } he's singular i guess, {d you know. }  /""]",c or  hes singular i guess d you know   ,sd,MALE,1
+"['you know how they can make [ any of, + any single one of ] them in a movie to be a --']",you know how they can make  any of  any single one of  them in a movie to be a ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- [ super -- +'],  super  ,+,MALE,0
+['superstar. /'],superstar ,^2,MALE,23
+"['-- superstar ] of any sort, {d you know, } /']", superstar  of any sort d you know  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but } chuck norris, of course, could be just about equal,']",c but  chuck norris of course could be just about equal,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['if not more  /'],if not more  ,+,MALE,0
+"['[ {c or, } + {c and } ] all of them,  i guess, could be in that fashion,']", c or   c and   all of them  i guess could be in that fashion,sv,MALE,3
+['{f hum. } /'],f hum  ,%,MALE,5
+['or category. /'],or category ,+,MALE,0
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['it was about, {f uh, } a,']",it was about f uh  a,sd,MALE,1
+['((   )) .'],    ,%,MALE,5
+"[""french foreign legion fellow who deserts to go help his brother's wife [ who got, + who became ] a widow because he was selling drugs <laughter>, /""]",french foreign legion fellow who deserts to go help his brothers wife  who got  who became  a widow because he was selling drugs laughter ,+,MALE,0
+['<laughter>.'],laughter,x,MALE,8
+['{c and } he got killed. /'],c and  he got killed ,sd,MALE,1
+"['really uplifting, {f huh } <laughter>? /']",really uplifting f huh  laughter ,qy,MALE,7
+['{c so } he deserts  and goes to new york  /'],c so  he deserts  and goes to new york  ,sd,MALE,1
+"['{c and } he starts out by fighting to make money,  /']",c and  he starts out by fighting to make money  ,sd,MALE,1
+"['{c and then } he moves on to l a to [ where that, +  where she ] is to just help him out. /']",c and then  he moves on to l a to  where that   where she  is to just help him out ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ it was really, + {e i mean } the hollywood really must ]  think there's some real dummies out there or something.  /""]", it was really  e i mean  the hollywood really must   think theres some real dummies out there or something  ,sv,MALE,3
+"[""i don't know <laughter>. /""]",i dont know laughter ,h,MALE,15
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ i haven't heard, + i hadn't heard ]  much about that movie.  /""]", i havent heard  i hadnt heard   much about that movie  ,sd,MALE,1
+"['i, - /']",i  ,%,MALE,5
+['other than it was a chop them up movie.  /'],other than it was a chop them up movie  ,sd,MALE,1
+"[""{c but, }  {f uh, }  {d well, } i guess that's one i won't go see <laughter>. /""]",c but   f uh   d well  i guess thats one i wont go see laughter ,sd,MALE,1
+"['{d well, } it was worth the buck i guess. /']",d well  it was worth the buck i guess ,sd,MALE,1
+"['{f oh, } you went to the dollar movie?  /']",f oh  you went to the dollar movie  ,bf,MALE,20
+['yeah.  /'],yeah  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['they show up at the dollar movie right after they [ get, + come ] out.  /']",they show up at the dollar movie right after they  get  come  out  ,sd,MALE,1
+"[""{d you know } they're usually [ not, + not ] that great or didn't do that great anyway. /""]",d you know  theyre usually  not  not  that great or didnt do that great anyway ,sv,MALE,3
+"['a lot of, -/']",a lot of ,%,MALE,5
+['let me see.  /'],let me see  ,^h,MALE,27
+['let me see  /'],let me see  ,^h,MALE,27
+['another movie i watched. - /'],another movie i watched  ,sd,MALE,1
+"['{f uh, } i want to see, {f uh, } that new one, {f uh, } that won all those academy awards this year, dances with wolves. /']",f uh  i want to see f uh  that new one f uh  that won all those academy awards this year dances with wolves ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i haven't seen that.  /""]",i havent seen that  ,sd,MALE,1
+['have you seen that one yet? /'],have you seen that one yet ,qy,MALE,7
+['yeah. /'],yeah ,b,MALE,2
+"['[ [ what, + what, ] + what, ] -/']",  what  what   what  ,%,MALE,5
+"['[ i, + i ] absorbed all of that movie in one sitting.  /']", i  i  absorbed all of that movie in one sitting  ,sd,MALE,1
+"['{f uh, } i guess what made it so good was the [ cinema-, + cinematography, ] /']",f uh  i guess what made it so good was the  cinema  cinematography  ,sd,MALE,1
+"['[ the, + the ] wide open, the spaces, -/']", the  the  wide open the spaces ,bf,MALE,20
+"['yeah,  /']",yeah  ,aa,MALE,4
+['and the music  /'],and the music  ,sd,MALE,1
+"['{c and, }  {f uh, }   {d well, } it had an excellent story line.  /']",c and   f uh    d well  it had an excellent story line  ,sd,MALE,1
+['everything about it was good. /'],everything about it was good ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f um, } i thought an excellent one, too,  was misery with kathy bates and james caan.  /']",f um  i thought an excellent one too  was misery with kathy bates and james caan  ,sd,MALE,1
+"[""i'm not a james caan fan,  /""]",im not a james caan fan  ,sd,MALE,1
+['{c but } that was a well directed and acted movie. /'],c but  that was a well directed and acted movie ,sd,MALE,1
+['is that right? /'],is that right ,bh,MALE,18
+"[""i'd recommend it.  /""]",id recommend it  ,sd,MALE,1
+"[""it's a little on the violent side -- /""]",its a little on the violent side  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c but } then what movie isn't anymore. /""]", c but  then what movie isnt anymore ,qh,MALE,26
+"['right,  /']",right  ,aa,MALE,4
+['right.  /'],right  ,aa,MALE,4
+"['yeah,  /']",yeah  ,%,MALE,5
+"['our movies today,  it used to be x  /']",our movies today  it used to be x  ,sd,MALE,1
+"['[ {c and, } + {d you know, } {c and } ] p g -s used to be r -s  /']", c and   d you know  c and   p g s used to be r s  ,sd,MALE,1
+"['{c and, }  seems like the rating system,  {d you know, } is kind of switching that way a little bit <laughter>. /']",c and   seems like the rating system  d you know  is kind of switching that way a little bit laughter ,sv,MALE,3
+"['{d well, } i have no objections to it.  /']",d well  i have no objections to it  ,sd,MALE,1
+"[""it's just, {f uh, } - /""]",its just f uh   ,%,MALE,5
+"[""{c and } it's a matter of your taste, {f uh, } /""]",c and  its a matter of your taste f uh  ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"['{f oh, } yeah.  /']",f oh  yeah  ,b,MALE,2
+"[""it's just that, - /""]",its just that  ,%,MALE,5
+"['yeah,  /']",yeah  ,%,MALE,5
+"[""it's just that the rating system seems, {d you know, } instead of having x now,  they have what, n c seventeen? /""]",its just that the rating system seems d you know  instead of having x now  they have what n c seventeen ,qy^d,MALE,16
+['yeah. /'],yeah ,ny,MALE,9
+"['they just changed it because x had a connotation with it,  {d you know, }  /']",they just changed it because x had a connotation with it  d you know   ,sv,MALE,3
+"['{c so, } -/']",c so  ,%,MALE,5
+"[""{c and } even on those type they don't show what you expect. /""]",c and  even on those type they dont show what you expect ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+['<laughter>.'],laughter,x,MALE,8
+['a lot of those are really violent type movies. /'],a lot of those are really violent type movies ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+['really gory. /'],really gory ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['that seems to be the norm of most movies,  /']",that seems to be the norm of most movies  ,sv,MALE,3
+['{c but } --'],c but  ,"fo_o_fw_""_by_bc",MALE,0
+['yeah. /'],yeah ,b,MALE,2
+['-- what the hey.  /'], what the hey  ,+,MALE,0
+['this is america. /'],this is america ,"fo_o_fw_""_by_bc",MALE,0
+['let me see.  /'],let me see  ,^h,MALE,27
+"['one movie i saw, i guess it was a while  back, red october. /']",one movie i saw i guess it was a while  back red october ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['have you seen that one? /'],have you seen that one ,qy,MALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+['i have.  /'],i have  ,sd,MALE,1
+['that was pretty good. /'],that was pretty good ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+['i read the book before  /'],i read the book before  ,sd,MALE,1
+"['{c so } i knew the story line going in,  /']",c so  i knew the story line going in  ,sd,MALE,1
+['{c but } they changed some things in the movie.  /'],c but  they changed some things in the movie  ,sd,MALE,1
+"[""it wasn't the same.  /""]",it wasnt the same  ,sd,MALE,1
+"['i thought the book was better than the movie,  /']",i thought the book was better than the movie  ,sd,MALE,1
+['{c but } i thought the movie was really good as well. /'],c but  i thought the movie was really good as well ,sd,MALE,1
+['i always wait for the movie.  /'],i always wait for the movie  ,sd,MALE,1
+"[""i don't have time to read the book. /""]",i dont have time to read the book ,sd,MALE,1
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""i don't,  /""]",i dont  ,sd,MALE,1
+['i read  about one or  two thick novels like that a year.'],i read  about one or  two thick novels like that a year,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know, }  /']",d you know   ,+,MALE,0
+"[""that's about all the time  [ i can, + i can ] spare.  /""]",thats about all the time   i can  i can  spare  ,sd,MALE,1
+"['{c but } that was a good show i thought, {d you know. }  /']",c but  that was a good show i thought d you know   ,sd,MALE,1
+"['i read about how they did, {f uh, } an article on how they did all the special effects with the submarine.  /']",i read about how they did f uh  an article on how they did all the special effects with the submarine  ,sd,MALE,1
+"[""{d you know, } that wasn't a real submarine you saw in the water.  /""]",d you know  that wasnt a real submarine you saw in the water  ,sd,MALE,1
+"['[ it was, + it was ] all done in studio with smoke and mirrors and all the hollywood magic. /']", it was  it was  all done in studio with smoke and mirrors and all the hollywood magic ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['all those underwater scenes.  /'],all those underwater scenes  ,sd,MALE,1
+"['i thought, {d you know, } - /']",i thought d you know   ,%,MALE,5
+"['it looked to me like it was a real submarine,']",it looked to me like it was a real submarine,sd,MALE,1
+"['they  ((   )) , -/']",they       ,%,MALE,5
+"['that was in the water, {d you know. } /']",that was in the water d you know  ,+,MALE,0
+"[""that's the magic of hollywood, special effects. /""]",thats the magic of hollywood special effects ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['i hear this movie f x part two coming out is, {f uh, } pretty good. /']",i hear this movie f x part two coming out is f uh  pretty good ,sd,MALE,1
+['is that right? /'],is that right ,bh,MALE,18
+['did you ever see the original one? /'],did you ever see the original one ,qy,MALE,7
+"[""i didn't. /""]",i didnt ,na,MALE,21
+"['it was, {f uh, } - /']",it was f uh   ,sd,MALE,1
+"['you ought to rent the,  {f uh, } f x part one.  /']",you ought to rent the  f uh  f x part one  ,ad,MALE,22
+"[""it doesn't say part one,  /""]",it doesnt say part one  ,sd,MALE,1
+"[""{c but } [ it, + it's ] f slash x. /""]",c but   it  its  f slash x ,sd,MALE,1
+"[""{f huh. }  what's that about? /""]",f huh   whats that about ,qw,MALE,12
+"['a, {f uh, } special effects man who somehow  gets involved in this, {f um, } - /']",a f uh  special effects man who somehow  gets involved in this f um   ,sd,MALE,1
+"[""{f oh, } i'm not sure.  /""]",f oh  im not sure  ,h,MALE,15
+"[""i can't remember.  /""]",i cant remember  ,h,MALE,15
+"[""it's been a while since  i've seen it.  /""]",its been a while since  ive seen it  ,sd,MALE,1
+"['{c but } [ he, + he ] gets involved in some sort of bad dealings  with somebody  /']",c but   he  he  gets involved in some sort of bad dealings  with somebody  ,sd,MALE,1
+"['{c and } he has to go underground,  /']",c and  he has to go underground  ,sd,MALE,1
+['{c and } he uses all of his special  effects knowledge in doing what needs to be done. /'],c and  he uses all of his special  effects knowledge in doing what needs to be done ,sd,MALE,1
+['{f hm. } /'],f hm  ,%,MALE,5
+"['{c and, }  {f uh, } -/']",c and   f uh  ,%,MALE,5
+"['[ to, + to ] fool people  /']", to  to  fool people  ,bf,MALE,20
+"['{c and }  ((   )) , -/']",c and        ,%,MALE,5
+"['right,  /']",right  ,aa,MALE,4
+['and using makeup and using [ the -- +'],and using makeup and using  the  ,sd,MALE,1
+['all the tricks. /'],all the tricks ,^2,MALE,23
+['-- all the ] props and whatever to get to where he needs to go. /'], all the  props and whatever to get to where he needs to go ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['that sounds like an interesting concept. /'],that sounds like an interesting concept ,sv,MALE,3
+['{c but } you need to rent the first one first. /'],c but  you need to rent the first one first ,ad,MALE,22
+"[""to understand what's going on in the second? /""]",to understand whats going on in the second ,qy^d,MALE,16
+"['{f uh, } [ if, + if ] that is that the second  one follows the first.  /']",f uh   if  if  that is that the second  one follows the first  ,sd,MALE,1
+"[""i don't know if they have the, {f uh, } original actors on that first one to that one. /""]",i dont know if they have the f uh  original actors on that first one to that one ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""they're supposed to be  coming out with all these desert storm movies,""]",theyre supposed to be  coming out with all these desert storm movies,sd,MALE,1
+['oh. /'],oh ,b,MALE,2
+"['this summer, too <laughter>. /']",this summer too laughter ,+,MALE,0
+['i expected those. /'],i expected those ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['[ {e i mean, } hollywood, + {e i mean } they ]  were doing their dealings with that before they even got over there, i think. /']", e i mean  hollywood  e i mean  they   were doing their dealings with that before they even got over there i think ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['{d well, } they had some, - /']",d well  they had some  ,%,MALE,5
+"['in some   of those, {d you know, } [ they, + i guess they ] retitled some movies that were going to be about   lebanese [ [ [ and, + and, ] + {d you know, } and, ] +']",in some   of those d you know   they  i guess they  retitled some movies that were going to be about   lebanese    and  and   d you know  and  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['and ] americans  /'],and  americans  ,+,MALE,0
+"['{c and } they decide, {f oh, }  make it iraqis and americans, {d you know, }  /']",c and  they decide f oh   make it iraqis and americans d you know   ,sd,MALE,1
+"['{c and } they just change the title [ and, + {f uh, } and ]  reshot a few parts, {d you know, } [ where they, + {d yeah, } {d you know, } where they ] could.  /']",c and  they just change the title  and  f uh  and   reshot a few parts d you know   where they  d yeah  d you know  where they  could  ,sd,MALE,1
+"[""i guess they figured we [ wouldn't, + can't ] tell the difference between an, -/""]",i guess they figured we  wouldnt  cant  tell the difference between an ,sv,MALE,3
+"['actual names,']",actual names,bf,MALE,20
+['yeah. /'],yeah ,b,MALE,2
+['will not be used. /'],will not be used ,+,MALE,0
+['right. /'],right ,b,MALE,2
+['<laughter>.'],laughter,x,MALE,8
+['<laughter>.'],laughter,x,MALE,8
+"[""eventually i'm sure they will come out with [ [ the, +""]",eventually im sure they will come out with   the ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['the, ] + the ] proper names. /']",the   the  proper names ,+,MALE,0
+['right .  /'],right   ,aa,MALE,4
+"['it was such a, - /']",it was such a  ,sv,MALE,3
+"['it,  - /']",it   ,%,MALE,5
+"[""i guess  [ they, + they'll ] probably come out with a lot of movies, {d you know. }  /""]",i guess   they  theyll  probably come out with a lot of movies d you know   ,sv,MALE,3
+"['[ it was, + it was ]  such a rout though, {d you know. }  /']", it was  it was   such a rout though d you know   ,sv,MALE,3
+"[""i don't know, {d you know, }  /""]",i dont know d you know   ,h,MALE,15
+"['they probably do the story  of someone who was shot down early in the war or something and how he survived [ [ or, +']",they probably do the story  of someone who was shot down early in the war or something and how he survived   or ,sd,MALE,1
+"['latest story, -/']",latest story ,^2,MALE,23
+"['or about, ] + or about ] those two newsmen or  whatever that got captured. /']",or about   or about  those two newsmen or  whatever that got captured ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['kevin costner i understand is  supposed to be play schwartzkopf, supposedly. /']",kevin costner i understand is  supposed to be play schwartzkopf supposedly ,sd,MALE,1
+['is that right? /'],is that right ,qy,MALE,7
+"[""i don't know. /""]",i dont know ,no,MALE,31
+['<laughter>.'],laughter,x,MALE,8
+"[""that's just one of the many rumors that floats around. /""]",thats just one of the many rumors that floats around ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['or what you read. /'],or what you read ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""{d well, } i think we've probably, -/""]",d well  i think weve probably ,sv,MALE,3
+"['pretty much used up the tape, i guess. /']",pretty much used up the tape i guess ,^2,MALE,23
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""it's been about five minutes.  /""]",its been about five minutes  ,sd,MALE,1
+"[""it's been nice talking with you. /""]",its been nice talking with you ,fc,MALE,10
+['same.  /'],same  ,fc,MALE,10
+"[""{c and, }  {f uh, } we'll --""]",c and   f uh  well ,fc,MALE,10
+"['keep on watching those movies, {f huh? } /']",keep on watching those movies f huh  ,ad,MALE,22
+['-- <laughter> talk to you on the next go around. /'], laughter talk to you on the next go around ,+,MALE,0
+['okay.  /'],okay  ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,MALE,10
+['adios. /'],adios ,fc,MALE,10

@@ -1,0 +1,110 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hi <laughter>. /'],hi laughter ,fp,MALE,32
+['hi. /'],hi ,fp,MALE,32
+"['{f uh, } {f uh } <throat_clearing> [ i, + i ] should say something. /']",f uh  f uh  throatclearing  i  i  should say something ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""that i'm the, {f uh, } least informed, - /""]",that im the f uh  least informed  ,sv,MALE,3
+['this is totally accidental that i have to talk about this topic.  /'],this is totally accidental that i have to talk about this topic  ,sd,MALE,1
+"[""{c but, } [ it's, + i'm ] the least informed person in the whole united states. /""]",c but   its  im  the least informed person in the whole united states ,sv,MALE,3
+['<laughter>.'],laughter,x,MALE,8
+['this has not been determined yet  /'],this has not been determined yet  ,sd,MALE,1
+"[""{c but } [ [ i, + i, ] + i've ] never read a newspaper in my entire life  /""]",c but    i  i   ive  never read a newspaper in my entire life  ,sd,MALE,1
+"[""{c and } [ [ i've, + i, ] + i ] never watch t v news nor listen to the news on the radio unless i'm just happening to be listening to music and they slip it on in the car radio before i can turn it off.  /""]",c and    ive  i   i  never watch t v news nor listen to the news on the radio unless im just happening to be listening to music and they slip it on in the car radio before i can turn it off  ,sd,MALE,1
+"['# {c but, } # -/']", c but   ,%,MALE,5
+['# any # particular reason?  <throat_clearing>. /'], any  particular reason  throatclearing ,qy,MALE,7
+"['{d well, } no.  /']",d well  no  ,nn,MALE,13
+"[""[ [ i, + i've, ] + i've ] explored that with lots of people.  /""]",  i  ive   ive  explored that with lots of people  ,sd,MALE,1
+"[""{f uh, } they've tried to lock me up and, {f uh, } things like that.  /""]",f uh  theyve tried to lock me up and f uh  things like that  ,sd,MALE,1
+"[""{c but, } {f uh, } {f uh, } i'm basically not interested  /""]",c but  f uh  f uh  im basically not interested  ,sd,MALE,1
+"['{c and } i also find [ the, + ] {f uh, } everything is so slick and superficial and misguided [ and mis-, + and off the, ] {f uh, } {f uh, } - /']",c and  i also find  the   f uh  everything is so slick and superficial and misguided  and mis  and off the  f uh  f uh   ,sv,MALE,3
+"['what am i trying to say. {f uh, } -/']",what am i trying to say f uh  ,t1,MALE,37
+['<noise>.'],noise,x,MALE,8
+['i do learn about things.'],i do learn about things,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['{f huh } <<very faint>>. /'],f huh  very faint ,%,MALE,5
+['largely from friends  /'],largely from friends  ,+,MALE,0
+['{c and } i occasionally will read something like the new york review of books.  /'],c and  i occasionally will read something like the new york review of books  ,sd,MALE,1
+"['{d you know, } someone will write a book about something <laughter>  /']",d you know  someone will write a book about something laughter  ,sd,MALE,1
+"[""{c and then } i'll learn all about this thing that was in the news two years earlier. /""]",c and then  ill learn all about this thing that was in the news two years earlier ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but } it, - /']",c but  it  ,%,MALE,5
+"['{c and } somehow, - /']",c and  somehow  ,%,MALE,5
+"[""{c and } anything i participated in or know about when i read about it in the paper is always [ so, + ] {f uh, } covered from such a funny and superficial perspective that i don't have much confidence in it.  /""]",c and  anything i participated in or know about when i read about it in the paper is always  so   f uh  covered from such a funny and superficial perspective that i dont have much confidence in it  ,sv,MALE,3
+"[""{c but, } {e i mean, } i don't think it's just that i'm lazy <laughter>. /""]",c but  e i mean  i dont think its just that im lazy laughter ,sd,MALE,1
+"[""i really don't,  /""]",i really dont  ,aa,MALE,4
+"['[ [ ((i, + i)), ] + i ] like to refer to this as sort of consumer report phenomenon.']",  i  i   i  like to refer to this as sort of consumer report phenomenon,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['which is everybody that i know <inhaling> reads consumer reports so the people who do feel that consumer reports does a wholly inadequate job in their area of particular interest.'],which is everybody that i know inhaling reads consumer reports so the people who do feel that consumer reports does a wholly inadequate job in their area of particular interest,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but, } assume that they do a reasonable job in other areas.']",c but  assume that they do a reasonable job in other areas,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } without thinking that there were people [ in, + ] who think each other [ areas, + area ] [ of, + of ] specialty - /']",f uh  without thinking that there were people  in   who think each other  areas  area   of  of  specialty  ,+,MALE,0
+"['{c and, } {f uh, } i guess you could explain it two ways.  /']",c and  f uh  i guess you could explain it two ways  ,sv,MALE,3
+"[""[ {c and, } + {c and } ] the cynical view is, <noise> {d well } these things aren't doing a very good job at all.  /""]", c and   c and   the cynical view is noise d well  these things arent doing a very good job at all  ,sv,MALE,3
+['{c and } the view that i would rather take <laughter> --'],c and  the view that i would rather take laughter ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- is that there's a different amount of information you need when you're particularly interested in a topic or, {f uh, } particularly interested in buying something [ as a, + # {d you know } # --""]", is that theres a different amount of information you need when youre particularly interested in a topic or f uh  particularly interested in buying something  as a   d you know   ,+,MALE,0
+['# right. # /'], right  ,b,MALE,2
+['-- as a ] hobbyist versus when you want to go out and buy a blender because you need to mix things. /'], as a  hobbyist versus when you want to go out and buy a blender because you need to mix things ,+,MALE,0
+['# yeah. # /'], yeah  ,b,MALE,2
+['# {c and } # i think the same thing is true with news.  /'], c and   i think the same thing is true with news  ,sv,MALE,3
+"[""if you want to just have an idea as to what's going on, most papers, [ a-, + and ] especially the better papers, [ the, + the ] times, the wall street journal, the --""]",if you want to just have an idea as to whats going on most papers  a  and  especially the better papers  the  the  times the wall street journal the ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- washington post give you a reasonable idea. /'], washington post give you a reasonable idea ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""if you were deeply involved in it, then you immediately realize that what they print is stuff that you probably knew already and the stuff that you want they're not printing because the average person # doesn't need or want to know # --""]",if you were deeply involved in it then you immediately realize that what they print is stuff that you probably knew already and the stuff that you want theyre not printing because the average person  doesnt need or want to know  ,sv,MALE,3
+['# right.  /'], right  ,b,MALE,2
+"[""doesn't want, # -/""]",doesnt want  ,%,MALE,5
+['-- that much. /'], that much ,+,MALE,0
+"['let me ask, by the way, just for the record.  /']",let me ask by the way just for the record  ,oo_co_cc,MALE,36
+"[""[ [ i, + i'm, ] + i ] totally concede that intelligent people read these things and intelligent people write them.  /""]",  i  im   i  totally concede that intelligent people read these things and intelligent people write them  ,sd,MALE,1
+"[""{d so, } {e i mean, } i'm not being elitist in that sense, i hope. {f uh, } /""]",d so  e i mean  im not being elitist in that sense i hope f uh  ,sv,MALE,3
+"[""{d well, } {e i mean, } [ there's, + there's ] a reasonable question as to whether it's worth the amount of time it takes <laughter> to keep up on things <noise>. /""]",d well  e i mean   theres  theres  a reasonable question as to whether its worth the amount of time it takes laughter to keep up on things noise ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['# what, # -/']", what  ,%,MALE,5
+['# {c and } # most people think it is  /'], c and   most people think it is  ,sv,MALE,3
+"[""{c and } [ i can, + i can, ] {d you know, } accept that some people think it's not # and can find better ways to use it. # /""]",c and   i can  i can  d you know  accept that some people think its not  and can find better ways to use it  ,sd,MALE,1
+['# yeah.  /'], yeah  ,b,MALE,2
+"['by the way when you # say most people think it is,  /']",by the way when you  say most people think it is  ,sd,MALE,1
+"[""i think it's like ninety-nine point ninety-nine think it is, # percent. # /""]",i think its like ninetynine point ninetynine think it is  percent  ,sv,MALE,3
+"[""# i don't # think it's that high. /""]", i dont  think its that high ,ar,MALE,28
+"[""{f oh, } # you don't? # /""]",f oh   you dont  ,qy^d,MALE,16
+"[""# i know # a lot of people who may <clicking> watch the t v news in the evening but don't spend the time to actually read a newspaper. /""]", i know  a lot of people who may clicking watch the t v news in the evening but dont spend the time to actually read a newspaper ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"[""{c and } i think they're saying {d well } if something's really important, i'll at least find out that it happened. /""]",c and  i think theyre saying d well  if somethings really important ill at least find out that it happened ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""[ {c and, } + {c and } ] [ that's a, + that's, is a ] reasonable start  /""]", c and   c and    thats a  thats is a  reasonable start  ,sv,MALE,3
+"[""{c and } for awhile i didn't read a newspaper when i came out here because i didn't find one that i liked.  /""]",c and  for awhile i didnt read a newspaper when i came out here because i didnt find one that i liked  ,sd,MALE,1
+"['{f uh, } {c and } if something important happened, it was covered on t v  /']",f uh  c and  if something important happened it was covered on t v  ,sd,MALE,1
+"['{c and } i could then go [ and, + and ] pick up newspapers [ if, + if ] it were important enough to read about. /']",c and  i could then go  and  and  pick up newspapers  if  if  it were important enough to read about ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } i imagine you get the same level of (( )) something that you cared about happened, you'd find out from friends or other channels <laughter>. /""]",c and  i imagine you get the same level of   something that you cared about happened youd find out from friends or other channels laughter ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['{f uh, } i did, on [ the, + {f uh, } <lipsmack> the ] supreme court hearings, [ ar-, + ] [ the, + ] for, {f uh, } {f uh, } the whole business of, {f uh, } - /']",f uh  i did on  the  f uh  lipsmack the  supreme court hearings  ar    the   for f uh  f uh  the whole business of f uh   ,sd,MALE,1
+"['{d see } i actually # have [ a, + a, ] # -/']",d see  i actually  have  a  a   ,%,MALE,5
+"['# clarence thomas #  or, -/']", clarence thomas   or ,bf,MALE,20
+"['yeah,  /']",yeah  ,aa,MALE,4
+['the thomas and anita hill business. /'],the thomas and anita hill business ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"[""{e [ i, +  i ] mean } [ that's, + that's ] the closest thing.  /""]",e  i   i  mean   thats  thats  the closest thing  ,sd,MALE,1
+['i deeply cared about that. /'],i deeply cared about that ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } {c and } i sort of had planned to have dinner with a friend of mine  /']",f uh  c and  i sort of had planned to have dinner with a friend of mine  ,sd,MALE,1
+"['{c and } when i arrived at her house, she was engrossed in that.  /']",c and  when i arrived at her house she was engrossed in that  ,sd,MALE,1
+"['we ended up watching it for a couple of hours.  zooming out and grabbing something to eat and then zooming back and [ ea-, + watching ] it some more.  /']",we ended up watching it for a couple of hours  zooming out and grabbing something to eat and then zooming back and  ea  watching  it some more  ,sd,MALE,1
+['{c and } i thought that was terrific because she actually helped me understand what was going on.  /'],c and  i thought that was terrific because she actually helped me understand what was going on  ,sd,MALE,1
+"[""{c but } even then, i didn't end up doing it on my own.  {f uh, } {f uh, } /""]",c but  even then i didnt end up doing it on my own  f uh  f uh  ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['i stayed <laughter> as far away from those as i could. /'],i stayed laughter as far away from those as i could ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""# i # decided i didn't want to waste the time  /""]", i  decided i didnt want to waste the time  ,sd,MALE,1
+"['i had, i guess, five years ago now, wasted that kind of time with oliver north hearings.']",i had i guess five years ago now wasted that kind of time with oliver north hearings,sv,MALE,3
+"['right,  /']",right  ,b,MALE,2
+['right.  /'],right  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"[""and afterwards, decided that what i had gotten out of it just wasn't worth the time i put in.""]",and afterwards decided that what i had gotten out of it just wasnt worth the time i put in,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['and that these things are just very slow in seeing information --'],and that these things are just very slow in seeing information ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+['-- come out. /'], come out ,+,MALE,0
+"['do you ever read, -/']",do you ever read ,qy,MALE,7

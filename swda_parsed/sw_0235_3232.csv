@@ -1,0 +1,166 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['i guess our topic is, {f um, } advice about going to college. /']",i guess our topic is f um  advice about going to college ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['do you have children of your own? /'],do you have children of your own ,qy,FEMALE,7
+"['{f oh, } no,  /']",f oh  no  ,nn,FEMALE,13
+"[""i don't have any children,  /""]",i dont have any children  ,sd,FEMALE,1
+"[""{c but } i'm still going to college. /""]",c but  im still going to college ,sd,FEMALE,1
+"['{f oh, } are you? /']",f oh  are you ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['what school are you going to? /'],what school are you going to ,qw,FEMALE,12
+['n c state. /'],n c state ,sd,FEMALE,1
+['{f oh. }  are you enjoying it? /'],f oh   are you enjoying it ,qy,FEMALE,7
+"[""{f um, } {d well, } it's a lot of work <laughter>. /""]",f um  d well  its a lot of work laughter ,sd,FEMALE,1
+"['<laughter>  are you working on your, {f um } --']",laughter  are you working on your f um  ,qy,FEMALE,7
+"[""my bachelor's. /""]",my bachelors ,^2,FEMALE,23
+"[""-- bachelor's degree? /""]", bachelors degree ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['{c and } what field of study are you in? /'],c and  what field of study are you in ,qw,FEMALE,12
+"[""{f um, } it's actually in computer science -- /""]",f um  its actually in computer science  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } i have a special interest in voice i o. /'], c and  i have a special interest in voice i o ,sd,FEMALE,1
+"[""{f oh, } {d well, } that's neat.  /""]",f oh  d well  thats neat  ,ba,FEMALE,6
+['are you from north carolina? /'],are you from north carolina ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i'm actually from amarillo, texas, originally. /""]",im actually from amarillo texas originally ,sd,FEMALE,1
+"['{f oh, } are you really? /']",f oh  are you really ,bh,FEMALE,18
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{f oh. }  {d well, } what took you to north carolina? /']",f oh   d well  what took you to north carolina ,qw,FEMALE,12
+"['{f oh, } {f um, } the service. /']",f oh  f um  the service ,sd,FEMALE,1
+"['{f oh, } i see. /']",f oh  i see ,bk,FEMALE,14
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d well, } that was one of the things i was thinking about in school, {f um, }  /']",d well  that was one of the things i was thinking about in school f um   ,sd,FEMALE,1
+['i went to texas tech out in lubbock --'],i went to texas tech out in lubbock ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, }  {f uh, } i had a friend,  my roommate went to tech also,  /']", c and   f uh  i had a friend  my roommate went to tech also  ,+,FEMALE,0
+['{c but } she was from new mexico -- /'],c but  she was from new mexico  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } she had to pay out of state tuition -- /'], c and  she had to pay out of state tuition  ,sd,FEMALE,1
+['ooh. /'],ooh ,ba,FEMALE,6
+"['-- {c and } i think that would have, {f uh, } played a real big part of my decision -- /']", c and  i think that would have f uh  played a real big part of my decision  ,sd,FEMALE,1
+['<laughter>  it would have played a major part in mine. /'],laughter  it would have played a major part in mine ,sd,FEMALE,1
+"['-- {d yeah, } because, {f um, } she was pay-, - /']", d yeah  because f um  she was pay  ,sd,FEMALE,1
+['of course back then it was so much cheaper than it is now.  /'],of course back then it was so much cheaper than it is now  ,sd,FEMALE,1
+['it was like four dollars a semester hour -- /'],it was like four dollars a semester hour  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and so } i was going to school for, {d you know, } just a few hundred dollars a semester,  /']", c and so  i was going to school for d you know  just a few hundred dollars a semester  ,sd,FEMALE,1
+['{c and } she was paying forty dollars an hour -- /'],c and  she was paying forty dollars an hour  ,sd,FEMALE,1
+"['golly, /']",golly ,ba,FEMALE,6
+['-- {c so } she paid ten times as much because she was out of state. /'], c so  she paid ten times as much because she was out of state ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""luckily i've paid in state tuition the whole time. /""]",luckily ive paid in state tuition the whole time ,sd,FEMALE,1
+"[""{f oh, } that's good.  /""]",f oh  thats good  ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['{c so } i think that would be one thing i would definitely consider <laughter> --'],c so  i think that would be one thing i would definitely consider laughter ,sd,FEMALE,1
+"['uh-huh, {f um, } /']",uhhuh f um  ,b,FEMALE,2
+"['-- try to find a school within the state that, {f um, } i liked well enough to attend. /']", try to find a school within the state that f um  i liked well enough to attend ,+,FEMALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['the second thing is some colleges only offer the, {f uh, } liberal arts --']",the second thing is some colleges only offer the f uh  liberal arts ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ and, + ] {f uh, } whereas like state, they offer engineering courses -- /']",  and   f uh  whereas like state they offer engineering courses  ,+,FEMALE,0
+"['right,  /']",right  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- {c so } depending on what your major is, or medical, you might want to  [ atteck-, some, +  {f um, } attend somewhere ] like tech -- /']", c so  depending on what your major is or medical you might want to   atteck some   f um  attend somewhere  like tech  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+"['-- {c and, }  {f um, } aside from the, {f uh, } - /']", c and   f um  aside from the f uh   ,%,FEMALE,5
+"[""{d well } some schools may even give you financial aid, where another one won't. /""]",d well  some schools may even give you financial aid where another one wont ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""that's true,  /""]",thats true  ,ba,FEMALE,6
+"['that was something else i had, was, i had government aid, of course,  /']",that was something else i had was i had government aid of course  ,sd,FEMALE,1
+"[""{c but, }  {f uh, } it was wonderful, because i got one of those grants that you don't have to repay -- /""]",c but   f uh  it was wonderful because i got one of those grants that you dont have to repay  ,sd,FEMALE,1
+"['{f oh, } really. /']",f oh  really ,b,FEMALE,2
+"['-- {c and, }  yeah,  /']", c and   yeah  ,%,FEMALE,5
+['it was so nice -- /'],it was so nice  ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+"['-- it paid most of my tuition, and, {f um, } a lot of the book costs and that kind of thing  /']", it paid most of my tuition and f um  a lot of the book costs and that kind of thing  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"[""wow, that's great. /""]",wow thats great ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['i really, -/']",i really ,b,FEMALE,2
+['was it a pell grant? /'],was it a pell grant ,qy,FEMALE,7
+"[""i'm sorry, what did you say? /""]",im sorry what did you say ,br,FEMALE,30
+['what kind of grant was it? /'],what kind of grant was it ,qw,FEMALE,12
+"['{d well, } it was called a b e o g, a basic equal opportunity grant -- /']",d well  it was called a b e o g a basic equal opportunity grant  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } it was from the government,  /']", c and  it was from the government  ,sd,FEMALE,1
+"[""{c and } [ it was based, + at first it was based ] on my parents' income.  /""]",c and   it was based  at first it was based  on my parents income  ,sd,FEMALE,1
+"[""my parents had five children and really didn't make enough money to send any of us to school. /""]",my parents had five children and really didnt make enough money to send any of us to school ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and so, } {f uh, } because based on the number of children and the amount of money, {f uh, } my father brought in, i got a small grant -- /']",c and so  f uh  because based on the number of children and the amount of money f uh  my father brought in i got a small grant  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but } then after that, i was on my own, working and, {d you know, } trying to go to school on my own.  /']", c but  then after that i was on my own working and d you know  trying to go to school on my own  ,sd,FEMALE,1
+"['{c so then } i got a real big grant, because the --']",c so then  i got a real big grant because the ,sd,FEMALE,1
+['wow. /'],wow ,ba,FEMALE,6
+"[""-- amount of money i was making really didn't compare <laughter>. /""]", amount of money i was making really didnt compare laughter ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so, }  it was kind of nice. /']",c so   it was kind of nice ,sv,FEMALE,3
+['{f um. } /'],f um  ,%,FEMALE,5
+"[""i don't know if those are still available or not,  /""]",i dont know if those are still available or not  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""{f uh, } i'm not quite, - /""]",f uh  im not quite  ,%,FEMALE,5
+"[""[ there's, + there's ] a lot of different organizations [ who, + {f uh, } who ] do give grants,  /""]", theres  theres  a lot of different organizations  who  f uh  who  do give grants  ,sd,FEMALE,1
+"[""{c but, }  {f uh, } <inhaling> i'm not exactly sure which ones they are and how much, [ they, + {d you know, } they ] generally run. /""]",c but   f uh  inhaling im not exactly sure which ones they are and how much  they  d you know  they  generally run ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['this was great,  /']",this was great  ,sd,FEMALE,1
+"['it was just based on, {d you know, } how much your tuition costs and everything,  /']",it was just based on d you know  how much your tuition costs and everything  ,sd,FEMALE,1
+"['{c and } generally it paid everything,  /']",c and  generally it paid everything  ,sd,FEMALE,1
+['{c so } --'],c so  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- i went to school about three years of my four for almost nothing,  /']", i went to school about three years of my four for almost nothing  ,+,FEMALE,0
+"['{c so } that was, -/']",c so  that was ,%,FEMALE,5
+"[""{d golly, } that's great. /""]",d golly  thats great ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['it was really nice. /'],it was really nice ,sv,FEMALE,3
+"['{f oh, } another thing.  /']",f oh  another thing  ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""[ i've got a, + i've got a ] degree from another college -- /""]", ive got a  ive got a  degree from another college  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, }  {f uh, } something that might play a part is the size of the college. /']", c and   f uh  something that might play a part is the size of the college ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['{f uh, }  ((   ))  the smaller schools can give you [ a lot, + {f uh, } a lot ] more specialized instruction --']",f uh        the smaller schools can give you  a lot  f uh  a lot  more specialized instruction ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and attention than the larger schools -- /'], and attention than the larger schools  ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- in the larger schools you get caught up in the bureaucracy,  /']", in the larger schools you get caught up in the bureaucracy  ,sv,FEMALE,3
+['[ {c and } -- +'], c and   ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } ] they just give you a teacher's assistants, {d you know } -- /""]", c and   they just give you a teachers assistants d you know   ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- instead of a scholar you get a t a -- /'], instead of a scholar you get a t a  ,sd,FEMALE,1
+"[""that's right. /""]",thats right ,ba,FEMALE,6
+"[""-- {c and, }  {f uh, } you don't get near the, {f uh, } quality of education <cough>,  /""]", c and   f uh  you dont get near the f uh  quality of education cough  ,sv,FEMALE,3
+"[""{c and } as well, the, {f uh, } smaller schools often times don't cost as much. /""]",c and  as well the f uh  smaller schools often times dont cost as much ,sd,FEMALE,1
+"[""{f um, } i didn't know that. /""]",f um  i didnt know that ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['{f um. }  {d well, } i guess the only comparison i had ever heard was between [ a, + a ] christian college, because i thought about attending abilene christian --']",f um   d well  i guess the only comparison i had ever heard was between  a  a  christian college because i thought about attending abilene christian ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- instead of texas tech -- /'], instead of texas tech  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } of course the price was just astronomical compared to tech -- /'], c and  of course the price was just astronomical compared to tech  ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+['-- the christian college was so much more expensive.  /'], the christian college was so much more expensive  ,sd,FEMALE,1
+"['{c but } i guess some of the other smaller colleges [ might, + might ] be a lot different. /']",c but  i guess some of the other smaller colleges  might  might  be a lot different ,sv,FEMALE,3
+"[""{f um } <sniffing>.  {f oh, } [ i, + at state, i ] think it's just a waste of somebody's money to go there <laughter> -- /""]",f um  sniffing  f oh   i  at state i  think its just a waste of somebodys money to go there laughter  ,sv,FEMALE,3
+['really? /'],really ,bh,FEMALE,18
+"[""-- it's really a shame because of, {d you know, } the instruction -- /""]", its really a shame because of d you know  the instruction  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- {f um, } i'd rather go to any other college, {d you know, } in the state,  /""]", f um  id rather go to any other college d you know  in the state  ,sd,FEMALE,1
+"[""{c and } i would definitely get my money's worth, {f uh, } much better than state. /""]",c and  i would definitely get my moneys worth f uh  much better than state ,sv,FEMALE,3
+"['yeah, {f huh. } /']",yeah f huh  ,b,FEMALE,2
+"[""it's kind of unfortunate, because [ they've, + they've ] just grown so big that they just don't care about the students any more. /""]",its kind of unfortunate because  theyve  theyve  just grown so big that they just dont care about the students any more ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""you're just a number. /""]",youre just a number ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""[ they're, + they're ] bent on, {f uh, } seeing [ how much land, + how much more land ] they can get, and [ how much, + {f uh, } how much ] of the campus they can build up -- /""]", theyre  theyre  bent on f uh  seeing  how much land  how much more land  they can get and  how much  f uh  how much  of the campus they can build up  ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- {c and, }  {f uh } -- -/']", c and   f uh   ,%,FEMALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- yeah,  /']", yeah  ,%,FEMALE,5
+"[""it's really a bad situation here. /""]",its really a bad situation here ,sv,FEMALE,3
+"[""{f oh, } that's a shame.  /""]",f oh  thats a shame  ,ba,FEMALE,6
+"['{d well, } [ i, + i ] felt a little cheated at tech, also.  /']",d well   i  i  felt a little cheated at tech also  ,sd,FEMALE,1
+"['once i got into my, - /']",once i got into my  ,sd,FEMALE,1
+"['i, {f um, } majored in, -/']",i f um  majored in ,sd,FEMALE,1

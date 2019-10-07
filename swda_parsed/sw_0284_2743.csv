@@ -1,0 +1,92 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['hi norma. /'],hi norma ,fp,FEMALE,32
+['hi. /'],hi ,fp,FEMALE,32
+"[""have you  taken anything back lately, {f uh, } that you've bought? /""]",have you  taken anything back lately f uh  that youve bought ,qy,FEMALE,7
+"[""{d well } the only thing we've taken back recently are plants.""]",d well  the only thing weve taken back recently are plants,sd,FEMALE,1
+['# {d well } why? # /'], d well  why  ,qw,FEMALE,12
+"['# shrubbery, that # were guaranteed  /']", shrubbery that  were guaranteed  ,+,FEMALE,0
+['{c and } we had no problem with it. /'],c and  we had no problem with it ,sd,FEMALE,1
+['very good. /'],very good ,ba,FEMALE,6
+"['we [ got our mo-, + got our money ] back. /']",we  got our mo  got our money  back ,sd,FEMALE,1
+['good.  /'],good  ,ba,FEMALE,6
+"['{d well } [ wh-, + ] do you think that, {f uh, } consumer [ goods, + goods  ] are generally getting better, or worse in quality? /']",d well   wh   do you think that f uh  consumer  goods  goods   are generally getting better or worse in quality ,qy,FEMALE,7
+"[""{d well, } <<pause>> i believe they're better. /""]",d well  pause i believe theyre better ,sd,FEMALE,1
+['i do too.  /'],i do too  ,aa,FEMALE,4
+"['i believe about ten years ago that we went through a terrible time,  /']",i believe about ten years ago that we went through a terrible time  ,sv,FEMALE,3
+"[""{c but } i don't, - /""]",c but  i dont  ,%,FEMALE,5
+"[""[ i, + i ] believe that they're better now,  /""]", i  i  believe that theyre better now  ,sd,FEMALE,1
+"['{d you know, } wh-, -/']",d you know  wh ,%,FEMALE,5
+['i think so.  /'],i think so  ,sv,FEMALE,3
+"[""i don't think they're shoddy, not as shoddy.  /""]",i dont think theyre shoddy not as shoddy  ,sv,FEMALE,3
+"['electrical appliances i think are pretty good, [ r-, + reliable. ] /']",electrical appliances i think are pretty good  r  reliable  ,sv,FEMALE,3
+"[""however, i didn't like it very well when the transmission went out on my car with sixty-three thousand miles on it. /""]",however i didnt like it very well when the transmission went out on my car with sixtythree thousand miles on it ,sv,FEMALE,3
+['right <laughter>. /'],right laughter ,b,FEMALE,2
+"[""<laughter>  {c and } i don't like it very well if, when my electric blanket that was only one year old went out [ at, +  {f uh, } on ] one side. /""]",laughter  c and  i dont like it very well if when my electric blanket that was only one year old went out  at   f uh  on  one side ,sv,FEMALE,3
+"['{f oh, } did you return it? /']",f oh  did you return it ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['i had moved away. /'],i had moved away ,sd,FEMALE,1
+"['no,  /']",no  ,b^m,FEMALE,24
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['i had taken the first one back.  /'],i had taken the first one back  ,sd,FEMALE,1
+"[""i didn't think that it heated well enough.  /""]",i didnt think that it heated well enough  ,sd,FEMALE,1
+"['it never did get anything  but just moderately warm,  /']",it never did get anything  but just moderately warm  ,sd,FEMALE,1
+['took it back  /'],took it back  ,sd,FEMALE,1
+"[""{c and, }  {f uh, } the people told me {d well } that's the way it's supposed to be  /""]",c and   f uh  the people told me d well  thats the way its supposed to be  ,sd,FEMALE,1
+['{c and } i fell for it  /'],c and  i fell for it  ,sd,FEMALE,1
+"['{c and, } {f uh, } when i got this one [ it did,  a lit-, +  it heated a little ] bit warmer  /']",c and  f uh  when i got this one  it did  a lit   it heated a little  bit warmer  ,sd,FEMALE,1
+['{c and then } after one year it started heating only on one side. /'],c and then  after one year it started heating only on one side ,sd,FEMALE,1
+"['huh,  /']",huh  ,b,FEMALE,2
+['{c so } {c either } you or your husband can be warm  but not both <laughter>. /'],c so  c either  you or your husband can be warm  but not both laughter ,bf,FEMALE,20
+"['<laughter>  also, i took an iron back after having it only one year. /']",laughter  also i took an iron back after having it only one year ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{d now } i figure [ th-, + ] {f uh, } anybody that is dumb enough to iron, needs to have an iron that will last a long time,  /']",d now  i figure  th   f uh  anybody that is dumb enough to iron needs to have an iron that will last a long time  ,sv,FEMALE,3
+['{c and } one year of ironing only once a week is not long enough for it to last. /'],c and  one year of ironing only once a week is not long enough for it to last ,sv,FEMALE,3
+"['no,  /']",no  ,aa,FEMALE,4
+['huh-uh.  /'],huhuh  ,b,FEMALE,2
+['did they replace it? /'],did they replace it ,qy,FEMALE,7
+"['{d well } without even any question,  /']",d well  without even any question  ,sd,FEMALE,1
+['{c but } i think it was the store. /'],c but  i think it was the store ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['wal-mart. /'],walmart ,sd,FEMALE,1
+"['wal-mart,  /']",walmart  ,b^m,FEMALE,24
+"['i was going to say, it must have been wal-mart. /']",i was going to say it must have been walmart ,sd,FEMALE,1
+['yes <laughter>. /'],yes laughter ,aa,FEMALE,4
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c and, }  {f uh, } {d well, } have you been buying any clothes lately? any new clothes? /']",c and   f uh  d well  have you been buying any clothes lately any new clothes ,qy,FEMALE,7
+"[""i haven't bought any new clo-, - /""]",i havent bought any new clo  ,ng,FEMALE,29
+['{d well } the last thing i bought was a dress last summer.  /'],d well  the last thing i bought was a dress last summer  ,sd,FEMALE,1
+"['{c and } the buttons turned on it [ ove-, + over ] the winter.  /']",c and  the buttons turned on it  ove  over  the winter  ,sd,FEMALE,1
+['the buttons tarnished slightly  /'],the buttons tarnished slightly  ,sd,FEMALE,1
+['{c and } i have not gone back about it. /'],c and  i have not gone back about it ,sd,FEMALE,1
+"['that was poor quality, i think. /']",that was poor quality i think ,sv,FEMALE,3
+"['i think it is too,  /']",i think it is too  ,sv,FEMALE,3
+['{c and } it was an expensive dress. /'],c and  it was an expensive dress ,sd,FEMALE,1
+"[""i wondered if it weren't expensive, /""]",i wondered if it werent expensive ,sv,FEMALE,3
+['# yes  /'], yes  ,aa,FEMALE,4
+['it was.  # /'],it was   ,sd,FEMALE,1
+['# {c and } they should # have put buttons on it that would last forever. /'], c and  they should  have put buttons on it that would last forever ,sv,FEMALE,3
+"[""that's right,  /""]",thats right  ,aa,FEMALE,4
+"[""that's what i think too.  /""]",thats what i think too  ,sv,FEMALE,3
+"['{c and } one [ [ belt loop, + the wo-, ] + {f uh, } {d you know, } {d like } the [ chain link, + chain belt ] loop -- ]']",c and  one   belt loop  the wo   f uh  d you know  d like  the  chain link  chain belt  loop  ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+['-- half of it raveled out.  /'], half of it raveled out  ,+,FEMALE,0
+"['{c and } that was, i believe a leslie faye dress  /']",c and  that was i believe a leslie faye dress  ,sd,FEMALE,1
+"['{c and } it was, i think, over a hundred dollars. /']",c and  it was i think over a hundred dollars ,sd,FEMALE,1
+['you spent that much on your dresses? /'],you spent that much on your dresses ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"[""i don't usually,  /""]",i dont usually  ,sd,FEMALE,1
+['{c but } i did that one. /'],c but  i did that one ,sd,FEMALE,1
+"[""you're really divulging very personal information. /""]",youre really divulging very personal information ,sv,FEMALE,3
+"['<laughter>  {c but } i think it should have been better than that, for that money, is what i mean. /']",laughter  c but  i think it should have been better than that for that money is what i mean ,sv,FEMALE,3
+"['{f oh, } of course, i do too.  /']",f oh  of course i do too  ,sv,FEMALE,3
+"[""{d well } i believe that we've been talking about five minutes. /""]",d well  i believe that weve been talking about five minutes ,sv,FEMALE,3
+"['<breathing>  <laughter>  okay,  /']",breathing  laughter  okay  ,b,FEMALE,2
+['i think so. /'],i think so ,sv,FEMALE,3
+"['{c and } norma, it is just wonderful to talk to you. /']",c and  norma it is just wonderful to talk to you ,fc,FEMALE,10
+"['good talking to you too,  /']",good talking to you too  ,fc,FEMALE,10
+"[""i've enjoyed it <laughter>. /""]",ive enjoyed it laughter ,fc,FEMALE,10
+"['you are a good one to talk about consumer goods, because you keep up on it all the time. /']",you are a good one to talk about consumer goods because you keep up on it all the time ,fc,FEMALE,10
+"[""<laughter>  {d well, } we'll be talking to you later. /""]",laughter  d well  well be talking to you later ,fc,FEMALE,10
+"['bye, bye. /']",bye bye ,fc,FEMALE,10
+"['bye, bye. /']",bye bye ,fc,FEMALE,10

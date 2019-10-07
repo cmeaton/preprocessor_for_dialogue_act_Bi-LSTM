@@ -1,0 +1,245 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{d well, } my favorite, probably, all time t v show is star trek.  /']",d well  my favorite probably all time t v show is star trek  ,sd,FEMALE,1
+"['{c and } i would (( )) it like that, - /']",c and  i would   it like that  ,sd,FEMALE,1
+"['[ i, + i ] like the adventure of it.']", i  i  like the adventure of it,sd,FEMALE,1
+['uh-huh <throat_clearing>. /'],uhhuh throatclearing ,b,MALE,2
+"['and the idea [ that, + that ] we would survive long enough to get to that point and be able to do these fantastic things in space. /']",and the idea  that  that  we would survive long enough to get to that point and be able to do these fantastic things in space ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and then } i {d like } the, - /']",c and then  i d like  the  ,sd,FEMALE,1
+['they have a new one now.  /'],they have a new one now  ,sd,FEMALE,1
+['the star trek the next generation.'],the star trek the next generation,sd,FEMALE,1
+['right <throat_clearing>. /'],right throatclearing ,b,MALE,2
+"[""which it's an all new cast,  but kind of the same idea,  going out to new places [ and, + and ] doing new things and finding out about different people,  /""]",which its an all new cast  but kind of the same idea  going out to new places  and  and  doing new things and finding out about different people  ,+,FEMALE,0
+"[""{c and } [ i've, + i've ] always liked that show probably the very best. /""]",c and   ive  ive  always liked that show probably the very best ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""i think i've actually seen a number of star treks, one way or  another over the years.   {f uh, } although i never watched it regularly.  /""]",i think ive actually seen a number of star treks one way or  another over the years   f uh  although i never watched it regularly  ,sd,MALE,1
+"[""i'm certainly acquainted with [ the character -- +""]",im certainly acquainted with  the character  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- the characters. ]  /'], the characters   ,+,MALE,0
+"[""{c and then } i've seen some of the star trek movies. /""]",c and then  ive seen some of the star trek movies ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['those, - /']",those  ,%,FEMALE,5
+['the movies are good too. /'],the movies are good too ,sv,FEMALE,3
+['<cough>.'],cough,x,MALE,8
+"[""{c and } [ i, + i ] guess [ all, + most ] of the shows i like are, are kind of along the same line because they're all adventure  <laughter>. /""]",c and   i  i  guess  all  most  of the shows i like are are kind of along the same line because theyre all adventure  laughter ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ when i, + when i ] started thinking about this, [ that + ] those are some of my favorite shows, mcgyver, because [ it's, + it's ] only one person there, [ more than, + ] {f uh, } {d you know, } instead of a cast --""]", when i  when i  started thinking about this  that   those are some of my favorite shows mcgyver because  its  its  only one person there  more than   f uh  d you know  instead of a cast ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- of people,  /']", of people  ,+,FEMALE,0
+"[""{c but } he's always going out and inventing new things out of scrap, and grabbing what he can and, {d you know, } pieces of baling wire [ and, + and ]  a few tires and all of a sudden he's got a hang glider  /""]",c but  hes always going out and inventing new things out of scrap and grabbing what he can and d you know  pieces of baling wire  and  and   a few tires and all of a sudden hes got a hang glider  ,sd,FEMALE,1
+"['{c and } <laughter>, -/']",c and  laughter ,%,FEMALE,5
+"[""i don't think [ i, + i've ] even heard of that show. /""]",i dont think  i  ive  even heard of that show ,sd,MALE,1
+"[""you haven't? /""]",you havent ,qy^d,FEMALE,16
+"[""it's called mcgyver? /""]",its called mcgyver ,qy^d,MALE,16
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{c and } [ what is, + what is ] he? /']",c and   what is  what is  he ,qw,MALE,12
+"[""he's like a semigovernment type agent.  who [ goes out then to, + {f uh, } works for ] the phoenix foundation, supposedly. /""]",hes like a semigovernment type agent  who  goes out then to  f uh  works for  the phoenix foundation supposedly ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, }  {f uh, } [ h-, + his ] big thing is that he can take [ pieces of, + little bits ] and  pieces of string and baling wire and turn them into fantastic different things.  /']",c and   f uh   h  his  big thing is that he can take  pieces of  little bits  and  pieces of string and baling wire and turn them into fantastic different things  ,sd,FEMALE,1
+['he took a car battery and some wire and two washers one time and made a welder. /'],he took a car battery and some wire and two washers one time and made a welder ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['<laughter>  {c so } [ he, + he ] does all kinds of strange things like that. /']",laughter  c so   he  he  does all kinds of strange things like that ,sd,FEMALE,1
+"['{f oh, } great.  /']",f oh  great  ,ba,MALE,6
+"['boeing ought to hire him and give him a junkyard,']",boeing ought to hire him and give him a junkyard,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['and see if he could build a seven forty-seven out of it. /'],and see if he could build a seven fortyseven out of it ,+,MALE,0
+['<laughter> see what we can come up with.  /'],laughter see what we can come up with  ,bf,FEMALE,20
+"['do you like the, {f uh, } news shows, twenty twenty, sixty minutes, those kind of things? /']",do you like the f uh  news shows twenty twenty sixty minutes those kind of things ,qy,FEMALE,7
+"['{d well, } {f uh, } i used to watch sixty minutes as a matter of fact,  /']",d well  f uh  i used to watch sixty minutes as a matter of fact  ,sd,MALE,1
+"['[ {c and } + {f uh, } {c and } ] i used to like the show very much. /']", c and   f uh  c and   i used to like the show very much ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, }  unfortunately i find getting rid of your t v set, you do throw out [ some, + some ] of the baby,']",c but   unfortunately i find getting rid of your t v set you do throw out  some  some  of the baby,sv,MALE,3
+['some of the --'],some of the ,^2,FEMALE,23
+['with the bath water. /'],with the bath water ,+,MALE,0
+"['-- little things,  /']", little things  ,+,FEMALE,0
+['yeah. /'],yeah ,aa,FEMALE,4
+"['{c and } {f uh, } i just decided i had to do that.   i think, in part because it was easy for me to become addicted to it,  /']",c and  f uh  i just decided i had to do that   i think in part because it was easy for me to become addicted to it  ,sd,MALE,1
+['{e i mean } i could just sit mindlessly in front of a t v set for hours. /'],e i mean  i could just sit mindlessly in front of a t v set for hours ,sd,MALE,1
+['{f uh. } /'],f uh  ,%,FEMALE,5
+"['{c and } i just realized, i was sort of like an alcoholic,  /']",c and  i just realized i was sort of like an alcoholic  ,sd,MALE,1
+"[""if i didn't get the booze out of the house, i was going to drink. /""]",if i didnt get the booze out of the house i was going to drink ,sv,MALE,3
+['oh. /'],oh ,b,FEMALE,2
+['{d so. } -/'],d so  ,%,MALE,5
+"[""i guess i haven't ever had any trouble with that.  /""]",i guess i havent ever had any trouble with that  ,sd,FEMALE,1
+"['[ i have more or less, + i have my favorite shows ]  /']", i have more or less  i have my favorite shows   ,sd,FEMALE,1
+"['{c and } i usually make time in my day or my week, {d you know, } to watch those. /']",c and  i usually make time in my day or my week d you know  to watch those ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c but, }  for the most part, [ i try, + i have small kids and i try ] and keep it on just a minimum amount of time, really when they're up. /""]",c but   for the most part  i try  i have small kids and i try  and keep it on just a minimum amount of time really when theyre up ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. <<clears throat>> /'],yeah clears throat ,b,MALE,2
+"[""{c because } they're, - /""]",c because  theyre  ,%,FEMALE,5
+"['i guess [ [ that, + that, ] + that ] falls  ((   )) , - /']",i guess   that  that   that  falls        ,%,FEMALE,5
+['{c and } one of my other favorite shows is sesame street because of the kids.  /'],c and  one of my other favorite shows is sesame street because of the kids  ,sd,FEMALE,1
+['i like that real well. /'],i like that real well ,sd,FEMALE,1
+"['right,  /']",right  ,b,MALE,2
+"['{d well, } when my kids were little, i did have a t v set  /']",d well  when my kids were little i did have a t v set  ,sd,MALE,1
+"['{c and } i did watch a lot of sesame street and a lot of electric company, as well. /']",c and  i did watch a lot of sesame street and a lot of electric company as well ,sd,MALE,1
+"[""i don't think they have that on anymore. /""]",i dont think they have that on anymore ,sd,FEMALE,1
+['{d well } that would be a shame. /'],d well  that would be a shame ,sv,MALE,3
+"[""i haven't seen the electric company in a long time.  /""]",i havent seen the electric company in a long time  ,sd,FEMALE,1
+"['[ i, + i ] remember it when i was younger [ of, + ] {d you know, } catching it on p b s,  /']", i  i  remember it when i was younger  of   d you know  catching it on p b s  ,sd,FEMALE,1
+"[""{c but, }  {f uh, } i don't think they show, - /""]",c but   f uh  i dont think they show  ,sd,FEMALE,1
+"['it must be in, - /']",it must be in  ,sd,FEMALE,1
+"[""maybe it's in, - /""]",maybe its in  ,sv,FEMALE,3
+"['if it was in repeats, - /']",if it was in repeats  ,sd,FEMALE,1
+"[""{c but } they're not making new ones. /""]",c but  theyre not making new ones ,sd,FEMALE,1
+['huh. /'],huh ,b,MALE,2
+"[""i haven't seen it in a long time.  /""]",i havent seen it in a long time  ,sd,FEMALE,1
+['{c but } sesame street is still really good. /'],c but  sesame street is still really good ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['how about mister rogers,  /']",how about mister rogers  ,qw,MALE,12
+['is he still around? /'],is he still around ,qy,MALE,7
+['yes.  /'],yes  ,ny,FEMALE,9
+['yeah.  /'],yeah  ,ny,FEMALE,9
+['they still show mister rogers.  /'],they still show mister rogers  ,sd,FEMALE,1
+"[""i don't think he's making new ones,  /""]",i dont think hes making new ones  ,sv,FEMALE,3
+['{c but } they repeat all the old ones. /'],c but  they repeat all the old ones ,sd,FEMALE,1
+['i see.  /'],i see  ,b,MALE,2
+['i see. /'],i see ,b,MALE,2
+"[""{c so } that's still a real good show too.  /""]",c so  thats still a real good show too  ,sv,FEMALE,3
+"['i, - /']",i  ,%,FEMALE,5
+['that one tends to come on earlier in the day than i want to turn the t v on <laughter>. /'],that one tends to come on earlier in the day than i want to turn the t v on laughter ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['sesame street comes on from {d like } nine to ten, which is a good time  /']",sesame street comes on from d like  nine to ten which is a good time  ,sv,FEMALE,3
+"['{c and } everybody is up and had breakfast and dressed and ready to go,  /']",c and  everybody is up and had breakfast and dressed and ready to go  ,sv,FEMALE,3
+"[""{c so }  it's - /""]",c so   its  ,%,FEMALE,5
+"[""the timing [ of, + of ] it is  good, besides  (( the amo-, ))  what's on. /""]",the timing  of  of  it is  good besides   the amo   whats on ,sv,FEMALE,3
+['right.  /'],right  ,b,MALE,2
+['i figure your children are preschool? /'],i figure your children are preschool ,qy^d,MALE,16
+"['yes,  /']",yes  ,ny,FEMALE,9
+['i have two little ones. /'],i have two little ones ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['{c so } they like that. /'],c so  they like that ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['i seem to remember those shows being on in the afternoon. /'],i seem to remember those shows being on in the afternoon ,qy^d,MALE,16
+['they come on both.  /'],they come on both  ,sd,FEMALE,1
+"['they come on {d like } from nine to ten and then from, {f uh, } five to six. /']",they come on d like  from nine to ten and then from f uh  five to six ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['okay. /'],okay ,bk,MALE,14
+['they just repeat --'],they just repeat ,sd,FEMALE,1
+['okay. /'],okay ,b,MALE,2
+"['-- over again.   which is also, - /']", over again   which is also  ,+,FEMALE,0
+"[""[ that's + ] another thing that's <laughter> good about it,  /""]", thats   another thing thats laughter good about it  ,sv,FEMALE,3
+"['when it comes on right in the dinner hour.   i [ f-, + can feel ] {d like } i can let them sit in front of the t v and watch,  /']",when it comes on right in the dinner hour   i  f  can feel  d like  i can let them sit in front of the t v and watch  ,sd,FEMALE,1
+"[""{c and } they're watching something worthwhile, while i can make dinner and do things i need to do --""]",c and  theyre watching something worthwhile while i can make dinner and do things i need to do ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- without them under foot. /'], without them under foot ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ little, + with little ] kids the t v set really is a, {e i mean } - /']", little  with little  kids the t v set really is a e i mean   ,sd,MALE,1
+['i used it as a pacifier. /'],i used it as a pacifier ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i'm not sure it was that great for my children,  /""]",im not sure it was that great for my children  ,sd,MALE,1
+"['{c but } they turned out okay,  /']",c but  they turned out okay  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"[""{f uh, } it didn't hurt them any. /""]",f uh  it didnt hurt them any ,bf,FEMALE,20
+['<breathing> yeah. /'],breathing yeah ,aa,MALE,4
+"['some shows are good for, - /']",some shows are good for  ,sv,FEMALE,3
+"['i think [ some shows, +  some, ] - /']",i think  some shows   some   ,sd,FEMALE,1
+"['star trek, i, - /']",star trek i  ,%,FEMALE,5
+['for the imagination of it all. - /'],for the imagination of it all  ,sd,FEMALE,1
+"[""the idea, [ i, + i ] think that's one of the things i like  about star trek. /""]",the idea  i  i  think thats one of the things i like  about star trek ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } [ is, + is ]  the, - /']",c and   is  is   the  ,%,FEMALE,5
+['even in for kids watching some of it can be a little violent sometimes and stuff.  /'],even in for kids watching some of it can be a little violent sometimes and stuff  ,sv,FEMALE,3
+"[""i don't let my little ones watch it,  /""]",i dont let my little ones watch it  ,sd,FEMALE,1
+"['{c but } the imagination of, look what we can do, {d you know, } in the future, [ this is, + perhaps, this will be ] possible.']",c but  the imagination of look what we can do d you know  in the future  this is  perhaps this will be  possible,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['that kind of thing. -/'],that kind of thing ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['okay,  /']",okay  ,b,FEMALE,2
+"[""{d well, } i think we've covered most of my favorite t v shows. /""]",d well  i think weve covered most of my favorite t v shows ,sd,FEMALE,1
+"[""{d well, } i'm trying to think if i ever even had a favorite one at one time, {f uh. } /""]",d well  im trying to think if i ever even had a favorite one at one time f uh  ,sd,MALE,1
+"[""let's see, how about, {f uh, } man from uncle? /""]",lets see how about f uh  man from uncle ,qo,FEMALE,25
+"['i do seem to reme-, - /']",i do seem to reme  ,%,MALE,5
+"['is that the one where [ they, + {f uh, } he ] always got [ this, + this ] tape recording that self-destructed? /']",is that the one where  they  f uh  he  always got  this  this  tape recording that selfdestructed ,qy,MALE,7
+"[""that's mission impossible. /""]",thats mission impossible ,sd,FEMALE,1
+"['{f uh,  } mission, - /']",f uh   mission  ,b^m,MALE,24
+"[""that's right,  /""]",thats right  ,aa,MALE,4
+['mission impossible.  /'],mission impossible  ,b^m,MALE,24
+"['yeah,  /']",yeah  ,%,MALE,5
+['i used to watch that.  /'],i used to watch that  ,sd,MALE,1
+"['in fact, i can still remember a couple of those.  /']",in fact i can still remember a couple of those  ,sd,MALE,1
+"['they were, - /']",they were  ,%,MALE,5
+['i thought those were very good. /'],i thought those were very good ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['they always have, - /']",they always have  ,%,FEMALE,5
+"[""[ i've, + i've ] seen some of them on repeats. /""]", ive  ive  seen some of them on repeats ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['that {f uh, } - /']",that f uh   ,%,FEMALE,5
+['they always had a good plot. /'],they always had a good plot ,sv,FEMALE,3
+['{f huh. } /'],f huh  ,%,MALE,5
+"['it kind of kept you guessing [ on, + on, ] {f uh, } what was going to happen next <laughter>. /']",it kind of kept you guessing  on  on  f uh  what was going to happen next laughter ,sv,FEMALE,3
+['right.  /'],right  ,aa,MALE,4
+['right.  /'],right  ,aa,MALE,4
+"['you, -/']",you ,%,MALE,5
+"[""how they're going get out of their latest scrape. /""]",how theyre going get out of their latest scrape ,qh,FEMALE,26
+"['yeah,  /']",yeah  ,b,MALE,2
+['i do remember that.  /'],i do remember that  ,sd,MALE,1
+"['{c and, }  {f uh, } i remember as a kid my parents watching the ed sullivan show.  /']",c and   f uh  i remember as a kid my parents watching the ed sullivan show  ,sd,MALE,1
+"['that was really the big deal in our household, # was the ed sullivan show. # /']",that was really the big deal in our household  was the ed sullivan show  ,sd,MALE,1
+"['# {f oh, } yeah,  /']", f oh  yeah  ,b,FEMALE,2
+['every saturday night? # /'],every saturday night  ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['[ i gu-, + i guess ] it was a saturday night,  /']", i gu  i guess  it was a saturday night  ,sd,MALE,1
+"['{c and } i went to see the movie the doors a couple of days ago,  /']",c and  i went to see the movie the doors a couple of days ago  ,sd,MALE,1
+"[""{c and } they had this scene, {f uh, } [ that por-, + portraying ] the doors' appearance on the ed sullivan show. /""]",c and  they had this scene f uh   that por  portraying  the doors appearance on the ed sullivan show ,sd,MALE,1
+['{f huh. } /'],f huh  ,%,FEMALE,5
+"['they even had somebody portraying ed sullivan,  /']",they even had somebody portraying ed sullivan  ,sd,MALE,1
+"['{c and } it was very, very funny. /']",c and  it was very very funny ,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"['i think it was the funniest part [ of the, + of that ] movie. /']",i think it was the funniest part  of the  of that  movie ,sv,MALE,3
+['{f um. } /'],f um  ,%,FEMALE,5
+"[""{d well, } i don't know,  /""]",d well  i dont know  ,h,MALE,15
+"['was there any, - /']",was there any  ,qy,MALE,7
+"['i remember the milton berle show even,  /']",i remember the milton berle show even  ,sd,MALE,1
+"['[ i was, +']", i was ,%,MALE,5
+"['ye-,  /']",ye  ,%,FEMALE,5
+"[""i'm not old enough to recall that one <laughter>. /""]",im not old enough to recall that one laughter ,sd,FEMALE,1
+"['i was, ] - /']",i was   ,+,MALE,0
+"['{d well } i guess, i have to admit that i am <laughter>. /']",d well  i guess i have to admit that i am laughter ,sd,MALE,1
+"['my t v viewing started sort of mid-sixties,  /']",my t v viewing started sort of midsixties  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+['i see. /'],i see ,b,MALE,2
+"[""[ my folks didn't, + my folks, ] - /""]", my folks didnt  my folks   ,%,FEMALE,5
+"[""i'm not even sure if we had one when i was really little.  /""]",im not even sure if we had one when i was really little  ,sd,FEMALE,1
+"['that may be why, bu-, - /']",that may be why bu  ,%,FEMALE,5
+"[""they probably didn't have a t v until i got to be, {d you know, } grade school or so. /""]",they probably didnt have a t v until i got to be d you know  grade school or so ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and } the shows that i like now, they wouldn't let me watch.  /""]",c and  the shows that i like now they wouldnt let me watch  ,sd,FEMALE,1
+['i had to catch them all on repeats.  /'],i had to catch them all on repeats  ,sd,FEMALE,1
+"['like star trek, they thought that was much too violent for small children.  /']",like star trek they thought that was much too violent for small children  ,sd,FEMALE,1
+"['{c so } <laughter>, -/']",c so  laughter ,%,FEMALE,5
+['{f huh. } /'],f huh  ,%,MALE,5
+"['<laughter> [ [ i, + i, ] + i ] ended up watching a lot of these things on, {d you know, } repeats in the afternoons or something. /']",laughter   i  i   i  ended up watching a lot of these things on d you know  repeats in the afternoons or something ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""[ that's, + that's ] interesting.  /""]", thats  thats  interesting  ,sv,MALE,3
+"[""{f uh, } i think it's interesting that parents think that their small children learn violence from tv,  /""]",f uh  i think its interesting that parents think that their small children learn violence from tv  ,sv,MALE,3
+"['people were just as violent before t v was invented, maybe even more so. /']",people were just as violent before t v was invented maybe even more so ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but } i guess [ that's, + that's ] a different topic  /""]",c but  i guess  thats  thats  a different topic  ,sv,MALE,3
+"[""isn't it?  <laughter>. /""]",isnt it  laughter ,^g,MALE,40
+['probably so <laughter>.  /'],probably so laughter  ,na,FEMALE,21
+"[""{d well, } i think [ that's about, + {f uh, } that's about ] covered it for me,  /""]",d well  i think  thats about  f uh  thats about  covered it for me  ,sd,FEMALE,1
+"[""{c so } i think i'll say good-bye  /""]",c so  i think ill say goodbye  ,fc,FEMALE,10
+"[""{c and } we'll # talk another time perhaps <static>. # /""]",c and  well  talk another time perhaps static  ,fc,FEMALE,10
+['# yeah.  /'], yeah  ,fc,MALE,10
+"['{d well, } it was nice talking to you.  /']",d well  it was nice talking to you  ,fc,MALE,10
+"[""# [ tell me, + tell me ] where you're calling from. /""]",  tell me  tell me  where youre calling from ,ad,MALE,22
+"[""i'm calling from garland, texas. /""]",im calling from garland texas ,sd,FEMALE,1
+"['garland, texas. /']",garland texas ,b^m,MALE,24
+['# uh-huh. # /'], uhhuh  ,aa,FEMALE,4
+['# all right. #  /'], all right   ,bk,MALE,14
+"[""i'm in # nor-, # -/""]",im in  nor  ,sd,MALE,1
+['# where # are you from? /'], where  are you from ,qw,FEMALE,12
+"[""i'm in raleigh, north carolina. /""]",im in raleigh north carolina ,sd,MALE,1
+"['{f oh, } my goodness.  /']",f oh  my goodness  ,ba,FEMALE,6
+"[""i didn't know they did it long distance. /""]",i didnt know they did it long distance ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ i think they're [ doing it, + trying to do it, ] + {c or } i hope they're trying to do it ] all over the country, because they need to collect all kinds of [ different -- +""]", i think theyre  doing it  trying to do it   c or  i hope theyre trying to do it  all over the country because they need to collect all kinds of  different  ,sv,MALE,3
+['yes. /'],yes ,b,FEMALE,2
+['-- different  ] dialects. /'], different   dialects ,+,MALE,0
+"['{d well, } it was nice talking to you <static>. /']",d well  it was nice talking to you static ,fc,FEMALE,10
+['same here. /'],same here ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10

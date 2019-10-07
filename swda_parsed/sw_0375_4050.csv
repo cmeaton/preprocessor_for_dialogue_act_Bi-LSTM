@@ -1,0 +1,148 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hello. /'],hello ,"fo_o_fw_""_by_bc",MALE,0
+"['((   ))  i pressed the button one,  /']",     i pressed the button one  ,sd,FEMALE,1
+"[""{c so } we're recording  right now.  /""]",c so  were recording  right now  ,sd,FEMALE,1
+"[""i'm sorry <laughter>. /""]",im sorry laughter ,fa,FEMALE,42
+"[""that's okay.  /""]",thats okay  ,bd,MALE,38
+"[""i'm bill from raleigh. /""]",im bill from raleigh ,sd,MALE,1
+"['okay,  /']",okay  ,b,FEMALE,2
+"[""{c and } i'm melanie from harrisville, utah. /""]",c and  im melanie from harrisville utah ,sd,FEMALE,1
+"['{f oh, } another one from a different state besides texas. /']",f oh  another one from a different state besides texas ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['<laughter> {f um, } okay,  /']",laughter f um  okay  ,b,FEMALE,2
+"[""bill, we're talking  about family reunions. /""]",bill were talking  about family reunions ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['okay, {f um, }  /']",okay f um   ,"fo_o_fw_""_by_bc",FEMALE,0
+['have you ever had to plan a family reunion? /'],have you ever had to plan a family reunion ,qy,FEMALE,7
+"['{f uh, } yes  /']",f uh  yes  ,ny,MALE,9
+"['{c and } no,  /']",c and  no  ,nn,MALE,13
+"[""it wasn't really  [ a fa-, +  a planning ] one,  /""]",it wasnt really   a fa   a planning  one  ,sd,MALE,1
+"['{c but } [ it was kind of, +  {f uh, } it was ] a birthday -- /']",c but   it was kind of   f uh  it was  a birthday  ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+['-- {c and } i brought a lot of family together then. /'], c and  i brought a lot of family together then ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,bk,FEMALE,14
+['{c and } how did you feel it went? /'],c and  how did you feel it went ,qo,FEMALE,25
+['it went pretty good.  /'],it went pretty good  ,sd,MALE,1
+"[""[ i'm, + i've ] worked in  hotels,  /""]", im  ive  worked in  hotels  ,sd,MALE,1
+"['{c so } [ i, + i ] kind of know how to do these things. /']",c so   i  i  kind of know how to do these things ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"['i used to, {d you know. } /']",i used to d you know  ,sd,MALE,1
+"['all this planning [ and, + and ] getting together and such.  /']",all this planning  and  and  getting together and such  ,qy^d,FEMALE,16
+"[""{f um, } {f oh, } let's see what else. /""]",f um  f oh  lets see what else ,^h,FEMALE,27
+"[""usually when we have kind of our family reunion it's my grandmother's birthday,  /""]",usually when we have kind of our family reunion its my grandmothers birthday  ,sd,MALE,1
+['[ {c and } -- +'], c and   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } ] it's all of like, [ she, + she ]  comes from a big family.  /""]", c and   its all of like  she  she   comes from a big family  ,+,MALE,0
+['she has like  seven sisters i think. /'],she has like  seven sisters i think ,sd,MALE,1
+"['{f oh, } boy <laughter>. /']",f oh  boy laughter ,ba,FEMALE,6
+['they show up and all their kids.  /'],they show up and all their kids  ,sd,MALE,1
+"['{c and then } all,  she has, {f uh, } - /']",c and then  all  she has f uh   ,%,MALE,5
+"['i have {d like, }  {f uh, } - /']",i have d like   f uh   ,%,MALE,5
+"[""let's see,  /""]",lets see  ,^h,MALE,27
+"['she has four sons and  two daughters,  /']",she has four sons and  two daughters  ,sd,MALE,1
+['{c and } --'],c and  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- they show up and all their kids,  /']", they show up and all their kids  ,+,MALE,0
+"[""{c so } it's a pretty  big reunion,  /""]",c so  its a pretty  big reunion  ,sd,MALE,1
+"[""it's about two hundred people, maybe. /""]",its about two hundred people maybe ,sd,MALE,1
+"['{f oh, } my word.  /']",f oh  my word  ,ba,FEMALE,6
+"['<laughter> {d well, } what did you  find was most helpful in planning the birthday get together? /']",laughter d well  what did you  find was most helpful in planning the birthday get together ,qo,FEMALE,25
+"['{f um, } [ the, + probably the ] biggest challenge was  getting a place where everyone, {d you know, } could eat comfortably [ and, + and ] everything, {f uh. } /']",f um   the  probably the  biggest challenge was  getting a place where everyone d you know  could eat comfortably  and  and  everything f uh  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,bk,FEMALE,14
+"['i guess probably the most helpful thing was that,  {f um, } for the rent, we rented {d like } [ a, + a ] rescue squad building or something --']",i guess probably the most helpful thing was that  f um  for the rent we rented d like   a  a  rescue squad building or something ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+['-- like that. /'], like that ,+,MALE,0
+['uh-huh. /'],uhhuh ,bk,FEMALE,14
+"['{c and, }  {f uh, } [ each one of the, +   everybody ] that showed up donated some money for the rent and [ for, + for ] {d like } soft drinks  /']",c and   f uh   each one of the    everybody  that showed up donated some money for the rent and  for  for  d like  soft drinks  ,sd,MALE,1
+['[ {c and } + --'], c and   ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+['-- {c and so } ] nobody {d like } really got  stuck with the bill. /'], c and so   nobody d like  really got  stuck with the bill ,+,MALE,0
+"[""{f oh, } that's good. /""]",f oh  thats good ,ba,FEMALE,6
+"['{c and } each person in the family, {d you know, }  brought a dish, or something. /']",c and  each person in the family d you know   brought a dish or something ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,bk,FEMALE,14
+"['{c and then } did you have a main  meal,  /']",c and then  did you have a main  meal  ,qy,FEMALE,7
+"['{c or } did everyone just bring, - /']",c or  did everyone just bring  ,%,FEMALE,5
+['it # was just pot luck. # /'],it  was just pot luck  ,qy^d,FEMALE,16
+['# it was kind of # pot luck. /'], it was kind of  pot luck ,na,MALE,21
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } everybody brought their specialties,  i guess you would say. /']",d you know  everybody brought their specialties  i guess you would say ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['show off a little bit <laughter>. /'],show off a little bit laughter ,qy^d,FEMALE,16
+['yeah.  /'],yeah  ,ny,MALE,9
+"[""{c and } of course my grandmother's food  was, as always, gone first --""]",c and  of course my grandmothers food  was as always gone first ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"[""-- because she's such a great cook. /""]", because shes such a great cook ,+,MALE,0
+['oh.  /'],oh  ,bk,FEMALE,14
+['now how old is she? /'],now how old is she ,qw,FEMALE,12
+"[""{f uh, } she's eighty-six. /""]",f uh  shes eightysix ,sd,MALE,1
+"['{f oh, } goodness.  /']",f oh  goodness  ,ba,FEMALE,6
+"['[ is she  pretty spry, + is she, {d you know, } pretty. ] /']", is she  pretty spry  is she d you know  pretty  ,qy,FEMALE,7
+"['now she does, - /']",now she does  ,%,MALE,5
+"[""she looks probably like she's in her  early sixties -- /""]",she looks probably like shes in her  early sixties  ,na,MALE,21
+"['{f oh, } wow. /']",f oh  wow ,ba,FEMALE,6
+"[""-- {c and } if she didn't have arthritis,  she'd get around better --""]", c and  if she didnt have arthritis  shed get around better ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- than me as a matter of fact <laughter>. /'], than me as a matter of fact laughter ,+,MALE,0
+['oh.  /'],oh  ,bk,FEMALE,14
+"[""<laughter> {f oh, } that's neat,  that she's in good health, and [ that, + ] at that age.  /""]",laughter f oh  thats neat  that shes in good health and  that   at that age  ,ba,FEMALE,6
+['yeah. /'],yeah ,%,FEMALE,5
+"['{f oh, } yeah.  /']",f oh  yeah  ,b^m,MALE,24
+['my nickname for her is honey woman.  /'],my nickname for her is honey woman  ,sd,MALE,1
+"[""that's what i call her. /""]",thats what i call her ,sd,MALE,1
+['really.  /'],really  ,b,FEMALE,2
+['<laughter> {d well } that sounds fun.  /'],laughter d well  that sounds fun  ,ba,FEMALE,6
+"['{d well, } [ i + <smack> i ] had a real challenge of planning a family reunion a few years ago,  /']",d well   i  smack i  had a real challenge of planning a family reunion a few years ago  ,sd,FEMALE,1
+"['{c and }  there were, - /']",c and   there were  ,%,FEMALE,5
+"['we sent out five hundred, {f uh, } announcements, because our family is  quite large, like [ your, + your ] family there.  /']",we sent out five hundred f uh  announcements because our family is  quite large like  your  your  family there  ,sd,FEMALE,1
+"['{c and so } that was a real  challenge,  /']",c and so  that was a real  challenge  ,sd,FEMALE,1
+"['{c and } i was president of our family reunion for two years,  /']",c and  i was president of our family reunion for two years  ,sd,FEMALE,1
+"[""{c and } i wasn't  very  ((   ))  at that duty, for two years in a row, <laughter>  /""]",c and  i wasnt  very       at that duty for two years in a row laughter  ,sd,FEMALE,1
+['{c but } i found that  advance planning was the key to success. /'],c but  i found that  advance planning was the key to success ,sd,FEMALE,1
+"[""{f uh, } also one thing that's helpful,  /""]",f uh  also one thing thats helpful  ,sv,MALE,3
+"[""{c and } i don't  know if your family's spread out or whatever -- /""]",c and  i dont  know if your familys spread out or whatever  ,qy^d,MALE,16
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['-- {c but } [ most of, +  all ] my family lives {d like }  in the same county  /']", c but   most of   all  my family lives d like   in the same county  ,sd,MALE,1
+"['{c so } <laughter>, -/']",c so  laughter ,%,MALE,5
+"[""{f oh, } that's wonderful, though <laughter>. -/""]",f oh  thats wonderful though laughter ,ba,FEMALE,6
+"[""{c but } it's just kind of like get on the  telephone  /""]",c but  its just kind of like get on the  telephone  ,ad,MALE,22
+"['{c and, }']",c and ,^q,MALE,19
+['<laughter>.'],laughter,x,FEMALE,8
+"[""it's so and such days from such and such date -- /""]",its so and such days from such and such date  ,+,MALE,0
+['oh. /'],oh ,b,FEMALE,2
+['-- {c and } everybody just shows up. /'], c and  everybody just shows up ,sv,MALE,3
+"['{f oh, } {d well, } [ that is, + that is ] helpful.  /']",f oh  d well   that is  that is  helpful  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"['our family ranges from, {f oh, } goodness, {d well, } australia,  /']",our family ranges from f oh  goodness d well  australia  ,sd,FEMALE,1
+"['i have a brother lives in australia, to, {f uh, } boise, idaho, [ and, + and, ] {f uh, } all kinds of places. /']",i have a brother lives in australia to f uh  boise idaho  and  and  f uh  all kinds of places ,sd,FEMALE,1
+"[""i would say you're spread out, then. /""]",i would say youre spread out then ,sv,MALE,3
+['we are <laughter>. /'],we are laughter ,aa,FEMALE,4
+"[""{f uh, } my immediate family, {d you know, } [ my, + my ]  parents and my brothers and  sisters, i guess we're the ones that have the gypsy blood or  whatever,  /""]",f uh  my immediate family d you know   my  my   parents and my brothers and  sisters i guess were the ones that have the gypsy blood or  whatever  ,sd,MALE,1
+['{c because } my dad was in the army  /'],c because  my dad was in the army  ,sd,MALE,1
+"[""{c and } [ we're -- +""]",c and   were  ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""-- we're ] pretty strung out all over.  /""]", were  pretty strung out all over  ,+,MALE,0
+"[""{c but } since they've  moved back to carolinas, we still are the only ones do not live [ in + --""]",c but  since theyve  moved back to carolinas we still are the only ones do not live  in  ,sd,MALE,1
+['in. -/'],in ,%,FEMALE,5
+['-- in ] yantsen county. /'], in  yantsen county ,+,MALE,0
+['oh. /'],oh ,b,FEMALE,2
+"['i live in raleigh,  /']",i live in raleigh  ,sd,MALE,1
+"['{c and then } [ my, + my ] parents  live in greenville,  /']",c and then   my  my  parents  live in greenville  ,sd,MALE,1
+['{c and } i have one brother and his wife --'],c and  i have one brother and his wife ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- live in greenville,  and, {f uh, } another brother  that lives [ in, +  outside of ] fayetteville.  /']", live in greenville  and f uh  another brother  that lives  in   outside of  fayetteville  ,+,MALE,0
+"[""{c so } {e i mean, } [ we're, + we're ]  spread out,  /""]",c so  e i mean   were  were   spread out  ,sd,MALE,1
+['{c but } --'],c but  ,sd,MALE,1
+['boy. /'],boy ,ba,FEMALE,6
+"['-- everybody else is centralized [ in, + in, ]  my home town, waynesboro  /']", everybody else is centralized  in  in   my home town waynesboro  ,+,MALE,0
+['{c so. } -/'],c so  ,%,MALE,5
+"['{f oh, } my gosh. /']",f oh  my gosh ,ba,FEMALE,6
+['nobody moves away except us <laughter>. /'],nobody moves away except us laughter ,sd,MALE,1
+['<laughter> they must really like it there. /'],laughter they must really like it there ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+['i got out as soon as i graduated. /'],i got out as soon as i graduated ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['<laughter>  oh. /'],laughter  oh ,b,FEMALE,2
+"['just like this town is too small for me,  /']",just like this town is too small for me  ,sd,MALE,1
+['good-bye. /'],goodbye ,^q,MALE,19
+"[""{f oh, } <laughter> you're ready to move on to bi-, -/""]",f oh  laughter youre ready to move on to bi ,qy^d,FEMALE,16

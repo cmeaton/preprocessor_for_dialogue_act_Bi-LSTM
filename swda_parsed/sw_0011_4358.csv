@@ -1,0 +1,78 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<hum> okay.  /'],hum okay  ,"fo_o_fw_""_by_bc",MALE,0
+"['what is your, {f uh, } community, {f uh, } currently doing with regard to recycling? /']",what is your f uh  community f uh  currently doing with regard to recycling ,qw,MALE,12
+"[""{f uh, } basically, they're just, {f uh, } having various recycling, {f uh, } bins, {f uh, } located for, {f uh, } trash pickup. /""]",f uh  basically theyre just f uh  having various recycling f uh  bins f uh  located for f uh  trash pickup ,sd,MALE,1
+['uh-huh <swallowing>.  /'],uhhuh swallowing  ,b,MALE,2
+"[""<static> {d well } that's more than we have up here in massachusetts.  /""]",static d well  thats more than we have up here in massachusetts  ,sd,MALE,1
+"['[ some, + some ] local communities are very active [ in that, + {f uh, } in that ] respect  /']", some  some  local communities are very active  in that  f uh  in that  respect  ,sd,MALE,1
+['{c and } they do have bins set up.  /'],c and  they do have bins set up  ,sd,MALE,1
+"['{c but } i live in [ a, + a ] metropolitan area  /']",c but  i live in  a  a  metropolitan area  ,sd,MALE,1
+"[""{c and, } {f uh, } they're not, {f uh, } too inclined to do something as aggressive as that </static>. /""]",c and  f uh  theyre not f uh  too inclined to do something as aggressive as that static ,sv,MALE,3
+"['{d well, } here they [ and, + ] - /']",d well  here they  and    ,%,MALE,5
+"['{f uh, } live in an apartment complex. /']",f uh  live in an apartment complex ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } they only have one set of recycling bins, one or two sets as opposed to a set at each of the dumpsters.  /']",c and  they only have one set of recycling bins one or two sets as opposed to a set at each of the dumpsters  ,sd,MALE,1
+"[""{c so } a lot of the people who live up front don't bother to recycle because, {d you know, } it's too far to carry the stuff to the other bins. /""]",c so  a lot of the people who live up front dont bother to recycle because d you know  its too far to carry the stuff to the other bins ,sv,MALE,3
+"['[ [ i, + i know a lot, ] + i think a lot ] of, {f uh, } [ the, + the ] issues with regard to recycling are that, {f uh, } people have to be motivated [ to do, + to do ] <clicking> something like that because it does take extra effort.  /']",  i  i know a lot   i think a lot  of f uh   the  the  issues with regard to recycling are that f uh  people have to be motivated  to do  to do  clicking something like that because it does take extra effort  ,sv,MALE,3
+['whether - /'],whether  ,%,MALE,5
+"['[ [ {c and, } + {c and } i think that, ] + {c and } i know ] massachusetts has, - /']",  c and   c and  i think that   c and  i know  massachusetts has  ,sd,MALE,1
+['a bottle bill was passed  /'],a bottle bill was passed  ,sd,MALE,1
+"['{c and } we have had a bottle bill for quite a few years now,  /']",c and  we have had a bottle bill for quite a few years now  ,sd,MALE,1
+"['{c and } the majority of the incentive in recycling bottles probably, believe it or not, is just to get the extra nickel at [ the, {f uh, } + the ] store and not, {f uh, } - /']",c and  the majority of the incentive in recycling bottles probably believe it or not is just to get the extra nickel at  the f uh   the  store and not f uh   ,sv,MALE,3
+"[""that's the majority of people that i know of anyways.  /""]",thats the majority of people that i know of anyways  ,sv,MALE,3
+"[""where people aren't really, {d you know, } eco conscious. it's just the fact that it's something they have to do.  /""]",where people arent really d you know  eco conscious its just the fact that its something they have to do  ,sv,MALE,3
+"[""{c and } i'm not going to throw a bottle away,  /""]",c and  im not going to throw a bottle away  ,^q,MALE,19
+"[""it's like throwing a nickel away.  /""]",its like throwing a nickel away  ,^q,MALE,19
+['that type of thing. /'],that type of thing ,sv,MALE,3
+['right.  /'],right  ,b,MALE,2
+"['# [ [ they, # +']",   they  ,sd,MALE,1
+"['# {c but, } {f uh, } # people need to be more conscious of it. /']", c but  f uh   people need to be more conscious of it ,sv,MALE,3
+"[""th-, ] + here they're ] trying to push through a bill  /""]",th   here theyre  trying to push through a bill  ,+,MALE,0
+['{c and } a lot of people are against it.  /'],c and  a lot of people are against it  ,sd,MALE,1
+"[""{c and } it's going to create a lot more work for [ the, {f uh, } + the ] stores that sell, {d you know, } sodas and stuff.  /""]",c and  its going to create a lot more work for  the f uh   the  stores that sell d you know  sodas and stuff  ,sv,MALE,3
+['{c because } they want to implement a refund on cans and on plastic bottles and everything. /'],c because  they want to implement a refund on cans and on plastic bottles and everything ,sd,MALE,1
+['yeah <whistling>.  /'],yeah whistling  ,b,MALE,2
+"[""(( )) [ [ it didn't, + it, ] + it ] took awhile for that bill to be passed up here as far as recycling bottles and cans.  /""]",    it didnt  it   it  took awhile for that bill to be passed up here as far as recycling bottles and cans  ,sd,MALE,1
+"['{f uh, } <whistling> [ {c and, } + {c and } ] matter of fact, i think it took {d like } <bird_squawk> three tries [ t-, + for ] it to go through.  /']",f uh  whistling  c and   c and   matter of fact i think it took d like  birdsquawk three tries  t  for  it to go through  ,sd,MALE,1
+"[""[ {c but, } + {c and } ] it's been pretty successful  /""]", c but   c and   its been pretty successful  ,sv,MALE,3
+"['{c and } people notice it as far as, {f uh, } highways being, {f uh, } {d you know, } - /']",c and  people notice it as far as f uh  highways being f uh  d you know   ,sv,MALE,3
+"['people would [ dr-, + have a drink ] of soda,  /']",people would  dr  have a drink  of soda  ,sv,MALE,3
+"['instead of throwing out the window, [ they, + they ] keep the bottle  /']",instead of throwing out the window  they  they  keep the bottle  ,sd,MALE,1
+"[""{c so } <children> [ it's, + it's ] been a ecologically sound policy [ and, + ] {d you know, } [ as, + as ] far as recycling your bottles in terms of trash and so forth.  /""]",c so  children  its  its  been a ecologically sound policy  and   d you know   as  as  far as recycling your bottles in terms of trash and so forth  ,sv,MALE,3
+"[""{c but } more importantly, it's recycling reusable materials back into, {f uh, } <swallowing> manufacturing.  /""]",c but  more importantly its recycling reusable materials back into f uh  swallowing manufacturing  ,sv,MALE,3
+"[""{c and } that's the big thing, i think, that [ th-, + they ] try to promote. /""]",c and  thats the big thing i think that  th  they  try to promote ,sv,MALE,3
+['right.  /'],right  ,b,MALE,2
+"['i think here [ if they, + {f uh, } instead of just, {d you know, } requiring that you [ put, + put ] out the trash and stuff, if they ] could get some kind of rebate, those people who do put the stuff out, {f uh, } {d you know, } and separate it, have lower collection fee or something # may # --']",i think here  if they  f uh  instead of just d you know  requiring that you  put  put  out the trash and stuff if they  could get some kind of rebate those people who do put the stuff out f uh  d you know  and separate it have lower collection fee or something  may  ,sv,MALE,3
+"['# yeah,  /']", yeah  ,b,MALE,2
+"[""that's a good idea. # /""]",thats a good idea  ,ba,MALE,6
+['-- encourage --'], encourage ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+['-- people to separate. /'], people to separate ,+,MALE,0
+"['[ th-, + there ] definitely has to be a motivation factor  /']", th  there  definitely has to be a motivation factor  ,aa,MALE,4
+"['{c and } i know that, [ at w-, + where i work, ] - /']",c and  i know that  at w  where i work   ,sd,MALE,1
+['i work for a defense contractor.  /'],i work for a defense contractor  ,sd,MALE,1
+"[""{c and } there's a big push on for recycling, {f uh, } paper materials, {d you know, } computer output paper and also to decrease the amount of, {f uh, } styrofoam usage because of [ the, + {f uh, } <whistling> the ] process involved in styrofoam [ and, + and ] the whole eco issue and that.  /""]",c and  theres a big push on for recycling f uh  paper materials d you know  computer output paper and also to decrease the amount of f uh  styrofoam usage because of  the  f uh  whistling the  process involved in styrofoam  and  and  the whole eco issue and that  ,sd,MALE,1
+"[""[ {c and, } + {c and } ] they're very proactive  /""]", c and   c and   theyre very proactive  ,sd,MALE,1
+"['{c and, } {f uh, } matter of fact, they give you discounts if you use, </whistling> {f uh, } china wear rather than, {f uh, } styrofoam stuff,  /']",c and  f uh  matter of fact they give you discounts if you use whistling f uh  china wear rather than f uh  styrofoam stuff  ,sd,MALE,1
+"[""[ {c so. } + {c so, } ] [ [ i-, + i-, ] + it's ] incentives like that that get [ people + people ] more conscious of it.  /""]", c so   c so     i  i   its  incentives like that that get  people  people  more conscious of it  ,sv,MALE,3
+"[""i think [ that's, + that's ] what they need to do. be more ((proactive)) like that. /""]",i think  thats  thats  what they need to do be more proactive like that ,sv,MALE,3
+"['{f uh, } [ i know, + {f uh, } i believe ] it was last year that they actually collected the old phone books.  /']",f uh   i know  f uh  i believe  it was last year that they actually collected the old phone books  ,sd,MALE,1
+"['{f uh, } usually have them come from (( )) {d you know, } projects to collect old ones.  /']",f uh  usually have them come from   d you know  projects to collect old ones  ,sd,MALE,1
+['usually just get dumped out with the trash.  /'],usually just get dumped out with the trash  ,sd,MALE,1
+['{c and } phone books are a large volume of annual <laughter> trash. /'],c and  phone books are a large volume of annual laughter trash ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"['[ they, + they ] just, - /']", they  they  just  ,%,MALE,5
+"['matter of fact, [ that, + that ] reminded me of an article i saw in the pa-, - /']",matter of fact  that  that  reminded me of an article i saw in the pa  ,sd,MALE,1
+"['the local schools, you could send your phone book [ to your, + {f uh, } [ to, + with ] your ] kid to school  /']",the local schools you could send your phone book  to your  f uh   to  with  your  kid to school  ,sd,MALE,1
+"[""{c and } what they'll do is they'll recycle it.  /""]",c and  what theyll do is theyll recycle it  ,sd,MALE,1
+"[""{c because } there was an article or a story done awhile ago that, {f uh, } <baby_crying> [ trash, + {f uh, } the telephone books ] are the type of thing that don't break down over a long period of time.  /""]",c because  there was an article or a story done awhile ago that f uh  babycrying  trash  f uh  the telephone books  are the type of thing that dont break down over a long period of time  ,sd,MALE,1
+"['a guy went to [ a d-, + a landfill, ] dug down five feet [ and, + and ] pulled up a phone book from {d like } nineteen sixty  /']",a guy went to  a d  a landfill  dug down five feet  and  and  pulled up a phone book from d like  nineteen sixty  ,sd,MALE,1
+"[""{c because } [ they don't, + they don't ] degrade over such a period of time. /""]",c because   they dont  they dont  degrade over such a period of time ,sd,MALE,1
+"['{d well, } part of the problem with recycling them in the past has been the covers are made with a clay based paper. /']",d well  part of the problem with recycling them in the past has been the covers are made with a clay based paper ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['they contain the glue and stuff  /'],they contain the glue and stuff  ,sd,MALE,1
+"['{c and } they used to have to take out all the, {f uh, } pages and then cut the spine off to be able to recycle them. /']",c and  they used to have to take out all the f uh  pages and then cut the spine off to be able to recycle them ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""now i think they've come up with some way of, {f uh, } pulling the glue out. /""]",now i think theyve come up with some way of f uh  pulling the glue out ,sd,MALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['okay </hum>  </children> </baby_crying>. /'],okay hum  children babycrying ,b,MALE,2

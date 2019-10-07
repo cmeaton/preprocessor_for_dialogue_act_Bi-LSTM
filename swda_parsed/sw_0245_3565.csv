@@ -1,0 +1,153 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""you've done. -/""]",youve done ,"fo_o_fw_""_by_bc",FEMALE,0
+"['our most recent series of projects i guess, [ was, + inside was, ] {f uh, } we remodeled a bathroom recently. /']",our most recent series of projects i guess  was  inside was  f uh  we remodeled a bathroom recently ,sd,MALE,1
+"['{d well, } how did it go? /']",d well  how did it go ,qo,FEMALE,25
+"['{d well, } it went pretty well, {f uh, } other than the fact that we encountered some, {f uh, } problems that you run across in older homes with plumbing, which one thing led to another,  /']",d well  it went pretty well f uh  other than the fact that we encountered some f uh  problems that you run across in older homes with plumbing which one thing led to another  ,sd,MALE,1
+['{c and } eventually we ended up replacing all the pipes from the sink clear back to the main drain.'],c and  eventually we ended up replacing all the pipes from the sink clear back to the main drain,sd,MALE,1
+"['{d gee, } like starting over, # i guess. # /']",d gee  like starting over  i guess  ,ba,FEMALE,6
+['# which meant you # needed to take the wall out and start all over. /'], which meant you  needed to take the wall out and start all over ,+,MALE,0
+['{f uh. } /'],f uh  ,%,FEMALE,5
+"[""it wasn't one of those, <child_talking> - /""]",it wasnt one of those childtalking  ,sd,MALE,1
+['it started out as a sunday project -- /'],it started out as a sunday project  ,sd,MALE,1
+['uh-huh <laughter>. /'],uhhuh laughter ,b,FEMALE,2
+"['-- {c and } [ by, + by ] the next sunday <child_talking> it was done.  /']", c and   by  by  the next sunday childtalking it was done  ,sd,MALE,1
+"[""it wasn't a one dayer.  /""]",it wasnt a one dayer  ,sd,MALE,1
+['believe me. /'],believe me ,ad,MALE,22
+"['boy, that sounds like, {f uh, } - /']",boy that sounds like f uh   ,%,FEMALE,5
+"[""course, {f uh, } i don't know,  /""]",course f uh  i dont know  ,h,FEMALE,15
+"[""once you get it done, then you probably won't have that problem again. /""]",once you get it done then you probably wont have that problem again ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""it's good for another thirty years. /""]",its good for another thirty years ,sd,MALE,1
+"[""{f um, } you've got an older house? /""]",f um  youve got an older house ,qy^d,FEMALE,16
+['yes. /'],yes ,ny,MALE,9
+"['they are built a little bit more sturdy than <noise>, -/']",they are built a little bit more sturdy than noise ,sv,FEMALE,3
+"[""{d well, } that's the thing that surprised me, because once i got into the plumbing --""]",d well  thats the thing that surprised me because once i got into the plumbing ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- everything in there was copper,  /']", everything in there was copper  ,+,MALE,0
+['{c and } it was all soldered. /'],c and  it was all soldered ,sd,MALE,1
+"['{f oh, } is that right. /']",f oh  is that right ,ba,FEMALE,6
+"[""that's what drove me bananas, because, {d you know, } i'm going to the hardware store saying give me plastic pipe [ and -- +""]",thats what drove me bananas because d you know  im going to the hardware store saying give me plastic pipe  and  ,sd,MALE,1
+['yes. /'],yes ,b,FEMALE,2
+['-- and ] cement --'], and  cement ,+,MALE,0
+['-- to fit them together  /'], to fit them together  ,+,MALE,0
+"['{c and } nothing wanted to go,  /']",c and  nothing wanted to go  ,sd,MALE,1
+['{c so } it was like i had to go all the way back to the main drain and start all over. /'],c so  it was like i had to go all the way back to the main drain and start all over ,sd,MALE,1
+['{c and } just start at square one. /'],c and  just start at square one ,^2,FEMALE,23
+['really. /'],really ,b,MALE,2
+['{f uh. } /'],f uh  ,%,FEMALE,5
+"['that was an all day job, just to get it plumbed. /']",that was an all day job just to get it plumbed ,sd,MALE,1
+"['{d well, } {c and then } if you do it wrong <laughter>. -/']",d well  c and then  if you do it wrong laughter ,sv,FEMALE,3
+"['[ fortunately, + i was very fortunate,  ] {f uh, } in the fact that, {f uh, } when i made the installation of the sink and everything bolted up  and we # turned the water on # --']", fortunately  i was very fortunate   f uh  in the fact that f uh  when i made the installation of the sink and everything bolted up  and we  turned the water on  ,sd,MALE,1
+['# everything went all right. # /'], everything went all right  ,^2,FEMALE,23
+"['-- nothing leaked,  /']", nothing leaked  ,+,MALE,0
+['everything worked.  /'],everything worked  ,sd,MALE,1
+"[""{c and } i just said, that's marvelous.  /""]",c and  i just said thats marvelous  ,sd,MALE,1
+['i appreciate it. /'],i appreciate it ,sd,MALE,1
+"[""that's the type of thing you cross your fingers and are glad when that happens. /""]",thats the type of thing you cross your fingers and are glad when that happens ,sv,FEMALE,3
+"['{d well, } i expected something to leak, {d you know } --']",d well  i expected something to leak d you know  ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- left a fitting loose,  or --']", left a fitting loose  or ,+,MALE,0
+['yes. /'],yes ,b,FEMALE,2
+"[""-- didn't use teflon tape on one of them or something like that. /""]", didnt use teflon tape on one of them or something like that ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"['{c but } it all came together,  /']",c but  it all came together  ,sd,MALE,1
+"['{c so } [ i, + i ] felt pretty fortunate about that. /']",c so   i  i  felt pretty fortunate about that ,sd,MALE,1
+"['all worked out all right, {f huh. } /']",all worked out all right f huh  ,bf,FEMALE,20
+['how about you? /'],how about you ,qo,MALE,25
+"['[ {d well, } + {f um, } {d well } ] probably the last thing i did was, {f uh, } paint and wallpaper kids room -- /']", d well   f um  d well   probably the last thing i did was f uh  paint and wallpaper kids room  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and, }  {f uh, } i learned to, - /']", c and   f uh  i learned to  ,sd,FEMALE,1
+['i used the wrong kind of paint.  /'],i used the wrong kind of paint  ,sd,FEMALE,1
+"[""this [ wasn't, + ] must have not been a very good quality, because it just hasn't stood up very well. /""]",this  wasnt   must have not been a very good quality because it just hasnt stood up very well ,sd,FEMALE,1
+['what kind of paint? /'],what kind of paint ,qw,MALE,12
+"['it was a latex [ paint, + paint, ]  /']",it was a latex  paint  paint   ,sd,FEMALE,1
+['it was flat -- /'],it was flat  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } i wonder if maybe i should have used a gloss.  /'], c and  i wonder if maybe i should have used a gloss  ,sd,FEMALE,1
+"['{f uh, } {c but } they say you ought to use your gloss mainly in your --']",f uh  c but  they say you ought to use your gloss mainly in your ,sd,FEMALE,1
+"['-- kitchens, and things like that. /']", kitchens and things like that ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['that, and semigloss for trim work,  and usually flat for walls. /']",that and semigloss for trim work  and usually flat for walls ,^2,MALE,23
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['{c but } i think maybe, {f uh, } - /']",c but  i think maybe f uh   ,%,FEMALE,5
+"[""i don't know if it was just the. -/""]",i dont know if it was just the ,sv,FEMALE,3
+['was it not washable paint? /'],was it not washable paint ,qy,MALE,7
+"['{d well, } [ it, + it ] is a latex paint,  /']",d well   it  it  is a latex paint  ,no,FEMALE,31
+"['{c but } it just kind of  [ is, + is, ] - /']",c but  it just kind of   is  is   ,%,FEMALE,5
+"[""[ {c so, } + {d you know, } {c so } ] [ it's supposed to wash, + you're supposed to be able to wash ] it -- /""]", c so   d you know  c so    its supposed to wash  youre supposed to be able to wash  it  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- <child_yelling> {c but } it, {f um, } just looks dingy.  /']", childyelling c but  it f um  just looks dingy  ,sd,FEMALE,1
+"[""i don't know how else to explain it. /""]",i dont know how else to explain it ,sd,FEMALE,1
+['what color is it? /'],what color is it ,qw,MALE,12
+"[""it's pink. /""]",its pink ,sd,FEMALE,1
+"['pink,  /']",pink  ,b^m,MALE,24
+['okay. /'],okay ,bk,MALE,14
+"[""it's kind of got, {f uh, } {f oh, } just kind of a worn look to it.  /""]",its kind of got f uh  f oh  just kind of a worn look to it  ,sd,FEMALE,1
+"[""i don't know even how to say, - /""]",i dont know even how to say  ,sd,FEMALE,1
+"[""<child_yelling> just didn't turn out quite as nice as i would have liked  /""]",childyelling just didnt turn out quite as nice as i would have liked  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['did you, {f uh, } require more than one can of paint? /']",did you f uh  require more than one can of paint ,qy,MALE,7
+"['[ i, + we ] <child_yelling> put two coats on it,  /']", i  we  childyelling put two coats on it  ,sd,FEMALE,1
+"[""{c and } it's a small room,  /""]",c and  its a small room  ,sd,FEMALE,1
+"['{c but } i think it only took one, {f uh, } can. /']",c but  i think it only took one f uh  can ,sd,FEMALE,1
+"[""you didn't have to mix paint then, right. /""]",you didnt have to mix paint then right ,qy,MALE,7
+['no. /'],no ,nn,FEMALE,13
+['okay. /'],okay ,bk,MALE,14
+"['we did, {f uh, } {f oh, } - /']",we did f uh  f oh   ,%,FEMALE,5
+"['you do mix the color as far as you start with, {f uh, } white  /']",you do mix the color as far as you start with f uh  white  ,sd,FEMALE,1
+['{c and --'],c and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- then } they add the color. /'], then  they add the color ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""you know what i'm saying  /""]",you know what im saying  ,qy^d,FEMALE,16
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['yeah.  /'],yeah  ,ny,MALE,9
+['{c but } you only had one can of paint that you --'],c but  you only had one can of paint that you ,qy^d,MALE,16
+['yes. /'],yes ,ny,FEMALE,9
+['-- did the entire room with. /'], did the entire room with ,+,MALE,0
+['right.  /'],right  ,b,FEMALE,2
+"['{c and then } i wall papered a couple of walls,  /']",c and then  i wall papered a couple of walls  ,sd,FEMALE,1
+"['{c and, }  {f uh. } -/']",c and   f uh  ,%,FEMALE,5
+"[""how'd that go? /""]",howd that go ,qw,MALE,12
+"[""{d well, } that was the first time i've ever wallpapered,  /""]",d well  that was the first time ive ever wallpapered  ,sd,FEMALE,1
+"['# {c and, }  {f uh, } # -/']", c and   f uh   ,%,FEMALE,5
+"[""# kind of fun, isn't it. # /""]", kind of fun isnt it  ,qy,MALE,7
+"[""<laughter> that's an education in itself. /""]",laughter thats an education in itself ,no,FEMALE,31
+['really. /'],really ,b,MALE,2
+"['{c but, }  {f uh, } the dye lots, {f uh, } must have been a little bit different from, - /']",c but   f uh  the dye lots f uh  must have been a little bit different from  ,sd,FEMALE,1
+"[""first of all it takes quite a few rolls, even a small room, if you're trying to match a design. /""]",first of all it takes quite a few rolls even a small room if youre trying to match a design ,sd,FEMALE,1
+['repeating patterns is what you have to check for --'],repeating patterns is what you have to check for ,sd,MALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['-- [ when you, + when you ] buy your paper. /']",  when you  when you  buy your paper ,+,MALE,0
+"[""that's what i needed,  /""]",thats what i needed  ,sd,FEMALE,1
+"[""{c and } i didn't think about that.  /""]",c and  i didnt think about that  ,sd,FEMALE,1
+['i got a mickey mouse print is <laughter> what i got. /'],i got a mickey mouse print is laughter what i got ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['{c and so } a lot is wasted. /'],c and so  a lot is wasted ,sd,FEMALE,1
+['normally it will tell you on the roll how often a pattern repeats. /'],normally it will tell you on the roll how often a pattern repeats ,sd,MALE,1
+['{c so } you know how. - /'],c so  you know how  ,sd,FEMALE,1
+"[""{d see, } i didn't even think to look for that. /""]",d see  i didnt even think to look for that ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c and then } the, - /']",c and then  the  ,%,FEMALE,5
+"['one of them was just a [ different color, + different color ] pink, is what it ended up being. /']",one of them was just a  different color  different color  pink is what it ended up being ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,MALE,5
+['{c and }  ((   )) . -/'],c and        ,%,FEMALE,5
+['when you did your papering did you start in the middle of the wall? /'],when you did your papering did you start in the middle of the wall ,qy,MALE,7
+['no  /'],no  ,nn,FEMALE,13
+"[""i didn't. /""]",i didnt ,sd,FEMALE,1
+['{c or } did you start at the edge? /'],c or  did you start at the edge ,qrr,MALE,33
+"[""is that how you're supposed to do?  /""]",is that how youre supposed to do  ,qy,FEMALE,7
+"['i started at one edge and went over,  /']",i started at one edge and went over  ,sd,FEMALE,1
+['then you had to cut around the closet --'],then you had to cut around the closet ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- and cut around a window -- /'], and cut around a window  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c but, }  {f uh, } -/']", c but   f uh  ,%,FEMALE,5
+"[""i've had my best luck in papering when i start in the middle of a wall,  /""]",ive had my best luck in papering when i start in the middle of a wall  ,sd,MALE,1
+"[""{c and } i'll start with a plumb line.""]",c and  ill start with a plumb line,sd,MALE,1
+['{c and } start right there. -/'],c and  start right there ,bf,FEMALE,20
+"['and start in the middle of the wall,  [ and, +  and ] go from there, and go all the way around the room. /']",and start in the middle of the wall   and   and  go from there and go all the way around the room ,+,MALE,0
+"['do you seem to get it straighter,  /']",do you seem to get it straighter  ,qy,FEMALE,7
+"['is that the advantage,  /']",is that the advantage  ,qy,FEMALE,7
+"[""{c or } what's the, -/""]",c or  whats the ,qrr,FEMALE,33
+"['{d well, } [ you, + you, ] -/']",d well   you  you  ,%,MALE,5

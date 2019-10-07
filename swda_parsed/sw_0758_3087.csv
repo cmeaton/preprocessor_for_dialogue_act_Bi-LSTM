@@ -1,0 +1,267 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay. /'],okay ,"fo_o_fw_""_by_bc",FEMALE,0
+"['okay,  /']",okay  ,b,MALE,2
+"[""[ now, + now ] we're supposed to talk about music? /""]", now  now  were supposed to talk about music ,qy,MALE,7
+['right. /'],right ,na,FEMALE,21
+"['[ why, + why ] did you check music? /']", why  why  did you check music ,qw,MALE,12
+['why did i pick music? /'],why did i pick music ,br,FEMALE,30
+['uh-huh. /'],uhhuh ,aa,MALE,4
+"['{f oh, } {c because } i know a little bit about  music, {d you know, }  /']",f oh  c because  i know a little bit about  music d you know   ,sd,FEMALE,1
+"['{c so } i thought that i would put that, - /']",c so  i thought that i would put that  ,sd,FEMALE,1
+"['{c plus } [ i, + i ]  like, {f uh, } to listen to music. /']",c plus   i  i   like f uh  to listen to music ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['what kind of music do you enjoy? /'],what kind of music do you enjoy ,qw,MALE,12
+"['{f um, } i really enjoy the oldies, - /']",f um  i really enjoy the oldies  ,sd,FEMALE,1
+['is what  i really listen to most of the time. -/'],is what  i really listen to most of the time ,sd,FEMALE,1
+"['like [ what, + what ] kind of oldies? /']",like  what  what  kind of oldies ,qw,MALE,12
+"['{f uh, } /']",f uh  ,%,FEMALE,5
+"['like the fifties oldies, or older oldies? /']",like the fifties oldies or older oldies ,qy,MALE,7
+['usually in the fifties. /'],usually in the fifties ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i'm not really sure,  /""]",im not really sure  ,h,FEMALE,15
+"[""i think [  it's, + it's ]  a fifties, sixties, and seventies station that i listen to. /""]",i think   its  its   a fifties sixties and seventies station that i listen to ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['they have the same kind of station  down here,  /']",they have the same kind of station  down here  ,sd,MALE,1
+"[""{c and } when i listen to music most of the time that's what i listen to. /""]",c and  when i listen to music most of the time thats what i listen to ,sd,MALE,1
+"['{f oh, } really. /']",f oh  really ,bh,FEMALE,18
+['uh-huh. /'],uhhuh ,ny,MALE,9
+"[""i don't know a lot of the, {f um, } {f uh, }  musicians' names or the singers' names, /""]",i dont know a lot of the f um  f uh   musicians names or the singers names ,sd,FEMALE,1
+['{c but } i know a lot of the old songs. /'],c but  i know a lot of the old songs ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"[""we just got a disk the other  day that was a, {f um, } disk of [ nat, + nat ] king cole's greatest hits -- /""]",we just got a disk the other  day that was a f um  disk of  nat  nat  king coles greatest hits  ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,ba,FEMALE,6
+['-- {c and } it is excellent.  /'], c and  it is excellent  ,sd,MALE,1
+"[""[ it, + it's ] about twenty  of his greatest hits on it.  /""]", it  its  about twenty  of his greatest hits on it  ,sd,MALE,1
+"[""it's really an excellent, excellent c d.  /""]",its really an excellent excellent c d  ,sd,MALE,1
+"['[  we are, + we were ] really quite pleased with it.  /']",  we are  we were  really quite pleased with it  ,sd,MALE,1
+['it was good. /'],it was good ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ have you, + {f um, } do you ] listen, - /']", have you  f um  do you  listen  ,qy,MALE,7
+"['have you [ heard of nat, + heard of nat ]  king cole? /']",have you  heard of nat  heard of nat   king cole ,qy,MALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['i have. /'],i have ,sd,FEMALE,1
+['okay.  /'],okay  ,b,MALE,2
+"['{d well, } {f um, } {f um, } <noise> <<finger snap>>  do you play any musical instruments or anything. /']",d well  f um  f um  noise finger snap  do you play any musical instruments or anything ,qy,MALE,7
+"['{f um, } i played the accordion for seven years -- /']",f um  i played the accordion for seven years  ,sd,FEMALE,1
+['-- {c and } i played the clarinet for seven years also. /'], c and  i played the clarinet for seven years also ,sd,FEMALE,1
+"['[ at, + at ] the same time, or, -/   *[[slash error should be qy]]']", at  at  the same time or    slash error should be qy,+,MALE,0
+"['no,  /']",no  ,nn,FEMALE,13
+"['i played the accordion until i got into about sixth or  seventh grade,  /']",i played the accordion until i got into about sixth or  seventh grade  ,sd,FEMALE,1
+"['{c and then } in fourth grade i started the clarinet,  /']",c and then  in fourth grade i started the clarinet  ,sd,FEMALE,1
+['{c and } i played that all through high school. /'],c and  i played that all through high school ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""{d like, } {c so } you're in the marching  band and stuff in high school. /""]",d like  c so  youre in the marching  band and stuff in high school ,qy^d,MALE,16
+"['i was,  /']",i was  ,na,FEMALE,21
+['yes. /'],yes ,ny,FEMALE,9
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ i, + i ] played the baritone horn --']", i  i  played the baritone horn ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+['-- in high school band and in college.  /'], in high school band and in college  ,+,MALE,0
+"['{d so, } {c and, } my wife played flute in high school. /']",d so  c and  my wife played flute in high school ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c so. } -/'],c so  ,%,MALE,5
+['{c and then } in concert band i played the bass clarinet. /'],c and then  in concert band i played the bass clarinet ,sd,FEMALE,1
+['really -- /'],really  ,b,MALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['-- really. /'], really ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d actually } that's exactly the same thing my  ex-wife did <laughter>.  /""]",d actually  thats exactly the same thing my  exwife did laughter  ,sd,MALE,1
+['she played the clarinet  /'],she played the clarinet  ,sd,MALE,1
+['{c and then } she played bass  clarinet during concert band. /'],c and then  she played bass  clarinet during concert band ,sd,MALE,1
+"['{f oh, } really. /']",f oh  really ,bh,FEMALE,18
+"['yes,  /']",yes  ,ny,MALE,9
+"['yeah,  /']",yeah  ,ny,MALE,9
+['{c so. } -/'],c so  ,%,MALE,5
+['i like the low notes better than the high notes.  /'],i like the low notes better than the high notes  ,sd,FEMALE,1
+['{c so. } - /'],c so   ,%,FEMALE,5
+"[""we didn't have any bass clarinet players  /""]",we didnt have any bass clarinet players  ,sd,FEMALE,1
+"['{c so } i asked him if i could play it,  because i was first clarinet,  /']",c so  i asked him if i could play it  because i was first clarinet  ,sd,FEMALE,1
+"['{c and } they end up playing a lot of the  high notes,  /']",c and  they end up playing a lot of the  high notes  ,sd,FEMALE,1
+"[""{c and } [ i don't, + i don't ] care for the sound of the high notes.  /""]",c and   i dont  i dont  care for the sound of the high notes  ,sd,FEMALE,1
+"['{c so } i asked  him if i could play the bass clarinet,  /']",c so  i asked  him if i could play the bass clarinet  ,sd,FEMALE,1
+"['{c and } he said, sure, {d you know, }  /']",c and  he said sure d you know   ,sd,FEMALE,1
+"[""he didn't have anyone to play it.   /""]",he didnt have anyone to play it   ,sd,FEMALE,1
+"['{c so } i played it,  /']",c so  i played it  ,sd,FEMALE,1
+['{c and } i really enjoyed it. /'],c and  i really enjoyed it ,sd,FEMALE,1
+"['{f um. }  {d well, } i like it,  /']",f um   d well  i like it  ,sd,MALE,1
+"['[ i, + i ] like  the low instruments better, too. /']", i  i  like  the low instruments better too ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } [ do you go to, + do you go to ]  listen to much live music? /']",f um   do you go to  do you go to   listen to much live music ,qy,MALE,7
+['pardon me? /'],pardon me ,br,FEMALE,30
+"['do you listen to much live music, like concerts or  things there? /']",do you listen to much live music like concerts or  things there ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i really don't go to very many concerts. /""]",i really dont go to very many concerts ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""[ we're, + we're ]  going to one here in a couple of weeks.  /""]", were  were   going to one here in a couple of weeks  ,sd,MALE,1
+"['the, - /']",the  ,%,MALE,5
+"[""{f um, } {f um, } i don't know if you follow broadway, much,  /""]",f um  f um  i dont know if you follow broadway much  ,sd,MALE,1
+"['{c but, } {f uh, } michael crawford was in phantom of the opera on broadway. /']",c but  f uh  michael crawford was in phantom of the opera on broadway ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d you know, } you know whom i'm talking about? /""]",d you know  you know whom im talking about ,qy,MALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"[""{c and } he's coming to dallas on the twenty-ninth,  /""]",c and  hes coming to dallas on the twentyninth  ,sd,MALE,1
+"[""{c and } we got a big group going down to hear him sing a bunch of, {f uh, } andrew lloyd webber's <<spelled phonetically>> music.  /""]",c and  we got a big group going down to hear him sing a bunch of f uh  andrew lloyd webbers spelled phonetically music  ,sd,MALE,1
+"[""{c so } that'll be good. /""]",c so  thatll be good ,sd,MALE,1
+"['{f oh, } wow. /']",f oh  wow ,ba,FEMALE,6
+['my sons are kind of into broadway.  /'],my sons are kind of into broadway  ,sd,MALE,1
+"['[ [ [ they, + they, ] + my, ] + my ] older son is at columbia in new york  city,  /']",   they  they   my   my  older son is at columbia in new york  city  ,sd,MALE,1
+"[""{c and } he's been to see  phantom, and les miserables and bunch of other things up there,  /""]",c and  hes been to see  phantom and les miserables and bunch of other things up there  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+['i would love to be able to go see les miserables. /'],i would love to be able to go see les miserables ,sd,FEMALE,1
+"['{c and } he does it,  /']",c and  he does it  ,sd,MALE,1
+['he can go if they get  sixteen dollar tickets --'],he can go if they get  sixteen dollar tickets ,sd,MALE,1
+"['{f oh, } my gosh. /']",f oh  my gosh ,ba,FEMALE,6
+"['-- to that thing,  /']", to that thing  ,+,MALE,0
+"['yeah,  /']",yeah  ,%,MALE,5
+"['yeah,  /']",yeah  ,%,MALE,5
+"['{c and }  one of the, {f uh, } - /']",c and   one of the f uh   ,sd,MALE,1
+"['the last time they went up, a friend of his wanted to go,  /']",the last time they went up a friend of his wanted to go  ,sd,MALE,1
+"[""{c and }  chris didn't want to go,  /""]",c and   chris didnt want to go  ,sd,MALE,1
+"['{c so } the friend david went,  /']",c so  the friend david went  ,sd,MALE,1
+"['{c and } he went and bought one of the low  priced student tickets,  /']",c and  he went and bought one of the low  priced student tickets  ,sd,MALE,1
+"['{c and } [ they, + they ]  gave  him the seat that normally  belongs to john bel john <<spelled phonetically>>.  /']",c and   they  they   gave  him the seat that normally  belongs to john bel john spelled phonetically  ,sd,MALE,1
+"[""it's his house seat.  /""]",its his house seat  ,sd,MALE,1
+"[""that's under his control,  /""]",thats under his control  ,sd,MALE,1
+['{c and } he said it was a great seat. /'],c and  he said it was a great seat ,sd,MALE,1
+['holy smoke. /'],holy smoke ,ba,FEMALE,6
+"[""{c so, } [ [ he, + he's ] been to, + they've been to ]  see it several times. /""]",c so    he  hes  been to  theyve been to   see it several times ,sd,MALE,1
+"['{f oh, } i would love to go see that, and cats --']",f oh  i would love to go see that and cats ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- chorus line -- /'], chorus line  ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+['-- i would love to be able to go see those. /'], i would love to be able to go see those ,sd,FEMALE,1
+"['would they, - /']",would they  ,%,MALE,5
+"[""[ do, + don't ] any of those ever  come to pittsburgh? /""]", do  dont  any of those ever  come to pittsburgh ,qy,MALE,7
+"['they do,  /']",they do  ,na,FEMALE,21
+"['{c but } i work,  /']",c but  i work  ,sd,FEMALE,1
+"['{c and } [ i went to, + i go to ]  college,  /']",c and   i went to  i go to   college  ,sd,FEMALE,1
+"['i had just gotten, - /']",i had just gotten  ,sd,FEMALE,1
+"['i just graduated from college in may,  /']",i just graduated from college in may  ,sd,FEMALE,1
+"[""{c and so } i really didn't  have the chance or  the money to go see them. /""]",c and so  i really didnt  have the chance or  the money to go see them ,sd,FEMALE,1
+['sure.  /'],sure  ,b,MALE,2
+"[""{d well, } we're kind of, {d you know, } - /""]",d well  were kind of d you know   ,sd,MALE,1
+"['they, - /']",they  ,%,MALE,5
+"['{d well, } i saw [  two, + two ] road shows of les mis-,  /']",d well  i saw   two  two  road shows of les mis  ,sd,MALE,1
+['{c and } they were both excellent. /'],c and  they were both excellent ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so } if it comes to pittsburgh in the road shows, and  i think they have three different companies that tour the u s, {f um, }  you should go see it, because [ it's really, + it's really ] outstanding. /""]",c so  if it comes to pittsburgh in the road shows and  i think they have three different companies that tour the u s f um   you should go see it because  its really  its really  outstanding ,ad,MALE,22
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""my brother doesn't even like that kind of  stuff,  /""]",my brother doesnt even like that kind of  stuff  ,sd,FEMALE,1
+"['{c and } he went to new york,  /']",c and  he went to new york  ,sd,FEMALE,1
+"['a bunch of, - /']",a bunch of  ,%,FEMALE,5
+"['there was {d like } twenty students  from high school that went,  /']",there was d like  twenty students  from high school that went  ,sd,FEMALE,1
+"['{c and } he went to new york with them,  /']",c and  he went to new york with them  ,sd,FEMALE,1
+"['{c and } he saw it,  /']",c and  he saw it  ,sd,FEMALE,1
+"[""{c and } he said it was the best thing he'd ever seen -- /""]",c and  he said it was the best thing hed ever seen  ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""-- {c and } he doesn't even like that type of stuff. /""]", c and  he doesnt even like that type of stuff ,sd,FEMALE,1
+"[""{d well, } i think it's just incredible.  /""]",d well  i think its just incredible  ,sv,MALE,3
+"['i, - /']",i  ,%,MALE,5
+"['{c and then, } {d you know, } those, {f um, } two guys who wrote les mis wrote a new show call miss saigon <<spelled phonetically>>. /']",c and then  d you know  those f um  two guys who wrote les mis wrote a new show call miss saigon spelled phonetically ,sd,MALE,1
+['{f oh } really. /'],f oh  really ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['it just opened in new york this spring,  /']",it just opened in new york this spring  ,sd,MALE,1
+"['{c and } my son and his friend were in a lottery to get tickets to it,  /']",c and  my son and his friend were in a lottery to get tickets to it  ,sd,MALE,1
+['{c and } they got  tickets for the opening night. /'],c and  they got  tickets for the opening night ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c and } they went to it,  /']",c and  they went to it  ,sd,MALE,1
+"['{c and } they said [ [ it was, + it was ]  great, + it was great. ] /']",c and  they said   it was  it was   great  it was great  ,sd,MALE,1
+"['{f oh, } {d see } {d now, } i like that type of stuff.  /']",f oh  d see  d now  i like that type of stuff  ,sd,FEMALE,1
+"[""{c but } my fiancee doesn't really like  it.  /""]",c but  my fiancee doesnt really like  it  ,sd,FEMALE,1
+"[""he's more into the new wave music, /""]",hes more into the new wave music ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['like depressed mode,  /']",like depressed mode  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""i guess, i don't know either, {d you know, } /""]",i guess i dont know either d you know  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i don't too much,  /""]",i dont too much  ,sd,MALE,1
+['{c but } my younger son  listens to some of that kind of stuff. /'],c but  my younger son  listens to some of that kind of stuff ,sd,MALE,1
+"[""{f oh, } i don't know, {f uh, }  /""]",f oh  i dont know f uh   ,h,FEMALE,15
+"['really weird names, {d like } the dead milkman, - /']",really weird names d like  the dead milkman  ,sd,FEMALE,1
+"[""{c or } [ su-, + ] i don't know. /""]",c or   su   i dont know ,h,FEMALE,15
+['<laughter>.'],laughter,x,MALE,8
+"[""{f oh, } it's {d you know, } really weird stuff,   he likes,  /""]",f oh  its d you know  really weird stuff   he likes  ,sd,FEMALE,1
+"['{c and } i thought, {f oh } my gosh, ((   ))  <laughter>. /']",c and  i thought f oh  my gosh      laughter ,sd,FEMALE,1
+['{c so } he listens to new wave  /'],c so  he listens to new wave  ,bf,MALE,20
+['{c and } you listen to the oldies. /'],c and  you listen to the oldies ,bf,MALE,20
+['yeah  /'],yeah  ,aa,FEMALE,4
+['<laughter>.'],laughter,x,FEMALE,8
+"[""that's kind --""]",thats kind ,sv,MALE,3
+"['{d well, } -/']",d well  ,%,FEMALE,5
+['-- of different.  /'], of different  ,+,MALE,0
+"[""{d well, } that's good though, {d you know. }  /""]",d well  thats good though d you know   ,sv,MALE,3
+"[""it's good to cover all the bases there. /""]",its good to cover all the bases there ,sv,MALE,3
+"[""[ i pretty, + i'll ] listen to anything basically,  except i don't like the real hard metal rock. /""]", i pretty  ill  listen to anything basically  except i dont like the real hard metal rock ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['i just refuse to listen to that at all.  /'],i just refuse to listen to that at all  ,sd,FEMALE,1
+"[""i'll even listen to country.  /""]",ill even listen to country  ,sd,FEMALE,1
+"[""[ i don't, + i like ] some country. /""]", i dont  i like  some country ,sd,FEMALE,1
+"[""{d well, } [ we don't, + now we don't ]  listen to much country,  /""]",d well   we dont  now we dont   listen to much country  ,sd,MALE,1
+"['{c but } we just, - /']",c but  we just  ,%,MALE,5
+"[""at the same night we bought that nat king cole album,  we bought garth brooks' album, no fences. /""]",at the same night we bought that nat king cole album  we bought garth brooks album no fences ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['that is excellent.  /'],that is excellent  ,sd,MALE,1
+"['[ [ we, +']",  we ,ng,MALE,29
+['do you like randy travis? /'],do you like randy travis ,qy,FEMALE,7
+"[""{d well, } we, ] + i've ] [ never, + never ]  listened.  /""]",d well  we   ive   never  never   listened  ,+,MALE,0
+"[""{e i mean, } [ i've, + i've ] probably heard him,  /""]",e i mean   ive  ive  probably heard him  ,sd,MALE,1
+"[""{c but } i've never bought any of his music. /""]",c but  ive never bought any of his music ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['garth brooks is probably the only country album we have,  /']",garth brooks is probably the only country album we have  ,sd,MALE,1
+"[""{c or, } {a no wait, } my wife bought an album of hank williams' greatest hits. /""]",c or  a no wait  my wife bought an album of hank williams greatest hits ,sd,MALE,1
+"['{f oh, } hank williams junior? /']",f oh  hank williams junior ,qy,FEMALE,7
+"['nope,  /']",nope  ,nn,MALE,13
+['this is hank williams --'],this is hank williams ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- senior,  /']", senior  ,+,MALE,0
+['{c so } these are a bunch of old recordings. /'],c so  these are a bunch of old recordings ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['she bought that the same night we bought the  nat king cole and the garth brooks. /'],she bought that the same night we bought the  nat king cole and the garth brooks ,sd,MALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,ba,FEMALE,6
+"['{d well, } those should be good albums. /']",d well  those should be good albums ,sv,FEMALE,3
+['it is pretty good.  /'],it is pretty good  ,sd,MALE,1
+['she likes it. /'],she likes it ,sd,MALE,1
+"['if you have the chance, -/']",if you have the chance ,sd,FEMALE,1
+"[""[ it's a little, + it's a little ]  too country for me,  /""]", its a little  its a little   too country for me  ,sd,MALE,1
+"[""it's a little too, {f uh, } ronky tonk or something. /""]",its a little too f uh  ronky tonk or something ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ i like, + i like ] the garth brooks album a lot. /']", i like  i like  the garth brooks album a lot ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's pretty good,  /""]",its pretty good  ,sd,MALE,1
+"[""it's pretty good. /""]",its pretty good ,sd,MALE,1
+"[""{f um, } i don't know,  /""]",f um  i dont know  ,h,FEMALE,15
+"[""maybe you wouldn't like  randy travis.  /""]",maybe you wouldnt like  randy travis  ,sv,FEMALE,3
+"[""he's really country himself -- /""]",hes really country himself  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c but, } {f uh, } [ [ i, + {d you know, } i, ] + i ]  really enjoy listening to his music. /']", c but  f uh    i  d you know  i   i   really enjoy listening to his music ,sd,FEMALE,1
+"['[ which album, + which of his albums ]  do you think is the best? /']", which album  which of his albums   do you think is the best ,qw,MALE,12
+"[""{f oh, } i don't know.  /""]",f oh  i dont know  ,no,FEMALE,31
+"['if i were you, i would get  the greatest hits album --']",if i were you i would get  the greatest hits album ,ad,FEMALE,22
+['okay. /'],okay ,b,MALE,2
+"['-- if he had one, because {d you know, } that would have  a mixture of all his, {d you know, } top songs on it. /']", if he had one because d you know  that would have  a mixture of all his d you know  top songs on it ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but, } {f um, } we have, {a i think, } four records of his.  /']",c but  f um  we have a i think  four records of his  ,sd,FEMALE,1
+"[""i can't, {d you know, } name the names of them off hand -- /""]",i cant d you know  name the names of them off hand  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c but } we have, {a i think, } all his records so far,  /']", c but  we have a i think  all his records so far  ,sd,FEMALE,1
+"['{c and }  all my brothers and  sisters listen to them, even the ones that like the heavy metal --']",c and   all my brothers and  sisters listen to them even the ones that like the heavy metal ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- they really enjoy listening to him,  /']", they really enjoy listening to him  ,+,FEMALE,0
+['{c so. } -/'],c so  ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know, } maybe if you did like hank williams and  garth, {d you know, } maybe you would enjoy [ tra-, + {f uh, } randy travis. ] /']",d you know  maybe if you did like hank williams and  garth d you know  maybe you would enjoy  tra  f uh  randy travis  ,sv,FEMALE,3
+"[""{d well, } [ i, + i ] think we'll probably get  [ one, + one ] of his albums, because we do kind of like it,  /""]",d well   i  i  think well probably get   one  one  of his albums because we do kind of like it  ,sd,MALE,1
+['{c but } --'],c but  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {d you know, } it's kind of different. /""]", d you know  its kind of different ,+,MALE,0
+"['yeah, /']",yeah ,b,FEMALE,2
+"[""{d so, } {c so } it's good. /""]",d so  c so  its good ,sv,MALE,3
+"['{f um, } do you know any, {f oh, } - /']",f um  do you know any f oh   ,qy,FEMALE,7
+"['i was going to say do  you know any other country singers that you would, {d you know, } {e i mean, }  the women, do you like the  ((   )) , -/']",i was going to say do  you know any other country singers that you would d you know  e i mean   the women do you like the       ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['we do like the  ((   )) , - /']",we do like the        ,sd,MALE,1
+['in fact we have a  ((   ))  album ... -/'],in fact we have a       album  ,sd,MALE,1

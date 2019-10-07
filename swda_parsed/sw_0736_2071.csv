@@ -1,0 +1,138 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""ellen what kind of a car do you think you're going to buy?  <<tv and  background noise>>. /""]",ellen what kind of a car do you think youre going to buy  tv and  background noise ,qw,FEMALE,12
+"['{d well, } as a matter of fact, i was thinking about that  the other day,  /']",d well  as a matter of fact i was thinking about that  the other day  ,sd,FEMALE,1
+"[""{c and, } {f uh, } i really don't know the answer, <laughter>,  /""]",c and  f uh  i really dont know the answer laughter  ,sd,FEMALE,1
+"['{f uh, } i would sort of like to, {f uh, } think about something in the way of, {f uh, } {f uh, } sort of a sporty car but  [ not any, + not, {d you know, } a ]  luxury type sporty one. /']",f uh  i would sort of like to f uh  think about something in the way of f uh  f uh  sort of a sporty car but   not any  not d you know  a   luxury type sporty one ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['but, {f um, } something that still has a lots of amenities and, {d you know, } gadgets and things. /']",but f um  something that still has a lots of amenities and d you know  gadgets and things ,sd,FEMALE,1
+"['{f oh, } you do want a lot of that stuff? /']",f oh  you do want a lot of that stuff ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['{d well, } yeah  /']",d well  yeah  ,ny,FEMALE,9
+"['[ i like, + i like ]  some of those things.  /']", i like  i like   some of those things  ,sd,FEMALE,1
+['they come in really handy <<clicking sounds in background>>. /'],they come in really handy clicking sounds in background ,sd,FEMALE,1
+"['what kind of, {f uh, } things are you going to consider,  /']",what kind of f uh  things are you going to consider  ,qw,FEMALE,12
+"['{d you know, } [ what, + ] {f uh, } you said something [ about the, + about the, ] - /']",d you know   what   f uh  you said something  about the  about the   ,sd,FEMALE,1
+"['{d well, } what do you call them,  /']",d well  what do you call them  ,t1,FEMALE,37
+"['you said amenities,']",you said amenities,sd,FEMALE,1
+['amenities. /'],amenities ,b^m,FEMALE,24
+"['that they have,  /']",that they have  ,+,FEMALE,0
+"['{c but } what about, {f um, }  their reputation of the company or the price. /']",c but  what about f um   their reputation of the company or the price ,qw,FEMALE,12
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } of course, i guess, {f uh, } price is always the big consideration,  /']",d well  of course i guess f uh  price is always the big consideration  ,sv,FEMALE,3
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['it is for me,  /']",it is for me  ,sd,FEMALE,1
+"['other people,']",other people,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""don't seem to have the same problem <laughter>. /""]",dont seem to have the same problem laughter ,+,FEMALE,0
+"[""<laughter>  {d well, } [ that's, + that's ]  a big one in my book, /""]",laughter  d well   thats  thats   a big one in my book ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but, } {f uh, } {f um, } i have preferences  [ for, + {f uh, } for ] some, {f uh, } makers over others, {f um, }  /']",c but  f uh  f um  i have preferences   for  f uh  for  some f uh  makers over others f um   ,sd,FEMALE,1
+"['{c and } i would sort of like to buy american, /']",c and  i would sort of like to buy american ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but, } {d you know, } i'm not so totally hung up on that, that <<clicking sounds>> i wouldn't buy something else,  /""]",c but  d you know  im not so totally hung up on that that clicking sounds i wouldnt buy something else  ,sd,FEMALE,1
+['how about you? /'],how about you ,qo,FEMALE,25
+"['{d well, } {f um, } the last car  (( we )) bought was  american [ because  of, + because of ] that reason,  /']",d well  f um  the last car   we  bought was  american  because  of  because of  that reason  ,sd,FEMALE,1
+"['{c but } (( have ))  not been entirely  happy with, {f uh, } several things about the car, - /']",c but   have   not been entirely  happy with f uh  several things about the car  ,sd,FEMALE,1
+"[""it doesn't seem like the quality is quite as high as i expected it to be. /""]",it doesnt seem like the quality is quite as high as i expected it to be ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+"['{c because } several things,  minor things sort of, - /']",c because  several things  minor things sort of  ,sd,FEMALE,1
+"[""{c but } still they cost us money,  {f um, } that we didn't feel like we should have had to pay, on a car [ that, + that ] was that new,""]",c but  still they cost us money  f um  that we didnt feel like we should have had to pay on a car  that  that  was that new,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, }  /']",d you know   ,+,FEMALE,0
+['we bought the car new  /'],we bought the car new  ,sd,FEMALE,1
+"['{c and } after, - /']",c and  after  ,%,FEMALE,5
+"['{f um, } {d well, } {d well, } {d well } under two years we had to replace the clutch. /']",f um  d well  d well  d well  under two years we had to replace the clutch ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c and, } they just said, {d well, } {d you know, } clutches are  (( disposable )) ,  /']",c and  they just said d well  d you know  clutches are   disposable    ,sd,FEMALE,1
+"['{c and } i said, since when? /']",c and  i said since when ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['brake pads are  (( disposable )) ,']",brake pads are   disposable  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, }  /']",d you know   ,+,FEMALE,0
+"['we know that,  /']",we know that  ,sd,FEMALE,1
+['{c but } i never thought a clutch was disposable./'],c but  i never thought a clutch was disposable,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""i wouldn't have thought so either. /""]",i wouldnt have thought so either ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{c so } [ that was, + that was ]  kind of a shock <laughter>. /']",c so   that was  that was   kind of a shock laughter ,sd,FEMALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""[ i, + i ] guess there's a lot  [ to, + to ] think about when you're trying to make that decision. /""]", i  i  guess theres a lot   to  to  think about when youre trying to make that decision ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{d you know, } [ the less {d actually, } + the less ]  you spend on a car it seems like luxury cars, - /']",d you know   the less d actually   the less   you spend on a car it seems like luxury cars  ,sv,FEMALE,3
+"[""they're called luxury cars even  though they're much more expensive [ like, + like, ] {f uh, } {f uh, }  a mercedes benz,  /""]",theyre called luxury cars even  though theyre much more expensive  like  like  f uh  f uh   a mercedes benz  ,sd,FEMALE,1
+"[""they don't have the history of breaking down or things like that, that would go wrong  would definitely not be considered disposable. /""]",they dont have the history of breaking down or things like that that would go wrong  would definitely not be considered disposable ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['you would never think of having to replace the clutch in a mercedes,']",you would never think of having to replace the clutch in a mercedes,sv,FEMALE,3
+['no  /'],no  ,aa,FEMALE,4
+"['{c but } then, -/']",c but  then ,%,FEMALE,5
+['especially not after two years. /'],especially not after two years ,+,FEMALE,0
+"['no,  /']",no  ,aa,FEMALE,4
+"['{c but } on the other hand, i guess, too, {f uh, }  whenever you do have to have some major work done on one of those it costs a fortune. /']",c but  on the other hand i guess too f uh   whenever you do have to have some major work done on one of those it costs a fortune ,sd,FEMALE,1
+['really?  /'],really  ,bh,FEMALE,18
+"[""{f oh } i don't know. /""]",f oh  i dont know ,h,FEMALE,15
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i've, {f uh, } worked with a couple of people who have owned, {f uh, } various years, {f uh, }""]",ive f uh  worked with a couple of people who have owned f uh  various years f uh ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['mercedes  /'],mercedes  ,+,FEMALE,0
+"['{c and, } even though they do a lot of the work themself [ then + ] just buying the parts  and everything [ is, + is ]  pretty expensive.  /']",c and  even though they do a lot of the work themself  then   just buying the parts  and everything  is  is   pretty expensive  ,sd,FEMALE,1
+"[""{c but } for them [ it's, + it's ] sort of a hobby, too,""]",c but  for them  its  its  sort of a hobby too,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['to own them  ((   )) . /'],to own them       ,+,FEMALE,0
+"['what kind of, - /']",what kind of  ,qw,FEMALE,12
+['what brand of car are you thinking about buying  /'],what brand of car are you thinking about buying  ,qw,FEMALE,12
+['{c or }  (( {d like } )) what things are you looking at? /'],c or    d like   what things are you looking at ,qw,FEMALE,12
+"[""{d well, } i haven't [ re-, +  really ]  gotten that far with it,  {f um, }  /""]",d well  i havent  re   really   gotten that far with it  f um   ,sd,FEMALE,1
+"[""i've always sort of liked general motors,""]",ive always sort of liked general motors,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['a little bit better than some of the others  /'],a little bit better than some of the others  ,+,FEMALE,0
+"[""{c but, } {f uh, } {f oh, } i guess, i really don't know. /""]",c but  f uh  f oh  i guess i really dont know ,h,FEMALE,15
+['how come  ((   )) - /'],how come       ,%,FEMALE,5
+"[""i've been kind of, {f um, } - /""]",ive been kind of f um   ,sd,FEMALE,1
+"['i guess the commercials are getting to me, the toyota commercials, /']",i guess the commercials are getting to me the toyota commercials ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } i know that a lot of people  [ i've, + i've ] known that have had toyotas have been just extremely happy with them,  [ that + ] hardly had any problems at all. /""]",c and  i know that a lot of people   ive  ive  known that have had toyotas have been just extremely happy with them   that   hardly had any problems at all ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['that, - /']",that  ,%,FEMALE,5
+"[""i think that's, -/""]",i think thats ,%,FEMALE,5
+"['i think they have a really good, {f uh, } quality./']",i think they have a really good f uh  quality,sv,FEMALE,3
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"['my, {f uh, } daughter has owned two different ones,/']",my f uh  daughter has owned two different ones,sd,FEMALE,1
+"[""{c and, } {f uh, } {d you know, } we've had some work done on them  /""]",c and  f uh  d you know  weve had some work done on them  ,sd,FEMALE,1
+"[""{c but } it's not  too bad,  /""]",c but  its not  too bad  ,sd,FEMALE,1
+"['{c and } the reason, - /']",c and  the reason  ,%,FEMALE,5
+"['one of the reasons we, {f um, } bought the first one was  because a friend of ours had a toyota that he just really drove for years and  years and years  /']",one of the reasons we f um  bought the first one was  because a friend of ours had a toyota that he just really drove for years and  years and years  ,sd,FEMALE,1
+['{c and } he lived way out in the country  /'],c and  he lived way out in the country  ,sd,FEMALE,1
+"['{c so } he put a lot of miles on it, /']",c so  he put a lot of miles on it ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } you knew  it [ had, + had ]  been through a whole lot, /']",c and  you knew  it  had  had   been through a whole lot ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } yet, {d you know, } [ it, + it ]  held up pretty doggone good,  /']",c and  yet d you know   it  it   held up pretty doggone good  ,sd,FEMALE,1
+"['{c so, }']",c so ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['i thought they would <clicking>, -/']",i thought they would clicking ,+,FEMALE,0
+['they seem to be really durable. /'],they seem to be really durable ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{d so, } i don't know,  /""]",d so  i dont know  ,h,FEMALE,15
+"[""[ i'm, + i'm ] not ready to buy a new car yet,  /""]", im  im  not ready to buy a new car yet  ,sd,FEMALE,1
+"[""{c but } i don't know,  [ if, + if ] the next time i'm going to try  [ to, + to ] stay with buying something american or if i'm going to go for a little more,  what i would consider to be a long-term investment <laughter>. /""]",c but  i dont know   if  if  the next time im going to try   to  to  stay with buying something american or if im going to go for a little more  what i would consider to be a longterm investment laughter ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } - /']",d well   ,%,FEMALE,5
+"['{c and } i guess, {d you know, }  you always have to think about things like, your gas mileage and stuff like that, {d you know, } - /']",c and  i guess d you know   you always have to think about things like your gas mileage and stuff like that d you know   ,sv,FEMALE,3
+['you ... -/'],you  ,%,FEMALE,5
+"[""{f oh, } it's easy to get gas mileage in this car,/""]",f oh  its easy to get gas mileage in this car,sd,FEMALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+['<<background noise>>.'],background noise,x,FEMALE,8
+['it gets excellent gas mileage. /'],it gets excellent gas mileage ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's one of the big throwing cards for, some of the foreign ones <<noise like one music note>>. /""]",thats one of the big throwing cards for some of the foreign ones noise like one music note ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['<<pause>> {d well, } we talked long enough  <laughter>. /']",pause d well  we talked long enough  laughter ,ad,FEMALE,22
+['i think so. /'],i think so ,aa,FEMALE,4
+"['okay,  /']",okay  ,b,FEMALE,2
+"['{d well, } enjoyed it. /']",d well  enjoyed it ,fc,FEMALE,10
+"['all righty,  /']",all righty  ,fc,FEMALE,10
+['thanks <</tv and background noise>>. /'],thanks tv and background noise ,ft,FEMALE,43
+['# bye-bye. # /'], byebye  ,fc,FEMALE,10
+['# bye-bye. # /'], byebye  ,fc,FEMALE,10

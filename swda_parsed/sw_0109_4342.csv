@@ -1,0 +1,128 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d so } how do you, {f uh, } - /']",d so  how do you f uh   ,qw,MALE,12
+"[""[ {d so, } + {d so, }  ] it sounds like you've got a television going on there,  /""]", d so   d so    it sounds like youve got a television going on there  ,sd,MALE,1
+['{d so } i can assume that you probably watch the t v news.  /'],d so  i can assume that you probably watch the t v news  ,sd,MALE,1
+"['is that, -/']",is that ,%,MALE,5
+['i almost never watch t v news. /'],i almost never watch t v news ,sd,MALE,1
+['really? /'],really ,bh,MALE,18
+['<laughter>.'],laughter,x,MALE,8
+['wow.  /'],wow  ,ba,MALE,6
+"['(( i )) , -/']", i   ,%,MALE,5
+['i get most of my news driving back and forth to work listening to the radio. /'],i get most of my news driving back and forth to work listening to the radio ,sd,MALE,1
+"['{f uh, } [ what, + what ] station do you listen to? /']",f uh   what  what  station do you listen to ,qw,MALE,12
+"[""{f uh, } it's a local radio station.  /""]",f uh  its a local radio station  ,sd,MALE,1
+"[""it's called, {f uh, } k l i f, cliff. /""]",its called f uh  k l i f cliff ,sd,MALE,1
+"['cliff, i see,  /']",cliff i see  ,b^m,MALE,24
+"[""{d so, } {f uh, } it's not affiliated with anything, is it.  /""]",d so  f uh  its not affiliated with anything is it  ,qy,MALE,7
+['[ not -- +'], not  ,qy^d,MALE,16
+['no. /'],no ,nn,MALE,13
+"[""-- it's not ] a network station. /""]", its not  a network station ,+,MALE,0
+['no. /'],no ,nn,MALE,13
+"['okay,  /']",okay  ,bk,MALE,14
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c because } [ i, + i ] listen to, {f uh, } public radio a lot  /']",c because   i  i  listen to f uh  public radio a lot  ,sd,MALE,1
+"['{c and } [ they have, + they have ] k c r w, which [ [ i, + i, ] + i ] saw a thing recently, they may be trying to start their own, {f uh, } cable tv outlet, <clanking> i guess.  /']",c and   they have  they have  k c r w which   i  i   i  saw a thing recently they may be trying to start their own f uh  cable tv outlet clanking i guess  ,sd,MALE,1
+"[""they're [ getting a little, + getting a little ] feisty now <laughter>. /""]",theyre  getting a little  getting a little  feisty now laughter ,sd,MALE,1
+"['{d well, } [ this has, + this station has ]  a lot of just ongoing news -- /']",d well   this has  this station has   a lot of just ongoing news  ,sd,MALE,1
+"['{f uh, } /']",f uh  ,%,MALE,5
+"[""-- <throat_clearing> {c and } occasionally in the morning,  i'll pick up something like, {f uh, } c n n or that,  /""]", throatclearing c and  occasionally in the morning  ill pick up something like f uh  c n n or that  ,sd,MALE,1
+"[""{c but } i hate watching the, {d like, } ten o'clock news  /""]",c but  i hate watching the d like  ten oclock news  ,sd,MALE,1
+"['{c or, } -/']",c or  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c so } you have a paper or something or, -/']",c so  you have a paper or something or ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['[ we have a lo-, + {d well, } we have,   {f uh, } dallas morning news ] which is the big paper in dallas. /']", we have a lo  d well  we have   f uh  dallas morning news  which is the big paper in dallas ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ we read, + i read ] it pretty much --']", we read  i read  it pretty much ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- from cover to cover. /'], from cover to cover ,+,MALE,0
+['how do you like it?  /'],how do you like it  ,qw,MALE,12
+"[""[ it's been, + it's been ] a while since i read the dallas news.  /""]", its been  its been  a while since i read the dallas news  ,sd,MALE,1
+"['[ i, + {f uh, } fact, last time i ] read the [ dallas, + dallas ] news i was in arkansas. /']", i  f uh  fact last time i  read the  dallas  dallas  news i was in arkansas ,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"['(( i, {f uh } )) , -/']", i f uh    ,%,MALE,5
+['the times herald went out of business here -- /'],the times herald went out of business here  ,sd,MALE,1
+"['{f oh, } yeah? /']",f oh  yeah ,bh,MALE,18
+"['-- {c and so } we really only have one  dallas newspaper and one,']", c and so  we really only have one  dallas newspaper and one,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+['fort worth newspaper. /'],fort worth newspaper ,+,MALE,0
+"['{d well, } that must be pretty bad.  /']",d well  that must be pretty bad  ,sv,MALE,3
+"['{d so, }  how did that happen, anyway? /']",d so   how did that happen anyway ,qw,MALE,12
+"['{f uh, } financial trouble. /']",f uh  financial trouble ,sd,MALE,1
+"['no,  /']",no  ,ar,MALE,28
+"['not how,  /']",not how  ,ar,MALE,28
+"['{e i mean, } [ when did it, +  when did they ]  ((   )) , -/']",e i mean   when did it   when did they        ,qw,MALE,12
+"['{f oh, } when did it happen? /']",f oh  when did it happen ,br,MALE,30
+['yeah. /'],yeah ,aa,MALE,4
+['i guess they closed down about three months ago. /'],i guess they closed down about three months ago ,sd,MALE,1
+"['{f oh, } really. /']",f oh  really ,b,MALE,2
+['<throat_clearing>.'],throatclearing,x,MALE,8
+['{f um. } /'],f um  ,%,MALE,5
+"['{d so, }  how do you keep up? /']",d so   how do you keep up ,qw,MALE,12
+"['{f oh, } me, [ i, + {f uh, } <breathing> good grief, i ] read the times, los angeles times.  /']",f oh  me  i  f uh  breathing good grief i  read the times los angeles times  ,sd,MALE,1
+"[""there's, quite a task if you've ever run into one.  /""]",theres quite a task if youve ever run into one  ,sd,MALE,1
+"[""they're, {f uh } --""]",theyre f uh  ,%,MALE,5
+"[""yes, they're very --""]",yes theyre very ,aa,MALE,4
+"['--  (( speci-, )) -/']",   speci  ,+,MALE,0
+['-- voluminous. /'], voluminous ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""they're thick. /""]",theyre thick ,bf,MALE,20
+['<laughter>.'],laughter,x,MALE,8
+"[""{f uh, } if there's something you want to know, [ it's, + it's ] in the times [ and then, + [ and ] in detail.  / *[[repair bracketing wrong]]""]",f uh  if theres something you want to know  its  its  in the times  and then   and  in detail   repair bracketing wrong,sv,MALE,3
+"['{f uh, } [ [ they, + {f uh, } we, ] + we ] used to have two papers here in town  /']",f uh    they  f uh  we   we  used to have two papers here in town  ,sd,MALE,1
+"[""{c and then } the herald examiner collapsed about two years ago because of, {f oh, } i don't know, just nobody was buying it really. /""]",c and then  the herald examiner collapsed about two years ago because of f oh  i dont know just nobody was buying it really ,sd,MALE,1
+['{c so } there really is only one major l a now? /'],c so  there really is only one major l a now ,qy^d,MALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+['pretty much.  /'],pretty much  ,sd,MALE,1
+"['{f uh, } there used to be,']",f uh  there used to be,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"['fact, i think there still is, [ the, + {f uh, } the ] daily news which runs out of the san fernando valley  /']",fact i think there still is  the  f uh  the  daily news which runs out of the san fernando valley  ,+,MALE,0
+"[""{c and, } {f uh, } they're not bad [ as far as a, + {f uh, } {d you know, } as far as a ] local paper goes.  /""]",c and  f uh  theyre not bad  as far as a  f uh  d you know  as far as a  local paper goes  ,sd,MALE,1
+"['in fact, it was kind of weird, because [ [ i met the, + {f uh, } i met the, ] + i met the ] editor, {f uh, } [ while i was on, + {f uh, } while i was ] doing jury service in santa monica one time <laughter>.  /']",in fact it was kind of weird because   i met the  f uh  i met the   i met the  editor f uh   while i was on  f uh  while i was  doing jury service in santa monica one time laughter  ,sd,MALE,1
+['[ it was like we just sat  around and talk about newspapers and stuff.  /'], it was like we just sat  around and talk about newspapers and stuff  ,sd,MALE,1
+"['he was a really cool guy. {f uh, } {d you know, } went to columbia university and all this stuff. /']",he was a really cool guy f uh  d you know  went to columbia university and all this stuff ,sd,MALE,1
+"[""{c and, } {f uh } [ it's, + it's ] a pretty good paper,  /""]",c and  f uh   its  its  a pretty good paper  ,sd,MALE,1
+"[""{c but, } {f uh, } {d you know, } [ it's not, + it's not ] the times. /""]",c but  f uh  d you know   its not  its not  the times ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""although [ i, + {d you know, } i'm ] sorry to see some of their, {f uh, } - /""]",although  i  d you know  im  sorry to see some of their f uh   ,sd,MALE,1
+"[""[ there's, + there's ] a daily [ news, + {f uh, } news ] rack right around the corner from where i live, which means that [ they're, + they're ] expanding, i guess.  /""]", theres  theres  a daily  news  f uh  news  rack right around the corner from where i live which means that  theyre  theyre  expanding i guess  ,sd,MALE,1
+"[""[ [ {c but, } + {f uh, } {c a-, } ] + {c and } ] occasionally [ i, + i ] pick up {d like } time magazine or something i think, {f uh, } if they've got an interesting lead story,  /""]",  c but   f uh  c a    c and   occasionally  i  i  pick up d like  time magazine or something i think f uh  if theyve got an interesting lead story  ,sd,MALE,1
+"[""{c but } {d you know, } it's, - /""]",c but  d you know  its  ,%,MALE,5
+"[""[ i, + i ] don't have time. /""]", i  i  dont have time ,sd,MALE,1
+"['i used to read time magazine a lot,  /']",i used to read time magazine a lot  ,sd,MALE,1
+"[""{c but } i don't read it much anymore. /""]",c but  i dont read it much anymore ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ that's, + that's ] kind of a problem for them.  /""]", thats  thats  kind of a problem for them  ,sv,MALE,3
+"[""there's a lot of people <laughter> who fall into that,""]",theres a lot of people laughter who fall into that,sv,MALE,3
+['<laughter>.'],laughter,x,MALE,8
+['category. /'],category ,+,MALE,0
+['{c and then } we have a local rag here in town that --'],c and then  we have a local rag here in town that ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- i pick up periodically and read just to see what's going on in our little community.""]", i pick up periodically and read just to see whats going on in our little community,+,MALE,0
+['i see. /'],i see ,bk,MALE,14
+"[""because we don't get an awful lot of coverage  in the dallas morning news. /""]",because we dont get an awful lot of coverage  in the dallas morning news ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""<breathing> the big dailies [ don't like to, + don't like to ] step much [ out of their, + {f uh, } out of their ] home turf,  /""]",breathing the big dailies  dont like to  dont like to  step much  out of their  f uh  out of their  home turf  ,sv,MALE,3
+"['i have to admit, the times is kind of provincial, too.  /']",i have to admit the times is kind of provincial too  ,sv,MALE,3
+"[""it's basically anything that's south of downtown, they don't bother to cover. /""]",its basically anything thats south of downtown they dont bother to cover ,sv,MALE,3
+"['now, they have started here running a three day, or three times a week plano section. /']",now they have started here running a three day or three times a week plano section ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } it's just sort of [ a, + ] {d you know, } four or five pages that covers what's going on in plano.  /""]",c and  its just sort of  a   d you know  four or five pages that covers whats going on in plano  ,sd,MALE,1
+"[""{c but } it's still not an awful lot of news. /""]",c but  its still not an awful lot of news ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+['i know.  /'],i know  ,sd,MALE,1
+"['[ [ i, + {f uh, } it was, ] + it was ] a big discovery [ [ when, + when the times, ] + when the times ] found out there was a place called orange county <laughter>. /']",  i  f uh  it was   it was  a big discovery   when  when the times   when the times  found out there was a place called orange county laughter ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""{e i mean, } [ the way they, + {e i mean, } the way they've ] been handling it before, [ they practically, + they practically ] acted like their reporters needed to shots to go south of the l a county border <laughter>. /""]",e i mean   the way they  e i mean  the way theyve  been handling it before  they practically  they practically  acted like their reporters needed to shots to go south of the l a county border laughter ,sd,MALE,1
+"['{f oh, } i would imagine [ [ in, + {f uh, } {d you know, } in, ] + in ] dallas they have plenty happening in dallas to cover, that it gets hard covering all of the [ sub-, + suburbs ]  /']",f oh  i would imagine   in  f uh  d you know  in   in  dallas they have plenty happening in dallas to cover that it gets hard covering all of the  sub  suburbs   ,sd,MALE,1
+"['{c and, } of course, they tend to cover the county,  /']",c and  of course they tend to cover the county  ,sd,MALE,1
+"[""{c and } we're not in dallas county,  /""]",c and  were not in dallas county  ,sd,MALE,1
+['{c so } they --'],c so  they ,sd,MALE,1
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+['-- tend to ignore places outside of the county. /'], tend to ignore places outside of the county ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ [ i, + i, ] + i ] find that attitude kind of arrogant, though.  /']",  i  i   i  find that attitude kind of arrogant though  ,sd,MALE,1
+"[""it's like you're taking our money,  /""]",its like youre taking our money  ,sd,MALE,1
+"[""{c but } you're not bothering to cover the things that are interesting to us. /""]",c but  youre not bothering to cover the things that are interesting to us ,^q,MALE,19
+['yeah. /'],yeah ,b,MALE,2

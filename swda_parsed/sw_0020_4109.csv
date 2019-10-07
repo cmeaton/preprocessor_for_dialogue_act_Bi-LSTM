@@ -1,0 +1,118 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{f ((uh, } guy)), /']",f uh  guy ,"fo_o_fw_""_by_bc",MALE,0
+"['{f uh, } some of my things, /']",f uh  some of my things ,%,MALE,5
+"[""[ i, + i'd ] like to have a short work week --""]", i  id  like to have a short work week ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,MALE,2
+"['-- {d you know, }  /']", d you know   ,+,MALE,0
+"['[ {c and } + {c and } ] we need, {d you know, } better health insurance and <noise> {d you know, } cau-, -/']", c and   c and   we need d you know  better health insurance and noise d you know  cau ,sv,MALE,3
+"['okay,  /']",okay  ,b,MALE,2
+['we can start off there.  /'],we can start off there  ,sd,MALE,1
+"[""let's just get started. /""]",lets just get started ,ad,MALE,22
+['okay. /'],okay ,aa,MALE,4
+"[""if you don't want to, {d you know, } {f uh, } talk about it now and then --""]",if you dont want to d you know  f uh  talk about it now and then ,sd,MALE,1
+['okay. /'],okay ,b,MALE,2
+['-- be bored when we get to it <laughter>. /'], be bored when we get to it laughter ,+,MALE,0
+"['okay,  /']",okay  ,b,MALE,2
+['{d so } i just press one then  /'],d so  i just press one then  ,sd,MALE,1
+['right? /'],right ,^g,MALE,40
+['right. /'],right ,na,MALE,21
+"['okay,  /']",okay  ,bk,MALE,14
+['ready? /'],ready ,qy,MALE,7
+['yep. /'],yep ,ny,MALE,9
+['okay <beep>. /'],okay beep ,bk,MALE,14
+"['{d so, } {d so } [ you think, + {f uh, } i think ] that a short work week is real nice.  /']",d so  d so   you think  f uh  i think  that a short work week is real nice  ,sv,MALE,3
+"['{f uh, } i have a thirty-seven hour work week.  /']",f uh  i have a thirtyseven hour work week  ,sd,MALE,1
+['how about you? /'],how about you ,qo,MALE,25
+"[""{d well, } {d well } right now, [ i, + i'm ] just a student.  /""]",d well  d well  right now  i  im  just a student  ,sd,MALE,1
+"['i only work part time,  /']",i only work part time  ,sd,MALE,1
+"[""{c but } i've work in the job force before -- /""]",c but  ive work in the job force before  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } <smack> forty hours is just too long.  /'], c and  smack forty hours is just too long  ,sv,MALE,3
+"[""you just don't have any time to do anything.  /""]",you just dont have any time to do anything  ,sv,MALE,3
+"['it seems like, saturday you [ get + get ] off,  /']",it seems like saturday you  get  get  off  ,sv,MALE,3
+"[""{c but } sunday you're getting ready for monday.  /""]",c but  sunday youre getting ready for monday  ,sv,MALE,3
+['{c and } [ if we [ get + have ] a -- +'],c and   if we  get  have  a  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- if we could have a ] thirty-two hour work week, with that happen is that, for every four people we could give another job. /']", if we could have a  thirtytwo hour work week with that happen is that for every four people we could give another job ,+,MALE,0
+['right. /'],right ,b,MALE,2
+"['{c and then } that way everybody would have a three day holiday, {d okay. }  /']",c and then  that way everybody would have a three day holiday d okay   ,sd,MALE,1
+"['{c and } [ [ that way + that more, ] + that ] would make a bigger market.  /']",c and    that way  that more   that  would make a bigger market  ,sv,MALE,3
+"[""we'd have, {f uh, } more recreation.  /""]",wed have f uh  more recreation  ,sv,MALE,3
+['people would have time to do it.  /'],people would have time to do it  ,sv,MALE,3
+['there would be less of a stress level.  /'],there would be less of a stress level  ,sv,MALE,3
+"[""[ we'd have, + we'd have ] less crime.  /""]", wed have  wed have  less crime  ,sv,MALE,3
+"[""[ we'd have to + we'd have to ] build less prisons, {d you know, } less police force. /""]", wed have to  wed have to  build less prisons d you know  less police force ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+['it all makes sense to me.  /'],it all makes sense to me  ,sv,MALE,3
+"['{c although, } there may be more crime. {e i mean } if people have more leisure time. - /']",c although  there may be more crime e i mean  if people have more leisure time  ,sv,MALE,3
+"[""it's not clear.  /""]",its not clear  ,sv,MALE,3
+"['{c and } that, -/']",c and  that ,%,MALE,5
+"[""[ [ [ it, + it, ] + that's, ] + that's  ] a possibility. /""]",   it  it   thats   thats   a possibility ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""[ one, + one ] of the problems they're facing now, a lot of people now, [ is that the health insurance + is that the small business ] [ can't, + can't ] offer health insurance -- /""]", one  one  of the problems theyre facing now a lot of people now  is that the health insurance  is that the small business   cant  cant  offer health insurance  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } [ it, + it's ] too costly  /""]", c and   it  its  too costly  ,sv,MALE,3
+"[""{c and } [ what, + what ] is happening is that they're on a policy where they have x amount of users in it, {d okay. }  /""]",c and   what  what  is happening is that theyre on a policy where they have x amount of users in it d okay   ,sd,MALE,1
+['{c so } they get a specific rate.  /'],c so  they get a specific rate  ,sd,MALE,1
+"['{d well } what happens is that if people start [ becoming + having ] chronic illness [ and, + and ] things like that, - /']",d well  what happens is that if people start  becoming  having  chronic illness  and  and  things like that  ,sd,MALE,1
+['what happened and where they really have to spend out a lot of money --'],what happened and where they really have to spend out a lot of money ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['-- for one particular, - /']", for one particular  ,+,MALE,0
+"[""it's called [ a + a ] group,  /""]",its called  a  a  group  ,sd,MALE,1
+"[""[ {d well } what will, + {d well } what happens ] then is that <smack> they cancel, because they just can't cancel an individual.  /""]", d well  what will  d well  what happens  then is that smack they cancel because they just cant cancel an individual  ,sd,MALE,1
+"['{c so } [ they, + they ] have to cancel just {d like } life insurance.  /']",c so   they  they  have to cancel just d like  life insurance  ,sd,MALE,1
+['they have to cancel everything. /'],they have to cancel everything ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d so } what they do is [ that, + that ] they cancel the insurance  /']",d so  what they do is  that  that  they cancel the insurance  ,sd,MALE,1
+"[""{c and } then all the people don't have any insurance coverage. /""]",c and  then all the people dont have any insurance coverage ,sd,MALE,1
+['right.  /'],right  ,b,MALE,2
+"['<inhaling> {d so, } -/']",inhaling d so  ,%,MALE,5
+"[""{c but, } [ [ [ i'm, + i'm, ] + {d you know, } i'm, ] + i'm ] satisfied with my job.  /""]",c but     im  im   d you know  im   im  satisfied with my job  ,sd,MALE,1
+"[""[ i'm, + i'm ] an engineering student. /""]", im  im  an engineering student ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+['{c and } i work for my instructor  /'],c and  i work for my instructor  ,sd,MALE,1
+"[""{c and } [ i'm + i'm ] not a typical student.  /""]",c and   im  im  not a typical student  ,sd,MALE,1
+"[""[ i'm, + i'm ] older.  /""]", im  im  older  ,sd,MALE,1
+"[""[ i'm, + i'm ] in my thirties, {d okay. } /""]", im  im  in my thirties d okay  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['{c and so } i have a lot of job experience  /'],c and so  i have a lot of job experience  ,sd,MALE,1
+['{c and } my instructor thrives on that because he can just tell me what he wants  /'],c and  my instructor thrives on that because he can just tell me what he wants  ,sd,MALE,1
+['{c and } he can give me access and tell me what to do and just turn me loose -- /'],c and  he can give me access and tell me what to do and just turn me loose  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- {c but } [ in, + in ] the same token, it's [ a very, + really ] enjoyable for me because i don't have to have, {d you know, } nobody breathing down my back  /""]", c but   in  in  the same token its  a very  really  enjoyable for me because i dont have to have d you know  nobody breathing down my back  ,sd,MALE,1
+['[ {c and } + --'], c and   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } ] one of the things that [ i, + i ] really hate about jobs. [ i don't, + i don't ] like bosses [ that, + that ] {d you know } want to <inhaling> yell at you and {d you know } are down on your back and all this and that.  /""]", c and   one of the things that  i  i  really hate about jobs  i dont  i dont  like bosses  that  that  d you know  want to inhaling yell at you and d you know  are down on your back and all this and that  ,+,MALE,0
+"[""[ i, + i ] just really can't deal with that  /""]", i  i  just really cant deal with that  ,sd,MALE,1
+"['{d so, } -/']",d so  ,%,MALE,5
+['yeah  <noise>. /'],yeah  noise ,b,MALE,2
+"['[ what kind of, + what kind of ] jobs have you done? /']", what kind of  what kind of  jobs have you done ,qw,MALE,12
+"['{d well, } {d well, } i do [ wo-, + {f uh, } research ] in computer science  /']",d well  d well  i do  wo  f uh  research  in computer science  ,sd,MALE,1
+"[""{c and } i've just been doing that for a few years now  /""]",c and  ive just been doing that for a few years now  ,sd,MALE,1
+['{d so } --'],d so  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } [ i, + my job ] has most of the benefits i want.  /']", f uh   i  my job  has most of the benefits i want  ,+,MALE,0
+"['{f uh, } what i really like is, i like being, - /']",f uh  what i really like is i like being  ,sd,MALE,1
+"[""{d like } they send me to conferences for instance, but probably not as much as i'd like  /""]",d like  they send me to conferences for instance but probably not as much as id like  ,sd,MALE,1
+"[""{c but, } {f uh, } {d you know, } that's just nice [ being, + {d you know, } having ] a company being able to give you time to do that sort of thing and sort of, - /""]",c but  f uh  d you know  thats just nice  being  d you know  having  a company being able to give you time to do that sort of thing and sort of  ,sv,MALE,3
+"['{f uh, } they also, - /']",f uh  they also  ,%,MALE,5
+"['a really important thing to me is when [ they, + {f uh, } they ] pay for continuing education.  /']",a really important thing to me is when  they  f uh  they  pay for continuing education  ,sd,MALE,1
+"[""{d like, } [ i, + i ] get night courses that [ they + they'll ] cover right now  /""]",d like   i  i  get night courses that  they  theyll  cover right now  ,sd,MALE,1
+"[""{c and } that's really good  /""]",c and  thats really good  ,sv,MALE,3
+['((yeah)). /'],yeah ,%,MALE,5
+"['yeah,  /']",yeah  ,b^m,MALE,24
+"[""that's just great.  /""]",thats just great  ,ba,MALE,6
+['you have what you might call knowledge power -- /'],you have what you might call knowledge power  ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"[""-- {d you know, } [ when + when ] you work at a company whether you know it or not, is that you're categorized.  /""]", d you know   when  when  you work at a company whether you know it or not is that youre categorized  ,sv,MALE,3
+"['some people can be let go and replaced like, {f uh, } say, {f uh, } a typist, {f uh, } somebody who does data entry or answers the telephone or receptionist.  /']",some people can be let go and replaced like f uh  say f uh  a typist f uh  somebody who does data entry or answers the telephone or receptionist  ,sv,MALE,3
+"[""{c but } if you're a person [ who, + that's ] doing computer type things and [ you have the, + you have the ] knowledge, you know what the system you've revised and revamped the system, {d well } then [ you're + you're ] vital to the company -- /""]",c but  if youre a person  who  thats  doing computer type things and  you have the  you have the  knowledge you know what the system youve revised and revamped the system d well  then  youre  youre  vital to the company  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } you get more benefits  /'], c and  you get more benefits  ,sv,MALE,3
+"[""{d so. } that's where [ [ i, + i, ] + i'm ] like, - /""]",d so  thats where   i  i   im  like  ,%,MALE,5
+"[""i'm into computers too  /""]",im into computers too  ,sd,MALE,1
+"[""{c and } that's one of the things that i've found in any [ one, + one ] of these jobs and anything i've done is that to have knowledge. - /""]",c and  thats one of the things that ive found in any  one  one  of these jobs and anything ive done is that to have knowledge  ,sd,MALE,1
+"[""when you have the knowledge, [ you're + you're ] not going to, {f uh, } {d you know, } be let go,  /""]",when you have the knowledge  youre  youre  not going to f uh  d you know  be let go  ,sv,MALE,3
+['be one of the last ones to let go anyway. /'],be one of the last ones to let go anyway ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+"['{d so } what i, -/']",d so  what i ,%,MALE,5

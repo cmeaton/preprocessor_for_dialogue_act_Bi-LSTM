@@ -1,0 +1,71 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['afternoon, doug,  /']",afternoon doug  ,fp,MALE,32
+"['it certainly is, {f uh, } going to be a pleasure to chat with you. /']",it certainly is f uh  going to be a pleasure to chat with you ,fp,MALE,32
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""<laughter> {c and } i'm, {f uh, } certainly was surprised [ to, + {f uh, } to ] hear from you.  /""]",laughter c and  im f uh  certainly was surprised  to  f uh  to  hear from you  ,sd,MALE,1
+"['normally i talk to people in plano, texas. /']",normally i talk to people in plano texas ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+['me too. /'],me too ,aa,MALE,4
+['how did you get on this list? /'],how did you get on this list ,qw,MALE,12
+"['{f uh, } through nancy dahlgren.  /']",f uh  through nancy dahlgren  ,sd,MALE,1
+"['[  she, + {f um, } she ] had somehow gotten the information from t i --']",  she  f um  she  had somehow gotten the information from t i ,sd,MALE,1
+"['{d well, } okay. /']",d well  okay ,bk,MALE,14
+['-- and was distributing it around. /'], and was distributing it around ,+,MALE,0
+['all right.  /'],all right  ,b,MALE,2
+"['{d well, } {d now, } what would you say about these everyday invasions of our privacy?  /']",d well  d now  what would you say about these everyday invasions of our privacy  ,qw,MALE,12
+"['what ideas do you have on that, doug? /']",what ideas do you have on that doug ,qo,MALE,25
+"[""{f um, } {d see, } i'm not sure that, - /""]",f um  d see  im not sure that  ,%,MALE,5
+"[""i don't think they're necessarily widespread in this country,  /""]",i dont think theyre necessarily widespread in this country  ,sd,MALE,1
+"['{c but } i think that the opportunity is definitely there for, {f um, } people to invade your privacy when they want to,  /']",c but  i think that the opportunity is definitely there for f um  people to invade your privacy when they want to  ,sv,MALE,3
+"[""i think it's, {f um, } -/""]",i think its f um  ,%,MALE,5
+['in what manner? /'],in what manner ,qw,MALE,12
+"[""{d well, } it's certainly not that difficult to tap a phone.  /""]",d well  its certainly not that difficult to tap a phone  ,sd,MALE,1
+"[""it's completely trivial to, for instance, listen in on someone's car phone or walk around phone, since they're just radio signals. /""]",its completely trivial to for instance listen in on someones car phone or walk around phone since theyre just radio signals ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""it's, {f um, } - /""]",its f um   ,%,MALE,5
+"[""{c and } let's see,  /""]",c and  lets see  ,^h,MALE,27
+"[""{d well, } what's the first thing that comes to your mind? /""]",d well  whats the first thing that comes to your mind ,qo,MALE,25
+"['{d well, } the thing that i thought they were, {f uh, } concerned about [ was, + was ] people calling on the phone from all over the country to sell you something -- /']",d well  the thing that i thought they were f uh  concerned about  was  was  people calling on the phone from all over the country to sell you something  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } in reality in many cases,  they knew, or they had information about you that was purchased from some other organizations.  /']", c and  in reality in many cases  they knew or they had information about you that was purchased from some other organizations  ,sd,MALE,1
+"['{c and } i thought was, {f uh, } beginning to invade the privacy of people, because the things about where you live [ and, + and ] maybe what you purchased in past months is then put down and  sent to someone else in the same business,  /']",c and  i thought was f uh  beginning to invade the privacy of people because the things about where you live  and  and  maybe what you purchased in past months is then put down and  sent to someone else in the same business  ,sd,MALE,1
+"['{c and } they in return, come back and  try to sell you something with this additional knowledge.  /']",c and  they in return come back and  try to sell you something with this additional knowledge  ,sd,MALE,1
+"[""to me that's an invasion of privacy. /""]",to me thats an invasion of privacy ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['i agree with you there, for sure.  /']",i agree with you there for sure  ,aa,MALE,4
+"['{f um, } {c and } i think that all that information is quite easy for anyone to get.  /']",f um  c and  i think that all that information is quite easy for anyone to get  ,sv,MALE,3
+"[""it's possible for almost anyone to get information about your credit history, for instance, if they just, {f um, } twist the right arm or claim to be from the right organization when they're calling the credit company. /""]",its possible for almost anyone to get information about your credit history for instance if they just f um  twist the right arm or claim to be from the right organization when theyre calling the credit company ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""it's, {d you know, } possible for a thirteen year old hacker with a modem to find out almost anything about your personal history, not to mention, change it if he wants to. /""]",its d you know  possible for a thirteen year old hacker with a modem to find out almost anything about your personal history not to mention change it if he wants to ,sv,MALE,3
+"['you mean your history in regards to, {f uh } --']",you mean your history in regards to f uh  ,br,MALE,30
+"['{d well, } {f um. } -/']",d well  f um  ,%,MALE,5
+['-- the charge card company or something like that? /'], the charge card company or something like that ,+,MALE,0
+"['{d well, } yes,  /']",d well  yes  ,ny,MALE,9
+"['{d well, } for instance, yes, {f um, }  /']",d well  for instance yes f um   ,ny,MALE,9
+"[""{c and } they'll probably goes into other things, like, {d you know, } your records with the government or utility companies or anything. /""]",c and  theyll probably goes into other things like d you know  your records with the government or utility companies or anything ,sd,MALE,1
+"['do you consider these serious, {f uh, } problems? /']",do you consider these serious f uh  problems ,qy,MALE,7
+"[""{f um, } {f uh, } [ not, + not ] yet anyways, because i don't think they're widespread enough,  /""]",f um  f uh   not  not  yet anyways because i dont think theyre widespread enough  ,ng,MALE,29
+['{c but } i think they have the potential of becoming serious problems. /'],c but  i think they have the potential of becoming serious problems ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['{d well, } what should we do about it,  /']",d well  what should we do about it  ,qw,MALE,12
+"['{c or } what could be done about it, do you think --']",c or  what could be done about it do you think ,qrr,MALE,33
+['{f um } --'],f um  ,sv,MALE,3
+['-- to correct it? /'], to correct it ,+,MALE,0
+"[""-- i'm not really sure, because the, {e i mean } society is going more and more electronic,  /""]", im not really sure because the e i mean  society is going more and more electronic  ,+,MALE,0
+"['{c and } there are certainly benefits to its doing so,  /']",c and  there are certainly benefits to its doing so  ,sv,MALE,3
+"[""{c and } it's [ hard to, + hard to ] say whether the, {f um, } risks have potential of outweighing the benefits or not,  /""]",c and  its  hard to  hard to  say whether the f um  risks have potential of outweighing the benefits or not  ,sd,MALE,1
+"[""{c and } i'm not sure what can be done to ensure that they don't.  /""]",c and  im not sure what can be done to ensure that they dont  ,sd,MALE,1
+"['((   ))  why,  /']",     why  ,qw,MALE,12
+['do you see any out for us? /'],do you see any out for us ,qy,MALE,7
+"['{d well, } i would think that, {f uh, } information held on records, {f uh, } by any company or charge card dealer or person should be absolutely private [ and, + and ] not be allowed to be, {f uh, } [ to, + ] given out by those companies. /']",d well  i would think that f uh  information held on records f uh  by any company or charge card dealer or person should be absolutely private  and  and  not be allowed to be f uh   to   given out by those companies ,na,MALE,21
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{e i mean, } it should be made [ a, + a, ] {f uh, } national or a state law to protect people so that, {f uh, } you would then feel more free to deal direct with these companies. /']",e i mean  it should be made  a  a  f uh  national or a state law to protect people so that f uh  you would then feel more free to deal direct with these companies ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['in other words, if you call the company yourself, directly, {f uh, } and then know that what you tell them will be on their records but will not be available to anyone else, {f uh, } {d you know, } from the outside, so to speak --']",in other words if you call the company yourself directly f uh  and then know that what you tell them will be on their records but will not be available to anyone else f uh  d you know  from the outside so to speak ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- then [ you would, + you would ] feel more free [ to, + {f uh, } to ] go into detail with them -- /']", then  you would  you would  feel more free  to  f uh  to  go into detail with them  ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+['i. -/'],i ,%,MALE,5
+"['-- [ {c but, } + {c but } ] we have no control of that now -- /']",  c but   c but   we have no control of that now  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and then, } {f uh, } [ [ you, + you're, ] + when you're ] talking with them you really don't want to tell them everything that's on your mind because [ you, + you ] feel that it someday might be used against you. /""]", c and then  f uh    you  youre   when youre  talking with them you really dont want to tell them everything thats on your mind because  you  you  feel that it someday might be used against you ,sv,MALE,3

@@ -1,0 +1,43 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['wondering how you keep up on the news. -/'],wondering how you keep up on the news ,qw^d,FEMALE,41
+['primarily with our local newspaper and t v. /'],primarily with our local newspaper and t v ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i listen to the radio but [ not, + {f um, } not ] like i did when i was working.  /']",i listen to the radio but  not  f um  not  like i did when i was working  ,sd,FEMALE,1
+['i am recently retired <noise>  /'],i am recently retired noise  ,sd,FEMALE,1
+['to that means i have a lot  of time to watch the news on t v.  /'],to that means i have a lot  of time to watch the news on t v  ,sd,FEMALE,1
+['how do you gain your news? /'],how do you gain your news ,qw,FEMALE,12
+"['[ i guess the, + i get the ] washington post -- /']", i guess the  i get the  washington post  ,sd,FEMALE,1
+['<<very faint>>  okay. /'],very faint  okay ,bk,FEMALE,14
+['-- {c and } that is a pretty big newspaper  /'], c and  that is a pretty big newspaper  ,sv,FEMALE,3
+"[""{c and } i think that's almost exclusive [ me, + -ly ] my  (( first of the ))  news.  /""]",c and  i think thats almost exclusive  me  ly  my   first of the   news  ,sd,FEMALE,1
+"[""though i have the radio on when i go to work, i don't think the news usually hits,  /""]",though i have the radio on when i go to work i dont think the news usually hits  ,sd,FEMALE,1
+"[""<laughter> {c because } i'm not going right on the hour. /""]",laughter c because  im not going right on the hour ,sd,FEMALE,1
+"['{f oh, } i see. /']",f oh  i see ,bk,FEMALE,14
+['you know. /'],you know ,b,FEMALE,2
+"[""{d well, } [ that's, + that is ] one of the handicaps with both t v [ and, +  and ] radio.  /""]",d well   thats  that is  one of the handicaps with both t v  and   and  radio  ,sv,FEMALE,3
+"[""if you're not available on the hour or half hour, then you lose out on an awful lot.  /""]",if youre not available on the hour or half hour then you lose out on an awful lot  ,sv,FEMALE,3
+"['{d well, } what is your newspaper?  /']",d well  what is your newspaper  ,qw,FEMALE,12
+['that is the washington post -- /'],that is the washington post  ,qy^d,FEMALE,16
+['right. /'],right ,na,FEMALE,21
+['-- is that correct?  /'], is that correct  ,qy,FEMALE,7
+"['i have read that when we were in that area,  /']",i have read that when we were in that area  ,sd,FEMALE,1
+['{c and } it is a splendid newspaper. /'],c and  it is a splendid newspaper ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d so, } what more do we need to discuss <laughter>,']",d so  what more do we need to discuss laughter,qw,FEMALE,12
+['<laughter>.'],laughter,x,FEMALE,8
+['tonight?  /'],tonight  ,+,FEMALE,0
+['that seems like a very short one. /'],that seems like a very short one ,sv,FEMALE,3
+['right.  /'],right  ,aa,FEMALE,4
+"[""i think that, {d you know, } [ we, + we've ] resolved the issue  /""]",i think that d you know   we  weve  resolved the issue  ,sv,FEMALE,3
+"[""{c and } that's what we were asked to do. /""]",c and  thats what we were asked to do ,sd,FEMALE,1
+"['{d well, } i can discuss a lot of the news that we have,  /']",d well  i can discuss a lot of the news that we have  ,sd,FEMALE,1
+"[""{c but, } {f uh, } i feel that that's not part of our --""]",c but  f uh  i feel that thats not part of our ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- responsibility. /'], responsibility ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+['{d so } thank you for calling. /'],d so  thank you for calling ,fc,FEMALE,10
+"['{f oh, } okay.  /']",f oh  okay  ,fc,FEMALE,10
+"['{d well, } thanks for discussing it. /']",d well  thanks for discussing it ,fc,FEMALE,10
+['all right. /'],all right ,fc,FEMALE,10
+['# bye-bye. # /'], byebye  ,fc,FEMALE,10
+['# good-bye. # /'], goodbye  ,fc,FEMALE,10

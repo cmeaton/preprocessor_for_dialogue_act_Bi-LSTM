@@ -1,0 +1,121 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['the question was on lawn and garden work.  /'],the question was on lawn and garden work  ,sd,FEMALE,1
+"['{f um,  } how do you like it? /']",f um   how do you like it ,qo,FEMALE,25
+"[""{d well, } i don't do much of it here.  /""]",d well  i dont do much of it here  ,arp_nd,FEMALE,34
+"[""i'm [ from, {f uh, } te-, +  from, {f uh, } colorado ] originally  /""]",im  from f uh  te   from f uh  colorado  originally  ,sd,FEMALE,1
+['{c and } there are no bugs there.  /'],c and  there are no bugs there  ,sd,FEMALE,1
+"[""{c and } i didn't mind getting in the dirt there,  /""]",c and  i didnt mind getting in the dirt there  ,sd,FEMALE,1
+"[""{c but, }  boy, i'll tell you what,  /""]",c but   boy ill tell you what  ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""once i see these bugs around here, i'm just kind of out of it. /""]",once i see these bugs around here im just kind of out of it ,sd,FEMALE,1
+"['{f oh, } what kind do you have?  <laughter>. /']",f oh  what kind do you have  laughter ,qw,FEMALE,12
+"['{f oh, } roaches  and, -/']",f oh  roaches  and ,sd,FEMALE,1
+['do they really? /'],do they really ,bh,FEMALE,18
+"['{f oh, } yes.  /']",f oh  yes  ,ny,FEMALE,9
+['cockroaches are awful here. /'],cockroaches are awful here ,sd,FEMALE,1
+['oh. /'],oh ,bk,FEMALE,14
+['just awful.   /'],just awful   ,sd,FEMALE,1
+"['{c so } i, -/']",c so  i ,%,FEMALE,5
+"['{f oh, } {c and } i know somebody that lives there,  /']",f oh  c and  i know somebody that lives there  ,sd,FEMALE,1
+['{c and } they never mentioned that problem <laughter>. /'],c and  they never mentioned that problem laughter ,sd,FEMALE,1
+"[""{f oh, } [ you're kidding, +  you're kidding. ]  /""]",f oh   youre kidding   youre kidding   ,bh,FEMALE,18
+"['no,  /']",no  ,%,FEMALE,5
+"[""it's a d-, - /""]",its a d  ,%,FEMALE,5
+"[""{d well, } maybe they didn't mention it because it's just kind of a fact of life around here.  /""]",d well  maybe they didnt mention it because its just kind of a fact of life around here  ,sv,FEMALE,3
+"['{c and, }  {f uh, } -/']",c and   f uh  ,%,FEMALE,5
+"['{f oh, } my.  /']",f oh  my  ,ba,FEMALE,6
+['they probably just take it for granted then. /'],they probably just take it for granted then ,sv,FEMALE,3
+['it must be.  /'],it must be  ,aa,FEMALE,4
+"['if they lived here, a lot of people i know just say, {f oh, } i just <baby> stomp on them.  /']",if they lived here a lot of people i know just say f oh  i just baby stomp on them  ,sd,FEMALE,1
+"[""it doesn't matter.  /""]",it doesnt matter  ,^q,FEMALE,19
+['they make good fertilizer in the garden. /'],they make good fertilizer in the garden ,^q,FEMALE,19
+"['{f oh, }  (( yuck ))  <laughter>. /']",f oh    yuck   laughter ,ba,FEMALE,6
+"[""<laughter> me, personally can't, /""]",laughter me personally cant ,sd,FEMALE,1
+"[""((   ))  i don't have that problem, {f uh, }  /""]",     i dont have that problem f uh   ,sd,FEMALE,1
+"[""it's, - /""]",its  ,%,FEMALE,5
+['mine is mainly - /'],mine is mainly  ,sd,FEMALE,1
+"[""we kind of have an understanding that, {f uh, }  [ i, +  i ] said i'll do inside work you do outside work. /""]",we kind of have an understanding that f uh    i   i  said ill do inside work you do outside work ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and so } i get into the gardening part of it, the fun part,']",c and so  i get into the gardening part of it the fun part,sv,FEMALE,3
+['<baby>.'],baby,x,FEMALE,8
+['like putting in the annuals and things like that. /'],like putting in the annuals and things like that ,+,FEMALE,0
+['uh-huh <baby>. /'],uhhuh baby ,b,FEMALE,2
+"[""{c but } [ i don't like, +  i don't like ]  it dirty <laughter>. /""]",c but   i dont like   i dont like   it dirty laughter ,sd,FEMALE,1
+['no <laughter>.  /'],no laughter  ,aa,FEMALE,4
+"[""[ i have to, +  {d you know } i have to ] say that's not <child_talking> exactly my favorite thing either really <baby_crying>. /""]", i have to   d you know  i have to  say thats not childtalking exactly my favorite thing either really babycrying ,sd,FEMALE,1
+"['no,  /']",no  ,b,FEMALE,2
+"[""i don't know.  /""]",i dont know  ,h,FEMALE,15
+"['[ we got the, +  we got the ] question  /']", we got the   we got the  question  ,sd,FEMALE,1
+"['{c and } i thought, {f oh, } this is going to be interesting.  /']",c and  i thought f oh  this is going to be interesting  ,sd,FEMALE,1
+"[""two bits i'll get a man to talk <laughter> to me,""]",two bits ill get a man to talk laughter to me,^q,FEMALE,19
+['<laughter>.'],laughter,x,FEMALE,8
+['because they get stuck doing it all. /'],because they get stuck doing it all ,+,FEMALE,0
+['</baby_crying>.'],babycrying,x,FEMALE,8
+['{c but } although i do know a lot of my friends do like all the gardening work. - /'],c but  although i do know a lot of my friends do like all the gardening work  ,sd,FEMALE,1
+['{c and } this year we put in a new lawn in a new home  /'],c and  this year we put in a new lawn in a new home  ,sd,FEMALE,1
+"['{c so, } {f um, }']",c so  f um ,sd,FEMALE,1
+['<baby>.'],baby,x,FEMALE,8
+"[""we've been fighting a drought here this summer --""]",weve been fighting a drought here this summer ,+,FEMALE,0
+['{f huh. } /'],f huh  ,b,FEMALE,2
+['-- and getting into fall.  /'], and getting into fall  ,+,FEMALE,0
+['today we just had a lot of rain <laughter>. /'],today we just had a lot of rain laughter ,sd,FEMALE,1
+"['<baby> {f oh, } really? /']",baby f oh  really ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"[""{c so } it's kind of nice.  /""]",c so  its kind of nice  ,sd,FEMALE,1
+"[""i don't know how yours has been. /""]",i dont know how yours has been ,qw^d,FEMALE,41
+"[""{d well, } it's been real hot here lately.  /""]",d well  its been real hot here lately  ,sd,FEMALE,1
+"[""{e i mean } we've had to actually have the air-conditioning on and everything  /""]",e i mean  weve had to actually have the airconditioning on and everything  ,sd,FEMALE,1
+"['{c but, }  {f uh, } doe-, - /']",c but   f uh  doe  ,%,FEMALE,5
+"[""it's supposed to rain again now, {f uh, } this weekend. /""]",its supposed to rain again now f uh  this weekend ,sd,FEMALE,1
+"['{f oh, } i see. /']",f oh  i see ,bk,FEMALE,14
+"['<<very faint>> {c so, then, } -/']",very faint c so then  ,%,FEMALE,5
+['okay.  /'],okay  ,bk,FEMALE,14
+"[""{d well, } we're leaving tomorrow  /""]",d well  were leaving tomorrow  ,sd,FEMALE,1
+"[""{c and } we're going down to new orleans  /""]",c and  were going down to new orleans  ,sd,FEMALE,1
+"[""{c and } from ohio since we're right near lake erie  /""]",c and  from ohio since were right near lake erie  ,sd,FEMALE,1
+['this is going to be a switch for us for a week --'],this is going to be a switch for us for a week ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- going down there,  /']", going down there  ,+,FEMALE,0
+"[""{c and } i think we'll probably experience some of your weather although i think they have more humidity.  /""]",c and  i think well probably experience some of your weather although i think they have more humidity  ,sd,FEMALE,1
+"['{c but, }  {f um, }']",c but   f um ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""as far as the gardening and things like that goes i don't know, {f uh, } [ too much, +   too much ] about, {f uh, } how much i really [ r-, + ] do enjoy it myself.  /""]",as far as the gardening and things like that goes i dont know f uh   too much    too much  about f uh  how much i really  r   do enjoy it myself  ,+,FEMALE,0
+['do you like it at all? /'],do you like it at all ,qy,FEMALE,7
+"['[ i, + ] {d well, } <child_talking> not here. - /']", i   d well  childtalking not here  ,ng,FEMALE,29
+"[""{e i mean } it's just, here <child_talking>  /""]",e i mean  its just here childtalking  ,sd,FEMALE,1
+"[""i just can't stand to even get out [ in the, +  {f uh, } in the ] dirt <laughter>.  /""]",i just cant stand to even get out  in the   f uh  in the  dirt laughter  ,sd,FEMALE,1
+"['just, -/']",just ,%,FEMALE,5
+"['{d well, } how about when you were in colorado? /']",d well  how about when you were in colorado ,qo,FEMALE,25
+"['{d well, } i liked it a <child_talking> little bit  /']",d well  i liked it a childtalking little bit  ,sd,FEMALE,1
+"[""{c but } i didn't, {f uh, } - /""]",c but  i didnt f uh   ,%,FEMALE,5
+"[""i was <child_talking> working at that time full-time and didn't have a lot of time,""]",i was childtalking working at that time fulltime and didnt have a lot of time,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['for that  /'],for that  ,+,FEMALE,0
+"['{c and so } that i think really, {f um, } hampered it a little bit. /']",c and so  that i think really f um  hampered it a little bit ,sd,FEMALE,1
+"['{d well, } {c and } then, too, {d now } {d like } where we had the dry summer and we had to sprinkle constantly.  my water bill was high.  /']",d well  c and  then too d now  d like  where we had the dry summer and we had to sprinkle constantly  my water bill was high  ,sd,FEMALE,1
+"['{c and, }  {f uh, } if you have that on a regular basis in texas, i think i would go with something very dry <laughter> to keep it off, {d you know. } /']",c and   f uh  if you have that on a regular basis in texas i think i would go with something very dry laughter to keep it off d you know  ,ad,FEMALE,22
+['yeah. /'],yeah ,aa,FEMALE,4
+"[""[ {c but, } +   {f uh, } {c and } ] with children, {f um, } you probably don't have time anyhow --""]", c but     f uh  c and   with children f um  you probably dont have time anyhow ,qy^d,FEMALE,16
+['no. /'],no ,nn,FEMALE,13
+"['-- [ to, +  to ] get into it. /']",  to   to  get into it ,+,FEMALE,0
+['not really <laughter>. /'],not really laughter ,sd,FEMALE,1
+"[""it's so, {f uh, } {d okay, } very good. /""]",its so f uh  d okay  very good ,ba,FEMALE,6
+['<<very faint>>.  uh-huh. /'],very faint  uhhuh ,b,FEMALE,2
+"[""i guess we've kind of covered our subject matter,""]",i guess weve kind of covered our subject matter,fc,FEMALE,10
+"['sounds like i-, -/']",sounds like i ,%,FEMALE,5
+"['since <laughter> neither one is really into gardening, are we?  /']",since laughter neither one is really into gardening are we  ,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"['no,  /']",no  ,fc,FEMALE,10
+['no.  /'],no  ,fc,FEMALE,10
+['afraid not.  /'],afraid not  ,fc,FEMALE,10
+"[""{f uh, } hopefully they'll give a subject i like one of these times <laughter>.""]",f uh  hopefully theyll give a subject i like one of these times laughter,fc,FEMALE,10
+['right.  /'],right  ,fc,FEMALE,10
+['okay. /'],okay ,fc,FEMALE,10
+['something i really know a lot about. /'],something i really know a lot about ,+,FEMALE,0
+['right. /'],right ,fc,FEMALE,10
+"['wh-, - /']",wh  ,%,FEMALE,5
+['nice talking to you. /'],nice talking to you ,fc,FEMALE,10
+['nice talking with you. /'],nice talking with you ,fc,FEMALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+"['uh-huh,  /']",uhhuh  ,fc,FEMALE,10
+['bye. /'],bye ,fc,FEMALE,10

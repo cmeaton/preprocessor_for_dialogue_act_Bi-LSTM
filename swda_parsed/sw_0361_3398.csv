@@ -1,0 +1,126 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hello. /'],hello ,fp,MALE,32
+['hi. /'],hi ,fp,FEMALE,32
+['hi. /'],hi ,fp,MALE,32
+"['my name is, {f uh, } donna donahue,  /']",my name is f uh  donna donahue  ,fp,FEMALE,32
+"['{c and } i live in  plano, texas. /']",c and  i live in  plano texas ,fp,FEMALE,32
+['hi.  /'],hi  ,fp,MALE,32
+"['my name is lowell,  /']",my name is lowell  ,fp,MALE,32
+"['{c and } i live in raleigh,  north carolina. /']",c and  i live in raleigh  north carolina ,fp,MALE,32
+"['{f oh, } okay.  /']",f oh  okay  ,b,FEMALE,2
+"['{f um, } do you want to start  /']",f um  do you want to start  ,qy,FEMALE,7
+['{c or } should i start? /'],c or  should i start ,qrr,FEMALE,33
+['go right ahead. /'],go right ahead ,ad,MALE,22
+"['okay, {f um, }  /']",okay f um   ,aa,FEMALE,4
+['i would say that our home is a very  typical home for the area that we live in.  /'],i would say that our home is a very  typical home for the area that we live in  ,sd,FEMALE,1
+"['we have, {f um, } three children,  /']",we have f um  three children  ,sd,FEMALE,1
+"['{c and, }  {f um, } they attend the public school here and are very active in a lot of the sports, soccer and  baseball  /']",c and   f um  they attend the public school here and are very active in a lot of the sports soccer and  baseball  ,sd,FEMALE,1
+"['{c and, }  {d well, } my little girl goes to tap dance,  /']",c and   d well  my little girl goes to tap dance  ,sd,FEMALE,1
+['{c and }  my little one goes to preschool  /'],c and   my little one goes to preschool  ,sd,FEMALE,1
+"[""{c and, }  {f um, } i'm home with the children,  just do a lot of running around.  /""]",c and   f um  im home with the children  just do a lot of running around  ,sd,FEMALE,1
+"[""it seems like a lot of my neighbors kind of have a  similar type, i don't know, life.  /""]",it seems like a lot of my neighbors kind of have a  similar type i dont know life  ,sd,FEMALE,1
+"['{f um, } what about you?  <laughter>. /']",f um  what about you  laughter ,qo,FEMALE,25
+"[""[ i'm, + i'm ] single,  /""]", im  im  single  ,sd,MALE,1
+"['{c and } [ i, + i ] live in a town home --']",c and   i  i  live in a town home ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- here in raleigh,  /']", here in raleigh  ,+,MALE,0
+['{c and } --'],c and  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- it's pretty typical of the other town homes in the area -- /""]", its pretty typical of the other town homes in the area  ,+,MALE,0
+['okay. /'],okay ,bk,FEMALE,14
+"['-- [ ther-, + ] [ we, + we ] have a lot of town  homes here --']",  ther    we  we  have a lot of town  homes here ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- as well as single family homes,  /']", as well as single family homes  ,+,MALE,0
+"['{c and } at the time  that i bought this one it was just [ a, + a ] much better arrangement for me personally.  /']",c and  at the time  that i bought this one it was just  a  a  much better arrangement for me personally  ,sd,MALE,1
+"[""i'm not home a lot.  /""]",im not home a lot  ,sd,MALE,1
+['i travel a great deal with --'],i travel a great deal with ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- my job,  /']", my job  ,+,MALE,0
+"[""[ {c and } + <breathing> {c so } ] it was easier to  have a home [ that  didn't -- +""]", c and   breathing c so   it was easier to  have a home  that  didnt  ,sd,MALE,1
+['was sort of maintenance free. /'],was sort of maintenance free ,^2,FEMALE,23
+['-- exactly --'], exactly ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['-- that somebody else looks ] out for the maintenance. /'], that somebody else looks  out for the maintenance ,+,MALE,0
+"['{d oh } yeah,  /']",d oh  yeah  ,b,FEMALE,2
+"['{d well, } {f um, } [ [ that, + that ]  sounds, + that sounds ] pretty good for - /']",d well  f um    that  that   sounds  that sounds  pretty good for  ,ba,FEMALE,6
+"['i know my husband takes an awful lot of time on the weekends, not so much  now, but  to, {f um, } maintain the lawn and the edging and the flower beds,  /']",i know my husband takes an awful lot of time on the weekends not so much  now but  to f um  maintain the lawn and the edging and the flower beds  ,sd,FEMALE,1
+"[""{c and } it's a lot of work, owning a home with a little bit of property attached to it.  /""]",c and  its a lot of work owning a home with a little bit of property attached to it  ,sv,FEMALE,3
+"[""it's -- -/""]",its  ,%,FEMALE,5
+['it certainly is. /'],it certainly is ,aa,MALE,4
+"['-- sometimes i think, {f um, } it would be nice to have a  town home, with <laughter> not having all that responsibility. /']", sometimes i think f um  it would be nice to have a  town home with laughter not having all that responsibility ,sd,FEMALE,1
+"[""{d well, } if you ever get one, be sure the walls  are good and thick because if they're not you can hear.  /""]",d well  if you ever get one be sure the walls  are good and thick because if theyre not you can hear  ,ad,MALE,22
+"[""[ i, +  that's the main thing when i ] was shopping for one,  /""]", i   thats the main thing when i  was shopping for one  ,sd,MALE,1
+"[""i wanted to make sure [ i could, + i couldn't ] hear my  neighbors  /""]",i wanted to make sure  i could  i couldnt  hear my  neighbors  ,sd,MALE,1
+['{c and } that was -- -/'],c and  that was  ,%,MALE,5
+['right. /'],right ,b,FEMALE,2
+"[""-- {c so } i bought one that's more like living in a, - /""]", c so  i bought one thats more like living in a  ,sd,MALE,1
+"[""once you're inside, you don't know you're in a town home. /""]",once youre inside you dont know youre in a town home ,sd,MALE,1
+"['{f oh, } that sounds lovely. /']",f oh  that sounds lovely ,ba,FEMALE,6
+['it is.  /'],it is  ,aa,MALE,4
+"[""they're kind of built on a catty-cornered  instead of like side by side -- /""]",theyre kind of built on a cattycornered  instead of like side by side  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c so } you don't actually hear anybody next door to you. /""]", c so  you dont actually hear anybody next door to you ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{c so } [ in, + in ] your area then there's  probably a lot of, {f um, } career type people that have those type homes  /""]",c so   in  in  your area then theres  probably a lot of f um  career type people that have those type homes  ,qy^d,FEMALE,16
+['{c and } -- -/'],c and   ,%,FEMALE,5
+"['yes,  /']",yes  ,ny,MALE,9
+['definitely. /'],definitely ,sd,MALE,1
+"['-- uh-huh,  /']", uhhuh  ,b,FEMALE,2
+"[""{c and, }  {f um, } the area that we're  settled in is, {f um, } definitely [ young, + young ] families [ with, + with ] kids.  /""]",c and   f um  the area that were  settled in is f um  definitely  young  young  families  with  with  kids  ,sd,FEMALE,1
+"[""they're still  doing, {f um, } a lot of building in the neighborhood.  /""]",theyre still  doing f um  a lot of building in the neighborhood  ,sd,FEMALE,1
+"[""{c so } the people that move  here seem to move from all over the country, which we're from, {f um, } the  northeast,  /""]",c so  the people that move  here seem to move from all over the country which were from f um  the  northeast  ,sd,FEMALE,1
+"[""{c and, } {f um, } <child_talking> seems like a people [ just don't, +   {e or } also don't ] have any family around.  /""]",c and  f um  childtalking seems like a people  just dont    e or  also dont  have any family around  ,sd,FEMALE,1
+"[""{c so } it, {f um, } also gives you a common bond  when you don't have a lot of relatives visiting your neighbors,  /""]",c so  it f um  also gives you a common bond  when you dont have a lot of relatives visiting your neighbors  ,sv,FEMALE,3
+"['[ {c and } +  {d you know, } {f um }  <laughter>.  {c but, } ] {f um }  ((   )) , -/']", c and    d you know  f um   laughter  c but   f um        ,%,FEMALE,5
+"['{d well, } we also in this area seem to have a lot of retirees --']",d well  we also in this area seem to have a lot of retirees ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- people who don't want the heat of florida but don't want [ the  heat of  the, + the cold of the ] northeast  /""]", people who dont want the heat of florida but dont want  the  heat of  the  the cold of the  northeast  ,+,MALE,0
+['{c so } --'],c so  ,sd,MALE,1
+"['right,  /']",right  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+['-- they settle sort of in-between. /'], they settle sort of inbetween ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{d now } [ it's, +  {f um, } is it ] very wooded around  where you are,  /""]",d now   its   f um  is it  very wooded around  where you are  ,qy,FEMALE,7
+"['there lots of pretty trees and, -/']",there lots of pretty trees and ,qy^d,FEMALE,16
+['yes -- /'],yes  ,ny,MALE,9
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- as a matter of fact [ this is a, + {f uh, } this   particular community that i live in is ] very wooded. /']", as a matter of fact  this is a  f uh  this   particular community that i live in is  very wooded ,sd,MALE,1
+"['{f oh, } how pretty. /']",f oh  how pretty ,ba,FEMALE,6
+['it is nice. /'],it is nice ,sd,MALE,1
+['i do miss that.  /'],i do miss that  ,sd,FEMALE,1
+['around here in plano there are  very few trees  /'],around here in plano there are  very few trees  ,sd,FEMALE,1
+"[""{c and } it's pretty flat [ and, + and ] kind of barren  /""]",c and  its pretty flat  and  and  kind of barren  ,sd,FEMALE,1
+"[""{c and } that's the only  thing that we don't like about living in texas, is we miss all the beautiful  trees and the fall  /""]",c and  thats the only  thing that we dont like about living in texas is we miss all the beautiful  trees and the fall  ,sd,FEMALE,1
+"['[ {c and, } +  {c and, } ]  {f um, } {f uh, } the landscape is  much different here in texas than it is, {d you know, } in the north.  {f um, } or even where you are. /']", c and    c and    f um  f uh  the landscape is  much different here in texas than it is d you know  in the north  f um  or even where you are ,sd,FEMALE,1
+"['{f uh, } we definitely have a lot of trees here. /']",f uh  we definitely have a lot of trees here ,sd,MALE,1
+"['<laughter> a lot of leaves to rake up too, i bet. /']",laughter a lot of leaves to rake up too i bet ,qy^d,FEMALE,16
+['yes  /'],yes  ,ny,MALE,9
+"[""{c but } fortunately the home owner's  association does all that. /""]",c but  fortunately the home owners  association does all that ,sd,MALE,1
+"['does that,  /']",does that  ,b,FEMALE,2
+"[""{d well, } {d see, }  that's another plus. /""]",d well  d see   thats another plus ,ba,FEMALE,6
+"['yes,  /']",yes  ,aa,MALE,4
+"[""i don't have to worry about that  /""]",i dont have to worry about that  ,sd,MALE,1
+"[""{c and } this is the  time of year we're starting to lose,  /""]",c and  this is the  time of year were starting to lose  ,sd,MALE,1
+"[""they're all falling now. /""]",theyre all falling now ,sd,MALE,1
+"[""that's right,  /""]",thats right  ,aa,FEMALE,4
+"[""that's right,  /""]",thats right  ,aa,FEMALE,4
+['they are.  /'],they are  ,aa,FEMALE,4
+"[""i'm going to get  the kids to get outside with the other neighbor kids and do the little bit of raking that needs to be done.  /""]",im going to get  the kids to get outside with the other neighbor kids and do the little bit of raking that needs to be done  ,sd,FEMALE,1
+"['we just have a few trees in the front and a few in the back but, [ not, + not ] much.  [ just, + just ] a little <child_talking> kind of just in more of a make a little bit of a mess for a few weeks  /']",we just have a few trees in the front and a few in the back but  not  not  much   just  just  a little childtalking kind of just in more of a make a little bit of a mess for a few weeks  ,sd,FEMALE,1
+"[""{c and }  if you didn't do anything about it, then they'd probably the leaves just blow away <laughter>. /""]",c and   if you didnt do anything about it then theyd probably the leaves just blow away laughter ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"[""it's not too bad.  /""]",its not too bad  ,sd,FEMALE,1
+"['okay,  /']",okay  ,%,FEMALE,5
+['do we have to speak for a  certain amount of time? /'],do we have to speak for a  certain amount of time ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+"[""i don't think so. /""]",i dont think so ,sd,MALE,1
+['okay.  /'],okay  ,bk,FEMALE,14
+['okay.  /'],okay  ,bk,FEMALE,14
+['it was really nice speaking to you. /'],it was really nice speaking to you ,fc,FEMALE,10
+['it was good to speak with you too. /'],it was good to speak with you too ,fc,MALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+['{c and } have a happy thanksgiving. /'],c and  have a happy thanksgiving ,fc,FEMALE,10
+"['thank you,  /']",thank you  ,fc,MALE,10
+['you too. /'],you too ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10

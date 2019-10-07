@@ -1,0 +1,177 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""{f uh, } {d anyway, } we're supposed to talk about recycling.   {d basically, } [ what, + what ] your personal opinion is on it.  /""]",f uh  d anyway  were supposed to talk about recycling   d basically   what  what  your personal opinion is on it  ,sd,MALE,1
+"[""{f uh, } [ this is, + this is ]  really for a speech research project they're doing  /""]",f uh   this is  this is   really for a speech research project theyre doing  ,sd,MALE,1
+"[""{c so, } {f uh, } i don't know.  /""]",c so  f uh  i dont know  ,h,MALE,15
+"[""florida is pretty good about recycling isn't it? /""]",florida is pretty good about recycling isnt it ,qy,MALE,7
+"['{d well, } they just kicked it off down here [ in, + in ]  sarasota county. /']",d well  they just kicked it off down here  in  in   sarasota county ,arp_nd,MALE,34
+"['{f oh, } they did? /']",f oh  they did ,bh,MALE,18
+"['{f uh, } <lipsmack> they had been doing it,  /']",f uh  lipsmack they had been doing it  ,sd,MALE,1
+['they started first in sarasota city.'],they started first in sarasota city,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } {d you know, } which makes up a pretty small portion  of the county actually. /']",f uh  d you know  which makes up a pretty small portion  of the county actually ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and, }  {f uh, } they've got these, i don't know what, if you're familiar with sarasota county at all. /""]",c and   f uh  theyve got these i dont know what if youre familiar with sarasota county at all ,qy^d,MALE,16
+"['not quite,  /']",not quite  ,ng,MALE,29
+['no. /'],no ,nn,MALE,13
+"[""they've got these, [ wh-, + ] - /""]",theyve got these  wh    ,%,MALE,5
+"[""[ it's, + it's ] county wide program now. /""]", its  its  county wide program now ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } what they've done is they've broken  everything down into garbage.  {f uh, } yard trash.""]",c and  what theyve done is theyve broken  everything down into garbage  f uh  yard trash,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['plastic, [ cr-, +  cans ] and glass.']",plastic  cr   cans  and glass,+,MALE,0
+['okay. /'],okay ,b,MALE,2
+"['and then, {f uh, } paper. /']",and then f uh  paper ,+,MALE,0
+['okay. /'],okay ,b,MALE,2
+"[""which, in the paper, it's just, {f uh, } newspaper and  corrugated cardboard.""]",which in the paper its just f uh  newspaper and  corrugated cardboard,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""is the only thing you're supposed to put in there. /""]",is the only thing youre supposed to put in there ,+,MALE,0
+['okay. /'],okay ,b,MALE,2
+"['no slicks.  {f uh, } /']",no slicks  f uh  ,sd,MALE,1
+"[""{f oh, } [ that's, + that's ] good.  /""]",f oh   thats  thats  good  ,ba,MALE,6
+['let me ask you this.  /'],let me ask you this  ,^h,MALE,27
+['do they require you to presort it? /'],do they require you to presort it ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['okay.  /'],okay  ,bk,MALE,14
+"[""see that's something in minneapolis  they're really strict on.  /""]",see thats something in minneapolis  theyre really strict on  ,sd,MALE,1
+"['in terms of you got to put everything in its own little bag and really  presort it really, {d you know, } tightly.  /']",in terms of you got to put everything in its own little bag and really  presort it really d you know  tightly  ,sd,MALE,1
+"[""{c but } when i lived  in orlando, it's like you could put almost anything in there -- /""]",c but  when i lived  in orlando its like you could put almost anything in there  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } they'd just sort it out for you # <laughter>. # /""]", c and  theyd just sort it out for you  laughter  ,sd,MALE,1
+['# yeah. #  /'], yeah   ,b,MALE,2
+['#  (( yeah )) . # /'],   yeah    ,b,MALE,2
+"[""# it # was really pretty good if you're lazy like i am,  /""]", it  was really pretty good if youre lazy like i am  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+['right.  /'],right  ,b,MALE,2
+"['{d well, } {d you know, } {f uh, } i talked to  this girl  /']",d well  d you know  f uh  i talked to  this girl  ,sd,MALE,1
+"[""[ who, +  {f uh, }  she's ] [ a, +  [ an s-, + an ] ] acquaintance of mine  /""]", who   f uh   shes   a    an s  an   acquaintance of mine  ,sd,MALE,1
+"[""[ {c and, } +  {c and } ]  she's involved with, {f uh, } <lipsmack> {f oh, } - /""]", c and    c and    shes involved with f uh  lipsmack f oh   ,sd,MALE,1
+['what is the name of that company.  /'],what is the name of that company  ,t1,MALE,37
+"[""it's not  amway  /""]",its not  amway  ,sd,MALE,1
+"[""{c but } it's the other big vitamin company?  shaklee. /""]",c but  its the other big vitamin company  shaklee ,sd,MALE,1
+"['{f oh, } okay,  /']",f oh  okay  ,b,MALE,2
+['# yeah. # /'], yeah  ,b,MALE,2
+['# okay.  /'], okay  ,b,MALE,2
+"[""# [ [ {c and, } + {f uh, } {c and, } ] +  {c and } ]  she's just shaklee crazy, {d you know, } because it's her business and # everything. # /""]",   c and   f uh  c and     c and    shes just shaklee crazy d you know  because its her business and  everything  ,sd,MALE,1
+['# <laughter>. #'], laughter ,x,MALE,8
+"['[ {c and, }  {f uh, } <lipsmack> + {d you know, } {c and } ]  she asked, - /']", c and   f uh  lipsmack  d you know  c and    she asked  ,%,MALE,5
+['we were talking one day  /'],we were talking one day  ,sd,MALE,1
+"['[ {c and, } + {c and } ] she asked me a couple of questions,  {d you know. }  /']", c and   c and   she asked me a couple of questions  d you know   ,sd,MALE,1
+"[""[ [ {c and } she, + [ {c and, }  + {c and } ] what she ] said [ that, + that ] generally, the problems that people have with being environmentally conscious is number one, they don't want it to change their lifestyle --""]",  c and  she   c and    c and   what she  said  that  that  generally the problems that people have with being environmentally conscious is number one they dont want it to change their lifestyle ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- [ and, +  and ] {d like, } {d you know, }  especially make it anymore complicated or any extra work or anything.  /']",  and   and  d like  d you know   especially make it anymore complicated or any extra work or anything  ,+,MALE,0
+"[""[ which +  [ that's, + that's ] ]  what recycling at home sorting does, {d you know. } /""]", which    thats  thats    what recycling at home sorting does d you know  ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+"[""{e i mean } it's a little extra work. /""]",e i mean  its a little extra work ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, }  {f uh, } it can actually turn out to be a  lot of extra work because <noise> # [ what they do, +  what # --']",c and   f uh  it can actually turn out to be a  lot of extra work because noise   what they do   what  ,sv,MALE,3
+"['# it can,  /']", it can  ,aa,MALE,4
+['yeah. # /'],yeah  ,aa,MALE,4
+"[""-- <noise> they do ] here in sarasota county is they've got, - /""]", noise they do  here in sarasota county is theyve got  ,+,MALE,0
+"['okay,  /']",okay  ,%,MALE,5
+['you put your garbage in a garbage bag  /'],you put your garbage in a garbage bag  ,sd,MALE,1
+['{c and } you set it out by the curb. /'],c and  you set it out by the curb ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['if you have yard trash, you put your yard trash in some  kind of container.  /']",if you have yard trash you put your yard trash in some  kind of container  ,sd,MALE,1
+"['{f uh, } {c or } you can have bundles up to a certain  weight, # and [ cer-, +  certain ] dimensions, tie them up and # --']",f uh  c or  you can have bundles up to a certain  weight  and  cer   certain  dimensions tie them up and  ,sd,MALE,1
+"['# <laughter> yeah,  /']", laughter yeah  ,aa,MALE,4
+['you got to tie them up and everything. # /'],you got to tie them up and everything  ,aa,MALE,4
+['-- put them by the curb.  /'], put them by the curb  ,+,MALE,0
+"['{d well, } the plastic,  cans and glass, they give you this little tub  /']",d well  the plastic  cans and glass they give you this little tub  ,sd,MALE,1
+"[""{c and } it's about a foot and a half deep  /""]",c and  its about a foot and a half deep  ,sd,MALE,1
+"[""{c and }  it's about one by one and a half foot wide and long. /""]",c and   its about one by one and a half foot wide and long ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+['this is a little container. /'],this is a little container ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and then } they have another one the same  size.  /'],c and then  they have another one the same  size  ,sd,MALE,1
+"[""that one's red.  /""]",that ones red  ,sd,MALE,1
+['then they have a blue one the same size for the paper goods. /'],then they have a blue one the same size for the paper goods ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, so, } {d like, } {d you know, } you would have to  rinse out your pop cans.  /']",c and so  d like  d you know  you would have to  rinse out your pop cans  ,sv,MALE,3
+['otherwise you got bees and ants  /'],otherwise you got bees and ants  ,sv,MALE,3
+['[ [ {c and } + --'],  c and   ,sv,MALE,3
+['exactly. /'],exactly ,aa,MALE,4
+"[""-- {d you know, } {c and, } ] + {c and } ] if you've  got, {f uh, } food containers or anything like  that, it's a big problem. /""]", d you know  c and    c and   if youve  got f uh  food containers or anything like  that its a big problem ,+,MALE,0
+"['it is, # {d you know, } a big # --']",it is  d you know  a big  ,aa,MALE,4
+['# {c so } not only do you # -- -/'], c so  not only do you   ,%,MALE,5
+['-- hassle. /'], hassle ,+,MALE,0
+['-- yeah. /'], yeah ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's true.  /""]",thats true  ,aa,MALE,4
+"['{e i mean, } up here, they give  you [ one, + one ] of those containers  /']",e i mean  up here they give  you  one  one  of those containers  ,sd,MALE,1
+['{c and } you put everything in it. /'],c and  you put everything in it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so } it's like, [ if, + if ] you use a lot of stuff,   you, - /""]",c so  its like  if  if  you use a lot of stuff   you  ,%,MALE,5
+"[""it's like {d well } {d you know, } if you're a partying kind of guy and you drink, {d you know, } {d like }  a couple of twelve packs, maybe, over the weekend --""]",its like d well  d you know  if youre a partying kind of guy and you drink d you know  d like   a couple of twelve packs maybe over the weekend ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- it's going to be hard pressed [ to p-, + to put ]  all your recyclables in that one --""]", its going to be hard pressed  to p  to put   all your recyclables in that one ,+,MALE,0
+['this is true. /'],this is true ,aa,MALE,4
+"['-- place, # {d you know. }  /']", place  d you know   ,+,MALE,0
+"[""{c so } it's # --""]",c so  its  ,sv,MALE,3
+['# this is true. # /'], this is true  ,aa,MALE,4
+['-- kind of a pain in the butt.  /'], kind of a pain in the butt  ,+,MALE,0
+"[""{c but, }  {f uh, }  i don't know.  /""]",c but   f uh   i dont know  ,h,MALE,15
+"[""that's definitely one thing they could do to make it easier is to just, {d you know. } - /""]",thats definitely one thing they could do to make it easier is to just d you know   ,sv,MALE,3
+"['you [ have, + have ] those garbage people that [ make, +  {a how every many, } make ] [ tw-, +  twenty, ] thirty bucks an hour,  /']",you  have  have  those garbage people that  make   a how every many  make   tw   twenty  thirty bucks an hour  ,sv,MALE,3
+['have them do a little bit of the sorting.'],have them do a little bit of the sorting,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know. }  [ and, + and ]  maybe come up with a better system.  /']",d you know    and  and   maybe come up with a better system  ,+,MALE,0
+['make it a little more convenient.  /'],make it a little more convenient  ,sv,MALE,3
+"['{c but, } -/']",c but  ,%,MALE,5
+"['<swallowing> yeah,  /']",swallowing yeah  ,aa,MALE,4
+"[""they've got these large garbage  cans that you can rent from the waste management company here.""]",theyve got these large garbage  cans that you can rent from the waste management company here,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{f uh, } if you want to have a nice garbage  can, {d you know. }  /']",f uh  if you want to have a nice garbage  can d you know   ,+,MALE,0
+"[""{c and } it's on wheels  /""]",c and  its on wheels  ,sd,MALE,1
+"[""{c and } # it's big. # /""]",c and   its big  ,sd,MALE,1
+"['# {f oh, } you can # actually rent those? /']", f oh  you can  actually rent those ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['okay.  /'],okay  ,bk,MALE,14
+"[""that's interesting.  /""]",thats interesting  ,ba,MALE,6
+['# yeah # -- /'], yeah   ,%,MALE,5
+['# yeah <swallowing>. # /'], yeah swallowing  ,b^m,MALE,24
+"['-- up here [ the, + the ] city provides  them.  /']", up here  the  the  city provides  them  ,sd,MALE,1
+"['# kind of like, # -/']", kind of like  ,%,MALE,5
+"['# [ i think in, + # i think in ] the city they  do  /']",  i think in   i think in  the city they  do  ,sd,MALE,1
+['{c but } out here in the county you have to rent them. /'],c but  out here in the county you have to rent them ,sd,MALE,1
+"['{f oh, } okay  ((   )) . /']",f oh  okay       ,b,MALE,2
+['{c and } they just add it on to your water  bill or something. /'],c and  they just add it on to your water  bill or something ,sd,MALE,1
+"['{c so } where exactly are you in  terms [ of, + of, ] {d like, }  sarasota?  /']",c so  where exactly are you in  terms  of  of  d like   sarasota  ,qw,MALE,12
+"['are you north of sarasota or,']",are you north of sarasota or,qy,MALE,7
+['east of sarasota. /'],east of sarasota ,sd,MALE,1
+"['east,  /']",east  ,+,MALE,0
+['# okay. # /'], okay  ,bk,MALE,14
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['{c and } sarasota is on the west coast? /'],c and  sarasota is on the west coast ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['okay.  /'],okay  ,bk,MALE,14
+"['{d like } south of tampa,  right? /']",d like  south of tampa  right ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['okay.  /'],okay  ,bk,MALE,14
+"[""i'm, -/""]",im ,%,MALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+['[ about an hour. +'], about an hour ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""# that's, # -/""]", thats  ,%,MALE,5
+['# about # an hour ] south of tampa <inhaling> <sniffing>. /'], about  an hour  south of tampa inhaling sniffing ,+,MALE,0
+['okay. /'],okay ,bk,MALE,14
+"['{f uh, } <laughter> yeah,  /']",f uh  laughter yeah  ,b,MALE,2
+['{d well. }  i listen to this  talk radio station down here  /'],d well   i listen to this  talk radio station down here  ,sd,MALE,1
+"[""{c and } it's really, - /""]",c and  its really  ,%,MALE,5
+"['[ th-, + they, ] - /']", th  they   ,%,MALE,5
+"[""i don't if you ever  listen to talk radio  /""]",i dont if you ever  listen to talk radio  ,qy^d,MALE,16
+['{c but } --'],c but  ,sd,MALE,1
+"['{f um, } occasionally. /']",f um  occasionally ,na,MALE,21
+"['-- those guys, they just kind of get into,  [ [ to s-, + s-,  ] +  stewing ] up trouble, {d you know. }']", those guys they just kind of get into    to s  s     stewing  up trouble d you know ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+['with the callers and things like that.  /'],with the callers and things like that  ,+,MALE,0
+"['{c but } they get  into some really good conversations sometimes, {d you know. }  /']",c but  they get  into some really good conversations sometimes d you know   ,sd,MALE,1
+"[""{c and } some of it,  sometimes it's serious  /""]",c and  some of it  sometimes its serious  ,sd,MALE,1
+['{c and } they have some good feedback  and all that stuff  /'],c and  they have some good feedback  and all that stuff  ,sd,MALE,1
+['{c and } --'],c and  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- from listening to that, i kind of got an idea that  i thought would be good with <sniffing>  /']", from listening to that i kind of got an idea that  i thought would be good with sniffing  ,+,MALE,0
+"['{c and } this kind of fits  into [ the, + {f uh, } the ] aid program,  /']",c and  this kind of fits  into  the  f uh  the  aid program  ,sv,MALE,3
+"[""the welfare program that's going on right now. /""]",the welfare program thats going on right now ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } it's like, {f uh, } -/""]",c and  its like f uh  ,%,MALE,5

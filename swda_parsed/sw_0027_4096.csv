@@ -1,0 +1,84 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hello ann. /'],hello ann ,fp,MALE,32
+['hello chuck. /'],hello chuck ,fp,FEMALE,32
+"['{f uh, } the other day, i attended a conference here at utah state university on recycling -- /']",f uh  the other day i attended a conference here at utah state university on recycling  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {f uh, } i was kind of interested to hear cause they had some people from the e p a and lots of different places -- /']", c and  f uh  i was kind of interested to hear cause they had some people from the e p a and lots of different places  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {f uh, } <noise> they had basically decided that there is going to be a real problem here within a few years on solid waste. /']", c and  f uh  noise they had basically decided that there is going to be a real problem here within a few years on solid waste ,sd,MALE,1
+"[""{f uh, } i didn't think that was a new revelation. /""]",f uh  i didnt think that was a new revelation ,sv,FEMALE,3
+"[""{d well, } it's not too new. /""]",d well  its not too new ,aa,MALE,4
+['right.  /'],right  ,b,FEMALE,2
+"['{d so, } [ what + what ] is the e p a recommending now? /']",d so   what  what  is the e p a recommending now ,qw,FEMALE,12
+"[""{f oh, } <noise> they really didn't propose any solutions.  /""]",f oh  noise they really didnt propose any solutions  ,sd,MALE,1
+"['{d actually, } [ they were, + the guy was ] pretty negative about the things that the government was doing even though he was from the e p a. /']",d actually   they were  the guy was  pretty negative about the things that the government was doing even though he was from the e p a ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } he had a lot of, {f uh, } facts [ to, + to ] give and, {f uh, } things like how many solid waste plants were being shut down  /']",c but  he had a lot of f uh  facts  to  to  give and f uh  things like how many solid waste plants were being shut down  ,sd,MALE,1
+"['[ {c and, } + {c and, } ] {f uh, } one of the most interesting things that he was talking <noise> about was recycling [ of, + of ] news print.  /']", c and   c and   f uh  one of the most interesting things that he was talking noise about was recycling  of  of  news print  ,sv,MALE,3
+"['he was talking about, {f uh, } the city of new york and how they went and collected all this news print <noise> -- /']",he was talking about f uh  the city of new york and how they went and collected all this news print noise  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- {c and } they could sell it for a while.  /'], c and  they could sell it for a while  ,sd,MALE,1
+['they were able to sell it for some amount per ton  /'],they were able to sell it for some amount per ton  ,sd,MALE,1
+"[""{c and } now at this stage of the game where they have gotten into <noise> recycling, they've collected so much news print that they have to pay to have it hauled away. /""]",c and  now at this stage of the game where they have gotten into noise recycling theyve collected so much news print that they have to pay to have it hauled away ,sd,MALE,1
+['right.  /'],right  ,b,FEMALE,2
+"[""[ that's a, + that's a ] common problem though.  /""]", thats a  thats a  common problem though  ,sv,FEMALE,3
+"['[ that it seems, + that has happened ] in dallas as well as new york <inhaling>  /']", that it seems  that has happened  in dallas as well as new york inhaling  ,sd,FEMALE,1
+['{c and } i try to recycle all of the newspapers that come to my house  /'],c and  i try to recycle all of the newspapers that come to my house  ,sd,FEMALE,1
+"[""{c and } after a while i just quit taking the newspaper because i couldn't recycle it anymore which isn't good for business on the other end either, i suppose. /""]",c and  after a while i just quit taking the newspaper because i couldnt recycle it anymore which isnt good for business on the other end either i suppose ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""we're doing some here [ in, + in ] cash valley, the community here. /""]",were doing some here  in  in  cash valley the community here ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ there's, + {f uh, } we've ] actually got a kind of a nice set up.  /""]", theres  f uh  weve  actually got a kind of a nice set up  ,sv,MALE,3
+"[""we've got a couple of plants here that actually take, {f uh, } recycled paper and shred it and spray it with chemical treatment so that it's not a fire hazard --""]",weve got a couple of plants here that actually take f uh  recycled paper and shred it and spray it with chemical treatment so that its not a fire hazard ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['-- and make it into insulation  /'], and make it into insulation  ,+,MALE,0
+['{c and } they can actually use as much recycled paper as the community can get to them. because they are actually buying it and shipping it in from outside. /'],c and  they can actually use as much recycled paper as the community can get to them because they are actually buying it and shipping it in from outside ,sd,MALE,1
+"[""{d well, } that's good. /""]",d well  thats good ,ba,FEMALE,6
+"['{c so } one of the real keys, it sounds like, to getting recycling for, {f uh, } paper or something like that to go is to get some sort of business to actually want it once you have collected it. /']",c so  one of the real keys it sounds like to getting recycling for f uh  paper or something like that to go is to get some sort of business to actually want it once you have collected it ,sv,MALE,3
+['right.  /'],right  ,aa,FEMALE,4
+"['there has to be, {f uh, } a reuse for it.  /']",there has to be f uh  a reuse for it  ,sv,FEMALE,3
+"[""{e i mean, } that's why they recycle.  /""]",e i mean  thats why they recycle  ,sd,FEMALE,1
+"['the one i think is the most interesting is with the recycled bottles and all that, {f uh, } the industry seems to be doing with the recycled polymers. {f uh, } everything from, {f uh, } waste baskets to carpet to [ the no stick, + {e i mean } the sticky ] slide rugs under the carpet -- /']",the one i think is the most interesting is with the recycled bottles and all that f uh  the industry seems to be doing with the recycled polymers f uh  everything from f uh  waste baskets to carpet to  the no stick  e i mean  the sticky  slide rugs under the carpet  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and, } {f uh, } i think they are even putting it in the roadways these days  /']", c and  f uh  i think they are even putting it in the roadways these days  ,sv,FEMALE,3
+"[""{c and } they're making clothes now that are recycled.  /""]",c and  theyre making clothes now that are recycled  ,sd,FEMALE,1
+['like the recycled plastic coke bottles [ and + and ] milk cartons and things like that. /'],like the recycled plastic coke bottles  and  and  milk cartons and things like that ,sd,FEMALE,1
+['{c and } there was a paper presented at this conference from a guy from alabama  /'],c and  there was a paper presented at this conference from a guy from alabama  ,sd,MALE,1
+['{c and } he was kind of hired to do a study by two departments for the government.  /'],c and  he was kind of hired to do a study by two departments for the government  ,sd,MALE,1
+"['one was {d like, } environmental protection  /']",one was d like  environmental protection  ,sd,MALE,1
+"[""{c and } the other one was, {f oh, } i can't remember what,  /""]",c and  the other one was f oh  i cant remember what  ,sd,MALE,1
+"['{c but } the basic idea, it was presented to him was how can we maximize the amount of energy that we can get back from recycling and minimize the volume of stuff that we are putting into our landfill -- /']",c but  the basic idea it was presented to him was how can we maximize the amount of energy that we can get back from recycling and minimize the volume of stuff that we are putting into our landfill  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {f uh, } the solution that he came up with for plastics, [ and + ] it was really quite amazing,  /']", c and  f uh  the solution that he came up with for plastics  and   it was really quite amazing  ,sv,MALE,3
+"['he says, {d well } the best thing to do with plastics is to burn them. /']",he says d well  the best thing to do with plastics is to burn them ,sd,MALE,1
+['{f oh } really. /'],f oh  really ,b,FEMALE,2
+"[""he came to the conclusion, plastics is actually one of the biggest problems in landfills cause [ it's, + it's ] low weight, but it's high volume so it takes up a lot of space -- /""]",he came to the conclusion plastics is actually one of the biggest problems in landfills cause  its  its  low weight but its high volume so it takes up a lot of space  ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""-- {c and } [ there's almost no energy, + there's very little energy ] value in actually doing a lot of the recycling,  /""]", c and   theres almost no energy  theres very little energy  value in actually doing a lot of the recycling  ,sd,MALE,1
+"['{c but } there is a lot of energy in it if you can burn it and use it, produce electricity. /']",c but  there is a lot of energy in it if you can burn it and use it produce electricity ,sd,MALE,1
+['{f huh. } /'],f huh  ,%,FEMALE,5
+['{c so } his solution was to burn plastic. collect it and burn it. /'],c so  his solution was to burn plastic collect it and burn it ,sd,MALE,1
+"[""{d well, } it's carbon  /""]",d well  its carbon  ,sd,FEMALE,1
+"['{c so } that makes sense,  /']",c so  that makes sense  ,sv,FEMALE,3
+"['{d like } a carbon fuel of some sort,  /']",d like  a carbon fuel of some sort  ,sd,FEMALE,1
+['{c but } --'],c but  ,qw,FEMALE,12
+['yeah. /'],yeah ,b,MALE,2
+['-- [ what -- +'],  what  ,+,FEMALE,0
+"[""{c and } it's more than even paper or something like that.  /""]",c and  its more than even paper or something like that  ,sd,MALE,1
+['there is more energy in it per pound or # whatever. # /'],there is more energy in it per pound or  whatever  ,sd,MALE,1
+['-- # what ] # about emissions? /'],  what   about emissions ,+,FEMALE,0
+"[""{d well } [ that was <laughter> + he didn't ] deal with that. /""]",d well   that was laughter  he didnt  deal with that ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+['he just said burn it. /'],he just said burn it ,sd,MALE,1
+['okay <laughter>. /'],okay laughter ,b,FEMALE,2
+"[""he didn't talk about cleaning it up or anything like that.  /""]",he didnt talk about cleaning it up or anything like that  ,sd,MALE,1
+"[""{c so } it's not very practical (( )). /""]",c so  its not very practical   ,sv,MALE,3
+['no.  /'],no  ,aa,FEMALE,4
+"[""{d well } it's interesting.  /""]",d well  its interesting  ,sv,FEMALE,3
+"['i bet that was a good day, at the {d yeah, } conference then. /']",i bet that was a good day at the d yeah  conference then ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['{d well, } real interesting. /']",d well  real interesting ,sv,MALE,3
+['did it change anything for you? /'],did it change anything for you ,qy,FEMALE,7
+"['{f uh, } <breathing> not too much.  /']",f uh  breathing not too much  ,ng,MALE,29
+"['{f uh, } i got a bit.  /']",f uh  i got a bit  ,sd,MALE,1
+"['actually, -/']",actually ,%,MALE,5

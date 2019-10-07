@@ -1,0 +1,214 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['i say arlington, texas now because i talked one night to somebody in arlington, virginia. /']",i say arlington texas now because i talked one night to somebody in arlington virginia ,sd,FEMALE,1
+"['{f oh, } my,  /']",f oh  my  ,ba,MALE,6
+['yeah.  /'],yeah  ,%,MALE,5
+"['{d well, } and plano, texas  rather than plano, illinois. /']",d well  and plano texas  rather than plano illinois ,sd,MALE,1
+"['{f oh, } do they have one? /']",f oh  do they have one ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+['they do. /'],they do ,sd,MALE,1
+"[""{f oh, } i didn't know that. /""]",f oh  i didnt know that ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{d well, } i learned something already <laughter>. /']",d well  i learned something already laughter ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{d well, } let's see,  /""]",d well  lets see  ,^h,MALE,27
+"['the three questions  are what, {f uh, } -/']",the three questions  are what f uh  ,%,MALE,5
+['how much time do you spend with your children? /'],how much time do you spend with your children ,qw,FEMALE,12
+['very little.'],very little,sd,MALE,1
+['oh <laughter>. /'],oh laughter ,bk,FEMALE,14
+"[""because they're grown. /""]",because theyre grown ,+,MALE,0
+['what? /'],what ,br,FEMALE,30
+"[""they're grown and gone. /""]",theyre grown and gone ,sd,MALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+"['{d well, } mine is, {f uh, } down  at u t austin at college  /']",d well  mine is f uh  down  at u t austin at college  ,sd,FEMALE,1
+['{c and } the other one is in high school. /'],c and  the other one is in high school ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+['{c so } you do spend less time then? /'],c so  you do spend less time then ,qy,FEMALE,7
+['yeah -- /'],yeah  ,ny,MALE,9
+"['c-, -/']",c ,%,FEMALE,5
+"[""-- {c because } [ they don't want to know, +  they almost  don't want to know ] us. /""]", c because   they dont want to know   they almost  dont want to know  us ,sd,MALE,1
+['<laughter> they want to be with their friends.  /'],laughter they want to be with their friends  ,qy^d,FEMALE,16
+['how old are your kids?  /'],how old are your kids  ,qw,FEMALE,12
+['are they married or what? /'],are they married or what ,qy,FEMALE,7
+"['{f uh, } yes,  /']",f uh  yes  ,ny,MALE,9
+"['i have, {f uh, } two married,  [ two almo-, + {c and then } two almost ] married  /']",i have f uh  two married   two almo  c and then  two almost  married  ,sd,MALE,1
+"[""{c and } the other two, i'm not sure.  /""]",c and  the other two im not sure  ,sd,MALE,1
+"['{d well, }']",d well ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['[ [ two s-, + two, ] + two, ] {f uh, } {f uh, }  for sure are single. /']",  two s  two   two  f uh  f uh   for sure are single ,+,MALE,0
+"['{f oh, } <laughter> {d boy, } you have a lot of kids. /']",f oh  laughter d boy  you have a lot of kids ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['[ we have, +  between the spouse and myself we have ] six. /']", we have   between the spouse and myself we have  six ,sd,MALE,1
+"[""{f oh, } {d well, } that's kind of nice,  though.  /""]",f oh  d well  thats kind of nice  though  ,ba,FEMALE,6
+['[ you + --'], you  ,qy,FEMALE,7
+['{c because } i came with a split family  /'],c because  i came with a split family  ,sd,MALE,1
+['{c and } --'],c and  ,sd,MALE,1
+"[""-- you ] shouldn't be --""]", you  shouldnt be ,+,FEMALE,0
+"['-- she had, -/']", she had ,+,MALE,0
+"['-- lonesome on a holiday, {f huh? } /']", lonesome on a holiday f huh  ,+,FEMALE,0
+"['{d well, } no,  /']",d well  no  ,nn,MALE,13
+['there is so much of them are  gone  /'],there is so much of them are  gone  ,sd,MALE,1
+"[""{c and } they're doing their own things  /""]",c and  theyre doing their own things  ,sd,MALE,1
+['[ {c and } -- +'], c and   ,sd,MALE,1
+"[""{d well, } that's true. /""]",d well  thats true ,aa,FEMALE,4
+"[""-- {c and } ] a lot of times [ they, + they've ]  got, {d you know, } {f uh } <breathing>, when the holidays, -/""]", c and   a lot of times  they  theyve   got d you know  f uh  breathing when the holidays ,+,MALE,0
+"['they have to see their other parent, i guess --']",they have to see their other parent i guess ,qy^d,FEMALE,16
+['yeah -- /'],yeah  ,ny,MALE,9
+['-- too. /'], too ,+,FEMALE,0
+"['-- {c and } sometimes they want to do their  own thing,  /']", c and  sometimes they want to do their  own thing  ,sd,MALE,1
+['{c so } --'],c so  ,sd,MALE,1
+['i know. /'],i know ,ba,FEMALE,6
+"[""-- sometimes it's just spouse and me.  /""]", sometimes its just spouse and me  ,+,MALE,0
+"['[ {c and, } + {c and } ] you know what? /']", c and   c and   you know what ,qh,MALE,26
+['what? /'],what ,qw,FEMALE,12
+"[""sometimes that's okay. /""]",sometimes thats okay ,sd,MALE,1
+['i know <laughter>. /'],i know laughter ,ba,FEMALE,6
+"['{c because, } -/']",c because  ,%,MALE,5
+"[""that's what my mother said one time. /""]",thats what my mother said one time ,sd,FEMALE,1
+"['{d you know, } right,  /']",d you know  right  ,b,MALE,2
+['{c because } who says that they just must  got to come over to see us all the time --'],c because  who says that they just must  got to come over to see us all the time ,qh,MALE,26
+['right. /'],right ,b,FEMALE,2
+['-- for the holidays. /'], for the holidays ,+,MALE,0
+"['no,  /']",no  ,aa,FEMALE,4
+"[""that's true,  /""]",thats true  ,aa,FEMALE,4
+"['{c and } if they force them to,  {d you know } --']",c and  if they force them to  d you know  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""-- that's not good either. /""]", thats not good either ,+,FEMALE,0
+['that becomes a drudgery  /'],that becomes a drudgery  ,sv,MALE,3
+"['{d well, } do they all live in the area? /']",d well  do they all live in the area ,qy,FEMALE,7
+"[""[ n-, got, +  of the six,  we've got ] four around here. /""]", n got   of the six  weve got  four around here ,na,MALE,21
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['{f oh, } wow. /']",f oh  wow ,ba,FEMALE,6
+"[""{f uh, } {d you know, } {d well, } we're  talking like north texas. /""]",f uh  d you know  d well  were  talking like north texas ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and then, } one is in [ vermont, +  {f uh, }  [ [ [ montpe-, + mont-, ] + montpelier ] +  --']",c and then  one is in  vermont   f uh      montpe  mont   montpelier    ,sd,MALE,1
+['golly. /'],golly ,ba,FEMALE,6
+"['-- montpelier, ] vermont ]  /']", montpelier  vermont   ,+,MALE,0
+"['{c and } the other one is  in everett, washington. /']",c and  the other one is  in everett washington ,sd,MALE,1
+['how did they end up so far away? /'],how did they end up so far away ,qw,FEMALE,12
+"[""<laughter> {d well, } [ that is, + that's, ] [ [ the, + the, ] +   my ] little pair.""]",laughter d well   that is  thats    the  the     my  little pair,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } my second marriage.  /'],c and  my second marriage  ,+,MALE,0
+"['{f uh, } {c and, }  {f uh, } -/']",f uh  c and   f uh  ,%,MALE,5
+['those are the youngest ones? /'],those are the youngest ones ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['{d well, } the s-, - /']",d well  the s  ,%,MALE,5
+"['[ [ [ the, + the, ] + the, ] + the ]  fourth and fifth child [ [ of the + --']",   the  the   the   the   fourth and fifth child   of the  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- of the, ] + of the, ] {f uh, } six are the  two that are scattered like that. /']", of the   of the  f uh  six are the  two that are scattered like that ,+,MALE,0
+"[""{d boy, } [ that's, +  those are ] a long way. /""]",d boy   thats   those are  a long way ,sv,FEMALE,3
+"['{c and, }']",c and ,sd,MALE,1
+"['how, -/']",how ,%,FEMALE,5
+"['{d well, } they wanted to go, {f uh, }  /']",d well  they wanted to go f uh   ,+,MALE,0
+"['j r, [ [ [ my, + my, ] + my ]  last son -- +']",j r    my  my   my   last son  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {e or } my middle son, ] {e excuse me, } fell in love  with washington state -- /']", e or  my middle son  e excuse me  fell in love  with washington state  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } [ [ the, + the, ] + the, ] third daughter  fell in love with, {f uh, } {f uh, } # vermont. # /']", c and    the  the   the  third daughter  fell in love with f uh  f uh   vermont  ,sd,MALE,1
+['# vermont. # /'], vermont  ,b^m,FEMALE,24
+"['{c so, } -/']",c so  ,%,MALE,5
+['{c so } they wanted to make their homes there. /'],c so  they wanted to make their homes there ,bf,FEMALE,20
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's where they've gone to make their homes. /""]",thats where theyve gone to make their homes ,sd,MALE,1
+['my goodness.  /'],my goodness  ,ba,FEMALE,6
+"['[ are they, + are those ] two married? /']", are they  are those  two married ,qy,FEMALE,7
+['no. /'],no ,nn,MALE,13
+"['they, {f uh, } just working up there or going to  school or what? /']",they f uh  just working up there or going to  school or what ,qy,FEMALE,7
+"[""{d well, } {f uh, } let's see,  /""]",d well  f uh  lets see  ,^h,MALE,27
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""i guess you'd  say j r is working, [ going to s-, + ] trying to go to school. /""]",i guess youd  say j r is working  going to s   trying to go to school ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['i wish to god he would go back. /'],i wish to god he would go back ,sd,MALE,1
+"['<laughter> {f oh, } they do.']",laughter f oh  they do,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""especially [ if they, + if they're ] meant to, i think. /""]",especially  if they  if theyre  meant to i think ,+,FEMALE,0
+"['{d well, } i certainly hope so. /']",d well  i certainly hope so ,sd,MALE,1
+"[""{e i mean, } i've got a daughter that's a  sophomore at u t  /""]",e i mean  ive got a daughter thats a  sophomore at u t  ,sd,FEMALE,1
+"[""{c and } [ i'm, + i'm ] going to u t a right now myself  /""]",c and   im  im  going to u t a right now myself  ,sd,FEMALE,1
+['{c so } <laughter> --'],c so  laughter ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- it's never too late. /""]", its never too late ,+,FEMALE,0
+"[""{d well, } [ it's, + {f oh, } i agree it's ] never too late. /""]",d well   its  f oh  i agree its  never too late ,aa,MALE,4
+['right. /'],right ,b,FEMALE,2
+"['{c and, } -/']",c and  ,%,MALE,5
+"['especially in some of these schools around here,  i think they have about twenty percent older students. /']",especially in some of these schools around here  i think they have about twenty percent older students ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""{c and } when you're saying older,  we're talking fifty up. /""]",c and  when youre saying older  were talking fifty up ,sv,MALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,FEMALE,4
+"[""i've seen some people that are  really quite up there <laughter> {d you know } --""]",ive seen some people that are  really quite up there laughter d you know  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- they look like in their very late sixties  /'], they look like in their very late sixties  ,+,FEMALE,0
+['{c and } i say --'],c and  i say ,sd,FEMALE,1
+"['{f oh, }  my,  /']",f oh   my  ,ba,MALE,6
+['uh-huh. /'],uhhuh ,%,MALE,5
+"[""-- that's great,  why not, {d you know. } /""]", thats great  why not d you know  ,+,FEMALE,0
+"['yes,  /']",yes  ,aa,MALE,4
+"[""why not because that's [ a, + a ] lot of  times, {d well, } it's, - /""]",why not because thats  a  a  lot of  times d well  its  ,sv,MALE,3
+"['i believe that, {f uh, } we in that category, - /']",i believe that f uh  we in that category  ,sv,MALE,3
+"[""{c and } i'm not in that   category quite yet -- /""]",c and  im not in that   category quite yet  ,sd,MALE,1
+['no. /'],no ,aa,FEMALE,4
+"['-- {c but, }  we are seasoned minds. /']", c but   we are seasoned minds ,sv,MALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,FEMALE,4
+"[""you're really ready to learn finally. /""]",youre really ready to learn finally ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,MALE,4
+['uh-huh. /'],uhhuh ,aa,MALE,4
+"[""{e i mean, } i don't know why i even went to college  when i was seventeen. /""]",e i mean  i dont know why i even went to college  when i was seventeen ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['it was, -/']",it was ,%,MALE,5
+['it was a complete waste of money. /'],it was a complete waste of money ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['settle down, - /']",settle down  ,%,MALE,5
+"[""we know what we're  wanting [ to, + to, ] {f uh, } study  /""]",we know what were  wanting  to  to  f uh  study  ,sv,MALE,3
+"['{c and, }  {f uh } --']",c and   f uh  ,sv,MALE,3
+"['right,  /']",right  ,aa,FEMALE,4
+['right.  /'],right  ,aa,FEMALE,4
+"['we, -/']",we ,%,FEMALE,5
+['-- we know our limitations. /'], we know our limitations ,+,MALE,0
+['right  /'],right  ,aa,FEMALE,4
+"['{c and, }  {f uh, } -/']",c and   f uh  ,%,FEMALE,5
+"[""{c and } we don't try to burn the candle at both  ends and in --""]",c and  we dont try to burn the candle at both  ends and in ,sv,MALE,3
+['no. /'],no ,aa,FEMALE,4
+['-- the middle altogether. /'], the middle altogether ,+,MALE,0
+"[""we don't go out drinking beer till three and  try to go to class in the morning <laughter>. /""]",we dont go out drinking beer till three and  try to go to class in the morning laughter ,sv,FEMALE,3
+"['at seven,  /']",at seven  ,aa,MALE,4
+['yeah. /'],yeah ,aa,MALE,4
+"[""[ we're  past, + {d yeah, } we're past ] that age <laughter>. /""]", were  past  d yeah  were past  that age laughter ,sv,FEMALE,3
+"['yes,  /']",yes  ,aa,MALE,4
+"[""[ we're, + we're ] smarter now. /""]", were  were  smarter now ,sv,MALE,3
+['we know what we can do <laughter>. /'],we know what we can do laughter ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['right,  /']",right  ,aa,MALE,4
+"[""{f uh, } {c so } let's see.  /""]",f uh  c so  lets see  ,^h,MALE,27
+"[""{c so } mine i don't spend a whole lot of time because they're not here. /""]",c so  mine i dont spend a whole lot of time because theyre not here ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['<lipsmack> {c and so } [ the second question, +    forgot what the second question, ] /']",lipsmack c and so   the second question     forgot what the second question  ,sd,MALE,1
+"['what was it, {f uh, }  /']",what was it f uh   ,t1,FEMALE,37
+"['[ h-, + what ] do the trends in  families  /']", h  what  do the trends in  families  ,qo,FEMALE,25
+"['{c and } do we approve what other,']",c and  do we approve what other,qy,FEMALE,7
+['<breathing>.'],breathing,x,MALE,8
+['families do. /'],families do ,+,FEMALE,0
+"['{d well, } {f uh, } the trends in the families  were to spread apart, do your own thing. /']",d well  f uh  the trends in the families  were to spread apart do your own thing ,sv,MALE,3
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+['{c but } [ i have seen -- +'],c but   i have seen  ,sd,MALE,1
+['# a change? # /'], a change  ,qy,FEMALE,7
+"['-- # lately, # {d yes, } [ i am seeing, +']",  lately  d yes   i am seeing ,+,MALE,0
+['i was going to say the same thing. /'],i was going to say the same thing ,sd,FEMALE,1
+"[""i'm seeing a ] ] change that, {d whoops, }  government can't do it,  /""]",im seeing a   change that d whoops   government cant do it  ,+,MALE,0
+['schools are --'],schools are ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- not able to -- /'], not able to  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } between a person's religion, {f uh, }  [ their, + their ] faith in their maker --""]", c and  between a persons religion f uh    their  their  faith in their maker ,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+"[""-- [ w-, + ] [ whether, + {d you know, } {f uh, } whether ]  you're christian or jewish --""]",  w    whether  d you know  f uh  whether   youre christian or jewish ,+,MALE,0
+['# right. # /'], right  ,b,FEMALE,2
+"['-- # or # whatever, {f uh, } - /']",  or  whatever f uh   ,+,MALE,0
+['{c and } the family -- -/'],c and  the family  ,%,MALE,5
+"['# are going to have to solve some of the problem,  {f huh. } # /']", are going to have to solve some of the problem  f huh   ,qy,FEMALE,7
+"['-- # those are the two [ [ that can, # + that, ] + that have ]  the wherewithal  /']",  those are the two   that can   that   that have   the wherewithal  ,sv,MALE,3
+"['{c and, }  of course, judeo-christianity, {f uh, } and of the jewish folks,  too, believe that the family unit is the one that was given the, {f uh, } {f uh, }  mission by the lord --']",c and   of course judeochristianity f uh  and of the jewish folks  too believe that the family unit is the one that was given the f uh  f uh   mission by the lord ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- to do this very thing.  /'], to do this very thing  ,+,MALE,0
+"[""{c so } when another  group [ of, + of, ] {f uh, } people step in, try to do it, [ they're, + they're ] tromping on our territory,  so to speak,  /""]",c so  when another  group  of  of  f uh  people step in try to do it  theyre  theyre  tromping on our territory  so to speak  ,sv,MALE,3
+['{c so } -- -/'],c so   ,%,MALE,5
+['oh. /'],oh ,b,FEMALE,2
+"['-- i firmly believe that, {f uh, } /']", i firmly believe that f uh  ,sd,MALE,1

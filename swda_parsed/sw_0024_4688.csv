@@ -1,0 +1,116 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } we, [ [ in, + in, ] + in ] our family, have been pretty remiss in trying to, {f uh, } {d you know, } keep track of, {f uh, } daily finances.  /']",d well  we   in  in   in  our family have been pretty remiss in trying to f uh  d you know  keep track of f uh  daily finances  ,sd,MALE,1
+"['{f uh, } [ the, + ] {f uh, } way back, what, twelve years ago or something when i got my first computer, i did what everybody else does, which is to put the whole family budget on the machine and put checks, and, {d you know, } checkbooks and all this kind of thing  /']",f uh   the   f uh  way back what twelve years ago or something when i got my first computer i did what everybody else does which is to put the whole family budget on the machine and put checks and d you know  checkbooks and all this kind of thing  ,sd,MALE,1
+['{c and } we kept that going for about a month  /'],c and  we kept that going for about a month  ,sd,MALE,1
+['{c and } it became so onerous that we gave up on it <laughter>. /'],c and  it became so onerous that we gave up on it laughter ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['that sounds about right <laughter>. /'],that sounds about right laughter ,ba,FEMALE,6
+"[""{d you know, } {c so, } {f uh, } the only thing [ we're, + {d you know, } that we do ] now is, {f uh, } i keep [ a, + a ] little spread sheet of, {f uh, } what i call the net worth calculation which is just [ the, + the ] present value of various kinds of investments and so worth.  /""]",d you know  c so  f uh  the only thing  were  d you know  that we do  now is f uh  i keep  a  a  little spread sheet of f uh  what i call the net worth calculation which is just  the  the  present value of various kinds of investments and so worth  ,sd,MALE,1
+"[""{f uh, } {c and } i only update that, {f oh } i don't know, maybe once every quarter or so. every three months. just, basically when the statements come in.""]",f uh  c and  i only update that f oh  i dont know maybe once every quarter or so every three months just basically when the statements come in,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d you know. } just to see whether or not we're [ falling, + {d you know, } getting ] ahead, falling behind or staying even or what. /""]",d you know  just to see whether or not were  falling  d you know  getting  ahead falling behind or staying even or what ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+"[""{f uh, } that's really about, {d you know, } the extent [ of, + {f uh, } of ] the kind of, {f uh, } financial score keeping that we're doing. /""]",f uh  thats really about d you know  the extent  of  f uh  of  the kind of f uh  financial score keeping that were doing ,sd,MALE,1
+['{f uh } # <laughter>. #  /'],f uh   laughter   ,%,FEMALE,5
+['# <throat_clearing>. #'], throatclearing ,x,MALE,8
+"[""{d well } it's kind of difficult for me. because right now, {f uh, } like most teachers, i'm laid off  /""]",d well  its kind of difficult for me because right now f uh  like most teachers im laid off  ,sd,FEMALE,1
+['{c and } -- -/'],c and   ,%,FEMALE,5
+['{f huh. }  /'],f huh   ,%,MALE,5
+"[""oh dear, # that's terrible. # /""]",oh dear  thats terrible  ,"fo_o_fw_""_by_bc",MALE,0
+"['-- # <laughter> # {c so, } {f um, } i spend most, {d you know, } - /']",  laughter  c so  f um  i spend most d you know   ,sd,FEMALE,1
+['i substitute a lot. /'],i substitute a lot ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so } [ it's a lot, + it's very hard ] on a nonfixed income because i don't know how many days i'm going to be called in and whether i am or not, to try to keep track of finances. /""]",c so   its a lot  its very hard  on a nonfixed income because i dont know how many days im going to be called in and whether i am or not to try to keep track of finances ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ {c and, } + {c but } ] i know how much i have to bring in a month <laughter>.  /']", c and   c but   i know how much i have to bring in a month laughter  ,sd,FEMALE,1
+"[""{c and } that's about it.  /""]",c and  thats about it  ,sd,FEMALE,1
+"[""that's about as far as we go.  /""]",thats about as far as we go  ,sd,FEMALE,1
+"['{c and then } anything extra is, {d you know, } more or less split up between all of us.']",c and then  anything extra is d you know  more or less split up between all of us,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['and just thrown in the kitty, more or less, for a rainy day <laughter>. /']",and just thrown in the kitty more or less for a rainy day laughter ,+,FEMALE,0
+"['{f oh, } i see.  /']",f oh  i see  ,b,MALE,2
+"['[ are you, + are you ] married?  /']", are you  are you  married  ,qy,MALE,7
+"[""are you living [ [ with a bunch of, + with, ] + with ] people that you're sharing expenses? /""]",are you living   with a bunch of  with   with  people that youre sharing expenses ,qy,MALE,7
+"['{f uh, } no.  /']",f uh  no  ,nn,FEMALE,13
+"[""i'm a single mother.  /""]",im a single mother  ,sd,FEMALE,1
+['i have three children. /'],i have three children ,sd,FEMALE,1
+"['{f oh, } i see,  /']",f oh  i see  ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so, } {f uh, } right now, [ we're on, + we get ] [ f-, + {d you know, } aid from ] the state at this point because there's no other way to do it.  /""]",c so  f uh  right now  were on  we get   f  d you know  aid from  the state at this point because theres no other way to do it  ,sd,FEMALE,1
+"[""{c and } my ex-husband just sort of took off and doesn't pay child support <laughter>. /""]",c and  my exhusband just sort of took off and doesnt pay child support laughter ,sd,FEMALE,1
+['oh dear. /'],oh dear ,ba,MALE,6
+"[""{c so } right now i know what i'm getting from the state  /""]",c so  right now i know what im getting from the state  ,sd,FEMALE,1
+"['{c and, } {f uh, } i have to balance, more or less, what i get from the state with my bills and, {f uh, } {d you know, } try to work as many days as possible.']",c and  f uh  i have to balance more or less what i get from the state with my bills and f uh  d you know  try to work as many days as possible,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['any time they call me in.  /'],any time they call me in  ,+,FEMALE,0
+['{c but } i still have to figure out.  /'],c but  i still have to figure out  ,sd,FEMALE,1
+"['if i work too many days, then i lose all my state aid  /']",if i work too many days then i lose all my state aid  ,sd,FEMALE,1
+"[""{c and } <laughter> if i don't work enough days then i don't get enough to meet the bills  /""]",c and  laughter if i dont work enough days then i dont get enough to meet the bills  ,sd,FEMALE,1
+"[""{c and } it's like a juggling act every single month. /""]",c and  its like a juggling act every single month ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{d like } this week i've been just holding my breath and hoping they'll call me in  /""]",d like  this week ive been just holding my breath and hoping theyll call me in  ,sd,FEMALE,1
+"[""{c but } they probably won't because next week the kids have school vacation. /""]",c but  they probably wont because next week the kids have school vacation ,sd,FEMALE,1
+['i see. /'],i see ,b,MALE,2
+"['{c so, } {d you know, } the four days before, they only have a four day week -- /']",c so  d you know  the four days before they only have a four day week  ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""-- # {c and } they # usually don't need subs because everybody's pretty good about coming in # <laughter>. # /""]",  c and  they  usually dont need subs because everybodys pretty good about coming in  laughter  ,sd,FEMALE,1
+"['# {f a-, } {f oh, } i see. # /']", f a  f oh  i see  ,b,MALE,2
+"[""they don't like to be absent before a vacation. /""]",they dont like to be absent before a vacation ,sv,FEMALE,3
+"['{f oh, } sure. /']",f oh  sure ,b,MALE,2
+"[""{c but } [ we're shopping around as far as, + {d well } i'm shopping around as far as ] trying [ to get, + {f uh, } {a that's why i'm doing this, } to get ] some extra money.""]",c but   were shopping around as far as  d well  im shopping around as far as  trying  to get  f uh  a thats why im doing this  to get  some extra money,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['and, {f uh, } getting pledge sheets for the boy scouts.  /']",and f uh  getting pledge sheets for the boy scouts  ,+,FEMALE,0
+['my kids are in boy scouts  /'],my kids are in boy scouts  ,sd,FEMALE,1
+['{c so } trying to get pledge sheets for the boy scouts  /'],c so  trying to get pledge sheets for the boy scouts  ,sd,FEMALE,1
+['{c because } every penny i bring in is ten percent to me.  /'],c because  every penny i bring in is ten percent to me  ,sd,FEMALE,1
+"[""{c so } <laughter> it's sort of helps defray the costs a little bit.  /""]",c so  laughter its sort of helps defray the costs a little bit  ,sd,FEMALE,1
+"['{c but, } {d you know, } we do a lot of robbing peter to pay paul.  /']",c but  d you know  we do a lot of robbing peter to pay paul  ,sd,FEMALE,1
+"[""i guess we're in the situation that a lot of [ am-, + middle-class americans ] are in. /""]",i guess were in the situation that a lot of  am  middleclass americans  are in ,sv,FEMALE,3
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,%,MALE,5
+"[""you're the first, {d you know, } {f uh, } - /""]",youre the first d you know  f uh   ,sd,MALE,1
+['my next door neighbor just lost his job.'],my next door neighbor just lost his job,sd,MALE,1
+"['{f oh, } my lord. /']",f oh  my lord ,ba,FEMALE,6
+"['in [ a, + {d you know, } one of these, ] {f uh, } - /']",in  a  d you know  one of these  f uh   ,+,MALE,0
+"['his company [ went broke. + {e i mean } went, {d you know, } bankrupt. ]  /']",his company  went broke  e i mean  went d you know  bankrupt   ,sd,MALE,1
+"['{d actually, } it was a subsidiary [ of a, + of an ] outfit called u s shoe or something.  /']",d actually  it was a subsidiary  of a  of an  outfit called u s shoe or something  ,sd,MALE,1
+"['[ [ i-, + i-, ] + it ] was a computer subsidiary.  /']",  i  i   it  was a computer subsidiary  ,sd,MALE,1
+"[""i don't know what a shoe company's doing running a computer company. /""]",i dont know what a shoe companys doing running a computer company ,sd,MALE,1
+['really. /'],really ,b,FEMALE,2
+"['{c but, } {f uh, } {d you know, } they just <noise> folded it up and, {f uh, } {f uh, } told him to, - /']",c but  f uh  d you know  they just noise folded it up and f uh  f uh  told him to  ,sd,MALE,1
+['they took the top management and gave them jobs --'],they took the top management and gave them jobs ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ [ with the, + with the ] corporate, + {f uh, } at the corporate ] front office  /']",   with the  with the  corporate  f uh  at the corporate  front office  ,+,MALE,0
+['{c and } everybody else was sent packing. /'],c and  everybody else was sent packing ,sd,MALE,1
+['oh <snorting>. /'],oh snorting ,b,FEMALE,2
+"['<noise> {f uh, } hang on one second  /']",noise f uh  hang on one second  ,ad,MALE,22
+"[""i've got  -- -/""]",ive got   ,sd,MALE,1
+['sure. /'],sure ,aa,FEMALE,4
+"['-- {f uh, } (( )) somebody was knocking on my door here.  /']", f uh    somebody was knocking on my door here  ,sd,MALE,1
+"['{f uh, } it sounds like, in a certain sense, at least at the present, - /']",f uh  it sounds like in a certain sense at least at the present  ,sv,MALE,3
+"['{e i mean, } it [ sounds, + sounds ] terrible to say,  /']",e i mean  it  sounds  sounds  terrible to say  ,h,MALE,15
+"['{c but } at the present stage, you probably are even more in the market for [ a, + a ] budgetary thing [ than, + than ] most people probably [ ar-, + might ] be.']",c but  at the present stage you probably are even more in the market for  a  a  budgetary thing  than  than  most people probably  ar  might  be,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+"['in terms of [ keeping, + keeping ] score of input and output. /']",in terms of  keeping  keeping  score of input and output ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+['# definitely. # /'], definitely  ,aa,FEMALE,4
+"['# [ do you have, + # do you have ] a computer at home  /']",  do you have   do you have  a computer at home  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"['{f uh, } yes  /']",f uh  yes  ,ny,FEMALE,9
+['we do.  /'],we do  ,sd,FEMALE,1
+['# {c and } we try # --'], c and  we try  ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['-- to, - /']", to  ,+,FEMALE,0
+"['{d you know, } i keep track of every penny.']",d you know  i keep track of every penny,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['and, more or less, enter it in.  /']",and more or less enter it in  ,+,FEMALE,0
+"[""every single day i'm at the computer. /""]",every single day im at the computer ,sd,FEMALE,1
+['i see. /'],i see ,b,MALE,2
+"[""{c and, } it's like, {d okay, } what do we have left,""]",c and  its like d okay  what do we have left,sd,FEMALE,1
+['<cough>.'],cough,x,MALE,8
+"['what do we have to pay, # what # --']",what do we have to pay  what  ,+,FEMALE,0
+['# uh-huh. #  /'], uhhuh   ,b,MALE,2
+"[""-- have we paid this month.  what hasn't come in yet, {d you know } <laughter>. /""]", have we paid this month  what hasnt come in yet d you know  laughter ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"['[ have you, + do you ] use [ a standard, + {f uh, } a standard ] spread sheet  /']", have you  do you  use  a standard  f uh  a standard  spread sheet  ,qy,MALE,7
+"['{c or } {e i mean, }  -/']",c or  e i mean   ,%,MALE,5

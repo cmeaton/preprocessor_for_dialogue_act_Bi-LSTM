@@ -1,0 +1,123 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['lucille hughes. /'],lucille hughes ,"fo_o_fw_""_by_bc",FEMALE,0
+"['okay,  /']",okay  ,b,MALE,2
+"[""lucille, i'm [ on, + on ] ((   )) . -/""]",lucille im  on  on       ,sd,MALE,1
+"['all right,  /']",all right  ,b,FEMALE,2
+"['# {c and } what, # -/']", c and  what  ,%,FEMALE,5
+"['# {c and } [ our top-, + # {d okay, } our topic ]  was, - /']", c and   our top   d okay  our topic   was  ,sd,MALE,1
+['did you hear our topic? /'],did you hear our topic ,qy,MALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"['all right,  /']",all right  ,aa,MALE,4
+['basketball. /'],basketball ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""i guess i'm probably a lot like you.  /""]",i guess im probably a lot like you  ,sv,MALE,3
+"[""i'm a dallas maverick fan. /""]",im a dallas maverick fan ,sd,MALE,1
+"['{d well, } i certainly am too.  /']",d well  i certainly am too  ,sd,FEMALE,1
+['now tell me what you expect from the mavericks this year. /'],now tell me what you expect from the mavericks this year ,ad,FEMALE,22
+"[""{d well, } unfortunately, i don't expect a great deal  out of them.  /""]",d well  unfortunately i dont expect a great deal  out of them  ,sd,MALE,1
+"['they just have too many problems, too many ailments,  too many hurt bones, and maybe too much age at this point.  /']",they just have too many problems too many ailments  too many hurt bones and maybe too much age at this point  ,sv,MALE,3
+"['{d you know, } when roy tarpley  just now he messed up on them, it just hurt them so bad.  /']",d you know  when roy tarpley  just now he messed up on them it just hurt them so bad  ,sv,MALE,3
+['i feel --'],i feel ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['-- like everyone else,  /']", like everyone else  ,+,MALE,0
+['i feel sorry for donald carter and  the members of the team and the management team and everyone else.  /'],i feel sorry for donald carter and  the members of the team and the management team and everyone else  ,sd,MALE,1
+"['it just seems like they were just getting themselves in a position where they could possibly be [ a final, + a final ] team playing for all of it. /']",it just seems like they were just getting themselves in a position where they could possibly be  a final  a final  team playing for all of it ,sv,MALE,3
+"['yes, sir. /']",yes sir ,aa,FEMALE,4
+"['national championship or the world championship, and  something like this happens. /']",national championship or the world championship and  something like this happens ,sd,MALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+"[""{d well, } do you think it's time that we go for  new, {f uh, } coaches?  /""]",d well  do you think its time that we go for  new f uh  coaches  ,qy,FEMALE,7
+['is that part of our problem? /'],is that part of our problem ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""i think at this time, we're just in [ a, + a ]  rebuilding type of phase, {d you know. }  /""]",i think at this time were just in  a  a   rebuilding type of phase d you know   ,sv,MALE,3
+"['i think that probably be evident  with [ the more and more, + the more and more ] young guys they draft.  /']",i think that probably be evident  with  the more and more  the more and more  young guys they draft  ,sv,MALE,3
+"['{c but, } -/']",c but  ,%,MALE,5
+"[""{d well, } it just, it's so discouraging that  they can't really, - /""]",d well  it just its so discouraging that  they cant really  ,sv,FEMALE,3
+"[""{e i mean, } they're entitled to more than they've been able to do so far.  /""]",e i mean  theyre entitled to more than theyve been able to do so far  ,sv,FEMALE,3
+"[""[ i, + i'm ] awfully sorry that the mavericks can't come on [ and, + and ] do.  /""]", i  im  awfully sorry that the mavericks cant come on  and  and  do  ,sd,FEMALE,1
+"[""roy, who's your next best team,  /""]",roy whos your next best team  ,qw,FEMALE,12
+['{c or } who do you like after the mavericks? /'],c or  who do you like after the mavericks ,qw,FEMALE,12
+"['{f oh, } gosh,  /']",f oh  gosh  ,ba,MALE,6
+"[""i'm so much a [ maverick, + maverick ] fan i don't know.  /""]",im so much a  maverick  maverick  fan i dont know  ,sd,MALE,1
+['probably the boston celtics.  /'],probably the boston celtics  ,sd,MALE,1
+"[""i've just always like the boston celtics.  /""]",ive just always like the boston celtics  ,sd,MALE,1
+"['[ they have a, + they have a ] similar situation in that a lot of  old guys on the team,  /']", they have a  they have a  similar situation in that a lot of  old guys on the team  ,sv,MALE,3
+"[""{c and, } {c but } they're still playing good ball. /""]",c and  c but  theyre still playing good ball ,sv,MALE,3
+['{d well. } -/'],d well  ,%,FEMALE,5
+"[""{c but } [ i'm, + i've ]  always been a boston celtic fan, too,  /""]",c but   im  ive   always been a boston celtic fan too  ,sd,MALE,1
+"[""{c but, } {d you know, } i've lived in texas since seventy-four,  /""]",c but  d you know  ive lived in texas since seventyfour  ,sd,MALE,1
+"['{c so } being a  transplanted texan [ in, + in ] the dallas area, i have to stick with those dallas mavericks. /']",c so  being a  transplanted texan  in  in  the dallas area i have to stick with those dallas mavericks ,sd,MALE,1
+"['we certainly need to support them,  /']",we certainly need to support them  ,sv,FEMALE,3
+['do we not. /'],do we not ,^g,FEMALE,40
+"['yes,  /']",yes  ,ny,MALE,9
+['we do.  {d you know. } /'],we do  d you know  ,sd,MALE,1
+['do you go to the game? /'],do you go to the game ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+['i go to a few games.  /'],i go to a few games  ,sd,MALE,1
+"[""i haven't been to many.  /""]",i havent been to many  ,sd,MALE,1
+"[""i'm not a season ticket holder or anything.  /""]",im not a season ticket holder or anything  ,sd,MALE,1
+"['i was a season ticket holder of the  cowboys for years,  /']",i was a season ticket holder of the  cowboys for years  ,sd,MALE,1
+"['{c and } when my kids got to a certain age and  went off to school and college and  doing their own thing, sort of gets boring going by yourself <laughter>. /']",c and  when my kids got to a certain age and  went off to school and college and  doing their own thing sort of gets boring going by yourself laughter ,sd,MALE,1
+"['yes,  /']",yes  ,aa,FEMALE,4
+['it does <laughter>.  /'],it does laughter  ,sv,FEMALE,3
+"[""i'm sure it would in such a monstrous place down there. /""]",im sure it would in such a monstrous place down there ,sv,FEMALE,3
+"['{f oh, } you bet. /']",f oh  you bet ,aa,MALE,4
+"['{c but, } {f um, } [ maybe next, + maybe they ]  can do some.  /']",c but  f um   maybe next  maybe they   can do some  ,sv,FEMALE,3
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+['who do they need to trade? /'],who do they need to trade ,qw,FEMALE,12
+"[""{d well, } i don't know.  /""]",d well  i dont know  ,no,MALE,31
+"['it seems like  rolando blackman [ and, + and ] harper sort of carry the team,  /']",it seems like  rolando blackman  and  and  harper sort of carry the team  ,sv,MALE,3
+"['they just, - /']",they just  ,%,MALE,5
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"[""i'm afraid to say, that's probably who they need to trade to get someone in there good,  /""]",im afraid to say thats probably who they need to trade to get someone in there good  ,sv,MALE,3
+"['{c but, } {c and } that can really help the team,  /']",c but  c and  that can really help the team  ,sv,MALE,3
+"['{c but } they do that,  /']",c but  they do that  ,sv,MALE,3
+['they trade the nucleus of their power right now. /'],they trade the nucleus of their power right now ,sv,MALE,3
+"['yes, sir,  /']",yes sir  ,aa,FEMALE,4
+['it seems that way to me.  /'],it seems that way to me  ,sd,FEMALE,1
+"[""[ i, + course i ] don't know any of the newer ones that they have  /""]", i  course i  dont know any of the newer ones that they have  ,sd,FEMALE,1
+"[""{c and } i'm not well versed on their  capabilities,  /""]",c and  im not well versed on their  capabilities  ,sd,FEMALE,1
+['{c but } we really need to do something. /'],c but  we really need to do something ,sv,FEMALE,3
+"['{d well, } {d you know, } i feel like, {f uh, } the best they   can hope for this year is probably an opportunity to make the playoffs.  /']",d well  d you know  i feel like f uh  the best they   can hope for this year is probably an opportunity to make the playoffs  ,sd,MALE,1
+['i like  their coach.  /'],i like  their coach  ,sd,MALE,1
+"['i really like ((   ))  a lot, - /']",i really like      a lot  ,sd,MALE,1
+"['{c and } [ i just, + i think ]  he deserves a good break.  /']",c and   i just  i think   he deserves a good break  ,sv,MALE,3
+['i think he deserves a healthy team so they can really see what he  can do for the club.  /'],i think he deserves a healthy team so they can really see what he  can do for the club  ,sv,MALE,3
+"[""[ i think + donald carter, the owner,   i think ]  with all he's invested, he deserves a --""]", i think  donald carter the owner   i think   with all hes invested he deserves a ,sv,MALE,3
+['i really. -/'],i really ,%,FEMALE,5
+['-- a healthy team for one year and a good break also. /'], a healthy team for one year and a good break also ,+,MALE,0
+"['yes, sir. /']",yes sir ,ba,FEMALE,6
+"['this thing with roy tarpley just upset  everyone, i think.   fans, owners, management, everyone. /']",this thing with roy tarpley just upset  everyone i think   fans owners management everyone ,sv,MALE,3
+"['{c and } they have just done as much as they  can for that man,  /']",c and  they have just done as much as they  can for that man  ,sv,FEMALE,3
+"[""{c and } he apparently can't straighten his act out,  /""]",c and  he apparently cant straighten his act out  ,sd,FEMALE,1
+"['{c so } we need [ to, + to ]  build on something more positive than that. /']",c so  we need  to  to   build on something more positive than that ,sv,FEMALE,3
+['you bet.  /'],you bet  ,aa,MALE,4
+"[""i think they're fools if they ever  bring him back <laughter>. /""]",i think theyre fools if they ever  bring him back laughter ,sv,MALE,3
+"['{f oh, } i do, too.  /']",f oh  i do too  ,aa,FEMALE,4
+['i certainly would agree to that. /'],i certainly would agree to that ,sd,FEMALE,1
+['hate to put it that way.  /'],hate to put it that way  ,sd,MALE,1
+['i just would not believe him any more. /'],i just would not believe him any more ,sd,MALE,1
+"['{d well, } it, {f um, } - /']",d well  it f um   ,%,FEMALE,5
+"[""{e i mean, } you can't give, <laughter>  anyone too many chances -- /""]",e i mean  you cant give laughter  anyone too many chances  ,sv,FEMALE,3
+['no. /'],no ,aa,MALE,4
+['-- {c and } i think he has gone over the limit. /'], c and  i think he has gone over the limit ,sv,FEMALE,3
+"[""there's an old saying  [ you can, + you can ]  lead a horse to water  /""]",theres an old saying   you can  you can   lead a horse to water  ,sd,MALE,1
+"[""{c but } you can't make him drink.  /""]",c but  you cant make him drink  ,^q,MALE,19
+"['{c so, } -/']",c so  ,%,MALE,5
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"[""{c and } i think tarpley's just a sad case. /""]",c and  i think tarpleys just a sad case ,sv,MALE,3
+['{d well. } -/'],d well  ,%,FEMALE,5
+"[""{c but } to be making [ a, + a ]  million dollars a year, that's pretty sad. /""]",c but  to be making  a  a   million dollars a year thats pretty sad ,sv,MALE,3
+['it is tragic.   /'],it is tragic   ,aa,FEMALE,4
+"[""i don't, {f um, } - /""]",i dont f um   ,%,FEMALE,5
+"[""{e i mean, } we're  going to have to do something about all of these fabulous salaries they're paying to all of our  athletes, i think. /""]",e i mean  were  going to have to do something about all of these fabulous salaries theyre paying to all of our  athletes i think ,sv,FEMALE,3
+"[""{f oh, } i think you're right.  /""]",f oh  i think youre right  ,aa,MALE,4
+['everything has been put out of perspective now.  /'],everything has been put out of perspective now  ,sv,MALE,3
+"[""{d you know, } you take [ a, + a ] young kid roy  tarpley's age, i'd say he was twenty-one when he came into the league,  /""]",d you know  you take  a  a  young kid roy  tarpleys age id say he was twentyone when he came into the league  ,sd,MALE,1
+"[""{c and } now he's probably an  old age of, {f uh, } twenty-five or six --""]",c and  now hes probably an  old age of f uh  twentyfive or six ,sd,MALE,1
+"['yes, sir. /']",yes sir ,ba,FEMALE,6
+"['-- and making all that money,  /']", and making all that money  ,+,MALE,0
+"[""{d well, } [ [ that's, + {f uh, } that's ] quite a, + that's a ] little more of a challenge for a young man than [ they, + they ]  need at that point in their life, i think. /""]",d well    thats  f uh  thats  quite a  thats a  little more of a challenge for a young man than  they  they   need at that point in their life i think ,sv,MALE,3
+"[""i think you're right.  /""]",i think youre right  ,aa,FEMALE,4
+"['i believe that one,  /']",i believe that one  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"[""i think, {d you know, } it's created by, -/""]",i think d you know  its created by ,sv,MALE,3

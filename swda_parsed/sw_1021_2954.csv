@@ -1,0 +1,366 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay <tv>. /'],okay tv ,"fo_o_fw_""_by_bc",MALE,0
+"['have you ever, {f uh, } organized a family reunion? /']",have you ever f uh  organized a family reunion ,qy,FEMALE,7
+"['{f uh, } no  /']",f uh  no  ,nn,MALE,13
+['i have never organized one.  /'],i have never organized one  ,sd,MALE,1
+"['{c but } [ [ we are, +  we ] have one, + {f uh, } we are going to have one ] on memorial day, i guess. /']",c but    we are   we  have one  f uh  we are going to have one  on memorial day i guess ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""they have had one the last two years.  we go out to [ the, + ] my dad's farm  [ [ and, + {f uh, } and,  ] + {d you know, } {a it is just a picnic } and  ] spend the night.""]",they have had one the last two years  we go out to  the   my dads farm    and  f uh  and    d you know  a it is just a picnic  and   spend the night,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['go fishing and stuff --'],go fishing and stuff ,+,MALE,0
+['how many --'],how many ,qw,FEMALE,12
+['-- like that. /'], like that ,+,MALE,0
+['-- people usually show up? /'], people usually show up ,+,FEMALE,0
+"['{f oh, } about ten. /']",f oh  about ten ,sd,MALE,1
+"['{f oh, } it is not that big. /']",f oh  it is not that big ,sd,FEMALE,1
+['huh-uh. /'],huhuh ,b,MALE,2
+"['{c because, }']",c because ,sd,FEMALE,1
+"['it, -/']",it ,%,MALE,5
+"['{f uh, } we have had sort of weekends like that too.  /']",f uh  we have had sort of weekends like that too  ,+,FEMALE,0
+['{c but } i never thought of it really as a reunion. /'],c but  i never thought of it really as a reunion ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['i sort of think of a reunion with [ my, + ] {f uh, } all the extended family <laughter>. /']",i sort of think of a reunion with  my   f uh  all the extended family laughter ,sd,FEMALE,1
+"['everybody,  /']",everybody  ,^2,MALE,23
+['yeah. /'],yeah ,b,MALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+['that would be hard for us because most of the family is out in california.  /'],that would be hard for us because most of the family is out in california  ,sd,FEMALE,1
+['{c and } some is in new york --'],c and  some is in new york ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- and north carolina,  /']", and north carolina  ,+,FEMALE,0
+"['{c and } it gets, - /']",c and  it gets  ,%,FEMALE,5
+"['it is kind of hard to  [ get ev-, + get everybody ] organized.  /']",it is kind of hard to   get ev  get everybody  organized  ,sd,FEMALE,1
+"['{f uh, } is there someone, - /']",f uh  is there someone  ,qy,FEMALE,7
+['do you all just sort of chip in and help out with stuff when you are there?  /'],do you all just sort of chip in and help out with stuff when you are there  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['{f uh, } yes.  /']",f uh  yes  ,ny,MALE,9
+['yeah.  /'],yeah  ,ny,MALE,9
+"['[ my, +  my, ] {f uh, } dad has a house out there anyway. /']", my   my  f uh  dad has a house out there anyway ,sd,MALE,1
+"['{c and } [ there is, + there is,  ] {f uh, } - /']",c and   there is  there is   f uh   ,%,FEMALE,5
+"['he keeps [ a s-, + ] {f uh, } food out there,']",he keeps  a s   f uh  food out there,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['year round.  /'],year round  ,+,FEMALE,0
+"['[ {c so, } + {c so }  ] he does not live there though? /']", c so   c so    he does not live there though ,qy,FEMALE,7
+"['{f uh, } no.  /']",f uh  no  ,nn,MALE,13
+"['[ [ it is, + it is,  ] + it is  ] {d like } a [ country, + country  ] home. /']",  it is  it is    it is   d like  a  country  country   home ,sd,MALE,1
+['vacation home. /'],vacation home ,bf,FEMALE,20
+['uh-huh. /'],uhhuh ,aa,MALE,4
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['it sounds nice.  {f uh, } /']",it sounds nice  f uh  ,ba,FEMALE,6
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"['are there kids that are there too, <baby_crying> or mostly adults? /']",are there kids that are there too babycrying or mostly adults ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,MALE,9
+['the grandchildren. -/'],the grandchildren ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['just a few.  /'],just a few  ,sd,MALE,1
+"['it just depends, /']",it just depends ,sd,MALE,1
+['<baby_crying>.'],babycrying,x,FEMALE,8
+"['{f uh, } {f uh, } all my grandparents are dead so, {f uh, } [ [ there is, + there are  ] not, + ]  {d you know, } <throat_clearing> none of them are there.  /']",f uh  f uh  all my grandparents are dead so f uh    there is  there are   not    d you know  throatclearing none of them are there  ,sd,MALE,1
+"['[ {c and, } + {c  and, } ] {f uh, } then an uncle is dead.  /']", c and   c  and   f uh  then an uncle is dead  ,sd,MALE,1
+['{d so } --'],d so  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ the, + the  ] big family is a lot smaller that it used to be. /']",  the  the   big family is a lot smaller that it used to be ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['are you all located in texas? /'],are you all located in texas ,qy,FEMALE,7
+"['{f uh, } yeah.  /']",f uh  yeah  ,ny,MALE,9
+"['[ we are in, + we are  ] all, {f uh, } - /']", we are in  we are   all f uh   ,%,MALE,5
+['{d like } they live up in sherman.  /'],d like  they live up in sherman  ,sd,MALE,1
+['it is near lake texoma. /'],it is near lake texoma ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } -/']",c and  ,%,MALE,5
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f uh, } all of his children live in the dallas area too.  /']",f uh  all of his children live in the dallas area too  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['that to me is, - /']",that to me is  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"['dallas i know of,  /']",dallas i know of  ,sd,FEMALE,1
+"['houston i know of,  /']",houston i know of  ,sd,FEMALE,1
+['{c and } that is about it <laughter>.'],c and  that is about it laughter,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['in texas.  /'],in texas  ,+,FEMALE,0
+['the rest of it is sort of a big void to me. /'],the rest of it is sort of a big void to me ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c but, } {f uh, } {d you know, } we have, {f uh, } {d well, } - /']",c but  f uh  d you know  we have f uh  d well   ,%,FEMALE,5
+"['we all got together,  /']",we all got together  ,sd,FEMALE,1
+"['it was about two years ago for, - /']",it was about two years ago for  ,sd,FEMALE,1
+"['i was, - /']",i was  ,%,FEMALE,5
+['i had graduated from college.  /'],i had graduated from college  ,sd,FEMALE,1
+"['{c and, } {f uh, } i was going to live in france for a year.  /']",c and  f uh  i was going to live in france for a year  ,sd,FEMALE,1
+"['{c and so } my parents invited, - /']",c and so  my parents invited  ,sd,FEMALE,1
+"['it was not just family,  /']",it was not just family  ,sd,FEMALE,1
+['it was friends too.  /'],it was friends too  ,sd,FEMALE,1
+"['{c but, } {f uh, } we all got together for just a party.  /']",c but  f uh  we all got together for just a party  ,sd,FEMALE,1
+['{c and } that was kind of fun. /'],c and  that was kind of fun ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['nice to have everybody together at once <child_talking> and things like  that. /'],nice to have everybody together at once childtalking and things like  that ,sd,FEMALE,1
+['french reunion? /'],french reunion ,qy^d,MALE,16
+"['{d well, }']",d well ,arp_nd,FEMALE,34
+['yeah. /'],yeah ,b,MALE,2
+"['not quite french,  /']",not quite french  ,+,FEMALE,0
+"['{c but, } {f uh, } <laughter> it was sort of a reunion before leaving.  /']",c but  f uh  laughter it was sort of a reunion before leaving  ,sd,FEMALE,1
+['it was fun.  /'],it was fun  ,sd,FEMALE,1
+"[""it was on, {f uh, } new year's day.  /""]",it was on f uh  new years day  ,sd,FEMALE,1
+['{c so } it was almost a celebration of the new year too at the same time. /'],c so  it was almost a celebration of the new year too at the same time ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+['it was kind of fun.   /'],it was kind of fun   ,sd,FEMALE,1
+"['[ {c but, } + {f uh, } {c but }  ] who was it?  /']", c but   f uh  c but    who was it  ,^h,FEMALE,27
+['a friend of mine had a big family reunion a couple of years ago  /'],a friend of mine had a big family reunion a couple of years ago  ,sd,FEMALE,1
+"['{c and, } {d you know, } everybody flew in from all over the place for the weekend.  /']",c and  d you know  everybody flew in from all over the place for the weekend  ,sd,FEMALE,1
+['{c and } it really sounded like it was fun.   /'],c and  it really sounded like it was fun   ,sd,FEMALE,1
+"['{c but, } i am not quite sure what i would do.  /']",c but  i am not quite sure what i would do  ,sd,FEMALE,1
+"['i think it would be fun to {d like } rent a big mansion or house someplace,']",i think it would be fun to d like  rent a big mansion or house someplace,sd,FEMALE,1
+['<cough>.'],cough,x,MALE,8
+['and have everybody meet someplace where they do not really know.'],and have everybody meet someplace where they do not really know,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['and have different areas to explore and things like that. /'],and have different areas to explore and things like that ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+['{c so } that would be kind of fun. /'],c so  that would be kind of fun ,sd,FEMALE,1
+['yep. /'],yep ,b,FEMALE,2
+['where nobody lives <laughter>. /'],where nobody lives laughter ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""{c but } at least that way it is at nobody's house, so [ nobody one, + no one  ] person is responsible for everything. /""]",c but  at least that way it is at nobodys house so  nobody one  no one   person is responsible for everything ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['{c and } they do not have to clean up afterwards. /'],c and  they do not have to clean up afterwards ,sd,MALE,1
+['yep. /'],yep ,b,FEMALE,2
+['yeah. /'],yeah ,b,MALE,2
+['that is for sure.  /'],that is for sure  ,ba,FEMALE,6
+['the cleaning up can be a mess. /'],the cleaning up can be a mess ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but } {f uh, } do you have horses or anything at your dad's farm? /""]",c but  f uh  do you have horses or anything at your dads farm ,qy,FEMALE,7
+"['[ i am, + i am  ] sorry? /']", i am  i am   sorry ,br,MALE,30
+"['[ does, + does ] your dad have horses there? /']", does  does  your dad have horses there ,qy,FEMALE,7
+"['{f uh, } no,  /']",f uh  no  ,nn,MALE,13
+"['he does not really have [ any, + any,  ] {f uh, } {f uh, } domestic livestock anyway. /']",he does not really have  any  any   f uh  f uh  domestic livestock anyway ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } he leased, {f uh, } to his neighbor for the cattle to feed on. /']",c but  he leased f uh  to his neighbor for the cattle to feed on ,sd,MALE,1
+"['i see,  /']",i see  ,bk,FEMALE,14
+"[""{c so } it's, - /""]",c so  its  ,%,FEMALE,5
+['{c so } he really does use it as a vacation home.  /'],c so  he really does use it as a vacation home  ,qy^d,FEMALE,16
+['it is not {d like } a farm that he has somebody else run for him or something like that. /'],it is not d like  a farm that he has somebody else run for him or something like that ,sv,FEMALE,3
+['yeah.  /'],yeah  ,ny,MALE,9
+['pretty much.  /'],pretty much  ,sd,MALE,1
+"['he has a garden and, {f uh, } a lot of fruit trees --']",he has a garden and f uh  a lot of fruit trees ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and blueberry bushes and things. /'], and blueberry bushes and things ,+,MALE,0
+"['{d well, } that sounds nice.  /']",d well  that sounds nice  ,ba,FEMALE,6
+['do people actually pick the fruit and things? /'],do people actually pick the fruit and things ,qy,FEMALE,7
+['uh-huh.  /'],uhhuh  ,ny,MALE,9
+['{c and then } there is wild blackberries there too. /'],c and then  there is wild blackberries there too ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d so, } -/']",d so  ,%,MALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['[ i, used to, +']", i used to ,sd,FEMALE,1
+"['he gets, -/']",he gets ,%,MALE,5
+"[""we used to  ] go pick wild blackberries at my friend's property,  /""]",we used to   go pick wild blackberries at my friends property  ,+,FEMALE,0
+['{c but } we never got enough.  /'],c but  we never got enough  ,sd,FEMALE,1
+"['i used to make jam,  /']",i used to make jam  ,sd,FEMALE,1
+"['{c but } i never had enough to really make, {d you know, } more than a jar or something. /']",c but  i never had enough to really make d you know  more than a jar or something ,sd,FEMALE,1
+['huh. /'],huh ,b,MALE,2
+['{c so } it was not so worth it. /'],c so  it was not so worth it ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""[ it is kind of, + they're kind of  ] off and on it seems like. /""]", it is kind of  theyre kind of   off and on it seems like ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['depends on the rain. /'],depends on the rain ,sd,MALE,1
+"['that sounds, - /']",that sounds  ,ba,FEMALE,6
+"['is, - /']",is  ,%,FEMALE,5
+['does he have a lot of land to go walking --'],does he have a lot of land to go walking ,qy,FEMALE,7
+"['{f uh, } /']",f uh  ,%,MALE,5
+['-- around and things there? /'], around and things there ,+,FEMALE,0
+"['[ it is, + {f uh, } it is,  ] {f uh, } eighty acres. /']", it is  f uh  it is   f uh  eighty acres ,na,MALE,21
+"['{d well, } that is pretty big <laughter>. /']",d well  that is pretty big laughter ,ba,FEMALE,6
+['uh-huh. /'],uhhuh ,b,MALE,2
+['i do not know how they do scale down there.  /'],i do not know how they do scale down there  ,sd,FEMALE,1
+"['{d you know, } here it would be a huge <laughter> amount of land. /']",d you know  here it would be a huge laughter amount of land ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['because they, - /']",because they  ,%,FEMALE,5
+"['(( per-, is - /']", per is  ,%,FEMALE,5
+['this ))  house here that has a lot of space is three or four acres.'],this   house here that has a lot of space is three or four acres,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['as opposed to --'],as opposed to ,+,FEMALE,0
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+['-- tens of acres. /'], tens of acres ,+,FEMALE,0
+"['{c and } most of it, {d you know, } - /']",c and  most of it d you know   ,%,MALE,5
+['you just spend time on maybe ten acres of it. /'],you just spend time on maybe ten acres of it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ {c and, } + {f uh, } {c because }  ] that is where the ponds are and where everybody fishes. /']", c and   f uh  c because    that is where the ponds are and where everybody fishes ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['<throat_clearing> we kind of have [ a, + an  ] informal contest.  /']",throatclearing we kind of have  a  an   informal contest  ,sd,MALE,1
+"['my uncle, {f uh, } put some bass in, {f uh, } his pond a few years ago.  /']",my uncle f uh  put some bass in f uh  his pond a few years ago  ,sd,MALE,1
+"['{d well, } he put some crappie too.  /']",d well  he put some crappie too  ,sd,MALE,1
+"['{c but } the bass, - /']",c but  the bass  ,sd,MALE,1
+['we have not been able to catch any of the adult bass yet.  /'],we have not been able to catch any of the adult bass yet  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['they are in there, but they are real spooky. /']",they are in there but they are real spooky ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['i think my dad put some.  /'],i think my dad put some  ,sd,FEMALE,1
+"['we have a little pond [ at our, + at his  ] vacation home too.  /']",we have a little pond  at our  at his   vacation home too  ,sd,FEMALE,1
+"['{c and, } y-, - /']",c and  y  ,%,FEMALE,5
+['{e i mean } really little. /'],e i mean  really little ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } they were having problems with too many goldfish because we had put some goldfish in,  /']",c and  they were having problems with too many goldfish because we had put some goldfish in  ,sd,FEMALE,1
+"['{c and } there were too many little goldfish,  /']",c and  there were too many little goldfish  ,sd,FEMALE,1
+['{c and so } the big ones never got bigger. /'],c and so  the big ones never got bigger ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['{c and, } {f uh, } somebody suggested to get a bass. /']",c and  f uh  somebody suggested to get a bass ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and so } they went fishing and caught a bass near some place and put it in there and never saw it again <laughter>. /'],c and so  they went fishing and caught a bass near some place and put it in there and never saw it again laughter ,sd,FEMALE,1
+['never saw the bass? /'],never saw the bass ,qy^d,MALE,16
+['no. /'],no ,nn,FEMALE,13
+['oh. /'],oh ,bk,MALE,14
+['{c so } we do not know whether it is living  /'],c so  we do not know whether it is living  ,sd,FEMALE,1
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['{f oh, } it is probably in there just burping goldfish. /']",f oh  it is probably in there just burping goldfish ,sv,MALE,3
+['yep. /'],yep ,aa,FEMALE,4
+['yeah. /'],yeah ,b,MALE,2
+['we still have lots of little goldfish.  /'],we still have lots of little goldfish  ,sd,FEMALE,1
+"['they propagate pretty well, those little fish. /']",they propagate pretty well those little fish ,sd,FEMALE,1
+"['yeah, /']",yeah ,b,MALE,2
+"['yeah, /']",yeah ,b,FEMALE,2
+['they really do. /'],they really do ,sd,MALE,1
+"['{c because } we started, - /']",c because  we started  ,%,FEMALE,5
+"['we have got hundreds in there now,  /']",we have got hundreds in there now  ,sd,FEMALE,1
+"['{c and } we started with, i think, ten or twenty little feeder fish that i picked up for a dollar, {d you know, }']",c and  we started with i think ten or twenty little feeder fish that i picked up for a dollar d you know ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ ma-, + ] no matter how many it was for a dollar.  /']", ma   no matter how many it was for a dollar  ,+,FEMALE,0
+"['[ {c and, } +']", c and  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } ] some of them are probably eight inches long.  /'],c and   some of them are probably eight inches long  ,+,FEMALE,0
+"['{c but } he wants your really big ones, {d you know, } the ones that get to be {d like } a foot and a half long. /']",c but  he wants your really big ones d you know  the ones that get to be d like  a foot and a half long ,sd,FEMALE,1
+"['{f oh, } /']",f oh  ,b,MALE,2
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['yeah. /'],yeah ,b,MALE,2
+"['it, -/']",it ,%,FEMALE,5
+"['they ha-, - /']",they ha  ,%,MALE,5
+"['there is a, {f uh, } - /']",there is a f uh   ,%,MALE,5
+"['you might put [ some, + {d like } some  ] yellow catfish in there.  /']",you might put  some  d like  some   yellow catfish in there  ,ad,MALE,22
+"['i do not know if they would live very well up in new york,  /']",i do not know if they would live very well up in new york  ,sd,MALE,1
+['{c but } they get huge.   /'],c but  they get huge   ,sd,MALE,1
+"['{c and, } {f uh, } they routinely use [ them for bait for, + {f uh, } goldfish for bait --']",c and  f uh  they routinely use  them for bait for  f uh  goldfish for bait ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+['-- for  ] yellow catfish. /'], for   yellow catfish ,+,MALE,0
+"['{d well, } we would want to put some small ones in so they do not eat the big guys, the goldfish too <laughter>. /']",d well  we would want to put some small ones in so they do not eat the big guys the goldfish too laughter ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but, } yeah.  /']",c but  yeah  ,b,FEMALE,2
+['we could see.  /'],we could see  ,sd,FEMALE,1
+['i do not know if yellow catfish live up this way.  /'],i do not know if yellow catfish live up this way  ,sd,FEMALE,1
+"['{c but } catfish do, i think. /']",c but  catfish do i think ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['they live in the mississippi river all the way through minnesota --'],they live in the mississippi river all the way through minnesota ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and up into canada. /'], and up into canada ,+,MALE,0
+"['{c so, } that, - /']",c so  that  ,%,FEMALE,5
+"['you mean, - /']",you mean  ,%,FEMALE,5
+"['{d well, } we could try it.  /']",d well  we could try it  ,sd,FEMALE,1
+['that is a good idea. /'],that is a good idea ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c because } he was trying to catch them, {d you know, } using little, {f uh, } {f -h, } {f -h, } - /']",c because  he was trying to catch them d you know  using little f uh  f h  f h   ,sd,FEMALE,1
+"['i forget,  /']",i forget  ,^h,FEMALE,27
+"[""there's little, {f uh, } nets you can use to catch fish to use as feeder fish and things like that.""]",theres little f uh  nets you can use to catch fish to use as feeder fish and things like that,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['minnow nets or something. /'],minnow nets or something ,+,FEMALE,0
+['my father was taking those and trying to catch the goldfish.  /'],my father was taking those and trying to catch the goldfish  ,sd,FEMALE,1
+"['{c and } it was really funny,  /']",c and  it was really funny  ,sd,FEMALE,1
+"['{c because, } {f uh, } one time he left the net in the pond,  /']",c because  f uh  one time he left the net in the pond  ,sd,FEMALE,1
+['{c and } he {d like } would put some tuna fish or things in the middle of it to attract the fish. /'],c and  he d like  would put some tuna fish or things in the middle of it to attract the fish ,sd,FEMALE,1
+"['{c and, } {f uh, } he left it in the middle of the pond <pounding>.  /']",c and  f uh  he left it in the middle of the pond pounding  ,sd,FEMALE,1
+"['{c and } that night he came out, and the trap was gone. /']",c and  that night he came out and the trap was gone ,sd,FEMALE,1
+['{c and } it was a raccoon that had taken it. /'],c and  it was a raccoon that had taken it ,sd,FEMALE,1
+['{c so } it was really funny.  /'],c so  it was really funny  ,sd,FEMALE,1
+"['{c and } you could see that, {d you know, }  /']",c and  you could see that d you know   ,sd,FEMALE,1
+"['you could see where [ the trap, + the trap  ] was dragged and things like that. /']",you could see where  the trap  the trap   was dragged and things like that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and so, } -/']",c and so  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+['that is what happens <laughter>. /'],that is what happens laughter ,sd,MALE,1
+['<child_talking> {c but } do you guys have fishing competitions while you are there? /'],childtalking c but  do you guys have fishing competitions while you are there ,qy,FEMALE,7
+['yeah  /'],yeah  ,ny,MALE,9
+"['<throat_clearing>.  {c and, } {f uh, } we feed the catfish. /']",throatclearing  c and  f uh  we feed the catfish ,sd,MALE,1
+"['they feed the catfish {d like, } {f uh, } every couple of weeks.  /']",they feed the catfish d like  f uh  every couple of weeks  ,sd,MALE,1
+"['[ {c and, } + {f uh, } {c and }  ] sometimes that is the best time to catch them. /']", c and   f uh  c and    sometimes that is the best time to catch them ,sd,MALE,1
+['yeah.  /'],yeah  ,ny,MALE,9
+"['{c because } [ they will just, + they will just  ] come after anything then. /']",c because   they will just  they will just   come after anything then ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } you could catch a couple anyway --'],c and  you could catch a couple anyway ,sd,MALE,1
+['what --'],what ,qw,FEMALE,12
+['-- during that time. /'], during that time ,+,MALE,0
+['-- do you feed them? /'], do you feed them ,+,FEMALE,0
+"['{f uh, } mixed purina, {f uh, }  /']",f uh  mixed purina f uh   ,sd,MALE,1
+"['it is, {f uh, } [ cat food, + {f uh, }  catfish food.  ] /']",it is f uh   cat food  f uh   catfish food   ,sd,MALE,1
+['really? /'],really ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,MALE,9
+['{c and } it is --'],c and  it is ,qy^d,FEMALE,16
+"['{c but, } -/']",c but  ,%,MALE,5
+['-- especially made for catfish. /'], especially made for catfish ,+,FEMALE,0
+['yeah.  /'],yeah  ,ny,MALE,9
+"['{d well, } i do not know how much different it is from dog food but,  {d you know, }']",d well  i do not know how much different it is from dog food but  d you know ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ it is, + {f uh, } it looks  ] like purina high pro.  /']", it is  f uh  it looks   like purina high pro  ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+['that is funny. /'],that is funny ,ba,FEMALE,6
+['<throat_clearing> {c but } they come up to the top.  /'],throatclearing c but  they come up to the top  ,sd,MALE,1
+"['{c and } it is the best time to take pictures,  /']",c and  it is the best time to take pictures  ,sd,MALE,1
+"['{c because } they come up to the top, and you can see their whiskers come through the water.  /']",c because  they come up to the top and you can see their whiskers come through the water  ,sd,MALE,1
+['{c and } --'],c and  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- they're, - /""]", theyre  ,+,MALE,0
+"['[ the ca-, + the big catfish  ] just kind of vacuum the top of the water. /']", the ca  the big catfish   just kind of vacuum the top of the water ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['i have never seen catfish, {d you know, } except  [ in fi-, <laughter> + filleted  ] on a plate, i think maybe.  /']",i have never seen catfish d you know  except   in fi laughter  filleted   on a plate i think maybe  ,sd,FEMALE,1
+['i think i have seen once or twice in {d like } the museum. /'],i think i have seen once or twice in d like  the museum ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but } i have never seen them,']",c but  i have never seen them,sd,FEMALE,1
+['<throat_clearing>.'],throatclearing,x,MALE,8
+['just alive someplace.  /'],just alive someplace  ,+,FEMALE,0
+['that would be fun to see. /'],that would be fun to see ,sd,FEMALE,1
+"['{d well, } they are really funny fish. /']",d well  they are really funny fish ,ba,MALE,6
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['when you catch them, they make a kind of [ a, + a  ] burping, growling sound at you. /']",when you catch them they make a kind of  a  a   burping growling sound at you ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } they try to hit you with their tails. /'],c and  they try to hit you with their tails ,sd,MALE,1
+['how big do they get? /'],how big do they get ,qw,FEMALE,12
+"['{f oh, } {d well, } the channel catfish get up to, {f uh, } - /']",f oh  d well  the channel catfish get up to f uh   ,sd,MALE,1
+['i think the world record is fifty some pounds. /'],i think the world record is fifty some pounds ,sd,MALE,1
+"['{f uh, } /']",f uh  ,%,MALE,5
+['do you know? /'],do you know ,qy,FEMALE,7
+"['[  that, +  that  ] is only about three and a half feet long. /']",  that   that   is only about three and a half feet long ,sd,MALE,1
+['that is pretty big though. /'],that is pretty big though ,ba,FEMALE,6
+"['yeah, /']",yeah ,b,MALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['they get real fat. /'],they get real fat ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } from the time, - /']",f uh  from the time  ,%,MALE,5
+"['[ they, + they  ] stay slender until they get to be, {f uh, } eighteen inches long, and then they start to widen --']", they  they   stay slender until they get to be f uh  eighteen inches long and then they start to widen ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- out.  /'], out  ,+,MALE,0
+"['{f uh, } [ my daughter, + we were up there one time and my daughter  ] was fishing <throat_clearing>.  /']",f uh   my daughter  we were up there one time and my daughter   was fishing throatclearing  ,sd,MALE,1
+['{c and } i think that was when she was three.  /'],c and  i think that was when she was three  ,sd,MALE,1
+['{c and } she caught a catfish by accident.  /'],c and  she caught a catfish by accident  ,sd,MALE,1
+['she was fishing for sunfish. /'],she was fishing for sunfish ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } she said, ""here,"" and she handed me her rod and reel  /']",c and  she said here and she handed me her rod and reel  ,sd,MALE,1
+"['[ <laughter>. + ]   [ {c and, } + {c and, } ] {f uh, } {d you know, } it was just pulling drag out. /']", laughter      c and   c and   f uh  d you know  it was just pulling drag out ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } it swimmed wherever it wanted to. /'],c and  it swimmed wherever it wanted to ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['that sounds amazing.  /'],that sounds amazing  ,ba,FEMALE,6
+['i will have to see them sometime.  /'],i will have to see them sometime  ,oo_co_cc,FEMALE,36
+"['{c but, } all righty. /']",c but  all righty ,"fo_o_fw_""_by_bc",FEMALE,0
+['okay.  /'],okay  ,b,MALE,2
+['it was nice talking --'],it was nice talking ,fc,MALE,10
+['nice talking --'],nice talking ,fc,FEMALE,10
+['-- to you. /'], to you ,+,MALE,0
+['-- to you too. /'], to you too ,+,FEMALE,0
+['okay.  /'],okay  ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,MALE,10
+"['enjoy your, {f uh, } weekend. /']",enjoy your f uh  weekend ,fc,FEMALE,10
+['yeah.  /'],yeah  ,fc,MALE,10
+['have a nice memorial weekend. /'],have a nice memorial weekend ,fc,MALE,10
+['okay.  /'],okay  ,fc,FEMALE,10
+['you too.  /'],you too  ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye. /'],bye ,fc,MALE,10

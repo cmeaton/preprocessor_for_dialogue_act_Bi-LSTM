@@ -1,0 +1,442 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['what part of the country are you in? /'],what part of the country are you in ,qw,FEMALE,12
+"['<barking> {f uh, } pennsylvania.  /']",barking f uh  pennsylvania  ,sd,FEMALE,1
+['yeah. /'],yeah ,%,FEMALE,5
+"['{f oh, } you are?  /']",f oh  you are  ,qy,FEMALE,7
+"[""east or west, i'm from pittsburgh. /  *[[listen]]""]",east or west im from pittsburgh   listen,qy,FEMALE,7
+"['{f oh, } are you really? /']",f oh  are you really ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+['what part of pittsburgh? /'],what part of pittsburgh ,qw,FEMALE,12
+"['{f um, } the south hills area, beaver county, well originally beaver county  (( )) . /']",f um  the south hills area beaver county well originally beaver county     ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } where are you from? /']",c and  f uh  where are you from ,qw,FEMALE,12
+"['{f uh, } clarion county. /']",f uh  clarion county ,sd,FEMALE,1
+"['{f oh, } okay,  /']",f oh  okay  ,bk,FEMALE,14
+['i know where that is. /'],i know where that is ,sd,FEMALE,1
+"['[ i li-, + we live ] out in the country. /']", i li  we live  out in the country ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""that's pretty out there.  /""]",thats pretty out there  ,ba,FEMALE,6
+"['what, {d well, } -/']",what d well  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['[ we have, + we have ] two children that live in pittsburgh <laughter>. /']", we have  we have  two children that live in pittsburgh laughter ,sd,FEMALE,1
+"['{f oh, } okay,  /']",f oh  okay  ,bk,FEMALE,14
+"['yeah,  /']",yeah  ,%,FEMALE,5
+['i got my brother and my whole family there.  /'],i got my brother and my whole family there  ,sd,FEMALE,1
+"[""[ i'm, + i'm ] talking to you from dallas right now. /""]", im  im  talking to you from dallas right now ,sd,FEMALE,1
+"['{f oh, } {f oh, } you are? /']",f oh  f oh  you are ,qy,FEMALE,7
+['uh-huh  /'],uhhuh  ,ny,FEMALE,9
+['<laughter>.'],laughter,x,FEMALE,8
+"['[ do you work, + do you work ] for texas instruments then? /']", do you work  do you work  for texas instruments then ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['my husband does. /'],my husband does ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"['{c and } [ who, + ] how about you? /']",c and   who   how about you ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i'm just, - /""]",im just  ,%,FEMALE,5
+"[""place [ that, + that ] needed this. -/  *[[listen--not sure who's saying what]]""]",place  that  that  needed this   listennot sure whos saying what,^2,FEMALE,23
+"['{f uh, } federal company, {d you know, }  /']",f uh  federal company d you know   ,+,FEMALE,0
+"['{d so, } yeah. /']",d so  yeah ,%,FEMALE,5
+"[""{d well } that's okay.  /""]",d well  thats okay  ,ba,FEMALE,6
+"[""i guess it's an easy thing to do.  /""]",i guess its an easy thing to do  ,sv,FEMALE,3
+"[""{d so } [ you're f-, + you have ] a big, - /""]",d so   youre f  you have  a big  ,qy,FEMALE,7
+['do you have a rural house or what do you have? /'],do you have a rural house or what do you have ,qy,FEMALE,7
+"[""{f uh, } we have a big old farmhouse that we've --""]",f uh  we have a big old farmhouse that weve ,sd,FEMALE,1
+"[""{f oh, } that's a, -/""]",f oh  thats a ,%,FEMALE,5
+"['-- {d you know, } remodeled. /']", d you know  remodeled ,+,FEMALE,0
+['those are beautiful. /'],those are beautiful ,ba,FEMALE,6
+"['it had been, {d you know, } of course, a farm. /']",it had been d you know  of course a farm ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's a farm community,  /""]",its a farm community  ,sd,FEMALE,1
+['{c and } we. -/'],c and  we ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ is it a, + is it a ] working farm  /']", is it a  is it a  working farm  ,qy,FEMALE,7
+['{c or } is it? -/'],c or  is it ,qrr,FEMALE,33
+['ours is not a working farm <laughter>. /'],ours is not a working farm laughter ,sd,FEMALE,1
+"['[ more, + more, ] - /']", more  more   ,%,FEMALE,5
+"['i can understand that,  /']",i can understand that  ,ba,FEMALE,6
+"[""that's probably what i would, {f uh, } -/""]",thats probably what i would f uh  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i have a garden - /'],i have a garden  ,sd,FEMALE,1
+"['{c but } {d you know, } - /']",c but  d you know   ,%,FEMALE,5
+['we have a garden. /'],we have a garden ,sd,FEMALE,1
+['yeah -- /'],yeah  ,b,FEMALE,2
+"[""{c but } we don't farm. /""]",c but  we dont farm ,sd,FEMALE,1
+['-- i can hear the accent now  /'], i can hear the accent now  ,sd,FEMALE,1
+"['[ i hear the <laughter>, +']", i hear the laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['i hear the ] western pennsylvania, {f um. } /']",i hear the  western pennsylvania f um  ,+,FEMALE,0
+['<laughter> uh-huh. /'],laughter uhhuh ,b,FEMALE,2
+"['[ we live, + {f uh, } we lived ] in minneapolis for about five years. /']", we live  f uh  we lived  in minneapolis for about five years ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ we, + we ] originally lived in dallas  /']", we  we  originally lived in dallas  ,sd,FEMALE,1
+['{c and } we met and got married -- /'],c and  we met and got married  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and then, } {f um, } actually married in pittsburgh,  /']", c and then  f um  actually married in pittsburgh  ,sd,FEMALE,1
+"[""{c and } [ that's, + that's ] not what they want to hear on this call, {f uh } -- /""]",c and   thats  thats  not what they want to hear on this call f uh   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- at any rate we came back here with, - /']", at any rate we came back here with  ,sd,FEMALE,1
+"['my husband was transferred around, {f uh, } up to minnesota and now back to texas with t i -- /']",my husband was transferred around f uh  up to minnesota and now back to texas with t i  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } we're leasing a, {f uh, } two story town home in a section of dallas they call north dallas. /""]", c and  were leasing a f uh  two story town home in a section of dallas they call north dallas ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"[""{c and } it's, {f uh, } near a little town called plano,  /""]",c and  its f uh  near a little town called plano  ,sd,FEMALE,1
+"[""{d well, } it's not little any more. /""]",d well  its not little any more ,sv,FEMALE,3
+"['{f uh, } grapevine,  /']",f uh  grapevine  ,sd,FEMALE,1
+['do you know grapevine? /'],do you know grapevine ,qy,FEMALE,7
+"['{f uh, } yes,  /']",f uh  yes  ,ny,FEMALE,9
+"[""that's out near the airport.  /""]",thats out near the airport  ,sd,FEMALE,1
+"[""that's about forty-five miles from us. /""]",thats about fortyfive miles from us ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""my brother has a home there he's trying to sell.  /""]",my brother has a home there hes trying to sell  ,sd,FEMALE,1
+"[""[ he, + he's ] living now up, {f uh, } [ in, + in ] maryland  /""]", he  hes  living now up f uh   in  in  maryland  ,sd,FEMALE,1
+"['{c but, } {f uh, } he,']",c but  f uh  he,sd,FEMALE,1
+"[""it's, - /""]",its  ,%,FEMALE,5
+"['yeah, /']",yeah ,b,FEMALE,2
+"['<static> [ li-, + lived ] in grapevine for a long time. /']",static  li  lived  in grapevine for a long time ,+,FEMALE,0
+"[""that's why [ [ we not sure, + we, ] + we're not sure ] we want to, {f uh, } buy down here, because [ we + {d actually, } we ] lived up north long enough to appreciate the, {f um, } - /  *[[listen--one utt?]]""]",thats why   we not sure  we   were not sure  we want to f uh  buy down here because  we  d actually  we  lived up north long enough to appreciate the f um     listenone utt,sd,FEMALE,1
+['minneapolis-saint paul is very clean -- /'],minneapolissaint paul is very clean  ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {d you know, } in terms of, - /  *[[listen; with previous slash unit?]]']", d you know  in terms of    listen with previous slash unit,%,FEMALE,5
+"['{c and } in terms of housing down here, {f um, } you really have your pick  /']",c and  in terms of housing down here f um  you really have your pick  ,sd,FEMALE,1
+"[""{c but } it's just everything's overpriced for the economy. /""]",c but  its just everythings overpriced for the economy ,sv,FEMALE,3
+"[""{f oh, } it's terrible.  /""]",f oh  its terrible  ,ba,FEMALE,6
+"['i, -/']",i ,%,FEMALE,5
+"['it really is,  /']",it really is  ,aa,FEMALE,4
+"[""{e i mean } [ we're, + we're ] in a leased town home,  /""]",e i mean   were  were  in a leased town home  ,sd,FEMALE,1
+"[""{c and } [ it's, + {a {f uh, } [ you're probably, + your teeth will probably ] fall out figuratively speaking, } it's ] nine hundred a month. /""]",c and   its  a f uh   youre probably  your teeth will probably  fall out figuratively speaking  its  nine hundred a month ,sd,FEMALE,1
+"[""{f oh, } i'm not surprised. /""]",f oh  im not surprised ,ba,FEMALE,6
+"['{c but, } you know what,  /']",c but  you know what  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['[ if you, + if you ] get anything under five hundred you get into what they call high density living --']", if you  if you  get anything under five hundred you get into what they call high density living ,sd,FEMALE,1
+"['{f uh, } right,  /']",f uh  right  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+"['-- {d you know, } the big apartment complexes -- /']", d you know  the big apartment complexes  ,+,FEMALE,0
+"['right,  /']",right  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+"['-- [ {c and, } + {c and } ] i just have no tolerance for that. /']",  c and   c and   i just have no tolerance for that ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""it's not good <laughter>. /""]",its not good laughter ,ba,FEMALE,6
+['no.  /'],no  ,aa,FEMALE,4
+['{c and } the people think the income is really great in some of those areas  /'],c and  the people think the income is really great in some of those areas  ,sv,FEMALE,3
+['{c but } when they sit down and look at what it costs to live -- -/'],c but  when they sit down and look at what it costs to live  ,sv,FEMALE,3
+"['-- {c and, } {f uh, } <static> of course, most of the homes are, {d you know, } fairly nice,  /']", c and  f uh  static of course most of the homes are d you know  fairly nice  ,sv,FEMALE,3
+"[""they're, {f uh, } done up fairly nice, {f uh, } /""]",theyre f uh  done up fairly nice f uh  ,sv,FEMALE,3
+['yeah  /'],yeah  ,b,FEMALE,2
+"[""[ this is, + it's ] like a duplex,  /""]", this is  its  like a duplex  ,sd,FEMALE,1
+['{d like } a two by two they call it like in pittsburgh. /'],d like  a two by two they call it like in pittsburgh ,sd,FEMALE,1
+"['right,  /']",right  ,b,FEMALE,2
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"[""{c and } it's nice  /""]",c and  its nice  ,sd,FEMALE,1
+"[""{c but } [ it's, + {e i mean, } ] the girl bought it for a hundred and ten, /""]",c but   its  e i mean   the girl bought it for a hundred and ten ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,+,FEMALE,0
+"[""{c and } now she can't sell it.  /""]",c and  now she cant sell it  ,sd,FEMALE,1
+"['{c and } our neighbors, -/']",c and  our neighbors ,%,FEMALE,5
+"['{d well, } prices have come down on the homes, the duplexes. /']",d well  prices have come down on the homes the duplexes ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{e i mean, } [ we'll, + ] our neighbors, the attached on the other side, they're very nice, thank god, /""]",e i mean   well   our neighbors the attached on the other side theyre very nice thank god ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['they paid fifty-eight for it. /'],they paid fiftyeight for it ,sd,FEMALE,1
+"['{f oh, } my heaven. /']",f oh  my heaven ,ba,FEMALE,6
+"[""that's how bad it, - /""]",thats how bad it  ,sd,FEMALE,1
+['i know. /'],i know ,sd,FEMALE,1
+"['{d well, } i know up in connecticut the same thing happened,  /']",d well  i know up in connecticut the same thing happened  ,sd,FEMALE,1
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+['-- people are devastated because they paid so much for their home. /'], people are devastated because they paid so much for their home ,+,FEMALE,0
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+['i have some friends that live in westport  /'],i have some friends that live in westport  ,sd,FEMALE,1
+"[""{c and } it's really, really bad.  /""]",c and  its really really bad  ,sd,FEMALE,1
+"['i mean you, -/']",i mean you ,%,FEMALE,5
+['{c but } we like our area.  /'],c but  we like our area  ,sd,FEMALE,1
+"[""[ [ it, + like i said, it's, ] + it's ] an old house and  everything -- /""]",  it  like i said its   its  an old house and  everything  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but, } {f uh, } -/']", c but  f uh  ,%,FEMALE,5
+"['[ how far, + ] where is clarion county in relation to, {d actually, } - /']", how far   where is clarion county in relation to d actually   ,qw,FEMALE,12
+"[""{c because } we're considering moving to pennsylvania <laughter>. /""]",c because  were considering moving to pennsylvania laughter ,sd,FEMALE,1
+"[""<laughter> {d well, } we're about a hundred miles from pittsburgh --""]",laughter d well  were about a hundred miles from pittsburgh ,sd,FEMALE,1
+"[""that's not too bad. /""]",thats not too bad ,ba,FEMALE,6
+['-- north. /'], north ,+,FEMALE,0
+"[""that's north. /""]",thats north ,br,FEMALE,30
+"['{c and } yeah,  /']",c and  yeah  ,ny,FEMALE,9
+"[""{c and } [ it's, + it's ] really [ not, + {d you know, } not ] that far. /""]",c and   its  its  really  not  d you know  not  that far ,sd,FEMALE,1
+"['are you going up toward, {f uh, } {f uh, } - /']",are you going up toward f uh  f uh   ,qy,FEMALE,7
+"[""i'm trying to think of the name of that town that starts with an m,  /""]",im trying to think of the name of that town that starts with an m  ,^h,FEMALE,27
+"[""bradford, no that's too far north. /""]",bradford no thats too far north ,h,FEMALE,15
+"[""bradford's north of us. /""]",bradfords north of us ,sd,FEMALE,1
+"[""{c so } [ you're, + you're ] not that far north then,  /""]",c so   youre  youre  not that far north then  ,qy^d,FEMALE,16
+['okay. /'],okay ,bk,FEMALE,14
+"['no,  /']",no  ,nn,FEMALE,13
+['no. /'],no ,nn,FEMALE,13
+"[""{d well, } you're really not too bad.  /""]",d well  youre really not too bad  ,sv,FEMALE,3
+['yeah. /'],yeah ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f um, } was it a home that you've had for quite a [ f-, + few ] years,  /""]",f um  was it a home that youve had for quite a  f  few  years  ,qy,FEMALE,7
+"[""{c or } that you've, -/""]",c or  that youve ,qy,FEMALE,7
+"[""{d well, } we've been here since sixty-six. /""]",d well  weve been here since sixtysix ,sd,FEMALE,1
+"['{f oh, } then you have, - /']",f oh  then you have  ,%,FEMALE,5
+['yeah.  /'],yeah  ,%,FEMALE,5
+['do you have a lot of land  /'],do you have a lot of land  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,qy,FEMALE,7
+"['{f uh, } we have fifty acres. /']",f uh  we have fifty acres ,sd,FEMALE,1
+"['{f oh, } my,  /']",f oh  my  ,ba,FEMALE,6
+"['{d well, } then. /']",d well  then ,ba,FEMALE,6
+"['{f oh, } pardon me,  /']",f oh  pardon me  ,fa,FEMALE,42
+"['we have forty,  /']",we have forty  ,sd,FEMALE,1
+['we gave ten to one of our children <laughter>. /'],we gave ten to one of our children laughter ,sd,FEMALE,1
+['there you go.  /'],there you go  ,ba,FEMALE,6
+"['did you have a hard time getting used to, - /']",did you have a hard time getting used to  ,qy,FEMALE,7
+['do you feel like  you live in an isolated area  /'],do you feel like  you live in an isolated area  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['no,  /']",no  ,nn,FEMALE,13
+"['not really,  /']",not really  ,sd,FEMALE,1
+"['[ {c and, } + {c and } ] towns keep creeping closer and closer, {d you know. } /']", c and   c and   towns keep creeping closer and closer d you know  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""i think that that's, {f um, } - /""]",i think that thats f um   ,%,FEMALE,5
+"['i can remember in pittsburgh when, - /']",i can remember in pittsburgh when  ,sd,FEMALE,1
+"['this has to do with homes, {f uh, } indirectly  /']",this has to do with homes f uh  indirectly  ,h,FEMALE,15
+"['{c but } i can remember when upper saint clair was out in [ the, + {d you know, }']",c but  i can remember when upper saint clair was out in  the  d you know ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['the ] rural end of washington,  /']",the  rural end of washington  ,+,FEMALE,0
+"[""{c and } now [ it's + <static> it's ] a terrible connection. /""]",c and  now  its  static its  a terrible connection ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""it's ours up here.  /""]",its ours up here  ,sd,FEMALE,1
+"['we have, - /']",we have  ,%,FEMALE,5
+['our rural connections are real bad  /'],our rural connections are real bad  ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{f oh, } {d well } that's okay, {f um, } /""]",f oh  d well  thats okay f um  ,bd,FEMALE,38
+"['[ {c but } we, + {c but } we ] live about ten miles from probably three or four, not large towns but, {d you know, } reasonable. /']", c but  we  c but  we  live about ten miles from probably three or four not large towns but d you know  reasonable ,sd,FEMALE,1
+"['[ {c but, } + {c but, } ] sub-, - /']", c but   c but   sub  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"['substantially, {d you know. }  /']",substantially d you know   ,b,FEMALE,2
+"['{f um, } do you like living in an older home and restoring it like that? /']",f um  do you like living in an older home and restoring it like that ,qy,FEMALE,7
+"['{f uh, } yeah,  /']",f uh  yeah  ,ny,FEMALE,9
+"[""we're tired of doing it though.  /""]",were tired of doing it though  ,sd,FEMALE,1
+"[""[ we, + we ] don't want to do too much more <laughter>. /""]", we  we  dont want to do too much more laughter ,sd,FEMALE,1
+['<laughter> how big is it?  /'],laughter how big is it  ,qw,FEMALE,12
+['how many square feet do you have? /'],how many square feet do you have ,qw,FEMALE,12
+"['{f uh, } {f oh, } golly,  /']",f uh  f oh  golly  ,ba,FEMALE,6
+['i really. -/'],i really ,%,FEMALE,5
+"['{d well } how many rooms do you think,  /']",d well  how many rooms do you think  ,qw,FEMALE,12
+['yeah? /'],yeah ,%,FEMALE,5
+"['we have, {f uh, } {f uh, } four rooms downstairs, and a pantry -- /']",we have f uh  f uh  four rooms downstairs and a pantry  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } upstairs we have [ a bath, + a bath, ] {f oh }  /']", c and  upstairs we have  a bath  a bath  f oh   ,sd,FEMALE,1
+"['we, have a half bath downstairs, too. /']",we have a half bath downstairs too ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['we have a bath upstairs, and one, two, three, four bedrooms and a sewing room and a junk room <laughter>.   /']",we have a bath upstairs and one two three four bedrooms and a sewing room and a junk room laughter   ,sd,FEMALE,1
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,FEMALE,5
+"['a junk room,  /']",a junk room  ,b^m,FEMALE,24
+['yeah  /'],yeah  ,b,FEMALE,2
+"['i understand,  /']",i understand  ,ba,FEMALE,6
+['we have that too.  /'],we have that too  ,sd,FEMALE,1
+"[""[ that's, + that's ] large if your children aren't at home any more. /""]", thats  thats  large if your children arent at home any more ,bf,FEMALE,20
+['pardon? /'],pardon ,br,FEMALE,30
+"[""that's large if your kids aren't at home any more. /""]",thats large if your kids arent at home any more ,bf,FEMALE,20
+"[""{d well, } it really isn't too big yet.  /""]",d well  it really isnt too big yet  ,arp_nd,FEMALE,34
+"['[ we, + we ] li-, - /']", we  we  li  ,%,FEMALE,5
+['a lot of people say that  /'],a lot of people say that  ,sd,FEMALE,1
+"['{c but, } {f um, }']",c but  f um ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""it's, - /""]",its  ,+,FEMALE,0
+['we just like it real well - /'],we just like it real well  ,sd,FEMALE,1
+"[""it's enough space for two people <laughter>.  /""]",its enough space for two people laughter  ,bf,FEMALE,20
+['yeah. /'],yeah ,%,FEMALE,5
+"['yeah,  /']",yeah  ,+,FEMALE,0
+"['we had five children,  /']",we had five children  ,sd,FEMALE,1
+['[ {c so } -- +'], c so   ,%,FEMALE,5
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"[""-- {c and } ] they've all moved <laughter>, {d you know, } on.  /""]", c and   theyve all moved laughter d you know  on  ,+,FEMALE,0
+"[""they're all out on their own now. /""]",theyre all out on their own now ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['right.  /'],right  ,b,FEMALE,2
+"[""that's okay.  /""]",thats okay  ,b,FEMALE,2
+"[""{d well, } we've got, {f um, } - /""]",d well  weve got f um   ,%,FEMALE,5
+"['[ th-, + this ] town house is pretty big.  /']", th  this  town house is pretty big  ,sd,FEMALE,1
+"[""it's about eighteen hundred square feet.  /""]",its about eighteen hundred square feet  ,sd,FEMALE,1
+"[""it's got three bedrooms, two and a half baths -- /""]",its got three bedrooms two and a half baths  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {f um, } it's really nice. /""]", f um  its really nice ,sd,FEMALE,1
+"['{d well, } it sounds like a good buy. /']",d well  it sounds like a good buy ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['it is,  /']",it is  ,sd,FEMALE,1
+"['{e i mean, } i would never buy it  /']",e i mean  i would never buy it  ,sd,FEMALE,1
+['{c but } leasing it is fine. /'],c but  leasing it is fine ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f um, } {c but, } it's just again, [ the, + the ] privacy, {d you know. }  /""]",f um  c but  its just again  the  the  privacy d you know   ,sd,FEMALE,1
+"['{f um, } we had a house in minneapolis that was on three acres,  /']",f um  we had a house in minneapolis that was on three acres  ,sd,FEMALE,1
+"['{c and } my husband was raised, {f um, } on a working farm near dayt-, /']",c and  my husband was raised f um  on a working farm near dayt ,sd,FEMALE,1
+"['{f oh, } that makes a big difference. /']",f oh  that makes a big difference ,ba,FEMALE,6
+"['right,  /']",right  ,aa,FEMALE,4
+"['near dayton, ohio,  /']",near dayton ohio  ,sd,FEMALE,1
+"['{c and } he said, {d you know, } - /']",c and  he said d you know   ,sd,FEMALE,1
+"[""[ he's, + he's ] slowly getting me to, {f um, } not feel isolated if we move [ t-, + to ] where there's more land. /""]", hes  hes  slowly getting me to f um  not feel isolated if we move  t  to  where theres more land ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""you really aren't isolated because it's, - /""]",you really arent isolated because its  ,bf,FEMALE,20
+"['the advantages, - /']",the advantages  ,bf,FEMALE,20
+"[""your home is far enough away that you're not bothered by being too close to people, /""]",your home is far enough away that youre not bothered by being too close to people ,bf,FEMALE,20
+['right. /'],right ,aa,FEMALE,4
+"['{c but } yet you can have your friends, {f uh, }  /']",c but  yet you can have your friends f uh   ,bf,FEMALE,20
+"['you can have them in,  /']",you can have them in  ,sv,FEMALE,3
+['you can go out. /'],you can go out ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['you have more of a choice,  /']",you have more of a choice  ,sv,FEMALE,3
+"[""you're not pressed upon as bad. /""]",youre not pressed upon as bad ,sv,FEMALE,3
+"[""that's kind of what, {d like } - /""]",thats kind of what d like   ,%,FEMALE,5
+"['his parents have, {f uh, } land that they retired to, {f um, } about a hundred miles out of atlanta --']",his parents have f uh  land that they retired to f um  about a hundred miles out of atlanta ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ and, + ] in georgia,  /']",  and   in georgia  ,+,FEMALE,0
+"['{c and } it is too far south for me, /']",c and  it is too far south for me ,sd,FEMALE,1
+"['{f uh, } uh-huh. /']",f uh  uhhuh ,b,FEMALE,2
+"['[ {c but, } + {f um, } {f um, } {c but } ] {e i mean, } they have one of the, {f um, } - /']", c but   f um  f um  c but   e i mean  they have one of the f um   ,sd,FEMALE,1
+"['when they said log cabin, i just laughed,  /']",when they said log cabin i just laughed  ,sd,FEMALE,1
+"['that they retired to, - /']",that they retired to  ,sd,FEMALE,1
+['{c but } they built one of these.  /'],c but  they built one of these  ,sd,FEMALE,1
+"[""{e i mean, } it's just beautiful. /""]",e i mean  its just beautiful ,sd,FEMALE,1
+"[""it's like a custom, {d you know } -- /""]",its like a custom d you know   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,+,FEMALE,0
+"[""-- it's not like what i would think of when i think of old log cabins.  /""]", its not like what i would think of when i think of old log cabins  ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{d you know, } {e i mean, } it's modern  /""]",d you know  e i mean  its modern  ,sd,FEMALE,1
+"[""it's, -/""]",its ,%,FEMALE,5
+['more luxury.  /'],more luxury  ,^2,FEMALE,23
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['right,  /']",right  ,b,FEMALE,2
+"['right,  /']",right  ,b,FEMALE,2
+"[""it's modern,  /""]",its modern  ,sd,FEMALE,1
+"[""it's beautiful,  /""]",its beautiful  ,sd,FEMALE,1
+"[""it's country -- /""]",its country  ,sd,FEMALE,1
+"['right,  /']",right  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- it's {d you know, } {f um, } - /""]", its d you know  f um   ,%,FEMALE,5
+"[""{c but, } {f uh, } i don't, - /""]",c but  f uh  i dont  ,%,FEMALE,5
+"[""what else about housing except it's, {f uh, } {d well, } - /""]",what else about housing except its f uh  d well   ,qo,FEMALE,25
+"[""pittsburgh's housing economy, [ [ i-, + i-, ] + i ] think it's holding it's own. /""]",pittsburghs housing economy   i  i   i  think its holding its own ,sv,FEMALE,3
+"[""{f uh, } they're, - /""]",f uh  theyre  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['i suppose they are now.  /'],i suppose they are now  ,aap_am,FEMALE,39
+"['we, - /']",we  ,%,FEMALE,5
+['both of our children who live there have just bought a home.  /'],both of our children who live there have just bought a home  ,sd,FEMALE,1
+"['[ what part, + what sections ] are they in? /']", what part  what sections  are they in ,qw,FEMALE,12
+"['{f uh, } in the mount lebanon area. /']",f uh  in the mount lebanon area ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""that's nice. /""]",thats nice ,ba,FEMALE,6
+"['{c and, } {f uh, } [ the one, + the one ] boy, the house they bought is completely livable.  /']",c and  f uh   the one  the one  boy the house they bought is completely livable  ,sd,FEMALE,1
+"[""they didn't have to do much to it. /""]",they didnt have to do much to it ,sd,FEMALE,1
+['great. /'],great ,ba,FEMALE,6
+"['the other one [ [ is, + {f uh, } {f uh, } has, ] + {d you know, } needs ] more work done.  /']",the other one   is  f uh  f uh  has   d you know  needs  more work done  ,sd,FEMALE,1
+"[""it's twenty years old, i think. /""]",its twenty years old i think ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ {c and, } + {c but } ] they have two children, too,  /']", c and   c but   they have two children too  ,sd,FEMALE,1
+"['{c and } [ they, + they ] --']",c and   they  they  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- bought what they could afford. /'], bought what they could afford ,+,FEMALE,0
+"[""that's, - /""]",thats  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['a really good friend of mine lives in penn hills,  /']",a really good friend of mine lives in penn hills  ,sd,FEMALE,1
+"[""{c and } they've been in their house, {f oh, } probably about twelve years now -- /""]",c and  theyve been in their house f oh  probably about twelve years now  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, } {f um, } [ it's, + it's, ] {d you know, } - /""]", c and  f um   its  its  d you know   ,%,FEMALE,5
+"[""they're [ s-, + going to start ] to see their return --""]",theyre  s  going to start  to see their return ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- on their investment very soon.  /'], on their investment very soon  ,+,FEMALE,0
+"[""{f um, } {c but } it's a beautiful home  /""]",f um  c but  its a beautiful home  ,sd,FEMALE,1
+"['{c and, }']",c and ,sd,FEMALE,1
+['they are beautiful homes. /'],they are beautiful homes ,ba,FEMALE,6
+"['{e i mean, } my brother lives, - /']",e i mean  my brother lives  ,+,FEMALE,0
+['is it called baldwin or bebble? /'],is it called baldwin or bebble ,qy,FEMALE,7
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{e i mean, } he lives all in that same area going from mount lebanon, {f um, }  /']",e i mean  he lives all in that same area going from mount lebanon f um   ,sd,FEMALE,1
+"[""it's real pretty up there.  /""]",its real pretty up there  ,sv,FEMALE,3
+"[""it's just, -/""]",its just ,%,FEMALE,5
+"['it is,  /']",it is  ,aa,FEMALE,4
+"[""it's real nice. /""]",its real nice ,sv,FEMALE,3
+['{c and } the neighborhoods are stable --'],c and  the neighborhoods are stable ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {d you know. }  /'], d you know   ,+,FEMALE,0
+"[""it's, {f uh, } - /""]",its f uh   ,%,FEMALE,5
+"[""when you come to this part of the country, we've been away from dallas long enough that you see the difference in housing. /""]",when you come to this part of the country weve been away from dallas long enough that you see the difference in housing ,sv,FEMALE,3
+"['{f oh, } my  /']",f oh  my  ,ba,FEMALE,6
+"['[ you wou-, + you do ] when you mo-.  /']", you wou  you do  when you mo  ,%,FEMALE,5
+"['when we first got married, {f uh, } - /']",when we first got married f uh   ,%,FEMALE,5
+"['my husband works for the state,  /']",my husband works for the state  ,sd,FEMALE,1
+['{c and } we moved once a year usually <laughter>. /'],c and  we moved once a year usually laughter ,sd,FEMALE,1
+"['{f oh, } my goodness. /']",f oh  my goodness ,ba,FEMALE,6
+"['{c and then } after they had to start paying to move us,']",c and then  after they had to start paying to move us,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""that suddenly wasn't necessary any more <laughter>. /""]",that suddenly wasnt necessary any more laughter ,+,FEMALE,0
+"[""<laughter> that's what it is here,  /""]",laughter thats what it is here  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"[""that's why we're at a point now [ we've, + {f uh, } we're ] adopting  /""]",thats why were at a point now  weve  f uh  were  adopting  ,sd,FEMALE,1
+['{c and } we have been married ten plus years  /'],c and  we have been married ten plus years  ,sd,FEMALE,1
+"[""{c and } what happens is, {f uh, } you just realize that once you get to a certain age the next house that you get <beep> <<high pitch>> we'll be staying in <laughter>.  /""]",c and  what happens is f uh  you just realize that once you get to a certain age the next house that you get beep high pitch well be staying in laughter  ,sv,FEMALE,3
+"['right, yeah,  /']",right yeah  ,aa,FEMALE,4
+"['you have to stop some place,  /']",you have to stop some place  ,sv,FEMALE,3
+['yeah. /'],yeah ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,+,FEMALE,0
+"[""that's kind of like --""]",thats kind of like ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- where we're, - /""]", where were  ,+,FEMALE,0
+"[""{d so } we're considering pennsylvania,  /""]",d so  were considering pennsylvania  ,sd,FEMALE,1
+"[""{c and } we're just kind of, {d you know, } toying with what exactly, where we want to be, {d you know. } /""]",c and  were just kind of d you know  toying with what exactly where we want to be d you know  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""a lot of people say it doesn't matter where they live if they have a nice house  /""]",a lot of people say it doesnt matter where they live if they have a nice house  ,sv,FEMALE,3
+"['[ {c and, } +']", c and  ,ar,FEMALE,28
+"['{c but } ] i disagree with that,  /']",c but   i disagree with that  ,+,FEMALE,0
+['i. -/'],i ,%,FEMALE,5
+"['i do too,  /']",i do too  ,+,FEMALE,0
+"[""i've heard too many people say, i hate it here. /""]",ive heard too many people say i hate it here ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } they buy a place  /']",d you know  they buy a place  ,sv,FEMALE,3
+['{c and } they just hate the area.  /'],c and  they just hate the area  ,sv,FEMALE,3
+"['i know,  /']",i know  ,aa,FEMALE,4
+"[""[ {c and } it, + {c and } ] the economy here in dallas, {e i mean, } [ it, + it's ] steady,  /""]", c and  it  c and   the economy here in dallas e i mean   it  its  steady  ,sd,FEMALE,1
+"[""{c but } it's still not going up. /""]",c but  its still not going up ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } [ i, + {f um, } i ] just refuse to buy it, {f um, } if i know i'm not going to be there for at least --""]",c and   i  f um  i  just refuse to buy it f um  if i know im not going to be there for at least ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- five years, {f uh, } [ you, + {d you know. } ] /']", five years f uh   you  d you know   ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{d well, } my brother, they're having trouble selling their home, {d see. } /""]",d well  my brother theyre having trouble selling their home d see  ,sd,FEMALE,1
+"[""{f oh, } i'm sure,  /""]",f oh  im sure  ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['there, {e i mean, } you can go down a street,  /']",there e i mean  you can go down a street  ,sd,FEMALE,1
+"[""{c and } here, he told you this, every other house, {d you know, } if it's been foreclosed on --""]",c and  here he told you this every other house d you know  if its been foreclosed on ,sd,FEMALE,1
+"['right,  /']",right  ,ba,FEMALE,6
+['[ uh-huh. + ] /'], uhhuh   ,b,FEMALE,2
+"['-- {c or, } {d you know, } even big executives -- -/']", c or  d you know  even big executives  ,+,FEMALE,0
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- {f um, } it's really, {e i mean, } - /""]", f um  its really e i mean   ,%,FEMALE,5
+"[""[ [ a-, + {c and, } ] + {c and } ] it's hard to sell the properties.  /""]",  a  c and    c and   its hard to sell the properties  ,sv,FEMALE,3
+"[""people from j c penney's from new york, came here about a couple of years ago. /""]",people from j c penneys from new york came here about a couple of years ago ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } they thought they were getting a great deal, {f um, } because they could get a five hundred thousand dollar home with, they call it, zero lot lines, no property,  /']",c and  they thought they were getting a great deal f um  because they could get a five hundred thousand dollar home with they call it zero lot lines no property  ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+['{c and } it would make you ill to see this. /'],c and  it would make you ill to see this ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['i mean it would probably be like your house on, {f uh, } {d you know, } a half a city block in pittsburgh or something. /']",i mean it would probably be like your house on f uh  d you know  a half a city block in pittsburgh or something ,sv,FEMALE,3
+"[""[ i, + i ] couldn't handle that <laughter>. /""]", i  i  couldnt handle that laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['i know,  /']",i know  ,ba,FEMALE,6
+"[""{c and } that's, {d you know, } {d like } - /""]",c and  thats d you know  d like   ,%,FEMALE,5
+['i can look outside right now and  look into the next unit. /'],i can look outside right now and  look into the next unit ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d you know, } it's across the way,  /""]",d you know  its across the way  ,sd,FEMALE,1
+"[""{c and } it's landscaped and all that with azaleas, /""]",c and  its landscaped and all that with azaleas ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c but } [ it's still, + it's still ] not that private. /""]",c but   its still  its still  not that private ,sv,FEMALE,3
+"['i get tired, {f uh, } sometimes, mowing, <laughter> because we mow, {d you know, } a good bit of ground around the house area. /']",i get tired f uh  sometimes mowing laughter because we mow d you know  a good bit of ground around the house area ,sd,FEMALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+['{c but } you have a rider. /'],c but  you have a rider ,arp_nd,FEMALE,34
+['{c and } i do get tired of that  /'],c and  i do get tired of that  ,sd,FEMALE,1
+"[""{c but, } {f uh, } i don't know,  /""]",c but  f uh  i dont know  ,h,FEMALE,15
+"[""i don't think i'd want to change it. /""]",i dont think id want to change it ,sd,FEMALE,1
+"['no,  /']",no  ,aa,FEMALE,4
+"['{c and } your kids have, - /']",c and  your kids have  ,%,FEMALE,5
+"['to tell you the truth, {f um, } i think that if you can keep [ that, + that way, ] {d you know, } kind of like a homestead, -/']",to tell you the truth f um  i think that if you can keep  that  that way  d you know  kind of like a homestead ,sv,FEMALE,3

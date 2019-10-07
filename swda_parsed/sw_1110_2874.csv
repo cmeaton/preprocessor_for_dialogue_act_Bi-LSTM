@@ -1,0 +1,203 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d so } you like to fish, {f huh? } /']",d so  you like to fish f huh  ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['i like to,  /']",i like to  ,sd,MALE,1
+"[""i don't have a boat,  /""]",i dont have a boat  ,sd,MALE,1
+['{c but } i like to fish  /'],c but  i like to fish  ,sd,MALE,1
+"[""{c and } there's a lot of lakes around here.  /""]",c and  theres a lot of lakes around here  ,sd,MALE,1
+"['{f uh, } are there many lakes up there? /']",f uh  are there many lakes up there ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+['actually there are quite a bit of lakes around me.  /'],actually there are quite a bit of lakes around me  ,sd,MALE,1
+"['[ we actu-, + {f uh, } we have ] [ [ [ [ the, + those little, ] + the, ] + the, ] + the ] great lakes, {d you know, }  /']", we actu  f uh  we have      the  those little   the   the   the  great lakes d you know   ,sd,MALE,1
+"['grea-, - /']",grea  ,%,MALE,5
+"['{f uh, } <breathing>  lake ontario is right near here. /']",f uh  breathing  lake ontario is right near here ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c plus, } we're in what's called the finger lake region of new york  /""]",c plus  were in whats called the finger lake region of new york  ,sd,MALE,1
+"[""where there're lots of small lakes everywhere  /""]",where therere lots of small lakes everywhere  ,sd,MALE,1
+"['{c and } these are, {f uh, } real good, {f uh, } for, {d like, } {d you know, } bass fishing and so forth. /']",c and  these are f uh  real good f uh  for d like  d you know  bass fishing and so forth ,sd,MALE,1
+['they have mostly small mouth in them  /'],they have mostly small mouth in them  ,qy^d,MALE,16
+"['{c or, } -/']",c or  ,%,MALE,5
+"['no,  /']",no  ,nn,MALE,13
+"['we have [ a, + [ qui-, + actually quite a ] ] lot of variety.  /']",we have  a   qui  actually quite a   lot of variety  ,sd,MALE,1
+"[""[ there's, + {f uh, } there's, ] - /""]", theres  f uh  theres   ,%,MALE,5
+"['we have large mouth, small mouth, {f uh, } sort of musky, pike, stuff like  that. /']",we have large mouth small mouth f uh  sort of musky pike stuff like  that ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know, } all sorts of fun stuff like that.  /']",d you know  all sorts of fun stuff like that  ,sd,MALE,1
+"['{f uh, } we have a pretty large bass masters tournament actually takes place right on lake ontario every year. /']",f uh  we have a pretty large bass masters tournament actually takes place right on lake ontario every year ,sd,MALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,MALE,2
+"[""that's right,  /""]",thats right  ,ba,MALE,6
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so } [ [ it's, + it's, ] + that's, ] a lot of fun. /""]",c so    its  its   thats  a lot of fun ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['how about you?  /'],how about you  ,qo,MALE,25
+"['[ do you like, + what do you like ] to go for? /']", do you like  what do you like  to go for ,qw,MALE,12
+"[""{f oh, } [ it's, + it's, ] {f uh, } - /""]",f oh   its  its  f uh   ,%,MALE,5
+"['i fish for bass,  /']",i fish for bass  ,sd,MALE,1
+"['{c but } i hardly ever catch one,  /']",c but  i hardly ever catch one  ,sd,MALE,1
+"['{c but, } {f uh, } {f uh, } they have a tail race over in lake lavon -- /']",c but  f uh  f uh  they have a tail race over in lake lavon  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- {c and, } {f uh, } {d you know, } [ they wash, + when they open ] up the dam and let out water, they wash down the fish  /']", c and  f uh  d you know   they wash  when they open  up the dam and let out water they wash down the fish  ,sd,MALE,1
+"['{c and, } {f uh, } you catch that white bass and crappie out of there. /']",c and  f uh  you catch that white bass and crappie out of there ,sd,MALE,1
+['{f um. } /'],f um  ,b,MALE,2
+"[""every once in a while there'll be striped bass. /""]",every once in a while therell be striped bass ,sd,MALE,1
+"['we have, {f uh, } some friends who live on the lake -- /']",we have f uh  some friends who live on the lake  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and, } [ it, + the lake it ] just seems, [ is, + is ] completely filled with bass to the point where, {d you know, } normally  you [ go, + [ y-, + [ y-, go ] ] ] fishing for bass, you get a lot of sunfish, [ or, + or ] cat or whatever, and some other strange stuff.  /  *[[listen]]']", c and   it  the lake it  just seems  is  is  completely filled with bass to the point where d you know  normally  you  go   y   y go    fishing for bass you get a lot of sunfish  or  or  cat or whatever and some other strange stuff    listen,sv,MALE,3
+"['{c but } in this particular lake, we went out with some friends, once  /']",c but  in this particular lake we went out with some friends once  ,sd,MALE,1
+"['{c and } [ we just, + ]  every time you tossed the line in, you pull up a five, six, seven inch minimum bass  /']",c and   we just    every time you tossed the line in you pull up a five six seven inch minimum bass  ,sd,MALE,1
+"['{c and } usually you pull up, {d you know, } <breathing> thirteen to fourteen inch bass. /']",c and  usually you pull up d you know  breathing thirteen to fourteen inch bass ,sd,MALE,1
+['wow. /'],wow ,ba,MALE,6
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""[ it's a real, + it's a real ] enjoyable experience to go fishing there because [ we just, + we pull ] up, {d you know, } bass after bass  /""]", its a real  its a real  enjoyable experience to go fishing there because  we just  we pull  up d you know  bass after bass  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['probably [ during, + during ] perch season the perch will run in very large schools,  /']",probably  during  during  perch season the perch will run in very large schools  ,sd,MALE,1
+"[""{c so } what they'll do is j-, - /""]",c so  what theyll do is j  ,sd,MALE,1
+"[""[ you'll, + you'll ] be sort of boating around,  /""]", youll  youll  be sort of boating around  ,sd,MALE,1
+"['these people own a little row boat,  /']",these people own a little row boat  ,sd,MALE,1
+"[""{c and } they'll be boating around  /""]",c and  theyll be boating around  ,sd,MALE,1
+"[""{c and } [ they'll hit a, + they'll hit a ] school of perches in the middle -- /""]",c and   theyll hit a  theyll hit a  school of perches in the middle  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } when they do, you can just drop the lines in and just pull them in one at, - /']", c and  when they do you can just drop the lines in and just pull them in one at  ,sd,MALE,1
+"['[ they, + they ] just drop it in.  /']", they  they  just drop it in  ,sd,MALE,1
+"[""they can't pull it in fast enough. /""]",they cant pull it in fast enough ,sd,MALE,1
+"['[ what do you, + what do you ] catch perch on? /']", what do you  what do you  catch perch on ,qw,MALE,12
+"['{f uh, } [ [ i, + they actually, ] + they, ] - /']",f uh    i  they actually   they   ,%,MALE,5
+"['according to them, [ you can catch, + when the perch are running, you can catch ] them on just about anything. /']",according to them  you can catch  when the perch are running you can catch  them on just about anything ,sd,MALE,1
+['huh. /'],huh ,b,MALE,2
+"['they tend to use, i guess worms or some kind of lures sometimes,  /']",they tend to use i guess worms or some kind of lures sometimes  ,sd,MALE,1
+"[""{c but, } {d you know, } i've, - /""]",c but  d you know  ive  ,sd,MALE,1
+"['she told me that they will sometimes use corn or anything, {d you know. } /']",she told me that they will sometimes use corn or anything d you know  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""they'll, - /""]",theyll  ,%,MALE,5
+"['corn or salami or bread or anything,  /']",corn or salami or bread or anything  ,sd,MALE,1
+"[""[ [ they'll, + they'll, ] + they'll ] hit because they're just sort of surrounded, these large schools. /""]",  theyll  theyll   theyll  hit because theyre just sort of surrounded these large schools ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""it's, - /""]",its  ,%,MALE,5
+"['sometimes i use corn,  /']",sometimes i use corn  ,sd,MALE,1
+"['{c but, } {f uh, } {f uh, } some fish steal it off the hook sometimes. /']",c but  f uh  f uh  some fish steal it off the hook sometimes ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""it's a big problem. /""]",its a big problem ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['{f uh, } the other day i was fishing with bread, {f uh, }  /']",f uh  the other day i was fishing with bread f uh   ,sd,MALE,1
+"[""there's a college across the street -- /""]",theres a college across the street  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- {c and } they, - /']", c and  they  ,%,MALE,5
+"[""[ it's, + it's ] full of carp {c and, } {f uh, } i caught a carp on a, about, what size is that, {f uh, } i think it was a number two treble hook, /""]", its  its  full of carp c and  f uh  i caught a carp on a about what size is that f uh  i think it was a number two treble hook ,sd,MALE,1
+['# {f um. }  # /'], f um    ,b,MALE,2
+"[""# {c and } # it's huge,  /""]", c and   its huge  ,sd,MALE,1
+"['[ its, + its ] mouth was full of hooks. /']", its  its  mouth was full of hooks ,sd,MALE,1
+['wow. /'],wow ,ba,MALE,6
+['{c so } he was in a bad way.   /'],c so  he was in a bad way   ,sd,MALE,1
+"[""{c but, } {f uh, } it's, - /""]",c but  f uh  its  ,%,MALE,5
+['he was fast.  /'],he was fast  ,sd,MALE,1
+"['he, -/']",he ,%,MALE,5
+['a big one? /'],a big one ,qy,MALE,7
+['yeah.  /'],yeah  ,ny,MALE,9
+"[""{d well, } it's, {f uh, } it was sixteen inches long. /""]",d well  its f uh  it was sixteen inches long ,sd,MALE,1
+"[""{f wow, } [ [ that's, + that's, ] + that's ] a nice size carp. /""]",f wow    thats  thats   thats  a nice size carp ,ba,MALE,6
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['i think it was about a pound and a half, {d you know, }  /']",i think it was about a pound and a half d you know   ,sd,MALE,1
+"[""{c but } all they're good for is the fight.  /""]",c but  all theyre good for is the fight  ,sv,MALE,3
+"[""boy [ they d-, + they really don't ] want to come out of the water  /""]",boy  they d  they really dont  want to come out of the water  ,sv,MALE,3
+"['[ they, +']", they ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['they ] zip through the water, {d you know, }  /']",they  zip through the water d you know   ,+,MALE,0
+"[""[ you're, + how your ] line goes, {d you know } -- -/""]", youre  how your  line goes d you know   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } i thought, {d you know, } that, {f uh, } i wasn't going to be able to get it in, because, {f uh, } the one i hooked just about ten minutes before, when i tried to raise it out of the water, it fell off,  /""]", c and  i thought d you know  that f uh  i wasnt going to be able to get it in because f uh  the one i hooked just about ten minutes before when i tried to raise it out of the water it fell off  ,sd,MALE,1
+"[""{c so } it wasn't hooked very well.  /""]",c so  it wasnt hooked very well  ,sd,MALE,1
+"['{c but, } {d you know, } i got it that far,  /']",c but  d you know  i got it that far  ,sd,MALE,1
+"['i figured that, {f uh, } -/']",i figured that f uh  ,%,MALE,5
+"['# [ [ that, + that, ] + that ] counts.  # /']",   that  that   that  counts   ,bf,MALE,20
+"['# yeah,  /']", yeah  ,aa,MALE,4
+"[""that's what i # said.  /""]",thats what i  said  ,sd,MALE,1
+"[""that's what i told the guy.  /""]",thats what i told the guy  ,sd,MALE,1
+['the guy was standing there  /'],the guy was standing there  ,sd,MALE,1
+['{c and } he laughed when it fell off  /'],c and  he laughed when it fell off  ,sd,MALE,1
+"[""{c and } i said, that's a quick release, right there. /""]",c and  i said thats a quick release right there ,sd,MALE,1
+"['<laughter>  [ [ do you, + do you, ] + do you ] actually like the taste of f-,  /']",laughter    do you  do you   do you  actually like the taste of f  ,qy,MALE,7
+"['do you, {d like, } eat the fish that you catch  /']",do you d like  eat the fish that you catch  ,qy,MALE,7
+['{c or } are you more of a sport fisherman? /'],c or  are you more of a sport fisherman ,qy,MALE,7
+"['{f uh, } catfish, yeah.  /']",f uh  catfish yeah  ,sd,MALE,1
+"[""{c but, } {f uh, } i haven't eaten anything else, {d you know. }  /""]",c but  f uh  i havent eaten anything else d you know   ,sd,MALE,1
+"[""{f uh, } there's some, {f uh, } - /""]",f uh  theres some f uh   ,%,MALE,5
+['my dad has a farm  /'],my dad has a farm  ,sd,MALE,1
+"[""{c and } there's, - /""]",c and  theres  ,%,MALE,5
+['he has two ponds up there  /'],he has two ponds up there  ,sd,MALE,1
+"['{c and } my uncle has [ a, + a ] pond upstream  /']",c and  my uncle has  a  a  pond upstream  ,sd,MALE,1
+"[""{c and } there's a lot of crappie in there now.  /""]",c and  theres a lot of crappie in there now  ,sd,MALE,1
+"[""{c but, } {f uh, } i think he's the only one that's, that's caught [ enough crappie + {e or, } a big enough crappie ] to eat.  /""]",c but  f uh  i think hes the only one thats thats caught  enough crappie  e or  a big enough crappie  to eat  ,sd,MALE,1
+"[""{c but } the catfish, [ there's, + {d you know, } there's ] hundreds of them from like two to six pounds and, # that,  /""]",c but  the catfish  theres  d you know  theres  hundreds of them from like two to six pounds and  that  ,sd,MALE,1
+['yeah. # /'],yeah  ,ny,MALE,9
+"['# right,  /']", right  ,b,MALE,2
+"['{c so } # you can just, {f oh, } - /']",c so   you can just f oh   ,%,MALE,5
+"[""{c because } i don't actually like fish.  /""]",c because  i dont actually like fish  ,sd,MALE,1
+"[""it's sort of, - /""]",its sort of  ,%,MALE,5
+"[""{c so } when i fish, it's more for sport than anything else. /""]",c so  when i fish its more for sport than anything else ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c and } if, {d you know, } - /']",c and  if d you know   ,%,MALE,5
+"[""[ when you, + when you ] have to look in their eyes and,  {d you know, } hit them in the head or whatever, that's what you do with a catfish --""]", when you  when you  have to look in their eyes and  d you know  hit them in the head or whatever thats what you do with a catfish ,sv,MALE,3
+['right. /'],right ,aa,MALE,4
+"['-- {d you know, } because you have to sever their spinal cord. /']", d you know  because you have to sever their spinal cord ,+,MALE,0
+"[""[ [ [ [ {c and, } + {c and, } ] + {c and, } ] + {c and, } ] + {c and } ] be careful you don't get stung. /""]",    c and   c and    c and    c and    c and   be careful you dont get stung ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['yeah,  /']",yeah  ,aa,MALE,4
+['i know it.  /'],i know it  ,sd,MALE,1
+"['have you ever tried, {f uh, } deep sea fishing? /']",have you ever tried f uh  deep sea fishing ,qy,MALE,7
+"['{f uh, } not yet.  /']",f uh  not yet  ,ng,MALE,29
+"['my brother went off the coast of maine, {f uh, }  /']",my brother went off the coast of maine f uh   ,sd,MALE,1
+"['when the, - /']",when the  ,%,MALE,5
+"[""i don't know,  /""]",i dont know  ,h,MALE,15
+"['what they, - /']",what they  ,%,MALE,5
+['mackerel -- -/'],mackerel  ,%,MALE,5
+['yeah. /'],yeah ,b,MALE,2
+['-- that school up there? - /  *[[listen--is there overlap?]]'], that school up there    listenis there overlap,qy,MALE,7
+"[""it's - /""]",its  ,%,MALE,5
+"['[ he, + he ]  said that it was just like that.  /']", he  he   said that it was just like that  ,sd,MALE,1
+"['they were throwing {d like, } {f uh, } {f uh, } hell benders or, {f uh, } {f uh, } some other kind of treble hook lure  /']",they were throwing d like  f uh  f uh  hell benders or f uh  f uh  some other kind of treble hook lure  ,sd,MALE,1
+"[""[ {c and, } + {c and, } ] {f uh, } each time they bring them in they'd have at least one,  /""]", c and   c and   f uh  each time they bring them in theyd have at least one  ,sd,MALE,1
+"[""sometimes they've had [ two on, + {d you know, } one on ] every hook. /""]",sometimes theyve had  two on  d you know  one on  every hook ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ we, + i ] was out in florida with a friend a while ago  /']", we  i  was out in florida with a friend a while ago  ,sd,MALE,1
+"['{c and } we would go and just, {f uh, } drop [ [ two, + {d you know, } [ a, + a two ] ] or three rig, + two or three hooked rig ] as well down off a boat.  /']",c and  we would go and just f uh  drop   two  d you know   a  a two   or three rig  two or three hooked rig  as well down off a boat  ,sd,MALE,1
+['we just dropped it down there  /'],we just dropped it down there  ,sd,MALE,1
+"['{c and, } the captain had, {d you know, } some kind of sonar in the boat -- /']",c and  the captain had d you know  some kind of sonar in the boat  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c so } he'd maneuver us into a school of fish  /""]", c so  hed maneuver us into a school of fish  ,sd,MALE,1
+"['{c and } you just drop it in [ {c and } + <breathing>  {c and } ] it just, - /']",c and  you just drop it in  c and   breathing  c and   it just  ,sd,MALE,1
+"['[ you, + you ] get one or two at a shot, {d you know }  /']", you  you  get one or two at a shot d you know   ,sd,MALE,1
+"['{c and, }']",c and ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""it's a good deal, too.  /""]",its a good deal too  ,+,MALE,0
+"['[ it was, + it was ] a, like twenty dollars for six hours of fishing on some big charter boat. /']", it was  it was  a like twenty dollars for six hours of fishing on some big charter boat ,sd,MALE,1
+['wow. /'],wow ,ba,MALE,6
+"[""{d you know, } [ [ {c and, } + {c and, } ] + {c and } ] they'll clean your fish on a tip basis for you if you want. /""]",d you know    c and   c and    c and   theyll clean your fish on a tip basis for you if you want ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""down here it's like two hundred dollars a day. /""]",down here its like two hundred dollars a day ,sd,MALE,1
+"['{d well, } this is, - /']",d well  this is  ,%,MALE,5
+"['yeah,  /']",yeah  ,%,MALE,5
+"['[ [ this, + this, ] + this ] was for a, {d you know, } large, - /']",  this  this   this  was for a d you know  large  ,sd,MALE,1
+['there were --'],there were ,sd,MALE,1
+['a group party. /'],a group party ,bf,MALE,20
+['-- maybe thirty of us on the boat.  /'], maybe thirty of us on the boat  ,+,MALE,0
+"[""[ we, + we ] weren't all related, just, {d you know, } thirty people off the shop in the boat there. /""]", we  we  werent all related just d you know  thirty people off the shop in the boat there ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""if you want to go on a boat alone, it's like two hundred dollars a day. /""]",if you want to go on a boat alone its like two hundred dollars a day ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c but } this is great, because [ it was, + i think it was ] nineteen dollars for five hours and twenty dollars for six hours or something. /']",c but  this is great because  it was  i think it was  nineteen dollars for five hours and twenty dollars for six hours or something ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know, }  /']",d you know   ,%,MALE,5
+"[""{c so } you'd get to go out there [ [ for, five-, + for, ] + for six ] hours and  get a nice suntan and bring along some lunch [ and, + <breathing> and ] fish all day.  /""]",c so  youd get to go out there   for five  for   for six  hours and  get a nice suntan and bring along some lunch  and  breathing and  fish all day  ,sd,MALE,1
+"[""it's really nice <<pause>>.  /""]",its really nice pause  ,sv,MALE,3
+"[""it's real enjoyable. /""]",its real enjoyable ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{d well, } [ i, + i ] don't know if it's been five minutes yet or not. /""]",d well   i  i  dont know if its been five minutes yet or not ,sd,MALE,1
+"[""i think we're probably close, though. /""]",i think were probably close though ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""it's nice talking to you. /""]",its nice talking to you ,fc,MALE,10
+"['nice talking to you, too.  /']",nice talking to you too  ,fc,MALE,10
+['good luck with fishing this season. /'],good luck with fishing this season ,fc,MALE,10
+['good luck. /'],good luck ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,MALE,10

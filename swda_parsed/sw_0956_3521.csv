@@ -1,0 +1,149 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d so, } [ a-, + are ] you a news person? /']",d so   a  are  you a news person ,qy,MALE,7
+"['{f uh, } i really am,  /']",f uh  i really am  ,na,MALE,21
+"[""[ i enjoy, + i enjoy ] listening to the news and getting as much as i can. although, {d you know, } i'm a full time student  /""]", i enjoy  i enjoy  listening to the news and getting as much as i can although d you know  im a full time student  ,sd,MALE,1
+"['{c and } [ i work full time, too,  /']",c and   i work full time too  ,sd,MALE,1
+"['{c so, } + {a {e or } not full time,  /']",c so   a e or  not full time  ,sd,MALE,1
+['{c but } } i work quite a bit ]  /'],c but   i work quite a bit   ,sd,MALE,1
+['[ {c and so } -- +'], c and so   ,sd,MALE,1
+['yes. /'],yes ,b,MALE,2
+"['-- <throat_clearing>, {c so } ] i mostly depend on the radio, {d you know, } on the way to work.  /']", throatclearing c so   i mostly depend on the radio d you know  on the way to work  ,+,MALE,0
+"['[ i like, + i like ] to listen to national public radio, {f uh, } all things considered. /']", i like  i like  to listen to national public radio f uh  all things considered ,sd,MALE,1
+"['yes,  /']",yes  ,b,MALE,2
+['great show. /'],great show ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['{c and } i like to listen to that and catch, {d you know, } - /']",c and  i like to listen to that and catch d you know   ,sd,MALE,1
+"[""[ [ i don't get, + i don't get a lot of, ] + {f uh, } sometimes i don't get ] the current events, {d you know. } because that show kind of has feature stories that might not <breathing> <throat_clearing> directly deal with, {f uh, } {d you know, } some important issue on the day.  /""]",  i dont get  i dont get a lot of   f uh  sometimes i dont get  the current events d you know  because that show kind of has feature stories that might not breathing throatclearing directly deal with f uh  d you know  some important issue on the day  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ {c so, } + {c so } ] [ the real, + the real ] current news and, the hard news --']", c so   c so    the real  the real  current news and the hard news ,bf,MALE,20
+['yeah. /'],yeah ,aa,MALE,4
+"['-- [ [ is, + is not, ] + there is not ] really enough of it there. /']",   is  is not   there is not  really enough of it there ,+,MALE,0
+"['right,  /']",right  ,aa,MALE,4
+"[""that's right,  /""]",thats right  ,aa,MALE,4
+['yeah. /'],yeah ,aa,MALE,4
+"['yeah,  /']",yeah  ,b^m,MALE,24
+"[""[ i've had, + i've had ] that frustration, too.  /""]", ive had  ive had  that frustration too  ,sd,MALE,1
+['i --'],i ,sd,MALE,1
+['yeah <laughter>. /'],yeah laughter ,b,MALE,2
+['-- end up switching stations from time to time. /'], end up switching stations from time to time ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ [ you, + you li-, ] + you like ] n p r -s, {f uh, } programming? /']",  you  you li   you like  n p r s f uh  programming ,qy,MALE,7
+"['{f uh, } in general. /']",f uh  in general ,na,MALE,21
+['yeah. /'],yeah ,b,MALE,2
+"['{f uh, } i --']",f uh  i ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- watch a lot of c n n --'], watch a lot of c n n ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } and c span. /']", f uh  and c span ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } [ i, + i ] subscribe to three newspapers. /']",f uh   i  i  subscribe to three newspapers ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{f uh, } {d you know, } i sort of can't get enough of this. /""]",f uh  d you know  i sort of cant get enough of this ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""[ {c and, } + {c and } ] [ i, + when i ] travel elsewhere, i'm often amazed at the local papers how little they have.""]", c and   c and    i  when i  travel elsewhere im often amazed at the local papers how little they have,sd,MALE,1
+"['[ [ h-, + h-, ] + h-, ] -/']",  h  h   h  ,%,MALE,5
+"['of [ world, + world ] events --']",of  world  world  events ,+,MALE,0
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['-- and national events. /'], and national events ,+,MALE,0
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['{d well, } [ in, + in ] dallas, [ what are the, + what is the ] newspaper situation? /']",d well   in  in  dallas  what are the  what is the  newspaper situation ,qw,MALE,12
+"['<breathing> {d well } <laughter>, [ [ we d-, + we, ] + we ] have [ a, + a ] big newspaper situation.  /']",breathing d well  laughter   we d  we   we  have  a  a  big newspaper situation  ,sd,MALE,1
+"['{f uh, } <throat_clearing> {c because, } we used to have two newspapers up until, {f uh, } last sunday  /']",f uh  throatclearing c because  we used to have two newspapers up until f uh  last sunday  ,sd,MALE,1
+"['{c and } [ [ a, {f uh, } major, + {f uh, } a, ] + one of our major ] papers just closed down.  /']",c and    a f uh  major  f uh  a   one of our major  papers just closed down  ,sd,MALE,1
+"[""they closed shop, and said, {d well, } we can't put any more papers out,  /""]",they closed shop and said d well  we cant put any more papers out  ,sd,MALE,1
+"[""we're done. /""]",were done ,^q,MALE,19
+"['[ was, + was ] that [ the, + the ] better paper  /']", was  was  that  the  the  better paper  ,qy,MALE,7
+"['{c or } #  ((   )) , # -/']",c or          ,%,MALE,5
+"['# yeah,  /']", yeah  ,ny,MALE,9
+['i thought so.  /'],i thought so  ,sd,MALE,1
+"['#  [ it was a, + it was a ] more effective paper as far as i was concerned.  /']",   it was a  it was a  more effective paper as far as i was concerned  ,sd,MALE,1
+"['[ [ it, + it had, ] + {f uh, } <throat_clearing> {f uh, } it got ] to the news, {d you know, } and gave you the dirty facts pretty quick and easy.']",  it  it had   f uh  throatclearing f uh  it got  to the news d you know  and gave you the dirty facts pretty quick and easy,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } which i like.  /']",f uh  which i like  ,+,MALE,0
+"[""[ [ i don't, + i don't like to, ] + {d you know, } i like to ] save the editorial information or [ the + <throat_clearing>, the ] politically, {f uh, } weighted information, {d you know, } [ for the, + for a ] different section.  /""]",  i dont  i dont like to   d you know  i like to  save the editorial information or  the  throatclearing the  politically f uh  weighted information d you know   for the  for a  different section  ,sd,MALE,1
+"[""i like just to [ get to the, + {d you know, } find out ] what's happening --""]",i like just to  get to the  d you know  find out  whats happening ,sd,MALE,1
+['yes. /'],yes ,b,MALE,2
+['-- pretty quick.  /'], pretty quick  ,+,MALE,0
+"['{c and } i feel that the other newspaper, {f uh, } - /']",c and  i feel that the other newspaper f uh   ,%,MALE,5
+"[""[ the t-, + the dallas morning news ] is the one that's still here.  /""]", the t  the dallas morning news  is the one thats still here  ,sd,MALE,1
+['the times herald is the one that closed up <breathing> <throat_clearing>. /'],the times herald is the one that closed up breathing throatclearing ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, } {f uh, } [ the, + the ] morning news [ [ [ was, + was, ] + i-, ] + is ] okay,  /']",c and  f uh   the  the  morning news    was  was   i   is  okay  ,sv,MALE,3
+"[""{c but, } {d you know, } you have to wade through a lot of editorial garbage as far as i'm concerned. /""]",c but  d you know  you have to wade through a lot of editorial garbage as far as im concerned ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{d you know, } <breathing> many times it [ doesn't + <throat_clearing>, doesn't ] reflect my own opinion  /""]",d you know  breathing many times it  doesnt  throatclearing doesnt  reflect my own opinion  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+"[""{c but } [ if you, + if you ] were to look at the front page of today's [ morning news -- +""]",c but   if you  if you  were to look at the front page of todays  morning news  ,qy,MALE,7
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- morning times {e rather, } ] [ [ w-, + would you, ] + would you ] see things about what is going on in europe? /']", morning times e rather     w  would you   would you  see things about what is going on in europe ,+,MALE,0
+"['no,  /']",no  ,nn,MALE,13
+"['no,  /']",no  ,nn,MALE,13
+"[""that's the problem. /""]",thats the problem ,sv,MALE,3
+['oh. /'],oh ,bk,MALE,14
+"[""{c but, } [ [ y-, + {d you know, } you see, ] + you see ] troy aikman's knee surgery <laughter> on the front page, {d you know. } /""]",c but    y  d you know  you see   you see  troy aikmans knee surgery laughter on the front page d you know  ,sv,MALE,3
+['whoever troy aikman is. /'],whoever troy aikman is ,qw^d,MALE,41
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ a, + a ] quarterback [ for the broncos + {e or } [ for the, + for the ] cowboys. ] /']", a  a  quarterback  for the broncos  e or   for the  for the  cowboys  ,sd,MALE,1
+['okay. /'],okay ,bk,MALE,14
+"['{f uh, } [ [ you know, + you know, ] + you know ] what i mean -- /']",f uh    you know  you know   you know  what i mean  ,qw,MALE,12
+['yeah. /'],yeah ,ny,MALE,9
+"[""-- [ that, + there ] is, {f uh, } <throat_clearing> local news [ that, + {f uh, } that ] really a lot of times [ doesn't, + doesn't ] [ change, + change ] my life one way or the other. /""]",  that  there  is f uh  throatclearing local news  that  f uh  that  really a lot of times  doesnt  doesnt   change  change  my life one way or the other ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['<sniffing>  {c so, } {f uh, } -/']",sniffing  c so  f uh  ,%,MALE,5
+"[""i guess it's current events, but not the kind of current events that changes the world. /""]",i guess its current events but not the kind of current events that changes the world ,sv,MALE,3
+"['right,  /']",right  ,aa,MALE,4
+"['right,  /']",right  ,aa,MALE,4
+['yeah <laughter>.  /'],yeah laughter  ,aa,MALE,4
+"[""not something [ you'll, + you'll, ] {f uh, } be interested in ten years from now by any means.""]",not something  youll  youll  f uh  be interested in ten years from now by any means,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['{d you know. }  /'],d you know   ,+,MALE,0
+"['[ how, + how ] about you?  /']", how  how  about you  ,qo,MALE,25
+"['{f uh, } i guess in washington, d c  you guys have several papers that are [ pretty -- +']",f uh  i guess in washington d c  you guys have several papers that are  pretty  ,qy,MALE,7
+['yes. /'],yes ,ny,MALE,9
+['-- pretty ] effective --'], pretty  effective ,+,MALE,0
+['a lot of them. /'],a lot of them ,sd,MALE,1
+"[""-- don't you? /""]", dont you ,+,MALE,0
+"['[ i, + i ] rather like the washington post. /']", i  i  rather like the washington post ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c but, } i also get the new york times and the wall street journal. /']",c but  i also get the new york times and the wall street journal ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } {c and, } {f uh, } each of them covers different things [ [ in, + in [ dif-, + dif-, ] -- ] +']",f uh  c and  f uh  each of them covers different things   in  in  dif  dif    ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+['-- in different ways ]  /'], in different ways   ,+,MALE,0
+"[""{c and so } [ it's, + ] {d you know, } if i only looked at one of them i [ would have a different perspect-, + clearly would have a different perspective ] on the world. /""]",c and so   its   d you know  if i only looked at one of them i  would have a different perspect  clearly would have a different perspective  on the world ,sv,MALE,3
+"['right,  /']",right  ,aa,MALE,4
+['yeah.  /'],yeah  ,aa,MALE,4
+"['{f uh, } [ i, + i ] have a question.  /']",f uh   i  i  have a question  ,sd,MALE,1
+"['{f uh, } [ does, + does ] the wall street journal, {f uh, } - /']",f uh   does  does  the wall street journal f uh   ,qy,MALE,7
+"[""[ i, + i've ] kind of gathered lately that, {f uh, } maybe their information is not just only related to business.  /""]", i  ive  kind of gathered lately that f uh  maybe their information is not just only related to business  ,sv,MALE,3
+"['[ is that, + is that ] a correct assumption? /']", is that  is that  a correct assumption ,qy,MALE,7
+"['[ that, + that ] is certainly true. /']", that  that  is certainly true ,na,MALE,21
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } [ they will, + they will ] have articles, - /']",f uh   they will  they will  have articles  ,sd,MALE,1
+"['{d like } a few days ago they had [ a, + a ] nice article on einstein, {d you know } --']",d like  a few days ago they had  a  a  nice article on einstein d you know  ,sd,MALE,1
+['oh. /'],oh ,bk,MALE,14
+['-- theory of relativity.'], theory of relativity,+,MALE,0
+['oh. /'],oh ,bk,MALE,14
+"['{d you know, } that started on the front page ran [ in, + into ] [ the full, + almost full ] page inside. /']",d you know  that started on the front page ran  in  into   the full  almost full  page inside ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d now, } these are feature kind of articles. /']",d now  these are feature kind of articles ,sd,MALE,1
+['wow. /'],wow ,ba,MALE,6
+"['[ [ all the, + all the, ] + {f uh, } {d you know, } the ] bulk of the paper certainly is about business kinds of activities. /']",  all the  all the   f uh  d you know  the  bulk of the paper certainly is about business kinds of activities ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['[ {c but, } + {c but } ] there is some very good other articles --']", c but   c but   there is some very good other articles ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {f uh, } you'll find [ in the, + in the ] journal. /""]", f uh  youll find  in the  in the  journal ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""do you find that you're, {f uh, } <throat_clearing> {f uh, } disappointed or  pleased with, {f uh, } {f uh, } the performance of {d like } network coverage of news? /""]",do you find that youre f uh  throatclearing f uh  disappointed or  pleased with f uh  f uh  the performance of d like  network coverage of news ,qy,MALE,7
+"['{f uh, } i wish it were in more depth. /']",f uh  i wish it were in more depth ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{f uh, } that doesn't mean to say longer,  /""]",f uh  that doesnt mean to say longer  ,sd,MALE,1
+['just more facts would be nice. /'],just more facts would be nice ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } c n n [ [ [ has, + has, ] + {d you know, } was, ] + was ] pretty good during the war. /']",f uh  c n n    has  has   d you know  was   was  pretty good during the war ,sv,MALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,MALE,4
+['definitely. /'],definitely ,aa,MALE,4
+"['{f uh, } {c and } they [ were, + {d you know, } sort of had ] a unique vantage point [ for, + for ] doing that reporting. /']",f uh  c and  they  were  d you know  sort of had  a unique vantage point  for  for  doing that reporting ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ {c so, } + {c but, } ] {d you know, } [ it's not, + it's never ] quite, -/""]", c so   c but   d you know   its not  its never  quite ,%,MALE,5

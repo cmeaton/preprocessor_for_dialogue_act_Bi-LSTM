@@ -1,0 +1,174 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+['go ahead. /'],go ahead ,ad,MALE,22
+"[""{d well, } [ [ i, + i, ] + {f uh, }  we're ] going to compare notes.  {f uh, } /""]",d well    i  i   f uh   were  going to compare notes  f uh  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['[ i, + {f uh, } i ] --']", i  f uh  i  ,sd,MALE,1
+"[""# don't do it <laughter>. # /""]", dont do it laughter  ,^2,MALE,23
+"['-- # often desire # to exercise,  often believe i should and rarely do. /']",  often desire  to exercise  often believe i should and rarely do ,+,MALE,0
+"['{d well, } i tell you, [ i, + i ]  firmly believe in exercising.  /']",d well  i tell you  i  i   firmly believe in exercising  ,sd,MALE,1
+"[""i think it's a, - /""]",i think its a  ,sv,MALE,3
+['i do it every day on a regular basis.  /'],i do it every day on a regular basis  ,sd,MALE,1
+"['i, -/']",i ,%,MALE,5
+"['[ [ what, + what, ] + what ] sort  [ of, + of ] regiment do you have? /']",  what  what   what  sort   of  of  regiment do you have ,qw,MALE,12
+"['{d well, } i just got back from  biking twelve and a half miles,  /']",d well  i just got back from  biking twelve and a half miles  ,sd,MALE,1
+"[""{c but } this time of year, you can't get much biking in.  {f uh, }  /""]",c but  this time of year you cant get much biking in  f uh   ,sd,MALE,1
+"[""{c but } every morning i use this president's, {f uh, } council of physical  fitness  /""]",c but  every morning i use this presidents f uh  council of physical  fitness  ,sd,MALE,1
+"[""{c and } [ it really is, +  {f uh, } {f uh, } it's ] worth doing,  /""]",c and   it really is   f uh  f uh  its  worth doing  ,sv,MALE,3
+['{c and } you can do it anywhere.  /'],c and  you can do it anywhere  ,sv,MALE,3
+"['[ i, + i ] travel quite a bit [ in my -- +']", i  i  travel quite a bit  in my  ,sd,MALE,1
+['yes. /'],yes ,b,MALE,2
+"['-- in my ] business,  /']", in my  business  ,+,MALE,0
+"[""{c and } you can do it, {d you know, }  wherever you're at  /""]",c and  you can do it d you know   wherever youre at  ,sv,MALE,3
+"['{c and } if you do it, - /']",c and  if you do it  ,sd,MALE,1
+"['[ i, + i ] do it every morning --']", i  i  do it every morning ,sd,MALE,1
+['yes. /'],yes ,b,MALE,2
+"['-- [ after, + {f uh, } usually after ]  breakfast before i take a shower and get, {d you know, } dressed [ going -- +']",  after  f uh  usually after   breakfast before i take a shower and get d you know  dressed  going  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {d you know, } to go ] to work.  /']", d you know  to go  to work  ,+,MALE,0
+"['{c and, } {f uh, } {d now } what i do, - /']",c and  f uh  d now  what i do  ,sd,MALE,1
+"[""{e i mean, } i've done this for, {d you know, } {d like } fifteen years,  /""]",e i mean  ive done this for d you know  d like  fifteen years  ,sd,MALE,1
+"[""{c so } you don't start at this kind of regiment, {d you know. } /""]",c so  you dont start at this kind of regiment d you know  ,sd,MALE,1
+['yes. /'],yes ,b,MALE,2
+"['i, - /']",i  ,%,MALE,5
+"[""{c so, } what i'm telling you  isn't something you go out and do  /""]",c so  what im telling you  isnt something you go out and do  ,sd,MALE,1
+"[""[ {c and, } + {c and } ] you'll hurt yourself <laughter>.  {f uh, }  /""]", c and   c and   youll hurt yourself laughter  f uh   ,sd,MALE,1
+"['[ every, + every, ] {f uh, } - /']", every  every  f uh   ,%,MALE,5
+"['it takes me about fifteen minutes to do this now because  i do it all the time,  /']",it takes me about fifteen minutes to do this now because  i do it all the time  ,sd,MALE,1
+"['{c but } [ i, + {f uh, } i ] do twenty-five, {f uh, } {f uh, } where you  have your arms above your head [ and -- +']",c but   i  f uh  i  do twentyfive f uh  f uh  where you  have your arms above your head  and  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- and ] your body twisters touch [ right, +  {d you know, } left and right ] toe  /']", and  your body twisters touch  right   d you know  left and right  toe  ,+,MALE,0
+"['{c and } i do, {f uh, } ten, {f uh, } right and  left, {f uh, } trunk twisters. /']",c and  i do f uh  ten f uh  right and  left f uh  trunk twisters ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } i do, {f uh, } about sixty,  {f uh, } bicycle, [ type, + {f uh, } leg thrust type ] things. /']",c and  i do f uh  about sixty  f uh  bicycle  type  f uh  leg thrust type  things ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } i do, {f uh, } twenty, {f uh, }  leg lifters on each side.  {d you know -- }']",c and  i do f uh  twenty f uh   leg lifters on each side  d you know  ,sd,MALE,1
+['yes. /'],yes ,b,MALE,2
+"[""-- when you're [ p-, -- +""]", when youre  p  ,+,MALE,0
+['yes. /'],yes ,b,MALE,2
+['-- laying ] on the floor. /'], laying  on the floor ,+,MALE,0
+['right. /'],right ,b,MALE,2
+['{c and then } i do fifty push-ups  and do a hundred sit ups  /'],c and then  i do fifty pushups  and do a hundred sit ups  ,sd,MALE,1
+"['{c and, } {f uh, } then i do about, {f uh, } -/']",c and  f uh  then i do about f uh  ,sd,MALE,1
+"['my goodness,  /']",my goodness  ,ba,MALE,6
+['you do all of this in fifteen minutes? /'],you do all of this in fifteen minutes ,qy,MALE,7
+"['{f oh, } yeah,  /']",f oh  yeah  ,ny,MALE,9
+"['{f oh, } yeah.  /']",f oh  yeah  ,ny,MALE,9
+"['{c and then, } {f uh, } thirty, {f uh, } - /']",c and then  f uh  thirty f uh   ,sd,MALE,1
+"[""{d now } if you did football,  {d like } the old grass drills where you're  on your stomach and you -- -/""]",d now  if you did football  d like  the old grass drills where youre  on your stomach and you  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {d you know, } prone type things,  where you're kind of rocking on your stomach type thing,  /""]", d you know  prone type things  where youre kind of rocking on your stomach type thing  ,sd,MALE,1
+"['{c and } that takes [ [ about, + really about, ] +   maybe about ] thirteen minutes, {f uh } --']",c and  that takes   about  really about     maybe about  thirteen minutes f uh  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- in the morning. /'], in the morning ,+,MALE,0
+"['{d now } [ what, + what ] keeps you doing that.  /']",d now   what  what  keeps you doing that  ,qw,MALE,12
+"['{e i mean, } [ i, + i ] sometimes start [ [ little, +  much less, ] + much more ] modest efforts,  /']",e i mean   i  i  sometimes start   little   much less   much more  modest efforts  ,sd,MALE,1
+"['{c but } i give up,  /']",c but  i give up  ,sd,MALE,1
+['i just find them boring.  /'],i just find them boring  ,sd,MALE,1
+['hard to --'],hard to ,sd,MALE,1
+"['{d well, } {f uh, } -/']",d well  f uh  ,%,MALE,5
+['-- find the time for it on a given day  /'], find the time for it on a given day  ,+,MALE,0
+"['{c and, } -/']",c and  ,%,MALE,5
+"['years ago i used to, {f uh, } referee football -- /']",years ago i used to f uh  referee football  ,sd,MALE,1
+['yes. /'],yes ,b,MALE,2
+"['-- {c and, } {f uh, } to stay in condition,  i did that, {f uh, } just as a normal --']", c and  f uh  to stay in condition  i did that f uh  just as a normal ,sd,MALE,1
+['# yes. # /'], yes  ,b,MALE,2
+"['-- # basis, #  /']",  basis   ,+,MALE,0
+"['{c and, } {f uh, } {f uh, }  i tell you just by doing it, {f uh, } - /']",c and  f uh  f uh   i tell you just by doing it f uh   ,sd,MALE,1
+"['{d well, } example, this summer [ i, +  i ] was about fifteen  pounds heavier than i wanted to be  /']",d well  example this summer  i   i  was about fifteen  pounds heavier than i wanted to be  ,sd,MALE,1
+"['{c so } [ i, +  i ] increased,  /']",c so   i   i  increased  ,sd,MALE,1
+"['i do three hundred sit ups a  day now, but not [ at that, +  in the ] morning,  /']",i do three hundred sit ups a  day now but not  at that   in the  morning  ,sd,MALE,1
+['i do a hundred then  /'],i do a hundred then  ,sd,MALE,1
+['{c and then } i  do about a hundred before supper and  about a hundred before i go to bed. /'],c and then  i  do about a hundred before supper and  about a hundred before i go to bed ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['i lost fifteen pounds just by doing that  because you tighten your stomach muscles -- /'],i lost fifteen pounds just by doing that  because you tighten your stomach muscles  ,sd,MALE,1
+['yes. /'],yes ,b,MALE,2
+"['-- {c and, } {d you know, } you can  eat anything you want, drink anything you want,  /']", c and  d you know  you can  eat anything you want drink anything you want  ,sv,MALE,3
+"[""{c but } you don't, {d you know, }  /""]",c but  you dont d you know   ,%,MALE,5
+"['within reason,  {d you know, } you can lose weight or  maintain your weight --']",within reason  d you know  you can lose weight or  maintain your weight ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- and your physical being -- /'], and your physical being  ,+,MALE,0
+['yep. /'],yep ,b,MALE,2
+"['-- {c and, } {f uh, } i just,  {d you know, } - /']", c and  f uh  i just  d you know   ,%,MALE,5
+"[""you're ready to go at a, - /""]",youre ready to go at a  ,sv,MALE,3
+"[""[ [ i, +  i, ] + i ] think it's really important. /""]",  i   i   i  think its really important ,sv,MALE,3
+"['{d well, } [ [ i, +  i, ] + whenever i ]  do it, i feel [ good. +']",d well    i   i   whenever i   do it i feel  good ,sd,MALE,1
+['good. /'],good ,ba,MALE,6
+"[""{e i mean } good ] that i have done,  good because [ it's, +  it seems ] right and good because it has good effects. /""]",e i mean  good  that i have done  good because  its   it seems  right and good because it has good effects ,+,MALE,0
+['<laughter>.'],laughter,x,MALE,8
+"[""[ {c but, } + {c but } ] it's this  maintaining [ a, +  a ] regular habit that i just can't --""]", c but   c but   its this  maintaining  a   a  regular habit that i just cant ,sd,MALE,1
+"[""{d well, } that's why --""]",d well  thats why ,sv,MALE,3
+['-- seem to do. /'], seem to do ,+,MALE,0
+"['-- chuck, i think, {f uh, }  if you did it on a daily basis --']", chuck i think f uh   if you did it on a daily basis ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""-- and you didn't need elaborate things, {d you know, } where you can make excuses like, - /""]", and you didnt need elaborate things d you know  where you can make excuses like  ,+,MALE,0
+"['{d well, } [ i, + i ] like biking  /']",d well   i  i  like biking  ,sd,MALE,1
+"[""{c and } during the summer, i'll do, {d you know, } at least seventy-five miles a week --""]",c and  during the summer ill do d you know  at least seventyfive miles a week ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- and when i really was doing  it maybe a hundred and fifty,  /']", and when i really was doing  it maybe a hundred and fifty  ,+,MALE,0
+['{c but } --'],c but  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- you can't, {d you know, }  /""]", you cant d you know   ,+,MALE,0
+"[""there's excuses, weather -- /""]",theres excuses weather  ,sd,MALE,1
+['yep. /'],yep ,b,MALE,2
+"[""-- {c or } you don't have time or something like  that.  /""]", c or  you dont have time or something like  that  ,sv,MALE,3
+"[""{c but } if you do some basic exercises and you say every morning, just  like brushing your teeth you're going to spend fifteen minutes or a half hour.""]",c but  if you do some basic exercises and you say every morning just  like brushing your teeth youre going to spend fifteen minutes or a half hour,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['and you get up a half hour earlier -- -/'],and you get up a half hour earlier  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } once you start getting into  that, [ one, + you ] just feel good -- /']", c and  once you start getting into  that  one  you  just feel good  ,sv,MALE,3
+['yes. /'],yes ,b,MALE,2
+['-- {c and } you look a whole lot better. /'], c and  you look a whole lot better ,sv,MALE,3
+['yes.  /'],yes  ,b,MALE,2
+"['[ [ do you, + do you ] + does your wife ]  participate in any of this  /']",  do you  do you   does your wife   participate in any of this  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"['unfortunately not,  /']",unfortunately not  ,ng,MALE,29
+"[""{c and } there's no way i can get her to. /""]",c and  theres no way i can get her to ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ it's a, +  {d like } it's ] something you  either just really want to do it  /""]", its a   d like  its  something you  either just really want to do it  ,sv,MALE,3
+"[""{c or }  <laughter> you can't talk anyone into it.  /""]",c or   laughter you cant talk anyone into it  ,sv,MALE,3
+"[""if you don't like to exercise, {d you know, } it isn't going to happen. /""]",if you dont like to exercise d you know  it isnt going to happen ,sv,MALE,3
+"['yes,  /']",yes  ,aa,MALE,4
+['yes. /'],yes ,aa,MALE,4
+"['[ i, +  i ] sure wish she would.  /']", i   i  sure wish she would  ,sd,MALE,1
+"[""she's, {d you know, } unfortunately overweight,  /""]",shes d you know  unfortunately overweight  ,sd,MALE,1
+"[""[ {c and, } +  {c but } ] she's a wonderful woman  /""]", c and    c but   shes a wonderful woman  ,sd,MALE,1
+['{c and } --'],c and  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {d you know, } no sense getting in  arguments with anybody, about it. /']", d you know  no sense getting in  arguments with anybody about it ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"['{d well } [ [ i, + i, ] +   {f uh, } i ] keep saying if somebody else would do it with me, [ i, + ] [ that would be, +  little bit of peer  pressure would help ] considerably. /']",d well    i  i     f uh  i  keep saying if somebody else would do it with me  i    that would be   little bit of peer  pressure would help  considerably ,sd,MALE,1
+"['{d well, } -/']",d well  ,%,MALE,5
+"['{c but } you seemed to have [ s-, + solved ]  that problem without [ any, + any ] external --']",c but  you seemed to have  s  solved   that problem without  any  any  external ,sv,MALE,3
+['no problem at all. /'],no problem at all ,aa,MALE,4
+['-- help. /'], help ,+,MALE,0
+"['{c and, } {f uh, } if you get one of these mats.']",c and  f uh  if you get one of these mats,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d you know, } go to a store,  they normally have these exercise, things, these a b c -s of physical fitness on them.  /']",d you know  go to a store  they normally have these exercise things these a b c s of physical fitness on them  ,+,MALE,0
+['one of my kids got me one of those for christmas one year  /'],one of my kids got me one of those for christmas one year  ,sd,MALE,1
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+"[""[ [ [ [ what, +  what, ] + what, ] +  what's   on, + what's ] this mat, {e i mean, } /""]",    what   what   what    whats   on  whats  this mat e i mean  ,qw,MALE,12
+"[""[ [ it, +  it, ] +  it's ]  just an exercise mat that rolls up  /""]",  it   it    its   just an exercise mat that rolls up  ,sd,MALE,1
+"['{c  so } you can put it up, {d you know, } just in the corner. /']",c  so  you can put it up d you know  just in the corner ,sd,MALE,1
+['is it like the sort of thing  you take on a camping trip --'],is it like the sort of thing  you take on a camping trip ,qy,MALE,7
+"['# {d well, } yeah,  /']", d well  yeah  ,ny,MALE,9
+['you can do that. # /'],you can do that  ,sd,MALE,1
+['-- # and sleep on it. #  /'],  and sleep on it   ,+,MALE,0
+"[""# {e i mean, }  [ it's that, +  it's that ] kind of like # --""]", e i mean    its that   its that  kind of like  ,qy^d,MALE,16
+"[""# [ {c but, } + {c but } ] it doesn't, # -/""]",  c but   c but   it doesnt  ,sd,MALE,1
+['-- half inch of foam or something. /'], half inch of foam or something ,+,MALE,0
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""it's a foam thing,  /""]",its a foam thing  ,sd,MALE,1
+['# yeah. # /'], yeah  ,ny,MALE,9
+['# yeah. # /'], yeah  ,b^m,MALE,24
+"['yeah,  /']",yeah  ,b^m,MALE,24
+"[""{c and } [ it's, +  it's ]  just about six feet long, rolls up -- /""]",c and   its   its   just about six feet long rolls up  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- {c and } i don't take it on trips with me.  /""]", c and  i dont take it on trips with me  ,sd,MALE,1
+"['[ i, +  you ] could,  /']", i   you  could  ,sv,MALE,3
+"[""{c but, } {f uh, } i don't mind, {f uh, } {d you know, }  /""]",c but  f uh  i dont mind f uh  d you know   ,%,MALE,5
+"[""if i do  {d like } sit ups, i'll throw [ a, +  a ] towel down or  something.""]",if i do  d like  sit ups ill throw  a   a  towel down or  something,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d you know, }  /']",d you know   ,+,MALE,0
+"[""{c so } you don't have the abrasive, -/""]",c so  you dont have the abrasive ,sd,MALE,1

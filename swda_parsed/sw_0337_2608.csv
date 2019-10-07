@@ -1,0 +1,370 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay. /'],okay ,"fo_o_fw_""_by_bc",FEMALE,0
+['do you want to go first? /'],do you want to go first ,qy,FEMALE,7
+"['you can go first,  /']",you can go first  ,oo_co_cc,FEMALE,36
+['{c or } i will. /'],c or  i will ,oo_co_cc,FEMALE,36
+"['{d well, } you go ahead. /']",d well  you go ahead ,ad,FEMALE,22
+['okay.  /'],okay  ,aa,FEMALE,4
+"[""{d well, } i'm going to tell you what i'd have <laughter>. /""]",d well  im going to tell you what id have laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['down in the south, we have a lot of shrimp,']",down in the south we have a lot of shrimp,sd,FEMALE,1
+"['# oh, # /']", oh  ,b,FEMALE,2
+['# okay? # /'], okay  ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } i have, {f uh, } shrimp that is steamed in beer, that --']",c and  i have f uh  shrimp that is steamed in beer that ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+['-- i cook. /'], i cook ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and then } i have a cauliflower that i would  cook, garlic bread, green salad, tea,  /']",c and then  i have a cauliflower that i would  cook garlic bread green salad tea  ,sd,FEMALE,1
+"[""{c and } we'd have a lemon pie for dessert. /""]",c and  wed have a lemon pie for dessert ,sd,FEMALE,1
+"['{f oh, } it sounds fantastic. /']",f oh  it sounds fantastic ,ba,FEMALE,6
+['yes.  /'],yes  ,aa,FEMALE,4
+"[""{c and } what's really neat about it is,  the shrimp is cooked in [ [ your, + {f uh, } {d like }  your ]  rice steamer, +""]",c and  whats really neat about it is  the shrimp is cooked in   your  f uh  d like   your   rice steamer ,sd,FEMALE,1
+"['# {f oh, } yeah. # /']", f oh  yeah  ,b,FEMALE,2
+['# your rice # cooker.  ] /'], your rice  cooker   ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, }  {f um, } you place the shrimp [ in the, + in the ]  rice steamer,  /']",c and   f um  you place the shrimp  in the  in the   rice steamer  ,ad,FEMALE,22
+"['{c and } you put a bay leaf and put some, {f uh, } red pepper over it. /']",c and  you put a bay leaf and put some f uh  red pepper over it ,ad,FEMALE,22
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['now, you can {c either } use, {d you know, } the kind  that comes in the little can  /']",now you can c either  use d you know  the kind  that comes in the little can  ,ad,FEMALE,22
+"['{c or } you can just get some, {d you know, } regular red peppers. /']",c or  you can just get some d you know  regular red peppers ,ad,FEMALE,22
+"['is it cayenne pepper, you mean? /']",is it cayenne pepper you mean ,qy,FEMALE,7
+['cayenne? /'],cayenne ,qy,FEMALE,7
+['yes. /'],yes ,ny,FEMALE,9
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['uh-huh. /'],uhhuh ,b^m,FEMALE,24
+['{c and } you put a little bit of that over it.  /'],c and  you put a little bit of that over it  ,ad,FEMALE,22
+['now if you  use the dried kind?'],now if you  use the dried kind,ad,FEMALE,22
+['yes. /'],yes ,b,FEMALE,2
+['then you would only use two of them.  /'],then you would only use two of them  ,+,FEMALE,0
+"['{c and } you put  that in there,  /']",c and  you put  that in there  ,ad,FEMALE,22
+['{c and then } you pour two bottles of beer over it. /'],c and then  you pour two bottles of beer over it ,ad,FEMALE,22
+['{c and } how much shrimp would you use? /'],c and  how much shrimp would you use ,qw,FEMALE,12
+['two pounds. /'],two pounds ,sd,FEMALE,1
+"['two pounds,  /']",two pounds  ,b^m,FEMALE,24
+['okay. /'],okay ,bk,FEMALE,14
+"[""that's the jumbo shrimp in the shells. /""]",thats the jumbo shrimp in the shells ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"[""leave the shells on them so they won't just roll up. /""]",leave the shells on them so they wont just roll up ,ad,FEMALE,22
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } you pour the beer over the top of it,  /']",c and  you pour the beer over the top of it  ,ad,FEMALE,22
+['{c and } you cover it. /'],c and  you cover it ,ad,FEMALE,22
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } you only cook it until the mixture begins to boil,']",c and  you only cook it until the mixture begins to boil,ad,FEMALE,22
+['# okay. # /'], okay  ,aa,FEMALE,4
+['# and # the shrimp turn pink. /'], and  the shrimp turn pink ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['then you remove it,  /']",then you remove it  ,ad,FEMALE,22
+['{c and } you put it on a platter.  /'],c and  you put it on a platter  ,ad,FEMALE,22
+['{c and then } you serve it with melted butter.  /'],c and then  you serve it with melted butter  ,ad,FEMALE,22
+"['{c and, }  {f uh, } i usually put  garlic powder in mine. /']",c and   f uh  i usually put  garlic powder in mine ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['{c and } they can just dip it,  /']",c and  they can just dip it  ,sd,FEMALE,1
+['{c and } they  shell it as they eat it. /'],c and  they  shell it as they eat it ,sd,FEMALE,1
+['sure. /'],sure ,b,FEMALE,2
+"['{c but, }  {f uh, } then [ the mi-, +  {f uh, }  the cauliflower, ] you,']",c but   f uh  then  the mi   f uh   the cauliflower  you,ad,FEMALE,22
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['# cook # that in the microwave.  /'], cook  that in the microwave  ,+,FEMALE,0
+"['{c and } what  you do is, you just, {f uh, } wash it,  /']",c and  what  you do is you just f uh  wash it  ,ad,FEMALE,22
+['{c and } you core it.'],c and  you core it,ad,FEMALE,22
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ and + ] in [ a +  {d like } a, ] {f oh, }  {a what do you call it? }  {d like } pyrex or something like  that, kind --']", and   in  a   d like  a  f oh   a what do you call it   d like  pyrex or something like  that kind ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- of bowl that would go in the microwave. /'], of bowl that would go in the microwave ,+,FEMALE,0
+['a glass dish. /'],a glass dish ,qy^d,FEMALE,16
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['uh-huh. /'],uhhuh ,b^m,FEMALE,24
+"[""{c but } it's got to have one that has a cover on it. /""]",c but  its got to have one that has a cover on it ,sd,FEMALE,1
+"['okay,  /']",okay  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } you, {f uh, } put about two tablespoons  of, {f uh, } water into this bowl, and  about an eighth a teaspoon of salt. /']",c and  you f uh  put about two tablespoons  of f uh  water into this bowl and  about an eighth a teaspoon of salt ,ad,FEMALE,22
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and then } you just set your cauliflower in there, /']",c and then  you just set your cauliflower in there ,ad,FEMALE,22
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['# {c and # then } you cook it for seven  minutes on high.  /'], c and  then  you cook it for seven  minutes on high  ,ad,FEMALE,22
+['{c and } you rotate it one time. /'],c and  you rotate it one time ,ad,FEMALE,22
+"[""{c and } [ it's, +  are you ] cooking the whole head --""]",c and   its   are you  cooking the whole head ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['-- at one time? /'], at one time ,+,FEMALE,0
+"['[ y-, +']", y ,ad,FEMALE,22
+['okay. /'],okay ,bk,FEMALE,14
+"[""{f uh, } when you ] core it, you be real  careful so you won't knock your flowers off. /""]",f uh  when you  core it you be real  careful so you wont knock your flowers off ,+,FEMALE,0
+['i see. /'],i see ,aa,FEMALE,4
+"['{c and, }  {f uh, } you just set it in there,  /']",c and   f uh  you just set it in there  ,ad,FEMALE,22
+"['{c and } you microwave it on high for seven minutes,  /']",c and  you microwave it on high for seven minutes  ,ad,FEMALE,22
+['{c and } you turn it one time. /'],c and  you turn it one time ,ad,FEMALE,22
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } while that's cooking,  i take [ mayonnaise, +  about a cup of mayonnaise, ] and  a teaspoon of mustard, and some garlic powder,  /""]",c and  while thats cooking  i take  mayonnaise   about a cup of mayonnaise  and  a teaspoon of mustard and some garlic powder  ,sd,FEMALE,1
+['{c and } i mix  it all together.  /'],c and  i mix  it all together  ,sd,FEMALE,1
+['{c and } i shred up some just regular white cheese. /'],c and  i shred up some just regular white cheese ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } after that's cooked, you  take it out and pour this on top of it,  /""]",c and  after thats cooked you  take it out and pour this on top of it  ,ad,FEMALE,22
+['{c and then } you sprinkle the cheese on top of that.  /'],c and then  you sprinkle the cheese on top of that  ,ad,FEMALE,22
+"['{c and } you cook it for another three minutes on high, {d you know, }']",c and  you cook it for another three minutes on high d you know ,ad,FEMALE,22
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# just # mainly to melt the cheese and everything, and let all  the seasoning melt into it.  /']", just  mainly to melt the cheese and everything and let all  the seasoning melt into it  ,+,FEMALE,0
+"['{c and, }']",c and ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""# it's # done. /""]", its  done ,+,FEMALE,0
+"['{f oh, } that sounds fantastic. /']",f oh  that sounds fantastic ,ba,FEMALE,6
+['it is good. /'],it is good ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c but } [ it, + it ] looks, - /']",c but   it  it  looks  ,%,FEMALE,5
+"[""{e i mean, }  [ what you can do then, see is, + {d like } what i usually do is, ] i'll {d like } sit the cauliflower in the middle,  /""]",e i mean    what you can do then see is  d like  what i usually do is  ill d like  sit the cauliflower in the middle  ,sd,FEMALE,1
+"['{c and then } i put the, {f uh, } shrimp around the outside of it,']",c and then  i put the f uh  shrimp around the outside of it,sd,FEMALE,1
+"['# {f um, } {f um. } # /']", f um  f um   ,b,FEMALE,2
+"['# {d you know, } # on my platter. /']", d you know   on my platter ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and then } i have a green salad that i put around  the outside of that.  /'],c and then  i have a green salad that i put around  the outside of that  ,sd,FEMALE,1
+"['{c and, } {d you know, } you have all the different seasonings and stuff,  /']",c and  d you know  you have all the different seasonings and stuff  ,sd,FEMALE,1
+['{c and then } i just fix little individual cups for them.  /'],c and then  i just fix little individual cups for them  ,sd,FEMALE,1
+"['{c and } they have the,']",c and  they have the,sd,FEMALE,1
+['# sure. # /'], sure  ,b,FEMALE,2
+"['# garlic # bread,  /']", garlic  bread  ,+,FEMALE,0
+"['{c and } it makes it a real nice looking,']",c and  it makes it a real nice looking,sd,FEMALE,1
+"[""# {c and } it's # --""]", c and  its  ,sv,FEMALE,3
+['# {d you know. } # /'], d you know   ,+,FEMALE,0
+['-- not much work. /'], not much work ,+,FEMALE,0
+"['huh-uh,  /']",huhuh  ,aa,FEMALE,4
+['huh-uh.  /'],huhuh  ,aa,FEMALE,4
+['{c but } it --'],c but  it ,sv,FEMALE,3
+"['that sounds, -/']",that sounds ,%,FEMALE,5
+"['-- looks like it, {d you know } <laughter>. /']", looks like it d you know  laughter ,+,FEMALE,0
+"['<laughter>  yeah,  /']",laughter  yeah  ,aa,FEMALE,4
+"['real-, -/']",real ,%,FEMALE,5
+"['you look like you went to a whole bunch, -/']",you look like you went to a whole bunch ,sd,FEMALE,1
+['i bet it tastes good too. /'],i bet it tastes good too ,qy^d,FEMALE,16
+['right.  /'],right  ,na,FEMALE,21
+"['{c and, }  {f uh, } usually i cut those little  cherry tomatoes up,']",c and   f uh  usually i cut those little  cherry tomatoes up,sd,FEMALE,1
+"['# {f oh, } yeah. # /']", f oh  yeah  ,b,FEMALE,2
+"['# and put # some color into it, {d you know, }  /']", and put  some color into it d you know   ,+,FEMALE,0
+"[""{c and } i'll lay those on top of my salad, {d you know, } to make it look nice and things like that. /""]",c and  ill lay those on top of my salad d you know  to make it look nice and things like that ,sd,FEMALE,1
+"['{d now, } how many could you serve? /']",d now  how many could you serve ,qw,FEMALE,12
+['okay.  /'],okay  ,^h,FEMALE,27
+"['{f uh, } it usually serves six. /']",f uh  it usually serves six ,sd,FEMALE,1
+['yeah.  /'],yeah  ,bk,FEMALE,14
+"['[ o-, + okay. ]  /']", o  okay   ,bk,FEMALE,14
+['i figured about that. /'],i figured about that ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{f oh, } that's good.  /""]",f oh  thats good  ,ba,FEMALE,6
+"['see out here, we  have so many, {f uh, } ethnic people.  /']",see out here we  have so many f uh  ethnic people  ,sd,FEMALE,1
+"['we have italians,  /']",we have italians  ,sd,FEMALE,1
+"['{c and } we have portuguese,  /']",c and  we have portuguese  ,sd,FEMALE,1
+['{c and } we have  russians and polish.  /'],c and  we have  russians and polish  ,sd,FEMALE,1
+"[""{c and } it depends, out here, {d like } the type of people you're going  to entertain, {d you know? } /""]",c and  it depends out here d like  the type of people youre going  to entertain d you know  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so } it's hard, {f uh, }  /""]",c so  its hard f uh   ,sv,FEMALE,3
+"[""[ you, + you ] just have to  pick something, for [ the, + the ] group that you're going to entertain for that particular time. /""]", you  you  just have to  pick something for  the  the  group that youre going to entertain for that particular time ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and, }  {f uh, } they're big on finger  food here, too.  {d you know, } chicken wings and, {f uh, } ribs, and that kind of stuff.""]",c and   f uh  theyre big on finger  food here too  d you know  chicken wings and f uh  ribs and that kind of stuff,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{f uh, } barbecue and, {f uh, } cooking out in the yard,  [ it, ya-, + ] {d you know, } when it's nice.  barbecue outside, chicken and that kind of stuff. /""]",f uh  barbecue and f uh  cooking out in the yard   it ya   d you know  when its nice  barbecue outside chicken and that kind of stuff ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+['have you ever had crawfish? /'],have you ever had crawfish ,qy,FEMALE,7
+"['{f uh, } no,  /']",f uh  no  ,nn,FEMALE,13
+['{c but } i have had shrimp. /'],c but  i have had shrimp ,sd,FEMALE,1
+['{f oh. } you ought to try some crawfish.  /'],f oh  you ought to try some crawfish  ,ad,FEMALE,22
+['they are good.  /'],they are good  ,sd,FEMALE,1
+"[""{c but } {d see, } that's one good thing about living down here is, usually anybody that comes  over, {d you know, } even if it's like, out of town guests  and stuff, they want our cooking. /""]",c but  d see  thats one good thing about living down here is usually anybody that comes  over d you know  even if its like out of town guests  and stuff they want our cooking ,sv,FEMALE,3
+"['{f oh, } of course. /']",f oh  of course ,ba,FEMALE,6
+"['{d you know, }']",d you know ,sv,FEMALE,3
+"[""# that's, # -/""]", thats  ,%,FEMALE,5
+['# they # want it from down here. /'], they  want it from down here ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c because, } just like now, especially crawfish, it is  starting to move out, {d you know, }  /']",c because  just like now especially crawfish it is  starting to move out d you know   ,sv,FEMALE,3
+['{c and } more and more people are beginning  to find out how good it is. /'],c and  more and more people are beginning  to find out how good it is ,sv,FEMALE,3
+['really? /'],really ,bh,FEMALE,18
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['is it like shrimp? /'],is it like shrimp ,qy,FEMALE,7
+"[""{f uh, } it's similar.  /""]",f uh  its similar  ,na,FEMALE,21
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"[""it's similar. /""]",its similar ,b^m,FEMALE,24
+['yeah.  /'],yeah  ,ny,FEMALE,9
+"[""it's not --""]",its not ,sd,FEMALE,1
+"['ch-, -/']",ch ,%,FEMALE,5
+['-- exactly.  /'], exactly  ,+,FEMALE,0
+"[""{e i mean, } it's got a taste of its  own, {d you know, }  /""]",e i mean  its got a taste of its  own d you know   ,sd,FEMALE,1
+"['{c but } [ it is, +']",c but   it is ,sd,FEMALE,1
+"['# {f oh, } it does? # /']", f oh  it does  ,bh,FEMALE,18
+"['# it is ] similar # to, because  you only eat the,']", it is  similar  to because  you only eat the,+,FEMALE,0
+"['# does, #']", does ,qy,FEMALE,7
+['# tails # of it. /'], tails  of it ,+,FEMALE,0
+['it look like a lobster? /'],it look like a lobster ,+,FEMALE,0
+"['{f um, } it looks more like a crab. /']",f um  it looks more like a crab ,ng,FEMALE,29
+"['{f oh, } it looks more like a crab. /']",f oh  it looks more like a crab ,bk,FEMALE,14
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['oh. /'],oh ,bk,FEMALE,14
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['are they thin, long --']",are they thin long ,qy,FEMALE,7
+['no. /'],no ,nn,FEMALE,13
+['-- or wide? /'], or wide ,+,FEMALE,0
+"[""{f um, } [ let me think of, + <sigh>  i can't even think of ] what you, - /""]",f um   let me think of  sigh  i cant even think of  what you  ,^h,FEMALE,27
+"['i guess [ if, + ] [ it, + {f uh, } it ] looks [ like, + more like ] a cross  between, {f uh, } a crab [ and, +  {f uh, } and ] a lobster. /']",i guess  if    it  f uh  it  looks  like  more like  a cross  between f uh  a crab  and   f uh  and  a lobster ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c because } it's small like that  /""]",c because  its small like that  ,sd,FEMALE,1
+"[""{c and } it's got  the pinchers like a crab.  /""]",c and  its got  the pinchers like a crab  ,sd,FEMALE,1
+"['{c but, }']",c but ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""# {d you # know, } [ it's, + it's ] similar to a  lobster too, because the tail has got the little pleats in it, like a,""]", d you  know   its  its  similar to a  lobster too because the tail has got the little pleats in it like a,+,FEMALE,0
+"['# {f oh, } yeah. # /']", f oh  yeah  ,b,FEMALE,2
+['# lobster would. # /'], lobster would  ,+,FEMALE,0
+['yep. /'],yep ,b,FEMALE,2
+['{c and } we call them mud bugs <laughter>. /'],c and  we call them mud bugs laughter ,sd,FEMALE,1
+['<laughter>  oh <laughter>. /'],laughter  oh laughter ,b,FEMALE,2
+"[""{c but, }  {e i mean, } they're fantastic tasting.  /""]",c but   e i mean  theyre fantastic tasting  ,sd,FEMALE,1
+['they are so good.  /'],they are so good  ,sd,FEMALE,1
+"['everybody, - /']",everybody  ,%,FEMALE,5
+"[""[ it's, + it's ] the season for them right now. /""]", its  its  the season for them right now ,sd,FEMALE,1
+"['[ {c and, } + {c and } ] where did you say you were from? /']", c and   c and   where did you say you were from ,qw,FEMALE,12
+['louisiana. /'],louisiana ,sd,FEMALE,1
+['louisiana.  /'],louisiana  ,b^m,FEMALE,24
+"['{f oh, } {d well, } do you do cajun cooking? /']",f oh  d well  do you do cajun cooking ,qy,FEMALE,7
+"['{f oh, } yeah. /']",f oh  yeah ,ny,FEMALE,9
+"['{f oh, } i love, {f uh, } blackened, {d you know, }  {f uh, } [ the, + the ] fish and the chicken and  that kind of stuff. /']",f oh  i love f uh  blackened d you know   f uh   the  the  fish and the chicken and  that kind of stuff ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{f oh! } we have a few places up here that do that. /'],f oh  we have a few places up here that do that ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } if ever i see it on the menu, i always get it. /']",c and  if ever i see it on the menu i always get it ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+['it is so good <laughter>. /'],it is so good laughter ,sv,FEMALE,3
+"['{d you know, } /']",d you know  ,b,FEMALE,2
+['{d now } how do they do the blackened? /'],d now  how do they do the blackened ,qw,FEMALE,12
+"['[ you buy it, + you buy it ] as a seasoning. /']", you buy it  you buy it  as a seasoning ,ad,FEMALE,22
+"['{c but, }  {f uh, } do you have to have a certain skillet,']",c but   f uh  do you have to have a certain skillet,qy,FEMALE,7
+['# huh-uh. # /'], huhuh  ,b,FEMALE,2
+['# or # something? /'], or  something ,+,FEMALE,0
+['huh-uh. /'],huhuh ,nn,FEMALE,13
+['no? /'],no ,bh,FEMALE,18
+"['i cook mine,  {d well, } do you have [ a, +  {f uh, } {d like } a ] black iron skillet? /']",i cook mine  d well  do you have  a   f uh  d like  a  black iron skillet ,qy,FEMALE,7
+['i did have.  /'],i did have  ,ng,FEMALE,29
+"[""i don't have it now.  /""]",i dont have it now  ,sd,FEMALE,1
+['{c but } i have mostly teflon. /'],c but  i have mostly teflon ,sd,FEMALE,1
+"['{f oh, } okay.  /']",f oh  okay  ,bk,FEMALE,14
+"['{d well, }']",d well ,sv,FEMALE,3
+"['# you now, - /']", you now  ,%,FEMALE,5
+"['{c but, }  # -/']",c but    ,%,FEMALE,5
+"['# i guess you # could cook it [ in, + in ] that too,  /']", i guess you  could cook it  in  in  that too  ,+,FEMALE,0
+"[""{c but } i don't know.  /""]",c but  i dont know  ,h,FEMALE,15
+"['{d you know, } i never have.  /']",d you know  i never have  ,sd,FEMALE,1
+"['i use, {f uh, } {f uh, } the black iron  skillet to cook mine. /']",i use f uh  f uh  the black iron  skillet to cook mine ,sd,FEMALE,1
+"['[ do-, + does ] it have to get extremely hot? /']", do  does  it have to get extremely hot ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but } [ [ it really, +  it's ] not, + [ [ it, + it, ] + it ]  doesn't ] burn or anything like that.  /""]",c but    it really   its  not    it  it   it   doesnt  burn or anything like that  ,sd,FEMALE,1
+['the blackening is really the seasoning. /'],the blackening is really the seasoning ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{e i mean, } [ there is, +']",e i mean   there is ,sd,FEMALE,1
+"['# {f oh, } {f oh, } #']", f oh  f oh  ,b,FEMALE,2
+"[""# [ it's, + it's, ] # ]""]",  its  its   ,+,FEMALE,0
+['i see. /'],i see ,+,FEMALE,0
+['a blackening seasoning. /'],a blackening seasoning ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, } {e i mean, } that is a seasoning.  /']",d you know  e i mean  that is a seasoning  ,sd,FEMALE,1
+"[""[ that's really, +  it's ] not like you would have to cook it for an extreme amount of time, or something  like that, to get it, /""]", thats really   its  not like you would have to cook it for an extreme amount of time or something  like that to get it ,sd,FEMALE,1
+"['{f oh, } i see. /']",f oh  i see ,b,FEMALE,2
+"[""{c because, } [ it's called, + {f uh, } what it's called ]  is, blackening magic.  /""]",c because   its called  f uh  what its called   is blackening magic  ,sd,FEMALE,1
+"['{c and } it, it comes in a bottle,  /']",c and  it it comes in a bottle  ,sd,FEMALE,1
+"['{c and, }  {f uh, }']",c and   f uh ,^h,FEMALE,27
+['oh. /'],oh ,b,FEMALE,2
+"[""{d well, } i'm trying to see.  /""]",d well  im trying to see  ,+,FEMALE,0
+"[""it's got [ a, + a ]  picture of dom de luise on it. /""]",its got  a  a   picture of dom de luise on it ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['oh.  /'],oh  ,bk,FEMALE,14
+"['{d now } [ would, + you would ] cook it for the  same amount of time as you would, prepare it any other time? /']",d now   would  you would  cook it for the  same amount of time as you would prepare it any other time ,qy,FEMALE,7
+['right. /'],right ,na,FEMALE,21
+"[""is that what you're saying? /""]",is that what youre saying ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{f oh, } uh-huh.  /']",f oh  uhhuh  ,b^m,FEMALE,24
+"['{c because, }']",c because ,sd,FEMALE,1
+"['# {c but, }  # -/']", c but    ,%,FEMALE,5
+"['# i # could have the, {f uh, } chicken on the skewers,  with, {f uh, } {f uh, } blackened seasoning. /']", i  could have the f uh  chicken on the skewers  with f uh  f uh  blackened seasoning ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, }  {f oh, } that is so good. delicious. /']",c and   f oh  that is so good delicious ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['{c but } [ you do have to have it, +  {d you know, } you do have to have it ] hot when you cook it.  {e i mean, }']",c but   you do have to have it   d you know  you do have to have it  hot when you cook it  e i mean ,ad,FEMALE,22
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['# your # pan. /'], your  pan ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['it does have to be really hot, {d you know, } when you  put it in.  /']",it does have to be really hot d you know  when you  put it in  ,sd,FEMALE,1
+"[""{c but } it's not like it's burned,  /""]",c but  its not like its burned  ,sd,FEMALE,1
+"['{c and } [ it, + ] [ what it, + what blackens it, ]  is the seasoning. /']",c and   it    what it  what blackens it   is the seasoning ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['{c and } it is so good.  /'],c and  it is so good  ,sv,FEMALE,3
+['oh! <laughter>. /'],oh laughter ,ba,FEMALE,6
+['it is.  /'],it is  ,aa,FEMALE,4
+"['[ i, + i ] love it. /']", i  i  love it ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ [ i, + i, ] +  in fact i ] was in texas for a little while. /']",  i  i    in fact i  was in texas for a little while ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } i liked, {f uh, } the barbecues  and the mexican food. /']",c and  i liked f uh  the barbecues  and the mexican food ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['i have a passion for all that type of different tastes.  /'],i have a passion for all that type of different tastes  ,sd,FEMALE,1
+['{c because } i have been brought up mostly italian american food.  /'],c because  i have been brought up mostly italian american food  ,sd,FEMALE,1
+"['{c because }  my, {f uh, } parents are italian and portuguese.  /']",c because   my f uh  parents are italian and portuguese  ,sd,FEMALE,1
+"['{c so } we cook a lot of pasta,  and, {f uh, } gravies, and  pizzas, and, {d you know, } roasts, and that kind of thing. /']",c so  we cook a lot of pasta  and f uh  gravies and  pizzas and d you know  roasts and that kind of thing ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""that's why i enjoy going to restaurants and [ have, +   {d you know, } trying ] different things. /""]",thats why i enjoy going to restaurants and  have    d you know  trying  different things ,sd,FEMALE,1
+"['{d well, } have you ever thought about coming to  louisiana, {d you know, } to visit? /']",d well  have you ever thought about coming to  louisiana d you know  to visit ,qy,FEMALE,7
+['i would love to. /'],i would love to ,no,FEMALE,31
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['you ought,']",you ought,ad,FEMALE,22
+"['# i, # -/']", i  ,%,FEMALE,5
+['# to # come down.  /'], to  come down  ,+,FEMALE,0
+"[""{f um, } you don't even have to  go all the way to new orleans, {d you know, } if you want to really get some good food. /""]",f um  you dont even have to  go all the way to new orleans d you know  if you want to really get some good food ,sv,FEMALE,3
+['really? /'],really ,bh,FEMALE,18
+"[""{e i mean, } you don't have to go that far south. /""]",e i mean  you dont have to go that far south ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c but, }  {f uh, } of course, the  further south you go, the better the food is, as far as i'm concerned. /""]",c but   f uh  of course the  further south you go the better the food is as far as im concerned ,sv,FEMALE,3
+['is that right? /'],is that right ,bh,FEMALE,18
+"[""{c and } fact is, we're going to take a vacation  this year.  /""]",c and  fact is were going to take a vacation  this year  ,sd,FEMALE,1
+"[""we're going to go to new orleans, again. /""]",were going to go to new orleans again ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, }  {f uh, } we're only going down  there for the food, though <laughter>. /""]",c and   f uh  were only going down  there for the food though laughter ,sd,FEMALE,1
+"['{d now, } [ wher-, + where ] do you go when you go there?  {f uh, } right on basin street and those places? /']",d now   wher  where  do you go when you go there  f uh  right on basin street and those places ,qy,FEMALE,7
+"['{f uh, } yeah.  /']",f uh  yeah  ,ny,FEMALE,9
+"['we go to [ the, + the ] french  quarters and stuff like that. /']",we go to  the  the  french  quarters and stuff like that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, }  {f uh, } i have some friends that  live down there.  /']",c and   f uh  i have some friends that  live down there  ,sd,FEMALE,1
+"[""{c and so, } usually [ we go to, +  we don't go to ] the tourist ones. /""]",c and so  usually  we go to   we dont go to  the tourist ones ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['we go to the ones that they tell us to go to, {d you know. } /']",we go to the ones that they tell us to go to d you know  ,sd,FEMALE,1
+"['{f oh, } i see. /']",f oh  i see ,b,FEMALE,2
+"['{c and } we went to this one,  /']",c and  we went to this one  ,sd,FEMALE,1
+['it was called the back  porch.  /'],it was called the back  porch  ,sd,FEMALE,1
+"['{c and, }  {f uh, } they were cooking the stuff, {d you know, } while [ we were, +  we went ] on this boat ride.  /']",c and   f uh  they were cooking the stuff d you know  while  we were   we went  on this boat ride  ,sd,FEMALE,1
+"['{c and } then we came back and ate, out on this,  it was like a back porch <laughter>.  /']",c and  then we came back and ate out on this  it was like a back porch laughter  ,sd,FEMALE,1
+"['{c and, }  {f uh, }']",c and   f uh ,%,FEMALE,5
+"[""# {f oh, } that's nice. # /""]", f oh  thats nice  ,ba,FEMALE,6
+"['# usually if you # can find somebody, - /']", usually if you  can find somebody  ,+,FEMALE,0
+"[""<ringing>  <<telephone in background>> of course now, when you go down there, {d you know, } {e i mean, }  they've got just, - /""]",ringing  telephone in background of course now when you go down there d you know  e i mean   theyve got just  ,sd,FEMALE,1
+"[""there's no where you can miss. /""]",theres no where you can miss ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i have never gone to a restaurant, and not just been  so full,  /']",i have never gone to a restaurant and not just been  so full  ,sd,FEMALE,1
+"[""it's unreal. /""]",its unreal ,sd,FEMALE,1
+['really? /'],really ,bh,FEMALE,18
+"[""{e i mean, } it's so good.  /""]",e i mean  its so good  ,sd,FEMALE,1
+"[""the seasoning  [ they, + ] it's just unreal. /""]",the seasoning   they   its just unreal ,sd,FEMALE,1
+"[""{c and } don't they make a lot of,  {f um, } - /""]",c and  dont they make a lot of  f um   ,%,FEMALE,5
+"[""i'm trying to think what they call their soup.  /""]",im trying to think what they call their soup  ,sd,FEMALE,1
+"[""i don't know. /""]",i dont know ,h,FEMALE,15
+['gumbo. /'],gumbo ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['jumbo. /'],jumbo ,sd,FEMALE,1
+"['no, gumbo. /']",no gumbo ,ar,FEMALE,28
+"['gumbo, /']",gumbo ,b^m,FEMALE,24
+['# uh-huh. # /'], uhhuh  ,ny,FEMALE,9
+['# right. # /'], right  ,b,FEMALE,2
+['right. /'],right ,b^m,FEMALE,24
+"['[ [ is, + is, ] + is ] that with seafood? /']",  is  is   is  that with seafood ,qy,FEMALE,7
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+['you can even make it with chicken or  you can make it with seafood. /'],you can even make it with chicken or  you can make it with seafood ,sd,FEMALE,1
+"['{f oh, } you can? /']",f oh  you can ,bh,FEMALE,18
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['that looks good too.  /'],that looks good too  ,ba,FEMALE,6
+"[""i've seen  [ them d-, +  the chefs on t v do ] that? /""]",ive seen   them d   the chefs on t v do  that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } {f oh, } it looks delicious. /']",c and  f oh  it looks delicious ,sv,FEMALE,3
+"[""{c and } i'll tell you what. /""]",c and  ill tell you what ,^h,FEMALE,27
+"['{d see } we do, {f um, } {f uh, } a thing, we  call it a sea bake.  /']",d see  we do f um  f uh  a thing we  call it a sea bake  ,sd,FEMALE,1
+"['<<sound fading>> [ you, + {f uh, } you ] take clams, /']",sound fading  you  f uh  you  take clams ,ad,FEMALE,22

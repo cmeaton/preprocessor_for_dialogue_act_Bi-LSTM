@@ -1,0 +1,196 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{c so } i own [ a, + a ] p c a t at my home. /']",c so  i own  a  a  p c a t at my home ,"fo_o_fw_""_by_bc",MALE,0
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"['i could never justify owning a personal computer at home, {f uh, }  /']",i could never justify owning a personal computer at home f uh   ,sd,MALE,1
+"[""{e i mean, } that's quite an expense to look for, {f uh, }  /""]",e i mean  thats quite an expense to look for f uh   ,sv,MALE,3
+"['{d well, } who is this,  /']",d well  who is this  ,qw,MALE,12
+['what do you use yours at home for? /'],what do you use yours at home for ,qo,MALE,25
+"[""{d well, } that's actually a good question.  /""]",d well  thats actually a good question  ,arp_nd,MALE,34
+"['my wife works out of [ the home, + our home. ]  /']",my wife works out of  the home  our home   ,sd,MALE,1
+['she has an office  /'],she has an office  ,sd,MALE,1
+['{c and } in fact she sits in the office  /'],c and  in fact she sits in the office  ,sd,MALE,1
+['{c and } she uses it to compose and print out letters. /'],c and  she uses it to compose and print out letters ,sd,MALE,1
+"['okay,  /']",okay  ,bk,MALE,14
+['{d well } {d now. } -/'],d well  d now  ,%,MALE,5
+"[""{c so } that's a very regular use of it that she has. /""]",c so  thats a very regular use of it that she has ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } in addition to that i tinker around with it.  /'],c and  in addition to that i tinker around with it  ,sd,MALE,1
+"[""i'm a computer scientist. /""]",im a computer scientist ,sd,MALE,1
+['oh. /'],oh ,bk,MALE,14
+['[ {c and } + {c so } ] i write programs to do little things  /'], c and   c so   i write programs to do little things  ,sd,MALE,1
+"[""i'm actually working on a data base at home just to keep track of things nothing special.  /""]",im actually working on a data base at home just to keep track of things nothing special  ,sd,MALE,1
+"[""{c and } also i'm interested in writing some programs that will kind of  {d like } remind me of things  like remind me that wednesdays is trash day and the like. /""]",c and  also im interested in writing some programs that will kind of  d like  remind me of things  like remind me that wednesdays is trash day and the like ,sd,MALE,1
+"[""{f uh, } {f huh, } {d well, } <throat_clearing> {e excuse me, }  [ i, {f uh, } + {f uh, } {d well } i'm ] a [ technician, + electronics tech. ]  /""]",f uh  f huh  d well  throatclearing e excuse me    i f uh   f uh  d well  im  a  technician  electronics tech   ,sd,MALE,1
+"['years ago t i sent me to their, {f uh, } computer school down in austin. /']",years ago t i sent me to their f uh  computer school down in austin ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so, }  {f uh, } i learned to repair one  /']",c so   f uh  i learned to repair one  ,sd,MALE,1
+['{c but } {d you know } i never really learned to operate one. /'],c but  d you know  i never really learned to operate one ,sd,MALE,1
+"[""{f oh, } that's a key thing.  /""]",f oh  thats a key thing  ,sv,MALE,3
+"[""{d well, } {d actually } that's a, - /""]",d well  d actually  thats a  ,%,MALE,5
+"[""there's really two issues to that that there's so many software packages available today.""]",theres really two issues to that that theres so many software packages available today,sv,MALE,3
+['yes. /'],yes ,aa,MALE,4
+['that just require no programming.  /'],that just require no programming  ,+,MALE,0
+"['{c so } that yo-, - /']",c so  that yo  ,%,MALE,5
+['in other words when someone built that software packet they had to use the programming  /'],in other words when someone built that software packet they had to use the programming  ,sv,MALE,3
+"['{c but } if they were careful, they could make the use of it totally without understanding how the computer works. /']",c but  if they were careful they could make the use of it totally without understanding how the computer works ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c but } i think you you really hit the nail on the head.  /'],c but  i think you you really hit the nail on the head  ,sv,MALE,3
+['for the average person is exactly what he can use it for.  /'],for the average person is exactly what he can use it for  ,sv,MALE,3
+"[""{c and } if your wife isn't working out of the home and sending letters  /""]",c and  if your wife isnt working out of the home and sending letters  ,sv,MALE,3
+"[""{c or } if you don't want to build a data base to keep track of the <<pause>> nuts and bolts in your garage,  /""]",c or  if you dont want to build a data base to keep track of the pause nuts and bolts in your garage  ,sv,MALE,3
+['whatever  /'],whatever  ,sv,MALE,3
+"['[ there, + your issue is then there ] really, -/']", there  your issue is then there  really ,sv,MALE,3
+"['{d well, } {f uh, } space is a handicap with me,  /']",d well  f uh  space is a handicap with me  ,sd,MALE,1
+['i live in a motor home. /'],i live in a motor home ,sd,MALE,1
+"['{f oh, } i see  /']",f oh  i see  ,b,MALE,2
+['{d well. } -/'],d well  ,%,MALE,5
+"[""{c and } i'm preparing for retirement. /""]",c and  im preparing for retirement ,sd,MALE,1
+['i see  /'],i see  ,b,MALE,2
+"['{d well, }  congratulations on that. /']",d well   congratulations on that ,ba,MALE,6
+"[""{c and } i'm not to far from it  another year and a half. /""]",c and  im not to far from it  another year and a half ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{d well, } actually one other thing i might ought to mention is that they are actually getting quite cheap. /']",d well  actually one other thing i might ought to mention is that they are actually getting quite cheap ,sv,MALE,3
+"['yes,  /']",yes  ,aa,MALE,4
+"['definitely,  /']",definitely  ,aa,MALE,4
+['{c but } just like the computers. /'],c but  just like the computers ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } remember how they started out running three, four hundred dollars. /']",f uh  remember how they started out running three four hundred dollars ,sd,MALE,1
+['right.  /'],right  ,b,MALE,2
+"['{f oh, } the calculators you mean. /']",f oh  the calculators you mean ,bf,MALE,20
+"['{e i mean } [ ca-, + calculators, ]  /']",e i mean   ca  calculators   ,na,MALE,21
+['i beg your pardon. /'],i beg your pardon ,fa,MALE,42
+"['yeah,  /']",yeah  ,aa,MALE,4
+['they sure do.  /'],they sure do  ,aa,MALE,4
+['yeah  /'],yeah  ,aa,MALE,4
+['i actually was thinking about upgrading mine very recently and kind of look at the whole spectrum.  /'],i actually was thinking about upgrading mine very recently and kind of look at the whole spectrum  ,sd,MALE,1
+['you can actually buy a whole <throat_clearing> brand new computer [ with a not + not a ] necessarily a slow one or inadequate one but a pretty good one for six hundred dollars. /'],you can actually buy a whole throatclearing brand new computer  with a not  not a  necessarily a slow one or inadequate one but a pretty good one for six hundred dollars ,sv,MALE,3
+"[""you're kidding. /""]",youre kidding ,bh,MALE,18
+['no. /'],no ,nn,MALE,13
+['including a printer? /'],including a printer ,qy,MALE,7
+"[""{d well, } {d actually } i wasn't including a printer,  /""]",d well  d actually  i wasnt including a printer  ,arp_nd,MALE,34
+['{c but } [ you + you ] can buy a printer now for a hundred dollars  /'],c but   you  you  can buy a printer now for a hundred dollars  ,sd,MALE,1
+['{c so } make it seven hundred. /'],c so  make it seven hundred ,sd,MALE,1
+['a hundred? /'],a hundred ,qy,MALE,7
+['yeah. /'],yeah ,ny,MALE,9
+"['wholly smoke,  /']",wholly smoke  ,ba,MALE,6
+['a respectable one? /'],a respectable one ,qy,MALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+['uh-huh. /'],uhhuh ,ny,MALE,9
+"[""{d well, } {d see } of not being particularly interested i don't keep track of prices on them,  /""]",d well  d see  of not being particularly interested i dont keep track of prices on them  ,sd,MALE,1
+"[""{c but } [ [ i'm, + i'm, ] + that ] does amaze me. /""]",c but    im  im   that  does amaze me ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['the prices had plummeted,  /']",the prices had plummeted  ,sd,MALE,1
+"['you can buy [ [ the computer + the guts ] + just the guts ] with the power supply,']",you can buy   the computer  the guts   just the guts  with the power supply,sd,MALE,1
+['# uh-huh.  # /'], uhhuh   ,b,MALE,2
+"['# the # box and the mother board of a type of computer called an eighty, eighty-eight, for about two hundred dollars. /']", the  box and the mother board of a type of computer called an eighty eightyeight for about two hundred dollars ,+,MALE,0
+['{f huh. } /'],f huh  ,b,MALE,2
+"['{c and then } the keyboard is another fifty,  /']",c and then  the keyboard is another fifty  ,sd,MALE,1
+['the monitor with the card that drives is another hundred  /'],the monitor with the card that drives is another hundred  ,sd,MALE,1
+['{c and then } the disk drive is two fifty. /'],c and then  the disk drive is two fifty ,sd,MALE,1
+"['{d well, } [ what, + what ] is [ a + a ] good brand a inexpensive. /']",d well   what  what  is  a  a  good brand a inexpensive ,qy,MALE,7
+"[""{d well,  } [ that's + that's ] the deal is you're not buying brands now,  /""]",d well    thats  thats  the deal is youre not buying brands now  ,arp_nd,MALE,34
+"[""you're buying these knock offs,  /""]",youre buying these knock offs  ,sd,MALE,1
+"[""{c so }  there's, - /""]",c so   theres  ,%,MALE,5
+"[""probably the way to do it if you really wanted to buy one is there's a magazine called computer shopper. /""]",probably the way to do it if you really wanted to buy one is theres a magazine called computer shopper ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""it's a big magazine,  /""]",its a big magazine  ,sd,MALE,1
+"[""it's twelve inches [ [ acro-, + narrow, ] + the narrow ] side and  --""]",its twelve inches   acro  narrow   the narrow  side and  ,sd,MALE,1
+"['{f oh, } wow. /']",f oh  wow ,ba,MALE,6
+['-- seventeen inches the tall side  /'], seventeen inches the tall side  ,+,MALE,0
+"[""{c and } it's probably an inch thick a thousand pages.  /""]",c and  its probably an inch thick a thousand pages  ,sd,MALE,1
+"['{c but } [ the book is, + the magazine is ] full of these [ mail order, + computer mail-order ] houses  /']",c but   the book is  the magazine is  full of these  mail order  computer mailorder  houses  ,sd,MALE,1
+"[""{c and } they're all competing with each. /""]",c and  theyre all competing with each ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so } you just flip through there until you find a <smack> eighty, eighty-eight computer <breathing>  /']",c so  you just flip through there until you find a smack eighty eightyeight computer breathing  ,sd,MALE,1
+"[""[ [ that + that's called, ] + it's ] the original p c.  /""]",  that  thats called   its  the original p c  ,sd,MALE,1
+"[""{c so }  it's, - /""]",c so   its  ,%,MALE,5
+"[""we call [ the t i, + {e i'm sorry } an i b m p c ] compatible.  /""]",we call  the t i  e im sorry  an i b m p c  compatible  ,sd,MALE,1
+"[""[ {c and } you'll find all these things + {c and } you'll find the monitors ] forty dollars and the card that drives the monitor that goes in the back of the board for twenty-five dollars which is amazing to me. /""]", c and  youll find all these things  c and  youll find the monitors  forty dollars and the card that drives the monitor that goes in the back of the board for twentyfive dollars which is amazing to me ,sd,MALE,1
+['{f uh. } /'],f uh  ,b,MALE,2
+['{c and } you mix and match  /'],c and  you mix and match  ,sd,MALE,1
+['{c and then } you do it by mail-order.   /'],c and then  you do it by mailorder   ,sd,MALE,1
+"[""{c but } there's no real brands  /""]",c but  theres no real brands  ,sd,MALE,1
+"[""it's probably a half a dozen companies around the world that are making those mother boards, the main computer, the circuit board. /""]",its probably a half a dozen companies around the world that are making those mother boards the main computer the circuit board ,sd,MALE,1
+['i see.  /'],i see  ,bk,MALE,14
+['how do you go about getting one of those a catalogs? /'],how do you go about getting one of those a catalogs ,qo,MALE,25
+"[""they're available in, {d you know, } the b daltons, [ that + that ] type of thing. /""]",theyre available in d you know  the b daltons  that  that  type of thing ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""you'll notice [ that in + that ] [ [ [ it's, + it's a, ] + it's a, ] + although it's a ] magazine it's large.  /""]",youll notice  that in  that     its  its a   its a   although its a  magazine its large  ,sd,MALE,1
+"[""{c and } like i said it's about an inch thick <breathing>. /""]",c and  like i said its about an inch thick breathing ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"['{d well, } getting back to the p c -s,  /']",d well  getting back to the p c s  ,sd,MALE,1
+"[""i'll tell you,  /""]",ill tell you  ,^h,MALE,27
+"['i ya, - /']",i ya  ,%,MALE,5
+"[""first of all i don't like a machine that's smarter than me. /""]",first of all i dont like a machine thats smarter than me ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['and secondly, i did learn this much about computers,  /']",and secondly i did learn this much about computers  ,sd,MALE,1
+['[ they + they ] are pretty stupid because they add one and one up and come up with ten. /'], they  they  are pretty stupid because they add one and one up and come up with ten ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+['in binary. /'],in binary ,sd,MALE,1
+"[""that's right <breathing>.  /""]",thats right breathing  ,aa,MALE,4
+"[""there's great. /""]",theres great ,ba,MALE,6
+"[""{d well, } anyway that's one ever my favorite jokes. /""]",d well  anyway thats one ever my favorite jokes ,sd,MALE,1
+"['{f oh, } yeah <laughter>. /']",f oh  yeah laughter ,b,MALE,2
+['one and one equals ten. /'],one and one equals ten ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""that's great. /""]",thats great ,b,MALE,2
+"[""course [ it's + it's ] kind of an inside joke, {d you know. } /""]",course  its  its  kind of an inside joke d you know  ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+['you can only tell that to somebody who understands binary. /'],you can only tell that to somebody who understands binary ,sv,MALE,3
+"['<laughter>  i understand,  /']",laughter  i understand  ,ba,MALE,6
+"[""that's great,  /""]",thats great  ,ba,MALE,6
+"[""that's a good joke. /""]",thats a good joke ,ba,MALE,6
+"['{c so } what, - /']",c so  what  ,%,MALE,5
+"['do you, {f uh, } {f uh, } work with a computers [ a + ] at t i? /']",do you f uh  f uh  work with a computers  a   at t i ,qy,MALE,7
+['i did for years  /'],i did for years  ,na,MALE,21
+['{c and then } i was a scientist over in central research labs  /'],c and then  i was a scientist over in central research labs  ,sd,MALE,1
+"[""{c and } just recently i've changed my job to actually do some of the marketing. /""]",c and  just recently ive changed my job to actually do some of the marketing ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } now [ i + i ] type that one,  /']",f uh  now  i  i  type that one  ,sd,MALE,1
+"[""{c but } i don't use it anymore. /""]",c but  i dont use it anymore ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['{d well } i just recently started using one.'],d well  i just recently started using one,sd,MALE,1
+['# uh-huh.  # /'], uhhuh   ,b,MALE,2
+['# in # connection with my work. /'], in  connection with my work ,+,MALE,0
+['yes. /'],yes ,b,MALE,2
+"['{f uh, } i keep track of an inventory here. /']",f uh  i keep track of an inventory here ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } of course now that is where a computer is very handy. /'],c and  of course now that is where a computer is very handy ,sv,MALE,3
+"['yes,  /']",yes  ,aa,MALE,4
+['i agree. /'],i agree ,aa,MALE,4
+"[""{c and, }  {d well } [ i, + it's ] my responsibility to see that equipment is sent off to be calibrated. /""]",c and   d well   i  its  my responsibility to see that equipment is sent off to be calibrated ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"[""{d see } i'm with the q r a lab.""]",d see  im with the q r a lab,sd,MALE,1
+"['{f oh, } i see  /']",f oh  i see  ,b,MALE,2
+"[""that's fascinating. /""]",thats fascinating ,ba,MALE,6
+['qualification and evaluation  /'],qualification and evaluation  ,+,MALE,0
+"['{c so } naturally our equipment has to be in top condition and is constantly calibrated, /']",c so  naturally our equipment has to be in top condition and is constantly calibrated ,sd,MALE,1
+['# uh-huh.  # /'], uhhuh   ,b,MALE,2
+"[""# {c and } # they're dated.  /""]", c and   theyre dated  ,sd,MALE,1
+"['{c so } i have to keep up with them, {f uh, }  /']",c so  i have to keep up with them f uh   ,sd,MALE,1
+"[""[ {c and } + {c and } ] it's very handy doing it on the computer. /""]", c and   c and   its very handy doing it on the computer ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+['i just run a printout every week  /'],i just run a printout every week  ,sd,MALE,1
+"[""[ {c and } + {c and } ] it puts me right up-to-date [ what i'm, + what i  have to do, ] what i have to ship, what i should be expecting to be returned. /""]", c and   c and   it puts me right uptodate  what im  what i  have to do  what i have to ship what i should be expecting to be returned ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so }  a, - /']",c so   a  ,%,MALE,5
+['[ it + it ] is handy. /'], it  it  is handy ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['{c and } i must admit that up until i did start using one, {f uh, } [ it was, + ] i had very little interest in computers. /']",c and  i must admit that up until i did start using one f uh   it was   i had very little interest in computers ,sd,MALE,1
+['yes <noise>. /'],yes noise ,b,MALE,2
+['{c but } they are amazing. /'],c but  they are amazing ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['they certainly are.  /'],they certainly are  ,aa,MALE,4
+"[""{c so } let's [ see, +  see ]  /""]",c so  lets  see   see   ,^h,MALE,27
+"['{c so } i guess with respect to the question, - /']",c so  i guess with respect to the question  ,sv,MALE,3
+"['yeah,  /']",yeah  ,%,MALE,5
+"[""i guess we've kind of covered it. /""]",i guess weve kind of covered it ,sv,MALE,3
+['i think we did. /'],i think we did ,aa,MALE,4
+"['great,  /']",great  ,ba,MALE,6
+['nice little conversation with you jack. /'],nice little conversation with you jack ,fc,MALE,10
+"['yeah,  /']",yeah  ,fc,MALE,10
+['mike you take care now. /'],mike you take care now ,fc,MALE,10
+['# good day.  # /'], good day   ,fc,MALE,10
+['# good luck # to you. /'], good luck  to you ,fc,MALE,10
+['thank you.  /'],thank you  ,fc,MALE,10
+['same to you. /'],same to you ,fc,MALE,10

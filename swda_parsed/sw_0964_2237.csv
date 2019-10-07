@@ -1,0 +1,451 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<noise> okay <laughter>. /'],noise okay laughter ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{d so, } [ do you have, + do you have ] the long, - /']",d so   do you have  do you have  the long  ,qy,MALE,7
+"[""i guess not, not if there's, - /""]",i guess not not if theres  ,%,MALE,5
+"['{d see } i was raised in new york,  /']",d see  i was raised in new york  ,sd,MALE,1
+"[""{c but } i guess up there you all don't have too long of a growing season, do you? /""]",c but  i guess up there you all dont have too long of a growing season do you ,qy,MALE,7
+"['{f uh, } {d well, } we probably have about three months,']",f uh  d well  we probably have about three months,ng,FEMALE,29
+['[ do -- +'], do  ,qy,MALE,7
+['approximately. /'],approximately ,+,FEMALE,0
+['-- do ] you do your own gardening? /'], do  you do your own gardening ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['do you. /'],do you ,b,MALE,2
+"['we live on a, - /']",we live on a  ,sd,FEMALE,1
+"['used to be a farm,  /']",used to be a farm  ,sd,FEMALE,1
+"[""{c but } we don't farm much,  /""]",c but  we dont farm much  ,sd,FEMALE,1
+"['[ we, + {f uh, } {c but } we ] do have a garden. /']", we  f uh  c but  we  do have a garden ,sd,FEMALE,1
+"['{f huh. }  see i got mine in, - /']",f huh   see i got mine in  ,sd,MALE,1
+"[""{d well, } let's see,  /""]",d well  lets see  ,^h,MALE,27
+['i put in pepper plants this weekend. /'],i put in pepper plants this weekend ,sd,MALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+['i wish i could be doing that <laughter>. /'],i wish i could be doing that laughter ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['i got all my little seedlings coming up in the kitchen  /'],i got all my little seedlings coming up in the kitchen  ,sd,MALE,1
+"['{c and, } i enjoy tinkering with it,']",c and  i enjoy tinkering with it,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, }  /']",d you know   ,+,MALE,0
+"[""it's pretty hot down here during the summer,  /""]",its pretty hot down here during the summer  ,sd,MALE,1
+"['we hit, {d you know, } a hundred, hundred and two sometimes, /']",we hit d you know  a hundred hundred and two sometimes ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c but, } {d you know, } we don't do too much during the summer, as far as tomatoes and stuff,""]",c but  d you know  we dont do too much during the summer as far as tomatoes and stuff,sd,MALE,1
+"['you almost have,']",you almost have,qy^d,FEMALE,16
+['like that. /'],like that ,+,MALE,0
+"['to get started pretty early probably. i guess, /']",to get started pretty early probably i guess ,+,FEMALE,0
+['yeah.  /'],yeah  ,ny,MALE,9
+"['[ [ i can, + usually i can put in, ] + {f oh } probably mid-march, i can put anything in ] the ground,']",  i can  usually i can put in   f oh  probably midmarch i can put anything in  the ground,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } beets, and onions,']",d you know  beets and onions,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['and stuff like that. /'],and stuff like that ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } then i have to wait for my, - /']",c but  then i have to wait for my  ,sd,MALE,1
+['tomatoes have to go in here in the next couple of weeks -- /'],tomatoes have to go in here in the next couple of weeks  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- as soon as we're, sure we're not going to have another freeze,""]", as soon as were sure were not going to have another freeze,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['go ahead finish it. /'],go ahead finish it ,+,MALE,0
+"[""you've had more freezing [ this winter, + {e or } this, {a yeah, } winter, ] i think. /""]",youve had more freezing  this winter  e or  this a yeah  winter  i think ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""we've,""]",weve,sd,MALE,1
+['more bad weather. /'],more bad weather ,sv,FEMALE,3
+"['had just a few, {d you know, } that freezes a little here and there,  /']",had just a few d you know  that freezes a little here and there  ,+,MALE,0
+['{c but } --'],c but  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- every once in a while, we get a freeze around the middle of april, /']", every once in a while we get a freeze around the middle of april ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } it's pretty tough. /""]",c and  its pretty tough ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['[ are you, + do you ] work,  /']", are you  do you  work  ,qy,FEMALE,7
+['{c or } are you retired  /'],c or  are you retired  ,qrr,FEMALE,33
+"['{c or } you, -/']",c or  you ,%,FEMALE,5
+['no.  /'],no  ,nn,MALE,13
+"['i work, {f uh } -- /']",i work f uh   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- i'm only forty years old.  /""]", im only forty years old  ,sd,MALE,1
+"['i have to work, /']",i have to work ,sd,MALE,1
+['uh-huh <laughter>. /'],uhhuh laughter ,b,FEMALE,2
+['<laughter>.'],laughter,x,MALE,8
+"['{f uh, } my husbands retired.  /']",f uh  my husbands retired  ,sd,FEMALE,1
+"[""{c but } he's not a gardener.  /""]",c but  hes not a gardener  ,sd,FEMALE,1
+"[""[ [ he, + he, ] + he's ] been helping me more,  /""]",  he  he   hes  been helping me more  ,sd,FEMALE,1
+"[""{c but } he really isn't, {f uh, } real crazy about gardening. /""]",c but  he really isnt f uh  real crazy about gardening ,sd,FEMALE,1
+"['{f uh, } [ i, + i ] really enjoy it,  /']",f uh   i  i  really enjoy it  ,sd,MALE,1
+"['it gives me time outdoors, /']",it gives me time outdoors ,sd,MALE,1
+['{f uh. } /'],f uh  ,b,FEMALE,2
+"[""{c and, } {d you know, } i'm a golfer,  /""]",c and  d you know  im a golfer  ,sd,MALE,1
+"['{c but, } it gives me time outdoors, and time around my house, /']",c but  it gives me time outdoors and time around my house ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } i, burned my grass off here in the last couple of days --']",c and  i burned my grass off here in the last couple of days ,sd,MALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- getting ready to start to the spring season, and see if i can grow me another nice lawn,  /']", getting ready to start to the spring season and see if i can grow me another nice lawn  ,+,MALE,0
+"['i usually have a pretty nice lawn,  /']",i usually have a pretty nice lawn  ,sd,MALE,1
+"[""it's a lot of work --""]",its a lot of work ,sv,MALE,3
+['{f oh } yeah. /'],f oh  yeah ,b,FEMALE,2
+"['-- {d you know, }  /']", d you know   ,+,MALE,0
+"[""{c but } it's, -/""]",c but  its ,%,MALE,5
+"[""{c but } [ it's a pleasure to, + like you said, it's good to ] get outside,  /""]",c but   its a pleasure to  like you said its good to  get outside  ,aa,FEMALE,4
+['[ {c and } -- +'], c and   ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+['it is. /'],it is ,aa,MALE,4
+"['-- {c and } ] [ i like, + i like ] my garden too <laughter>.  /']", c and    i like  i like  my garden too laughter  ,+,FEMALE,0
+"[""[ we didn't have to, + we have ] just a small garden,  /""]", we didnt have to  we have  just a small garden  ,sd,FEMALE,1
+"['{c but } we planted corn last year too, which takes quite a bit of space -- /']",c but  we planted corn last year too which takes quite a bit of space  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- [ we, + we ] didn't have too good luck with it,  /""]",  we  we  didnt have too good luck with it  ,sd,FEMALE,1
+"['{c because } [ the, + {f uh, } we ] had a couple of [ good, + real good ] wind storms,  /']",c because   the  f uh  we  had a couple of  good  real good  wind storms  ,sd,FEMALE,1
+['{c and } it really damaged the corn -- /'],c and  it really damaged the corn  ,sd,FEMALE,1
+['{f oh } yeah. /'],f oh  yeah ,b,MALE,2
+"[""-- {c so } we didn't get too much corn,""]", c so  we didnt get too much corn,sd,FEMALE,1
+"[""we're going through that, /""]",were going through that ,sd,MALE,1
+['last year. /'],last year ,+,FEMALE,0
+"['we going through the dust storms down here now, /']",we going through the dust storms down here now ,sd,MALE,1
+"['{f uh, } uh-huh. /']",f uh  uhhuh ,b,FEMALE,2
+"[""[ {c so, } + {c but } ] [ i, + {f uh, } what i ] did with my garden, is i have [ a, + a ] two by six frame that's five by ten.  /""]", c so   c but    i  f uh  what i  did with my garden is i have  a  a  two by six frame thats five by ten  ,sd,MALE,1
+['i have two of them sitting side by side -- /'],i have two of them sitting side by side  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } then i put, {f uh, } {d like, } a black plastic, - /']", c and  then i put f uh  d like  a black plastic  ,sd,MALE,1
+"[""it's really not a black plastic.  /""]",its really not a black plastic  ,ar,MALE,28
+['they call it  (( wedet ))  -- /'],they call it   wedet    ,sd,MALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } i put that down,  /']", c and  i put that down  ,sd,MALE,1
+['{c and then } i put up a couple of inches of pine moss on top of that -- /'],c and then  i put up a couple of inches of pine moss on top of that  ,sd,MALE,1
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"['-- {c and } i use [ a, + one of those ] black poker hoses that actually oozes water every where -- /']", c and  i use  a  one of those  black poker hoses that actually oozes water every where  ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c so } i waste it up and down there a couple of times,  /']", c so  i waste it up and down there a couple of times  ,sd,MALE,1
+['{c and } i only have to water about two hours a week -- /'],c and  i only have to water about two hours a week  ,sd,MALE,1
+"[""{f oh } that's great. /""]",f oh  thats great ,ba,FEMALE,6
+"[""-- {c and } it's pretty nice. /""]", c and  its pretty nice ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['especially during the summer, it keeps everything wet,']",especially during the summer it keeps everything wet,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['instead of wilting. /'],instead of wilting ,+,MALE,0
+"[""[ we don't, + we don't ] usually cover ours.  /""]", we dont  we dont  usually cover ours  ,sd,FEMALE,1
+['we did a few different times  /'],we did a few different times  ,sd,FEMALE,1
+"[""((   )) sometimes we've covered with the plastic,  /""]",    sometimes weve covered with the plastic  ,sd,FEMALE,1
+"[""{c and } other years we've tried newspapers -- /""]",c and  other years weve tried newspapers  ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+"[""-- [ {c and, } + {f uh, } {c but } ] [ we generally don't, + we do ] our watering from our spring. /""]",  c and   f uh  c but    we generally dont  we do  our watering from our spring ,sd,FEMALE,1
+"['{f oh } you have a spring, /']",f oh  you have a spring ,qy^d,MALE,16
+['yeah. /'],yeah ,ny,FEMALE,9
+['how nice. /'],how nice ,ba,MALE,6
+"['we have an old fashioned pipe sitting, that, {d you know, } water runs into  /']",we have an old fashioned pipe sitting that d you know  water runs into  ,sd,FEMALE,1
+"['{c and, }']",c and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['my husband set up a pump that runs, - /']",my husband set up a pump that runs  ,+,FEMALE,0
+['it runs first down  /'],it runs first down  ,sd,FEMALE,1
+"['{c and then } it stops, /']",c and then  it stops ,sd,FEMALE,1
+"[""{f oh } [ that's, +""]",f oh   thats ,ba,MALE,6
+"['{c and } when the water comes up, it comes on again,  /']",c and  when the water comes up it comes on again  ,sd,FEMALE,1
+"['{c and } we use that to water our garden <noise>,']",c and  we use that to water our garden noise,sd,FEMALE,1
+"[""that's ] pretty nice. /""]",thats  pretty nice ,+,MALE,0
+['with  /'],with  ,+,FEMALE,0
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['{c but } you actually enjoy it, {f huh? } /']",c but  you actually enjoy it f huh  ,qy,MALE,7
+['oh {f i } do.  /'],oh f i  do  ,na,FEMALE,21
+['i do. /'],i do ,na,FEMALE,21
+['do you? /'],do you ,bh,MALE,18
+"['i love it, /']",i love it ,na,FEMALE,21
+"['get out there on your hands and knees,']",get out there on your hands and knees,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+['and crawl around. /'],and crawl around ,+,MALE,0
+"[""i'd rather be doing that, than housework <laughter>. /""]",id rather be doing that than housework laughter ,sd,FEMALE,1
+"['[ i, + i ] can imagine.  /']", i  i  can imagine  ,ba,MALE,6
+"['you all have much trouble up there, with insects  /']",you all have much trouble up there with insects  ,qy^d,MALE,16
+"['{c or, } -/']",c or  ,%,MALE,5
+"['{f uh, } <throat_clearing> [ not a who-, + <noise> {d well, } not a whole ] lot.  /']",f uh  throatclearing  not a who  noise d well  not a whole  lot  ,ng,FEMALE,29
+"['i think our cabbages, and broccolis and that <talking> <<people in background>> we have more trouble with, that type of thing, with [ the, + the, ] -/']",i think our cabbages and broccolis and that talking people in background we have more trouble with that type of thing with  the  the  ,sd,FEMALE,1
+['with the worms? /'],with the worms ,qy,MALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+['yeah.  /'],yeah  ,b^m,MALE,24
+"['i have quite a bit of problem down here with the squash bugs,']",i have quite a bit of problem down here with the squash bugs,sd,MALE,1
+['{f uh. } /'],f uh  ,b,FEMALE,2
+"[""and haven't figured out how to get rid of those yet. /""]",and havent figured out how to get rid of those yet ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['do you go more for [ natural, + keeping them off naturally, ]  /']",do you go more for  natural  keeping them off naturally   ,qy,FEMALE,7
+"['{c or } do you,']",c or  do you,qrr,FEMALE,33
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['i try to, /']",i try to ,sd,MALE,1
+['use insecticides? /'],use insecticides ,+,FEMALE,0
+['no  /'],no  ,nn,MALE,13
+"['i, {f uh, } {f uh, } try not to use any insecticides at all.  /']",i f uh  f uh  try not to use any insecticides at all  ,sd,MALE,1
+"['i try not to even use insecticides on my lawn, /']",i try not to even use insecticides on my lawn ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, }']",c but ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ i, + sometimes i ] can't manage. /""]", i  sometimes i  cant manage ,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } our lawn, [ is, + is ] a big lawn [ because, + because ] we live out in the country,  /']",d well  our lawn  is  is  a big lawn  because  because  we live out in the country  ,sd,FEMALE,1
+"['{c and so } [ we were not, + our lawn is not ] perfect, {d you know, }  /']",c and so   we were not  our lawn is not  perfect d you know   ,sd,FEMALE,1
+"[""[ it's just the -- +""]", its just the  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- it's just a ] lawn <laughter>. /""]", its just a  lawn laughter ,+,FEMALE,0
+"[""{d well, } mine's full of dandelions,""]",d well  mines full of dandelions,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['now,  /']",now  ,+,MALE,0
+"['{c so, } -/']",c so  ,%,MALE,5
+['do you eat any of them? /'],do you eat any of them ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+['i never have.  /'],i never have  ,sd,MALE,1
+"[""i don't know how to prepare them. /""]",i dont know how to prepare them ,sd,MALE,1
+"['{f oh, } [ [ did, + {d well, } did, ] + does ] your wife ever make, {f uh, } [ bake in + a hot bacon ]  dressing, {d like } for,']",f oh    did  d well  did   does  your wife ever make f uh   bake in  a hot bacon   dressing d like  for,qy,FEMALE,7
+['no. /'],no ,nn,MALE,13
+['salad? /'],salad ,+,FEMALE,0
+['huh-uh. /'],huhuh ,nn,MALE,13
+"[""{f oh } it's delicious  /""]",f oh  its delicious  ,sd,FEMALE,1
+['{c and } it goes real good on dandelions. /'],c and  it goes real good on dandelions ,sd,FEMALE,1
+['really. /'],really ,bh,MALE,18
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['{f huh. }  /'],f huh   ,b,MALE,2
+"[""i've never eaten dandelions  /""]",ive never eaten dandelions  ,sd,MALE,1
+"[""{d now } i've tried dandelion wine -- /""]",d now  ive tried dandelion wine  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c but } i've never tried any dandelions just to eat. /""]", c but  ive never tried any dandelions just to eat ,sd,MALE,1
+"[""((   ))  use the greens, if you get them when they're young and tender, {d you know, } before they have grown [ too, +""]",     use the greens if you get them when theyre young and tender d you know  before they have grown  too ,ad,FEMALE,22
+['yeah. /'],yeah ,b,MALE,2
+"['too ] tall,  /']",too  tall  ,+,FEMALE,0
+['{c because } they do get a little stringy. /'],c because  they do get a little stringy ,sd,FEMALE,1
+['all right. /'],all right ,aa,MALE,4
+"[""{c but, } {f uh, } they're kind of fun [ to, + to ] try, /""]",c but  f uh  theyre kind of fun  to  to  try ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['[ get a, + get a ] few  /']", get a  get a  few  ,ad,FEMALE,22
+['{c and then } throw them in with the rest of your salad sometimes. /'],c and then  throw them in with the rest of your salad sometimes ,ad,FEMALE,22
+"[""i'll try that. /""]",ill try that ,aa,MALE,4
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['i sure will <noise>. /'],i sure will noise ,aa,MALE,4
+"[""{f uh, } {c but } i've been cutting our grass too lately because my husband's back,  /""]",f uh  c but  ive been cutting our grass too lately because my husbands back  ,sd,FEMALE,1
+"[""{c and } he's been having trouble with  /""]",c and  hes been having trouble with  ,sd,FEMALE,1
+"[""{c so, } wasn't allowed to run a lawn mower, /""]",c so  wasnt allowed to run a lawn mower ,sd,FEMALE,1
+"['{f oh, } oh. /']",f oh  oh ,b,MALE,2
+"['{c so, } it takes about four hours to cut our grass. /']",c so  it takes about four hours to cut our grass ,sd,FEMALE,1
+['yow. /'],yow ,ba,MALE,6
+"['{c and, } [ we have, + we have ] hills.  /']",c and   we have  we have  hills  ,sd,FEMALE,1
+"[""i'm afraid of the hills <laughter>  /""]",im afraid of the hills laughter  ,sd,FEMALE,1
+"['{c but, }']",c but ,sd,FEMALE,1
+"['[ {c so } you all are into, +']", c so  you all are into ,bf,MALE,20
+"[""i'm getting on to it,  /""]",im getting on to it  ,+,FEMALE,0
+"[""i just pretend they're not there,  /""]",i just pretend theyre not there  ,sd,FEMALE,1
+['{c and } i just go ahead and do it <laughter>. /'],c and  i just go ahead and do it laughter ,sd,FEMALE,1
+"['{c so } you all are into ] the lawn, big time, {f huh. } /']",c so  you all are into  the lawn big time f huh  ,+,MALE,0
+['yeah. /'],yeah ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,b^m,MALE,24
+"['[ i only get, + {d well, } i guess i got ] - /']", i only get  d well  i guess i got   ,%,MALE,5
+"['[ my, + my ] whole section of my house is probably a tenth of an acre -- /']", my  my  whole section of my house is probably a tenth of an acre  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- then i have a pretty nice backyard, /']", then i have a pretty nice backyard ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } {d you know, } i've got enough room to throw horseshoes.""]",c and  d you know  ive got enough room to throw horseshoes,sd,MALE,1
+"[""{f oh, } that's great. /""]",f oh  thats great ,ba,FEMALE,6
+"['{d you know, }']",d you know ,+,MALE,0
+['great. /'],great ,ba,FEMALE,6
+"['couple of other  ((   )) , /']",couple of other       ,+,MALE,0
+"[""[ that's, +  a lot of people don't have that ] much space even. /""]", thats   a lot of people dont have that  much space even ,sv,FEMALE,3
+"['no,  /']",no  ,aa,MALE,4
+"[""{c and } it's nice.  /""]",c and  its nice  ,sd,MALE,1
+"[""i'm just inside the city  limits,  /""]",im just inside the city  limits  ,sd,MALE,1
+"[""i'm probably a mile, mile and a half inside the city limits,  /""]",im probably a mile mile and a half inside the city limits  ,sd,MALE,1
+"[""{c and } i'm only a mile,""]",c and  im only a mile,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['and a half from work. /'],and a half from work ,+,MALE,0
+"['{c so } you have all the conveniences of,']",c so  you have all the conveniences of,bf,FEMALE,20
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""it's pretty nice. /""]",its pretty nice ,sd,MALE,1
+"['a city,  /']",a city  ,+,FEMALE,0
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"['[ and, + and ] the country also. /']", and  and  the country also ,bf,FEMALE,20
+"['i have the room outside i need,  /']",i have the room outside i need  ,sd,MALE,1
+"[""{c and } i don't really have all the room in the house i need  /""]",c and  i dont really have all the room in the house i need  ,sd,MALE,1
+"['{c but, } -/']",c but  ,%,MALE,5
+"['<laughter> {d well, } you never have enough room do you think.']",laughter d well  you never have enough room do you think,sv,FEMALE,3
+['no. /'],no ,aa,MALE,4
+['especially if your into any hobbies or anything. /'],especially if your into any hobbies or anything ,+,FEMALE,0
+['i have a question to ask you about gardening though.  /'],i have a question to ask you about gardening though  ,sd,MALE,1
+"['{d you know, }  those, - /']",d you know   those  ,%,MALE,5
+"['what are they called, - /']",what are they called  ,t1,MALE,37
+"['[ the, + they ] called, {f uh, }  (( rolly polly ))  bugs,  /']", the  they  called f uh    rolly polly   bugs  ,sd,MALE,1
+"[""that's what my son calls them anyway. /""]",thats what my son calls them anyway ,sd,MALE,1
+['(( rolly polly ))  what? /'], rolly polly   what ,br,FEMALE,30
+['(( rolly polly ))  bugs.  /'], rolly polly   bugs  ,sd,MALE,1
+['the ones that roll up in a ball.  /'],the ones that roll up in a ball  ,sd,MALE,1
+"[""i don't know what they're called. /""]",i dont know what theyre called ,sd,MALE,1
+"['is it a bug,']",is it a bug,qy,FEMALE,7
+"[""they look like they've got, -/""]",they look like theyve got ,sd,MALE,1
+['you mean? /'],you mean ,+,FEMALE,0
+['yeah. /'],yeah ,ny,MALE,9
+['a worm? /'],a worm ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['a cutworm? /'],a cutworm ,qy,FEMALE,7
+['no. /'],no ,nn,MALE,13
+['not a grub worm? /'],not a grub worm ,qy,FEMALE,7
+"[""it's not like a, - /""]",its not like a  ,%,MALE,5
+['no.  /'],no  ,nn,MALE,13
+"[""you find them under bricks and all that stuff, where it's moist,  /""]",you find them under bricks and all that stuff where its moist  ,sd,MALE,1
+"['{c and } [ if, + if ] you touch them, they roll up in a ball. /']",c and   if  if  you touch them they roll up in a ball ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"[""i don't know what they call them.  /""]",i dont know what they call them  ,sd,MALE,1
+"[""{c but } i'm plagued with those things, /""]",c but  im plagued with those things ,sd,MALE,1
+['{f uh. } /'],f uh  ,b,FEMALE,2
+"[""{c and } i haven't figured out, - /""]",c and  i havent figured out  ,sd,MALE,1
+"['i even called the nursery, /']",i even called the nursery ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['((   )) .'],    ,x,MALE,8
+"[""i'm trying to think of what they are, what kind,""]",im trying to think of what they are what kind,sd,FEMALE,1
+"['[ i, +']", i ,sd,MALE,1
+['they could be. /'],they could be ,+,FEMALE,0
+"[""i ] don't know. /""]",i  dont know ,+,MALE,0
+"['you find them under bricks usually, and that. /']",you find them under bricks usually and that ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['under bricks, or under wood,  /']",under bricks or under wood  ,b,MALE,2
+"['{c or } {d you know, } if you leave a piece of newspaper in the yard too long, they get in there.  /']",c or  d you know  if you leave a piece of newspaper in the yard too long they get in there  ,sv,MALE,3
+"['they usually come out at night,  /']",they usually come out at night  ,sv,MALE,3
+"[""{c but, } you can find them during the daytime if you pick something up that's  ((   ))  been laying around, /""]",c but  you can find them during the daytime if you pick something up thats       been laying around ,sv,MALE,3
+"[""they're not a slug. /""]",theyre not a slug ,sd,FEMALE,1
+['no. /'],no ,aa,MALE,4
+"['not a, -/']",not a ,%,FEMALE,5
+['a slug is actually kind of slimy -- /'],a slug is actually kind of slimy  ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['yeah. /'],yeah ,aa,FEMALE,4
+"['-- {c and } these are just, - /']", c and  these are just  ,sd,MALE,1
+"['he plays with them all time,  /']",he plays with them all time  ,sd,MALE,1
+['he picks them up and  rolls them across the patio. /'],he picks them up and  rolls them across the patio ,sd,MALE,1
+['{f oh } really. /'],f oh  really ,b,FEMALE,2
+['<laughter>.'],laughter,x,MALE,8
+['they were not hard are they? /'],they were not hard are they ,qy,FEMALE,7
+['no. /'],no ,nn,MALE,13
+['are they a hard worm? /'],are they a hard worm ,qy,FEMALE,7
+['no.  /'],no  ,nn,MALE,13
+"[""they're not real hard, /""]",theyre not real hard ,sd,MALE,1
+"[""they're not a hard  ((   )) . /""]",theyre not a hard       ,b,FEMALE,2
+"[""they're like a, water bug,""]",theyre like a water bug,sd,MALE,1
+['{f huh. } /'],f huh  ,b,FEMALE,2
+"['of sorts,  /']",of sorts  ,+,MALE,0
+"[""i don't know what,""]",i dont know what,sd,MALE,1
+"['{f oh, }']",f oh ,qy,FEMALE,7
+"[""they're called. /""]",theyre called ,+,MALE,0
+['are they black then? /'],are they black then ,+,FEMALE,0
+['yeah.  /'],yeah  ,ny,MALE,9
+['yeah. /'],yeah ,ny,MALE,9
+['{c but } they roll up. /'],c but  they roll up ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,MALE,9
+"[""i can't think of what kind they would be. /""]",i cant think of what kind they would be ,sd,FEMALE,1
+"['when you touch them, they roll up. /']",when you touch them they roll up ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""i'm no help on that, then.  because,""]",im no help on that then  because,sd,FEMALE,1
+"[""{c but, } i'm plagued with those. /""]",c but  im plagued with those ,sd,MALE,1
+"[""i can't think of what they are.  what they would be.  /""]",i cant think of what they are  what they would be  ,+,FEMALE,0
+"['i think you have a lot more insects down there even [ than, + than ] what we have. /']",i think you have a lot more insects down there even  than  than  what we have ,sv,FEMALE,3
+"[""{d you know, } i think it's a big problem because we're in more of a tempered zone.  /""]",d you know  i think its a big problem because were in more of a tempered zone  ,sv,MALE,3
+"[""{d you know, } [ we don't really, + we only ] freeze down here in january, and  february, at the most. /""]",d you know   we dont really  we only  freeze down here in january and  february at the most ,sd,MALE,1
+"['i know,']",i know,sd,FEMALE,1
+['{d you know. } /'],d you know  ,b,MALE,2
+"['my brother had trouble with fire ants, and that even. -/']",my brother had trouble with fire ants and that even ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"['i got fire,']",i got fire,sd,MALE,1
+"['{f uh, } yeah. /']",f uh  yeah ,b,FEMALE,2
+['ants too. /'],ants too ,+,MALE,0
+['{c and } they be can be a real <noise> dickens. /'],c and  they be can be a real noise dickens ,sv,FEMALE,3
+"['{c and, } you, spray in one part of your lawn,  /']",c and  you spray in one part of your lawn  ,sv,MALE,3
+"['{c and } they just move to,']",c and  they just move to,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+['another part.  /'],another part  ,+,MALE,0
+"['{c so } you got to,']",c so  you got to,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['yeah. /'],yeah ,aa,FEMALE,4
+"['spray your whole yard,  /']",spray your whole yard  ,+,MALE,0
+"['{c and } [ [ your, + your, ] + your ] neighbor gets them,  /']",c and    your  your   your  neighbor gets them  ,sv,MALE,3
+"['{c and then } he sprays his yard,  /']",c and then  he sprays his yard  ,sv,MALE,3
+['{c and } you get them back again <laughter>. /'],c and  you get them back again laughter ,sv,MALE,3
+['yeah  <laughter>  /'],yeah  laughter  ,aa,FEMALE,4
+['you keep trading them <laughter>. /'],you keep trading them laughter ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""{c but } we're not doing too bad down here really, {d you know, }  /""]",c but  were not doing too bad down here really d you know   ,sd,MALE,1
+['the daffodils are out  /'],the daffodils are out  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['ours are going to be coming out.  /'],ours are going to be coming out  ,sd,FEMALE,1
+['now our cancer society sales  daffodils.  /'],now our cancer society sales  daffodils  ,sd,FEMALE,1
+"[""[ right now, they're, + they're big now. ]  /""]", right now theyre  theyre big now   ,sd,FEMALE,1
+"['{c so, } [ we, + we ] have daffodils,']",c so   we  we  have daffodils,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['here in the house because of the cut flowers, /']",here in the house because of the cut flowers ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""{c but } they're just beginning to come out and bud. /""]",c but  theyre just beginning to come out and bud ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['{d see } mine are up and bloomed already  /'],d see  mine are up and bloomed already  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+"['{f uh, } /']",f uh  ,b,FEMALE,2
+['already. /'],already ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['they sure are,']",they sure are,sv,MALE,3
+"['{f uh, } /']",f uh  ,b,FEMALE,2
+"['pretty, /']",pretty ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i like them  ((   )) , /']",i like them       ,sd,MALE,1
+"[""{f uh, } they're such a nice bright early spring,""]",f uh  theyre such a nice bright early spring,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['color. /'],color ,+,FEMALE,0
+"['{c and then } [ in, + in ] my back flower bed i have, {f uh, } tiger lilies -- /']",c and then   in  in  my back flower bed i have f uh  tiger lilies  ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } they bloom in, {d you know, }']", c and  they bloom in d you know ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['late june, mid,']",late june mid,+,MALE,0
+"[""{c and } they're,""]",c and  theyre,sv,FEMALE,3
+['july. /'],july ,+,MALE,0
+['beautiful too. /'],beautiful too ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+['they are.  /'],they are  ,aa,MALE,4
+"['they real,']",they real,aa,MALE,4
+"[""they're beautiful. /""]",theyre beautiful ,sv,FEMALE,3
+['beautiful.  /'],beautiful  ,+,MALE,0
+"[""[ they're, + they're ] nice and green, {d you know, }  /""]", theyre  theyre  nice and green d you know   ,sd,MALE,1
+"[""[ they're, + {f uh, } they're ] up above a foot,""]", theyre  f uh  theyre  up above a foot,sd,MALE,1
+['<lipsmack> {f oh } my. /'],lipsmack f oh  my ,ba,FEMALE,6
+['maybe eighteen inches.  /'],maybe eighteen inches  ,+,MALE,0
+"['they come up real pretty,']",they come up real pretty,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['every year,']",every year,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['no problem. /'],no problem ,+,MALE,0
+"[""we won't have too much here for another couple of months yet. /""]",we wont have too much here for another couple of months yet ,sd,FEMALE,1
+['is it still pretty cool up there? /'],is it still pretty cool up there ,qy,MALE,7
+['yeah.  /'],yeah  ,ny,FEMALE,9
+['yeah.  /'],yeah  ,ny,FEMALE,9
+"[""[ we're ha-, + it's raining ] today. /""]", were ha  its raining  today ,sd,FEMALE,1
+"['{d well, } do you all have a, - /']",d well  do you all have a  ,qy,MALE,7
+"['what kind o [ gra-, + grass ] do you grow up there?  /']",what kind o  gra  grass  do you grow up there  ,qw,MALE,12
+"['do  you grow, {f uh, } bermuda or ((   )) , -/']",do  you grow f uh  bermuda or      ,qy,MALE,7
+"['{d well, } our grass, like i said is just grass.  /']",d well  our grass like i said is just grass  ,arp_nd,FEMALE,34
+"[""we really didn't plant anything.  /""]",we really didnt plant anything  ,sd,FEMALE,1
+"[""it's just, -/""]",its just ,%,FEMALE,5
+['yeah. /'],yeah ,b,MALE,2
+['((   ))  i suppose maybe you call it crabgrass even. /'],     i suppose maybe you call it crabgrass even ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,FEMALE,5
+"['{d see } [ we, + i ] have bermuda,']",d see   we  i  have bermuda,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['in my yard,  /']",in my yard  ,+,MALE,0
+"['{c and } i still have the old standby crabgrass here and there, /']",c and  i still have the old standby crabgrass here and there ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, }']",c but ,%,MALE,5
+"[""it's probably,""]",its probably,qy^d,FEMALE,16
+"['bermuda seems to be, -/']",bermuda seems to be ,+,MALE,0
+['very pretty. /'],very pretty ,+,FEMALE,0
+['yeah.  /'],yeah  ,ny,MALE,9
+"['bermuda seems to be pretty,']",bermuda seems to be pretty,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['good down here. /'],good down here ,+,MALE,0
+"['we have some people that have done their lawns,  /']",we have some people that have done their lawns  ,sd,FEMALE,1
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,FEMALE,5

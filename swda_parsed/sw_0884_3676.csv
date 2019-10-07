@@ -1,0 +1,117 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['what kind of movies have you been seeing lately? /'],what kind of movies have you been seeing lately ,qw,MALE,12
+"[""{f uh, } it's been probably a month or so since i've been to the movies.  /""]",f uh  its been probably a month or so since ive been to the movies  ,sd,FEMALE,1
+"['course, [ my, + my ] favorite now [ is, + is ] dances with wolves. /']",course  my  my  favorite now  is  is  dances with wolves ,sd,FEMALE,1
+"[""{f oh, } it's an excellent movie. /""]",f oh  its an excellent movie ,sd,MALE,1
+"['{f uh, } silence of the [ la-, {f uh, } of the + lambs ] was good. /']",f uh  silence of the  la f uh  of the  lambs  was good ,sd,FEMALE,1
+['silence of the lambs? /'],silence of the lambs ,b^m,MALE,24
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['what was that anyway?   /'],what was that anyway   ,qw,MALE,12
+['((  )) .'],   ,x,MALE,8
+"[""{f oh, } [  it's a, + i guess it's a ] mystery, you'd call it.  /""]",f oh    its a  i guess its a  mystery youd call it  ,sd,FEMALE,1
+"[""it's with, {f uh, } jodie foster. /""]",its with f uh  jodie foster ,sd,FEMALE,1
+['okay. /'],okay ,bk,MALE,14
+"[""{c and } [ it, + {f uh, } it's ] pretty good.  /""]",c and   it  f uh  its  pretty good  ,sd,FEMALE,1
+"['another one that i think i really liked was, {f uh, } the fisher king. /']",another one that i think i really liked was f uh  the fisher king ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""let's see,  /""]",lets see  ,^h,MALE,27
+['who was in fisher king?  /'],who was in fisher king  ,t1,MALE,37
+"['that was, {f um, } robin williams  /']",that was f um  robin williams  ,sd,MALE,1
+"['[ {c and, } + {f uh } --']", c and   f uh  ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""-- {c and, } ] {f uh, } i can't  ((   ))  the last name. /""]", c and   f uh  i cant       the last name ,+,MALE,0
+['how about you?  /'],how about you  ,qo,FEMALE,25
+['what are you? /'],what are you ,qw,FEMALE,12
+"[""{f uh, } we've not been having many opportunities to see movies lately.  /""]",f uh  weve not been having many opportunities to see movies lately  ,sd,MALE,1
+"[""{f um, } we really enjoyed, {f um, } dead poets' society. /""]",f um  we really enjoyed f um  dead poets society ,sd,MALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['{f um, } several years back one [ we saw, + we saw ] we really, really enjoyed was, {f uh, } ordinary people, with, {f uh, } timothy hutton and, {f uh, } mary tyler moore,  /']",f um  several years back one  we saw  we saw  we really really enjoyed was f uh  ordinary people with f uh  timothy hutton and f uh  mary tyler moore  ,sd,MALE,1
+"['{c and, } {f uh, } {f uh, } who played the father, anyway -- /']",c and  f uh  f uh  who played the father anyway  ,t1,MALE,37
+['right. /'],right ,b,FEMALE,2
+['-- excellent movie. /'], excellent movie ,sd,MALE,1
+"['[  that was, + that was ] an excellent movie.  /']",  that was  that was  an excellent movie  ,sd,FEMALE,1
+['have you seen dances with wolves? /'],have you seen dances with wolves ,qy,FEMALE,7
+['yes  /'],yes  ,ny,MALE,9
+['we have. /'],we have ,sd,MALE,1
+"[""what'd you think of it? /""]",whatd you think of it ,qw,FEMALE,12
+"['{f oh, } we loved it. /']",f oh  we loved it ,sd,MALE,1
+"[""i don't think i can see it enough times. /""]",i dont think i can see it enough times ,sd,FEMALE,1
+['<laughter> i know what you mean.  /'],laughter i know what you mean  ,ba,MALE,6
+['i know what you mean. /'],i know what you mean ,ba,MALE,6
+"[""<laughter> course i'm a kevin costner fan. /""]",laughter course im a kevin costner fan ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i'm pretty impressed with stuff he's done.  /""]",im pretty impressed with stuff hes done  ,sd,MALE,1
+"['{f uh, } he made kind of an odd sounding robin hood,  /']",f uh  he made kind of an odd sounding robin hood  ,sd,MALE,1
+"[""{c but, } {f uh, } {e i mean, } {d you know, } basic <throat_clearing> thick western u s accent for a robin hood just doesn't seem to fit. /""]",c but  f uh  e i mean  d you know  basic throatclearing thick western u s accent for a robin hood just doesnt seem to fit ,sv,MALE,3
+"['no,  /']",no  ,aa,FEMALE,4
+"[""{c but } {d you know, } it wasn't a bad movie. /""]",c but  d you know  it wasnt a bad movie ,sd,FEMALE,1
+"['{f oh, } no.  /']",f oh  no  ,aa,MALE,4
+"[""it's a good movie. /""]",its a good movie ,sd,MALE,1
+"['it got such bad reviews,  /']",it got such bad reviews  ,sd,FEMALE,1
+"['{d really, } [ {c and, } + {c and } ] i thoroughly enjoyed it.  /']",d really   c and   c and   i thoroughly enjoyed it  ,sd,FEMALE,1
+"[""{c but } [ i, +  then i ] wasn't expecting any classic either. /""]",c but   i   then i  wasnt expecting any classic either ,sd,FEMALE,1
+"['{d well, } {f um, } they did a real good job with it. /']",d well  f um  they did a real good job with it ,sv,MALE,3
+['i thought so. /'],i thought so ,aa,FEMALE,4
+"[""{f um, } they didn't try to make him super human or, {d you know, } invincible.  /""]",f um  they didnt try to make him super human or d you know  invincible  ,sd,MALE,1
+"['they [ just, + just, ] - /']",they  just  just   ,sd,MALE,1
+['he worked hard at it.  /'],he worked hard at it  ,sd,MALE,1
+['((   )) .'],    ,x,MALE,8
+['have you seen the fisher king? /'],have you seen the fisher king ,qy,FEMALE,7
+['no  /'],no  ,nn,MALE,13
+"[""i haven't, [ not + ] an opportunity to see that, {f uh, } /""]",i havent  not   an opportunity to see that f uh  ,sd,MALE,1
+"['{f uh, } it, - /']",f uh  it  ,%,FEMALE,5
+"['you, {d you know, } - /']",you d you know   ,%,FEMALE,5
+"[""i guess [ it, + it ] really isn't for everybody.  /""]",i guess  it  it  really isnt for everybody  ,sv,FEMALE,3
+"[""it's, it's pretty deep and, {f uh, } {f uh, } philosophical. /""]",its its pretty deep and f uh  f uh  philosophical ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c but } i thought it had a wonderful message to it.  it's the kind you came out and looked at somebody and said, {d you know, } i think i liked that <laughter>. /""]",c but  i thought it had a wonderful message to it  its the kind you came out and looked at somebody and said d you know  i think i liked that laughter ,sv,FEMALE,3
+['<laughter> yeah. /'],laughter yeah ,b,MALE,2
+"['{c and then } the more you got to thinking about it, the more you thought, {d you know, } i did like it <laughter>. /']",c and then  the more you got to thinking about it the more you thought d you know  i did like it laughter ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c but } when you first came out, you weren't real sure. /""]",c but  when you first came out you werent real sure ,sv,FEMALE,3
+"[""it sounds kind of like one, {f uh, } we saw at home here [ on the, + ] rented it, {f um, } clara's heart. /""]",it sounds kind of like one f uh  we saw at home here  on the   rented it f um  claras heart ,sd,MALE,1
+"[""haven't seen that. /""]",havent seen that ,sd,FEMALE,1
+"['{f um, } whoopi goldberg. /']",f um  whoopi goldberg ,sd,MALE,1
+"['{f oh, } yes,  /']",f oh  yes  ,ny,FEMALE,9
+"['i did,  /']",i did  ,sd,FEMALE,1
+"['yes,  /']",yes  ,ny,FEMALE,9
+['i did. /'],i did ,sd,FEMALE,1
+"['{c and } she played a, {f uh, } - /']",c and  she played a f uh   ,sd,MALE,1
+"['the, {f uh, } - /']",the f uh   ,%,MALE,5
+"[""she's a housekeeper. /""]",shes a housekeeper ,sd,MALE,1
+"['{f uh, } the nanny type. /']",f uh  the nanny type ,bf,FEMALE,20
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""she's a housekeeper  /""]",shes a housekeeper  ,sd,MALE,1
+['[ she. +'], she ,sd,MALE,1
+"['housekeeper, uh-huh. /']",housekeeper uhhuh ,b^m,FEMALE,24
+"[""she ] was [ a, + {f oh, }  {a now i can't say it, } a ] haitian.  /""]",she  was  a  f oh   a now i cant say it  a  haitian  ,+,MALE,0
+"['anyway, [ she, + {f uh, } she ] seemed to be that sort of person that seems half crazy,  /']",anyway  she  f uh  she  seemed to be that sort of person that seems half crazy  ,sd,MALE,1
+"[""{c but } then again, she's got a whole lot on the ball,  /""]",c but  then again shes got a whole lot on the ball  ,sd,MALE,1
+"['{c and } the movie had the whole, lot of philosophical content, [ [ more than, + more than, ] + ] {d you know, }  /']",c and  the movie had the whole lot of philosophical content   more than  more than    d you know   ,sd,MALE,1
+"[""it wasn't a mystery,  /""]",it wasnt a mystery  ,sd,MALE,1
+"[""it wasn't, {d you know, } blood and guts and violence [ and, + and ] car chases type thing.  /""]",it wasnt d you know  blood and guts and violence  and  and  car chases type thing  ,sd,MALE,1
+['it was just a good movie. /'],it was just a good movie ,sd,MALE,1
+['i saw one the other day that was a kiss before dying. /'],i saw one the other day that was a kiss before dying ,sd,FEMALE,1
+['a kiss before dying. /'],a kiss before dying ,b^m,MALE,24
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+"['i had not heard about it when it was on the movies,  but was out on video. /']",i had not heard about it when it was on the movies  but was out on video ,sd,FEMALE,1
+['{c and. } -/'],c and  ,%,MALE,5
+"[""{c and } it's with sean young. /""]",c and  its with sean young ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and } [ it's a, + it's a ] mystery.  /""]",c and   its a  its a  mystery  ,sd,FEMALE,1
+"['it was very predictable,  /']",it was very predictable  ,sd,FEMALE,1
+"['{e i mean, } [ you knew, + you knew ] when the murder was going to happen or something,  /']",e i mean   you knew  you knew  when the murder was going to happen or something  ,sd,FEMALE,1
+['{c but } it was still so  well done --'],c but  it was still so  well done ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- that it was enjoyable. /'], that it was enjoyable ,+,FEMALE,0
+"[""[ that, + that ] takes a good bit to make one that's predictable that's still worth watching. /""]", that  that  takes a good bit to make one thats predictable thats still worth watching ,sv,MALE,3
+"[""that's right.  /""]",thats right  ,aa,FEMALE,4
+"['i had, {f uh, } {f uh, } - /']",i had f uh  f uh   ,%,FEMALE,5
+"[""i like the,  i think it's called the, {f uh, } <breathing> razor's edge,  /""]",i like the  i think its called the f uh  breathing razors edge  ,sd,FEMALE,1
+"['{c but, } no -- /']",c but  no  ,nn,FEMALE,13
+['((   )) .'],    ,x,MALE,8
+"['-- no,  /']", no  ,nn,FEMALE,13
+"['the jagged edge,  /']",the jagged edge  ,sd,FEMALE,1
+['# the jagged edge # --'], the jagged edge  ,sd,FEMALE,1
+"['# {f oh, } okay # . /']", f oh  okay   ,b,MALE,2
+"['-- with, {f uh, } -/']", with f uh  ,+,FEMALE,0

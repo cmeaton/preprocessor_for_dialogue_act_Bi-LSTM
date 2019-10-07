@@ -1,0 +1,186 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<tv> an interesting topic. /'],tv an interesting topic ,sv,FEMALE,3
+['yes. /'],yes ,aa,MALE,4
+['<laughter>.'],laughter,x,FEMALE,8
+"['the, {f uh, } type of cars that [ i was, + ] {f uh, }  i would be most interested in if i was going to buy another car now would probably be  something like a, {f uh, } mazda miata. /']",the f uh  type of cars that  i was   f uh   i would be most interested in if i was going to buy another car now would probably be  something like a f uh  mazda miata ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } the, {f uh, } - /']",f uh  the f uh   ,%,MALE,5
+"[""i'm very much [ a, + a ]  fan of sports cars. /""]",im very much  a  a   fan of sports cars ,sd,MALE,1
+['ah.  /'],ah  ,ba,FEMALE,6
+"['# boy, # --']", boy  ,sv,FEMALE,3
+"['# the, # -/']", the  ,%,MALE,5
+['-- you and my husband would have a whole lot in common # <laughter>. # /'], you and my husband would have a whole lot in common  laughter  ,+,FEMALE,0
+"['# <laughter> # the, {f uh, } -/']", laughter  the f uh  ,%,MALE,5
+['<child>.'],child,x,FEMALE,8
+"['{f uh, } {f uh, } though, {d actually, }  in som-, - /']",f uh  f uh  though d actually   in som  ,%,MALE,5
+"['{d actually } if i h-, - /']",d actually  if i h  ,%,MALE,5
+"['i have av-, - /']",i have av  ,%,MALE,5
+"[""i've avoided buying a new car for quite some time./""]",ive avoided buying a new car for quite some time,sd,MALE,1
+"[""i'd rather put my money into, {f uh, }""]",id rather put my money into f uh ,sd,MALE,1
+['<rustling>.'],rustling,x,FEMALE,8
+['restoring my old cars.  /'],restoring my old cars  ,+,MALE,0
+['i have a old triumph t r six. /'],i have a old triumph t r six ,sd,MALE,1
+['<children_yelling> uh-huh. /'],childrenyelling uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } {f uh, } {c so, } {f uh, } - /']",c and  f uh  f uh  c so  f uh   ,%,MALE,5
+"['{c but } if i was to buy one, probably something like a miata.  /']",c but  if i was to buy one probably something like a miata  ,sd,MALE,1
+"[""it's certainly, - /""]",its certainly  ,%,MALE,5
+"['i-, - /']",i  ,%,MALE,5
+"[""i wouldn't have to worry about it breaking down all the time <laughter>. /""]",i wouldnt have to worry about it breaking down all the time laughter ,sd,MALE,1
+"['{f oh, } really. /']",f oh  really ,bh,FEMALE,18
+['yeah  /'],yeah  ,ny,MALE,9
+['<laughter>.'],laughter,x,MALE,8
+"[""what's the, - /""]",whats the  ,%,FEMALE,5
+['how old is your car? /'],how old is your car ,qw,FEMALE,12
+"['{f uh, } {d well } [ i have a, + i have a ] nineteen [ eighty, + {f uh, } eighty-five ] c r x. /']",f uh  d well   i have a  i have a  nineteen  eighty  f uh  eightyfive  c r x ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""{f uh, } which is, {d you know, } # it's, - /""]",f uh  which is d you know   its  ,sd,MALE,1
+['it still works fine <laughter>. # /'],it still works fine laughter  ,sd,MALE,1
+['# yeah.  /'], yeah  ,b,FEMALE,2
+['right. # /'],right  ,b,FEMALE,2
+"[""{c but } [ [ it's, + it's ] + {d actually, } # it's ]  kind of annoying cause i've got no reason to replace it <laughter>. #/""]",c but    its  its   d actually   its   kind of annoying cause ive got no reason to replace it laughter ,sd,MALE,1
+['# <laughter> oh. # /'], laughter oh  ,b,FEMALE,2
+"['{c but, } {f uh, }']",c but  f uh ,%,MALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+['{d so } what do the miatas run? /'],d so  what do the miatas run ,qw,FEMALE,12
+"['{f oh, } those are, - /']",f oh  those are  ,+,MALE,0
+"[""they're about, {f uh, } {f uh, }  thirteen to fourteen thousand dollars and, {d you know, } a bit more if you add some some options #   and so on  /""]",theyre about f uh  f uh   thirteen to fourteen thousand dollars and d you know  a bit more if you add some some options    and so on  ,sd,MALE,1
+['{c but } # --'],c but   ,%,MALE,5
+"[""# {d well, } that's not # too bad. /""]", d well  thats not  too bad ,sv,FEMALE,3
+"['-- the, - /']", the  ,+,MALE,0
+"['{f uh, } yeah,  /']",f uh  yeah  ,aa,MALE,4
+"[""that's a pretty good price #  /""]",thats a pretty good price   ,sv,MALE,3
+['{c and } # --'],c and   ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""-- [ [ [ [ they're, + they're, ] + they're, ] + they're ]  so nice to drive. /""]",     theyre  theyre   theyre   theyre   so nice to drive ,+,MALE,0
+['really?  /'],really  ,bh,FEMALE,18
+"[""i've never driven one. /""]",ive never driven one ,sd,FEMALE,1
+"[""{f uh, } {f uh, } [ [ it's, +  it's, ] + it's ] nice.  /""]",f uh  f uh    its   its   its  nice  ,sd,MALE,1
+"[""they're, - /""]",theyre  ,%,MALE,5
+"[""i've been down to a dealer and driven them.  /""]",ive been down to a dealer and driven them  ,sd,MALE,1
+"[""{c and } i've also driven one at [ a, + ] something  mazda put on where, {f uh, } they went to, {f uh, } autocross events  across the country.  {f uh, } which is where [ you race in, + {f uh, } you race ] [ on, + ]   in a parking lot or something like that with a bunch of, {f uh, } cones to see who can get through the fastest. /""]",c and  ive also driven one at  a   something  mazda put on where f uh  they went to f uh  autocross events  across the country  f uh  which is where  you race in  f uh  you race   on     in a parking lot or something like that with a bunch of f uh  cones to see who can get through the fastest ,sd,MALE,1
+['huh? /'],huh ,br,FEMALE,30
+"['{f uh, } {d you know, } about a minute or so.']",f uh  d you know  about a minute or so,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['and, {f uh, } very twisty stuff.  /']",and f uh  very twisty stuff  ,+,MALE,0
+"['{c and } {f oh, } it handles so nicely. /']",c and  f oh  it handles so nicely ,sd,MALE,1
+"[""{c and so } you've done this? /""]",c and so  youve done this ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,MALE,9
+['oh.  /'],oh  ,b,FEMALE,2
+['okay. /'],okay ,bk,FEMALE,14
+['yeah. /'],yeah ,b,MALE,2
+['# oh <pounding>. # /'], oh pounding  ,b,FEMALE,2
+"['# it # was just, - /']", it  was just  ,%,MALE,5
+"[""[ it, + ]  it's just so smooth #  /""]", it    its just so smooth   ,sd,MALE,1
+['{c and. } # -/'],c and   ,%,MALE,5
+['# really?  /'], really  ,bh,FEMALE,18
+['yeah  /'],yeah  ,%,FEMALE,5
+['<<very faint>>. #'],very faint ,x,FEMALE,8
+['yeah.  /'],yeah  ,aa,MALE,4
+['nice car.  /'],nice car  ,sv,MALE,3
+['what are you interested in? /'],what are you interested in ,qw,MALE,12
+['</children_yelling> <laughter> whatever my husband buys # <laughter>. # /'],childrenyelling laughter whatever my husband buys  laughter  ,sd,FEMALE,1
+['# <laughter> yeah.  /'], laughter yeah  ,b,MALE,2
+"[""[ you + # you ]  don't get involved in, # {f uh, } car decisions? # /""]", you   you   dont get involved in  f uh  car decisions  ,qy^d,MALE,16
+"['# {f oh, } not too much. #  /']", f oh  not too much   ,ng,FEMALE,29
+['no.  /'],no  ,nn,FEMALE,13
+"[""[ we, + {f uh, } <lipsmack> <sigh> we ] just got rid of a <sigh> full conversion van [ [ that, + that ] + [ i, i, i-, + ] that ] wasn't me.  /""]", we  f uh  lipsmack sigh we  just got rid of a sigh full conversion van   that  that    i i i   that  wasnt me  ,sd,FEMALE,1
+['that was my husband. /'],that was my husband ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['he wanted a van  /'],he wanted a van  ,sd,FEMALE,1
+"['{c and } he wanted to drive that van and travel and wanted everything in there.  t v, {d you know, } the whole bit. /']",c and  he wanted to drive that van and travel and wanted everything in there  t v d you know  the whole bit ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['{c but } i never drove it  /'],c but  i never drove it  ,sd,FEMALE,1
+"[""{c so } it just, [ it + ]  wasn't me, {d you know. } /""]",c so  it just  it    wasnt me d you know  ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['i can understand.  /'],i can understand  ,ba,MALE,6
+"['# {c and then, } #']", c and then  ,sd,FEMALE,1
+"[""{f oh, } i'd want a minivan # <laughter>. # /""]",f oh  id want a minivan  laughter  ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"[""#  # they're nice. # /""]",   theyre nice  ,sv,MALE,3
+"[""# {c because } i'm # with the kids all the time. /""]", c because  im  with the kids all the time ,sd,FEMALE,1
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,MALE,4
+"[""# that's # --""]", thats  ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['-- perfect for that. /'], perfect for that ,+,MALE,0
+['# yeah.  /'], yeah  ,b,FEMALE,2
+"['{c and, } # -/']",c and   ,%,FEMALE,5
+"[""# it's not, - /""]", its not  ,%,MALE,5
+"[""# [ it, + it's ]  small enough that it's easy to drive. /""]",  it  its   small enough that its easy to drive ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['# [ you pick up + # --'],  you pick up   ,sd,FEMALE,1
+['# holds a lot. # /'], holds a lot  ,sv,MALE,3
+['-- i pick up ] my little one from  preschool  /'], i pick up  my little one from  preschool  ,+,FEMALE,0
+"[""{c and } the whole parking lot's full of minivans./""]",c and  the whole parking lots full of minivans,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c but, } {d you know, } [ i, + i ] drive a little subaru. /']",c but  d you know   i  i  drive a little subaru ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['<swallowing> {c and, } {f uh, } [ we, + ]  i love that.  /']",swallowing c and  f uh   we    i love that  ,sd,FEMALE,1
+"['i, - /']",i  ,%,FEMALE,5
+['we were going to trade that in for the van  /'],we were going to trade that in for the van  ,sd,FEMALE,1
+['{c but } i just wanted to hold on to it  cause i just really enjoy that. /'],c but  i just wanted to hold on to it  cause i just really enjoy that ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""{c and, } {f uh, } that's really all i needed was for something just to go here and there # and back. # /""]",c and  f uh  thats really all i needed was for something just to go here and there  and back  ,sd,FEMALE,1
+['# yeah.  /'], yeah  ,b,MALE,2
+['#  minivans are nice.  /'],  minivans are nice  ,sv,MALE,3
+['i have a friend who has a minivan. /'],i have a friend who has a minivan ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, } {f uh, } i've driven it a few times  /""]",c and  f uh  ive driven it a few times  ,sd,MALE,1
+"[""{c and, } {f uh, } [ i-, + ]  it's nice,  /""]",c and  f uh   i    its nice  ,sd,MALE,1
+"[""it's nice.  /""]",its nice  ,sd,MALE,1
+"[""of course, {d you know, } [ my fam-, + my family ] has always had cars like that.  {f uh, } in that, {d you know, } my father's [ [ had a, + had a, ] + always  had a ] v w bus every since, {f uh } --""]",of course d you know   my fam  my family  has always had cars like that  f uh  in that d you know  my fathers   had a  had a   always  had a  v w bus every since f uh  ,sd,MALE,1
+"['{f oh, } really <laughter>. /']",f oh  really laughter ,b,FEMALE,2
+"['-- [ nine, + ] about nineteen sixty or so. /']",  nine   about nineteen sixty or so ,+,MALE,0
+"['{f oh, } really. /']",f oh  really ,b,FEMALE,2
+"['{f uh, } # {f uh, } # -/']",f uh   f uh   ,%,MALE,5
+['# <laughter> <children_talking>. #'], laughter childrentalking ,x,FEMALE,8
+"['they,  {d well, } - /']",they  d well   ,%,MALE,5
+"['[ he, + he ]  used it, <throat_clearing>  /']", he  he   used it throatclearing  ,sd,MALE,1
+"['he often has to transport <<mispronounced>> plants or, {f uh, } # things # --']",he often has to transport mispronounced plants or f uh   things  ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""-- like that cause [ he's, + he ]  goes to orchid shows [ and, + and, ] {d you know, } fills the car with plants.  and so on  /""]", like that cause  hes  he   goes to orchid shows  and  and  d you know  fills the car with plants  and so on  ,+,MALE,0
+['{c or }  ((   )) . -/'],c or        ,%,MALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""it's amazing what a minivan can do.  /""]",its amazing what a minivan can do  ,sv,FEMALE,3
+['we went camping this past weekend with some friends that had a minivan.'],we went camping this past weekend with some friends that had a minivan,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['and pulled [ the, + {f uh, } the ] little trailer behind. /']",and pulled  the  f uh  the  little trailer behind ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['the pop-up trailer? /'],the popup trailer ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,MALE,9
+"[""{c and, } {f uh, }  it's, - /""]",c and  f uh   its  ,%,FEMALE,5
+"[""{c so } it's really amazing  how much a minivan [ c-,  {d you know, } what it + ] can  do. /""]",c so  its really amazing  how much a minivan  c  d you know  what it   can  do ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""{c and } they're not that expensive. /""]",c and  theyre not that expensive ,sv,MALE,3
+"['no,  /']",no  ,aa,FEMALE,4
+"[""they're not. /""]",theyre not ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""they're probably # <laughter>  ((   )) . # -/""]",theyre probably  laughter        ,%,FEMALE,5
+"['# mainly because everyone # makes them, {d you know } <laughter>. /']", mainly because everyone  makes them d you know  laughter ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['you can take your choice of how expensive  you <laughter> want it to be. /'],you can take your choice of how expensive  you laughter want it to be ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['{c and } [ we, + we ]  do a lot of, {f uh, } driving.  /']",c and   we  we   do a lot of f uh  driving  ,sd,FEMALE,1
+['we do a lot of traveling.'],we do a lot of traveling,sd,FEMALE,1
+['uh-huh  /'],uhhuh  ,b,MALE,2
+['<<very faint>>.'],very faint,x,MALE,8
+['by car.  /'],by car  ,+,FEMALE,0
+"[""{c and so } that's the only time  [ that the, + that the, ] {f uh, } conversion van came in handy.  /""]",c and so  thats the only time   that the  that the  f uh  conversion van came in handy  ,sd,FEMALE,1
+"[""{c but } it really didn't cause  [ our, + our ] kids are still little. /""]",c but  it really didnt cause   our  our  kids are still little ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so, } {f uh, } <lipsmack> that was the only time we really needed it.  /']",c so  f uh  lipsmack that was the only time we really needed it  ,sd,FEMALE,1
+"['other than that, it got terrible mileage  /']",other than that it got terrible mileage  ,sd,FEMALE,1
+['{c and. } -/'],c and  ,%,FEMALE,5
+['yeah  /'],yeah  ,b,MALE,2
+['<noise>.  yeah.  /'],noise  yeah  ,b,MALE,2
+"['minivans [  d-, +  do ]  pretty well.']",minivans   d   do   pretty well,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, } [ twenty, + twenty, ] twenty-five miles per gallon or more. /']",d you know   twenty  twenty  twentyfive miles per gallon or more ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+['some of them probably even do thirty. /'],some of them probably even do thirty ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['the, {f uh, } - /']",the f uh   ,%,MALE,5
+['yeah.  /'],yeah  ,%,MALE,5
+"[""[ there, + there's ]  some other cars i'd like  /""]", there  theres   some other cars id like  ,sd,MALE,1
+"['{c but } [ i, + [ u-, u-, + ]  i ] would never be willing to send quite that much  money for, {f uh, } {d like, } {f uh, } {f uh, } - /']",c but   i   u u    i  would never be willing to send quite that much  money for f uh  d like  f uh  f uh   ,sd,MALE,1
+"[""i'll drool over them. /""]",ill drool over them ,sd,MALE,1
+['</children_talking> </tv>.'],childrentalking tv,x,FEMALE,8

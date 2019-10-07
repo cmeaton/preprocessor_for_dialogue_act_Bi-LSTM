@@ -1,0 +1,175 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+"['miss nancy, we should be in business now. /']",miss nancy we should be in business now ,sd,MALE,1
+['# good. # /'], good  ,bk,FEMALE,14
+"['# did # you hear the questions that the lady, {f uh, } brought up? /']", did  you hear the questions that the lady f uh  brought up ,qy,MALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"['such as how much time, {d well, } - /']",such as how much time d well   ,qy^d,MALE,16
+"[""i'll ask,  /""]",ill ask  ,oo_co_cc,MALE,36
+"['how much time do you spend with your children,  /']",how much time do you spend with your children  ,qw,MALE,12
+['{c and } how many do you have? /'],c and  how many do you have ,qw,MALE,12
+"['we have two children,  /']",we have two children  ,sd,FEMALE,1
+"[""they're both grown and married  /""]",theyre both grown and married  ,sd,FEMALE,1
+"['{c and } [ with, + ] we have,   {f uh, } - /']",c and   with   we have   f uh   ,%,FEMALE,5
+"['our daughter has three sons,  /']",our daughter has three sons  ,sd,FEMALE,1
+"['{c so } we see them at least once a week,  /']",c so  we see them at least once a week  ,sd,FEMALE,1
+"['{c and } we see our son and his wife <breathing> {f uh, } about every other week  /']",c and  we see our son and his wife breathing f uh  about every other week  ,sd,FEMALE,1
+"['{c and, } {f uh } --']",c and  f uh  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- we baby-sit quite frequently.   /'], we babysit quite frequently   ,+,FEMALE,0
+"[""{c so } we're a fairly close-knit family.  /""]",c so  were a fairly closeknit family  ,sd,FEMALE,1
+"[""we're together a lot on special days  /""]",were together a lot on special days  ,sd,FEMALE,1
+"['[ {c and, } + {f uh, } {c and } ] of course, with the holidays and everything. -/']", c and   f uh  c and   of course with the holidays and everything ,sd,FEMALE,1
+"[""{d well, } you're very fortunate.  /""]",d well  youre very fortunate  ,ba,MALE,6
+"['{f uh, } [ my + <laughter> <breathing> my, ] {f uh, } - /']",f uh   my  laughter breathing my  f uh   ,%,MALE,5
+"['i have two girls and a son, /']",i have two girls and a son ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# {c and } # my oldest daughter lives in amsterdam, holland. /']", c and   my oldest daughter lives in amsterdam holland ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['# [ she <laughter>, # +']",  she laughter  ,sd,MALE,1
+['# <laughter>. #'], laughter ,x,FEMALE,8
+"['her ] husband builds pianos,  /']",her  husband builds pianos  ,+,MALE,0
+"[""{c so } it's kind of hard for us to visit with them, as much as i'd like to.""]",c so  its kind of hard for us to visit with them as much as id like to,sd,MALE,1
+"['{f oh, } # yes. # /']",f oh   yes  ,ba,FEMALE,6
+"[""# because # [ [ we've, + we, ] + one thing we ] do have together is we're both musicians.  /""]", because    weve  we   one thing we  do have together is were both musicians  ,+,MALE,0
+['i play in several symphony orchestras  /'],i play in several symphony orchestras  ,sd,MALE,1
+"['{c and, }']",c and ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# she is # [ [ a, + a, ] + a ] concert, {f uh, } harpsichordist.']", she is    a  a   a  concert f uh  harpsichordist,+,MALE,0
+['oh. /'],oh ,b,FEMALE,2
+['and travels around a good bit in europe. /'],and travels around a good bit in europe ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } her husband builds forte pianos,  /']",c and  f uh  her husband builds forte pianos  ,sd,MALE,1
+['which are harpsichord size # pianos. # /'],which are harpsichord size  pianos  ,sd,MALE,1
+"['# pianos, # uh-huh. /']", pianos  uhhuh ,b^m,FEMALE,24
+"[""{c and, } {f uh, } that's why they're over there.   /""]",c and  f uh  thats why theyre over there   ,sd,MALE,1
+"['{c and then } i have [ a, + a ] son who lives in, {f uh, } <lipsmack> warrington, pennsylvania. /']",c and then  i have  a  a  son who lives in f uh  lipsmack warrington pennsylvania ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } i get to see him maybe once every three months.   /'],c and  i get to see him maybe once every three months   ,sd,MALE,1
+"[""{c so } [ i really, + ] we've lost, {d you know, } - /""]",c so   i really   weve lost d you know   ,sd,MALE,1
+"[""i'd like to have an everyday contact with children, {f uh, } as well as you do, for that matter,  /""]",id like to have an everyday contact with children f uh  as well as you do for that matter  ,sd,MALE,1
+"['{c and } [ my + (( young )) , my ] youngest daughter lives in new jersey,  /']",c and   my   young   my  youngest daughter lives in new jersey  ,sd,MALE,1
+"['{c and so } # [ they, # +']",c and so    they  ,sd,MALE,1
+"[""# {f oh, } # you don't get to see any of # yours very often. # /""]", f oh   you dont get to see any of  yours very often  ,bf,FEMALE,20
+"[""# i ] don't hardly # get to see any of them.  /""]", i  dont hardly  get to see any of them  ,+,MALE,0
+"['she works in these, {f um, } <lipsmack> trump type casinos,  /']",she works in these f um  lipsmack trump type casinos  ,sd,MALE,1
+['she and her husband # both do.  /'],she and her husband  both do  ,sd,MALE,1
+"['[ they work, # -- +']", they work   ,sd,MALE,1
+"['# yes,  /']", yes  ,b,FEMALE,2
+['uh-huh. # /'],uhhuh  ,b,FEMALE,2
+"[""-- {f uh, } they're ] really both, {f um } <lipsmack> [ play, + people who play ] on stage -- /""]", f uh  theyre  really both f um  lipsmack  play  people who play  on stage  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, } {f uh, } they're running lights right now and audio and (( that thing )) # for, #""]", c and  f uh  theyre running lights right now and audio and  that thing   for ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['plays and things that go on.  /'],plays and things that go on  ,+,MALE,0
+"['{c but } anyhow <breathing> {f uh, }  /']",c but  anyhow breathing f uh   ,%,MALE,5
+"['[ what do you, + what activities do you ] do with your children when you are together? /']", what do you  what activities do you  do with your children when you are together ,qw,MALE,12
+"['{f oh, } most the # time, # -/']",f oh  most the  time  ,%,FEMALE,5
+['# <cough>. #'], cough ,x,MALE,8
+"[""{d well, } right now it's football season,  /""]",d well  right now its football season  ,sd,FEMALE,1
+"['{c and } our daughter is a big cowboy fan,  /']",c and  our daughter is a big cowboy fan  ,sd,FEMALE,1
+"['as is our husband,  /']",as is our husband  ,sd,FEMALE,1
+"['{c so, } my husband, - /']",c so  my husband  ,%,FEMALE,5
+['{c so } she watches that  /'],c so  she watches that  ,sd,FEMALE,1
+['{c and } i play with the grandchildren <laughter>. /'],c and  i play with the grandchildren laughter ,sd,FEMALE,1
+['# <laughter>. #'], laughter ,x,MALE,8
+['# i enjoy the # grandchildren.   /'], i enjoy the  grandchildren   ,sd,FEMALE,1
+"[""{c but, } {d now, } like last weekend, {f um, } there's the soviet space exhibit is here in dallas,  /""]",c but  d now  like last weekend f um  theres the soviet space exhibit is here in dallas  ,sd,FEMALE,1
+"['{c and } it ends,']",c and  it ends,sd,FEMALE,1
+['# oh. # /'], oh  ,b,MALE,2
+"['# {f uh, } # in january,  /']", f uh   in january  ,+,FEMALE,0
+"['{c so } she [ and, + and ] the three boys and my husband and i went over into fort worth to see the space exhibit  /']",c so  she  and  and  the three boys and my husband and i went over into fort worth to see the space exhibit  ,sd,FEMALE,1
+"['{c and } this # sunday, # -/']",c and  this  sunday  ,%,FEMALE,5
+['# the soviet # space # exhibit? # /'], the soviet  space  exhibit  ,qy,MALE,7
+['# uh-huh. # /'], uhhuh  ,ny,FEMALE,9
+['# my goodness. # /'], my goodness  ,ba,MALE,6
+['# yeah  /'], yeah  ,aa,FEMALE,4
+['i am surprised they would bring anything over here. /'],i am surprised they would bring anything over here ,sv,MALE,3
+"[""{f oh, } it's ] been here for quite, {f uh, } some time.  /""]",f oh  its  been here for quite f uh  some time  ,+,FEMALE,0
+['i think it came here in either september or october #  /'],i think it came here in either september or october   ,sd,FEMALE,1
+"['{c and, } #']",c and  ,sv,FEMALE,3
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""it's [ very interesting, + # very interesting, ] # /""]",its  very interesting   very interesting   ,+,FEMALE,0
+"[""# i'll bet. # /""]", ill bet  ,ba,MALE,6
+"[""{c and } it's been very well done <breathing>.  /""]",c and  its been very well done breathing  ,sv,FEMALE,3
+"[""{f uh, } {c and } [ this, + {f uh, } next ] sunday they're coming over after the cowboy game  /""]",f uh  c and   this  f uh  next  sunday theyre coming over after the cowboy game  ,sd,FEMALE,1
+"['{c and, } # {f uh, } #']",c and   f uh  ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""{f uh, } we're going to go take the boys to see christmas lights and go to a santa's village.   /""]",f uh  were going to go take the boys to see christmas lights and go to a santas village   ,+,FEMALE,0
+"[""[ {c and, } {f uh, } + {c then } ] when our son's over, we have a pool,  /""]", c and  f uh   c then   when our sons over we have a pool  ,sd,FEMALE,1
+"['{c and } he and his wife come and a lot of their friends,  /']",c and  he and his wife come and a lot of their friends  ,sd,FEMALE,1
+"['{c and } we have cookouts on sunday # {f uh, } # /']",c and  we have cookouts on sunday  f uh   ,sd,FEMALE,1
+"['# {d well, } # that sounds like you have # really, # --']", d well   that sounds like you have  really  ,ba,MALE,6
+"['# {c and, } {f uh } # --']", c and  f uh   ,sd,FEMALE,1
+['-- wonderful activities that --'], wonderful activities that ,+,MALE,0
+"['-- [ we, + we ] do a lot [ with -- +']",  we  we  do a lot  with  ,+,FEMALE,0
+['-- keep you together. /'], keep you together ,+,MALE,0
+"['-- with ] our kids,  /']", with  our kids  ,+,FEMALE,0
+['{c and } [ we -- +'],c and   we  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- we ] always have.  /'], we  always have  ,+,FEMALE,0
+"[""we've taken a lot of trips with our kids when they were younger.  /""]",weve taken a lot of trips with our kids when they were younger  ,sd,FEMALE,1
+"[""{f uh, } we're very family oriented.  /""]",f uh  were very family oriented  ,sd,FEMALE,1
+"['[ we, + {f um, }']", we  f um ,sd,FEMALE,1
+"['# we ] like # being with our kids,  /']", we  like  being with our kids  ,+,FEMALE,0
+"['{c and } the kids seem to enjoy being with us,  /']",c and  the kids seem to enjoy being with us  ,sd,FEMALE,1
+['{c and } their friends enjoy being with us. /'],c and  their friends enjoy being with us ,sd,FEMALE,1
+"[""uh-huh. /  *[[slash error, should be 'b']]""]",uhhuh   slash error should be b,+,MALE,0
+"['{d so } [ which + that ] keeps us very, very young, with all these young people passing in and out and # eating, # /']",d so   which  that  keeps us very very young with all these young people passing in and out and  eating  ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""{c and } # seems like i've, # -/""]",c and   seems like ive  ,%,FEMALE,5
+"['# the only # problem is, it keeps you pretty busy, keeping everything going,  /']", the only  problem is it keeps you pretty busy keeping everything going  ,sv,MALE,3
+"[""doesn't it? /""]",doesnt it ,^g,MALE,40
+"['{d well, } it does # <laughter>. # /']",d well  it does  laughter  ,na,FEMALE,21
+['# <laughter>. #'], laughter ,x,MALE,8
+"[""i'm worried about christmas.  /""]",im worried about christmas  ,sd,FEMALE,1
+"['christmas eve they all pass through,  /']",christmas eve they all pass through  ,sd,FEMALE,1
+"['{c and then } they all end up spending the night christmas eve night, so # that, #']",c and then  they all end up spending the night christmas eve night so  that ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['we open our presents on christmas day <breathing> -- /'],we open our presents on christmas day breathing  ,+,FEMALE,0
+['beautiful. /'],beautiful ,ba,MALE,6
+"['-- {c and } they go out to [ the other, + {d you know, } the in-laws ] in between some of this,  /']", c and  they go out to  the other  d you know  the inlaws  in between some of this  ,sd,FEMALE,1
+"[""{c but } they're # all, #""]",c but  theyre  all ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['with us,  /']",with us  ,+,FEMALE,0
+"['[ {c and, } + {f uh, } {c then } ] have christmas dinner with us and then go to other in-laws and things,  /']", c and   f uh  c then   have christmas dinner with us and then go to other inlaws and things  ,sd,FEMALE,1
+['{c so } we see a lot of them.   /'],c so  we see a lot of them   ,sd,FEMALE,1
+"[""{c but } we enjoy christmas eve night, because they all start arriving by about eleven o'clock,  /""]",c but  we enjoy christmas eve night because they all start arriving by about eleven oclock  ,sd,FEMALE,1
+"[""{c and } we open presents about five o'clock # christmas, #""]",c and  we open presents about five oclock  christmas ,sd,FEMALE,1
+['# <throat_clearing>. #'], throatclearing ,x,MALE,8
+"['morning,  /']",morning  ,+,FEMALE,0
+"['[ {c and, } + {d you know, } [ {c and, } + {f uh, } # {c then, } # ] ]']", c and   d you know   c and   f uh   c then    ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['i go to the kitchen and cook,  /']",i go to the kitchen and cook  ,+,FEMALE,0
+"['{c and } my sister [ and, + and ] her husband are coming down,  /']",c and  my sister  and  and  her husband are coming down  ,sd,FEMALE,1
+"[""{c so } there's going to be eleven of us # for christmas. # /""]",c so  theres going to be eleven of us  for christmas  ,sd,FEMALE,1
+"[""# that's great. #  /""]", thats great   ,ba,MALE,6
+"[""there's a, - /""]",theres a  ,%,MALE,5
+"['the question now to ask, is it difficult to find time,  /']",the question now to ask is it difficult to find time  ,sd,MALE,1
+['{c and } you seem to be making out all right. /'],c and  you seem to be making out all right ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""sometimes i'm a little exhausted # <laughter>. # /""]",sometimes im a little exhausted  laughter  ,sd,FEMALE,1
+"['# <laughter> {d well, } tell me,  /']", laughter d well  tell me  ,ad,MALE,22
+"['[ wh-, + # what ] do you think [ of, + {f uh, } of ] the current trends of how other people spend time with their children # and so forth? # /']", wh   what  do you think  of  f uh  of  the current trends of how other people spend time with their children  and so forth  ,qo,MALE,25
+"['# {f oh, } [ i, + # i ] think the trends are going back to spending more time with families. /']", f oh   i   i  think the trends are going back to spending more time with families ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['i think parents are definitely, {f uh, } spending more and more time.  /']",i think parents are definitely f uh  spending more and more time  ,sv,FEMALE,3
+"[""i don't think they're leaving them with baby-sitters, {d you know. }  /""]",i dont think theyre leaving them with babysitters d you know   ,sv,FEMALE,3
+"['[ i think, + i think ] family quality time is becoming much more important than it was # there # --']", i think  i think  family quality time is becoming much more important than it was  there  ,sv,FEMALE,3
+['# yes. # /'], yes  ,b,MALE,2
+"[""-- for about, {f uh, } i don't know, eight or nine years. /""]", for about f uh  i dont know eight or nine years ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""seems like it went through a spell there where families weren't that big a deal.  /""]",seems like it went through a spell there where families werent that big a deal  ,sv,FEMALE,3
+"['parents kind of went and did their thing,  /']",parents kind of went and did their thing  ,sv,FEMALE,3
+['kids did their thing. /'],kids did their thing ,sv,FEMALE,3
+"[""{d well, } that's - /""]",d well  thats  ,%,MALE,5
+"['# no, # /']", no  ,aa,MALE,4
+"[""that's exactly what i was going to say.  /""]",thats exactly what i was going to say  ,aa,MALE,4
+"['[ of, + of ] course, i find now that i spend more time with my grandchildren in --']", of  of  course i find now that i spend more time with my grandchildren in ,sd,MALE,1
+"['yes,  /']",yes  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- detail.  /'], detail  ,+,MALE,0
+"['i know more about them and watch their growth and how they improve [ and, + and ] learn much more so than my own kids.  /']",i know more about them and watch their growth and how they improve  and  and  learn much more so than my own kids  ,sd,MALE,1
+"['[ when, + when ] your own children are growing up, you just take them for granted  /']", when  when  your own children are growing up you just take them for granted  ,sv,MALE,3
+['{c and } you go ahead and  do your thing  /'],c and  you go ahead and  do your thing  ,sv,MALE,3
+"['{c and, } -/']",c and  ,%,MALE,5

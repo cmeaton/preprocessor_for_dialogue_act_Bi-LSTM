@@ -1,0 +1,128 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+"[""we're energized. /""]",were energized ,sd,MALE,1
+['okay. /'],okay ,b,FEMALE,2
+"['{f um, } painting,  /']",f um  painting  ,sd,MALE,1
+['interesting.   /'],interesting   ,sd,MALE,1
+"['{f uh,  } the guy called me,  /']",f uh   the guy called me  ,sd,MALE,1
+"['when she called me, the computer called me, i thought that they were reading my mind.  /']",when she called me the computer called me i thought that they were reading my mind  ,sd,MALE,1
+"[""i'm in the middle of, {f um, } going out for bids to have my house painted. /""]",im in the middle of f um  going out for bids to have my house painted ,sd,MALE,1
+['{f oh. } /'],f oh  ,b,FEMALE,2
+"['{f uh, } painting is not hard to do, {f uh, }']",f uh  painting is not hard to do f uh ,sd,MALE,1
+['no. /'],no ,aa,FEMALE,4
+"[""as long as it's [ not in, + not to  ] the point of where it [ 's, +  {f uh, } needs ]  to be scraped and [ bl-, + ] peeling, /""]",as long as its  not in  not to   the point of where it  s   f uh  needs   to be scraped and  bl   peeling ,+,MALE,0
+['right. /'],right ,b,FEMALE,2
+['{c and } our house is not - /'],c and  our house is not  ,sd,MALE,1
+"[""{c but } it's starting to bleed through and burn through because the paint's real cheap  /""]",c but  its starting to bleed through and burn through because the paints real cheap  ,sd,MALE,1
+"[""{c and } it's just a hassle to go through it  /""]",c and  its just a hassle to go through it  ,sd,MALE,1
+"[""{c so } i'm looking for the easy way out. /""]",c so  im looking for the easy way out ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{f uh, } i know.  /']",f uh  i know  ,aa,FEMALE,4
+"['di-, - /']",di  ,%,FEMALE,5
+"['is easy to find [ pa-, +  {f uh, } painters ] to do this for you? /']",is easy to find  pa   f uh  painters  to do this for you ,qy,FEMALE,7
+"[""it's easier to find painters,  /""]",its easier to find painters  ,no,MALE,31
+"['{c but } [ you have to be, + you have to be ] aware of [ what, + {f uh, } how ] messy they can get and are they going to put on [ a good, + a good ] two coats, and are they,']",c but   you have to be  you have to be  aware of  what  f uh  how  messy they can get and are they going to put on  a good  a good  two coats and are they,sd,MALE,1
+"['ri-, - /']",ri  ,%,FEMALE,5
+"['are you talking,']",are you talking,qy,FEMALE,7
+"['going to caulk, /']",going to caulk ,+,MALE,0
+['outside or inside? /'],outside or inside ,+,FEMALE,0
+['exterior. /'],exterior ,sd,MALE,1
+"['exterior,  /']",exterior  ,b^m,FEMALE,24
+['yeah. /'],yeah ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{f uh, } interior's not so bad because it's more fun,  /""]",f uh  interiors not so bad because its more fun  ,sv,MALE,3
+"[""it's more, c-, - /""]",its more c  ,%,MALE,5
+"['{c but } yeah, /']",c but  yeah ,%,MALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"['outside you have high peeks,']",outside you have high peeks,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['and those kind of things,  /']",and those kind of things  ,+,MALE,0
+['it can be a real issue. /'],it can be a real issue ,sv,MALE,3
+"[""{d well, } when we've painted, {f um, } - /""]",d well  when weve painted f um   ,sd,FEMALE,1
+"[""right now our house doesn't have to have the same kind of exterior painting there,  /""]",right now our house doesnt have to have the same kind of exterior painting there  ,sd,FEMALE,1
+"[""it's more trim because it has some of the old asbestos shingles,""]",its more trim because it has some of the old asbestos shingles,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""on the back  and there's some sort of stone  or something in the front  /""]",on the back  and theres some sort of stone  or something in the front  ,+,FEMALE,0
+"[""{c so }  there isn't as much wood that has to be painted.   /""]",c so   there isnt as much wood that has to be painted   ,sd,FEMALE,1
+"['{f um, }  {c but, }  [ i-, + it, ] - /']",f um   c but    i  it   ,%,FEMALE,5
+"['the problem is that [ it   hits, + the sun hits ] it.  /']",the problem is that  it   hits  the sun hits  it  ,sd,FEMALE,1
+"['{c so } preparing is a real problem, /']",c so  preparing is a real problem ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""you've got to prepare it well  /""]",youve got to prepare it well  ,sd,FEMALE,1
+['{c or } else it will flake. /'],c or  else it will flake ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f um, } /']",f um  ,%,FEMALE,5
+"['here they, - /']",here they  ,%,MALE,5
+"['some of the home builders are, - /']",some of the home builders are  ,sd,MALE,1
+"[""they don't put brick on the side of your house just to save money  /""]",they dont put brick on the side of your house just to save money  ,sd,MALE,1
+"['{c so } they put up, {f uh, } a quarter inch masonite, basically,  /']",c so  they put up f uh  a quarter inch masonite basically  ,sd,MALE,1
+['{c and } they painted it kind of like a  (( spun ))   (( of a sorts ))  /'],c and  they painted it kind of like a   spun     of a sorts   ,sd,MALE,1
+"[""{c so } it's real cheap.  /""]",c so  its real cheap  ,sd,MALE,1
+"[""{c and, } {f uh, } {f uh, } i've had thirteen hundred dollar bid   and [ i, + ]   as low as five hundred and forty dollars  /""]",c and  f uh  f uh  ive had thirteen hundred dollar bid   and  i     as low as five hundred and forty dollars  ,sd,MALE,1
+"[""{c so } it's,""]",c so  its,%,MALE,5
+['wow.'],wow,ba,FEMALE,6
+"['just a matter of, - /']",just a matter of  ,+,MALE,0
+"[""it's, -/""]",its ,%,MALE,5
+"[""that's quite a range. /""]",thats quite a range ,+,FEMALE,0
+"[""{f oh, } there one guy brags about his piece of equipment he's using and the drop cloths and all that kind crap  /""]",f oh  there one guy brags about his piece of equipment hes using and the drop cloths and all that kind crap  ,sd,MALE,1
+"[""{c and } i'm so much worried about that as what,""]",c and  im so much worried about that as what,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i don't want it all over the brick and windows  /""]",i dont want it all over the brick and windows  ,+,MALE,0
+"['{c and, } -/']",c and  ,%,MALE,5
+"['<laughter> yeah,  /']",laughter yeah  ,aa,FEMALE,4
+"['which might be a bigger problem than it would be, {f uh, } -/']",which might be a bigger problem than it would be f uh  ,sv,FEMALE,3
+"['{f oh, } sure. /']",f oh  sure ,ba,MALE,6
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['absolutely <breathing>. /'],absolutely breathing ,aa,FEMALE,4
+"[""{c so }  y'all, you  haven't had [ any, + any ] jobs painted in your house [ or + ] recently ((   )) . /""]",c so   yall you  havent had  any  any  jobs painted in your house  or   recently      ,qy^d,MALE,16
+"['no,  /']",no  ,nn,FEMALE,13
+"[""we [ 've +  have, ]  {f uh, } done a little painting ourselves, {f um, }  /""]",we  ve   have   f uh  done a little painting ourselves f um   ,sd,FEMALE,1
+"['we painted the bedroom, {f uh, } well within the last [ t-, + ] couple of months, /']",we painted the bedroom f uh  well within the last  t   couple of months ,sd,FEMALE,1
+"[""that's fun. /""]",thats fun ,ba,MALE,6
+"['{c and } [ we have, + we have ] some more that need to be done, /']",c and   we have  we have  some more that need to be done ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but } [ the, + the ] problem that [ we've, + we've ] owned this house almost five years now,  /""]",c but   the  the  problem that  weve  weve  owned this house almost five years now  ,sd,FEMALE,1
+"['{c and, } {f um, } when we bought it [ the, + ] {f um, } it had been vacant for a while because the family will retired,  ((   ))  /']",c and  f um  when we bought it  the   f um  it had been vacant for a while because the family will retired       ,sd,FEMALE,1
+['{c but } the daughter was a real estate agent  /'],c but  the daughter was a real estate agent  ,sd,FEMALE,1
+['{c and } she was selling it  /'],c and  she was selling it  ,sd,FEMALE,1
+"[""{c and } it's been lived in briefly by her before she bought her town house.  /""]",c and  its been lived in briefly by her before she bought her town house  ,sd,FEMALE,1
+"['{c so } she told us that the house had been, {f uh, } professionally painted recently.  /']",c so  she told us that the house had been f uh  professionally painted recently  ,sd,FEMALE,1
+"['{c and } it looked pretty good, {d you know, }   [ the, + {f uh, } the  ] interior walls all basically white,  /']",c and  it looked pretty good d you know     the  f uh  the   interior walls all basically white  ,sd,FEMALE,1
+"['{c but } they obviously had been done without to   much, {f uh, } wear afterward.  /']",c but  they obviously had been done without to   much f uh  wear afterward  ,sd,FEMALE,1
+"['the only problem was when we started having the movers move the furniture in we identified various rooms by pieces of masking tape on [ the wood-, + {f uh, } the  ] door frames, /']",the only problem was when we started having the movers move the furniture in we identified various rooms by pieces of masking tape on  the wood  f uh  the   door frames ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['when we took the masking tape off half the painted came with it. /'],when we took the masking tape off half the painted came with it ,sd,FEMALE,1
+"[""{f uh, } that's not very, -/""]",f uh  thats not very ,ba,MALE,6
+['big long strips.  /'],big long strips  ,sd,FEMALE,1
+['{c so } what had happened is that professional painters had not prepared the surface properly.  /'],c so  what had happened is that professional painters had not prepared the surface properly  ,sd,FEMALE,1
+['{c and } some of   still has to be redone. /'],c and  some of   still has to be redone ,sd,FEMALE,1
+"['{f oh, } they just painted over varnished wood. /']",f oh  they just painted over varnished wood ,bf,MALE,20
+"['yeah, /']",yeah ,aa,FEMALE,4
+"['{f oh, } my, /']",f oh  my ,ba,MALE,6
+"['{d well, } no  /']",d well  no  ,ar,FEMALE,28
+"['actually [ [ it had been, + {f uh, } it would have been, ] + it had been  ] a repaint job. /']",actually   it had been  f uh  it would have been   it had been   a repaint job ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,MALE,2
+"['{c but } they had not, - /']",c but  they had not  ,sd,FEMALE,1
+['either they had painted with the wrong kind of paint over top  /'],either they had painted with the wrong kind of paint over top  ,sd,FEMALE,1
+"[""{c or } they hadn't really roughed it up or whatever [ they, + ]  /""]",c or  they hadnt really roughed it up or whatever  they    ,sd,FEMALE,1
+['{c because } it was woodwork  /'],c because  it was woodwork  ,sd,FEMALE,1
+"['{c so } it looked as if it had been painted,']",c so  it looked as if it had been painted,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['correctly with, {d you know, } {f uh, } an enamel or something,  /']",correctly with d you know  f uh  an enamel or something  ,+,FEMALE,0
+"['{c but, } {f um, } it had not,  /']",c but  f um  it had not  ,sd,FEMALE,1
+['either that or it had not been prepared underneath  /'],either that or it had not been prepared underneath  ,sd,FEMALE,1
+"['{c and } it was greasy or  something, /']",c and  it was greasy or  something ,sd,FEMALE,1
+['sure. /'],sure ,b,MALE,2
+"['it comes off in strips,  {e i mean } not even little bit.  /']",it comes off in strips  e i mean  not even little bit  ,sd,FEMALE,1
+"['{c so } we still have some of that trim work to do because we put it off <laughter> all this time, /']",c so  we still have some of that trim work to do because we put it off laughter all this time ,sd,FEMALE,1
+"['{f oh, } no. /']",f oh  no ,ba,MALE,6
+"[""we know what a job it's going to be  /""]",we know what a job its going to be  ,sd,FEMALE,1
+"['{c because } you almost have to strip the whole thing,']",c because  you almost have to strip the whole thing,sd,FEMALE,1
+['{f um. } /'],f um  ,b,MALE,2
+['in order to do it again. /'],in order to do it again ,+,FEMALE,0
+['i wish you good luck. /'],i wish you good luck ,fc,MALE,10
+['okay <laughter>. /'],okay laughter ,fc,FEMALE,10
+['thank you very much. /'],thank you very much ,fc,MALE,10
+['thank you. /'],thank you ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10
+['bye. /'],bye ,fc,FEMALE,10

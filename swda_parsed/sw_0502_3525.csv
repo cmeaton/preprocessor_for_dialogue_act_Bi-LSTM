@@ -1,0 +1,164 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['they tell you what our topic was? /'],they tell you what our topic was ,qy,MALE,7
+"[""i think golf, isn't it? /""]",i think golf isnt it ,qy,MALE,7
+['right. /'],right ,na,MALE,21
+['<laughter>.'],laughter,x,MALE,8
+['<laughter>  how much of a golfer are you? /'],laughter  how much of a golfer are you ,qw,MALE,12
+['are you a hacker? /'],are you a hacker ,qy,MALE,7
+['you bet. /'],you bet ,na,MALE,21
+['<laughter>.'],laughter,x,MALE,8
+"[""i'm fifty years old,  /""]",im fifty years old  ,sd,MALE,1
+"[""i've been a hacker, - /""]",ive been a hacker  ,sd,MALE,1
+"['[ i think, + i think ] i played better golf when i was fifteen, john, than --']", i think  i think  i played better golf when i was fifteen john than ,sd,MALE,1
+"['[ i know i, +']", i know i ,sd,MALE,1
+['-- i play right now. /'], i play right now ,+,MALE,0
+"['{f oh, } i know i ] did,  /']",f oh  i know i  did  ,+,MALE,0
+['i know i did. /'],i know i did ,sd,MALE,1
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+"['course, i know i watch my thirteen year old play now, {d you know, }  /']",course i know i watch my thirteen year old play now d you know   ,sd,MALE,1
+"[""{c and } it's like they don't have a muscle in their body. /""]",c and  its like they dont have a muscle in their body ,sv,MALE,3
+"['{f oh, } i know,  /']",f oh  i know  ,aa,MALE,4
+"[""it's just unreal.  /""]",its just unreal  ,sv,MALE,3
+"[""[ i, + {d you know, } i'm ] a guy that plays, - /""]", i  d you know  im  a guy that plays  ,sd,MALE,1
+"['if i play a lot of golf, i play six to eight times a year  /']",if i play a lot of golf i play six to eight times a year  ,sd,MALE,1
+"[""{c and } that's <laughter> about it.  /""]",c and  thats laughter about it  ,sd,MALE,1
+"[""i figure that's my retirement game.  /""]",i figure thats my retirement game  ,sd,MALE,1
+"['i really, - /']",i really  ,%,MALE,5
+['i come from a family of golfers. /'],i come from a family of golfers ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{e i mean, }  i was raised by a man, my stepfather who, with a two handicap, {e i mean, }  [ [ [ he, + he,  ] + he,  ] + he  ]  could get down on his knees and hit the ball,  {e i mean, } further than most people could hit it. /']",e i mean   i was raised by a man my stepfather who with a two handicap e i mean      he  he    he    he    could get down on his knees and hit the ball  e i mean  further than most people could hit it ,sd,MALE,1
+['sure. /'],sure ,b,MALE,2
+"[""[ {c and } my mother who is now, +   {a [ he's, + my stepfather is  ] dead, }  {c but } my mother who is now seventy-one <breathing>, ] i can remember her being, i believe a sixteen or  a fourteen handicap, /""]", c and  my mother who is now    a  hes  my stepfather is   dead   c but  my mother who is now seventyone breathing  i can remember her being i believe a sixteen or  a fourteen handicap ,sd,MALE,1
+['<breathing>.'],breathing,x,MALE,8
+"['[ {c but, } + {c but, }  ] {f uh, } all they did every day in their life was to play golf every, - /']", c but   c but    f uh  all they did every day in their life was to play golf every  ,sd,MALE,1
+"[""they'd leave work and go to a golf course, or a little country club they belonged to back in richmond, virginia and just, {f uh, } play nine holes of golf. /""]",theyd leave work and go to a golf course or a little country club they belonged to back in richmond virginia and just f uh  play nine holes of golf ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['that was their deal,  /']",that was their deal  ,sd,MALE,1
+"['they, -/']",they ,%,MALE,5
+"[""that's what it takes,  /""]",thats what it takes  ,ba,MALE,6
+"['[ you, + you  ] need to play that often --']", you  you   need to play that often ,sv,MALE,3
+"['{c but, } {f uh } --']",c but  f uh  ,sd,MALE,1
+['-- to get a really good  (( handicap )) . /'], to get a really good   handicap   ,+,MALE,0
+"['-- [ i just, + i just ] never could do it.  /']",  i just  i just  never could do it  ,+,MALE,0
+"['i have a brother-in-law who is, {f uh, } an ex-college coach and like a pro  /']",i have a brotherinlaw who is f uh  an excollege coach and like a pro  ,sd,MALE,1
+['{c and } he has a very good handicap and plays good golf <laughter>  /'],c and  he has a very good handicap and plays good golf laughter  ,sd,MALE,1
+['sort of like the non golfer golfer of the family. /'],sort of like the non golfer golfer of the family ,sd,MALE,1
+"['{d well, } i went to, - /']",d well  i went to  ,sd,MALE,1
+['i decided this past year that i was going to get out and  start playing a lot more  /'],i decided this past year that i was going to get out and  start playing a lot more  ,sd,MALE,1
+"['{c and } [ i, + i ] went after it  /']",c and   i  i  went after it  ,sd,MALE,1
+"[""{c and } [ did, + {c and } i really didn't ] find much improvement.  /""]",c and   did  c and  i really didnt  find much improvement  ,sd,MALE,1
+"[""fact, ever time i'd start trying to correct something, it seemed like the score would --   *[[listen]]""]",fact ever time id start trying to correct something it seemed like the score would    listen,sd,MALE,1
+"['{f oh, } really? /']",f oh  really ,bh,MALE,18
+"['-- [ go, + go ] back up,  /']",  go  go  back up  ,+,MALE,0
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['[ i, + i ] --']", i  i  ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- think i need to, {f uh, } - /']", think i need to f uh   ,+,MALE,0
+"['i probably need to take [ some, + some ] more lessons, {f uh, } more current --']",i probably need to take  some  some  more lessons f uh  more current ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- [ and, +  {f uh, } and ] practice more often.  /']",  and   f uh  and  practice more often  ,+,MALE,0
+"['spend more time on the, -/']",spend more time on the ,sv,MALE,3
+"[""i think i'm probably the same way.  /""]",i think im probably the same way  ,sv,MALE,3
+['lessons do help.   /'],lessons do help   ,sv,MALE,3
+"['i know ever year we buy, - /']",i know ever year we buy  ,sd,MALE,1
+"['i go to this ducks unlimited dinner,  /']",i go to this ducks unlimited dinner  ,sd,MALE,1
+"[""it's a hunter's type affair -- /""]",its a hunters type affair  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } i buy [ in, + in ] austin, texas, - /']", c and  i buy  in  in  austin texas  ,sd,MALE,1
+"['i go down to austin,  /']",i go down to austin  ,sd,MALE,1
+"['i live in the dallas area, but i go down to austin and go with my good customer and friend of mine -- /']",i live in the dallas area but i go down to austin and go with my good customer and friend of mine  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } we always buy this weekend [ at a, + at a ] country club in the hill country.']", c and  we always buy this weekend  at a  at a  country club in the hill country,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['{d you know, } at, {f uh, } horseshoe bay. /']",d you know  at f uh  horseshoe bay ,+,MALE,0
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,MALE,4
+"[""i'm familiar with it. /""]",im familiar with it ,sd,MALE,1
+"['{c and } we just have a ball,  /']",c and  we just have a ball  ,sd,MALE,1
+"['{c and } we play three days in a row, three different courses  /']",c and  we play three days in a row three different courses  ,sd,MALE,1
+"['{c and, } course, believe it or not by the end of the third day and the end of the, {f uh, } third course, my score has gone from, {d you know, } a hundred and  twenty down to about a hundred and five.  /']",c and  course believe it or not by the end of the third day and the end of the f uh  third course my score has gone from d you know  a hundred and  twenty down to about a hundred and five  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,MALE,4
+"['if you play regular, i think it makes a big difference. /']",if you play regular i think it makes a big difference ,sd,MALE,1
+"['you bet,  /']",you bet  ,aa,MALE,4
+"['{c so } [ it, + that ] makes a lot of difference to me. /']",c so   it  that  makes a lot of difference to me ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""[ i, + {d well, } i've  ] also found, too,  [ i, + i ] try to work out regularly  /""]", i  d well  ive   also found too   i  i  try to work out regularly  ,sd,MALE,1
+"['{c and } when i am doing that, {f uh, } and feeling loose  [ and, + ]  that i swing better,  /']",c and  when i am doing that f uh  and feeling loose   and    that i swing better  ,sd,MALE,1
+"['[ [ i, + i,  ] + i ] get through the ball better.   /']",  i  i    i  get through the ball better   ,sd,MALE,1
+"['{f uh, } {c and } i also, if i, - /']",f uh  c and  i also if i  ,%,MALE,5
+"[""i found as i've gotten a little older here, i worry less about my distance. /""]",i found as ive gotten a little older here i worry less about my distance ,sd,MALE,1
+['you bet. /'],you bet ,aa,MALE,4
+"['{c and } i, - /']",c and  i  ,%,MALE,5
+['my control is a little bit better there. /'],my control is a little bit better there ,sd,MALE,1
+['yeah. /'],yeah ,aa,MALE,4
+"['{f uh, } {c so, } -/']",f uh  c so  ,%,MALE,5
+"[""that's super.  /""]",thats super  ,ba,MALE,6
+"[""i haven't learned to hit the ball easy  /""]",i havent learned to hit the ball easy  ,sd,MALE,1
+"['{c and } i just sort of, -/']",c and  i just sort of ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""i'm always wanting to hit it hard  /""]",im always wanting to hit it hard  ,sd,MALE,1
+"[""{c and, } that's something my stepfather never could teach me, {d you know, } just to relax and hit the ball,  /""]",c and  thats something my stepfather never could teach me d you know  just to relax and hit the ball  ,sd,MALE,1
+"[""{c and, } {d you know, } {d so, } subsequently when i do tire out from playing like twelve, fourteen holes, [ my, + {d you know, } a lot of my ] energy's gone,  /""]",c and  d you know  d so  subsequently when i do tire out from playing like twelve fourteen holes  my  d you know  a lot of my  energys gone  ,sd,MALE,1
+"[""when i do swing it's an easier swing -- /""]",when i do swing its an easier swing  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } i do, actually, hit the ball better. /']", c and  i do actually hit the ball better ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['[ have you ever, + have you ever  ] tried a one iron? /']", have you ever  have you ever   tried a one iron ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+"['i have a <breathing> [ two through, + {d you know, } two through  ] wedge.  /']",i have a breathing  two through  d you know  two through   wedge  ,sd,MALE,1
+['i hit a two iron awful lot.  /'],i hit a two iron awful lot  ,sd,MALE,1
+"['[ off,  now, + off + ] the tee. /']", off  now  off   the tee ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i don't hit a driver off the tee.  /""]",i dont hit a driver off the tee  ,sd,MALE,1
+"[""[ that, + that's ] why i need my driving lessons. /""]", that  thats  why i need my driving lessons ,sd,MALE,1
+"['{d well, } {d you know, } i put mine back in my bag this year, too,  /']",d well  d you know  i put mine back in my bag this year too  ,sd,MALE,1
+"['{c and } [ i, + i  ] used a three wood rather than a driver. /']",c and   i  i   used a three wood rather than a driver ,sd,MALE,1
+['that helps. /'],that helps ,ba,MALE,6
+"['{f uh, } i had a lot more control on it, {f uh, }  /']",f uh  i had a lot more control on it f uh   ,sd,MALE,1
+"['i sacrificed distance,  /']",i sacrificed distance  ,sd,MALE,1
+"[""{c but } i wasn't in trouble every time i got down the fairway. /""]",c but  i wasnt in trouble every time i got down the fairway ,sd,MALE,1
+"[""{d well, } [  that's, +  that's ] a good idea.  /""]",d well    thats   thats  a good idea  ,sv,MALE,3
+"[""i think this next year, [ i'm going to, + i'm going to  ] attempt to play more  /""]",i think this next year  im going to  im going to   attempt to play more  ,sd,MALE,1
+"[""{c and } i'm going to do the same thing.  /""]",c and  im going to do the same thing  ,sd,MALE,1
+"['[ i, + i ] laid off my woods about three years ago  /']", i  i  laid off my woods about three years ago  ,sd,MALE,1
+['{c and } i just use a two wood off the fairway  /'],c and  i just use a two wood off the fairway  ,sd,MALE,1
+"[""{c and } i'm a fairly strong person  /""]",c and  im a fairly strong person  ,sd,MALE,1
+['{c so } i get a pretty good little drive -- /'],c so  i get a pretty good little drive  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } [ i, + and i  ] guess control my irons, better,  {d you know, }  /']", c and   i  and i   guess control my irons better  d you know   ,sd,MALE,1
+"[""if you'll take lessons, the first thing they put in your hand is an iron. /""]",if youll take lessons the first thing they put in your hand is an iron ,sv,MALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,MALE,4
+['absolutely. /'],absolutely ,aa,MALE,4
+"['{c and, } {f uh, } i still remember that watching myself and my son  /']",c and  f uh  i still remember that watching myself and my son  ,sd,MALE,1
+"['[ {c so, } +  {c but } ] i think the key is [ you just need to, + you need to ] play more often than i play.  /']", c so    c but   i think the key is  you just need to  you need to  play more often than i play  ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{d well, } [ i, + i ] read  recently here, [ they say, + ] [ if you're playing, + if you're ] scoring well, you should play more.  /""]",d well   i  i  read  recently here  they say    if youre playing  if youre  scoring well you should play more  ,sv,MALE,3
+"[""if you're scoring poorly, you should spend more time on the practice [ g-, -- +""]",if youre scoring poorly you should spend more time on the practice  g  ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+"['-- {f uh, } range.  ]  /']", f uh  range    ,+,MALE,0
+"['{f uh, } i think there is less [ flus-, + frustration  ] factor there, too, {f uh, } /']",f uh  i think there is less  flus  frustration   factor there too f uh  ,sv,MALE,3
+"['[ makes good, + makes good  ] sense. /']", makes good  makes good   sense ,ba,MALE,6
+"['[ {c so, } +  {c but } ] [ i, +  i, ] - /']", c so    c but    i   i   ,%,MALE,5
+"[""the one iron is something i've been thinking because my driver's gone so badly lately that [ i, + i ] should pick one up and try to start.  /""]",the one iron is something ive been thinking because my drivers gone so badly lately that  i  i  should pick one up and try to start  ,sd,MALE,1
+"[""apparently they're very difficult to play with,  /""]",apparently theyre very difficult to play with  ,sv,MALE,3
+"['{c but } with practice, i would imagine you could groove that swing, too.  /']",c but  with practice i would imagine you could groove that swing too  ,sd,MALE,1
+"['{c and } i play with a fellow that can knock a one iron,  /']",c and  i play with a fellow that can knock a one iron  ,sd,MALE,1
+"[""it's incredible. /""]",its incredible ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"[""[ [ {c and, } +  {c but, } ] +  {c and } ] his accuracy is what's so startling with it.  /""]",  c and    c but     c and   his accuracy is whats so startling with it  ,sd,MALE,1
+"['{c and } i, - /']",c and  i  ,%,MALE,5
+"[""[ {c and }  it, + {c but } it's  ] an iron that he's really practiced with.   /""]", c and   it  c but  its   an iron that hes really practiced with   ,sd,MALE,1
+"['he has used a lot,  /']",he has used a lot  ,sd,MALE,1
+"['{c and, } {f uh, } it would be fun to get that good  [ at  a -- +']",c and  f uh  it would be fun to get that good   at  a  ,sv,MALE,3
+['you bet. /'],you bet ,ba,MALE,6
+"['-- with an ]  [ iron.  + {f uh, } distance iron. ] /']", with an    iron   f uh  distance iron  ,+,MALE,0
+"[""[ my cha-, + my challenge  ] of the game is just, if i can get off the first tee when everyone's standing around watching you, i'd be <laughter>,""]", my cha  my challenge   of the game is just if i can get off the first tee when everyones standing around watching you id be laughter,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+['great after that <laughter>.  /'],great after that laughter  ,+,MALE,0
+"['that, boy, - /']",that boy  ,%,MALE,5
+"['i just, - /']",i just  ,%,MALE,5
+"[""if i get off the tee box [ and  i, + and i've, ] {d you know, } {d you know, } anything from a hundred fifty to two hundred yard drive through a straight, i just want to get down and kiss the ground, {d you know } <laughter>. /""]",if i get off the tee box  and  i  and ive  d you know  d you know  anything from a hundred fifty to two hundred yard drive through a straight i just want to get down and kiss the ground d you know  laughter ,sd,MALE,1
+"['{c and } get away without embarrassing yourself,  /']",c and  get away without embarrassing yourself  ,bf,MALE,20
+['right <laughter>. /'],right laughter ,aa,MALE,4
+"['<laughter>  because, -/']",laughter  because ,%,MALE,5

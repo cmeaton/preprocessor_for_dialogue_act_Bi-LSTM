@@ -1,0 +1,187 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['what did you buy? /'],what did you buy ,qw,FEMALE,12
+['a ford explorer. /'],a ford explorer ,sd,MALE,1
+"[""i'm sorry, what? /""]",im sorry what ,br,FEMALE,30
+['a ford explorer. /'],a ford explorer ,sd,MALE,1
+"['{f oh, } really. /']",f oh  really ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,ny,MALE,9
+['one of the new ones. /'],one of the new ones ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and, } {f um, } [ i'd, + i'd ] probably buy another, this is the first american vehicle i've owned. /""]",c and  f um   id  id  probably buy another this is the first american vehicle ive owned ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so } i would probably purchase another one, {f um, }  i would be more selective in the dealership that i purchased it from  /']",c so  i would probably purchase another one f um   i would be more selective in the dealership that i purchased it from  ,sd,MALE,1
+"[""{c but } as far  as, {f uh, } the quality seems to be there, {f um, } it's quiet, [ it's, + it ]  handles well, {f um, }  /""]",c but  as far  as f uh  the quality seems to be there f um  its quiet  its  it   handles well f um   ,sd,MALE,1
+"[""{c but } i believe i'd get that or a porsche, one of the two. /""]",c but  i believe id get that or a porsche one of the two ,sd,MALE,1
+['{f oh } really? /'],f oh  really ,bh,FEMALE,18
+"['no,  /']",no  ,nn,MALE,13
+"['not <laughter>, -/']",not laughter ,nn,MALE,13
+"['{f um, } if i had the money, i think i would love to own a, a b m w. /']",f um  if i had the money i think i would love to own a a b m w ,sd,FEMALE,1
+['{c and } why would that be? /'],c and  why would that be ,qw,MALE,12
+"[""i don't know, i, - /""]",i dont know i  ,no,FEMALE,31
+"['from what, or - /']",from what or  ,%,FEMALE,5
+"[""either that or mercedes, just because they're put together so well.  /""]",either that or mercedes just because theyre put together so well  ,sd,FEMALE,1
+['it seems like they last forever. /'],it seems like they last forever ,sv,FEMALE,3
+"[""what's wrong with the volvo. /""]",whats wrong with the volvo ,qw,MALE,12
+"[""{f oh, } i don't know, [ they're, + they're ] not as nice looking. /""]",f oh  i dont know  theyre  theyre  not as nice looking ,sv,FEMALE,3
+['oh. /'],oh ,b,MALE,2
+"['<laughter> {f uh, } m-, - /']",laughter f uh  m  ,%,FEMALE,5
+"[""to me, i don't know,  i'm sure there are some that are,  /""]",to me i dont know  im sure there are some that are  ,sv,FEMALE,3
+"[""{c but } everyone i've seen is kind of plain,  /""]",c but  everyone ive seen is kind of plain  ,sd,FEMALE,1
+['{c but. } -/'],c but  ,%,FEMALE,5
+"['[ what, + what ] city are you calling from? /']", what  what  city are you calling from ,qw,MALE,12
+['sherman. /'],sherman ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+['where are you? /'],where are you ,qw,FEMALE,12
+['up in dallas. /'],up in dallas ,sd,MALE,1
+['dallas. /'],dallas ,b^m,FEMALE,24
+['{f um. } /'],f um  ,%,MALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"['b m w or mercedes, yeah,  /']",b m w or mercedes yeah  ,b^m,MALE,24
+"[""{d well } [ that's a, + that's a, ] -/""]",d well   thats a  thats a  ,%,MALE,5
+"[""if i [ had, + {f um, } had ] the money, {e i mean } that's just, - /""]",if i  had  f um  had  the money e i mean  thats just  ,sd,FEMALE,1
+"['i know i never would own one,  /']",i know i never would own one  ,sd,FEMALE,1
+"[""{c but, } {f uh, } i don't know.   i like, - /""]",c but  f uh  i dont know   i like  ,h,FEMALE,15
+"['my actual favorite cars [ i-, + ] were, {f uh, } like the ford thunderbirds --']",my actual favorite cars  i   were f uh  like the ford thunderbirds ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- of nineteen eighty-five.  /'], of nineteen eightyfive  ,+,FEMALE,0
+"['i really like that  body style,  /']",i really like that  body style  ,sd,FEMALE,1
+"[""{c but } i don't own one of those either <laughter>. /""]",c but  i dont own one of those either laughter ,sd,FEMALE,1
+['what do you presently drive? /'],what do you presently drive ,qw,MALE,12
+"['{f uh, } mercury topaz. /']",f uh  mercury topaz ,sd,FEMALE,1
+"['{f um, } fun. /']",f um  fun ,ba,MALE,6
+"['[ cheap taste, + cheap taste ] in cars, okay <laughter>. /']", cheap taste  cheap taste  in cars okay laughter ,sd,FEMALE,1
+"['{d well } there nothing wrong with those, {f uh. }']",d well  there nothing wrong with those f uh ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""[ [ they're, + they're ] nice veh-, + --""]",  theyre  theyre  nice veh  ,+,MALE,0
+"[""-- they're nice vehicles, ] nothing wrong with those.  /""]", theyre nice vehicles  nothing wrong with those  ,+,MALE,0
+"[""[ it, + {f um, } it's ] just everybody has their own taste,  /""]", it  f um  its  just everybody has their own taste  ,sd,MALE,1
+['{c but } {d man } the mercedes  are expensive.  /'],c but  d man  the mercedes  are expensive  ,sv,MALE,3
+['my wife has a volvo  /'],my wife has a volvo  ,sd,MALE,1
+"[""{c and } [ it, + it's ] nice,  {e i mean, } {d you know, } it's okay [ an. + ] /""]",c and   it  its  nice  e i mean  d you know  its okay  an   ,sd,MALE,1
+['{e sorry } i roped on volvos then <laughter>. /'],e sorry  i roped on volvos then laughter ,fa,FEMALE,42
+['huh? /'],huh ,br,MALE,30
+['{e sorry } i roped on volvos then. /'],e sorry  i roped on volvos then ,fa,FEMALE,42
+"['{f oh } no,  /']",f oh  no  ,bd,MALE,38
+"['no,  /']",no  ,bd,MALE,38
+"['no,  /']",no  ,bd,MALE,38
+"['no,  /']",no  ,bd,MALE,38
+"['no,  /']",no  ,bd,MALE,38
+"['no,  /']",no  ,bd,MALE,38
+['no  /'],no  ,bd,MALE,38
+"['it, - /']",it  ,%,MALE,5
+"['it, - /']",it  ,%,MALE,5
+"['[ i, + i ] kind of wish we would have maybe gone for the g l rather than the d l  /']", i  i  kind of wish we would have maybe gone for the g l rather than the d l  ,sd,MALE,1
+"['{f oh, } is it? /']",f oh  is it ,bh,FEMALE,18
+"[""{d see } i don't much about them i guess. /""]",d see  i dont much about them i guess ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['there just safe to just, - /']",there just safe to just  ,sd,MALE,1
+"[""that's the reason  why we mainly got it.  /""]",thats the reason  why we mainly got it  ,sd,MALE,1
+['we got white  /'],we got white  ,sd,MALE,1
+"[""{c and } it's the safest four door, {d you know, } [ it's good for, + ] if you have a family, which we do. /""]",c and  its the safest four door d you know   its good for   if you have a family which we do ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ we just, + we just ] - /']", we just  we just   ,%,MALE,5
+['((   ))   one out - /'],      one out  ,%,MALE,5
+"[""{c and so } [ it's, + it's, ]  {f uh, } {f um, } {d you know, } - /""]",c and so   its  its   f uh  f um  d you know   ,%,MALE,5
+"[""they're kind of low to the ground after driving the explorer.  /""]",theyre kind of low to the ground after driving the explorer  ,sd,MALE,1
+"['{d you know, } i presently, - /']",d you know  i presently  ,sd,MALE,1
+"['i used to have a two, eighty z,  /']",i used to have a two eighty z  ,sd,MALE,1
+"[""{c and } i'm a tall  guy [ an, + ]  /""]",c and  im a tall  guy  an    ,sd,MALE,1
+"[""{c and, } {f uh, } they're hard to get around in traffic to see. /""]",c and  f uh  theyre hard to get around in traffic to see ,sd,MALE,1
+['really. /'],really ,b,FEMALE,2
+"[""{c because } you can't see a car ahead of you,  /""]",c because  you cant see a car ahead of you  ,sd,MALE,1
+"[""{c but } they're fast as lightning  and all that crap.  /""]",c but  theyre fast as lightning  and all that crap  ,sd,MALE,1
+"[""{c but } the explorer, {e i mean, }  you're sitting up on top of everything  /""]",c but  the explorer e i mean   youre sitting up on top of everything  ,sd,MALE,1
+['{c and } you can really see real well.  /'],c and  you can really see real well  ,sd,MALE,1
+"['{c and } i just, - /']",c and  i just  ,sd,MALE,1
+"[""it's so comfortable  /""]",its so comfortable  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so, } you're, - /""]",c so  youre  ,+,MALE,0
+['what are your feelings about american versus european cars? /'],what are your feelings about american versus european cars ,qo,MALE,25
+"['{f um, } i like anything besides japanese.  /']",f um  i like anything besides japanese  ,sd,FEMALE,1
+['of course everything has japanese parts in them anymore.  /'],of course everything has japanese parts in them anymore  ,sd,FEMALE,1
+"[""i don't like japanese cars, /""]",i dont like japanese cars ,sd,FEMALE,1
+['why not. /'],why not ,qw,MALE,12
+"[""{c but, } {f uh, } european,  i don't [ ha-, + have ] any,  {e i mean, }  /""]",c but  f uh  european  i dont  ha  have  any  e i mean   ,sd,FEMALE,1
+['those are the kind i usually end up liking the most. /'],those are the kind i usually end up liking the most ,sd,FEMALE,1
+"[""american cars, a lot of people say [ they, + they ] don't last long  /""]",american cars a lot of people say  they  they  dont last long  ,sd,FEMALE,1
+"[""{c but } i've never had any problem  with, {f um, } my mercury,  /""]",c but  ive never had any problem  with f um  my mercury  ,sd,FEMALE,1
+"['or, - /']",or  ,%,FEMALE,5
+"['my cous-, - /']",my cous  ,%,FEMALE,5
+"['my husband has a, {f uh, } cougar  /']",my husband has a f uh  cougar  ,sd,FEMALE,1
+"[""{c and } he's  never had any problem with it either,  /""]",c and  hes  never had any problem with it either  ,sd,FEMALE,1
+"[""{c so, } <<pause>> <breathing> i don't know. /""]",c so  pause breathing i dont know ,h,FEMALE,15
+"[""that's the way it goes, i guess. /""]",thats the way it goes i guess ,ba,MALE,6
+"['<laughter> {d well } what are your, - /']",laughter d well  what are your  ,qw,FEMALE,12
+"['i guess this is  your first time to buy american,  /']",i guess this is  your first time to buy american  ,qy^d,FEMALE,16
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,ny,MALE,9
+['i was real hesitant  /'],i was real hesitant  ,sd,MALE,1
+"['{c but } it was <breathing>, /']",c but  it was breathing ,%,MALE,5
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i don't know, {f uh, } {e i mean, } i think european  cars are great, course you've got to have metric wrenches and stuff  /""]",i dont know f uh  e i mean  i think european  cars are great course youve got to have metric wrenches and stuff  ,sd,MALE,1
+"[""{c and } they're eas-, - /""]",c and  theyre eas  ,sv,MALE,3
+"['[ some, + some ] of them are easy to work on.  /']", some  some  of them are easy to work on  ,sv,MALE,3
+"['a volvo, being a four cylinder is  very easy to work on. /']",a volvo being a four cylinder is  very easy to work on ,sd,MALE,1
+['really. /'],really ,b,FEMALE,2
+"['{f uh, } excellent warranty, {e i mean, } just, unbelievable warranty.  /']",f uh  excellent warranty e i mean  just unbelievable warranty  ,sd,MALE,1
+"[""[ {c and, } + {c and, } ] {f uh, } of course, ford isn't too bad.  /""]", c and   c and   f uh  of course ford isnt too bad  ,sv,MALE,3
+"['i think chrysler would probably make a good vehicle,  /']",i think chrysler would probably make a good vehicle  ,sv,MALE,3
+"['{f uh, } {c but } all of it has to do, in my opinion with the service.']",f uh  c but  all of it has to do in my opinion with the service,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['and the attitude of the service, of the dealership. /']",and the attitude of the service of the dealership ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i wouldn't send my dog to buy a car from middlekauff ford. /""]",i wouldnt send my dog to buy a car from middlekauff ford ,sd,MALE,1
+['where? /'],where ,br,FEMALE,30
+"[""there's, - /""]",theres  ,%,MALE,5
+['middlekauff ford in plano. /'],middlekauff ford in plano ,sd,MALE,1
+['okay. /'],okay ,bk,FEMALE,14
+"['their just, - /']",their just  ,%,MALE,5
+['their attitude is just slimy.  /'],their attitude is just slimy  ,sd,MALE,1
+"[""[ {c and, } + {c and, } ] {f uh, } i've written [ a, + a ] letter to middlekauff  /""]", c and   c and   f uh  ive written  a  a  letter to middlekauff  ,sd,MALE,1
+"['{c and } i\'ve told them that,  matter of fact i got another letter last night from the quality ford division, their still concerned about my attitude  / *[[spelling ""their"" should be ""they\'re]]']",c and  ive told them that  matter of fact i got another letter last night from the quality ford division their still concerned about my attitude   spelling their should be theyre,sd,MALE,1
+"['{c and } [ it, + it ] will never change  about that place. /']",c and   it  it  will never change  about that place ,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c and, } {f uh, } - /']",c and  f uh   ,%,MALE,5
+"[""{c but, } {f uh, } anyway that's my own personal comment i guess,  /""]",c but  f uh  anyway thats my own personal comment i guess  ,sd,MALE,1
+['{c but. } -/'],c but  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['this girl that works for me just bought a car down there  /'],this girl that works for me just bought a car down there  ,sd,FEMALE,1
+"['{c and } sh-, - /']",c and  sh  ,%,FEMALE,5
+"[""[ they, + they ] had a problem with they, {f uh, } took their  camaro in to get it traded and [ they, + they ] hadn't signed any papers  /""]", they  they  had a problem with they f uh  took their  camaro in to get it traded and  they  they  hadnt signed any papers  ,sd,FEMALE,1
+"['{c and }  they had all ready, {f uh, } taken it in to paint it and everything  /']",c and   they had all ready f uh  taken it in to paint it and everything  ,sd,FEMALE,1
+['{c and } everything was stolen out of it  /'],c and  everything was stolen out of it  ,sd,FEMALE,1
+"[""{c and } the people, {f um, } wouldn't [ reim-, + ] reimburse them for anything. /""]",c and  the people f um  wouldnt  reim   reimburse them for anything ,sd,FEMALE,1
+"[""middlekauff wouldn't?  /""]",middlekauff wouldnt  ,qy,MALE,7
+['she needs to find herself a lawyer.  /'],she needs to find herself a lawyer  ,sv,MALE,3
+"[""[ she'd, + she'd ] come out like a champ on that one. /""]", shed  shed  come out like a champ on that one ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""{c so, } i've heard some stuff about them.  /""]",c so  ive heard some stuff about them  ,sd,FEMALE,1
+"['{c but, } {f um. } -/']",c but  f um  ,%,FEMALE,5
+"['{d so } [ ha-, + have ] you been using, {d well } {d anyway. } -/']",d so   ha  have  you been using d well  d anyway  ,qy,MALE,7
+['what. /'],what ,br,FEMALE,30
+"['that was, - /']",that was  ,%,MALE,5
+"['i was asking you some questions about the telephone [ and how long + and how many ] have you been doing,  /']",i was asking you some questions about the telephone  and how long  and how many  have you been doing  ,sd,MALE,1
+"[""{c but } that's, -/""]",c but  thats ,%,MALE,5
+['oh. /'],oh ,b,FEMALE,2
+"[""[ they, + they ] don't want to hear that. /""]", they  they  dont want to hear that ,sd,MALE,1
+"['{f oh, } just about a week. /']",f oh  just about a week ,sd,FEMALE,1
+['is that all?  /'],is that all  ,qy,MALE,7
+['a week. /'],a week ,b^m,MALE,24
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['yeah. /'],yeah ,ny,FEMALE,9
+"['good lord,  /']",good lord  ,ba,MALE,6
+['i think i started in january or february. /'],i think i started in january or february ,sd,MALE,1
+['really. /'],really ,b,FEMALE,2
+"[""{f oh } {d god, } i've, - /""]",f oh  d god  ive  ,ba,MALE,6
+"[""i'm {d like } twenty  some phone calls. /""]",im d like  twenty  some phone calls ,sd,MALE,1
+"['{f oh, } wow. /']",f oh  wow ,ba,FEMALE,6
+"[""that's why [ i, + i ] wasn't sure if this was the second time around or what.  /""]",thats why  i  i  wasnt sure if this was the second time around or what  ,sd,MALE,1
+"[""<breathing> <laughter>  {d well } {d look, } i've enjoyed  speaking with you. /""]",breathing laughter  d well  d look  ive enjoyed  speaking with you ,fc,MALE,10
+"['yeah,  /']",yeah  ,fc,FEMALE,10
+['you too. /'],you too ,fc,FEMALE,10
+['{c and } keep smiling. /'],c and  keep smiling ,ad,MALE,22
+"['okay,  /']",okay  ,aa,FEMALE,4
+['thanks. /'],thanks ,ft,FEMALE,43
+"['bye, bye. /']",bye bye ,fc,MALE,10
+['bye. /'],bye ,fc,FEMALE,10

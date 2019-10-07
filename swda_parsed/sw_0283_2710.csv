@@ -1,0 +1,235 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['i started when i was in college.  /'],i started when i was in college  ,sd,FEMALE,1
+"['{d you know, } they always offer credit cards for college students. /']",d you know  they always offer credit cards for college students ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['{c so } i went ahead, and accepted every one that i was offered.']",c so  i went ahead and accepted every one that i was offered,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['because i knew it would be easier to go ahead and get them and establish credit early. /'],because i knew it would be easier to go ahead and get them and establish credit early ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"['{c so, } [ i p-, + i pack ] around a lot of them,  /']",c so   i p  i pack  around a lot of them  ,sd,FEMALE,1
+['{c but } i only use a few of them. /'],c but  i only use a few of them ,sd,FEMALE,1
+['you have a lot of discipline.  /'],you have a lot of discipline  ,sv,FEMALE,3
+"['they make it really easy for people [ to, + {f uh, } to ] get credit cards, especially college students. /']",they make it really easy for people  to  f uh  to  get credit cards especially college students ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['i have, {f uh, } two daughters [ who, + who ] both are in college  /']",i have f uh  two daughters  who  who  both are in college  ,sd,FEMALE,1
+"['{c or, }  in fact, one has finished now.  /']",c or   in fact one has finished now  ,sd,FEMALE,1
+['{c but } they both have <laughter> a lot of credit cards. /'],c but  they both have laughter a lot of credit cards ,sd,FEMALE,1
+['{c and } they give you such high credit limits. /'],c and  they give you such high credit limits ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ it's, + it's ] easy to get caught up in the minimum payment trap. /""]", its  its  easy to get caught up in the minimum payment trap ,sd,FEMALE,1
+"['{f uh, } right.  /']",f uh  right  ,b,FEMALE,2
+"['{c and then } [ they, + they ] give you, {f uh, } {f uh, } the credit limit,  /']",c and then   they  they  give you f uh  f uh  the credit limit  ,sd,FEMALE,1
+"[""{c and  then } you're always [ s-, + seemingly ] up to that limit.  /""]",c and  then  youre always  s  seemingly  up to that limit  ,sd,FEMALE,1
+"[""{d now } i have quite a few credit cards that i'm always almost up to the limit on most of them.  /""]",d now  i have quite a few credit cards that im always almost up to the limit on most of them  ,sd,FEMALE,1
+"[""{c and } [ that's, + that's ] how a lot of people get into trouble. /""]",c and   thats  thats  how a lot of people get into trouble ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""[  i've got, + i've got ] two [ that i, + {d you know, } that ] usually i'll have a balance on. /""]",  ive got  ive got  two  that i  d you know  that  usually ill have a balance on ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and then } all of the others i just try to use kind of like you would an american express card [ and, + and ] pay it off every month. /']",c and then  all of the others i just try to use kind of like you would an american express card  and  and  pay it off every month ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c and } that way i feel like i'm getting, {d you know, } a thirty day loan. /""]",c and  that way i feel like im getting d you know  a thirty day loan ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but } i don't have to worry about, {d you know, } running them up too high, except at christmas.  /""]",c but  i dont have to worry about d you know  running them up too high except at christmas  ,sd,FEMALE,1
+"['[  then they usually go, + then they usually get ] run up pretty <laughter> good. /']",  then they usually go  then they usually get  run up pretty laughter good ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } you have a lot of discipline.  /']",d well  you have a lot of discipline  ,sv,FEMALE,3
+"[""[  i, + {f uh, } i'm ] trying my best right now to pay off some of mine.  /""]",  i  f uh  im  trying my best right now to pay off some of mine  ,sd,FEMALE,1
+"[""[ [ i, + i've, ] + i've ] paid off about four credit cards this year. /""]",  i  ive   ive  paid off about four credit cards this year ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ {c and, } + {f uh, } {c but } ] still i have some that [ are, + <laughter> are ] up to the limit.  /']", c and   f uh  c but   still i have some that  are  laughter are  up to the limit  ,sd,FEMALE,1
+['{c and } especially the visa card --'],c and  especially the visa card ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- that you can go and get cash on <laughter>. /'], that you can go and get cash on laughter ,+,FEMALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c and } it seems like every time i'm short of cash, i just go [ get, + get ] it from visa. /""]",c and  it seems like every time im short of cash i just go  get  get  it from visa ,sd,FEMALE,1
+"[""{d now } [ that's one, + that's ] - /""]",d now   thats one  thats   ,%,FEMALE,5
+"[""i've never used my visa for cash before. /""]",ive never used my visa for cash before ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['can you use it {d like } at a bank machine  /'],can you use it d like  at a bank machine  ,qy^d,FEMALE,16
+"['j-, -- -/']",j  ,%,FEMALE,5
+"['{f uh, } /']",f uh  ,b,FEMALE,2
+"['-- {c or, } -/']", c or  ,%,FEMALE,5
+"['{d well, } {f uh, } you can go in a bank and just hand them the visa card and say, ""i want a cash advance.""  /']",d well  f uh  you can go in a bank and just hand them the visa card and say i want a cash advance  ,sd,FEMALE,1
+"[""{c or } if they've sent you [ a, + {f uh, } a ] number that you can use.  {d you know, } [ a, + a ] personal identification number --""]",c or  if theyve sent you  a  f uh  a  number that you can use  d you know   a  a  personal identification number ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- that you can use in the, {f uh, } impact machines or whatever, [ you, +']", that you can use in the f uh  impact machines or whatever  you ,+,FEMALE,0
+"['# {f oh, } okay. # /']", f oh  okay  ,bk,FEMALE,14
+['# you ] can do # that.  /'], you  can do  that  ,+,FEMALE,0
+"[""{c because } i have one that i don't have a pin number for.  /""]",c because  i have one that i dont have a pin number for  ,sd,FEMALE,1
+"['{d you know, } sometimes you have to ask them for that. /']",d you know  sometimes you have to ask them for that ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and then } i have one that, {f uh, } just gave me the pin number automatically. /']",c and then  i have one that f uh  just gave me the pin number automatically ,sd,FEMALE,1
+"['{d now } we got, - /']",d now  we got  ,sd,FEMALE,1
+"[""[ that's, + that's ] funny you said that.  because [ we got a credit card, + {f uh, } my husband and i got credit cards ] in the mail one day that we hadn't even applied for. /""]", thats  thats  funny you said that  because  we got a credit card  f uh  my husband and i got credit cards  in the mail one day that we hadnt even applied for ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['/'],,x,FEMALE,8
+"['{d now } a couple of weeks later [ we got, + we got  ] pin numbers,  /']",d now  a couple of weeks later  we got  we got   pin numbers  ,sd,FEMALE,1
+"['{c and then } we got, {f uh, } a bill saying, {d you know, } {f uh, } the yearly fee, it was like forty dollars. /']",c and then  we got f uh  a bill saying d you know  f uh  the yearly fee it was like forty dollars ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{c and } [ we, + we ] cut them up and sent them back because [ we, + we ] hadn't even applied for them,  /""]",c and   we  we  cut them up and sent them back because  we  we  hadnt even applied for them  ,sd,FEMALE,1
+"[""{c and } we didn't want them.  /""]",c and  we didnt want them  ,sd,FEMALE,1
+"['{c but } [ they, + they ] had just automatically approved us and sent them without even contacting us. /']",c but   they  they  had just automatically approved us and sent them without even contacting us ,sd,FEMALE,1
+"['{f oh, } wow!  <laughter>. /']",f oh  wow  laughter ,ba,FEMALE,6
+"[""{c so } i thought, {d man, } i don't know if i trust this or not <laughter>. /""]",c so  i thought d man  i dont know if i trust this or not laughter ,sd,FEMALE,1
+"['<laughter>  {d well, } [ they, + they ] do that a lot if you have good credit and you have been paying your bills on time.  /']",laughter  d well   they  they  do that a lot if you have good credit and you have been paying your bills on time  ,sd,FEMALE,1
+"['[ [  ev-, + ev-, ] + everybody ] in the world will offer you [ a, + a ] credit card. /']",   ev  ev   everybody  in the world will offer you  a  a  credit card ,sd,FEMALE,1
+"[""it's like, let's see if we can get her to run up her bills <laughter>. /""]",its like lets see if we can get her to run up her bills laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c but } it's hard,  /""]",c but  its hard  ,sv,FEMALE,3
+"['{e i mean, } [ it\'s, + it\'s ] tempting when you see something to say, ""well, i\'ll just charge it.""  /']",e i mean   its  its  tempting when you see something to say well ill just charge it  ,sd,FEMALE,1
+"[""{c and } sometimes i'll do that,  /""]",c and  sometimes ill do that  ,sd,FEMALE,1
+"['{c but } usually i, i will try to pay everything off the next month  /']",c but  usually i i will try to pay everything off the next month  ,sd,FEMALE,1
+['{c or } --'],c or  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- the ones that usually have an outstanding balance all the time,  [ i'll, + i'll  ] pay more than the minimum payment. /""]", the ones that usually have an outstanding balance all the time   ill  ill   pay more than the minimum payment ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['just [ i fe-, + i feel ] like even that little bit helps. /']",just  i fe  i feel  like even that little bit helps ,sd,FEMALE,1
+['right.  /'],right  ,b,FEMALE,2
+"[""{d well, } {d you know, } the way the economy's going and inflation and the recession and all that, i think [ we, + we ] really need to try to stay out of debt as much as possible.  /""]",d well  d you know  the way the economys going and inflation and the recession and all that i think  we  we  really need to try to stay out of debt as much as possible  ,sd,FEMALE,1
+"[""[  that's, + that's ] why [ i've, + i've ] really started to try [ to, + to ] pay off mine and get out of debt.  because we never know when we might, {d you know, } get laid off or --""]",  thats  thats  why  ive  ive  really started to try  to  to  pay off mine and get out of debt  because we never know when we might d you know  get laid off or ,sd,FEMALE,1
+['i know it. /'],i know it ,ba,FEMALE,6
+['-- something.  /'], something  ,+,FEMALE,0
+['especially me.  /'],especially me  ,sd,FEMALE,1
+"['i work for texas instruments,  /']",i work for texas instruments  ,sd,FEMALE,1
+"[""{c and } they've [ had, + had ] a lot [ of, + of, ] {f uh, } {d you know, } layoffs lately. /""]",c and  theyve  had  had  a lot  of  of  f uh  d you know  layoffs lately ,sd,FEMALE,1
+"['{d well, } i work for t i too. /']",d well  i work for t i too ,sd,FEMALE,1
+['you do? /'],you do ,bh,FEMALE,18
+"[""{c and } i think they're getting ready [ to, + to ] probably sell us out, our division. /""]",c and  i think theyre getting ready  to  to  probably sell us out our division ,sd,FEMALE,1
+['where are you? /'],where are you ,qw,FEMALE,12
+"['in johnson city, tennessee. /']",in johnson city tennessee ,sd,FEMALE,1
+"['johnson city,  /']",johnson city  ,b^m,FEMALE,24
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['i --'],i ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- know they're selling out somebody in colorado springs. /""]", know theyre selling out somebody in colorado springs ,+,FEMALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""[  they just, + they just ] announced that, didn't they? /""]",  they just  they just  announced that didnt they ,bf,FEMALE,20
+['yeah. /'],yeah ,ny,FEMALE,9
+"[""{c so, }  {e i mean, } [ it's, + it's ] kind of a bad time to be a slave to your credit cards. /""]",c so   e i mean   its  its  kind of a bad time to be a slave to your credit cards ,sv,FEMALE,3
+"['[ it, + it ] certainly is.  /']", it  it  certainly is  ,ba,FEMALE,6
+"[""[  i've, + {f uh, } i have ] worked on a [ part, + part ] time job, {f uh, } where i was a collector.""]",  ive  f uh  i have  worked on a  part  part  time job f uh  where i was a collector,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['for, {f uh, } {f uh, } a jewelry company <laughter>.  /']",for f uh  f uh  a jewelry company laughter  ,+,FEMALE,0
+"['people, {f uh, } that - /']",people f uh  that  ,%,FEMALE,5
+['they just had this jewelry account.  /'],they just had this jewelry account  ,sd,FEMALE,1
+"['it was zales jewelry, in fact.  /']",it was zales jewelry in fact  ,sd,FEMALE,1
+"['{c and, }  {f uh, } <throat_clearing> a whole bunch of peop-, - /']",c and   f uh  throatclearing a whole bunch of peop  ,sd,FEMALE,1
+"['{e i mean } they have about a thousand collectors, i guess. /']",e i mean  they have about a thousand collectors i guess ,sd,FEMALE,1
+['man! /'],man ,b,FEMALE,2
+"[""{c and, }  {f uh, } there's just so many people that have bought jewelry, which is really a luxury item -- /""]",c and   f uh  theres just so many people that have bought jewelry which is really a luxury item  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- {c and then } [ they, + they ] just can't pay for it.  /""]", c and then   they  they  just cant pay for it  ,sd,FEMALE,1
+"['[  something, + something ] happens,  /']",  something  something  happens  ,sd,FEMALE,1
+"['{d you know, } {c and } you hear so many stories listening to them.  like, {f uh, } {d you know, } they lost their job  /']",d you know  c and  you hear so many stories listening to them  like f uh  d you know  they lost their job  ,sd,FEMALE,1
+"[""{c or, } {f uh, } [ they, + they've ] signed for a friend.  /""]",c or  f uh   they  theyve  signed for a friend  ,sd,FEMALE,1
+"['{d you know, } they got it in their name  /']",d you know  they got it in their name  ,sd,FEMALE,1
+['{c but } they --'],c but  they ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['-- got it for a friend  /'], got it for a friend  ,+,FEMALE,0
+['{c and then } the friend <laughter> --'],c and then  the friend laughter ,sd,FEMALE,1
+"[""didn't pay them. /""]",didnt pay them ,^2,FEMALE,23
+"[""-- wouldn't pay them.  /""]", wouldnt pay them  ,+,FEMALE,0
+"[""{c and } now they're stuck with the bill,  /""]",c and  now theyre stuck with the bill  ,sd,FEMALE,1
+"[""{c and } it's ruining their credit  /""]",c and  its ruining their credit  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+['man. /'],man ,ba,FEMALE,6
+"['-- you really have to watch [ it, + ] this {d you know. }  /']", you really have to watch  it   this d you know   ,+,FEMALE,0
+"['{c because, } -/']",c because  ,%,FEMALE,5
+"[""that's scary. /""]",thats scary ,ba,FEMALE,6
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['{c because } [ every, + every ] month all of these credit cards report to the credit bureau, {d you know. }  automatically, [ mo-, + most ] of them do. /']",c because   every  every  month all of these credit cards report to the credit bureau d you know   automatically  mo  most  of them do ,sd,FEMALE,1
+"[""i didn't realize that. /""]",i didnt realize that ,ba,FEMALE,6
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{c and } [ if you, + if you're, ] {f uh, } - /""]",c and   if you  if youre  f uh   ,%,FEMALE,5
+"[""[ it's + ] bad because if [ you, +  {d you know, } your ] bill is due on the fifteenth --""]", its   bad because if  you   d you know  your  bill is due on the fifteenth ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- then [ i-, + ] [ [ [ [ y-, + y-, ] + y-, ] + you-, ] + you're ] not past due until the fifteenth of the next month. /""]", then  i       y  y   y   you   youre  not past due until the fifteenth of the next month ,+,FEMALE,0
+"['{f oh, } okay. /']",f oh  okay ,b,FEMALE,2
+"[""{c but, } {d you know, } [ if you, + if you ] pay one day after that fifteenth, you're not one day late,  /""]",c but  d you know   if you  if you  pay one day after that fifteenth youre not one day late  ,sd,FEMALE,1
+"[""you're thirty days late. /""]",youre thirty days late ,sd,FEMALE,1
+"[""[ they don't, + they don't ] recognize any time difference, do they? /""]", they dont  they dont  recognize any time difference do they ,qy,FEMALE,7
+"['right, /']",right ,aa,FEMALE,4
+"['# ooh, # /']", ooh  ,ba,FEMALE,6
+['# right. # /'], right  ,b,FEMALE,2
+"[""that's scary. /""]",thats scary ,ba,FEMALE,6
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter>.'],laughter,x,FEMALE,8
+"['a-, a-, - /']",a a  ,%,FEMALE,5
+"['{c and, }  {d anyway, } we need to watch our credit reports and all that kind of, -/']",c and   d anyway  we need to watch our credit reports and all that kind of ,sd,FEMALE,1
+"[""that's something i never thought about getting, {d you know, } checking with to see [ what, + what ] your credit report looked like. /""]",thats something i never thought about getting d you know  checking with to see  what  what  your credit report looked like ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['{d well, } {d you know, } [ you, + you ] can do that.  /']",d well  d you know   you  you  can do that  ,sd,FEMALE,1
+['i believe it costs about ten dollars. /'],i believe it costs about ten dollars ,sd,FEMALE,1
+['might be worth it for peace of mind. /'],might be worth it for peace of mind ,ba,FEMALE,6
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,FEMALE,4
+"['it is,  /']",it is  ,sd,FEMALE,1
+['it is.  /'],it is  ,sd,FEMALE,1
+"[""you might even find somebody's been reporting on you  /""]",you might even find somebodys been reporting on you  ,sd,FEMALE,1
+"[""{c and } you didn't <laughter> even know it.  /""]",c and  you didnt laughter even know it  ,sd,FEMALE,1
+"[""{d you know, } [ you, + {e i mean } you ] might think you're paying something on time  /""]",d you know   you  e i mean  you  might think youre paying something on time  ,sd,FEMALE,1
+"['[ {c or } + {c and } ] you, by that day - /']", c or   c and   you by that day  ,sd,FEMALE,1
+"[""{c and } you're [ thir-, + thirty ] days is not real bad though anyway.  <buzz> <<in phone line that  persists through the end of the recording.  sounds like a cordless phone is being used.>>""]",c and  youre  thir  thirty  days is not real bad though anyway  buzz in phone line that  persists through the end of the recording  sounds like a cordless phone is being used,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""if you've got a charge off on your credit report or something like  that.  /""]",if youve got a charge off on your credit report or something like  that  ,+,FEMALE,0
+"[""that's when it really gets bad.  /""]",thats when it really gets bad  ,sd,FEMALE,1
+"[""{c or } something you haven't paid in sixty days or ninety days, {d you know. }  and things like that <throat_clearing>. -/""]",c or  something you havent paid in sixty days or ninety days d you know   and things like that throatclearing ,sd,FEMALE,1
+"[""i think that discover card has a good idea with, {d you know, } giving you a little cash back incentive for each amount [ you, + you ] purchase.  as long as you don't go crazy trying to get cash back. /""]",i think that discover card has a good idea with d you know  giving you a little cash back incentive for each amount  you  you  purchase  as long as you dont go crazy trying to get cash back ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } since they don't have the yearly fee. /""]",c and  since they dont have the yearly fee ,sd,FEMALE,1
+['do they charge a lot of interest on that card? /'],do they charge a lot of interest on that card ,qy,FEMALE,7
+"[""i don't know. /""]",i dont know ,no,FEMALE,31
+"[""i don't, -/""]",i dont ,%,FEMALE,5
+"[""[ i've never, + i haven't ] gotten one.""]", ive never  i havent  gotten one,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""just because [ it's, + ] {f uh, } {f uh,  } - /""]",just because  its   f uh  f uh    ,+,FEMALE,0
+"[""i felt like with visa and mastercard and  american express you didn't need another one. /""]",i felt like with visa and mastercard and  american express you didnt need another one ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""i would think it wouldn't be, {d you know, } much more than the eighteen or  nineteen percent everyone else charges. /""]",i would think it wouldnt be d you know  much more than the eighteen or  nineteen percent everyone else charges ,sd,FEMALE,1
+['yeah <clicking>. /'],yeah clicking ,b,FEMALE,2
+"[""{c so } [ that, + that ] wouldn't be too bad. /""]",c so   that  that  wouldnt be too bad ,sv,FEMALE,3
+"['<throat_clearing> {d well, } always watch out for [ s-, + ] anybody who bills you out of atlanta, georgia.  /']",throatclearing d well  always watch out for  s   anybody who bills you out of atlanta georgia  ,sd,FEMALE,1
+"[""{c or } there's a couple of other places that are able to charge us {d like } twenty-one and twenty-two percent interest.  /""]",c or  theres a couple of other places that are able to charge us d like  twentyone and twentytwo percent interest  ,sd,FEMALE,1
+"['i know, i had a charge with, {f uh, } spiegel,  /']",i know i had a charge with f uh  spiegel  ,sd,FEMALE,1
+"[""<laughter> {c and } i hadn't read the, {f uh, } terms of the credit agreement really. /""]",laughter c and  i hadnt read the f uh  terms of the credit agreement really ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, }  {f uh, } when i did, [ i, + {d you know, } i ] realized [ that, + that ] it just [ looked, + seemed ] like i was never paying the balance off,']",c and   f uh  when i did  i  d you know  i  realized  that  that  it just  looked  seemed  like i was never paying the balance off,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['{d you know. }  /'],d you know   ,+,FEMALE,0
+"['{c and } i looked at the credit card agreement one day,  /']",c and  i looked at the credit card agreement one day  ,sd,FEMALE,1
+['{c and } it was like twenty-three percent interest. /'],c and  it was like twentythree percent interest ,sd,FEMALE,1
+['holy cow! /'],holy cow ,ba,FEMALE,6
+"[""<laughter> {c and } that's the one bill that i [ hurry up, + hurried ] and paid up. /""]",laughter c and  thats the one bill that i  hurry up  hurried  and paid up ,sd,FEMALE,1
+['definitely. /'],definitely ,ba,FEMALE,6
+"['# [ {c and, }  # +']",  c and    ,sd,FEMALE,1
+"[""# that's awful. # /""]", thats awful  ,ba,FEMALE,6
+"[""{c and } ] i've always watched it since then.  /""]",c and   ive always watched it since then  ,+,FEMALE,0
+['you really have to watch those interest rates.  /'],you really have to watch those interest rates  ,sd,FEMALE,1
+"['{e i mean, } -/']",e i mean  ,%,FEMALE,5
+"[""{e i mean } there's no point in giving them any more money than we have to. /""]",e i mean  theres no point in giving them any more money than we have to ,sd,FEMALE,1
+"[""that's true. /""]",thats true ,ba,FEMALE,6
+"['<laughter> {d so, } -/']",laughter d so  ,%,FEMALE,5
+"[""{c so } {d anyway, } they can't bill you any higher than eighteen percent, i think, [ in, + in ] texas.  /""]",c so  d anyway  they cant bill you any higher than eighteen percent i think  in  in  texas  ,sd,FEMALE,1
+['{c but } --'],c but  ,sd,FEMALE,1
+"[""{f oh, } that's great. /""]",f oh  thats great ,ba,FEMALE,6
+"['-- [ there, + there ] are a couple of states that can.  /']",  there  there  are a couple of states that can  ,+,FEMALE,0
+"['{c and } one to watch out for is anybody that bills you out of [ atlanta, + <laughter> atlanta, ] georgia. /']",c and  one to watch out for is anybody that bills you out of  atlanta  laughter atlanta  georgia ,sd,FEMALE,1
+"[""i'll try to remember that one. /""]",ill try to remember that one ,oo_co_cc,FEMALE,36
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter>.'],laughter,x,FEMALE,8
+"['{d well, } /']",d well  ,%,FEMALE,5
+"[""{d well, } let's see.  /""]",d well  lets see  ,^h,FEMALE,27
+['i was trying to think if there was anything else <buzz>. /'],i was trying to think if there was anything else buzz ,^h,FEMALE,27
+['<laughter>.'],laughter,x,FEMALE,8
+"['<laughter> {f uh, } [ the, + i guess the  ] worst problem i ever had [ with, + with ] a credit card though was, {f um, } i got [ a, + an ] item on my bill that i had never purchased. /']",laughter f uh   the  i guess the   worst problem i ever had  with  with  a credit card though was f um  i got  a  an  item on my bill that i had never purchased ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i had ordered a sofa and had filled out the paperwork,  /']",i had ordered a sofa and had filled out the paperwork  ,sd,FEMALE,1
+"[""{c but } they weren't supposed to process it until they delivered it. /""]",c but  they werent supposed to process it until they delivered it ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } i changed my mind, /']",c and  i changed my mind ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['# {c but then } # they went ahead and charged it on my account. /'], c but then   they went ahead and charged it on my account ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c and } it took me about eighteen months to get [ that, +  all of that ] mess off of my account. /']",c and  it took me about eighteen months to get  that   all of that  mess off of my account ,sd,FEMALE,1
+['wow! /'],wow ,ba,FEMALE,6
+"[""{c so } [ that's, + that's ] probably the worst thing i've ever had happen with a credit card. /""]",c so   thats  thats  probably the worst thing ive ever had happen with a credit card ,sd,FEMALE,1
+['i wonder if they ... -/'],i wonder if they  ,%,FEMALE,5

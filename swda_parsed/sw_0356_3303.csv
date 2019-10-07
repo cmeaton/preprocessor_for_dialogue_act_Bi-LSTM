@@ -1,0 +1,99 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['you want to go ahead and tell me your favorite team, or  who you think will be doing well this year. /']",you want to go ahead and tell me your favorite team or  who you think will be doing well this year ,ad,FEMALE,22
+"[""{f uh, } {d well, } where i'm from the atlantic coast conference is a very big conference  /""]",f uh  d well  where im from the atlantic coast conference is a very big conference  ,sd,MALE,1
+"['{c and, }  course, we have duke university that was the national champions last year,  /']",c and   course we have duke university that was the national champions last year  ,sd,MALE,1
+"[""{c so } i'm kind of hoping that they'll repeat again this year.  /""]",c so  im kind of hoping that theyll repeat again this year  ,sd,MALE,1
+['they have a lot of the same players back. /'],they have a lot of the same players back ,sd,MALE,1
+"['are we talking about, is this the n b a? /']",are we talking about is this the n b a ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+['this is college --'],this is college ,sd,MALE,1
+"['this is [ college, +']",this is  college ,b^m,FEMALE,24
+['-- basketball. /'], basketball ,+,MALE,0
+"['college, ] okay <laughter>. /']",college  okay laughter ,+,FEMALE,0
+['right.  /'],right  ,b,MALE,2
+"['we have like carolina, and duke, and georgia  tech, and  n c state, teams that are normally ranked in the top twenty. /']",we have like carolina and duke and georgia  tech and  n c state teams that are normally ranked in the top twenty ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so, } hopefully we'll have a good year.  /""]",c so  hopefully well have a good year  ,sd,MALE,1
+"[""i don't really <throat_clearing> follow the n b a very closely. /""]",i dont really throatclearing follow the n b a very closely ,sd,MALE,1
+"[""{c and } {d see } that's probably [ all, + all ] i saw.  /""]",c and  d see  thats probably  all  all  i saw  ,sd,FEMALE,1
+"['[ i, + we ] have moved in the last couple years from utah to texas  /']", i  we  have moved in the last couple years from utah to texas  ,sd,FEMALE,1
+"[""{c and } there's so many <laughter> colleges and universities in texas, we haven't really followed them too much  /""]",c and  theres so many laughter colleges and universities in texas we havent really followed them too much  ,sd,FEMALE,1
+"['{c and } none of them are [ our, + our ] alma mater  /']",c and  none of them are  our  our  alma mater  ,sd,FEMALE,1
+"['<laughter>, {c so, } that seems to help. /']",laughter c so  that seems to help ,sd,FEMALE,1
+['do you like professional basketball? /'],do you like professional basketball ,qy,MALE,7
+"['{f uh, } [ i, + i ] follow it especially around  the playoffs,  /']",f uh   i  i  follow it especially around  the playoffs  ,na,FEMALE,21
+"['{c so, } course, i was real familiar with the utah jazz,  /']",c so  course i was real familiar with the utah jazz  ,sd,FEMALE,1
+"['{c and } the mailman or karl malone was, {d you know, } pretty big thing  /']",c and  the mailman or karl malone was d you know  pretty big thing  ,sv,FEMALE,3
+"['{c and, }  the lakers have always been amazing to watch. /']",c and   the lakers have always been amazing to watch ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['[ i, + i ] did keep track a little bit of the mavericks.  /']", i  i  did keep track a little bit of the mavericks  ,sd,FEMALE,1
+"[""they've not had any good seasons <laughter> for a long time,""]",theyve not had any good seasons laughter for a long time,sv,FEMALE,3
+['<cough>.'],cough,x,MALE,8
+"['and have a lot of problems [ with, +  with ] tarpley  /']",and have a lot of problems  with   with  tarpley  ,+,FEMALE,0
+"[""{c and, }  maybe now that that's over [ they'll, + they'll ] come out of it  /""]",c and   maybe now that thats over  theyll  theyll  come out of it  ,sv,FEMALE,3
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""{d well, } that's an up and coming team, though. /""]",d well  thats an up and coming team though ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['i hope they do something.  /'],i hope they do something  ,sd,FEMALE,1
+['they need to  /'],they need to  ,sv,FEMALE,3
+"[""{c or } they're not going to have <laughter> any of the team left at all. /""]",c or  theyre not going to have laughter any of the team left at all ,sv,FEMALE,3
+"[""that's somebody you can get behind and,""]",thats somebody you can get behind and,sv,MALE,3
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+['be patient. /'],be patient ,+,MALE,0
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['kind of like the cowboys <laughter>, i guess. /']",kind of like the cowboys laughter i guess ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['they seem to be kind of not having a very good few seasons. /'],they seem to be kind of not having a very good few seasons ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['they, coming out of it this year.  /']",they coming out of it this year  ,sv,FEMALE,3
+"[""we'll see if it's held on. /""]",well see if its held on ,sv,FEMALE,3
+"['{c but, }  i think chicago will probably with the n b a again. /']",c but   i think chicago will probably with the n b a again ,sv,MALE,3
+['the bulls? /'],the bulls ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+['uh-huh. /'],uhhuh ,ny,MALE,9
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""they'll probably be pretty good.  /""]",theyll probably be pretty good  ,aa,FEMALE,4
+"['course, the celtics are always [ really, + <throat_clearing> really ] good, too, with their players. /']",course the celtics are always  really  throatclearing really  good too with their players ,sv,FEMALE,3
+"[""that's true. /""]",thats true ,aa,MALE,4
+"['be interesting to see how the olympics does this year with all [ the, + the ] n b a players playing on the olympic team. /']",be interesting to see how the olympics does this year with all  the  the  n b a players playing on the olympic team ,sv,FEMALE,3
+"[""that's true,  /""]",thats true  ,aa,MALE,4
+['it will be interesting. /'],it will be interesting ,aa,MALE,4
+"['{d so, } -/']",d so  ,%,FEMALE,5
+['it will certainly be different <cough>. /'],it will certainly be different cough ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""i don't know,""]",i dont know,sd,FEMALE,1
+['<cough>.'],cough,x,MALE,8
+"[""how close i'll follow them, though.  /""]",how close ill follow them though  ,+,FEMALE,0
+"[""{c and } the season hasn't started yet. /""]",c and  the season hasnt started yet ,sd,FEMALE,1
+['<cough>.'],cough,x,MALE,8
+"[""i'm usually more the end of the season person,  /""]",im usually more the end of the season person  ,sd,FEMALE,1
+['{c and } we need to talk about baseball <laughter>  /'],c and  we need to talk about baseball laughter  ,sv,FEMALE,3
+"['{c and so, } -/']",c and so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{f oh, } my atlanta braves. /']",f oh  my atlanta braves ,sd,MALE,1
+"['{d well, } -/']",d well  ,%,FEMALE,5
+"['{d well, } i really do, {f uh, } {d you know, }  /']",d well  i really do f uh  d you know   ,sd,MALE,1
+"[""the basketball season's supposed to start in the next couple of weeks. /""]",the basketball seasons supposed to start in the next couple of weeks ,sd,MALE,1
+"[""it's, - /""]",its  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""it's a long season. /""]",its a long season ,sv,MALE,3
+"['[ it is, + it is, ]  /']", it is  it is   ,aa,FEMALE,4
+"[""{c and } that's why i've, - /""]",c and  thats why ive  ,%,FEMALE,5
+['i guess my mind went blank.  /'],i guess my mind went blank  ,sd,FEMALE,1
+"[""it's like last season was so long ago  /""]",its like last season was so long ago  ,sv,FEMALE,3
+"[""{c and } i haven't really even started thinking about basketball yet  /""]",c and  i havent really even started thinking about basketball yet  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['yeah. /'],yeah ,b,MALE,2
+"[""{c but, }  this wasn't a good subject,  /""]",c but   this wasnt a good subject  ,sv,FEMALE,3
+"['{c but, }']",c but ,sv,FEMALE,3
+"[""it's a little early. /""]",its a little early ,sv,MALE,3
+"[""<laughter> we'll see how our predictions come true. /""]",laughter well see how our predictions come true ,+,FEMALE,0
+['we definitely will. /'],we definitely will ,aa,MALE,4
+"['<laughter> okay,  /']",laughter okay  ,fc,FEMALE,10
+"[""it's good talking to you. /""]",its good talking to you ,fc,FEMALE,10
+['good to talk to you. /'],good to talk to you ,fc,MALE,10
+"['all righty,  /']",all righty  ,fc,FEMALE,10
+['bye. /'],bye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10

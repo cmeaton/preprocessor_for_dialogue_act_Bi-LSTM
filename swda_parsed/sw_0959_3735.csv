@@ -1,0 +1,215 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hello. /'],hello ,fp,FEMALE,32
+['hi. /'],hi ,fp,FEMALE,32
+"['okay,  /']",okay  ,b,FEMALE,2
+['i pressed one  /'],i pressed one  ,sd,FEMALE,1
+"[""{c so } i guess we're recording now. /""]",c so  i guess were recording now ,sd,FEMALE,1
+['okay. /'],okay ,b,FEMALE,2
+"['okay, # {f um. } # /']",okay  f um   ,b^m,FEMALE,24
+"['# {f um, } # as far as spare time, they talked about, - /']", f um   as far as spare time they talked about  ,sd,FEMALE,1
+"[""[ i don't, + i think, ] - /""]", i dont  i think   ,%,FEMALE,5
+['who has  any spare time <laughter>? /'],who has  any spare time laughter ,qh,FEMALE,26
+['<laughter>.'],laughter,x,FEMALE,8
+"[""i've got [ a, + a ] six year old and a, {f um, } - /""]",ive got  a  a  six year old and a f um   ,sd,FEMALE,1
+"[""{d well, } my baby's one today. /""]",d well  my babys one today ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+"[""today's his birthday. /""]",todays his birthday ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+"[""{c and } [ i'm also, + i'm ] expecting,  /""]",c and   im also  im  expecting  ,sd,FEMALE,1
+"[""{c and, so, } [ i, + i ] don't know,  /""]",c and so   i  i  dont know  ,h,FEMALE,15
+"[""i haven't had much spare time lately <laughter>  /""]",i havent had much spare time lately laughter  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['okay,  /']",okay  ,b,FEMALE,2
+"[""{d well, } [ i've, + i have ] had some because i was working for p i e,  /""]",d well   ive  i have  had some because i was working for p i e  ,sd,FEMALE,1
+['{c and } they went bankrupt  /'],c and  they went bankrupt  ,sd,FEMALE,1
+['{c so } --'],c so  ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"[""-- i've got quite a bit of spare time right now.  /""]", ive got quite a bit of spare time right now  ,+,FEMALE,0
+"[""{c and } i've been making dolls, cloth dolls. /""]",c and  ive been making dolls cloth dolls ,sd,FEMALE,1
+"['{f oh, } have you? /']",f oh  have you ,bh,FEMALE,18
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['oh. /'],oh ,bk,FEMALE,14
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,FEMALE,5
+['you sew the bodies and everything? /'],you sew the bodies and everything ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"[""[ it's a, + they're all ] cloth.  /""]", its a  theyre all  cloth  ,sd,FEMALE,1
+"[""it's not, {f uh, } any porcelain at all. /""]",its not f uh  any porcelain at all ,sd,FEMALE,1
+"['[ {c so, } + {c so } ] you just sew everything up, huh? /']", c so   c so   you just sew everything up huh ,qy,FEMALE,7
+['yeah -- /'],yeah  ,ny,FEMALE,9
+['oh. /'],oh ,bk,FEMALE,14
+['-- {c and } i make the clothes for them. /'], c and  i make the clothes for them ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['what kind -- -/'],what kind  ,qw,FEMALE,12
+['{c and. } -/'],c and  ,%,FEMALE,5
+['-- do they have yarn hair  /'], do they have yarn hair  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['{f um, } no,  /']",f um  no  ,nn,FEMALE,13
+['you can get the little curly hair --'],you can get the little curly hair ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+['-- at the craft shop. /'], at the craft shop ,+,FEMALE,0
+['oh. /'],oh ,bk,FEMALE,14
+['i made some of them with that hair  /'],i made some of them with that hair  ,sd,FEMALE,1
+"[""{c and then, } {f uh, } don't ask me what the other hair i made, - /""]",c and then  f uh  dont ask me what the other hair i made  ,ad,FEMALE,22
+"['[ it looked like, + {f um, } it looked, ] - /']", it looked like  f um  it looked   ,sd,FEMALE,1
+"['{d well, } i made some of them with regular wigs. /']",d well  i made some of them with regular wigs ,sd,FEMALE,1
+"['{f oh, } did you? /']",f oh  did you ,bh,FEMALE,18
+"['i went to the flea markets and bought, {d you know, } {d like } the wigs for a dollar. /']",i went to the flea markets and bought d you know  d like  the wigs for a dollar ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+['then i cut a v shape out of the back of them --'],then i cut a v shape out of the back of them ,sd,FEMALE,1
+"['{f oh, } my goodness. /']",f oh  my goodness ,ba,FEMALE,6
+['-- and then sewed them on. /'], and then sewed them on ,+,FEMALE,0
+"[""it sounds like you're creative. /""]",it sounds like youre creative ,sv,FEMALE,3
+['they looked really cute <laughter>. /'],they looked really cute laughter ,sd,FEMALE,1
+"['{f uh, } do you sell them? /']",f uh  do you sell them ,qy,FEMALE,7
+"['i have sold five of them, so far. /']",i have sold five of them so far ,na,FEMALE,21
+"['{f oh, } have you? /']",f oh  have you ,bh,FEMALE,18
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+"['i just have to get a place where, {d you know, } i can sell them {d actually. } /']",i just have to get a place where d you know  i can sell them d actually  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i bet. /'],i bet ,ba,FEMALE,6
+['((   )) .'],    ,x,FEMALE,8
+['how long does it take you to make one? /'],how long does it take you to make one ,qw,FEMALE,12
+"['{f uh, } if i would just work all day long, making the clothes and everything, probably about two and a half days. /']",f uh  if i would just work all day long making the clothes and everything probably about two and a half days ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['oh. /'],oh ,bk,FEMALE,14
+['{d so. } -/'],d so  ,%,FEMALE,5
+['do you enjoy it? /'],do you enjoy it ,qy,FEMALE,7
+['yes -- /'],yes  ,ny,FEMALE,9
+['yeah. /'],yeah ,b,FEMALE,2
+['-- i really do. /'], i really do ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, then } i also crochet  /']",c and then  i also crochet  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['[ [ i, + i, ] + i ] can crochet and knit.  /']",  i  i   i  can crochet and knit  ,sd,FEMALE,1
+"['{f um, } {d actually, } i started an <laughter> afghan,  /']",f um  d actually  i started an laughter afghan  ,sd,FEMALE,1
+"[""{c but } it's been a whole long time ago --""]",c but  its been a whole long time ago ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- probably over a year ago  /'], probably over a year ago  ,+,FEMALE,0
+"[""{c and } it's  ((   ))  sitting in my closet half done right now, /""]",c and  its       sitting in my closet half done right now ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{c but, } it's a knitting one.  /""]",c but  its a knitting one  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['i tried knitting first,  /']",i tried knitting first  ,sd,FEMALE,1
+"[""{c but, } i don't know,  /""]",c but  i dont know  ,h,FEMALE,15
+"[""[ i, + i ] didn't like it. /""]", i  i  didnt like it ,sd,FEMALE,1
+"[""{f oh, } didn't you. /""]",f oh  didnt you ,b,FEMALE,2
+"['{c so } then i went to crocheting,  /']",c so  then i went to crocheting  ,sd,FEMALE,1
+['{c but } now i want to learn how to knit again. /'],c but  now i want to learn how to knit again ,sd,FEMALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+"['i en-, -/']",i en ,%,FEMALE,5
+['{d you know. } /'],d you know  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['i enjoy knitting.  /'],i enjoy knitting  ,sd,FEMALE,1
+"['[ i, + i ] kind of like that,  /']", i  i  kind of like that  ,sd,FEMALE,1
+"[""{c but } i just, like i say, haven't done it for a while. /""]",c but  i just like i say havent done it for a while ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } i do like sewing sometimes.  /'],c and  i do like sewing sometimes  ,sd,FEMALE,1
+"[""[ i, + i've ] made a few of [ the, + {d you know, } just the ] little valence curtains in my house, and --""]", i  ive  made a few of  the  d you know  just the  little valence curtains in my house and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- things like that.  /'], things like that  ,+,FEMALE,0
+"[""{c but, } [ it, + it's ] just finding the time for <laughter> these things that [ you -- +""]",c but   it  its  just finding the time for laughter these things that  you  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['yeah. /'],yeah ,aa,FEMALE,4
+['-- you ] enjoy.  /'], you  enjoy  ,+,FEMALE,0
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ i, + in fact, i ] just bought a serger in december. /']", i  in fact i  just bought a serger in december ,sd,FEMALE,1
+"['{f oh, } i would love one of these. /']",f oh  i would love one of these ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{f oh, } that's neat. /""]",f oh  thats neat ,ba,FEMALE,6
+"[""i haven't done everything on it yet, {d you know, }  /""]",i havent done everything on it yet d you know   ,sd,FEMALE,1
+"['{c but } just what little bit i have used it for, i really like it. /']",c but  just what little bit i have used it for i really like it ,sd,FEMALE,1
+"[""{f oh, } those are wonderful aren't they. /""]",f oh  those are wonderful arent they ,sv,FEMALE,3
+"[""{d you know, } especially making the seams and things like that {d you know, } [ it's, + <cough> it's ] got such a professional finish on them. /""]",d you know  especially making the seams and things like that d you know   its  cough its  got such a professional finish on them ,sv,FEMALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,FEMALE,4
+"[""[ that, + {c and } that's ] what i hate doing is the finishing stuff. /""]", that  c and  thats  what i hate doing is the finishing stuff ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""it'd be nice to have that. /""]",itd be nice to have that ,sv,FEMALE,3
+['{c so } i like that. /'],c so  i like that ,sd,FEMALE,1
+"[""{f oh, } that's neat. /""]",f oh  thats neat ,ba,FEMALE,6
+['{c and. } -/'],c and  ,%,FEMALE,5
+"['{d well, } do you have, {f um, } {f uh, } - /']",d well  do you have f um  f uh   ,qy,FEMALE,7
+"[""i guess you're kind of young,  /""]",i guess youre kind of young  ,sv,FEMALE,3
+"['i was going to say, do you have grand kids or anything to make dolls for. /']",i was going to say do you have grand kids or anything to make dolls for ,qy,FEMALE,7
+"[""{d well, } fifty-seven's not young,  /""]",d well  fiftysevens not young  ,sv,FEMALE,3
+"['{c but } no,  /']",c but  no  ,nn,FEMALE,13
+"[""my son's, has been married for almost ten years,  /""]",my sons has been married for almost ten years  ,sd,FEMALE,1
+"[""{c but } they don't have any children. /""]",c but  they dont have any children ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+"['{c so, } i just make clothes for my dolls. /']",c so  i just make clothes for my dolls ,sd,FEMALE,1
+"['# {f oh, } well. # /']", f oh  well  ,b,FEMALE,2
+['# <laughter>. #'], laughter ,x,FEMALE,8
+"['{d well, } how did you get involved in that? /']",d well  how did you get involved in that ,qw,FEMALE,12
+"['[ just, + {d you know, } just ] {d like } sewing and stuff and decided to buy a pattern and  try to make a doll. /']", just  d you know  just  d like  sewing and stuff and decided to buy a pattern and  try to make a doll ,sd,FEMALE,1
+"['{c so } you did buy a pattern, and then # started from there. # /']",c so  you did buy a pattern and then  started from there  ,bf,FEMALE,20
+"['# {c and } [ they, + they ] turned # out really cute.  /']", c and   they  they  turned  out really cute  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['you got to have a pattern for the body --'],you got to have a pattern for the body ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {d you know. } /'], d you know  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,FEMALE,5
+"['[ ha-, + have ] you ever seen those bunnies --']", ha  have  you ever seen those bunnies ,qy,FEMALE,7
+['yes. /'],yes ,ny,FEMALE,9
+['-- that they dress? /'], that they dress ,+,FEMALE,0
+['yes. /'],yes ,ny,FEMALE,9
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ i, + i ] did [ make some clothes for one of those -- +']", i  i  did  make some clothes for one of those  ,sd,FEMALE,1
+"[""aren't they cute? /""]",arent they cute ,qy,FEMALE,7
+['-- dress one of those. ]  /'], dress one of those   ,+,FEMALE,0
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['i have quite a few of them {d actually } in my house,  /']",i have quite a few of them d actually  in my house  ,sd,FEMALE,1
+"['[ i, + ] {c and } most of them i have bought, {f um, } already clothed,  /']", i   c and  most of them i have bought f um  already clothed  ,sd,FEMALE,1
+['{c but } # [ i did + # --'],c but    i did   ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['-- i did ] make the dress on one,  /']", i did  make the dress on one  ,+,FEMALE,0
+['{c and } i kind of made the pattern up.  /'],c and  i kind of made the pattern up  ,sd,FEMALE,1
+"[""[ it's not, + it's probably not ] the best <child_talking>  /""]", its not  its probably not  the best childtalking  ,sd,FEMALE,1
+"['{c but } <laughter>, -/']",c but  laughter ,%,FEMALE,5
+"['no,  /']",no  ,ar,FEMALE,28
+"['[ i, + i ] bought a bunny pattern one time,  /']", i  i  bought a bunny pattern one time  ,sd,FEMALE,1
+"['{c but } when i sewed it up, the face of it looked like a mouse. /']",c but  when i sewed it up the face of it looked like a mouse ,sd,FEMALE,1
+"['{f oh, } it did? /']",f oh  it did ,bh,FEMALE,18
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['oh. /'],oh ,bk,FEMALE,14
+"['{d see, } it was too pointed. /']",d see  it was too pointed ,sd,FEMALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"['{c so } i tore it back apart again,  /']",c so  i tore it back apart again  ,sd,FEMALE,1
+"[""{c and } i haven't tried another one. /""]",c and  i havent tried another one ,sd,FEMALE,1
+"[""you haven't sewn it back up, huh? /""]",you havent sewn it back up huh ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['{c but } i bought a little lamb pattern and the material and everything to make it out of,  /']",c but  i bought a little lamb pattern and the material and everything to make it out of  ,sd,FEMALE,1
+"[""{c but } i haven't made it # yet. # /""]",c but  i havent made it  yet  ,sd,FEMALE,1
+['# uh-huh.  /'], uhhuh  ,b,FEMALE,2
+"['#  {f uh, } do you do any kind of painting or anything? /']",  f uh  do you do any kind of painting or anything ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i don't --""]",i dont ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- paint, except i stenciled my wall. /']", paint except i stenciled my wall ,+,FEMALE,0
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['[ i tri-, + i tried ] that,  /']", i tri  i tried  that  ,sd,FEMALE,1
+"['[ [ i did, + i, ] + i ended ] up just stenciling [ [ [ a, + {f um, } a blind, ] + {d like } a, ] + just a roller shade. ] /']",  i did  i   i ended  up just stenciling    a  f um  a blind   d like  a   just a roller shade  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } [ [ i, + i can, ] + i had ] a hard time stenciling.  /']",c but    i  i can   i had  a hard time stenciling  ,sd,FEMALE,1
+"[""for some reason i just couldn't do it. /""]",for some reason i just couldnt do it ,sd,FEMALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+"[""{c and } people have told me it's very easy. /""]",c and  people have told me its very easy ,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+"['[ i, + my neighbor ] did it first  /']", i  my neighbor  did it first  ,sd,FEMALE,1
+['{c and } i seen her house  /'],c and  i seen her house  ,sd,FEMALE,1
+"['{c and } i saw how beautiful it looked,  /']",c and  i saw how beautiful it looked  ,sd,FEMALE,1
+"['{c so } then i decided {d well, } i was going to do it,  /']",c so  then i decided d well  i was going to do it  ,sd,FEMALE,1
+['# {c and } # --'], c and   ,sd,FEMALE,1
+['# {d well. } # -/'], d well   ,b,FEMALE,2
+"['-- {f uh, } it turned out really, really good. /']", f uh  it turned out really really good ,+,FEMALE,0
+['what design did you use? /'],what design did you use ,qw,FEMALE,12
+"['{f uh, } mostly flowers --']",f uh  mostly flowers ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+['-- {d you know. } /'], d you know  ,+,FEMALE,0
+"['and, what room? /']",and what room ,qw,FEMALE,12
+"[""i've done it in [ [ the + all, ] + {f uh, } all ] my rooms. /""]",ive done it in   the  all   f uh  all  my rooms ,sd,FEMALE,1
+['have you? /'],have you ,bh,FEMALE,18
+"['i put it in the bedrooms and the bathroom, /']",i put it in the bedrooms and the bathroom ,sd,FEMALE,1

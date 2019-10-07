@@ -1,0 +1,64 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<clicking>.'],clicking,x,FEMALE,8
+"[""{d well, } julie, {f uh, } are you in a situation where you'd soon need to deal with, {f uh, } special care for elderly? /""]",d well  julie f uh  are you in a situation where youd soon need to deal with f uh  special care for elderly ,qy,MALE,7
+"[""{d well, } i don't know.  /""]",d well  i dont know  ,no,FEMALE,31
+['my grandfather is ninety-two years old. /'],my grandfather is ninetytwo years old ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } he is still living by himself.  /'],c and  he is still living by himself  ,sd,FEMALE,1
+['my grandmother died a couple of years ago <<mispronounced>>.  /'],my grandmother died a couple of years ago mispronounced  ,sd,FEMALE,1
+"[""{c but } he doesn't want [ to, + to ] move away.  /""]",c but  he doesnt want  to  to  move away  ,sd,FEMALE,1
+['he lives in a little farmhouse on a farm. /'],he lives in a little farmhouse on a farm ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } he recently had to have an operation  /'],c and  he recently had to have an operation  ,sd,FEMALE,1
+"[""{c but } he just really doesn't want to go to a nursing home. /""]",c but  he just really doesnt want to go to a nursing home ,sd,FEMALE,1
+"['is he able to, {f uh, } still do everything himself pretty well? /']",is he able to f uh  still do everything himself pretty well ,qy,MALE,7
+"['{d well, } he was until this operation.  /']",d well  he was until this operation  ,no,FEMALE,31
+['he has arthritis. /'],he has arthritis ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,bk,MALE,14
+"[""{c and } now i don't really think he's doing that well.  /""]",c and  now i dont really think hes doing that well  ,sv,FEMALE,3
+"['{c and } [ my, + a lot of my ] aunts and uncles live near him.  /']",c and   my  a lot of my  aunts and uncles live near him  ,sd,FEMALE,1
+['{c and } i have one aunt that really looks after him a lot. /'],c and  i have one aunt that really looks after him a lot ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c but, } {f uh, } my great-grandfather was put in a nursing home when he was a hundred and three. /']",c but  f uh  my greatgrandfather was put in a nursing home when he was a hundred and three ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, } {f uh, } died six weeks after they put him in the home. /']",c and  f uh  died six weeks after they put him in the home ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{c and } i'm sure that kind of thing would influence [ your f-, + grandfather's ] feelings.  /""]",c and  im sure that kind of thing would influence  your f  grandfathers  feelings  ,sv,MALE,3
+"['{c because, } {f uh, } <lipsmack> [ i th-, + {d you know, } i think ] for a lot of people it really is the decision of, <<pause>> do they still have some of their life left.  /']",c because  f uh  lipsmack  i th  d you know  i think  for a lot of people it really is the decision of pause do they still have some of their life left  ,sv,MALE,3
+['# [ {c and } # -- +'],  c and    ,sv,MALE,3
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""-- {c and, } ] [ for, + for, ] i'm sure, a lot of people going into a nursing home it's like saying my life is over  /""]", c and    for  for  im sure a lot of people going into a nursing home its like saying my life is over  ,+,MALE,0
+"[""{c and } i'm just here for the rest of the stay <door>.  /""]",c and  im just here for the rest of the stay door  ,^q,MALE,19
+"[""{c and so } [ i, + {d you know, } <sigh> i ] guess most of the time when i think about somebody going into a nursing home, <swallowing> it's more a case of where they are not able to look after their day-to-day needs.  /""]",c and so   i  d you know  sigh i  guess most of the time when i think about somebody going into a nursing home swallowing its more a case of where they are not able to look after their daytoday needs  ,sd,MALE,1
+['# yeah # -- /'], yeah   ,%,MALE,5
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- they [ have + can ] look after a lot of things  /'], they  have  can  look after a lot of things  ,sd,MALE,1
+"[""{c but } there's some of the day-to-day needs that they just are not able to deal with physically anymore.  /""]",c but  theres some of the daytoday needs that they just are not able to deal with physically anymore  ,sd,MALE,1
+"['{f uh, } i know [ my, + none of my ] grandparents were in a nursing home.  /']",f uh  i know  my  none of my  grandparents were in a nursing home  ,sd,MALE,1
+['they generally <sigh> were able to have someone care for them at home  /'],they generally sigh were able to have someone care for them at home  ,sd,MALE,1
+['{c and } they died <cough> <<in background>>.  /'],c and  they died cough in background  ,sd,MALE,1
+"['{c but } they were all, goodness, younger than your grandparents <laughter>.  /']",c but  they were all goodness younger than your grandparents laughter  ,sd,MALE,1
+['{d like } they were in their eighties. that type of thing <lipsmack>.  /'],d like  they were in their eighties that type of thing lipsmack  ,sd,MALE,1
+"['{f uh, } <lipsmack> {c but } i did, {f uh, } {d you know, } i guess, - /']",f uh  lipsmack c but  i did f uh  d you know  i guess  ,%,MALE,5
+"['{f uh, } when i think nursing home i do think of people that are not able to [ do, + take ] care of themselves physically. # {f uh } <sigh>, # /']",f uh  when i think nursing home i do think of people that are not able to  do  take  care of themselves physically  f uh  sigh  ,sd,MALE,1
+"[""# {c but } # i just don't think that nursing homes really do a very good job. /""]", c but   i just dont think that nursing homes really do a very good job ,sv,FEMALE,3
+"[""<inhaling> {c and } [ that's, + that's ] difficult part.  /""]",inhaling c and   thats  thats  difficult part  ,sv,MALE,3
+"['{c because } i think what they often get used as is, {f uh, } almost like a very high level or long-term care [ for, + ] {f uh, } similar to a hospital. /']",c because  i think what they often get used as is f uh  almost like a very high level or longterm care  for   f uh  similar to a hospital ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['<inhaling> {f uh, } i know, {d like } here in saskatchewan, we have our <lipsmack> hospital care (( )) <noise> the care actually for the older people graded [ in level, + in four levels. ]   /']",inhaling f uh  i know d like  here in saskatchewan we have our lipsmack hospital care   noise the care actually for the older people graded  in level  in four levels    ,sd,MALE,1
+"['{c and } a level four type of care would be someone that really requires long-term hospital care. generally are not able to look after [ this-, + themselves ] [ to very, + to a very ] great extent, physically <inhaling>.  /']",c and  a level four type of care would be someone that really requires longterm hospital care generally are not able to look after  this  themselves   to very  to a very  great extent physically inhaling  ,sd,MALE,1
+"[""often times they even have mental difficulty with senility or alzheimer's disease <cough> <<background>> [ [ or those + or, ] + or ] physical and mental handicaps.  {f uh, } {d you know, } where they really require <swallowing> twenty-four hour supervision of some kind </noise>.  # even though # --""]",often times they even have mental difficulty with senility or alzheimers disease cough background   or those  or   or  physical and mental handicaps  f uh  d you know  where they really require swallowing twentyfour hour supervision of some kind noise   even though  ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- it may be minimal <inhaling>.  /'], it may be minimal inhaling  ,+,MALE,0
+"['[ {c and, } + {f uh, } <sigh> <clanging> {c but } ] i think that it can be helpful in that, {f uh, } it gets people the level of physical care they need.  {f uh, } /']", c and   f uh  sigh clanging c but   i think that it can be helpful in that f uh  it gets people the level of physical care they need  f uh  ,sv,MALE,3
+"[""{c but } i don't, {e i mean } - /""]",c but  i dont e i mean   ,%,FEMALE,5
+"['at least, {e i mean } i think some nursing homes do that.  /']",at least e i mean  i think some nursing homes do that  ,sv,FEMALE,3
+"['{c but } i think a lot of nursing homes really, {f uh, } are guilty of neglect. /']",c but  i think a lot of nursing homes really f uh  are guilty of neglect ,sv,FEMALE,3
+['<clicking> yeah.  /'],clicking yeah  ,aa,MALE,4
+"[""[ i th-, + {c and } i think ] it happens more in areas where it's, {f uh, } <lipsmack> i guess, {f uh, } a broad social medical system <cough> <<background>> where, {f uh, } {d you know, } there's government medical care and that kind of thing.  /""]", i th  c and  i think  it happens more in areas where its f uh  lipsmack i guess f uh  a broad social medical system cough background where f uh  d you know  theres government medical care and that kind of thing  ,sv,MALE,3
+"[""if it's the lot where it's funded by the individuals <lipsmack> - /""]",if its the lot where its funded by the individuals lipsmack  ,sd,MALE,1
+"[""[ {c and, } + {c and } ] i guess that's sort of my lack of understanding.  /""]", c and   c and   i guess thats sort of my lack of understanding  ,sv,MALE,3
+"['i think that a majority of the places in the u s, {f uh, } {d you know, } there is some government aid available,  /']",i think that a majority of the places in the u s f uh  d you know  there is some government aid available  ,sv,MALE,3
+['{c but } the majority ((of it)) is to the availability of the individual to pay <sigh> </clicking>. /'],c but  the majority of it is to the availability of the individual to pay sigh clicking ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and, } {f uh, } if you're not able to look after yourself, then you have to rely, -/""]",c and  f uh  if youre not able to look after yourself then you have to rely ,sd,MALE,1

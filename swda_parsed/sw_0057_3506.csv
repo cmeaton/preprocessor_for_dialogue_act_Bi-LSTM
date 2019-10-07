@@ -1,0 +1,120 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['now is it stacy? /'],now is it stacy ,qy,FEMALE,7
+['angie. /'],angie ,sd,FEMALE,1
+"['angie,  /']",angie  ,b^m,FEMALE,24
+"[""i'm sorry. /""]",im sorry ,fa,FEMALE,42
+['okay. /'],okay ,bd,FEMALE,38
+"['{d well, } {d now, } {d so } if you were going to have a dinner party, what would you make? /']",d well  d now  d so  if you were going to have a dinner party what would you make ,qw,FEMALE,12
+"[""{f um, } let's see,  /""]",f um  lets see  ,^h,FEMALE,27
+"['{f uh, } i like seafood.  /']",f uh  i like seafood  ,sd,FEMALE,1
+"[""{f uh, } let's see,  /""]",f uh  lets see  ,^h,FEMALE,27
+"['{f uh, } shrimp, steamed [ she-, + {f uh, } shellfish ] with maybe herbs.  /']",f uh  shrimp steamed  she  f uh  shellfish  with maybe herbs  ,sd,FEMALE,1
+"['{f uh, } <lipsmack> spicy lobster with [ lem-, + linguini. ] /']",f uh  lipsmack spicy lobster with  lem  linguini  ,sd,FEMALE,1
+['that sounds good. /'],that sounds good ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d now } [ what is, + {f uh, } what is, ] {f uh, } the steamed shellfish you said? /']",d now   what is  f uh  what is  f uh  the steamed shellfish you said ,br,FEMALE,30
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{c and } what would that be like, a clam or, {f uh, } -/']",c and  what would that be like a clam or f uh  ,qy,FEMALE,7
+['right. /'],right ,na,FEMALE,21
+['okay. /'],okay ,bk,FEMALE,14
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{f uh, } i think hors d'oeuvres are good, too.  /""]",f uh  i think hors doeuvres are good too  ,sv,FEMALE,3
+"['{f uh, } {c and } that way, you can have a variety.  {f uh, } /']",f uh  c and  that way you can have a variety  f uh  ,sd,FEMALE,1
+"[""{c so } if you have [ a, + a ] dinner party and you're going to serve, {f uh, } seafood for supper, what type of, {f uh, } hors d'oeuvres would you serve prior to the meal? /""]",c so  if you have  a  a  dinner party and youre going to serve f uh  seafood for supper what type of f uh  hors doeuvres would you serve prior to the meal ,qw,FEMALE,12
+"['<lipsmack> {f uh, } /']",lipsmack f uh  ,%,FEMALE,5
+"['{d like } cheeses or fruits or vegetables or, -/']",d like  cheeses or fruits or vegetables or ,qrr,FEMALE,33
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['fresh vegetables would be good  /'],fresh vegetables would be good  ,sv,FEMALE,3
+"['{c or, } {f uh, } just, -/']",c or  f uh  just ,%,FEMALE,5
+"['probably not nachos and dip, {f huh? } /']",probably not nachos and dip f huh  ,qy,FEMALE,7
+['no. /'],no ,nn,FEMALE,13
+"[""<laughter> {c and } [ would you, + {f uh, } would it ] be appropriate to, {f uh, } drink [ with the, + ] {f uh, } [ prior, + ] when you have the hors d'oeuvres? /""]",laughter c and   would you  f uh  would it  be appropriate to f uh  drink  with the   f uh   prior   when you have the hors doeuvres ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['yeah. /'],yeah ,ny,FEMALE,9
+['okay.  /'],okay  ,bk,FEMALE,14
+"['{c and then } when you serve the meal, what type of wine would you have [ [ with, + {f uh, } with the, ] + with ] seafood? /']",c and then  when you serve the meal what type of wine would you have   with  f uh  with the   with  seafood ,qw,FEMALE,12
+"['{f oh, } all these hard questions <laughter>. /']",f oh  all these hard questions laughter ,^h,FEMALE,27
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f uh, } what, white wine? /']",f uh  what white wine ,qy,FEMALE,7
+['that would be my guess. /'],that would be my guess ,na,FEMALE,21
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ {c and, } +']", c and  ,sd,FEMALE,1
+"[""i'm not really a drinker,  /""]",im not really a drinker  ,sd,FEMALE,1
+"[""{c so } [ i'm not, + i don't ] know a lot about that. /""]",c so   im not  i dont  know a lot about that ,sd,FEMALE,1
+"['{c and then, } ] {f uh, } {f uh, } dessert.  /']",c and then   f uh  f uh  dessert  ,+,FEMALE,0
+['something sweet? /'],something sweet ,qy^d,FEMALE,16
+"['{f oh, } goodness.  /']",f oh  goodness  ,ba,FEMALE,6
+"['{f uh, } chocolate, something chocolate.  /']",f uh  chocolate something chocolate  ,sd,FEMALE,1
+"['{f uh } <laughter>, /']",f uh  laughter ,%,FEMALE,5
+['you must like chocolate. /'],you must like chocolate ,qy^d,FEMALE,16
+['yes. /'],yes ,ny,FEMALE,9
+"[""<laughter> {d well, } let's see.  /""]",laughter d well  lets see  ,^h,FEMALE,27
+"['usually when we have a dinner party, [ i always, + i ] like to grill. /']",usually when we have a dinner party  i always  i  like to grill ,sd,FEMALE,1
+"['{f oh, } you do? /']",f oh  you do ,qy^d,FEMALE,16
+"['{d so, } we might have some cocktails ahead of time and maybe [ some, + {f uh, } some ] dip, {f uh, } some cheese.  /']",d so  we might have some cocktails ahead of time and maybe  some  f uh  some  dip f uh  some cheese  ,sd,FEMALE,1
+"[""one of our favorites is, {f uh, } to take some, let's see philadelphia cream cheese i think,  {a is that what comes in --""]",one of our favorites is f uh  to take some lets see philadelphia cream cheese i think  a is that what comes in ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- # those little blocks? } #'],  those little blocks  ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['and pour cocktail sauce over the top of it and then get these little canned shrimp and, {f uh, } wash them and cool them and then dump them in the, {f uh, } sauce and then take crackers  /']",and pour cocktail sauce over the top of it and then get these little canned shrimp and f uh  wash them and cool them and then dump them in the f uh  sauce and then take crackers  ,+,FEMALE,0
+['{c and then } you just dip the cracker in the sauce with the clams and the cream cheese  /'],c and then  you just dip the cracker in the sauce with the clams and the cream cheese  ,sd,FEMALE,1
+['{c and } you have a real nice dip that goes good with a cocktail.  /'],c and  you have a real nice dip that goes good with a cocktail  ,sv,FEMALE,3
+"['{c and then } i like to barbecue, {d like } steaks or pork chops.  /']",c and then  i like to barbecue d like  steaks or pork chops  ,sd,FEMALE,1
+"[""{c and then } [ we have, {f uh, } s-, + {f oh, } lot of times we'll have ] baked potatoes with them --""]",c and then   we have f uh  s  f oh  lot of times well have  baked potatoes with them ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and a salad  /'], and a salad  ,+,FEMALE,0
+"[""{c and then, } {f uh, } i don't know what we usually have for dessert.  /""]",c and then  f uh  i dont know what we usually have for dessert  ,sd,FEMALE,1
+"['cake sometimes,  /']",cake sometimes  ,sd,FEMALE,1
+"[""{c but, } {f uh, } that's what we would do for a dinner party, i guess. /""]",c but  f uh  thats what we would do for a dinner party i guess ,sd,FEMALE,1
+"['that sounds good, too. /']",that sounds good too ,sv,FEMALE,3
+"[""{c but } [ [ that's, + i guess when you talk about dinner party, that's probably not, ] + {f uh, } that's more for {d like } ] when friends come --""]",c but    thats  i guess when you talk about dinner party thats probably not   f uh  thats more for d like   when friends come ,sv,FEMALE,3
+['traditional -- /'],traditional  ,sd,FEMALE,1
+['-- over. /'], over ,+,FEMALE,0
+['-- right? /'], right ,^g,FEMALE,40
+"['traditional,  /']",traditional  ,sd,FEMALE,1
+['yeah. /'],yeah ,ny,FEMALE,9
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i wouldn't be the big, {f uh, } snotty kind. /""]",i wouldnt be the big f uh  snotty kind ,sv,FEMALE,3
+"['[ i just started, +']", i just started ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['i just really started, ] {f uh, } {f uh, } learning about that  /']",i just really started  f uh  f uh  learning about that  ,+,FEMALE,0
+"['{c and } i bought a martha stewart,  /']",c and  i bought a martha stewart  ,sd,FEMALE,1
+"[""i don't know if you've heard of her.  /""]",i dont know if youve heard of her  ,qy^d,FEMALE,16
+['huh-uh. /'],huhuh ,nn,FEMALE,13
+['her cookbook  /'],her cookbook  ,sd,FEMALE,1
+"['{c and } she talks about catering and, {f uh, } {d you know, } [ goes into, + goes into ] all that and the [ different types of, + {f uh, } <lipsmack> {f uh, } different types of ] parties, {d you know, } different types of foods. /']",c and  she talks about catering and f uh  d you know   goes into  goes into  all that and the  different types of  f uh  lipsmack f uh  different types of  parties d you know  different types of foods ,sd,FEMALE,1
+"['{f oh, } {d well, } do you work [ in a, + {f uh, } in a ] setting where you, {f uh, } are in the food business? /']",f oh  d well  do you work  in a  f uh  in a  setting where you f uh  are in the food business ,qy,FEMALE,7
+"['{f um, } my father owns a restaurant. /']",f um  my father owns a restaurant ,sd,FEMALE,1
+"['{f oh, } [ in, + {f uh, }']",f oh   in  f uh ,qy,FEMALE,7
+"[""[ it's, + it's ] just [ a, {f uh, } c-, + a cafe, ]  /""]", its  its  just  a f uh  c  a cafe   ,sd,FEMALE,1
+"[""{c so } it's not really anything, {d you know, } that i want to, - /""]",c so  its not really anything d you know  that i want to  ,sd,FEMALE,1
+"[""it's not the same <laughter>. /""]",its not the same laughter ,sd,FEMALE,1
+['is it in ] dallas? /'],is it in  dallas ,+,FEMALE,0
+"[""{f uh, } it's in lewisville. /""]",f uh  its in lewisville ,sd,FEMALE,1
+"['okay,  /']",okay  ,bk,FEMALE,14
+['all right.  /'],all right  ,bk,FEMALE,14
+['{d so } you graduated from which high school? /'],d so  you graduated from which high school ,qw,FEMALE,12
+['trinity. /'],trinity ,sd,FEMALE,1
+"['trinity,  /']",trinity  ,b^m,FEMALE,24
+['okay.  /'],okay  ,bk,FEMALE,14
+"[""{c and } that's a public school or private? /""]",c and  thats a public school or private ,qy,FEMALE,7
+"[""that's public. /""]",thats public ,sd,FEMALE,1
+"['{f huh, } okay,  /']",f huh  okay  ,bk,FEMALE,14
+"['i have to get to know this area a little better, i guess.  /']",i have to get to know this area a little better i guess  ,sd,FEMALE,1
+"[""{f uh, } {d well, } is your father's cafe, {f uh, } one that you could cater out of? /""]",f uh  d well  is your fathers cafe f uh  one that you could cater out of ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""uh-huh,  /*[[listen; mistranscription of 'uh-uh'?]]""]",uhhuh  listen mistranscription of uhuh,nn,FEMALE,13
+"[""it's not. /""]",its not ,sd,FEMALE,1
+"[""{f um, } {c and } he's not interested in letting his twenty-one year old daughter experiment with it probably. /""]",f um  c and  hes not interested in letting his twentyone year old daughter experiment with it probably ,qy^d,FEMALE,16
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter>.'],laughter,x,FEMALE,8
+['{f uh. } /'],f uh  ,%,FEMALE,5
+"[""{d well, } let's see,  /""]",d well  lets see  ,^h,FEMALE,27
+"['what else for catering.  {f uh, } /']",what else for catering  f uh  ,^h,FEMALE,27
+"[""let's see,  /""]",lets see  ,t1,FEMALE,37
+['what about hawaiian luau.  /'],what about hawaiian luau  ,qw,FEMALE,12
+"['{f oh, } that would be good. /']",f oh  that would be good ,sv,FEMALE,3
+"['could have, {f uh, } {f uh, } fruits [ and, + and ] pineapple, {f uh, }  /']",could have f uh  f uh  fruits  and  and  pineapple f uh   ,sd,FEMALE,1
+"[""let's see, {f uh, } /""]",lets see f uh  ,^h,FEMALE,27
+"['{c and } you could actually go with, {f uh, } a chicken if you wanted to. /']",c and  you could actually go with f uh  a chicken if you wanted to ,sv,FEMALE,3
+"['[ i think, + i think ] decorating your food is, {d you know, } really, -/']", i think  i think  decorating your food is d you know  really ,sv,FEMALE,3

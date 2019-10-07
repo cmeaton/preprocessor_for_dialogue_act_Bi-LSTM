@@ -1,0 +1,93 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay. /'],okay ,"fo_o_fw_""_by_bc",MALE,0
+['all right. /'],all right ,"fo_o_fw_""_by_bc",FEMALE,0
+['capital punishment. /'],capital punishment ,sd,MALE,1
+"['okay,  /']",okay  ,%,FEMALE,5
+"[""what's your views on it? /""]",whats your views on it ,qo,FEMALE,25
+"[""{f um, } for myself, i'm personally against it,  /""]",f um  for myself im personally against it  ,sd,MALE,1
+"['{c but } we seem to have a duality of, in this country where most states in theory have it, [ [ but, + but, ] + but ] do not use it. /']",c but  we seem to have a duality of in this country where most states in theory have it   but  but   but  do not use it ,sv,MALE,3
+['correct.  /'],correct  ,aa,FEMALE,4
+"['okay,  /']",okay  ,%,FEMALE,5
+"[""{d well, } i'm for it.  /""]",d well  im for it  ,sd,FEMALE,1
+"['i think there are certain crimes that definitely, {f uh, } call for it.  /']",i think there are certain crimes that definitely f uh  call for it  ,sv,FEMALE,3
+"['[ i, + i  ] feel {d like } that child molestation and murder - /']", i  i   feel d like  that child molestation and murder  ,sv,FEMALE,3
+"[""i don't see any sense in someone living that does things like that.  /""]",i dont see any sense in someone living that does things like that  ,sv,FEMALE,3
+"[""[ i, + i  ] don't feel like they're a benefit to society in any way,  /""]", i  i   dont feel like theyre a benefit to society in any way  ,sv,FEMALE,3
+"['{c and } of course texas has it, but  they very seldom, {d you know, } put it into effect.  /']",c and  of course texas has it but  they very seldom d you know  put it into effect  ,sd,FEMALE,1
+"['{c so } instead all of our prisons are full of people on, {d you know } --']",c so  instead all of our prisons are full of people on d you know  ,sv,FEMALE,3
+"['okay, {d well, } /']",okay d well  ,b,MALE,2
+['-- a lot of people on death row. /'], a lot of people on death row ,+,FEMALE,0
+"['{f uh, } texas uses it [ as, + about as  ] much as any other state. /']",f uh  texas uses it  as  about as   much as any other state ,sv,MALE,3
+"['{d well, } {f uh, } yeah -- /']",d well  f uh  yeah  ,b,FEMALE,2
+"['texas is a big state, /']",texas is a big state ,sd,MALE,1
+['-- which is not very often. - /'], which is not very often  ,sv,FEMALE,3
+['right. /'],right ,b,FEMALE,2
+"['{f um, } here in maryland to the capital punishment law, - /']",f um  here in maryland to the capital punishment law  ,%,MALE,5
+"['people are sometimes sentenced to capital punishment, but [ no one, + no one  ] [ has, + actually has  ] the sentence carried out.  /']",people are sometimes sentenced to capital punishment but  no one  no one    has  actually has   the sentence carried out  ,sd,MALE,1
+"[""{f uh, } i'd certainly, -/""]",f uh  id certainly ,%,MALE,5
+"['what do they do, just keep them on death row --']",what do they do just keep them on death row ,qy,FEMALE,7
+['uh-huh.  /'],uhhuh  ,ny,MALE,9
+['i think so. /'],i think so ,sd,MALE,1
+['-- for the rest of their life.  /'], for the rest of their life  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i, {f uh, } - /']",i f uh   ,%,MALE,5
+['((   ))  {c or } affair number -- -/'],     c or  affair number  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } in fact, i think that, [ it, + it  ] affected the sentence though capital punishment is available,  /']", f uh  in fact i think that  it  it   affected the sentence though capital punishment is available  ,sv,MALE,3
+"['the sentence of life without possibility of parole, {f uh, } has become a common one, and  is [ being, + being  ] used much more. /']",the sentence of life without possibility of parole f uh  has become a common one and  is  being  being   used much more ,sv,MALE,3
+['do you have the overcrowding in your prisons that we are facing down here? /'],do you have the overcrowding in your prisons that we are facing down here ,qy,FEMALE,7
+"[""{f uh, } i don't know the exact numbers,  /""]",f uh  i dont know the exact numbers  ,sd,MALE,1
+"['[ {c but, } + {c but } ] yes,  /']", c but   c but   yes  ,ny,MALE,9
+['prisons are overcrowded. /'],prisons are overcrowded ,sd,MALE,1
+"['i know that we have, {d you know, } - /']",i know that we have d you know   ,sd,FEMALE,1
+"[""really in fact  [ they're, + they're  ] releasing people, {f uh, } that are in there for, {d you know, } not major crimes, but, {f uh } robberies and assault and things like  that,  /""]",really in fact   theyre  theyre   releasing people f uh  that are in there for d you know  not major crimes but f uh  robberies and assault and things like  that  ,sv,FEMALE,3
+"[""{c and, } because they don't have room, [ which + ] then they're coming back on the streets and of course, doing it again,  /""]",c and  because they dont have room  which   then theyre coming back on the streets and of course doing it again  ,sv,FEMALE,3
+"[""{c and } {f um, } {d you know, } {c so } we're having problems [ in, + in  ] that way,  /""]",c and  f um  d you know  c so  were having problems  in  in   that way  ,sv,FEMALE,3
+"['{c and } i know that there are some cases that, {f uh, } {d you know, } capital punishment does not fit the crime,  /']",c and  i know that there are some cases that f uh  d you know  capital punishment does not fit the crime  ,sv,FEMALE,3
+"[""{c and } there are extenuating circumstances on certain types, {f um, } but i have to say that i'm honestly for it -- /""]",c and  there are extenuating circumstances on certain types f um  but i have to say that im honestly for it  ,sv,FEMALE,3
+['{f um. } /'],f um  ,%,MALE,5
+"['-- {f uh, } almost that eye for an eye and a tooth for a tooth. /']", f uh  almost that eye for an eye and a tooth for a tooth ,sv,FEMALE,3
+"['okay,  /']",okay  ,b,MALE,2
+"[""[ you're, + you're  ] certainly in the majority --""]", youre  youre   certainly in the majority ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['-- {f uh, } at least in this country. /']", f uh  at least in this country ,+,MALE,0
+['yes. /'],yes ,b,FEMALE,2
+"['{f uh, } we are, i guess,  the only one of the major western nations currently with capital punishment. /']",f uh  we are i guess  the only one of the major western nations currently with capital punishment ,sv,MALE,3
+"['i know they use it very, {f um, } - /']",i know they use it very f um   ,%,FEMALE,5
+"['they do not have it in europe, as i understand. /']",they do not have it in europe as i understand ,sv,FEMALE,3
+"['no,  /']",no  ,ar,MALE,28
+['at least not in western europe.  /'],at least not in western europe  ,sd,MALE,1
+['probably not in eastern europe these days either.  /'],probably not in eastern europe these days either  ,sv,MALE,3
+"['{f um, } there are many reasons for it,  /']",f um  there are many reasons for it  ,sv,MALE,3
+"['{c but } [ they, + they  ] certainly have lower crime rates and lower murder rates. /']",c but   they  they   certainly have lower crime rates and lower murder rates ,sv,MALE,3
+"['yes,  /']",yes  ,b,FEMALE,2
+"['you wonder [ what their, + ] {d you know, } how they manage to do that. /']",you wonder  what their   d you know  how they manage to do that ,sv,FEMALE,3
+"[""{d well, } in part [ it's, + {f uh, } it's  ] the nature of societies, perhaps more homogenous society, in many cases, {f uh, }  /""]",d well  in part  its  f uh  its   the nature of societies perhaps more homogenous society in many cases f uh   ,sv,MALE,3
+"['arguably, if - /']",arguably if  ,%,MALE,5
+"['arguably is because [ [ of, + of,  ] + {f uh, } of,  ] {f uh, } welfare state benefits. - /']",arguably is because   of  of    f uh  of   f uh  welfare state benefits  ,sv,MALE,3
+"['[ though + ]  [ i tend to be, + we tend to be  ] skeptical. /']", though     i tend to be  we tend to be   skeptical ,sv,MALE,3
+"[""{d well, } england [ has, + {f uh, }  don't they have  ] a [ large, + fairly large  ] welfare? /""]",d well  england  has  f uh   dont they have   a  large  fairly large   welfare ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+"[""{f oh } there's no question  [ [ that, + that  ] they, + that, {f uh, } {d you know, } they  ] have, {d you know, } all kinds of cradle to grave, {f uh, } programs, welfare programs providing for everyone some way.  /""]",f oh  theres no question    that  that   they  that f uh  d you know  they   have d you know  all kinds of cradle to grave f uh  programs welfare programs providing for everyone some way  ,sv,MALE,3
+"['[ [ i, + i,  ] + i,  ] - /']",  i  i    i    ,%,MALE,5
+['however the question is is that making the difference. /'],however the question is is that making the difference ,qy,MALE,7
+"[""{f oh, } [  i, +  i  ] don't know.  /""]",f oh    i   i   dont know  ,no,FEMALE,31
+['{c but } we have a lot of welfare programs  /'],c but  we have a lot of welfare programs  ,sv,FEMALE,3
+['{c and } -- -/'],c and   ,%,FEMALE,5
+['oh. /'],oh ,b,MALE,2
+"['-- if both do and they tend to have less crime, you wonder if that has anything to do with it then,  /']", if both do and they tend to have less crime you wonder if that has anything to do with it then  ,sv,FEMALE,3
+"['{d you know, } {c or } is it, - /']",d you know  c or  is it  ,%,FEMALE,5
+"['in our society, people are brought up over here thinking that, {d you know, } everybody owes them something. /']",in our society people are brought up over here thinking that d you know  everybody owes them something ,sv,FEMALE,3
+"['{f um, } [ i think, + i think  ] that idea is [ even, + even  ] more common in western europe. /']",f um   i think  i think   that idea is  even  even   more common in western europe ,sv,MALE,3
+"['{f oh, } do you? /']",f oh  do you ,qy,FEMALE,7
+['uh-huh. /'],uhhuh ,ny,MALE,9
+"[""{d well, } that's interesting.  /""]",d well  thats interesting  ,ba,FEMALE,6
+"['[ i would not have, + i would not have  ] said that.  /']", i would not have  i would not have   said that  ,sd,FEMALE,1
+['i would have said that it was more prevalent here in the united states.   /'],i would have said that it was more prevalent here in the united states   ,sv,FEMALE,3
+"[""that's an interesting theory.  /""]",thats an interesting theory  ,sv,FEMALE,3
+"[""i'm not that familiar, {d you know, }  /""]",im not that familiar d you know   ,sd,FEMALE,1
+"[""i've only been over there a couple of times  /""]",ive only been over there a couple of times  ,sd,FEMALE,1
+"[""{c and } i'm not that familiar --""]",c and  im not that familiar ,sd,FEMALE,1
+"['me, too. /']",me too ,sd,MALE,1
+"['-- with, that,  /']", with that  ,+,FEMALE,0
+"['all i know is that, for instance we were in germany in, {f uh, } -/']",all i know is that for instance we were in germany in f uh  ,sd,FEMALE,1

@@ -1,0 +1,125 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d so, } {d so } what have you seen  lately that, {f um, } you think is worthwhile? /']",d so  d so  what have you seen  lately that f um  you think is worthwhile ,qw,MALE,12
+"['{f um, } the last movie i saw was  [ regardin-, +  regarding ] henry.   /']",f um  the last movie i saw was   regardin   regarding  henry   ,sd,FEMALE,1
+['have you seen that yet? /'],have you seen that yet ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+"['[ i, +  i ] saw the previews. /']", i   i  saw the previews ,sd,MALE,1
+"[""it's really good.  /""]",its really good  ,sv,FEMALE,3
+['i loved it.  /'],i loved it  ,sd,FEMALE,1
+"[""{f um, } it's, {f um. } -/""]",f um  its f um  ,%,FEMALE,5
+"['[ [ does, +  does he, ] +  does it ]  have a happy ending,  /']",  does   does he    does it   have a happy ending  ,qy,MALE,7
+['{c or. } -/'],c or  ,%,MALE,5
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['really good ending -- /'],really good ending  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {f um, } {f uh, } [ it was the, +   it's one of the ] best movies i've seen in a long time.  /""]", f um  f uh   it was the    its one of the  best movies ive seen in a long time  ,sd,FEMALE,1
+"[""i generally don't get into  movies that much,  /""]",i generally dont get into  movies that much  ,sd,FEMALE,1
+"['{c but } i saw that one,  /']",c but  i saw that one  ,sd,FEMALE,1
+"['{c and } then before that one, i saw, {f um, }  {f oh, } naked gun two and a half. /']",c and  then before that one i saw f um   f oh  naked gun two and a half ,sd,FEMALE,1
+"[""{f oh, } that was funny, wasn't it <laughter>. /""]",f oh  that was funny wasnt it laughter ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['[ did you, +  have you ] seen that one? /']", did you   have you  seen that one ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+"['[ [ [ {c and, } +  {c and, } ] +   {c and, } ] +  {c and } ] the regular naked gun  and airport and, {d you know. } /']",   c and    c and      c and     c and   the regular naked gun  and airport and d you know  ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""it's exactly like airplane --""]",its exactly like airplane ,qy,FEMALE,7
+['yes. /'],yes ,aa,MALE,4
+"[""-- wasn't it <laughter>.  /""]", wasnt it laughter  ,+,FEMALE,0
+['{c but } it was silly. /'],c but  it was silly ,sv,FEMALE,3
+['right.  /'],right  ,b,MALE,2
+"['{d so, } now these are for  two very different movies.  /']",d so  now these are for  two very different movies  ,sd,MALE,1
+"['[ one, +  one, ] {f uh, } absolutely slapstick comedy and one clearly,  {d you know, } serious subject. /']", one   one  f uh  absolutely slapstick comedy and one clearly  d you know  serious subject ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b^m,MALE,24
+"['[ i, +  i ] guess i have  similarly broad tastes.  /']", i   i  guess i have  similarly broad tastes  ,sd,MALE,1
+"['{f um, } my most recent, {f um, } movie [ that i, +  that i ] liked a lot,  not my most recent movie, was henry the fifth.  /']",f um  my most recent f um  movie  that i   that i  liked a lot  not my most recent movie was henry the fifth  ,sd,MALE,1
+"['i only rented it, {d you know, } maybe a month ago -- /']",i only rented it d you know  maybe a month ago  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } it's been out for  a couple of years,  /""]", c and  its been out for  a couple of years  ,sd,MALE,1
+['{c but. }  have you seen that? /'],c but   have you seen that ,qy,MALE,7
+"[""i haven't seen that yet. /""]",i havent seen that yet ,ng,FEMALE,29
+"[""{d well, } [ [ it's, +  it's a, ] +  it's an ]  adaptation [ of the, +  of the ] shakespeare play,  /""]",d well    its   its a    its an   adaptation  of the   of the  shakespeare play  ,sd,MALE,1
+"[""{c and } it's beautifully done.  /""]",c and  its beautifully done  ,sv,MALE,3
+"[""{f um, } i believe  that all the language is as shakespeare wrote it, except it's been shortened a little  bit  /""]",f um  i believe  that all the language is as shakespeare wrote it except its been shortened a little  bit  ,sd,MALE,1
+['{c and } there might be a word or  two changed. /'],c and  there might be a word or  two changed ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""{f uh, } {c but } [ [ it's, +  it's, ] +   it's ] a glorious movie -- /""]",f uh  c but    its   its     its  a glorious movie  ,sv,MALE,3
+['{f um. }'],f um ,br,FEMALE,30
+"['-- {f um, } {c and } i like, as you know,  [ [ these, +  these, ] +  these ]  [ sil-, +  silly ] movies,  /']", f um  c and  i like as you know    these   these    these    sil   silly  movies  ,sd,MALE,1
+['{c and } i also like just some strange movies.  /'],c and  i also like just some strange movies  ,sd,MALE,1
+['do you have any. /'],do you have any ,qy,MALE,7
+['such as <laughter>. /'],such as laughter ,+,FEMALE,0
+"['{d well, } [ the, +  the ]  one that comes immediately to mind,  [ i, + ] {f um, } is the the cook, the thief, his wife, her lover.  /']",d well   the   the   one that comes immediately to mind   i   f um  is the the cook the thief his wife her lover  ,sd,MALE,1
+"['{f um, } {c but } there are also these various, {f um, } david lynch movies. /']",f um  c but  there are also these various f um  david lynch movies ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } [ i got, +  i got ]  hooked on twin peaks.  /']",f um   i got   i got   hooked on twin peaks  ,sd,MALE,1
+['that made me go out and watch every david lynch movie i could lay my hands on. /'],that made me go out and watch every david lynch movie i could lay my hands on ,sd,MALE,1
+"['{f oh, } really.  /']",f oh  really  ,b,FEMALE,2
+"[""i haven't seen any of those. /""]",i havent seen any of those ,sd,FEMALE,1
+['oh.  /'],oh  ,b,MALE,2
+['{f um } --'],f um  ,sd,MALE,1
+"[""they're really good? /""]",theyre really good ,qy^d,FEMALE,16
+"[""-- {d well, } [ i don't, +  i don't ]  especially recommend, - /""]", d well   i dont   i dont   especially recommend  ,+,MALE,0
+"['{e i mean, } [ you have, +  you have ] to just sort of like this thing,  /']",e i mean   you have   you have  to just sort of like this thing  ,sv,MALE,3
+"['you have to like, - /']",you have to like  ,sv,MALE,3
+['did you see twin peaks? /'],did you see twin peaks ,qy,MALE,7
+"['huh-uh,  /']",huhuh  ,nn,FEMALE,13
+['no. /'],no ,nn,FEMALE,13
+"['no,  /']",no  ,b,MALE,2
+"['{d so, } okay.  /']",d so  okay  ,%,MALE,5
+"[""{d so, }  [ if you weren't, +  if you weren't ] drawn to watch that, [ you, +  maybe you ] wouldn't be drawn to these movies, either. /""]",d so    if you werent   if you werent  drawn to watch that  you   maybe you  wouldnt be drawn to these movies either ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ they're, +  they're ] just strange. /""]", theyre   theyre  just strange ,sv,MALE,3
+"['<laughter>  [ are they, +    {e i mean, } is it, ] like mystery, {c or } --']",laughter   are they     e i mean  is it  like mystery c or  ,qy,FEMALE,7
+"['{d well, } {f uh. }']",d well  f uh ,sv,MALE,3
+['-- suspense  /'], suspense  ,+,FEMALE,0
+"['{c or, } -/']",c or  ,%,FEMALE,5
+['i think suspense is the right word.  /'],i think suspense is the right word  ,+,MALE,0
+"['{f uh, } [ [ and, + but, ] +   but, ] a little bit strange and esoteric  /']",f uh    and  but     but  a little bit strange and esoteric  ,sv,MALE,3
+"[""{c and, } {f uh, } in the case  of twin peak [ a little, + ] there's some elements of the supernatural in it, too. /""]",c and  f uh  in the case  of twin peak  a little   theres some elements of the supernatural in it too ,sd,MALE,1
+['{f oh } really. /'],f oh  really ,b,FEMALE,2
+['that was the television show. /'],that was the television show ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"[""{f um, } there's also [ [ a, +  a ] +  a ]  producer of movies in baltimore called, {f um, } john walters, [ who, +  who ] [ puts, +  puts ]  on even weirder movies.  /""]",f um  theres also   a   a    a   producer of movies in baltimore called f um  john walters  who   who   puts   puts   on even weirder movies  ,sd,MALE,1
+"['{f uh, } his most recent ones have actually been fairly mainstream, like hair spray.  /']",f uh  his most recent ones have actually been fairly mainstream like hair spray  ,sd,MALE,1
+"['{f um, } {c but } back in his early days, [ [ he, +  he, ] +  he ]  had things, {f um, } {f um, } - /']",f um  c but  back in his early days   he   he    he   had things f um  f um   ,sd,MALE,1
+"['[ what, +  what ]  are the titles,  /']", what   what   are the titles  ,t1,MALE,37
+"[""i can't remember the titles any more.   {c but, } some really weird ones, {f uh, } with quite a random crew [ of, +  of ] characters.   /""]",i cant remember the titles any more   c but  some really weird ones f uh  with quite a random crew  of   of  characters   ,sv,MALE,3
+"['{f um, } it would have made, {d you know, } these fellini movies look normal. /']",f um  it would have made d you know  these fellini movies look normal ,sv,MALE,3
+['right.  /'],right  ,b,FEMALE,2
+"['{d so } do you like,  {f um, } movies a lot?  /']",d so  do you like  f um  movies a lot  ,qy,FEMALE,7
+"[""{d see } i don't do, - /""]",d see  i dont do  ,sd,FEMALE,1
+"[""i don't. /""]",i dont ,sd,FEMALE,1
+"['[ i do, + i do ] like movies a lot. /']", i do  i do  like movies a lot ,na,MALE,21
+['right.  /'],right  ,bk,FEMALE,14
+"[""{d see, } i don't do that,  /""]",d see  i dont do that  ,sd,FEMALE,1
+"[""i don't go to movies that often,  /""]",i dont go to movies that often  ,sd,FEMALE,1
+"[""{c but, } just recently i've been to a couple <laughter>. /""]",c but  just recently ive been to a couple laughter ,sd,FEMALE,1
+"['[ do, +  do ] you rent them,  /']", do   do  you rent them  ,qy,MALE,7
+['{c or. } -/'],c or  ,%,MALE,5
+"['<throat_clearing> {f um, } no,  /']",throatclearing f um  no  ,nn,FEMALE,13
+"['[ we, +  i ] just go to {d like } the dollar movie theater around here --']", we   i  just go to d like  the dollar movie theater around here ,sd,FEMALE,1
+['yes. /'],yes ,b,MALE,2
+"['-- generally,  /']", generally  ,+,FEMALE,0
+"[""{c but, } i don't know,  /""]",c but  i dont know  ,h,FEMALE,15
+"['[ i just, +  i ] usually fall asleep <laughter>  /']", i just   i  usually fall asleep laughter  ,sd,FEMALE,1
+['{c or } i get bored pretty easily  /'],c or  i get bored pretty easily  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""that's what my wife does too, {f um, }  /""]",thats what my wife does too f um   ,sd,MALE,1
+"['{e i mean, } she falls asleep <laughter>. /']",e i mean  she falls asleep laughter ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so } [ we have to, +  we have to ]  pick just the right kind of movie --']",c so   we have to   we have to   pick just the right kind of movie ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- [ [ [ to, +  to, ] +  to, ] +  to ] appeal. /']",    to   to    to    to  appeal ,+,MALE,0
+"['right,  /']",right  ,b,FEMALE,2
+"[""that's exactly right. /""]",thats exactly right ,ba,FEMALE,6
+"['{d well, } {d well } it was good talking to you. /']",d well  d well  it was good talking to you ,fc,MALE,10
+"['yeah,  /']",yeah  ,fc,FEMALE,10
+"[""it's good to talk to you, too. /""]",its good to talk to you too ,fc,FEMALE,10
+['take care. /'],take care ,fc,MALE,10
+['uh-huh. /'],uhhuh ,fc,FEMALE,10
+"['okay,  /']",okay  ,fc,MALE,10
+['bye. /'],bye ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

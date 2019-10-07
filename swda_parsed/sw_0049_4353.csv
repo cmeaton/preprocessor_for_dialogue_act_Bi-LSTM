@@ -1,0 +1,199 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['thanks. /'],thanks ,ft,FEMALE,43
+['huh.  /'],huh  ,b,MALE,2
+['do you all have a budget? /'],do you all have a budget ,qy,MALE,7
+"['{d well, } {f uh, } yeah,  /']",d well  f uh  yeah  ,ny,FEMALE,9
+"['[ we, + we ] do.  /']", we  we  do  ,sd,FEMALE,1
+"[""{f um, } we've been married for twenty-three years -- /""]",f um  weve been married for twentythree years  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } we have, {f uh, } three teenage daughters  /']", c and  we have f uh  three teenage daughters  ,sd,FEMALE,1
+"[""{c and, } {d you know, } they're very expensive.  /""]",c and  d you know  theyre very expensive  ,sd,FEMALE,1
+"['{c so, } {f uh, } <smack> {f uh, } [ we, + {d yeah, } we ] have somewhat of, {f uh, } a system.  /']",c so  f uh  smack f uh   we  d yeah  we  have somewhat of f uh  a system  ,sd,FEMALE,1
+"[""{f uh, } <smack> [ [ it's, + it's kind of, ] + {f uh, } {d you know, } it's kind of ] hard to explain. /""]",f uh  smack   its  its kind of   f uh  d you know  its kind of  hard to explain ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""we've actually gone, {f uh, } just recently, to {d you know } [ having, + having ] two checking accounts.  /""]",weve actually gone f uh  just recently to d you know   having  having  two checking accounts  ,sd,FEMALE,1
+['we always had just one. /'],we always had just one ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } now we are having two.  /'],c and  now we are having two  ,sd,FEMALE,1
+"[""{f uh, } it's kind of hard to talk <noise> about this because to me it's very personal. /""]",f uh  its kind of hard to talk noise about this because to me its very personal ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+"[""it's, # {f uh, } # -/""]",its  f uh   ,%,MALE,5
+"['# {c so, } # i have to be. - /']", c so   i have to be  ,sd,FEMALE,1
+"[""[ that's + that's ] kind of the way i feel about it. /""]", thats  thats  kind of the way i feel about it ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"['i usually, {f uh, } - /']",i usually f uh   ,%,MALE,5
+['my wife handles a lot of the day to day finances  /'],my wife handles a lot of the day to day finances  ,sd,MALE,1
+"[""{c and } of course, we're [ ju-, + ] [ like ther-, + like ] a lot of people.  /""]",c and  of course were  ju    like ther  like  a lot of people  ,sv,MALE,3
+"['we just scramble through month to month, {d you know. } /']",we just scramble through month to month d you know  ,sd,MALE,1
+['yes. /'],yes ,aa,FEMALE,4
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+['do you have a two income family or one income? /'],do you have a two income family or one income ,qy,FEMALE,7
+"['{f uh, } we have a two income --']",f uh  we have a two income ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- {f uh } family.  /'], f uh  family  ,+,MALE,0
+['she also works -- /'],she also works  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- [ {c and, } + {f uh, } {c but } ] [ she, + she ] enjoys it  /']",  c and   f uh  c but    she  she  enjoys it  ,sd,MALE,1
+"[""{c and } she's good at it.  /""]",c and  shes good at it  ,sd,MALE,1
+"[""{f uh, } [ if it's, + if it's, ] - /""]",f uh   if its  if its   ,%,MALE,5
+"[""[ i am kind of, + {f uh, } {f uh, } i'm pretty ] bad about procrastinating -- /""]", i am kind of  f uh  f uh  im pretty  bad about procrastinating  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } one of these days i am going to do something about that ((i believe)) <laughter>. /'], c and  one of these days i am going to do something about that i believe laughter ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['# you know # how that goes,  /']", you know  how that goes  ,"fo_o_fw_""_by_bc",MALE,0
+"['{c but, } {f uh, } {f uh, } [ if, + ] [ she, + she ] handles it pretty well.  /']",c but  f uh  f uh   if    she  she  handles it pretty well  ,sd,MALE,1
+"['[ she, + {f uh } --']", she  f uh  ,sd,MALE,1
+"['{d so } your wife, -/']",d so  your wife ,bf,FEMALE,20
+"['-- she ] writes all the checks, {d you know, } once a month. /']", she  writes all the checks d you know  once a month ,+,MALE,0
+['yes.  /'],yes  ,b,FEMALE,2
+['it - /'],it  ,%,FEMALE,5
+['that - /'],that  ,%,FEMALE,5
+['what - /'],what  ,%,FEMALE,5
+"['[ her, + is her ] career, {f uh, } related [ to, + to ] finance or accounting? /']", her  is her  career f uh  related  to  to  finance or accounting ,qy,FEMALE,7
+"['{f uh, } sort of on a peripheral.  /']",f uh  sort of on a peripheral  ,no,MALE,31
+"[""she's, {f uh, } {f uh, } an annuity administrator -- /""]",shes f uh  f uh  an annuity administrator  ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"['-- {c and so } [ she, + {f uh, } she ] works for an insurance company. /']", c and so   she  f uh  she  works for an insurance company ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ {c but, } + {c but } ] she enjoys it.  /']", c but   c but   she enjoys it  ,sd,MALE,1
+['she likes keeping track of all that stuff  /'],she likes keeping track of all that stuff  ,sd,MALE,1
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{c so } that's sort of related to her field # a little bit. # /""]",c so  thats sort of related to her field  a little bit  ,qy^d,FEMALE,16
+['# yeah #  /'], yeah   ,ny,MALE,9
+['sort of. /'],sort of ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } [ we, + {d you know, } we've ] experimented [ with, + with, ] {f uh, } budgets, {d you know } from time to time, {f uh, }  /""]",c and   we  d you know  weve  experimented  with  with  f uh  budgets d you know  from time to time f uh   ,sd,MALE,1
+"['{c but, } if, {d you know, } - /']",c but  if d you know   ,%,MALE,5
+['you have to keep up with them.  /'],you have to keep up with them  ,sv,MALE,3
+"['{c so } a lot of times, we [ just, + {f uh, } just ] kind of play it by ear.  /']",c so  a lot of times we  just  f uh  just  kind of play it by ear  ,sd,MALE,1
+"['we try to keep [ our, + {f uh, } <noise> our ] retirement and our savings kind of automated -- /']",we try to keep  our  f uh  noise our  retirement and our savings kind of automated  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- {c so } we never see that money.  /'], c so  we never see that money  ,sd,MALE,1
+['just {d like } taken # directly. # /'],just d like  taken  directly  ,sd,MALE,1
+"[""# it's just # taking it out, {d right. }  /""]", its just  taking it out d right   ,bf,FEMALE,20
+['# right.  /'], right  ,b,FEMALE,2
+['yeah. # /'],yeah  ,b,FEMALE,2
+['# yeah. # /'], yeah  ,aa,MALE,4
+['yeah.  /'],yeah  ,b^m,FEMALE,24
+['# we do the same thing. # /'], we do the same thing  ,sd,FEMALE,1
+"[""# {c and } [ that, + that's ] kind of handy.  /""]", c and   that  thats  kind of handy  ,sv,MALE,3
+"['# yeah,  /']", yeah  ,%,MALE,5
+"[""{c because } if you don't see it, you don't miss it (( )) <laughter>. /""]",c because  if you dont see it you dont miss it   laughter ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['# if # -- -/'], if   ,%,FEMALE,5
+"[""# you don't spend it. # /""]", you dont spend it  ,sd,MALE,1
+['-- you have something to take it out.  /'], you have something to take it out  ,sd,FEMALE,1
+"[""that's exactly what we've always done -- /""]",thats exactly what weve always done  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- {c and } [ we've had, + {f uh, } they've always had, ] {f uh, } where they match your funds, {d you know, }  /""]", c and   weve had  f uh  theyve always had  f uh  where they match your funds d you know   ,sd,FEMALE,1
+['sometimes --'],sometimes ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- [ if you, + if you ] save so much, then they will match it.  /']",  if you  if you  save so much then they will match it  ,+,FEMALE,0
+"[""{f uh, } [ that, + ] {d you know, } we've done that too.  /""]",f uh   that   d you know  weve done that too  ,sd,FEMALE,1
+"['{c but, } my husband works for an insurance company -- /']",c but  my husband works for an insurance company  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } [ he, + he ] has now for about, oh gosh, how long has it been, ten years i guess.  /']", c and   he  he  has now for about oh gosh how long has it been ten years i guess  ,sd,FEMALE,1
+"['{c but } he was with another company before that,  /']",c but  he was with another company before that  ,sd,FEMALE,1
+"['{c but } [ we have, + we have, ] - /']",c but   we have  we have   ,%,FEMALE,5
+"['[ i, + i ] work also,  /']", i  i  work also  ,sd,FEMALE,1
+['{c but } i only have a part time job -- /'],c but  i only have a part time job  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } i get paid very little  /'], c and  i get paid very little  ,sd,FEMALE,1
+"['{c but, } {f uh, } {d you know, } i try to use that money for food [ mo-, + ]  /']",c but  f uh  d you know  i try to use that money for food  mo    ,sd,FEMALE,1
+['jim gives me a certain amount money.  /'],jim gives me a certain amount money  ,sd,FEMALE,1
+"['{d you know, } we just transfer it --']",d you know  we just transfer it ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- into my account  /'], into my account  ,+,FEMALE,0
+"['{c and then } i use that for food, household expenses,  /']",c and then  i use that for food household expenses  ,sd,FEMALE,1
+['{c and then } i add my own check to that  /'],c and then  i add my own check to that  ,sd,FEMALE,1
+"['{c and then } with that i try and handle, {d you know, } some of the clothes that the girls need --']",c and then  with that i try and handle d you know  some of the clothes that the girls need ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- and things like that,  /']", and things like that  ,+,FEMALE,0
+['{c but } the expenses that we need and have around the house. -/'],c but  the expenses that we need and have around the house ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['# it # --'], it  ,sv,MALE,3
+['# {d so. } # -/'], d so   ,%,FEMALE,5
+['-- sounds like you all pretty much do it the same we do.  /'], sounds like you all pretty much do it the same we do  ,+,MALE,0
+['just kind of --'],just kind of ,bf,MALE,20
+['yeah. /'],yeah ,aa,FEMALE,4
+"['-- play it by ear, but keep [ the, + the ] # deductions # --']", play it by ear but keep  the  the   deductions  ,+,MALE,0
+"['# yeah,  /']", yeah  ,aa,FEMALE,4
+['we # -- -/'],we   ,%,FEMALE,5
+['-- {d you know } # (( )). # /'], d you know      ,+,MALE,0
+"['-- # {d well } [ jim # has, + jim has ] a budget.  /']",  d well   jim  has  jim has  a budget  ,sd,FEMALE,1
+['i mean he works it out every month --'],i mean he works it out every month ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- and breaks it all down.  /'], and breaks it all down  ,+,FEMALE,0
+"['{f uh, } {d you know. } i am given so much [ mon-, + money ] a month,  /']",f uh  d you know  i am given so much  mon  money  a month  ,sd,FEMALE,1
+['{c so } i am suppose to kind of get the food out of that. /'],c so  i am suppose to kind of get the food out of that ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so, } i try not to, {d you know, } - /']",c so  i try not to d you know   ,sd,FEMALE,1
+"[""[ we don't, + {d you know, } i don't ] ask for more.  /""]", we dont  d you know  i dont  ask for more  ,sd,FEMALE,1
+['{e i mean } i just try and make it on that. /'],e i mean  i just try and make it on that ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['yeah <<very faint>>. /'],yeah very faint ,b,MALE,2
+"['{c because } i think when you go to the grocery store, [ you can just, + you can ] go crazy  --']",c because  i think when you go to the grocery store  you can just  you can  go crazy  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['-- with all the choices that you have -- /'], with all the choices that you have  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and, } {f uh, } [ you can, + <noise> you can ] really waste a lot of money that way. /']", c and  f uh   you can  noise you can  really waste a lot of money that way ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['{d so, } {f uh, } {d well } how long have you been married? /']",d so  f uh  d well  how long have you been married ,qw,FEMALE,12
+"['{f uh, } about five years.  /']",f uh  about five years  ,sd,MALE,1
+['yeah. /'],yeah ,%,MALE,5
+"['{f oh, } yeah.  /']",f oh  yeah  ,b^m,FEMALE,24
+"[""{c so } you're just really getting started <laughter>. /""]",c so  youre just really getting started laughter ,bf,FEMALE,20
+['<laughter>.'],laughter,x,MALE,8
+['{c so } do you have a family too? /'],c so  do you have a family too ,qy,FEMALE,7
+"[""{f uh, } i've got one little girl.  /""]",f uh  ive got one little girl  ,na,MALE,21
+"[""she's {d like, } {f uh, } nineteen months. /""]",shes d like  f uh  nineteen months ,sd,MALE,1
+['{f oh } yeah.  /'],f oh  yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{d so, } {f uh, } [ she's, + she's ] not, {f uh, } -/""]",d so  f uh   shes  shes  not f uh  ,sd,MALE,1
+"[""she hasn't effected your budget yet really. /""]",she hasnt effected your budget yet really ,^2,FEMALE,23
+"['[ not, + not ] really.  /']", not  not  really  ,aa,MALE,4
+['not too # bad. {f uh. } # /'],not too  bad f uh   ,sd,MALE,1
+['# no. #  /'], no   ,aa,FEMALE,4
+['not like she will later on. /'],not like she will later on ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['you will see # that # --'],you will see  that  ,sv,FEMALE,3
+['# yeah  /'], yeah  ,b,MALE,2
+"['when, # -/']",when  ,%,MALE,5
+"[""-- all of a sudden [ you're paying, + you're trying ] to decide whether you are going to do, {d you know, } soccer and piano and all these choices that they have of activities to do -- /""]", all of a sudden  youre paying  youre trying  to decide whether you are going to do d you know  soccer and piano and all these choices that they have of activities to do  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and then } you really have to start saying okay, {d now } what can we afford --']", c and then  you really have to start saying okay d now  what can we afford ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- {d you know, }  /']", d you know   ,+,FEMALE,0
+['what can we do here  /'],what can we do here  ,^q,FEMALE,19
+['{c and then } you have to really sit down and plan some more  /'],c and then  you have to really sit down and plan some more  ,sv,FEMALE,3
+"[""[ {c and, } + {f uh, } {c but } ] i think when we were back at your age, we didn't have much of a budget -- /""]", c and   f uh  c but   i think when we were back at your age we didnt have much of a budget  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- <smack> {c and then } as the girls got older, i think [ we, + we ] did more and more of that.  /']", smack c and then  as the girls got older i think  we  we  did more and more of that  ,sv,FEMALE,3
+"['{d you know, } more budgeting [ as + as ] they got older. /']",d you know  more budgeting  as  as  they got older ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } [ {c but } + {f uh, } {c but } ] what do you do?  /']",f uh   c but   f uh  c but   what do you do  ,qw,FEMALE,12
+"['do you, -/']",do you ,%,FEMALE,5
+"[""[ [ [ i'm + {f uh, } i, ] + i work for, ] + i'm ] an electronic technician.  /""]",   im  f uh  i   i work for   im  an electronic technician  ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"['i work [ at a, + for a ] university. {f uh, } georgia tech, {f uh, } research -- /']",i work  at a  for a  university f uh  georgia tech f uh  research  ,sd,MALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+['{d well } good. /'],d well  good ,ba,FEMALE,6
+"['-- {c and, } {f uh, } -/']", c and  f uh  ,%,MALE,5
+['good. /'],good ,ba,FEMALE,6
+"['# {c so } i just, {f uh, } # -/']", c so  i just f uh   ,%,MALE,5
+"[""# {d well, } [ we just have, + # {d you know, } we have ] a good friend that's about to move to atlanta.  /""]", d well   we just have   d you know  we have  a good friend thats about to move to atlanta  ,sd,FEMALE,1
+"[""i guess we're not suppose to talk about those things.  /""]",i guess were not suppose to talk about those things  ,sv,FEMALE,3
+"[""i'd better get back to the subject. /""]",id better get back to the subject ,sv,FEMALE,3
+"['{f oh, } {d well } <laughter>. /']",f oh  d well  laughter ,b,MALE,2
+"['{c but, } {f uh, } budgeting.  /']",c but  f uh  budgeting  ,sd,FEMALE,1
+"['i found, {d you know, } i feel a lot better.  /']",i found d you know  i feel a lot better  ,sd,FEMALE,1
+"['{d you know, } we use to work out of one check book -- /']",d you know  we use to work out of one check book  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } it would be very hard for me because [ i wouldn't have, + i wouldn't have ] any idea how much money i was spending # in one month. # /""]", c and  it would be very hard for me because  i wouldnt have  i wouldnt have  any idea how much money i was spending  in one month  ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""now, i [ have, + know ] exactly what i'm spending  /""]",now i  have  know  exactly what im spending  ,sd,FEMALE,1
+"[""{c and } it's so much easier, /""]",c and  its so much easier ,sv,FEMALE,3

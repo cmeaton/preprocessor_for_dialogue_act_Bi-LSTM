@@ -1,0 +1,219 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['where do you get most of your news? /'],where do you get most of your news ,qw,FEMALE,12
+"['i watch the macneil lehrer news hour,  /']",i watch the macneil lehrer news hour  ,sd,MALE,1
+['{c and } i subscribe to the paper on the weekends. /'],c and  i subscribe to the paper on the weekends ,sd,MALE,1
+"['[ where, + where ] are you? /']", where  where  are you ,qw,FEMALE,12
+"[""i'm in dallas. /""]",im in dallas ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,bk,FEMALE,14
+['are you in dallas also? /'],are you in dallas also ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i'm in san antonio. /""]",im in san antonio ,sd,FEMALE,1
+"['{f oh, } really,  /']",f oh  really  ,b,MALE,2
+['okay. /'],okay ,bk,MALE,14
+['i get my news from a combination of sources.  /'],i get my news from a combination of sources  ,sd,FEMALE,1
+['i take the paper every day -- /'],i take the paper every day  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } i read it on the way in to work [ on the, + in a ] carpool. /']", c and  i read it on the way in to work  on the  in a  carpool ,sd,FEMALE,1
+"['{f oh, } really. /']",f oh  really ,bh,MALE,18
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+"['[ {c and, } + {f uh, } {c and } ] [ i watch the, + {f uh, } actually i watch the ] morning news before i leave for work.  /']", c and   f uh  c and    i watch the  f uh  actually i watch the  morning news before i leave for work  ,sd,FEMALE,1
+"[""{c and then, } {d you know, } usually over lunch, there'll be a big topic of conversation on something --""]",c and then  d you know  usually over lunch therell be a big topic of conversation on something ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- from the news. /'], from the news ,+,FEMALE,0
+"[""i normally find that {f uh, } [ i-, + i'm ] probably the most, {f um, } news hungry of my friends,  /""]",i normally find that f uh   i  im  probably the most f um  news hungry of my friends  ,sd,MALE,1
+"[""{c so } [ i don't, + we don't ] normally talk about the news at lunch.  /""]",c so   i dont  we dont  normally talk about the news at lunch  ,sd,MALE,1
+"['[ i, + i ] find that i have to only subscribe to the paper on the weekend, simply because i used to get it during the week -- /']", i  i  find that i have to only subscribe to the paper on the weekend simply because i used to get it during the week  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but, } {f um, } i would always end up arriving at work late, because i would always end up skimming the headlines, spending too much time,']", c but  f um  i would always end up arriving at work late because i would always end up skimming the headlines spending too much time,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['reading it in the morning. /'],reading it in the morning ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c so } i have to cut myself down to the weekend, plus after work.  /']",c so  i have to cut myself down to the weekend plus after work  ,sd,MALE,1
+"['{f um, } the macneil lehrer news hour is on public television -- /']",f um  the macneil lehrer news hour is on public television  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } i enjoy that quite a bit. /'], c and  i enjoy that quite a bit ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{f um, } one of the women that i work with, her husband is iranian. /']",f um  one of the women that i work with her husband is iranian ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so } here lately with all the middle eastern news we've had some very interesting conversations over lunch. /""]",c so  here lately with all the middle eastern news weve had some very interesting conversations over lunch ,sd,FEMALE,1
+"[""i will admit i work with, {f uh, } someone who's iranian,  /""]",i will admit i work with f uh  someone whos iranian  ,sd,MALE,1
+['{c and } he definitely has a very different slant on the news. /'],c and  he definitely has a very different slant on the news ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""he's very, very skeptical of the news media,  /""]",hes very very skeptical of the news media  ,sd,MALE,1
+"[""{c and } i will admit i'm reasonably skeptical also.  /""]",c and  i will admit im reasonably skeptical also  ,sd,MALE,1
+"[""{c but } [ he's, + {a i don't know, } {f uh, } he's ] [ [ mu-, + much, ] + much ] more so.  /""]",c but   hes  a i dont know  f uh  hes    mu  much   much  more so  ,sd,MALE,1
+"[""it's sort of interesting though, because he does bring [ a, + a ] much, {f um, } different perspective with all the gulf goings on, {f um. }  /""]",its sort of interesting though because he does bring  a  a  much f um  different perspective with all the gulf goings on f um   ,sd,MALE,1
+"['he was always speaking in terms of, {d you know, } american imperialism reasserting itself.  /']",he was always speaking in terms of d you know  american imperialism reasserting itself  ,sd,MALE,1
+"[""{f um, } i suppose it's a different attitude that we normally don't hear in the country. /""]",f um  i suppose its a different attitude that we normally dont hear in the country ,sv,MALE,3
+['uh-huh <<pause>>.  /'],uhhuh pause  ,b,FEMALE,2
+"['{d well } [ [ i, + i, ] + {f uh, } i ] like the print news --']",d well    i  i   f uh  i  like the print news ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- much better than the television news because television news tends to sensationalize. /'], much better than the television news because television news tends to sensationalize ,+,FEMALE,0
+"['true, {f um, }  /']",true f um   ,aa,MALE,4
+"['the, -/']",the ,%,MALE,5
+"[""i understand that the macneil lehrer probably doesn't. /""]",i understand that the macneil lehrer probably doesnt ,sv,FEMALE,3
+"['they, {f um, } <barking> tend to spend quite a bit of time on one story. /']",they f um  barking tend to spend quite a bit of time on one story ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['they will have maybe two or three main stories and just spend a very large amount of time.  /'],they will have maybe two or three main stories and just spend a very large amount of time  ,sd,MALE,1
+"[""sort of like the, {f uh, } {a what is that, } a b c's nightline. /""]",sort of like the f uh  a what is that  a b cs nightline ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d well, } i guess they only normally stick with just the one, {f um, } story.  /']",d well  i guess they only normally stick with just the one f um  story  ,sd,MALE,1
+"[""{c but } [ they, + they ] can do a much better job since they don't have to chop it into little two minute stories. /""]",c but   they  they  can do a much better job since they dont have to chop it into little two minute stories ,sv,MALE,3
+"[""they don't report on every murder and shooting that happened [ in, + in ] every little town. /""]",they dont report on every murder and shooting that happened  in  in  every little town ,bf,FEMALE,20
+"['no,  /']",no  ,aa,MALE,4
+['no.  /'],no  ,aa,MALE,4
+"[""it's very much national interest news. /""]",its very much national interest news ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['a lot of times they end up, {f um, } with these panels of experts  /']",a lot of times they end up f um  with these panels of experts  ,sd,MALE,1
+"[""{c and } they go back and forth, where everyone's giving some opinions  /""]",c and  they go back and forth where everyones giving some opinions  ,sd,MALE,1
+"['{c and } sometimes that, - /']",c and  sometimes that  ,%,MALE,5
+"[""i don't know the value of that, because i saw plenty of jokes [ and, + and, ] {f um, } {f oh, } editorial cartoons about all the retired generals,""]",i dont know the value of that because i saw plenty of jokes  and  and  f um  f oh  editorial cartoons about all the retired generals,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['making a living <laughter> during [ the, + the ] gulf war. /']",making a living laughter during  the  the  gulf war ,+,MALE,0
+"[""i've been getting a kick out of those lately. /""]",ive been getting a kick out of those lately ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['although, {f um } <<pause>>. - /']",although f um  pause  ,%,FEMALE,5
+"[""[ i-, + i'm ] only twenty-five,  /""]", i  im  only twentyfive  ,sd,FEMALE,1
+"[""{c so } i've never actually been through a period of war -- /""]",c so  ive never actually been through a period of war  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } i don't know anyone in the military  /""]", c and  i dont know anyone in the military  ,sd,FEMALE,1
+"[""{c and } i don't have a lot of background knowledge in, {f uh, } military strategy [ and, + and ] weaponry, [ and, + and ] all that kind of stuff.  /""]",c and  i dont have a lot of background knowledge in f uh  military strategy  and  and  weaponry  and  and  all that kind of stuff  ,sd,FEMALE,1
+['{c and } i thought the generals were very interesting.  /'],c and  i thought the generals were very interesting  ,sv,FEMALE,3
+"['{d now } when they started to speculate, [ i, + i ] saw that for what is was,']",d now  when they started to speculate  i  i  saw that for what is was,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""and thought all of these guys don't know what's going on.  /""]",and thought all of these guys dont know whats going on  ,+,FEMALE,0
+"['{c but } i thought [ [ the-, + the-, ] + they ] were interesting,  /']",c but  i thought   the  the   they  were interesting  ,sv,FEMALE,3
+"['[ {c and, } + {c and } ] they shed some light on what was going on for me. /']", c and   c and   they shed some light on what was going on for me ,sd,FEMALE,1
+"[""i will admit it's interesting.  /""]",i will admit its interesting  ,aa,MALE,4
+"[""[ [ i-, + i-, ] + i'm ] twenty-six.  /""]",  i  i   im  twentysix  ,sd,MALE,1
+"[""{c so } i don't have any more experience in that than you.  /""]",c so  i dont have any more experience in that than you  ,sd,MALE,1
+"['{f um, } [ [ it, + it, ] + it ] was very interesting that it seemed like some of the commentators had their axe to grind, {d you know, }  /']",f um    it  it   it  was very interesting that it seemed like some of the commentators had their axe to grind d you know   ,sv,MALE,3
+"['there were some that were screaming for air power,  /']",there were some that were screaming for air power  ,sd,MALE,1
+"[""there were some that were saying the air power wasn't going to do it. /""]",there were some that were saying the air power wasnt going to do it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } they seemed to mold the events to their view of the world, which i suppose just about everyone does,  /']",c and  they seemed to mold the events to their view of the world which i suppose just about everyone does  ,sv,MALE,3
+"['{c but } these guys had [ a, + a, ] {f uh, } national soap box to stand on [ and, + and ] express this view. /']",c but  these guys had  a  a  f uh  national soap box to stand on  and  and  express this view ,sd,MALE,1
+"['{d you know, } one of the best television news shows that i saw during the war was a show on a saturday morning on a b c,  /']",d you know  one of the best television news shows that i saw during the war was a show on a saturday morning on a b c  ,sd,FEMALE,1
+['{c and } it was for children -- /'],c and  it was for children  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } it was hosted by peter jennings,  /']", c and  it was hosted by peter jennings  ,sd,FEMALE,1
+"['{c and } it was so interesting because they were relating the war to these children in their studio,  /']",c and  it was so interesting because they were relating the war to these children in their studio  ,sv,FEMALE,3
+['{c and } they also had children calling in live from all over the country and asking questions.  /'],c and  they also had children calling in live from all over the country and asking questions  ,sd,FEMALE,1
+"['{c and } [ they, + they ] had all their correspondents in the different areas, in saudi arabia, and israel, [ and, + and ] all.  /']",c and   they  they  had all their correspondents in the different areas in saudi arabia and israel  and  and  all  ,sd,FEMALE,1
+"['they had them all, {f uh, } on,  /']",they had them all f uh  on  ,sd,FEMALE,1
+"[""i don't know what you'd call it other than on line.  /""]",i dont know what youd call it other than on line  ,sd,FEMALE,1
+['they had them all on hold -- /'],they had them all on hold  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } if a child asked a question that the person in jerusalem could best answer, they would cut to that person,  /']", c and  if a child asked a question that the person in jerusalem could best answer they would cut to that person  ,sd,FEMALE,1
+['{c and } that person would answer the question.  /'],c and  that person would answer the question  ,sd,FEMALE,1
+"['it was just very informative and interesting,  /']",it was just very informative and interesting  ,sv,FEMALE,3
+"['{c and, } {f uh, } i was real impressed at how a b c handled, {f uh, } translating,']",c and  f uh  i was real impressed at how a b c handled f uh  translating,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['the war for children. /'],the war for children ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i didn't see anything like that, although i did, {f uh, } - /""]",i didnt see anything like that although i did f uh   ,sd,MALE,1
+"['i guess one thing that i found sort of interesting, - /']",i guess one thing that i found sort of interesting  ,sd,MALE,1
+"['this is getting a little off the topic,  /']",this is getting a little off the topic  ,h,MALE,15
+"['{c but } there was [ [ a, + a, ] + a ] big push with the local t v stations to have little hot lines with counselors --']",c but  there was   a  a   a  big push with the local t v stations to have little hot lines with counselors ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- [ to, + to ] help parents learn how to talk about their war with their children.  /']",  to  to  help parents learn how to talk about their war with their children  ,+,MALE,0
+['i thought that was a really unusual thing. /'],i thought that was a really unusual thing ,sv,MALE,3
+"['{c and } our local h e b stores here, - /']",c and  our local h e b stores here  ,sd,FEMALE,1
+"[""i don't know if it's h e b statewide or whatever,  /""]",i dont know if its h e b statewide or whatever  ,sd,FEMALE,1
+"['{c but } they have videos that, {f uh, } - /']",c but  they have videos that f uh   ,sd,FEMALE,1
+"[""i don't know if they still have them,  /""]",i dont know if they still have them  ,sd,FEMALE,1
+"['{c but } they were free rental,']",c but  they were free rental,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['videos, that had something to do with the war. /']",videos that had something to do with the war ,+,FEMALE,0
+"['<<pause>> ju-, -- -/']",pause ju  ,%,MALE,5
+"['{f uh, } it was, -/']",f uh  it was ,%,FEMALE,5
+"[""-- [ it-, + ] with the children's aspect? /""]",  it   with the childrens aspect ,qy^d,MALE,16
+['right.  /'],right  ,na,FEMALE,21
+"['it was something for children, that [ they, + they ] had several advertisements on television pushing parents going and, {f uh, } getting the video and watching it with their children and discussing it --']",it was something for children that  they  they  had several advertisements on television pushing parents going and f uh  getting the video and watching it with their children and discussing it ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- and that kind of thing. /'], and that kind of thing ,+,FEMALE,0
+['i suppose that is a valuable service.  /'],i suppose that is a valuable service  ,sv,MALE,3
+"[""again not having, {f uh, } lived through another war, i don't know if that's a common thing that people thought of,  /""]",again not having f uh  lived through another war i dont know if thats a common thing that people thought of  ,sd,MALE,1
+['{c or } if that was --'],c or  if that was ,sd,MALE,1
+['{d well } --'],d well  ,sd,FEMALE,1
+['-- a new concern with people. /'], a new concern with people ,+,MALE,0
+"['-- back during the viet nam conflict that no one [ will, + will ] have the guts enough to call a real war -- /']", back during the viet nam conflict that no one  will  will  have the guts enough to call a real war  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {f uh, } [ the, + that ] type of technology just wasn't at people's disposal. /""]", f uh   the  that  type of technology just wasnt at peoples disposal ,sd,FEMALE,1
+"[""that's true.  /""]",thats true  ,aa,MALE,4
+"[""that's true. /""]",thats true ,aa,MALE,4
+"[""{c so } i don't think there's ever been a war that's been so thoroughly covered by the news. /""]",c so  i dont think theres ever been a war thats been so thoroughly covered by the news ,sv,FEMALE,3
+"[""{c and } <<blank spot in the tape>> probably more importantly, one that lasted short enough [ that, + that ] people's interest didn't flag too badly. /""]",c and  blank spot in the tape probably more importantly one that lasted short enough  that  that  peoples interest didnt flag too badly ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['i tell you what,  /']",i tell you what  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['the first three days, i was glued to the television. /']",the first three days i was glued to the television ,sd,FEMALE,1
+['i will admit the same thing.  /'],i will admit the same thing  ,sd,MALE,1
+"['{c and } i,']",c and  i,sd,MALE,1
+"['{c and } i, -/']",c and  i ,%,FEMALE,5
+['would come home and flip on macneil lehrer  /'],would come home and flip on macneil lehrer  ,+,MALE,0
+"['{c and } they would run these extended two, three hour versions of the program -- /']",c and  they would run these extended two three hour versions of the program  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- {c and } [ [ i, + i ] was just, + i was ] horrified and fascinated <laughter> by what i was seeing. /']", c and    i  i  was just  i was  horrified and fascinated laughter by what i was seeing ,sd,MALE,1
+['i tell you what.  /'],i tell you what  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['[ the + {f uh, } the ] war start-, <<blank spot in tape>> - /']", the  f uh  the  war start blank spot in tape  ,sd,FEMALE,1
+"[""let's see, was it a wednesday or thursday?  /""]",lets see was it a wednesday or thursday  ,^h,FEMALE,27
+"['must have been thursday, {f uh, }  /']",must have been thursday f uh   ,sd,FEMALE,1
+"[""{c and } friday night [ i was, + i stayed ] up until two o'clock in the morning, sitting, right dead center in front of my television just watching practically with my mouth hanging open. /""]",c and  friday night  i was  i stayed  up until two oclock in the morning sitting right dead center in front of my television just watching practically with my mouth hanging open ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c because } i was watching c n n,  /']",c because  i was watching c n n  ,sd,FEMALE,1
+"['{c and } [ they would, + they would ] switch back to one of their israel bureaus,  /']",c and   they would  they would  switch back to one of their israel bureaus  ,sd,FEMALE,1
+"['{c and } the people would be standing there in gas masks,  /']",c and  the people would be standing there in gas masks  ,sd,FEMALE,1
+"[""{c and } you'd be hearing the sirens,  /""]",c and  youd be hearing the sirens  ,sd,FEMALE,1
+"['{c and } it was just, - /']",c and  it was just  ,%,FEMALE,5
+['i was amazed. /'],i was amazed ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""[ i, + i ] didn't have that experience.  /""]", i  i  didnt have that experience  ,sd,MALE,1
+"[""[ i, + i ] don't have cable -- /""]", i  i  dont have cable  ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""-- {c so } [ i, + i'm ] pretty much limited to p b s, which [ i thought, + i thought ] they did a very good job. /""]", c so   i  im  pretty much limited to p b s which  i thought  i thought  they did a very good job ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f um, } i've got one question for you.  /""]",f um  ive got one question for you  ,sd,MALE,1
+['[ i + <<pause>> you ] say you take the newspaper. /'], i  pause you  say you take the newspaper ,qy^d,MALE,16
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['{f um, } [ i, + i ] found the newspaper situation in dallas very interesting.  /']",f um   i  i  found the newspaper situation in dallas very interesting  ,sv,MALE,3
+"[""we've got the one [ fairly, + {d well, } relatively ] weaker paper, the times herald, and then the morning news, which has a very strong subscription. /""]",weve got the one  fairly  d well  relatively  weaker paper the times herald and then the morning news which has a very strong subscription ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['does san antonio ha-, - /']",does san antonio ha  ,qy,MALE,7
+"['you said san antonio, right? /']",you said san antonio right ,qy,MALE,7
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"['do you have just one paper,  /']",do you have just one paper  ,qy,MALE,7
+['{c or } do you have several? /'],c or  do you have several ,qrr,MALE,33
+['no.  /'],no  ,nn,FEMALE,13
+"['there are two,  /']",there are two  ,sd,FEMALE,1
+"[""{c and } they're pretty close.  /""]",c and  theyre pretty close  ,sv,FEMALE,3
+"['{f uh, } the one that i picked is more similar in format to the newspaper,  /']",f uh  the one that i picked is more similar in format to the newspaper  ,sd,FEMALE,1
+['i grew up near houston -- /'],i grew up near houston  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } there are two major newspapers there that run pretty much neck and neck,  /']", c and  there are two major newspapers there that run pretty much neck and neck  ,sd,FEMALE,1
+"['{c and } the one i picked here had the same format as the one that my parents took as i was growing up. {e i mean, } the same type of typeface on the headline and that kind of stuff. /']",c and  the one i picked here had the same format as the one that my parents took as i was growing up e i mean  the same type of typeface on the headline and that kind of stuff ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""it's piddly stuff to pick a newspaper over, /""]",its piddly stuff to pick a newspaper over ,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+"['{c and } i enjoy, - /']",c and  i enjoy  ,sd,FEMALE,1
+['the comics are better in this newspaper. /'],the comics are better in this newspaper ,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+['this newspaper has the far side and the comics that i enjoy  /'],this newspaper has the far side and the comics that i enjoy  ,sd,FEMALE,1
+"[""{c and } the other one has some weird ones that i've never heard of.  /""]",c and  the other one has some weird ones that ive never heard of  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['[ i, + i ] actually take both newspapers on the weekends. /']", i  i  actually take both newspapers on the weekends ,sd,MALE,1
+['do you? /'],do you ,bh,FEMALE,18
+"[""i figure i'm only taking on the weekend,  /""]",i figure im only taking on the weekend  ,sd,MALE,1
+['{c and } i can afford that. /'],c and  i can afford that ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ i, + i ] find the news reporting in the morning news to be better,  /']", i  i  find the news reporting in the morning news to be better  ,sd,MALE,1
+"['{c but } i sort of have a liberal political slant,  /']",c but  i sort of have a liberal political slant  ,sd,MALE,1
+"['{c and } the morning news just has an incredibly conservative editorial, {f um, } outlook. /']",c and  the morning news just has an incredibly conservative editorial f um  outlook ,sv,MALE,3
+"['{c and } [ my, +']",c and   my ,sd,FEMALE,1
+['i get the times herald just to balance that out a little bit. /'],i get the times herald just to balance that out a little bit ,sd,MALE,1
+['my ] fiancee takes probably six sunday papers.  /'],my  fiancee takes probably six sunday papers  ,+,FEMALE,0
+"['he takes both san antonio papers, an austin paper, both houston papers,  /']",he takes both san antonio papers an austin paper both houston papers  ,sd,FEMALE,1
+"['i guess he takes seven, the san marcos paper and the new braunsfel paper,  /']",i guess he takes seven the san marcos paper and the new braunsfel paper  ,sd,FEMALE,1
+"[""{c but } he's a football coach at southwest texas state university,  /""]",c but  hes a football coach at southwest texas state university  ,sd,FEMALE,1
+"[""{c so } he's getting all the sports sections. /""]",c so  hes getting all the sports sections ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, } {d so, } {d you know, } he has these stacks of sunday newspapers that go unread  ... /']",c and  d so  d you know  he has these stacks of sunday newspapers that go unread   ,sd,FEMALE,1

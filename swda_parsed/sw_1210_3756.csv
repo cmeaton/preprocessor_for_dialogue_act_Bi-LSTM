@@ -1,0 +1,176 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['have you painted something lately? /'],have you painted something lately ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+['i have.  /'],i have  ,sd,MALE,1
+['that room i showed you. /'],that room i showed you ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['{c and then } since then we have painted the bedroom. /'],c and then  since then we have painted the bedroom ,sd,MALE,1
+"['{f oh } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+['another bedroom. /'],another bedroom ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""i showed you that one too didn't i?   /""]",i showed you that one too didnt i   ,qy,MALE,7
+['the brown one.  /'],the brown one  ,sd,MALE,1
+['yeah.  /'],yeah  ,ny,FEMALE,9
+['# yeah.  /'], yeah  ,ny,FEMALE,9
+['yeah. # /'],yeah  ,ny,FEMALE,9
+"['# yeah,  /']", yeah  ,bk,MALE,14
+['# the one that looks like a fudgesicle. /'], the one that looks like a fudgesicle ,sd,MALE,1
+['{f oh } yeah  /'],f oh  yeah  ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['yeah. /'],yeah ,b,MALE,2
+['{f oh } heavens.  /'],f oh  heavens  ,ba,FEMALE,6
+"['{d well, } i painted the outside of my house --']",d well  i painted the outside of my house ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- and one bathroom.  /'], and one bathroom  ,+,FEMALE,0
+"['{c but } [ i get, + i have ] that problem with [ the + the ] ceiling, {d you know, } [ the, + {f uh, } the ] [ blown, + blown, ] ceiling.']",c but   i get  i have  that problem with  the  the  ceiling d you know   the  f uh  the   blown  blown  ceiling,sd,FEMALE,1
+['{f oh } yeah. /'],f oh  yeah ,b,MALE,2
+['{d you know } where you get around the edge. /'],d you know  where you get around the edge ,+,FEMALE,0
+"['{d well, } that is hard.  /']",d well  that is hard  ,aa,MALE,4
+"['{d now, } i asked janice, or somebody recently how you do that --']",d now  i asked janice or somebody recently how you do that ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } when you paint the ceilings --']", f uh  when you paint the ceilings ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {d you know } where you have got that textured stuff, that they have special rollers that are real soft and furry # that you paint that with. # /']", d you know  where you have got that textured stuff that they have special rollers that are real soft and furry  that you paint that with  ,+,MALE,0
+"['# {d well, } # how do you get the edge though? /']", d well   how do you get the edge though ,qw,FEMALE,12
+['how do you get the edge? /'],how do you get the edge ,br,MALE,30
+['# [ the + the ] straight edge? # /'],  the  the  straight edge  ,aa,FEMALE,4
+['# you # just have to be real careful. /'], you  just have to be real careful ,sd,MALE,1
+"['{f oh, } i see. /']",f oh  i see ,b,FEMALE,2
+"['we use, {f uh, } {f uh, } a two inch brush [ with, + {f uh, } on ] a slant -- /']",we use f uh  f uh  a two inch brush  with  f uh  on  a slant  ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } that mostly does it even though you still make mistakes.  /'], c and  that mostly does it even though you still make mistakes  ,sd,MALE,1
+['{c but. } -/'],c but  ,%,MALE,5
+['{f huh. } {d well } are you going to paint the outside of your house too? /'],f huh  d well  are you going to paint the outside of your house too ,qy,FEMALE,7
+"['{d well, } yeah.  /']",d well  yeah  ,ny,MALE,9
+['i think i am going to do it this spring actually. /'],i think i am going to do it this spring actually ,sd,MALE,1
+['{f oh } really? /'],f oh  really ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,ny,MALE,9
+['there are six houses.  /'],there are six houses  ,sd,MALE,1
+"['{d see } the people that own the house they, {f uh, } pay for anything like that, that we do.']",d see  the people that own the house they f uh  pay for anything like that that we do,sd,MALE,1
+['# {f oh } nice. # /'], f oh  nice  ,ba,FEMALE,6
+['# as far as # [ the + the ] materials.  /'], as far as   the  the  materials  ,+,MALE,0
+['there are three houses on this street the same color of yellow out of six houses. /'],there are three houses on this street the same color of yellow out of six houses ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c so, } i am thinking i am going to change it to, {f uh, } something, {d you know, }  /']",c so  i am thinking i am going to change it to f uh  something d you know   ,sd,MALE,1
+['the brick is multi color.'],the brick is multi color,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['mostly earth tones.  /'],mostly earth tones  ,+,MALE,0
+"['{f oh, } that will be nice. /']",f oh  that will be nice ,ba,FEMALE,6
+['{f huh. } /'],f huh  ,%,FEMALE,5
+"['# [ or, two # tone, +  or two tone. ]']",  or two  tone   or two tone ,^2,FEMALE,23
+['yeah. /'],yeah ,b,MALE,2
+['{d you know. } /'],d you know  ,+,FEMALE,0
+['there are some columns that could be painted a different color # too. # /'],there are some columns that could be painted a different color  too  ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['what color did you paint your house? /'],what color did you paint your house ,qw,MALE,12
+['white. /'],white ,sd,FEMALE,1
+"['# on the out, # -/']", on the out  ,bf,MALE,20
+"['# {c but, } i # have a problem.  /']", c but  i  have a problem  ,sd,FEMALE,1
+"[""i can't get up high  /""]",i cant get up high  ,sd,FEMALE,1
+"[""{c and } we can't paint the chimney <laughter>. /""]",c and  we cant paint the chimney laughter ,sd,FEMALE,1
+"['{d well, } you have got to get one of those ladders. /']",d well  you have got to get one of those ladders ,ad,MALE,22
+['we have one of those ladders.  /'],we have one of those ladders  ,sd,FEMALE,1
+['we are just not willing to get up that high. /'],we are just not willing to get up that high ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['a friend of mine that lives out in your neighborhood, he has done his house  /']",a friend of mine that lives out in your neighborhood he has done his house  ,sd,MALE,1
+"['{c and } that is what he, - /']",c and  that is what he  ,%,MALE,5
+['i was out there last week  /'],i was out there last week  ,sd,MALE,1
+['{c and } he has finished everything except the chimney. /'],c and  he has finished everything except the chimney ,sd,MALE,1
+"['{d well, } we did too.  /']",d well  we did too  ,sd,FEMALE,1
+['we did it in the fall  /'],we did it in the fall  ,sd,FEMALE,1
+"[""{c and } [ it, + it's ] just too high.  /""]",c and   it  its  just too high  ,sd,FEMALE,1
+"['it is really scary,  /']",it is really scary  ,sd,FEMALE,1
+['[ {c but } -- +'], c but   ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- {c and } ] the only thing i would consider [ doing, + a professional, maybe doing ] that,  /']", c and   the only thing i would consider  doing  a professional maybe doing  that  ,+,FEMALE,0
+['{c but } it - /'],c but  it  ,%,FEMALE,5
+['other than doing our own work  i prefer it to a professional. /'],other than doing our own work  i prefer it to a professional ,sd,FEMALE,1
+"['{d well, } our house in new mexico, it was stucco,  /']",d well  our house in new mexico it was stucco  ,sd,MALE,1
+"['{c but } we had all this trim to paint, and lots of it. /']",c but  we had all this trim to paint and lots of it ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['{c and } we did basically seventy-five percent of the house  /'],c and  we did basically seventyfive percent of the house  ,sd,MALE,1
+['{c and } then i was afraid to do the eaves way up high and stuff. /'],c and  then i was afraid to do the eaves way up high and stuff ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so, } i hired this man to come in and do it.  a young kid. /']",c so  i hired this man to come in and do it  a young kid ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } he came [ with, + with ] his own raf-, - /']",c and  he came  with  with  his own raf  ,sd,MALE,1
+['what do you call those things? /'],what do you call those things ,qw,MALE,12
+['the blowers? /'],the blowers ,qy^d,FEMALE,16
+"['no,  /']",no  ,nn,MALE,13
+['those where you built {d like } a rafter thing. /'],those where you built d like  a rafter thing ,sd,MALE,1
+"['{f oh, } {f oh, } {f oh, } {f oh, } i know what you are talking about.  {f uh } -- /']",f oh  f oh  f oh  f oh  i know what you are talking about  f uh   ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+['scaffold. /'],scaffold ,sd,MALE,1
+['-- scaffold.  /'], scaffold  ,sd,FEMALE,1
+"[""that's it <laughter>. /""]",thats it laughter ,sd,FEMALE,1
+['he came and did it that way  /'],he came and did it that way  ,sd,MALE,1
+['{c and } i think he charged me a hundred dollars to finish up. /'],c and  i think he charged me a hundred dollars to finish up ,sd,MALE,1
+['# {f huh. } # /'], f huh   ,%,FEMALE,5
+"[""# {c and } # literally i wouldn't have done it with the scaffolds because --""]", c and   literally i wouldnt have done it with the scaffolds because ,sd,MALE,1
+"['its, -/']",its ,%,FEMALE,5
+['-- all the places that i had left for him were above huge humongous cactus -- /'], all the places that i had left for him were above huge humongous cactus  ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- {c and } if he fell, he was dead  /']", c and  if he fell he was dead  ,sd,MALE,1
+['{c and } he knew that <laughter>.  /'],c and  he knew that laughter  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+"['{f oh, } my.  /']",f oh  my  ,ba,FEMALE,6
+['{c so } that was worth it getting a professional --'],c so  that was worth it getting a professional ,sv,FEMALE,3
+['yeah. /'],yeah ,aa,MALE,4
+['-- for that. /'], for that ,+,FEMALE,0
+"['{c plus, } he cleaned up my mess. /']",c plus  he cleaned up my mess ,sd,MALE,1
+"['<laughter> {f oh, } i think that is what we might have to do with this chimney,  /']",laughter f oh  i think that is what we might have to do with this chimney  ,sd,FEMALE,1
+"['{c but } other than that, it was pretty easy doing it ourself and caulking it and everything ourself. /']",c but  other than that it was pretty easy doing it ourself and caulking it and everything ourself ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""it wasn't too bad.  /""]",it wasnt too bad  ,sv,FEMALE,3
+"['{e i mean } # you think, # -/']",e i mean   you think  ,%,FEMALE,5
+['# how much # did it cost you for the paint for the outside? /'], how much  did it cost you for the paint for the outside ,qw,MALE,12
+"['shoot, maybe a hundred and fifty. /']",shoot maybe a hundred and fifty ,sd,FEMALE,1
+['yeah. /'],yeah ,bk,MALE,14
+"['since, it is a one story,  /']",since it is a one story  ,sd,FEMALE,1
+"['{c but } we did, {f uh, } {d like } two heavy coats over it.  /']",c but  we did f uh  d like  two heavy coats over it  ,sd,FEMALE,1
+['# {c but } then that way # --'], c but  then that way  ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"['-- {d you know } you are assured you did a good job than you are, {d you know, } if you hire someone to do it. /']", d you know  you are assured you did a good job than you are d you know  if you hire someone to do it ,+,FEMALE,0
+"['{c but, } that friend of mine that painted his house out there in your neighborhood --']",c but  that friend of mine that painted his house out there in your neighborhood ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- he went [ to, + {f uh, }  ((   ))  i guess to ] buy his paint -- /']", he went  to  f uh        i guess to  buy his paint  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } yet he bought {d like } seventeen gallons. /'], c and  yet he bought d like  seventeen gallons ,sd,MALE,1
+['my word. /'],my word ,ba,FEMALE,6
+"['{c and, } anyway, [ he, + when he ] checked out --']",c and  anyway  he  when he  checked out ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {a and he was using his  ((   ))  charge card too. }'], a and he was using his       charge card too ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['they only charged him for one gallon of paint. {d like } thirteen bucks or something. /'],they only charged him for one gallon of paint d like  thirteen bucks or something ,+,MALE,0
+"['{f oh, } my word. /']",f oh  my word ,ba,FEMALE,6
+"['{c and } [ [ he had, +  he had, the, ] + {f uh, } he had ] already carried a ladder outside --']",c and    he had   he had the   f uh  he had  already carried a ladder outside ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and told her that  /'], and told her that  ,+,MALE,0
+['{c and } she wrung all that stuff up and made a mistake on the price of the paint -- /'],c and  she wrung all that stuff up and made a mistake on the price of the paint  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c so } she had to start all over again -- /'], c so  she had to start all over again  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } when he got outside, he noticed his receipt was {d like } thirteen ninety-nine or something. /']", c and  when he got outside he noticed his receipt was d like  thirteen ninetynine or something ,sd,MALE,1
+"['{f oh, } my word. /']",f oh  my word ,ba,FEMALE,6
+['{c and } he saw  ((   )) . -/'],c and  he saw       ,sd,MALE,1
+['{c so } that was really worth it.  # painting his own house. # /'],c so  that was really worth it   painting his own house  ,bf,FEMALE,20
+"['# yeah,  /']", yeah  ,aa,MALE,4
+['# it was {d like } over two hundred dollars worth of free stuff. /'], it was d like  over two hundred dollars worth of free stuff ,sd,MALE,1
+"['{f oh, } my word <laughter>. /']",f oh  my word laughter ,ba,FEMALE,6
+['<laughter>.'],laughter,x,MALE,8
+"['{f oh, } my word.  /']",f oh  my word  ,ba,FEMALE,6
+"['{d well, } he really saved in that way. /']",d well  he really saved in that way ,sd,FEMALE,1
+['<laughter>  yeah. /'],laughter  yeah ,b,MALE,2
+"['<laughter> {c but, } yeah,  /']",laughter c but  yeah  ,b^m,FEMALE,24
+"['i think we are going to do, {f uh, } another bathroom,  /']",i think we are going to do f uh  another bathroom  ,sd,FEMALE,1
+"['{c but } i think i will probably just do it, in a roller.  /']",c but  i think i will probably just do it in a roller  ,sd,FEMALE,1
+"['i want to do it about the same color.  and just be a little, -/']",i want to do it about the same color  and just be a little ,sd,FEMALE,1
+['{f uh. }  rollers are so messy.  /'],f uh   rollers are so messy  ,sv,MALE,3
+['we never  ((   ))  any more. /'],we never       any more ,sd,MALE,1
+"['{f oh, } i know.  /']",f oh  i know  ,aa,FEMALE,4
+"[""{c but } [ it's that, + it's the ] textured wall. /""]",c but   its that  its the  textured wall ,sd,FEMALE,1
+"['{d well, } a little paintbrush, -/']",d well  a little paintbrush ,%,MALE,5

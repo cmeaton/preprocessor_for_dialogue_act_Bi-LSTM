@@ -1,0 +1,138 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['hi, cynthia.  /']",hi cynthia  ,fc,FEMALE,10
+['what did you wear to work today? /'],what did you wear to work today ,qw,FEMALE,12
+"[""{f um, } let's see.  /""]",f um  lets see  ,^h,FEMALE,27
+['what did i wear to work today?  /'],what did i wear to work today  ,t1,FEMALE,37
+"['{f um, } {d actually } i wore corduroy shorts with a white blouse, {f um, } and flat shoes. /']",f um  d actually  i wore corduroy shorts with a white blouse f um  and flat shoes ,sd,FEMALE,1
+"['{c so, }  can you dress pretty casually? /']",c so   can you dress pretty casually ,qy,FEMALE,7
+"['{f um, } [ on occasion. +']",f um   on occasion ,na,FEMALE,21
+['yeah. /'],yeah ,b,FEMALE,2
+['on occasion.  ]  /'],on occasion    ,+,FEMALE,0
+"['{f um, } i do vary.  /']",f um  i do vary  ,sd,FEMALE,1
+"['{f um, } {d you know, } i wear suits,  /']",f um  d you know  i wear suits  ,sd,FEMALE,1
+['i wear skirts and sweaters.  /'],i wear skirts and sweaters  ,sd,FEMALE,1
+['on occasion i can wear jeans.  /'],on occasion i can wear jeans  ,sd,FEMALE,1
+"['{f um, } how about you? /']",f um  how about you ,qo,FEMALE,25
+"['{d well, } i, {f um, } run a business out of my home. /']",d well  i f um  run a business out of my home ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so } i tend to get up in the morning, put on,']",c so  i tend to get up in the morning put on,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['sweats, {f um, }']",sweats f um ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""do whatever i want to do with the kids, then whenever i have a meeting with a client, i'll put a suit on.""]",do whatever i want to do with the kids then whenever i have a meeting with a client ill put a suit on,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['and then come home and get back into regular clothes again <laughter>. /'],and then come home and get back into regular clothes again laughter ,+,FEMALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{f um, } {d you know, } there's [ real no, + no real ] dress code where i work.  /""]",f um  d you know  theres  real no  no real  dress code where i work  ,sd,FEMALE,1
+"['{f um, } you see people wearing, {d you know, } all different attire.  /']",f um  you see people wearing d you know  all different attire  ,sd,FEMALE,1
+"[""i, {f um, } don't like  to wear heels, that really tires me out.  /""]",i f um  dont like  to wear heels that really tires me out  ,sd,FEMALE,1
+['i work in a big building. /'],i work in a big building ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c so, }  i predominantly wear flat shoes.  /']",c so   i predominantly wear flat shoes  ,sd,FEMALE,1
+"['{f um, } {d you know, } in the winter i wear sweaters,  /']",f um  d you know  in the winter i wear sweaters  ,sd,FEMALE,1
+"['in summer [ i, + {d you know, } i ] like one piece dresses, short sleeves, things like that. /']",in summer  i  d you know  i  like one piece dresses short sleeves things like that ,sd,FEMALE,1
+"[""i've recently, {f um, } tried to update my wardrobe, trying to put suits together that i can interchange, the,""]",ive recently f um  tried to update my wardrobe trying to put suits together that i can interchange the,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['jackets and the blouses and all that a lot. /'],jackets and the blouses and all that a lot ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+"[""that's helped me a lot with having, - /""]",thats helped me a lot with having  ,sd,FEMALE,1
+"[""i can only have [ a, + a ] limited wardrobe, since i'm only,""]",i can only have  a  a  limited wardrobe since im only,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['working part-time right now. /'],working parttime right now ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } {c but } still, it gives it some variety.']",f um  c but  still it gives it some variety,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['add different blouses and scarves and belts and things like that. /'],add different blouses and scarves and belts and things like that ,+,FEMALE,0
+"['right,  /']",right  ,b,FEMALE,2
+"['right,  /']",right  ,b,FEMALE,2
+"['accessories,  /']",accessories  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['what about your casual wear?  /'],what about your casual wear  ,qo,FEMALE,25
+['do you like to wear jeans most of the time? /'],do you like to wear jeans most of the time ,qy,FEMALE,7
+"['{f um, } yeah  /']",f um  yeah  ,ny,FEMALE,9
+['mostly.  /'],mostly  ,na,FEMALE,21
+"['{e i mean, } at home i predominantly wear <<speaker laughs while saying remainder of statement>> sweatpants and things like that,']",e i mean  at home i predominantly wear speaker laughs while saying remainder of statement sweatpants and things like that,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['also. /'],also ,+,FEMALE,0
+"[""it's nice you can wear shorts, especially on a day like today when it's so  hot. /""]",its nice you can wear shorts especially on a day like today when its so  hot ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{d well, } [ they're, + {f um, } {d you know, } they're ] like ber-, -/""]",d well   theyre  f um  d you know  theyre  like ber ,sd,FEMALE,1
+['dress shorts. /'],dress shorts ,^2,FEMALE,23
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""they're like black corduroy [ ber-, + bermuda ] shorts. /""]",theyre like black corduroy  ber  bermuda  shorts ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } sometimes i wear a blazer with them,  /']",c and  sometimes i wear a blazer with them  ,sd,FEMALE,1
+['{c and } i get really a lot of compliments on them.  /'],c and  i get really a lot of compliments on them  ,sd,FEMALE,1
+"['{f um, } where i work is predominantly male. /']",f um  where i work is predominantly male ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c so, } {d you know, } they, - /']",c so  d you know  they  ,%,FEMALE,5
+"['their attire is always the same, {d you know. }  suits or  slacks,']",their attire is always the same d you know   suits or  slacks,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{d you know, } jeans, whatever. /']",d you know  jeans whatever ,+,FEMALE,0
+"['(( yeah,  /']", yeah  ,b,FEMALE,2
+"['{c but } )) , -/']",c but    ,%,FEMALE,5
+"[""[ {c and, } +  {f um, } {c but } ] i'm really the only woman, i guess, at work that does that,  /""]", c and    f um  c but   im really the only woman i guess at work that does that  ,sd,FEMALE,1
+['{c but } seems to work for me <breathing> <laughter>. /'],c but  seems to work for me breathing laughter ,sd,FEMALE,1
+"['<laughter>   (( yeah,  /']",laughter    yeah  ,b,FEMALE,2
+['{c but } )) . -/'],c but    ,%,FEMALE,5
+"['in fact, [ i just bought, + [ i, + i ] just got ] a new outfit as a gift that, {f um, } - /']",in fact  i just bought   i  i  just got  a new outfit as a gift that f um   ,sd,FEMALE,1
+"[""it's one of those skorts,  /""]",its one of those skorts  ,sd,FEMALE,1
+"['{d you know, } th-, - /']",d you know  th  ,%,FEMALE,5
+"[""it's shorts but it looks like a skirt. /""]",its shorts but it looks like a skirt ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so, }  i think that'll be good for work, too. /""]",c so   i think thatll be good for work too ,sd,FEMALE,1
+"['{f oh, } yeah.  /']",f oh  yeah  ,b,FEMALE,2
+"[""it'll be comfortable. /""]",itll be comfortable ,sv,FEMALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['i guess down here, {f uh, } - /']",i guess down here f uh   ,%,FEMALE,5
+"['we just recently moved to texas,  /']",we just recently moved to texas  ,sd,FEMALE,1
+['{c so } my wardrobe has changed quite a bit. /'],c so  my wardrobe has changed quite a bit ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f um, } we moved from colorado where, - /']",f um  we moved from colorado where  ,sd,FEMALE,1
+['{c and } i have a closet full of sweaters. /'],c and  i have a closet full of sweaters ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['that, -/']",that ,%,FEMALE,5
+"['{d well, } {d see, } i live in virginia. /']",d well  d see  i live in virginia ,sd,FEMALE,1
+"['you live in virginia, now? /']",you live in virginia now ,qy^d,FEMALE,16
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+"[""{f oh, } that's interesting. /""]",f oh  thats interesting ,ba,FEMALE,6
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{c so, }  i'm, - /""]",c so   im  ,%,FEMALE,5
+"['{d you know, } {d like } right now, today was in about, {d you know, } the fifties. /']",d you know  d like  right now today was in about d you know  the fifties ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, }  {f um, } {d you know, } [ i, +  i ] do wear a lot of sweaters and things like sweater dresses. /']",c but   f um  d you know   i   i  do wear a lot of sweaters and things like sweater dresses ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""i'd like to be able to wear those here.  /""]",id like to be able to wear those here  ,sd,FEMALE,1
+"[""today it's eighty-eight degrees. /""]",today its eightyeight degrees ,sd,FEMALE,1
+"['{f oh, } my <laughter>. /']",f oh  my laughter ,ba,FEMALE,6
+"['{d so } <laughter>, -/']",d so  laughter ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['needless to say, my sweaters have been hung in the closet for quite a while now <laughter>. /']",needless to say my sweaters have been hung in the closet for quite a while now laughter ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['today was, {f uh, } definitely a shorts day around here. /']",today was f uh  definitely a shorts day around here ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""we're still pretty much, {d you know, } in winter, as far as that goes here. /""]",were still pretty much d you know  in winter as far as that goes here ,sd,FEMALE,1
+"['this is pretty [ un-, +  unseasonal, ]  /']",this is pretty  un   unseasonal   ,sd,FEMALE,1
+"['{c but, }  {f uh, } at least, we, - /']",c but   f uh  at least we  ,%,FEMALE,5
+"['{d you know, } [ [ it, + it, ] + it ] feels good,  /']",d you know    it  it   it  feels good  ,sd,FEMALE,1
+"['it gets, {f uh, } - /']",it gets f uh   ,%,FEMALE,5
+"[""everybody doesn't have cabin fever today.  /""]",everybody doesnt have cabin fever today  ,sd,FEMALE,1
+"[""it's nice to get,""]",its nice to get,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['out and about. /'],out and about ,+,FEMALE,0
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""i guess we've discussed everything there is about clothing <laughter>. /""]",i guess weve discussed everything there is about clothing laughter ,sv,FEMALE,3
+['okay. /'],okay ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['sounds good. /'],sounds good ,sv,FEMALE,3
+['okay? /'],okay ,bh,FEMALE,18
+['it was nice talking to you. /'],it was nice talking to you ,fc,FEMALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+"['it was nice talking to you, also. /']",it was nice talking to you also ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

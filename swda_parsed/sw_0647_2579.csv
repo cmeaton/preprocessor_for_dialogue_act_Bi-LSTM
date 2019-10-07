@@ -1,0 +1,285 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } good afternoon to you, mary.  /']",d well  good afternoon to you mary  ,fp,MALE,32
+"['first,']",first,qw,MALE,12
+"['# {c and } good, # -/']", c and  good  ,%,FEMALE,5
+"[""# let me ask # you, [ what's, +  what's ]  the weather like up there to begin with? /""]", let me ask  you  whats   whats   the weather like up there to begin with ,+,MALE,0
+"['{d well, } {d well, } today, {f uh, }  when i got up it was twenty-nine degrees. /']",d well  d well  today f uh   when i got up it was twentynine degrees ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['<laughter> yes,  /']",laughter yes  ,b,FEMALE,2
+['{c and } it managed  to get up to about fifty this afternoon  /'],c and  it managed  to get up to about fifty this afternoon  ,sd,FEMALE,1
+"[""{c but } it's been cloudy, overcast and threatening rain all day. /""]",c but  its been cloudy overcast and threatening rain all day ,sd,FEMALE,1
+['that sounds more like our winter weather down here. /'],that sounds more like our winter weather down here ,sv,MALE,3
+"[""<laughter>  {c and } we've also had  extremely strong winds, fifteen to twenty miles an hour,""]",laughter  c and  weve also had  extremely strong winds fifteen to twenty miles an hour,sd,FEMALE,1
+['# {f um. }  # /'], f um    ,%,MALE,5
+['# for # the day. /'], for  the day ,+,FEMALE,0
+"[""{d well, } {d you know, } i bet that's  [ what we, +  that storm we ] had last night. /""]",d well  d you know  i bet thats   what we   that storm we  had last night ,sv,MALE,3
+['is that right? /'],is that right ,bh,FEMALE,18
+"['{f oh, } we had a frog strangler go  [ sw-, +  sweeping through here, {f uh, } yesterday  and last night.  /']",f oh  we had a frog strangler go   sw   sweeping through here f uh  yesterday  and last night  ,sd,MALE,1
+"[""{c and } we're expecting another one tonight. /""]",c and  were expecting another one tonight ,sd,MALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+"['{f oh, } {e i mean } it was raining so  hard you could swim down the street. /']",f oh  e i mean  it was raining so  hard you could swim down the street ,sd,MALE,1
+['<laughter>  we had one of those two days ago.'],laughter  we had one of those two days ago,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ {c but } not, +  {f uh, } {c but, } {f uh, } no ]  rain at all yesterday and, {f uh, } no rain today. /']", c but  not   f uh  c but  f uh  no   rain at all yesterday and f uh  no rain today ,+,FEMALE,0
+"[""{d well, } it's probably on its way  up there.  /""]",d well  its probably on its way  up there  ,sv,MALE,3
+['it was heading north. /'],it was heading north ,sd,MALE,1
+['thanks a lot <laughter>. /'],thanks a lot laughter ,ba,FEMALE,6
+['<laughter>.'],laughter,x,MALE,8
+"[""[ cu-, +  couldn't ] you send us some nice weather? /""]", cu   couldnt  you send us some nice weather ,qy,FEMALE,7
+"['{d well, } it was nice today. /']",d well  it was nice today ,sv,MALE,3
+"['{f oh, } was it? /']",f oh  was it ,qy,FEMALE,7
+"['{f uh, } in between the thunder showers,  /']",f uh  in between the thunder showers  ,^h,MALE,27
+['yes. /'],yes ,ny,MALE,9
+"[""<laughter>  {d well, } [ the, +  one ]  thing's for sure we can always discuss the weather,  /""]",laughter  d well   the   one   things for sure we can always discuss the weather  ,sv,FEMALE,3
+"[""how some ever we can't do very much to change it. /""]",how some ever we cant do very much to change it ,sv,FEMALE,3
+"['{d well, } {d you know, } what they say  about the weather here in texas? /']",d well  d you know  what they say  about the weather here in texas ,qy,MALE,7
+"[""what's that? /""]",whats that ,ng,FEMALE,29
+"[""[ if you, +  if you ] don't like it,  [ wait + ] five minutes, it'll change. /""]", if you   if you  dont like it   wait   five minutes itll change ,sd,MALE,1
+"['{f oh, } yes,  /']",f oh  yes  ,aa,FEMALE,4
+"[""{d well } that's about  the way our weather is here also. /""]",d well  thats about  the way our weather is here also ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['[ w-, + ] -/']", w   ,%,MALE,5
+"['{c and } i grew up in saint louis,  /']",c and  i grew up in saint louis  ,sd,FEMALE,1
+['{c and } saint louis was much the same. /'],c and  saint louis was much the same ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['{d well, } tell me, {f uh, }  [ is, + is ] it normally that cold up there [ in, +  in ] the spring? /']",d well  tell me f uh    is  is  it normally that cold up there  in   in  the spring ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""it's not.  /""]",its not  ,sd,FEMALE,1
+"['this is, {f uh, }  about, {f uh, } ten degrees cooler than usual.  /']",this is f uh   about f uh  ten degrees cooler than usual  ,sd,FEMALE,1
+['{c but } about a week ago we were up to eighty and eighty-five degrees. /'],c but  about a week ago we were up to eighty and eightyfive degrees ,sd,FEMALE,1
+"[""you're kidding? /""]",youre kidding ,bh,MALE,18
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"['[ it, + {f uh, } it ]  fluctuates from one extreme to the other it seems. /']", it  f uh  it   fluctuates from one extreme to the other it seems ,sd,FEMALE,1
+"[""[ you, +  are you ] sure you didn't  leave your refrigerator door open? /""]", you   are you  sure you didnt  leave your refrigerator door open ,qy,MALE,7
+"[""<laughter> i'm sure i didn't.  /""]",laughter im sure i didnt  ,na,FEMALE,21
+['i was ready to turn on the air conditioning.  /'],i was ready to turn on the air conditioning  ,sd,FEMALE,1
+"['[ it, +  no, it ] really was extremely warm.  /']", it   no it  really was extremely warm  ,sd,FEMALE,1
+['it only got down to about sixty-five in the evening. /'],it only got down to about sixtyfive in the evening ,sd,FEMALE,1
+['um-hum. /'],umhum ,b,MALE,2
+"['we had about three or four days of that,  /']",we had about three or four days of that  ,sd,FEMALE,1
+"['{c and  then } all of a sudden a cold front came down and, {f uh, } temperatures  dropped thirty degrees in a very short length of time.  /']",c and  then  all of a sudden a cold front came down and f uh  temperatures  dropped thirty degrees in a very short length of time  ,sd,FEMALE,1
+"['{c and, } {f uh, } it has  gone down gradually each day.  /']",c and  f uh  it has  gone down gradually each day  ,sd,FEMALE,1
+"['this morning it was twenty-nine,  /']",this morning it was twentynine  ,sd,FEMALE,1
+['yesterday it was about thirty-two.  /'],yesterday it was about thirtytwo  ,sd,FEMALE,1
+"['{f uh, }']",f uh ,sd,FEMALE,1
+['# oh.  # /'], oh   ,b,MALE,2
+"[""# cars # were scraping, ice off their  cars this morning if they've been sitting out all night.  /""]", cars  were scraping ice off their  cars this morning if theyve been sitting out all night  ,+,FEMALE,0
+"['{c so } [ it, +']",c so   it ,sv,FEMALE,3
+"['# {f oh, } mother macree.  # /']", f oh  mother macree   ,ba,MALE,6
+"[""# it ] really [ wasn't # too, +   wasn't too ] pleasant <laughter>. /""]", it  really  wasnt  too    wasnt too  pleasant laughter ,+,FEMALE,0
+"['no,  /']",no  ,aa,MALE,4
+['i should say not.  /'],i should say not  ,sd,MALE,1
+"[""{d well, }  [ i, +  i, ] sincerely hope that you don't have that terrible storm we had. /""]",d well    i   i  sincerely hope that you dont have that terrible storm we had ,sd,MALE,1
+"['# {f oh, } i  hope, #']", f oh  i  hope ,sd,FEMALE,1
+"['# i hope, #']", i hope ,sd,MALE,1
+['not. /'],not ,+,FEMALE,0
+"[""it doesn't reach you up there. /""]",it doesnt reach you up there ,+,MALE,0
+"['{d well, } they are predicting rain  and thunderstorms,  /']",d well  they are predicting rain  and thunderstorms  ,sd,FEMALE,1
+"[""{c and } i wouldn't be a bit surprised by what we would not be getting  the same weather you had. /""]",c and  i wouldnt be a bit surprised by what we would not be getting  the same weather you had ,sd,FEMALE,1
+"['{d well, } i, - /']",d well  i  ,%,MALE,5
+"[""let's hope it,  /""]",lets hope it  ,ad,MALE,22
+"[""{d well, } [ i-, +  if ] it's the same as what we had, at least it'll be warmer. /""]",d well   i   if  its the same as what we had at least itll be warmer ,sv,MALE,3
+"['{f uh, } yeah.  /']",f uh  yeah  ,b,FEMALE,2
+"['<laughter>  yes,  /']",laughter  yes  ,b,FEMALE,2
+"['warm rain,  /']",warm rain  ,bf,FEMALE,20
+"['{d well, } of course, by the time it gets up here it may [ ru-, +  run ]  into a cold front coming down from canada. /']",d well  of course by the time it gets up here it may  ru   run   into a cold front coming down from canada ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{f oh, } boy,  /']",f oh  boy  ,ba,MALE,6
+"['[ [ the, +  that, ] +   whew, that ] would be tear disastrous.   if you,']",  the   that     whew that  would be tear disastrous   if you,sv,MALE,3
+['# yes.  # /'], yes   ,aa,FEMALE,4
+['# had # that rain storm and freezing weather. /'], had  that rain storm and freezing weather ,+,MALE,0
+['yes. /'],yes ,aa,FEMALE,4
+['oh. /'],oh ,b,MALE,2
+"['[ we had, +  {f uh, } a week ago they had ]  golf ball size hail coming down in one part [ of the, +  {f uh, } of the ] city of dayton itself. /']", we had   f uh  a week ago they had   golf ball size hail coming down in one part  of the   f uh  of the  city of dayton itself ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, } {f uh, } then we just had  about an inch and a half or two inches of rain in less than an hour.  /']",c and  f uh  then we just had  about an inch and a half or two inches of rain in less than an hour  ,sd,FEMALE,1
+['it was just coming down  by the bucketfulls and a great deal of lightning. /'],it was just coming down  by the bucketfulls and a great deal of lightning ,sd,FEMALE,1
+"['{f oh, }']",f oh ,b,MALE,2
+"['# {d so, } #']", d so  ,sv,FEMALE,3
+['# yes.  # /'], yes   ,+,MALE,0
+"[""[ [ it, +  it wasn't, ] +  {f uh, } it wasn't ]  conditions to being out in it  /""]",  it   it wasnt    f uh  it wasnt   conditions to being out in it  ,+,FEMALE,0
+['{c and } i had just gotten home.  /'],c and  i had just gotten home  ,sd,FEMALE,1
+['we had a lot of tornado warnings also.  /'],we had a lot of tornado warnings also  ,sd,FEMALE,1
+"['{c and } i had gotten home shortly before that, {f uh, } the rain started.   /']",c and  i had gotten home shortly before that f uh  the rain started   ,sd,FEMALE,1
+"['{c so, } {f uh, } i felt a little more secure that i was at home rather than having to be out driving in it. /']",c so  f uh  i felt a little more secure that i was at home rather than having to be out driving in it ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['{d well, } {f uh, } i heard  on the news this morning that, {f um, } one of our local schools, {f uh, } lost the roof of their gymnasium. /']",d well  f uh  i heard  on the news this morning that f um  one of our local schools f uh  lost the roof of their gymnasium ,sd,MALE,1
+['is that right? /'],is that right ,bh,FEMALE,18
+['{c and } they suspected may have been a tornado. /'],c and  they suspected may have been a tornado ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } {f uh, } {f uh, } thank god  for small favors, the, {f uh, } {f uh, } - /']",c but  f uh  f uh  thank god  for small favors the f uh  f uh   ,ad,MALE,22
+"['what do they call them?  [ [ the, +  the, ] +  the ]  marching band or something? /']",what do they call them    the   the    the   marching band or something ,qy,MALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{f uh, } {f uh, } had just quit  rehearsal about a half hour before. /']",f uh  f uh  had just quit  rehearsal about a half hour before ,sd,MALE,1
+"['{f oh, } they, - /']",f oh  they  ,%,FEMALE,5
+"['that was, [ ca-, + ]  [ very, +  very ] fortunate for them because that could have really been disastrous. /']",that was  ca     very   very  fortunate for them because that could have really been disastrous ,sv,FEMALE,3
+"['{f oh, } {c and } how. /']",f oh  c and  how ,aa,MALE,4
+"['{d well, } of course this is tornado  season, {f uh, }  /']",d well  of course this is tornado  season f uh   ,sd,FEMALE,1
+"['in to, {f uh, } - /']",in to f uh   ,%,FEMALE,5
+"['we have many tornadoes spawned in this area.  and northern indiana,  /']",we have many tornadoes spawned in this area  and northern indiana  ,sd,FEMALE,1
+"[""now we're in the southwestern part of, {f uh, } ohio,""]",now were in the southwestern part of f uh  ohio,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# just # forty miles north,  due north of cincinnati,  /']", just  forty miles north  due north of cincinnati  ,+,FEMALE,0
+"['[ {c and, } +   {f uh, } {c but, } ] {f uh, } northern indiana, has many tornadoes come roaring across.  /']", c and     f uh  c but   f uh  northern indiana has many tornadoes come roaring across  ,sd,FEMALE,1
+"['{c and } we get the backlash off of it, if not the part of the tornado itself. /']",c and  we get the backlash off of it if not the part of the tornado itself ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so, } {f uh, } [ we, +  {d you know, } we ]  get a lot of bad weather in this area.  /']",c so  f uh   we   d you know  we   get a lot of bad weather in this area  ,sd,FEMALE,1
+"[""{c but } of course you're supposed to be the sun belt,  /""]",c but  of course youre supposed to be the sun belt  ,sv,FEMALE,3
+['{c and } i do know that you get some freezing weather down there on occasion. /'],c and  i do know that you get some freezing weather down there on occasion ,sv,FEMALE,3
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,MALE,4
+"['{d well, } during  the winter,  /']",d well  during  the winter  ,aap_am,MALE,39
+"['yes,  /']",yes  ,aa,MALE,4
+['we do.  /'],we do  ,sd,MALE,1
+"[""{f uh, } we've had, {f uh, } {d well, } <sigh>  past four or five years, i guess,  at least one day during the year when just everything would just close down  because we'd have freezing rain. /""]",f uh  weve had f uh  d well  sigh  past four or five years i guess  at least one day during the year when just everything would just close down  because wed have freezing rain ,sd,MALE,1
+['um-hum. /'],umhum ,b,FEMALE,2
+"[""{c and, } {f uh, } of course people  down here, they just don't know how to handle themselves  /""]",c and  f uh  of course people  down here they just dont know how to handle themselves  ,sv,MALE,3
+"['{c and, } -/']",c and  ,%,MALE,5
+['right.  /'],right  ,aa,FEMALE,4
+"['yes,  /']",yes  ,aa,FEMALE,4
+"[""i was going to say  that it does make a difference when you're not accustomed, to, {f uh, }""]",i was going to say  that it does make a difference when youre not accustomed to f uh ,sd,FEMALE,1
+"['# {d well, } {f uh, } #']", d well  f uh  ,aap_am,MALE,39
+"['# having to, #']", having to ,+,FEMALE,0
+"['not only that, -/']",not only that ,+,MALE,0
+['drive in it. /'],drive in it ,+,FEMALE,0
+"[""{c but, } [ we're, +  we're ] [ ee-, + ]  don't have the equipment to handle it either. /""]",c but   were   were   ee    dont have the equipment to handle it either ,sd,MALE,1
+"['right,  /']",right  ,b,FEMALE,2
+['right. /'],right ,b,FEMALE,2
+"['{f uh, }']",f uh ,sd,MALE,1
+"['# {c and, } # -/']", c and   ,%,FEMALE,5
+"['# they go # out there,  /']", they go  out there  ,+,MALE,0
+"['{c and } the, - /']",c and  the  ,%,MALE,5
+"['{d well } all you can do [ with, +  with, ] {f uh, } freezing rain of course, is [ spr-, +  spread ] sand on the ice. /']",d well  all you can do  with   with  f uh  freezing rain of course is  spr   spread  sand on the ice ,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+"[""[ {c and, } + {c but, } ] {f uh, }  {d you know, } we don't even have vehicles that will do that. /""]", c and   c but   f uh   d you know  we dont even have vehicles that will do that ,sd,MALE,1
+['um-hum. /'],umhum ,b,FEMALE,2
+['right.  /'],right  ,b,FEMALE,2
+"[""{d well, } {f uh, } {d well }  here what they do and [ i, + i ] contend that it's certainly not the right thing to do, they spread salt.  /""]",d well  f uh  d well   here what they do and  i  i  contend that its certainly not the right thing to do they spread salt  ,sv,FEMALE,3
+"['{c and } of course the salt does melt the ice,  /']",c and  of course the salt does melt the ice  ,sd,FEMALE,1
+"['{c but } then what melts  immediately freezes and becomes, {f uh, } a perpetual problem. /']",c but  then what melts  immediately freezes and becomes f uh  a perpetual problem ,sd,FEMALE,1
+"['{f oh, } it sure does do that. /']",f oh  it sure does do that ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ [ they, +  {d well } we, ] +   they ] do that down here too.  /']",  they   d well  we     they  do that down here too  ,sd,MALE,1
+['they mix the salt in with the sand. /'],they mix the salt in with the sand ,sd,MALE,1
+"['{d well, } sand, and, {f uh, } - /']",d well  sand and f uh   ,%,FEMALE,5
+"['{c but } i have learned to do, [ is, +  {f uh, } {a now that i am alone, } is, ] {f uh, } to carry bags of salt in the  trunk of my car.  /']",c but  i have learned to do  is   f uh  a now that i am alone  is  f uh  to carry bags of salt in the  trunk of my car  ,sd,FEMALE,1
+"['{f um, } not only in case i need it for that for traction but for additional weight,']",f um  not only in case i need it for that for traction but for additional weight,sd,FEMALE,1
+['# yes.  # /'], yes   ,b,MALE,2
+"['# in # the,']", in  the,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['back of the car.  /'],back of the car  ,+,FEMALE,0
+"[""{c and then } of  course kitty litter is also excellent for that.  i don't know whether you've ever thought in terms of,""]",c and then  of  course kitty litter is also excellent for that  i dont know whether youve ever thought in terms of,sv,FEMALE,3
+['# uh-huh.  /'], uhhuh  ,b,MALE,2
+"[""i've, # /""]",ive  ,%,MALE,5
+['# that  /'], that  ,+,FEMALE,0
+"['{c but, } # -/']",c but   ,%,FEMALE,5
+"['no,  /']",no  ,b,MALE,2
+"[""i'm""]",im,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['a dog lover myself. /'],a dog lover myself ,+,MALE,0
+['{d well } <laughter>.'],d well  laughter,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"[""{d well, } the dogs don't use litter.  /""]",d well  the dogs dont use litter  ,+,FEMALE,0
+"['{c but } kitty litter is excellent for, {f uh, } getting under the wheels of cars  /']",c but  kitty litter is excellent for f uh  getting under the wheels of cars  ,sv,FEMALE,3
+['and what have you and giving you traction. /'],and what have you and giving you traction ,sv,FEMALE,3
+['i guess it would be. /'],i guess it would be ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"['it, {f uh, } works  out, {f uh, } really quite well.  /']",it f uh  works  out f uh  really quite well  ,sv,FEMALE,3
+"['course [ i have, +  i have ] a dog also.  /']",course  i have   i have  a dog also  ,sd,FEMALE,1
+"['my son brought me a little  lhasa apso, {f uh, } for my birthday last thanksgiving. /']",my son brought me a little  lhasa apso f uh  for my birthday last thanksgiving ,sd,FEMALE,1
+['# oh.  # /'], oh   ,b,MALE,2
+['# he # brought him from dallas.  /'], he  brought him from dallas  ,sd,FEMALE,1
+"['he, -/']",he ,%,FEMALE,5
+"[""{f oh, } wasn't that nice of him? /""]",f oh  wasnt that nice of him ,qh,MALE,26
+"['yes,  /']",yes  ,ny,FEMALE,9
+"['that, {f uh, } - /']",that f uh   ,%,FEMALE,5
+"['he just thought i had been without a dog, {f uh, } for three years.  /']",he just thought i had been without a dog f uh  for three years  ,sd,FEMALE,1
+['that was long enough. /'],that was long enough ,sd,FEMALE,1
+"['# {f uh, } # /']", f uh   ,%,MALE,5
+"['# [ he, +  # he ] had, -/']",  he    he  had ,sd,FEMALE,1
+"['i have, {f uh, } [ a, +  a ] chowperd myself. /']",i have f uh   a   a  chowperd myself ,sd,MALE,1
+"['{f oh, } a what? /']",f oh  a what ,br,FEMALE,30
+['a chowperd. /'],a chowperd ,sd,MALE,1
+"[""{d now } that one i'm not familiar with. /""]",d now  that one im not familiar with ,sd,FEMALE,1
+"[""{d well, } she's part chow and part shepherd. /""]",d well  shes part chow and part shepherd ,sd,MALE,1
+"['{f uh, } okay. /']",f uh  okay ,bk,FEMALE,14
+['<laughter>.'],laughter,x,MALE,8
+"['okay,  /']",okay  ,b,FEMALE,2
+['that makes sense then <laughter>. /'],that makes sense then laughter ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""{c but } she's [ the best, +""]",c but  shes  the best ,sv,MALE,3
+"['i believe, -/']",i believe ,sd,FEMALE,1
+['the best ] of both breeds. /'],the best  of both breeds ,+,MALE,0
+"['yes,  /']",yes  ,b,FEMALE,2
+"['right,  /']",right  ,b,FEMALE,2
+"[""{d well, } i've always  had big dogs before.   never had a little dog before. /""]",d well  ive always  had big dogs before   never had a little dog before ,sd,FEMALE,1
+"['{d well, } june,']",d well  june,sd,MALE,1
+"['# {c and, } # -/']", c and   ,%,FEMALE,5
+['# is medium # sized. /'], is medium  sized ,+,MALE,0
+['yes  /'],yes  ,b,FEMALE,2
+"['{d well, }']",d well ,sd,FEMALE,1
+['{c but } she is scared to death of thunder storms. /'],c but  she is scared to death of thunder storms ,sd,MALE,1
+"['{f oh, } {d well, } i had a german  shorthair that was frightened of storms.  /']",f oh  d well  i had a german  shorthair that was frightened of storms  ,+,FEMALE,0
+"['the minute it would begin to storm, he would just panic. /']",the minute it would begin to storm he would just panic ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and, } {f uh, } i had to push him  down when he was fourteen,  /']",c and  f uh  i had to push him  down when he was fourteen  ,sd,FEMALE,1
+"['{c and } two months later i had to put my yellow lab down,']",c and  two months later i had to put my yellow lab down,sd,FEMALE,1
+['# oh.  # /'], oh   ,b,MALE,2
+['# because # he had leukemia.  /'], because  he had leukemia  ,+,FEMALE,0
+"['{c and, } {f uh, } <sigh>  [ then, +  {f uh, } then ] there was no point in having all my acreage.  /']",c and  f uh  sigh   then   f uh  then  there was no point in having all my acreage  ,sd,FEMALE,1
+['i had four and a half acres with game preserve on three sides. /'],i had four and a half acres with game preserve on three sides ,sd,FEMALE,1
+"['{f oh, } that must be nice. /']",f oh  that must be nice ,ba,MALE,6
+"['{f oh, } {d well, } it was great.  /']",f oh  d well  it was great  ,sv,FEMALE,3
+['i loved it.  /'],i loved it  ,sd,FEMALE,1
+"[""{c but } then i didn't need all that  anymore, so i finally sold that,  /""]",c but  then i didnt need all that  anymore so i finally sold that  ,sd,FEMALE,1
+"[""{c and } i'm in a fair size condo.  /""]",c and  im in a fair size condo  ,sd,FEMALE,1
+['{c and } i have a nice size patio. /'],c and  i have a nice size patio ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ {c and, } +  {f uh, } {c so } ]  this little dog has plenty of room to run. /']", c and    f uh  c so    this little dog has plenty of room to run ,sd,FEMALE,1
+"['{d well, } good. /']",d well  good ,ba,MALE,6
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{c and } he is [ a, +  a ]  cutie  /']",c and  he is  a   a   cutie  ,sd,FEMALE,1
+"[""[ {c and, } + {f uh, } {c but } ]  i've never had a dog i had to keep taking to the groomer's to have groomed either <laughter>. /""]", c and   f uh  c but    ive never had a dog i had to keep taking to the groomers to have groomed either laughter ,sd,FEMALE,1
+"['no,  /']",no  ,b,MALE,2
+"['{d well, }']",d well ,sv,MALE,3
+"[""# {c and } it's, # -/""]", c and  its  ,%,FEMALE,5
+"['# {d now, } {d you # know, } it sounds  {d like } you ought to be in a condo down in miami beach somewhere.']", d now  d you  know  it sounds  d like  you ought to be in a condo down in miami beach somewhere,+,MALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c or } better yet, down around saint petersburg, florida. /']",c or  better yet down around saint petersburg florida ,+,MALE,0
+['is that right? /'],is that right ,bh,FEMALE,18
+['uh-huh.  /'],uhhuh  ,ny,MALE,9
+"[""that's what i call home. /""]",thats what i call home ,sd,MALE,1
+"['{f oh, } is that right? /']",f oh  is that right ,bh,FEMALE,18
+['i lived there for ten years. /'],i lived there for ten years ,sd,MALE,1
+"[""{f oh, } {d well } i was there once  [ way, +  way ] back in nineteen-sixty, i think for just a week's vacation. /""]",f oh  d well  i was there once   way   way  back in nineteensixty i think for just a weeks vacation ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but, } {f uh, } [ i, +  that's about  the only time i've ] been to florida, except passing through on the way to someplace else. /""]",c but  f uh   i   thats about  the only time ive  been to florida except passing through on the way to someplace else ,sd,FEMALE,1
+['yep. /'],yep ,b,MALE,2
+"['# {c but, } {f uh, } # -/']", c but  f uh   ,%,FEMALE,5
+"['# {d well, } i lived # there in the seventies. /']", d well  i lived  there in the seventies ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } [ i, +  i ] love it.  /']",c and  f uh   i   i  love it  ,sd,MALE,1
+['i have two sons still living down there. /'],i have two sons still living down there ,sd,MALE,1
+['um-hum.  /'],umhum  ,b,FEMALE,2
+"['{d well, } {f uh, } {f uh, }  most of my friends do spend a lot of time down in florida.  /']",d well  f uh  f uh   most of my friends do spend a lot of time down in florida  ,sd,FEMALE,1
+"[""{c but, } {f uh, } [ i have just, +   that's just ] not been my thing.  /""]",c but  f uh   i have just    thats just  not been my thing  ,sd,FEMALE,1
+['we used to always head west or head north.  /'],we used to always head west or head north  ,sd,FEMALE,1
+"[""now that i'm alone [ why, + ] {f uh, } i, {f uh, } prefer to travel overseas if i'm going anywhere. /""]",now that im alone  why   f uh  i f uh  prefer to travel overseas if im going anywhere ,sd,FEMALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,MALE,2
+"[""{c and, } {f uh, } course there too  you never know what the weather's going to be.  /""]",c and  f uh  course there too  you never know what the weathers going to be  ,sd,FEMALE,1
+"['when you,']",when you,sv,FEMALE,3
+"[""# {d well, } [ that's, # +""]", d well   thats  ,sv,MALE,3
+"['# start getting # over,']", start getting  over,+,FEMALE,0
+"[""that's ]""]",thats ,+,MALE,0
+"['to, -/']",to ,+,FEMALE,0
+"['why i was suggesting, {f uh, }  that saint petersburg [ [ is +   got, ] + got  ] to be the finest weather in the world. /']",why i was suggesting f uh   that saint petersburg   is    got   got   to be the finest weather in the world ,+,MALE,0
+"['{f oh, } is that right? /']",f oh  is that right ,bh,FEMALE,18
+"['{f oh, } [ i, +  i ] loved it down there. /']",f oh   i   i  loved it down there ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['course you could [ tell, +  always tell ]  which were [ the, +  the ] [ na-, +  natives- ]']",course you could  tell   always tell   which were  the   the   na   natives ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['# and # which ones were the snowbirds. /'], and  which ones were the snowbirds ,+,MALE,0
+"['{f oh, } is that right? /']",f oh  is that right ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['the snowbirds were the, -/']",the snowbirds were the ,sd,MALE,1

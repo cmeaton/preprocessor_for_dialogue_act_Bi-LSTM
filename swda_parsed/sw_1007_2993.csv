@@ -1,0 +1,185 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['are you in the market for a car recently? /'],are you in the market for a car recently ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+['i just bought a car. /'],i just bought a car ,sd,MALE,1
+"['{f oh, } what did you get? /']",f oh  what did you get ,qw,FEMALE,12
+['i got a nineteen ninety-three cavalier station wagon. /'],i got a nineteen ninetythree cavalier station wagon ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['[ what, + what  ] convinced you to get that one? /']", what  what   convinced you to get that one ,qw,FEMALE,12
+"[""{d well, } a friend of my father's, [ and + ] he'd driven it all over the country --""]",d well  a friend of my fathers  and   hed driven it all over the country ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- and it runs great. /'], and it runs great ,+,MALE,0
+"['{f oh, } incredible,  /']",f oh  incredible  ,ba,FEMALE,6
+['how many miles on it? /'],how many miles on it ,qw,FEMALE,12
+"[""[ it's + {d like, } it  ] has a hundred and fifty-three thousand. /""]", its  d like  it   has a hundred and fiftythree thousand ,sd,MALE,1
+"[""{c and } it's still running real well. /""]",c and  its still running real well ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{f oh, } great,  /']",f oh  great  ,ba,FEMALE,6
+['yeah.  /'],yeah  ,%,FEMALE,5
+"['[ we have, + {f uh, } right now we have  ] two cars, {f uh, }  /']", we have  f uh  right now we have   two cars f uh   ,sd,FEMALE,1
+"['i have,  my husband and myself and we have two sons who are drivers --']",i have  my husband and myself and we have two sons who are drivers ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- [ and + ] one of which is [ a, + {f um, } an  ] eighty-eight plymouth voyager van,  /']",  and   one of which is  a  f um  an   eightyeight plymouth voyager van  ,+,FEMALE,0
+"['{c and  then } we have, {f um, } - /']",c and  then  we have f um   ,sd,FEMALE,1
+"['about a year ago, we picked up a second hand, {f uh, } {f uh, } audi -- /']",about a year ago we picked up a second hand f uh  f uh  audi  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and, } {f uh, } that was [ a ca-, + {d you know, } a sedan,  ]  /']", c and  f uh  that was  a ca  d you know  a sedan    ,sd,FEMALE,1
+"['{c and, } {f uh, } we got that.  ((   ))  /']",c and  f uh  we got that       ,sd,FEMALE,1
+"['the major things, - /']",the major things  ,%,FEMALE,5
+"['the reason why we got that is we had had a nova,  /']",the reason why we got that is we had had a nova  ,sd,FEMALE,1
+"['{c and } a, - /']",c and  a  ,%,FEMALE,5
+"['well, - /']",well  ,%,FEMALE,5
+"['my son was driving,  /']",my son was driving  ,sd,FEMALE,1
+"['{c and } someone came into his lane and hit him,  /']",c and  someone came into his lane and hit him  ,sd,FEMALE,1
+"['{c and } fortunately he was able to, - /']",c and  fortunately he was able to  ,sd,FEMALE,1
+"['his, - /']",his  ,%,FEMALE,5
+"['{e i mean } he [ was checked out of the hospital, + was  ] out of the hospital by that night, but the car was completely totalled -- /']",e i mean  he  was checked out of the hospital  was   out of the hospital by that night but the car was completely totalled  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } [ mike, and, they had been, + my two sons had been  ] a passenger in a car about a year and a half before that, which was hit by another car. /']", c and   mike and they had been  my two sons had been   a passenger in a car about a year and a half before that which was hit by another car ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,MALE,2
+"['{c so }  {e i mean, } [ i got, + i was getting  ] really nervous,  /']",c so   e i mean   i got  i was getting   really nervous  ,sd,FEMALE,1
+"['{c so } i finally said, [ we, + ] i want a really solid car.  /']",c so  i finally said  we   i want a really solid car  ,sd,FEMALE,1
+['{c so } we found the audi second hand.  /'],c so  we found the audi second hand  ,sd,FEMALE,1
+"['i guess right now my criteria for cars is, {f uh, } [ of + ] being solid, able to take an impact <laughter> -- /']",i guess right now my criteria for cars is f uh   of   being solid able to take an impact laughter  ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""-- {c and, } {f uh, } {c so, } {f uh, } [ i, + we're  ] not going to be  in the market [ for, +   in  the near future for ] any new car. /""]", c and  f uh  c so  f uh   i  were   not going to be  in the market  for    in  the near future for  any new car ,sd,FEMALE,1
+['uh-huh  /'],uhhuh  ,b,MALE,2
+['<clanging> <<pans>>.'],clanging pans,x,MALE,8
+['{c but } the things that i would want <noise> <<dropping pan>> would be a solid car.  /'],c but  the things that i would want noise dropping pan would be a solid car  ,sd,FEMALE,1
+"[""another thing i'd definitely <noise> <<dropping pan>> want would be anti-lock brakes. /""]",another thing id definitely noise dropping pan want would be antilock brakes ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{f uh, } [ our, + our  ] <noise> van, which is [ a, + a  ] delight to drive, does not have, - /']",f uh   our  our   noise van which is  a  a   delight to drive does not have  ,sd,FEMALE,1
+"['i think the brakes on the plymouth van [ is just, + are  ] terrible. </noise> /']",i think the brakes on the plymouth van  is just  are   terrible noise ,sv,FEMALE,3
+['{f um. } /'],f um  ,b,MALE,2
+"[""if the road is at all wet, and i'm, - /""]",if the road is at all wet and im  ,sd,FEMALE,1
+"[""{c and } i don't go all that fast, but [ the, + ] {f uh, } [ it, + it  ] just doesn't hold.  /""]",c and  i dont go all that fast but  the   f uh   it  it   just doesnt hold  ,sd,FEMALE,1
+"[""it doesn't hold well at all.  /""]",it doesnt hold well at all  ,sd,FEMALE,1
+"['{c so, } [ i, + i  ] definitely want to get anti lock brakes.  /']",c so   i  i   definitely want to get anti lock brakes  ,sd,FEMALE,1
+"[""{c so, } i don't know,  /""]",c so  i dont know  ,sd,FEMALE,1
+"['do you have any particular things [ that, + that  ] are priorities on your list. /']",do you have any particular things  that  that   are priorities on your list ,qy,FEMALE,7
+"[""{d well, } it's, - /""]",d well  its  ,%,MALE,5
+"[""i didn't really need power windows, but it has power, {d you know, } windows --""]",i didnt really need power windows but it has power d you know  windows ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- and steering and air conditioning,  /']", and steering and air conditioning  ,+,MALE,0
+"['[ {c and, } + {c and }  ] {f uh. } -/']", c and   c and    f uh  ,%,MALE,5
+"[""i guess down here air conditioning's a must, isn't it. /""]",i guess down here air conditionings a must isnt it ,qy,FEMALE,7
+"['uh-huh,  /']",uhhuh  ,ny,MALE,9
+"['{f oh, } yeah.  /']",f oh  yeah  ,ny,MALE,9
+['it has a stereo and a cassette player -- /'],it has a stereo and a cassette player  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, } {f um, } he's told me it gets forty-two miles to the gallon. /""]", c and  f um  hes told me it gets fortytwo miles to the gallon ,sd,MALE,1
+"[""that's incredible. /""]",thats incredible ,ba,FEMALE,6
+['uh-huh. /'],uhhuh ,b,MALE,2
+['that is incredible. /'],that is incredible ,ba,FEMALE,6
+['{d so. } -/'],d so  ,%,MALE,5
+"['{f uh, } [ [ we, + we  ] get about, + [ our, + the  ] van [ gets,  + on highways, can get   about ] twenty-eight.  /']",f uh    we  we   get about   our  the   van  gets   on highways can get   about  twentyeight  ,sd,FEMALE,1
+['the audi does not have good mileage.  /'],the audi does not have good mileage  ,sd,FEMALE,1
+"[""that's the one drawback.  /""]",thats the one drawback  ,sd,FEMALE,1
+"[""it's a powerful car.""]",its a powerful car,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f um, } but it does not, {f uh, } - /']",f um  but it does not f uh   ,+,FEMALE,0
+"[""{e i mean, } [ i, + if i'm  ] on a highway and i can get twenty, twenty-one miles per gallon, i consider that [ luck-, + i'm lucky.  ]  /""]",e i mean   i  if im   on a highway and i can get twenty twentyone miles per gallon i consider that  luck  im lucky    ,sd,FEMALE,1
+"[""[ maybe, + maybe  ] sometimes i've gotten twenty-two.  /""]", maybe  maybe   sometimes ive gotten twentytwo  ,sd,FEMALE,1
+['it comes out around the eighteen or  nineteen local driving -- /'],it comes out around the eighteen or  nineteen local driving  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and }  that's  [ a, +  to me is  ] a real drawback.  /""]", c and   thats   a   to me is   a real drawback  ,sv,FEMALE,3
+"['i wish  [ i would, + {d you know, } i could  ] settle for twenty-eight,  /']",i wish   i would  d you know  i could   settle for twentyeight  ,sd,FEMALE,1
+"[""{c but, } {f uh, } [ the, + {f uh, } the ] frills on that car are nice, but they're not necessary, for me --""]",c but  f uh   the  f uh  the  frills on that car are nice but theyre not necessary for me ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- except air conditioning.  /'], except air conditioning  ,+,FEMALE,0
+"['[ in this area, + {f uh, } in washington d c area,  ] it gets hot and humid. /']", in this area  f uh  in washington d c area   it gets hot and humid ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+"[""it's really humid. /""]",its really humid ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{f uh, } {c so } air conditioning is [ def-, + {f uh, } definitely  ] a necessity for us through two or three months in the summer.  /']",f uh  c so  air conditioning is  def  f uh  definitely   a necessity for us through two or three months in the summer  ,sd,FEMALE,1
+"[""{f um, } {c but } [ [ i, + {f uh, } i,  ] + i  ] don't need, {f uh, } {d you know, } - /""]",f um  c but    i  f uh  i    i   dont need f uh  d you know   ,sd,FEMALE,1
+"[""power windows are nice, but i don't need them <laughter>.""]",power windows are nice but i dont need them laughter,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""although i must say when you're driving in the east and there are all these toll roads, come into a toll road, you just push that button down,  /""]",although i must say when youre driving in the east and there are all these toll roads come into a toll road you just push that button down  ,+,FEMALE,0
+"[""it's real nice for that window to zip down and zip up, instead of having to crank it. /""]",its real nice for that window to zip down and zip up instead of having to crank it ,sd,FEMALE,1
+"['crank, - /']",crank  ,%,MALE,5
+['yeah. /'],yeah ,b,MALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ {c but, } + {c or, }  ] {d you know, } if you want to have open windows, to be able to op-, - /']", c but   c or    d you know  if you want to have open windows to be able to op  ,sd,FEMALE,1
+"[""if you're alone in the car --""]",if youre alone in the car ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['-- just to press buttons, and. -/']", just to press buttons and ,+,FEMALE,0
+"[""you don't have to stretch. /""]",you dont have to stretch ,^2,MALE,23
+"[""{c but } {d you know, } i've lived all these years without them,  /""]",c but  d you know  ive lived all these years without them  ,sd,FEMALE,1
+['i probably could have lived a little longer <laughter>. /'],i probably could have lived a little longer laughter ,sd,FEMALE,1
+"[""that's true. /""]",thats true ,ba,MALE,6
+"[""{f uh, } one of the things that [ we have, + {f uh, } we've liked  ] when we gotten a new car, and [ this, + this  ] used car has it, is a sun roof -- /""]",f uh  one of the things that  we have  f uh  weve liked   when we gotten a new car and  this  this   used car has it is a sun roof  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } those are really nice in good weather. /'], c and  those are really nice in good weather ,sv,FEMALE,3
+"[""that's right. /""]",thats right ,ba,MALE,6
+"['[ {c so, } + {c so }  ] i guess if we get a new car, it definitely would have to have  [ an-, + anti  ] lock brakes,  /']", c so   c so    i guess if we get a new car it definitely would have to have   an  anti   lock brakes  ,sd,FEMALE,1
+"[""i'd love to get an air bag --""]",id love to get an air bag ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- and a sun roof,  [ and, + ] {f uh, } just so it'd be a good solid car.  /""]", and a sun roof   and   f uh  just so itd be a good solid car  ,+,FEMALE,0
+"['i guess that those are [ m-, + my  ] major criteria.  /']",i guess that those are  m  my   major criteria  ,sd,FEMALE,1
+"['everything else is, {d you know, } a luxury,  /']",everything else is d you know  a luxury  ,sv,FEMALE,3
+"['{c and } they,']",c and  they,sv,FEMALE,3
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"['make the car more expensive, but they often add more things to repair when things go wrong. /']",make the car more expensive but they often add more things to repair when things go wrong ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"['{c so, } {f uh, } if you were to buy [ a new car now, + a brand new car, ] what would you look for? /']",c so  f uh  if you were to buy  a new car now  a brand new car  what would you look for ,qw,FEMALE,12
+"['{f um, } like you said, anti-lock brakes and air bag,  /']",f um  like you said antilock brakes and air bag  ,sd,MALE,1
+"[""{c and, } {f uh, } [ i'd, + i'd  ] really like to have a car that's dependable --""]",c and  f uh   id  id   really like to have a car thats dependable ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- [ that, + that  ] you drive, {d you know, }  like a <throat_clearing> american made car that's as dependable as mercedes or somebody, {d you know } that's, -/""]",  that  that   you drive d you know   like a throatclearing american made car thats as dependable as mercedes or somebody d you know  thats ,+,MALE,0
+"[""isn't that true.  /""]",isnt that true  ,bh,FEMALE,18
+"[""[ it's, + it's  ] funny, {f um, } {f uh, } that you use, - /""]", its  its   funny f um  f uh  that you use  ,sv,FEMALE,3
+"[""the audi's german, and i have to say, it has been pretty dependable. /""]",the audis german and i have to say it has been pretty dependable ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['sometimes, one advantage of an american made car, is if you get stuck anywhere, most local garages can fix you up. /']",sometimes one advantage of an american made car is if you get stuck anywhere most local garages can fix you up ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['they have parts,  /']",they have parts  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but } [ once you get, if you, + once you get  ] something fancy, you get stuck somewhere off of the main area --']",c but   once you get if you  once you get   something fancy you get stuck somewhere off of the main area ,sv,FEMALE,3
+"['right, -/']",right ,b,MALE,2
+"['-- you can be really, - /']", you can be really  ,+,FEMALE,0
+"['{c and } [ the parts, + i know the audi parts  ] are terribly expensive. /']",c and   the parts  i know the audi parts   are terribly expensive ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{e i mean, } it jus-, - /']",e i mean  it jus  ,%,FEMALE,5
+['i shudder.  /'],i shudder  ,sd,FEMALE,1
+"['i would not get the audi again, just for that reason.  /']",i would not get the audi again just for that reason  ,sd,FEMALE,1
+"['{c but } i would love, i wish [ [ an american, + an american,  ] + ] that, {d you know, } engineering would make something as solid as a german car.  /']",c but  i would love i wish   an american  an american     that d you know  engineering would make something as solid as a german car  ,sd,FEMALE,1
+"['{d you know, } we --']",d you know  we ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"['-- certainly have the technology,  /']", certainly have the technology  ,+,FEMALE,0
+"[""{c but, } it's amazing,  /""]",c but  its amazing  ,sv,FEMALE,3
+"['when we bought this audi, - /']",when we bought this audi  ,sd,FEMALE,1
+"['{e i mean, } everything is more solid in it. /']",e i mean  everything is more solid in it ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{f uh, } if, - /']",f uh  if  ,%,FEMALE,5
+"[""you don't feel you've got any of the flabby plastic -- /""]",you dont feel youve got any of the flabby plastic  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } i know,  /']", c and  i know  ,%,FEMALE,5
+"[""{c and } [ [ i, + i,  ] + {c and } i'm  ] willing to give up a little bit in the mileage for a solid car.  /""]",c and    i  i    c and  im   willing to give up a little bit in the mileage for a solid car  ,sd,FEMALE,1
+"[""i don't think i have to give up as much as i'm giving up. /""]",i dont think i have to give up as much as im giving up ,sv,FEMALE,3
+['right. /'],right ,b,MALE,2
+"['{c but, } do you need air conditioning down there? /']",c but  do you need air conditioning down there ,qy,FEMALE,7
+"['yes,  /']",yes  ,ny,MALE,9
+['we really do -- /'],we really do  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- {c because } even today it's supposed to get up into the nineties.  /""]", c because  even today its supposed to get up into the nineties  ,sd,MALE,1
+['{c so } - /'],c so   ,%,MALE,5
+['<throat_clearing>.'],throatclearing,x,MALE,8
+"[""{f oh, } we've had eleven days in a row over ninety. /""]",f oh  weve had eleven days in a row over ninety ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""they've in fact had to excuse school down here because of that. /""]",theyve in fact had to excuse school down here because of that ,sd,FEMALE,1
+"['{d well, } listen,  /']",d well  listen  ,ad,FEMALE,22
+['i enjoyed talking with you. /'],i enjoyed talking with you ,fc,FEMALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+"['{c and } [ enjoy, + enjoy  ] your car. /']",c and   enjoy  enjoy   your car ,fc,FEMALE,10
+"['yeah,  /']",yeah  ,fc,MALE,10
+['have a nice summer. /'],have a nice summer ,fc,MALE,10
+"['thank you,  /']",thank you  ,fc,FEMALE,10
+"['you too,  /']",you too  ,fc,FEMALE,10
+"[""it's going to be a hot one. /""]",its going to be a hot one ,fc,FEMALE,10
+['yeah. /'],yeah ,fc,MALE,10
+"['okay,  /']",okay  ,fc,FEMALE,10
+['bye-bye /'],byebye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10

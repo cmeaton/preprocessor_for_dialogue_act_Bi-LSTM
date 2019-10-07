@@ -1,0 +1,130 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['the way, - /']",the way  ,%,MALE,5
+"[""i'll go ahead and start  /""]",ill go ahead and start  ,sd,MALE,1
+"['[ the way i work, +   {f uh, } the way i dress --']", the way i work    f uh  the way i dress ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- for work ] is, {f uh, } this year,  nineteen ninety-one has been really suit and  tie,  /']", for work  is f uh  this year  nineteen ninetyone has been really suit and  tie  ,+,MALE,0
+"[""{c or } i shouldn't say suit, but coat and tie every day. /""]",c or  i shouldnt say suit but coat and tie every day ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ a, + a ] year ago, i changed jobs from being a researcher --']", a  a  year ago i changed jobs from being a researcher ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- to doing marketing for the research group. /'], to doing marketing for the research group ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ which means kind of a, +  i guess it's a ] different set  of standards, i guess. /""]", which means kind of a   i guess its a  different set  of standards i guess ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c so, } {f uh, } [ i, + i ] dress almost the same  every day.  /']",c so  f uh   i  i  dress almost the same  every day  ,sd,MALE,1
+"[""{e i mean, } pretty much it's a white shirt and --""]",e i mean  pretty much its a white shirt and ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- slacks and shoes and --'], slacks and shoes and ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- a coat. /'], a coat ,+,MALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c but, }  it was very different before.  /']",c but   it was very different before  ,sd,MALE,1
+['how do you dress? /'],how do you dress ,qo,MALE,25
+"[""{d well, } i'm a drafter,  /""]",d well  im a drafter  ,^h,FEMALE,27
+['{c so } i just wear blue  jeans and tennis shoes  /'],c so  i just wear blue  jeans and tennis shoes  ,sd,FEMALE,1
+['{c and } i have sweatshirt on today. /'],c and  i have sweatshirt on today ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } that's pretty much the norm for me.  /""]",c and  thats pretty much the norm for me  ,sd,FEMALE,1
+"[""if i come  [ in +  in ] a dress, everybody's shocked <laughter>. /""]",if i come   in   in  a dress everybodys shocked laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['i understand. /'],i understand ,b,MALE,2
+"['they ask me, {d you know, } what are you doing in a  dress  /']",they ask me d you know  what are you doing in a  dress  ,sd,FEMALE,1
+"[""{c and } it's usually i haven't done my laundry lately <laughter>. /""]",c and  its usually i havent done my laundry lately laughter ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['ran out of jeans <laughter>. /'],ran out of jeans laughter ,^q,FEMALE,19
+"['i understand,  /']",i understand  ,b,MALE,2
+"[""that's funny <throat_clearing>.  /""]",thats funny throatclearing  ,ba,MALE,6
+"['{c so, } does it change? /']",c so  does it change ,qy,MALE,7
+['no. /'],no ,nn,FEMALE,13
+"['your dress,  /']",your dress  ,b,MALE,2
+['no. /'],no ,b^m,MALE,24
+"['no,  /']",no  ,nn,FEMALE,13
+['huh-uh. /'],huhuh ,nn,FEMALE,13
+"['[ {c so, } + {c or, } ] i guess, do you have  things like presentations to do or anything like that? /']", c so   c or   i guess do you have  things like presentations to do or anything like that ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['huh-uh. /'],huhuh ,nn,FEMALE,13
+"['{c so, } back in my old job,  up until through nineteen eighty --']",c so  back in my old job  up until through nineteen eighty ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- i would usually wear blue jeans and pullover shirts and  the like,  /']", i would usually wear blue jeans and pullover shirts and  the like  ,+,MALE,0
+"['{c but, } probably once a month or so, there was some reason that  i would have to put on a suit.']",c but  probably once a month or so there was some reason that  i would have to put on a suit,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['for a customer presentation or something. /'],for a customer presentation or something ,+,MALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""every now and then i'll get dressed up  and come in,  /""]",every now and then ill get dressed up  and come in  ,sd,FEMALE,1
+"[""{c but } that's for my husband's job and not mine <laughter>. /""]",c but  thats for my husbands job and not mine laughter ,sd,FEMALE,1
+"['{f oh, } i see,  /']",f oh  i see  ,b,MALE,2
+['i understand. /'],i understand ,b,MALE,2
+"['i have to go to a business meeting once a month with him,  /']",i have to go to a business meeting once a month with him  ,sd,FEMALE,1
+['{c but } - /'],c but   ,%,FEMALE,5
+"['<laughter>,']",laughter,x,FEMALE,8
+"[""{f oh. } {d well, } that's interesting. /""]",f oh  d well  thats interesting ,ba,MALE,6
+"['so, -/']",so ,+,FEMALE,0
+"[""let's see, {f uh, } what else about  this, {f uh, }  /""]",lets see f uh  what else about  this f uh   ,^h,MALE,27
+"['[ it, + it ] seems like t i is pretty cut and dried with [ two, + {d like, }  two ] or three levels. /']", it  it  seems like t i is pretty cut and dried with  two  d like   two  or three levels ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""[ that +  there's the ] [ t-, + ] upper management that  always wears gray suits.""]", that   theres the   t   upper management that  always wears gray suits,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""and the people that don't, {f uh, }  /""]",and the people that dont f uh   ,+,MALE,0
+"[""[ i would, +   [ if you, + if i ] ] want to say don't have power or don't have authority or whatever --""]", i would     if you  if i   want to say dont have power or dont have authority or whatever ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- like i used to be in that research -- /'], like i used to be in that research  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } i guess you are. /'], c and  i guess you are ,qy^d,MALE,16
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['that we dress in the jeans  /'],that we dress in the jeans  ,sd,MALE,1
+"[""{c and then } there's kind of  [ the, + the ] branch manager level --""]",c and then  theres kind of   the  the  branch manager level ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- or marketing people that kind of do that middle thing. /'], or marketing people that kind of do that middle thing ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['yeah. /'],yeah ,aa,FEMALE,4
+"[""{c but } there's not much, /""]",c but  theres not much ,sv,MALE,3
+"['[ mi-, + middle ] of the road. /']", mi  middle  of the road ,sv,FEMALE,3
+"[""it's nice that there's not a requirement --""]",its nice that theres not a requirement ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+['uh-huh. /'],uhhuh ,aa,FEMALE,4
+['-- for it. /'], for it ,+,MALE,0
+['sometimes i think there should be.  /'],sometimes i think there should be  ,sd,FEMALE,1
+['some of these women around here <laughter> look like they came off of harry hines. /'],some of these women around here laughter look like they came off of harry hines ,sv,FEMALE,3
+"['{f oh, } yeah,  /']",f oh  yeah  ,aa,MALE,4
+['right <laughter>. /'],right laughter ,aa,MALE,4
+['<laughter>.'],laughter,x,FEMALE,8
+"['yeah,  /']",yeah  ,b,MALE,2
+['i guess you see those once in a while. /'],i guess you see those once in a while ,sv,MALE,3
+"['<laughter> {c and } {d you know } [ the, + they   have the ] no shorts deal,  /']",laughter c and  d you know   the  they   have the  no shorts deal  ,sd,FEMALE,1
+"['{c and } some of these mini skirts, {d you know, } are worse than shorts  ever thought about being. /']",c and  some of these mini skirts d you know  are worse than shorts  ever thought about being ,sv,FEMALE,3
+['sure. /'],sure ,aa,MALE,4
+"['{c but, }  {f uh, }']",c but   f uh ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""{d you know, } [ that's, + i guess that's ] one of the  things you got to put up with when you don't have a dress code. /""]",d you know   thats  i guess thats  one of the  things you got to put up with when you dont have a dress code ,+,FEMALE,0
+"[""that's right,  /""]",thats right  ,aa,MALE,4
+"[""that's right.  /""]",thats right  ,aa,MALE,4
+"[""i guess [ they're, the, +  isn't there a ] dress code, something about spaghetti straps,  /""]",i guess  theyre the   isnt there a  dress code something about spaghetti straps  ,qy^d,MALE,16
+"[""i'm not even sure what they are. /""]",im not even sure what they are ,sd,MALE,1
+['supposedly and backless things -- /'],supposedly and backless things  ,sv,FEMALE,3
+"['{f oh, } backless,  /']",f oh  backless  ,b,MALE,2
+['all right. /'],all right ,aa,MALE,4
+"[""-- {c but, }  i've seen those, too,  /""]", c but   ive seen those too  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['okay,  /']",okay  ,b,MALE,2
+"[""{c so } this wasn't necessarily a big  conversation,  /""]",c so  this wasnt necessarily a big  conversation  ,sv,MALE,3
+"['{c but, }  i think [ we, +']",c but   i think  we ,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+['we ] did it <laughter>. /'],we  did it laughter ,+,MALE,0
+"['{f uh, } yeah. /']",f uh  yeah ,b,FEMALE,2
+"['okay,  /']",okay  ,b,MALE,2
+"['[ {c and, } +  {c and } ] your name was lisa. /']", c and    c and   your name was lisa ,qy^d,MALE,16
+['lisa. /'],lisa ,na,FEMALE,21
+['great. /'],great ,ba,MALE,6
+['are you the expressway sites? /'],are you the expressway sites ,qy,FEMALE,7
+"['i am,  /']",i am  ,na,MALE,21
+"['yes,  /']",yes  ,ny,MALE,9
+['{c and } i work in the north building. /'],c and  i work in the north building ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"['{f uh, } {d well, } thank you. /']",f uh  d well  thank you ,ft,MALE,43
+['thank you. /'],thank you ,ft,FEMALE,43
+"['all right,  /']",all right  ,fc,MALE,10
+['good day. /'],good day ,fc,MALE,10
+"['uh-huh,  /']",uhhuh  ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

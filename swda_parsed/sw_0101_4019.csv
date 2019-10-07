@@ -1,0 +1,171 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay, {f um, }  chuck, do you have any pets # there at your home? # /']",okay f um   chuck do you have any pets  there at your home  ,qy,FEMALE,7
+"['# yeah, i do. # /']", yeah i do  ,ny,MALE,9
+['{c and } what kind do you have? /'],c and  what kind do you have ,qw,FEMALE,12
+"[""i've got a male siamese about a year old here.  /""]",ive got a male siamese about a year old here  ,sd,MALE,1
+"['i live alone in an apartment, # [ and, + ] {f uh, } # --']",i live alone in an apartment   and   f uh   ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- except for the cat. /'], except for the cat ,+,MALE,0
+['uh-huh <laughter>. /'],uhhuh laughter ,b,FEMALE,2
+['how about you? /'],how about you ,qo,MALE,25
+"['{d well, } we have a cat, {f um, }  /']",d well  we have a cat f um   ,sd,FEMALE,1
+"[""he's probably, {f oh, } a  good two years old, big, old, fat and sassy tabby. /""]",hes probably f oh  a  good two years old big old fat and sassy tabby ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""<laughter> {f oh. }  {f uh, } how's the disposition of your siamese cat? /""]",laughter f oh   f uh  hows the disposition of your siamese cat ,qw,FEMALE,12
+"[""{d well, } it's, {f uh, } {d you know } they're just,  {f uh, } aggressive by nature -- /""]",d well  its f uh  d you know  theyre just  f uh  aggressive by nature  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, }  {f uh, } he's been neutered and declawed, #  /""]", c and   f uh  hes been neutered and declawed   ,sd,MALE,1
+['{c so } # --'],c so   ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""-- he's an indoor cat,  /""]", hes an indoor cat  ,+,MALE,0
+"['{c so, }  {f uh, } that kind of calms him down for the most part. /']",c so   f uh  that kind of calms him down for the most part ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['how about yours? /'],how about yours ,qo,MALE,25
+"['{d well, } yeah,  /']",d well  yeah  ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""[ he's, + {f uh, } he has ] been really aggressive,  {f uh, } especially towards my little girl, for --""]", hes  f uh  he has  been really aggressive  f uh  especially towards my little girl for ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+['-- some reason.  /'], some reason  ,+,FEMALE,0
+"[""he's, {f uh, } been so mean to her <laughter>. /""]",hes f uh  been so mean to her laughter ,sd,FEMALE,1
+"[""[ {c and, } + {c and } ] you say you've had him how long? /""]", c and   c and   you say youve had him how long ,qw^d,MALE,41
+"[""we've had him for about two years -- /""]",weve had him for about two years  ,sd,FEMALE,1
+['two years. /'],two years ,b^m,MALE,24
+"['-- {c and } he was so mean to her, {f um, } right after we first  got him.  /']", c and  he was so mean to her f um  right after we first  got him  ,sd,FEMALE,1
+"['{d so } we had him neutered, [ and, + and ] declawed,  /']",d so  we had him neutered  and  and  declawed  ,sd,FEMALE,1
+['{c and } now he bites her.  /'],c and  now he bites her  ,sd,FEMALE,1
+"[""<laughter> he can't --""]",laughter he cant ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+"['-- scratch her any more,  /']", scratch her any more  ,+,FEMALE,0
+['he bites her. /'],he bites her ,sd,FEMALE,1
+['does he bite her enough to draw blood? /'],does he bite her enough to draw blood ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['he has a couple of times,  /']",he has a couple of times  ,sd,FEMALE,1
+['# {c so. } # -/'], c so   ,%,FEMALE,5
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""{c but } he's a very possessive cat.  /""]",c but  hes a very possessive cat  ,sd,FEMALE,1
+"['[ he, + he ]  loves my son,  /']", he  he   loves my son  ,sd,FEMALE,1
+"[""it's his cat,  /""]",its his cat  ,sd,FEMALE,1
+"[""{c and } he's the only one that allows him to touch him {c or } pet him  {c or } love him -- /""]",c and  hes the only one that allows him to touch him c or  pet him  c or  love him  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- {c and } he's so funny,  /""]", c and  hes so funny  ,sd,FEMALE,1
+['he just follows my son around just  like a dog. /'],he just follows my son around just  like a dog ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,b,MALE,2
+"[""he won't even let my son shower. /""]",he wont even let my son shower ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['he meows and wants to get in the bathroom  /'],he meows and wants to get in the bathroom  ,sd,FEMALE,1
+"[""{c and, }   while he showers, it's so  hilarious.  /""]",c and    while he showers its so  hilarious  ,sd,FEMALE,1
+"[""{c so } he's quite a animal <laughter>. /""]",c so  hes quite a animal laughter ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['boy,  /']",boy  ,ba,MALE,6
+['i guess.  /'],i guess  ,sv,MALE,3
+"[""{d well } as long as he doesn't  get too aggressive.  i guess with the daughter he's all right. /""]",d well  as long as he doesnt  get too aggressive  i guess with the daughter hes all right ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"[""you wouldn't want him to carry her off or something. /""]",you wouldnt want him to carry her off or something ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } [ we, + we ] did, {f uh, } actually take  him to the pound a couple of times, {d you know } --']",d well   we  we  did f uh  actually take  him to the pound a couple of times d you know  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- because we just couldn't have him being --""]", because we just couldnt have him being ,+,FEMALE,0
+['sure. /'],sure ,b,MALE,2
+"['-- so aggressive towards the girl,  /']", so aggressive towards the girl  ,+,FEMALE,0
+"['{c but, } {f uh, } he seems  to have mellowed out a little bit,  /']",c but  f uh  he seems  to have mellowed out a little bit  ,sd,FEMALE,1
+['{c and } we do keep our daughter away from him.  /'],c and  we do keep our daughter away from him  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['<laughter> were it not for my son, the cat would not be in this house <laughter>. /']",laughter were it not for my son the cat would not be in this house laughter ,sd,FEMALE,1
+['is that the only pet that you have? /'],is that the only pet that you have ,qy,MALE,7
+"['it is,  /']",it is  ,na,FEMALE,21
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+"['[ we, + we ] tried a dog about four years ago,  {c and } we ended up with, {f uh, } {f oh, } malamute and some other kind of mix.  /']", we  we  tried a dog about four years ago  c and  we ended up with f uh  f oh  malamute and some other kind of mix  ,sd,FEMALE,1
+"['anyway [ it was, + it ended ] up being just a [ huge, + huge ] dog that ate us out of house and home.  /']",anyway  it was  it ended  up being just a  huge  huge  dog that ate us out of house and home  ,sd,FEMALE,1
+"['{c so, } we gave him up and tried. /']",c so  we gave him up and tried ,sd,FEMALE,1
+"['{d well, } do you live, [ [ you, + you ] + ] in a house, or a  place where you, {f uh, } -/']",d well  do you live   you  you    in a house or a  place where you f uh  ,qy,MALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+"['uh-huh,  /']",uhhuh  ,ny,FEMALE,9
+"[""we're in a house,  /""]",were in a house  ,sd,FEMALE,1
+"[""{c but } we're in a subdivision --""]",c but  were in a subdivision ,sd,FEMALE,1
+['i see. /'],i see ,bk,MALE,14
+"[""-- where we really can't allow the dog,  /""]", where we really cant allow the dog  ,+,FEMALE,0
+"[""we couldn't allow him to run free,  /""]",we couldnt allow him to run free  ,sd,FEMALE,1
+"['{c so, }  he was just chained up all the time,  /']",c so   he was just chained up all the time  ,sd,FEMALE,1
+"['{c and } [ it was, # +  it was ] # --']",c and   it was    it was   ,sd,FEMALE,1
+['# sure. # /'], sure  ,b,MALE,2
+['-- unfortunate.  /'], unfortunate  ,+,FEMALE,0
+['{d so } have you tried any other pets? /'],d so  have you tried any other pets ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+['no.  /'],no  ,nn,MALE,13
+"['[ i, + i ] live alone in an apartment,  /']", i  i  live alone in an apartment  ,sd,MALE,1
+"[""{c and, }   {f uh, } [ it's, + it's ] not that big that, {f uh } -- -/""]",c and    f uh   its  its  not that big that f uh   ,sd,MALE,1
+['{f oh } <laughter>. /'],f oh  laughter ,b,FEMALE,2
+"[""-- although i've heard rabbits are pretty good -- /""]", although ive heard rabbits are pretty good  ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- {d you know, } i saw something on c n n or on cable here --']", d you know  i saw something on c n n or on cable here ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- a while ago that showed some people that had rabbits in apartments --'], a while ago that showed some people that had rabbits in apartments ,+,MALE,0
+"['{f oh, } my word. /']",f oh  my word ,ba,FEMALE,6
+"['-- and in houses,  /']", and in houses  ,+,MALE,0
+"['{c and } they apparently, {f uh, } - /']",c and  they apparently f uh   ,sd,MALE,1
+"[""especially when they're young when they bring them in -- -/""]",especially when theyre young when they bring them in  ,sd,MALE,1
+"['{f oh, } my word. /']",f oh  my word ,ba,FEMALE,6
+"['-- {f uh, } <laughter>. /']", f uh  laughter ,%,MALE,5
+"['{c and } do [ they, + they ] just paper train it or something? /']",c and  do  they  they  just paper train it or something ,qy,FEMALE,7
+['i guess. /'],i guess ,na,MALE,21
+['<laughter>.'],laughter,x,FEMALE,8
+"['i guess,  /']",i guess  ,na,MALE,21
+"['yeah,  /']",yeah  ,%,MALE,5
+"[""{c and } i would imagine that they don't  have many more than one to start with, either. /""]",c and  i would imagine that they dont  have many more than one to start with either ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['<laughter> {d well, } rabbits are darling.  /']",laughter d well  rabbits are darling  ,sv,FEMALE,3
+['that would be fun if you could get them trained.  /'],that would be fun if you could get them trained  ,sv,FEMALE,3
+"[""otherwise they're pretty smelly <laughter>. /""]",otherwise theyre pretty smelly laughter ,sv,FEMALE,3
+"['yep,  /']",yep  ,aa,MALE,4
+"[""that's right. /""]",thats right ,aa,MALE,4
+['{f oh. } /'],f oh  ,%,FEMALE,5
+"['did you see [ the, + the ] c n n, [ the, + the ] dog show, {f uh, } /']",did you see  the  the  c n n  the  the  dog show f uh  ,qy,MALE,7
+"['huh-uh,  /']",huhuh  ,nn,FEMALE,13
+"[""[ we don't have c, + we don't have cable. ] /""]", we dont have c  we dont have cable  ,sd,FEMALE,1
+['i see.  /'],i see  ,bk,MALE,14
+"['{d well } they have, {f uh, } {f uh, } [ a wesmin-, +  they call it the westminster ] dog show, {f uh, } <child_talking>  /']",d well  they have f uh  f uh   a wesmin   they call it the westminster  dog show f uh  childtalking  ,sd,MALE,1
+"[""i think it's in new york city [ at the, +  at  the ] gardens  /""]",i think its in new york city  at the   at  the  gardens  ,sd,MALE,1
+['there once a year live -- -/'],there once a year live  ,sd,MALE,1
+['{f oh. } /'],f oh  ,%,FEMALE,5
+"['-- {c and } they had that on last week,  /']", c and  they had that on last week  ,sd,MALE,1
+"[""{c and } that's  really # kind of something # --""]",c and  thats  really  kind of something  ,sv,MALE,3
+['# {f oh. } # /'], f oh   ,%,FEMALE,5
+"['-- to watch, {f uh, }  /']", to watch f uh   ,+,MALE,0
+"[""it's on, i think, two or three nights  for maybe an hour or  two -- /""]",its on i think two or three nights  for maybe an hour or  two  ,sd,MALE,1
+['is that right? /'],is that right ,bh,FEMALE,18
+['-- {c and } some of the weirdest animals you ever #  want to see in there. # /'], c and  some of the weirdest animals you ever   want to see in there  ,sv,MALE,3
+['# {f oh } <laughter>. # /'], f oh  laughter  ,%,FEMALE,5
+"['some of them are really beautiful, too. /']",some of them are really beautiful too ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{d so. } -/'],d so  ,%,MALE,5
+"[""<laughter>  {d well, } i'd be, interesting to watch. /""]",laughter  d well  id be interesting to watch ,sd,FEMALE,1
+['{d so } you live in utah do you? /'],d so  you live in utah do you ,qy,MALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+['# elton. # /'], elton  ,sd,FEMALE,1
+['# goodness. # /'], goodness  ,ba,MALE,6
+"[""we live <noise> out here [ by, + it's by ] ogden.  /""]",we live noise out here  by  its by  ogden  ,sd,FEMALE,1
+"[""it's north of salt lake city, utah -- /""]",its north of salt lake city utah  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } we really love it out here.  /'], c and  we really love it out here  ,sd,FEMALE,1
+"[""it's, {f uh, }  kind of country.  /""]",its f uh   kind of country  ,sd,FEMALE,1
+"[""[ we're, + we're ] only about ten minutes from ogden. /""]", were  were  only about ten minutes from ogden ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so, }  we're kind of country # but not too. # /""]",c so   were kind of country  but not too  ,sd,FEMALE,1
+"['# {d well } # do you all work for t i, or for, -/']", d well   do you all work for t i or for ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+['huh-uh.  /'],huhuh  ,nn,FEMALE,13
+['do you? /'],do you ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['# yeah,  /']", yeah  ,ny,MALE,9
+['yeah. # /'],yeah  ,ny,MALE,9
+"[""# {f oh, } # {d well, } see, i'm getting so many calls to texas. /""]", f oh   d well  see im getting so many calls to texas ,sd,FEMALE,1
+"[""this is the very first one [ i've, + i've ] talked to. /""]",this is the very first one  ive  ive  talked to ,sd,MALE,1
+"['{f oh, } {d well, } great.  /']",f oh  d well  great  ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i've been doing it  for about two weeks  /""]",ive been doing it  for about two weeks  ,sd,FEMALE,1
+"['{c and, } {f uh, } [ no my, +']",c and  f uh   no my ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['no my, ] -/']",no my  ,+,FEMALE,0

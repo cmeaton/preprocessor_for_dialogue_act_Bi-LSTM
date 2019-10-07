@@ -1,0 +1,299 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['now.  /'],now  ,%,MALE,5
+"[""i'm sorry, /""]",im sorry ,fa,MALE,42
+['ready to go.  /'],ready to go  ,sd,FEMALE,1
+['okay. /'],okay ,%,FEMALE,5
+"['{e excuse me. }  {c and, } {f uh, } i do that,  /']",e excuse me   c and  f uh  i do that  ,sd,MALE,1
+"['we recycle, {f uh, } newspapers.  /']",we recycle f uh  newspapers  ,sd,MALE,1
+"['we take, {d you know, }  the dallas morning news daily,']",we take d you know   the dallas morning news daily,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['and the plano paper daily  /'],and the plano paper daily  ,+,MALE,0
+"['{c and, } {d you know, }  after a month of that you got a ton,']",c and  d you know   after a month of that you got a ton,sd,MALE,1
+"['{f oh, } /']",f oh  ,b,FEMALE,2
+['of newspapers. /'],of newspapers ,+,MALE,0
+['i know it builds up really fast. /'],i know it builds up really fast ,sd,FEMALE,1
+"['it really does, /']",it really does ,aa,MALE,4
+['yeah. /'],yeah ,b,FEMALE,2
+"['i do recycle,']",i do recycle,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['newspapers and, {f uh, } glass. /']",newspapers and f uh  glass ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""we don't really have enough plastic to mess with,  /""]",we dont really have enough plastic to mess with  ,sd,MALE,1
+"[""[ we don't, + {d you know, } {d like } we don't ] drink milk  /""]", we dont  d you know  d like  we dont  drink milk  ,sd,MALE,1
+"[""{c and } we don't have children  /""]",c and  we dont have children  ,sd,MALE,1
+"[""{c so } we don't have, {d you know, } six thousand plastic milk jugs,""]",c so  we dont have d you know  six thousand plastic milk jugs,sd,MALE,1
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+"['we do, <laughter>. # /']",we do laughter  ,sd,FEMALE,1
+"['# a month, {d you know. } # /']", a month d you know   ,+,MALE,0
+"['with [ two, + a two ] year old and a,']",with  two  a two  year old and a,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['three year old  /'],three year old  ,+,FEMALE,0
+"['{c and, }']",c and ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['{c so } it really builds up with us. /'],c so  it really builds up with us ,+,FEMALE,0
+"['{c but } [ there is, + {d you know } there is ]  a place you can take those also {d you know } at the same place just put them in a different, {f uh, } container. /']",c but   there is  d you know  there is   a place you can take those also d you know  at the same place just put them in a different f uh  container ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, } {f uh, } plano has plans - /']",c and  f uh  plano has plans  ,sd,MALE,1
+"[""i believe it's  tentatively scheduled for sometime in may of this year,  /""]",i believe its  tentatively scheduled for sometime in may of this year  ,sd,MALE,1
+"[""the city is going to leave, {f uh, }  receptacles at people's home. /""]",the city is going to leave f uh   receptacles at peoples home ,sd,MALE,1
+"['# {f oh, } yeah, # /']", f oh  yeah  ,b,FEMALE,2
+"['# {c and } they ca-, # -/']", c and  they ca  ,%,MALE,5
+['that would be much more convenient. /'],that would be much more convenient ,sv,FEMALE,3
+"['it,']",it,aa,MALE,4
+['yeah. /'],yeah ,b,FEMALE,2
+['certainly would  /'],certainly would  ,+,MALE,0
+['{c and } they can separate it  /'],c and  they can separate it  ,sd,MALE,1
+"['{c and then } the, {d you know, } trash guys will pick it up.']",c and then  the d you know  trash guys will pick it up,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['which would really be handy, {d you know, }  for people like shut ins, or,']",which would really be handy d you know   for people like shut ins or,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""people who can't or don't drive, {d you know, } /""]",people who cant or dont drive d you know  ,+,MALE,0
+"['{c or } it just builds up so often, /']",c or  it just builds up so often ,bf,FEMALE,20
+"[""they can't get to the these centers. /""]",they cant get to the these centers ,sd,MALE,1
+['yeah. /'],yeah ,aa,FEMALE,4
+"[""{c and } i'm sure rather than try to, {f uh, }  ask someone to take them for them they probably just pitch them, {d you know? } /""]",c and  im sure rather than try to f uh   ask someone to take them for them they probably just pitch them d you know  ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but } i think that's probably a good idea. /""]",c but  i think thats probably a good idea ,sv,MALE,3
+"['they used to have several places, {f um, }  that were a little ways out in the community that did the paper and all, /']",they used to have several places f um   that were a little ways out in the community that did the paper and all ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"[""# {c and } they # stopped doing it because they said it wasn't profitable./""]", c and  they  stopped doing it because they said it wasnt profitable,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['{c so } finally, {f um, } [ they, + ]  the people put so much pressure on the city, /']",c so  finally f um   they    the people put so much pressure on the city ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['they did a survey of everybody, /']",they did a survey of everybody ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } they took a big huge bin that has paper and plastic, {f um, }']",c and  they took a big huge bin that has paper and plastic f um ,sd,FEMALE,1
+['<noise>.'],noise,x,MALE,8
+"['and put it in front of the wal-mart store in town, /']",and put it in front of the walmart store in town ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } [ [ th-, + they, ] + it ]  just really, - /']",c and    th  they   it   just really  ,sd,FEMALE,1
+"['[ [ e-, + e-, ] + every ]  time you went by there it was just over flowing,/']",  e  e   every   time you went by there it was just over flowing,sd,FEMALE,1
+"[""# that's right. # /""]", thats right  ,aa,MALE,4
+"['# {c and so } wal-mart # complained <laughter>, /']", c and so  walmart  complained laughter ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['yes. /'],yes ,b,MALE,2
+['{c so } they moved it behind the store  /'],c so  they moved it behind the store  ,sd,FEMALE,1
+"['{c and }  nobody knew where it was, /']",c and   nobody knew where it was ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c and so } people kept piling stuff in the same place,']",c and so  people kept piling stuff in the same place,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['where it used to be. /'],where it used to be ,+,FEMALE,0
+['great <laughter>. /'],great laughter ,ba,MALE,6
+"['{f oh, } it was just like a dump there, /']",f oh  it was just like a dump there ,sd,FEMALE,1
+['i # bet it was. # /'],i  bet it was  ,ba,MALE,6
+"['# {c and so } finally, # {d you know, }  i called  /']", c and so  finally  d you know   i called  ,sd,FEMALE,1
+"['{c and } [ the-, + they ] said, {d you know, } it was behind there  /']",c and   the  they  said d you know  it was behind there  ,sd,FEMALE,1
+['{c and } i started taking my things behind there. /'],c and  i started taking my things behind there ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so } we do that [ with, + ]  because we have milk cartons, {d you know, } constantly,']",c so  we do that  with    because we have milk cartons d you know  constantly,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['with two little kids,']",with two little kids,+,FEMALE,0
+['sure. /'],sure ,b,MALE,2
+"['and the paper,  /']",and the paper  ,+,FEMALE,0
+"['{c but } it just builds up, /']",c but  it just builds up ,sd,FEMALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# it would be # so nice if they had it,  {d you know } at your home,']", it would be  so nice if they had it  d you know  at your home,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['where you could just turn it in so [ they, + they ]  final had enough of a response that they decided to try a small target area <lipsmack>,']",where you could just turn it in so  they  they   final had enough of a response that they decided to try a small target area lipsmack,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['in one neighborhood, /']",in one neighborhood ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"['{c and } they have pickup there,  /']",c and  they have pickup there  ,sd,FEMALE,1
+"[""it's,  {f uh, } i think once or twice a week. /""]",its  f uh  i think once or twice a week ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c and } the first couple weeks they did it nobody got their stuff out  /'],c and  the first couple weeks they did it nobody got their stuff out  ,sd,FEMALE,1
+"['{c so } they had not much participation,  /']",c so  they had not much participation  ,sd,FEMALE,1
+"['{c and } they were going to cancel it, /']",c and  they were going to cancel it ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c but } then finally people started getting the message. /'],c but  then finally people started getting the message ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""it's just a matter of education, i think. /""]",its just a matter of education i think ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{c and } i think that, {d you know, } if they can get enough going,']",c and  i think that d you know  if they can get enough going,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""they'll continue it, {d you know, } throughout the rest of  the city  /""]",theyll continue it d you know  throughout the rest of  the city  ,+,FEMALE,0
+"[""{c but } it's not, - /""]",c but  its not  ,%,FEMALE,5
+"['i think originally people thought it would be profitable for cities to do this, /']",i think originally people thought it would be profitable for cities to do this ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } it's not going to be, /""]",c and  its not going to be ,sv,FEMALE,3
+"['yeah, /']",yeah ,b,MALE,2
+"[""i don't think <laughter>. /""]",i dont think laughter ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's right. /""]",thats right ,aa,MALE,4
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i think basically it's a good idea, {d you know, }  /""]",i think basically its a good idea d you know   ,sv,MALE,3
+['i hope it works. /'],i hope it works ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""i do to because it's amazing, how much, {d you know, } trash,""]",i do to because its amazing how much d you know  trash,sv,FEMALE,3
+['# absolutely. # /'], absolutely  ,aa,MALE,4
+"['# we can generate, # /']", we can generate  ,+,FEMALE,0
+['absolutely. /'],absolutely ,aa,MALE,4
+['i know this year we took our christmas tree - /'],i know this year we took our christmas tree  ,sd,FEMALE,1
+"['they had a place,']",they had a place,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['in the park where you could go have your tree shredded  /'],in the park where you could go have your tree shredded  ,+,FEMALE,0
+"['{c and } they gave you a little, {f um, } seedling to plant,']",c and  they gave you a little f um  seedling to plant,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know } <laughter>, /']",d you know  laughter ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+"['you could take [ the, + the ]  mulch home with you, {d you know, } and take buckets of that home, /']",you could take  the  the   mulch home with you d you know  and take buckets of that home ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so } that was really good idea, /']",c so  that was really good idea ,sv,FEMALE,3
+['sure. /'],sure ,b,MALE,2
+['i thought. /'],i thought ,sd,FEMALE,1
+['absolutely.  /'],absolutely  ,aa,MALE,4
+"[""{c and } there's just, {d you know, }  the two of us my wife and i  /""]",c and  theres just d you know   the two of us my wife and i  ,sd,MALE,1
+"[""{c and } it's amazing how much stuff [ j-, + just ]  the two of us generate, /""]",c and  its amazing how much stuff  j  just   the two of us generate ,sd,MALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+['<noise>.'],noise,x,FEMALE,8
+"['{d you know, } i can imagine a family of, {d you know, }  four or five. /']",d you know  i can imagine a family of d you know   four or five ,sd,MALE,1
+"['{f oh, } yeah  /']",f oh  yeah  ,aa,FEMALE,4
+"[""it's really, - /""]",its really  ,%,FEMALE,5
+['it adds up so fast. /'],it adds up so fast ,sv,FEMALE,3
+['it really does. /'],it really does ,aa,MALE,4
+['yeah. /'],yeah ,b,FEMALE,2
+"[""as far as new stuff to recycle, {d you know, }  [ i don't really, + i don't really ] know,  /""]",as far as new stuff to recycle d you know    i dont really  i dont really  know  ,sd,MALE,1
+"[""i really hadn't thought about it to tell you the truth. /""]",i really hadnt thought about it to tell you the truth ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{d well, } <lipsmack> they're working on diapers,""]",d well  lipsmack theyre working on diapers,sd,FEMALE,1
+"[""that's right,  /""]",thats right  ,aa,MALE,4
+"['i was, -/']",i was ,%,MALE,5
+"['which would be great, /']",which would be great ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i've read so many different things about  diapers  /""]",ive read so many different things about  diapers  ,sd,FEMALE,1
+"['{c and } now their saying that [ e-, + ]  originally they thought the disposables were just awful, /']",c and  now their saying that  e    originally they thought the disposables were just awful ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but } now their saying that they're, [ ther-, + ] really not that much in comparison to the others because you don't have to use the  water to wash them,""]",c but  now their saying that theyre  ther   really not that much in comparison to the others because you dont have to use the  water to wash them,sd,FEMALE,1
+"[""that's right. /""]",thats right ,aa,MALE,4
+"['and, {d you know, } all different kinds of things too,  /']",and d you know  all different kinds of things too  ,+,FEMALE,0
+"['{c so } <lipsmack> [ th-, + the ] diaper service,  trucks - /']",c so  lipsmack  th  the  diaper service  trucks  ,sd,FEMALE,1
+"['apparently the fuel that they use and the fumes that they produce to deliver,']",apparently the fuel that they use and the fumes that they produce to deliver,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['and drop those off <laughter>. /'],and drop those off laughter ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""{c so } i don't know what's the, {d you know, }  right thing to do  /""]",c so  i dont know whats the d you know   right thing to do  ,sd,FEMALE,1
+['{c but } i really would hope that they would come up.  /'],c but  i really would hope that they would come up  ,sd,FEMALE,1
+"['i know there was a brand just briefly on the market that was recyclable <noise>, /']",i know there was a brand just briefly on the market that was recyclable noise ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but } the landfill have to do something  special, {d you know, } for those, /']",c but  the landfill have to do something  special d you know  for those ,sd,FEMALE,1
+['i see. /'],i see ,b,MALE,2
+"['{c but } that just generates a tremendous of #  volume <noise> of trash too,  /']",c but  that just generates a tremendous of   volume noise of trash too  ,sd,FEMALE,1
+"['{c so, } # -/']",c so   ,%,FEMALE,5
+"[""# {f oh, } i'm sure it must. #  /""]", f oh  im sure it must   ,aa,MALE,4
+"['yes,  /']",yes  ,%,MALE,5
+"[""{d you know }  i'm not personally involved because [ i don't, + {d you know, } i don't ]  have any [ s-, + ] children that wear diapers, /""]",d you know   im not personally involved because  i dont  d you know  i dont   have any  s   children that wear diapers ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but } i'm sure it creates a large amount of, {d you know, }""]",c but  im sure it creates a large amount of d you know ,sd,MALE,1
+"['# it does, # /']", it does  ,aa,FEMALE,4
+"['# {f uh, } refuse. # /']", f uh  refuse  ,+,MALE,0
+"[""{c and } you just feel guilty if you don't <laughter> do,""]",c and  you just feel guilty if you dont laughter do,sv,FEMALE,3
+"[""that's right . /""]",thats right  ,aa,MALE,4
+"['something with them, {d you know, } /']",something with them d you know  ,+,FEMALE,0
+"[""that's right. /""]",thats right ,aa,MALE,4
+"['because you hate to contribute to the problem, /']",because you hate to contribute to the problem ,sv,FEMALE,3
+['absolutely. /'],absolutely ,aa,MALE,4
+"[""{c but } on the on the other hand the alternatives aren't to great either <laughter>. /""]",c but  on the on the other hand the alternatives arent to great either laughter ,sv,FEMALE,3
+"[""that's right,  /""]",thats right  ,aa,MALE,4
+"['absolutely, /']",absolutely ,aa,MALE,4
+['<laughter>.'],laughter,x,FEMALE,8
+['absolutely. /'],absolutely ,aa,MALE,4
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i don't know what else they could recycle more of./""]",i dont know what else they could recycle more of,sd,FEMALE,1
+"[""i guess we don't really use that many tin cans.  /""]",i guess we dont really use that many tin cans  ,sd,FEMALE,1
+"[""i guess there's some  places where you can recycle aluminum  /""]",i guess theres some  places where you can recycle aluminum  ,sd,FEMALE,1
+"[""{c but } i don't know about  {d like } cans that you keep vegetables and stuff,""]",c but  i dont know about  d like  cans that you keep vegetables and stuff,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['in,  /']",in  ,+,FEMALE,0
+"[""i don't know if those are recyclable  /""]",i dont know if those are recyclable  ,sd,FEMALE,1
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"[""i think they're made out of aluminum, /""]",i think theyre made out of aluminum ,sd,MALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+['yes.  /'],yes  ,aa,MALE,4
+"['[ there are, + there is ]  a receptacle, {d you know, } at the centers also for aluminum, /']", there are  there is   a receptacle d you know  at the centers also for aluminum ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c but } again [ we don't, + we don't ]  generate that much  /""]",c but  again  we dont  we dont   generate that much  ,sd,MALE,1
+"['{c so, } -/']",c so  ,%,MALE,5
+"['yeah, /']",yeah ,b,FEMALE,2
+"[""we don't, /""]",we dont ,sd,MALE,1
+"[""we don't either, /""]",we dont either ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['we usually use frozen vegetables and things  /'],we usually use frozen vegetables and things  ,sd,FEMALE,1
+"[""{c so } we don't really have,""]",c so  we dont really have,sd,FEMALE,1
+"[""that's right. /""]",thats right ,aa,MALE,4
+['much of that. /'],much of that ,+,FEMALE,0
+"['that, - /']",that  ,b^m,MALE,24
+"['ninety-nine percent of ours is newspaper   {c and, } {f uh, } {d you know, } {f uh, } glass. /']",ninetynine percent of ours is newspaper   c and  f uh  d you know  f uh  glass ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } now when we lived out in california they actually had places where you could recycle if you change the oil in your car,']",d well  now when we lived out in california they actually had places where you could recycle if you change the oil in your car,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['or for aerosol cans and things,']",or for aerosol cans and things,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""like that because they say it's not safe to put those things,""]",like that because they say its not safe to put those things,+,FEMALE,0
+"[""that's right. /""]",thats right ,aa,MALE,4
+['in the regular trash <noise>. /'],in the regular trash noise ,+,FEMALE,0
+['car batteries. /'],car batteries ,sd,MALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+['<noise>.'],noise,x,FEMALE,8
+['uh-huh. /'],uhhuh ,b,MALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"[""[ i don't, + {d you know } i don't ] change my own oil, /""]", i dont  d you know  i dont  change my own oil ,sd,MALE,1
+['<noise>.'],noise,x,FEMALE,8
+"[""{c so } [ i don't, + i don't, ] {f uh, }   don't have that problem. /""]",c so   i dont  i dont  f uh    dont have that problem ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{d well } other than that i'm not really sure, /""]",d well  other than that im not really sure ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['[ we, + we ] try to recycle old clothes <laughter>. /']", we  we  try to recycle old clothes laughter ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+['{d well } we do to as a matter of fact. /   *[[typo too]]'],d well  we do to as a matter of fact    typo too,sd,MALE,1
+"['our church has a # place, #']",our church has a  place ,sd,FEMALE,1
+['# right. # /'], right  ,b,MALE,2
+['where you can take them  /'],where you can take them  ,+,FEMALE,0
+"['{c and } they, {d you know, }  pass them on to,']",c and  they d you know   pass them on to,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['other families,  /']",other families  ,+,FEMALE,0
+['{c so. } -/'],c so  ,%,FEMALE,5
+['yes  /'],yes  ,b,MALE,2
+['we have one of those in town.  /'],we have one of those in town  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, } our church each year has a, - /']",d you know  our church each year has a  ,sd,MALE,1
+"['one of their major fund raisers is, {d you know, } a garage sale. /']",one of their major fund raisers is d you know  a garage sale ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""{c and } there's a ton of clothes always,  {d you know } left over  /""]",c and  theres a ton of clothes always  d you know  left over  ,sd,MALE,1
+"['{c and } i take those down to the, - /']",c and  i take those down to the  ,sd,MALE,1
+"[""<lipsmack> {f uh, } it's called the clothes closet, /""]",lipsmack f uh  its called the clothes closet ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""that's what it's called here in plano. /""]",thats what its called here in plano ,sd,MALE,1
+['right. /'],right ,aa,MALE,4
+['uh-huh. /'],uhhuh ,aa,MALE,4
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } they distribute them to the people,']",c and  they distribute them to the people,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['that need them. /'],that need them ,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+['yeah  /'],yeah  ,b,FEMALE,2
+"[""[ that's, + that's ] real helpful,""]", thats  thats  real helpful,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['too. /'],too ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""{d well, } i'm not sure i can't really think of anything else that we could recycle. /""]",d well  im not sure i cant really think of anything else that we could recycle ,sd,FEMALE,1
+"['no,  /']",no  ,aa,MALE,4
+"[""i can't either <breathing>, /""]",i cant either breathing ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i really can't,  /""]",i really cant  ,sd,MALE,1
+"['{f um, } no,  /']",f um  no  ,%,MALE,5
+"[""[ i, + i ]  really can't either. /""]", i  i   really cant either ,sd,MALE,1
+['okay. /'],okay ,b,FEMALE,2
+"['okay,  /']",okay  ,b,MALE,2
+"['{d well, } it was nice talking to you. /']",d well  it was nice talking to you ,fc,MALE,10
+['you to.  /'],you to  ,fc,FEMALE,10
+"['take,']",take,fc,FEMALE,10
+['okay. /'],okay ,fc,MALE,10
+['care. /'],care ,+,FEMALE,0
+['all right.  /'],all right  ,fc,MALE,10
+['# bye-bye. # /'], byebye  ,fc,MALE,10
+['# bye-bye. # <noise> <<phone receiver>> <noise> <<water running>>. /'], byebye  noise phone receiver noise water running ,fc,FEMALE,10

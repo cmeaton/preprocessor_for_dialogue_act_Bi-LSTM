@@ -1,0 +1,156 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{c so, } what kind of a house do you live in? /']",c so  what kind of a house do you live in ,qw,FEMALE,12
+"[""i'm [ in a, + {f uh, } in a ] ranch.  /""]",im  in a  f uh  in a  ranch  ,sd,MALE,1
+"['a, {f uh, } - /']",a f uh   ,%,MALE,5
+"['it was about, {f uh, } sixteen hundred square feet when i bought it,  /']",it was about f uh  sixteen hundred square feet when i bought it  ,sd,MALE,1
+"[""{c and, } {f uh, } it's about two thousand square feet now,  /""]",c and  f uh  its about two thousand square feet now  ,sd,MALE,1
+"[""{c but } it's one of those typical, <breathing> {f uh, } ranches that you find around here.  /""]",c but  its one of those typical breathing f uh  ranches that you find around here  ,sd,MALE,1
+"[""{f oh, } it's, {f uh, } [ built in the, + probably built in the ]  late fifties  /""]",f oh  its f uh   built in the  probably built in the   late fifties  ,sd,MALE,1
+"[""{c so } it's not, {f um, } what you would find, {f uh, } where you live.  /""]",c so  its not f um  what you would find f uh  where you live  ,sd,MALE,1
+"[""{c but, } {f uh, }  for the older, {f uh, } ranch homes it's pretty typical i guess. /""]",c but  f uh   for the older f uh  ranch homes its pretty typical i guess ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{d well, } our home is, {f uh, }  [ probably, + for our area it's probably ] one of the lower income homes out here.  /""]",d well  our home is f uh    probably  for our area its probably  one of the lower income homes out here  ,sd,FEMALE,1
+"[""<laughter>  {f uh, } most of [ the, + the ] homes that they're building, - /""]",laughter  f uh  most of  the  the  homes that theyre building  ,sd,FEMALE,1
+"[""{d well, } i shouldn't say all of them,  /""]",d well  i shouldnt say all of them  ,h,FEMALE,15
+['{c but }  most of them now are up in the millions of dollars. /'],c but   most of them now are up in the millions of dollars ,sd,FEMALE,1
+['really? /'],really ,bh,MALE,18
+"['{f oh } yeah,  /']",f oh  yeah  ,ny,FEMALE,9
+"[""there's, -/""]",theres ,%,FEMALE,5
+['how many square feet do you have? /'],how many square feet do you have ,qw,MALE,12
+"[""we have got about, {f uh, } [ twenty, + i'd say about twenty-four ] hundred. /""]",we have got about f uh   twenty  id say about twentyfour  hundred ,sd,FEMALE,1
+['four bedrooms? /'],four bedrooms ,qy,MALE,7
+"[""{f uh, } we've got five bedrooms,""]",f uh  weve got five bedrooms,sd,FEMALE,1
+['five bedrooms. /'],five bedrooms ,b^m,MALE,24
+['because we built onto our garage. /'],because we built onto our garage ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ a, + a ] bedroom for my mother,  /']", a  a  bedroom for my mother  ,sd,FEMALE,1
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,FEMALE,5
+"['[ [ i made a, + i made a   fourth bedroom out of, {f uh, } ] + [ a + ] made a fourth bedroom ] [ out of  one of our, + out of our ] living room and  then added [ a, + ] {f uh, } what we call a sunroom --']",  i made a  i made a   fourth bedroom out of f uh     a   made a fourth bedroom   out of  one of our  out of our  living room and  then added  a   f uh  what we call a sunroom ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- to get the, {d you know, } - /']", to get the d you know   ,+,MALE,0
+"['[ when, + when ] we added four hundred square feet to our house -- -/']", when  when  we added four hundred square feet to our house  ,sd,MALE,1
+"[""{f oh, } that's great. /""]",f oh  thats great ,ba,FEMALE,6
+"['-- so that, -/']", so that ,%,MALE,5
+"['{d well, } [ this, + this ] house is very comfortable.  /']",d well   this  this  house is very comfortable  ,sd,FEMALE,1
+"[""we've got two living areas  /""]",weve got two living areas  ,sd,FEMALE,1
+"[""{c and } [ that, + that's ] the thing  i probably like the most about it. /""]",c and   that  thats  the thing  i probably like the most about it ,sd,FEMALE,1
+['how many stories?  /'],how many stories  ,qw,MALE,12
+['just one? /'],just one ,qy,MALE,7
+"[""it's just one story.  /""]",its just one story  ,sd,FEMALE,1
+['yeah.  /'],yeah  ,ny,FEMALE,9
+"[""it's a fox and jacobs home. /""]",its a fox and jacobs home ,sd,FEMALE,1
+['how are they built? /'],how are they built ,qw,MALE,12
+"[""{f um, } we've been real happy with it. /""]",f um  weve been real happy with it ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,MALE,2
+"[""i've heard that,  /""]",ive heard that  ,sd,MALE,1
+"[""i've heard the construction is pretty good on fox and jacobs. /""]",ive heard the construction is pretty good on fox and jacobs ,sd,MALE,1
+"[""of course, i'm not a carpenter or anything like that.  /""]",of course im not a carpenter or anything like that  ,h,FEMALE,15
+"['they could probably come in and say, {d gee, } this is not  straight  /']",they could probably come in and say d gee  this is not  straight  ,sd,FEMALE,1
+['{c and } this is under something  /'],c and  this is under something  ,^q,FEMALE,19
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""{c but } {e i mean } it doesn't give you trouble? /""]",c but  e i mean  it doesnt give you trouble ,qy^d,MALE,16
+['no. /'],no ,nn,FEMALE,13
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['no,  /']",no  ,nn,FEMALE,13
+"[""we haven't had a lot of problems with it at all. /""]",we havent had a lot of problems with it at all ,sd,FEMALE,1
+['no cracked slab or anything like that? /'],no cracked slab or anything like that ,qy^d,MALE,16
+['no. /'],no ,nn,FEMALE,13
+['<<very faint>>  all right. /'],very faint  all right ,bk,MALE,14
+"[""we've been real lucky.  /""]",weve been real lucky  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['{c and } is it, {f um, } a natural gas and, -/']",c and  is it f um  a natural gas and ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['you know what i miss though?  /'],you know what i miss though  ,qh,MALE,26
+['basements. /'],basements ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,ba,FEMALE,6
+"['[ i sur-, + i sure ]  wish they could build basements in homes in texas. /']", i sur  i sure   wish they could build basements in homes in texas ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""[ i, + i've ] heard a lot of people say that.  /""]", i  ive  heard a lot of people say that  ,sd,FEMALE,1
+"[""that's for sure.  /""]",thats for sure  ,ba,FEMALE,6
+"[""{f uh, } we have an attic that we've  just put, {d you know, } plywood [ ove-, + over ] the beams and things up in  the attic  /""]",f uh  we have an attic that weve  just put d you know  plywood  ove  over  the beams and things up in  the attic  ,sd,FEMALE,1
+"['{c and so } that,']",c and so  that,sd,FEMALE,1
+"['{c so } you, -/']",c so  you ,%,MALE,5
+['has replaced it to some extent  /'],has replaced it to some extent  ,+,FEMALE,0
+"['{c but } certainly not, -/']",c but  certainly not ,sd,FEMALE,1
+['can you stand up in it? /'],can you stand up in it ,qy,MALE,7
+"['{f uh, } in parts.  /']",f uh  in parts  ,na,FEMALE,21
+"[""{e i mean }  [ you couldn't, + you really couldn't ] use it for a room. /""]",e i mean    you couldnt  you really couldnt  use it for a room ,sd,FEMALE,1
+['{c so } you have a probably a more pitched roof than is typical around here. /'],c so  you have a probably a more pitched roof than is typical around here ,qy^d,MALE,16
+['yes. /'],yes ,ny,FEMALE,9
+"['th-, - /']",th  ,%,MALE,5
+"[""ours is pitched so shallow that you, {f uh, }  don't get much room in the attic. /""]",ours is pitched so shallow that you f uh   dont get much room in the attic ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""[ we, + {f uh, } we've ]  got, {d you know, } - /""]", we  f uh  weve   got d you know   ,sd,FEMALE,1
+"[""i'll store all our christmas stuff and whatever else junk up there. /""]",ill store all our christmas stuff and whatever else junk up there ,sd,FEMALE,1
+"['{d so, } five bedrooms and [ two living, + two family t-, ] -/']",d so  five bedrooms and  two living  two family t  ,bf,MALE,20
+['two living areas.  /'],two living areas  ,b^m,FEMALE,24
+"['we have a living room and dining room at the front of the house, /']",we have a living room and dining room at the front of the house ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and then } we have [  a, + ] the, {f uh, }  family room, kitchen, and  playroom --']",c and then  we have   a   the f uh   family room kitchen and  playroom ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- at the rear of the house which has been really nice.  /'], at the rear of the house which has been really nice  ,+,FEMALE,0
+"['in fact, i really enjoy the playroom [ that, + ]  /']",in fact i really enjoy the playroom  that    ,sd,FEMALE,1
+"['[ y-, + you ]  would think that would not be a real bonus, {d you know, } to a house, /']", y  you   would think that would not be a real bonus d you know  to a house ,sd,FEMALE,1
+"[""{c but } of all the rooms in the house i'd say [ that was, + that was ]  the one that's been really nice to have <laughter>. /""]",c but  of all the rooms in the house id say  that was  that was   the one thats been really nice to have laughter ,sd,FEMALE,1
+"[""isn't it funny how families end up living in one room in the house most of the time. /""]",isnt it funny how families end up living in one room in the house most of the time ,qh,MALE,26
+"[""i think that's true. /""]",i think thats true ,aa,FEMALE,4
+"['<laughter>  you c-, -/']",laughter  you c ,%,MALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['probably our family room is [ the, + the ]  biggest.  {f uh, } /']",probably our family room is  the  the   biggest  f uh  ,sd,FEMALE,1
+['right.  /'],right  ,b,MALE,2
+"['some people, {e i mean, } - /']",some people e i mean   ,%,MALE,5
+"['families seem to migrate towards [ one, + one ] room and carry on most of their activities  there,  /']",families seem to migrate towards  one  one  room and carry on most of their activities  there  ,sv,MALE,3
+"['{c and, } {f uh, } {f uh, } [ some rooms, + ] we have one room that we never use. /']",c and  f uh  f uh   some rooms   we have one room that we never use ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['{e i mean } might as well not even heat and cool it. /'],e i mean  might as well not even heat and cool it ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['strange. /'],strange ,sv,MALE,3
+"[""{d well, } that's kind of the way our living  room and dining room is, /""]",d well  thats kind of the way our living  room and dining room is ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but } it is nice to have it because [ there's, + ] {f uh, }  with our size of family it's nice to know that there's one that's always straight and clean if you have <laughter> someone come --""]",c but  it is nice to have it because  theres   f uh   with our size of family its nice to know that theres one thats always straight and clean if you have laughter someone come ,sd,FEMALE,1
+"['right,  /']",right  ,b,MALE,2
+['right. /'],right ,b,MALE,2
+['-- just on the spur of the moment. /'], just on the spur of the moment ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d so } <lipsmack>, -/']",d so  lipsmack ,%,FEMALE,5
+"[""{c so } you've been fairly happy with it.  /""]",c so  youve been fairly happy with it  ,bf,MALE,20
+['how long have you been in it? /'],how long have you been in it ,qw,MALE,12
+['seventeen years. /'],seventeen years ,sd,FEMALE,1
+['wow.  /'],wow  ,ba,MALE,6
+"[""{d boy, } it doesn't seem that long  /""]",d boy  it doesnt seem that long  ,sd,MALE,1
+"['{c but } it is because we, {f uh, } came to this area about the same time <laughter>. /']",c but  it is because we f uh  came to this area about the same time laughter ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""we've been [ fifteen, + fifteen ]  years [ in the, + in the ] house that we're living in. /""]",weve been  fifteen  fifteen   years  in the  in the  house that were living in ,sd,MALE,1
+"['{f oh, } wow. /']",f oh  wow ,ba,FEMALE,6
+"[""{c and } [ we, + ] [ the, + the ]  principal feature i like about ours is that it's pier and beam. /""]",c and   we    the  the   principal feature i like about ours is that its pier and beam ,sd,MALE,1
+"['{f oh, } uh-huh. /']",f oh  uhhuh ,b,FEMALE,2
+['yours is a slab i assume. /'],yours is a slab i assume ,qy^d,MALE,16
+"['yes,  /']",yes  ,ny,FEMALE,9
+['it is. /'],it is ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['ours is a pier and beam which has allowed me to go under it and do a whole lot of different things that i could not have done if it was slab. /'],ours is a pier and beam which has allowed me to go under it and do a whole lot of different things that i could not have done if it was slab ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""i've done a lot of electrical and plumbing and other work [  that, + ] <throat_clearing> by myself and saved a lot of money that i couldn't have done if the house was on a slab. /""]",ive done a lot of electrical and plumbing and other work   that   throatclearing by myself and saved a lot of money that i couldnt have done if the house was on a slab ,sd,MALE,1
+"[""{d well, } that's interesting. /""]",d well  thats interesting ,ba,FEMALE,6
+"[""{c but } that's because it's so old. /""]",c but  thats because its so old ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""it's thirty-five, thirty-six years old when they used to build like that,  /""]",its thirtyfive thirtysix years old when they used to build like that  ,sd,MALE,1
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,MALE,5
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{d well, } my husband wouldn't do that  anyway.  <laughter>  /""]",d well  my husband wouldnt do that  anyway  laughter  ,sd,FEMALE,1
+"[""[ that's his, +  that's his, ] -/""]", thats his   thats his  ,%,FEMALE,5
+"['i know,  /']",i know  ,aa,MALE,4
+"[""he's not a handy,  /""]",hes not a handy  ,sd,MALE,1
+['right?  <laughter>. /'],right  laughter ,^g,MALE,40
+['worst thing in <laughter> life is to have to repair something. /'],worst thing in laughter life is to have to repair something ,sd,FEMALE,1
+"['i, on the other hand, [ se-, + ]']",i on the other hand  se  ,sd,MALE,1
+"['{d so, } -/']",d so  ,%,FEMALE,5
+"['{f uh, } do a lot too much of it  /']",f uh  do a lot too much of it  ,+,MALE,0
+"[""{c and, } {f uh, } i've  gotten good at it which [ in a, + in a ] way is bad because then [ you, + {f uh, } you ]  start to take pleasure in it <laughter>. /""]",c and  f uh  ive  gotten good at it which  in a  in a  way is bad because then  you  f uh  you   start to take pleasure in it laughter ,sd,MALE,1
+"[""{d well, } {f uh, } that's great.  /""]",d well  f uh  thats great  ,ba,FEMALE,6
+"['we just kind of  save everything [ for when  (( al )) , + {f uh, } [ for, + for ] when his dad ]  comes to visit  /']",we just kind of  save everything  for when   al    f uh   for  for  when his dad   comes to visit  ,sd,FEMALE,1
+"['{c and then } he does all the repairing, {d you know, }  /']",c and then  he does all the repairing d you know   ,sd,FEMALE,1
+"['he does <laughter>, -/']",he does laughter ,sd,FEMALE,1
+['right.  /'],right  ,b,MALE,2
+"['my dad is actually, {f uh, } -/']",my dad is actually f uh  ,sd,MALE,1

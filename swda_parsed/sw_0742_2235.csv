@@ -1,0 +1,248 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay. /'],okay ,"fo_o_fw_""_by_bc",FEMALE,0
+['hi. /'],hi ,fp,MALE,32
+['# hi. # /'], hi  ,fp,FEMALE,32
+['# okay. #  /'], okay   ,b,MALE,2
+['you want to start? /'],you want to start ,qy,MALE,7
+"['{f um, } yeah.  /']",f um  yeah  ,ny,FEMALE,9
+['sure.  /'],sure  ,na,FEMALE,21
+"['{f um, } [ i think, + i think ]  we should have a balanced budget even if it means that services are dramatically cut back.  /']",f um   i think  i think   we should have a balanced budget even if it means that services are dramatically cut back  ,sv,FEMALE,3
+"[""if you can't pay for it, you shouldn't have it.  /""]",if you cant pay for it you shouldnt have it  ,sv,FEMALE,3
+['period.  #  /'],period    ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{c and, } # -/']",c and   ,%,FEMALE,5
+['# that is # very true. -/'], that is  very true ,aa,MALE,4
+"[""that's just. -/""]",thats just ,%,FEMALE,5
+"['however, our whole economy is based on loans. /']",however our whole economy is based on loans ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } {f uh, } {c but, } bet right this moment,  you probably have several loans out  /']",f uh  f uh  c but  bet right this moment  you probably have several loans out  ,sv,MALE,3
+['{c or }  you have borrowed money against your credit card or something -- /'],c or   you have borrowed money against your credit card or something  ,sv,MALE,3
+"['{d well, } -/']",d well  ,%,FEMALE,5
+['-- master charge. /'], master charge ,sd,MALE,1
+"[""<laughter> i don't have a master charge,  /""]",laughter i dont have a master charge  ,ar,FEMALE,28
+['thank you <laughter>. /'],thank you laughter ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{c but, } {d see } our whole system is built on owing --']",c but  d see  our whole system is built on owing ,sv,MALE,3
+['right. /'],right ,aa,FEMALE,4
+['-- not borrowing. /'], not borrowing ,+,MALE,0
+"[""{c but, } that's the problem, {d see. }  /""]",c but  thats the problem d see   ,sv,FEMALE,3
+"[""our system shouldn't be based on owing and borrowing and all that. /""]",our system shouldnt be based on owing and borrowing and all that ,sv,FEMALE,3
+"['{f uh, } true.  /']",f uh  true  ,aa,MALE,4
+"[""{c but, } {f uh, } {f uh, } without it,  people wouldn't be able to own automobiles  /""]",c but  f uh  f uh  without it  people wouldnt be able to own automobiles  ,sv,MALE,3
+"[""{c or } they wouldn't be able to own a house. /""]",c or  they wouldnt be able to own a house ,sv,MALE,3
+"['yes,  /']",yes  ,ar,FEMALE,28
+['they would.  /'],they would  ,ar,FEMALE,28
+"[""they just wouldn't be able to own the kind of automobiles that they think they deserve to own.  or the kind of homes that  we think we deserve to own.  /""]",they just wouldnt be able to own the kind of automobiles that they think they deserve to own  or the kind of homes that  we think we deserve to own  ,sv,FEMALE,3
+"['we might have to, {d you know, }  just be able to, - /']",we might have to d you know   just be able to  ,sv,FEMALE,3
+"['i think,  if [ we, + ] a generation went without debt, then the next generation, - /']",i think  if  we   a generation went without debt then the next generation  ,sv,FEMALE,3
+"['{d like, } [ if, + if ] [ our, + our ] generation, - /']",d like   if  if   our  our  generation  ,sv,FEMALE,3
+"[""my husband and i, we're twenty-eight,  [ if we lived our lives and didn't become, {d you know, } indebted, like {d you know, }  our generation before us, [ that, + ] {f um, } the budget would balance. and that we became accustomed to living with what we could afford, which we wouldn't be destitute,  /""]",my husband and i were twentyeight   if we lived our lives and didnt become d you know  indebted like d you know   our generation before us  that   f um  the budget would balance and that we became accustomed to living with what we could afford which we wouldnt be destitute  ,sd,FEMALE,1
+"[""{e i mean, } we wouldn't be living on the street, by any means.  /""]",e i mean  we wouldnt be living on the street by any means  ,sd,FEMALE,1
+"['{c but }  just compared to how spoiled we are, we would be in our own minds, /']",c but   just compared to how spoiled we are we would be in our own minds ,sd,FEMALE,1
+"['{c but }  i feel like the generation after us would, - /']",c but   i feel like the generation after us would  ,sd,FEMALE,1
+"['{f oh, } {d man, } it would be so good.  /']",f oh  d man  it would be so good  ,sv,FEMALE,3
+['it would be so much better.  /'],it would be so much better  ,sv,FEMALE,3
+"[""it wouldn't be perfect,  /""]",it wouldnt be perfect  ,sv,FEMALE,3
+"['{c but } then, they could learn to live  with what they could afford to save to buy.  /']",c but  then they could learn to live  with what they could afford to save to buy  ,sv,FEMALE,3
+"['{c and } if you want a nicer car than that, {d well, } you save a little longer. /']",c and  if you want a nicer car than that d well  you save a little longer ,sv,FEMALE,3
+"['{d well, } now [ i agree, + {f uh } --']",d well  now  i agree  f uh  ,aa,MALE,4
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- i agree ] with you one hundred percent.  /'], i agree  with you one hundred percent  ,+,MALE,0
+"[""i'm just taking the other side so  we'll have a discussion here. /""]",im just taking the other side so  well have a discussion here ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f uh, } {c but } i still go to right back to  what i said.  /']",f uh  c but  i still go to right back to  what i said  ,sd,MALE,1
+['when is the time you had fifteen thousand dollars all at one time to go out and buy an automobile? /'],when is the time you had fifteen thousand dollars all at one time to go out and buy an automobile ,qw,MALE,12
+"['{c but, } {d see, } we made poor choices in college.  /']",c but  d see  we made poor choices in college  ,sd,FEMALE,1
+"['we took out two, - /']",we took out two  ,sd,FEMALE,1
+"['both of us had twenty thousand dollars in loans,  for student loans  -- /']",both of us had twenty thousand dollars in loans  for student loans   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } i look back on that,  /']", c and  i look back on that  ,sd,FEMALE,1
+['{c and } i bought shoes.  /'],c and  i bought shoes  ,sd,FEMALE,1
+['i went shopping.  /'],i went shopping  ,sd,FEMALE,1
+['i did not need that money.  /'],i did not need that money  ,sd,FEMALE,1
+['i did not need it.  /'],i did not need it  ,sd,FEMALE,1
+"[""i didn't need it.  /""]",i didnt need it  ,sd,FEMALE,1
+"[""i shouldn't have even qualified to get it.  /""]",i shouldnt have even qualified to get it  ,sd,FEMALE,1
+"[""i didn't need it.  /""]",i didnt need it  ,sd,FEMALE,1
+"['{c and } it would  have been a little rough,  /']",c and  it would  have been a little rough  ,sd,FEMALE,1
+"['i might have eaten some bologna instead of roast beef out of the deli,  /']",i might have eaten some bologna instead of roast beef out of the deli  ,sd,FEMALE,1
+['{c but } i did not need it.  /'],c but  i did not need it  ,sd,FEMALE,1
+"[""{c and } as i look back  now, now we're paying that back.  /""]",c and  as i look back  now now were paying that back  ,sd,FEMALE,1
+"['i told my son, if you have to live in the ghetto to go  to college, do it, /']",i told my son if you have to live in the ghetto to go  to college do it ,sd,FEMALE,1
+"[""{c but } don't take out ten thousand dollars in loans.  /""]",c but  dont take out ten thousand dollars in loans  ,^q,FEMALE,19
+"[""don't do it.  /""]",dont do it  ,^q,FEMALE,19
+"[""{c and } i [ don't, + [ i hope, + ] don't ] think he'll have to do  that/""]",c and  i  dont   i hope   dont  think hell have to do  that,sd,FEMALE,1
+"[""{c but, } i just feel like if we didn't have those loans, we could have saved in the last five years the money for that,  /""]",c but  i just feel like if we didnt have those loans we could have saved in the last five years the money for that  ,sd,FEMALE,1
+"[""{c and } i believe we would have, because god's  really put it in our heart not to get in debt, {d you know. }  /""]",c and  i believe we would have because gods  really put it in our heart not to get in debt d you know   ,sd,FEMALE,1
+"['{c but } we have friends in church that do this on a constant basis, that are totally debt free.  /']",c but  we have friends in church that do this on a constant basis that are totally debt free  ,sd,FEMALE,1
+['{c and } they pay cash for everything they buy. /'],c and  they pay cash for everything they buy ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['including new vans,  /']",including new vans  ,sd,FEMALE,1
+"[""{c and, } [ {c so, } + {c so } ]  i guess, i've seen it done  /""]",c and   c so   c so    i guess ive seen it done  ,sd,FEMALE,1
+"['{c and } i know you can do it, {d you know. }  /']",c and  i know you can do it d you know   ,sd,FEMALE,1
+['{c but } you have to drive that  old car until you get that money saved up for that new van.  /'],c but  you have to drive that  old car until you get that money saved up for that new van  ,sv,FEMALE,3
+"[""{c and } that's where  americans don't like to do it.  /""]",c and  thats where  americans dont like to do it  ,sv,FEMALE,3
+"[""[ {c and so } + {c and } ] we don't want to cut back our  services from the government, because we're spoiled. /""]", c and so   c and   we dont want to cut back our  services from the government because were spoiled ,sv,FEMALE,3
+"['{d well, } i have one way to suggest reducing the budget. /']",d well  i have one way to suggest reducing the budget ,sd,MALE,1
+['what? /'],what ,qw,FEMALE,12
+['very simple.  /'],very simple  ,sd,MALE,1
+"['just take all these civil service employees,']",just take all these civil service employees,sv,MALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"[""and, {f uh, } {f uh, } take some of those holidays away from them, like columbus day, president's day,""]",and f uh  f uh  take some of those holidays away from them like columbus day presidents day,+,MALE,0
+['<laughter> i know. /'],laughter i know ,aa,FEMALE,4
+"['{e i mean, } [ they, + they ] get all these days off. /']",e i mean   they  they  get all these days off ,+,MALE,0
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['# now give them, #']", now give them ,sv,MALE,3
+['# i know. # /'], i know  ,aa,FEMALE,4
+"['# what [ a, + a ] # week, i think we here at t i get a  total of eleven a year. /']", what  a  a   week i think we here at t i get a  total of eleven a year ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } that's about, {f uh, } three or four less than  civil servants get. /""]",c and  thats about f uh  three or four less than  civil servants get ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""now just look at that money the government could  save if they didn't have all of those days off, all those holidays. /""]",now just look at that money the government could  save if they didnt have all of those days off all those holidays ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['that is true.  /'],that is true  ,aa,FEMALE,4
+['{c because } i always think the  mail never comes on these days  /'],c because  i always think the  mail never comes on these days  ,sd,FEMALE,1
+"[""{c and } you're like, {d well, } what is it <laughter>.  /""]",c and  youre like d well  what is it laughter  ,sd,FEMALE,1
+"[""you don't even know it's a holiday <laughter>. /""]",you dont even know its a holiday laughter ,sd,FEMALE,1
+"[""{d well, } now don't forget the mail is something  else again.  /""]",d well  now dont forget the mail is something  else again  ,sv,MALE,3
+"['that has nothing,  /']",that has nothing  ,sd,MALE,1
+"[""they're not civil servant people. /""]",theyre not civil servant people ,sd,MALE,1
+"[""{c but } isn't it [ federal, + in the federal ] budget? /""]",c but  isnt it  federal  in the federal  budget ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+"['no,  /']",no  ,nn,MALE,13
+['they have their own budget they go by. /'],they have their own budget they go by ,sd,MALE,1
+"[""{c but } isn't it part of our income,  /""]",c but  isnt it part of our income  ,qy,FEMALE,7
+"[""it's not part of our taxes? /""]",its not part of our taxes ,qy^d,FEMALE,16
+['no. /'],no ,nn,MALE,13
+"[""it's not? /""]",its not ,qy,FEMALE,7
+"[""that's why the price of mailing a letter keeps going up. /""]",thats why the price of mailing a letter keeps going up ,sd,MALE,1
+"[""that's why it keeps going up,  {f uh? } /""]",thats why it keeps going up  f uh  ,b^m,FEMALE,24
+"['{d you know, } [ i could + --']",d you know   i could  ,sd,MALE,1
+"[""that's another topic <laughter>. /""]",thats another topic laughter ,sd,FEMALE,1
+"['-- i can ] remember the days when it cost only  three cents to mail, {f uh, } {f uh, } {f uh, } a letter. /']", i can  remember the days when it cost only  three cents to mail f uh  f uh  f uh  a letter ,+,MALE,0
+"['those stamps are valuable, now. /']",those stamps are valuable now ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['they probably, - /']",they probably  ,%,MALE,5
+"['hey,  /']",hey  ,ba,MALE,6
+['i ought to go looking through some of my old mail. /'],i ought to go looking through some of my old mail ,sd,MALE,1
+"[""that's funny.  /""]",thats funny  ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,%,FEMALE,5
+"['{c and } that is a good short term thing, though.  /']",c and  that is a good short term thing though  ,sv,FEMALE,3
+"['that little things like [ that, + that ] - /']",that little things like  that  that   ,sv,FEMALE,3
+"[""overall, though,  i just think we're just going to, {a i don't know, } see, /""]",overall though  i just think were just going to a i dont know  see ,sv,FEMALE,3
+"['i know,  /']",i know  ,%,FEMALE,5
+"[""i guess i'm kind of leery  of this topic, because i know that bush is real for the new  world order.   the one world government, and alleviating all, {d you know, }  national debt between all of the nations.  /""]",i guess im kind of leery  of this topic because i know that bush is real for the new  world order   the one world government and alleviating all d you know   national debt between all of the nations  ,sd,FEMALE,1
+"[""{c but } i see that to be a potential power problem later, with, {f um, } who's going to be in charge with this new  world order.  /""]",c but  i see that to be a potential power problem later with f um  whos going to be in charge with this new  world order  ,sd,FEMALE,1
+"[""{c and } [ i, + {d you know, } i'm ] uncomfortable with that much power being in one place.  /""]",c and   i  d you know  im  uncomfortable with that much power being in one place  ,sd,FEMALE,1
+"['{c but, } i know, we already have a new money system.  /']",c but  i know we already have a new money system  ,sd,FEMALE,1
+"['we already have new  bills printed, for, - /']",we already have new  bills printed for  ,sd,FEMALE,1
+"['the u s treasury already has our new bills printed for new currency,  /']",the u s treasury already has our new bills printed for new currency  ,sd,FEMALE,1
+"[""{c and } i've seen them <laughter>.  /""]",c and  ive seen them laughter  ,sd,FEMALE,1
+"['{c and so } i know that the long-term  vision for the u s government is to alleviate all national debts and to start over  afresh,  /']",c and so  i know that the longterm  vision for the u s government is to alleviate all national debts and to start over  afresh  ,sd,FEMALE,1
+"[""{c but } i'm concerned with who's going to have the power over this new  world order that they keep talking about, {d you know. }  /""]",c but  im concerned with whos going to have the power over this new  world order that they keep talking about d you know   ,sd,FEMALE,1
+"[""that's a lot of  power for one or two people to have.  /""]",thats a lot of  power for one or two people to have  ,sv,FEMALE,3
+"['{c and so, } {f um, } i guess  because i, - /']",c and so  f um  i guess  because i  ,%,FEMALE,5
+"['i guess, - /']",i guess  ,%,FEMALE,5
+"['in fact, i know what their long-term vision is.  /']",in fact i know what their longterm vision is  ,sd,FEMALE,1
+"[""i'm kind of like, {d you know, }  {d yeah, }  the only answer is to start over or to totally change our lifestyles.  /""]",im kind of like d you know   d yeah   the only answer is to start over or to totally change our lifestyles  ,sd,FEMALE,1
+"[""{c and } i don't think americans are willing to do it. /""]",c and  i dont think americans are willing to do it ,sv,FEMALE,3
+"['{d well, } what about, {f uh, } {f uh, } sending  all this money overseas supporting other governments, third world governments.  /']",d well  what about f uh  f uh  sending  all this money overseas supporting other governments third world governments  ,qo,MALE,25
+['how do you feel about that? /'],how do you feel about that ,qo,MALE,25
+"[""[ i don't, + i don't ] feel we should loan them money.  /""]", i dont  i dont  feel we should loan them money  ,sv,FEMALE,3
+"['if [ i, + i ] wish our leaders were really seeking the lord on these things,  /']",if  i  i  wish our leaders were really seeking the lord on these things  ,sd,FEMALE,1
+"['{c and } if we  feel led to give a country money to help them, fine.  /']",c and  if we  feel led to give a country money to help them fine  ,sv,FEMALE,3
+"[""{c but } i don't feel  we should be loaning money like that.   /""]",c but  i dont feel  we should be loaning money like that   ,sv,FEMALE,3
+"[""{e i mean, } it doesn't work, {e i mean. } /""]",e i mean  it doesnt work e i mean  ,sv,FEMALE,3
+"[""{d well, } in so many cases, it's not a loan,  /""]",d well  in so many cases its not a loan  ,sv,MALE,3
+"[""it's just a give away. /""]",its just a give away ,sv,MALE,3
+"[""[ {c but } it's not, + {c but } it's not ]  set up as a giveaway.  /""]", c but  its not  c but  its not   set up as a giveaway  ,sd,FEMALE,1
+"['if it were set up as giveaway,  /']",if it were set up as giveaway  ,sd,FEMALE,1
+"['{c and } it was something, that, {e i mean, }  [ our, + our ] president and our leaders could be seeking god saying, god is it your will  for us to bless this nation with this money,  /']",c and  it was something that e i mean    our  our  president and our leaders could be seeking god saying god is it your will  for us to bless this nation with this money  ,sd,FEMALE,1
+"['is it your will, this money and  your will for us to give to them,  /']",is it your will this money and  your will for us to give to them  ,^q,FEMALE,19
+"['{c and } i believe if we gave it,  no strings attached that god would bless our nation.  /']",c and  i believe if we gave it  no strings attached that god would bless our nation  ,sv,FEMALE,3
+"[""{c but } because  [ we're, +  our  ] motive is  interest, our motive is not pure, it just backfires,  /""]",c but  because   were   our   motive is  interest our motive is not pure it just backfires  ,sv,FEMALE,3
+"['{e i mean, } none of these  nations have paid us back.  /']",e i mean  none of these  nations have paid us back  ,sv,FEMALE,3
+"[""{c but, } you understand, [ it's, + i guess it's ]  a principle of giving and receiving.  /""]",c but  you understand  its  i guess its   a principle of giving and receiving  ,sv,FEMALE,3
+"['you give it, no strings attached  /']",you give it no strings attached  ,sv,FEMALE,3
+"['{c and } they may never give you anything back,  /']",c and  they may never give you anything back  ,sv,FEMALE,3
+"[""{c but } because there's no strings attached, it {d like } gives them a freedom to give us something back.  /""]",c but  because theres no strings attached it d like  gives them a freedom to give us something back  ,sv,FEMALE,3
+"['{c and } it might not be money,  /']",c and  it might not be money  ,sv,FEMALE,3
+"['it might be, {f um, } no taxes on our things, our computers going into their nation,  /']",it might be f um  no taxes on our things our computers going into their nation  ,sv,FEMALE,3
+"['it might come back in another way,  /']",it might come back in another way  ,sv,FEMALE,3
+['{c but } it would be come back.  /'],c but  it would be come back  ,sv,FEMALE,3
+"[""{c but }  because we're loaning it, i think that's the problem.  /""]",c but   because were loaning it i think thats the problem  ,sv,FEMALE,3
+"[""{c and } i don't mean give it to  everybody that asks.  /""]",c and  i dont mean give it to  everybody that asks  ,sv,FEMALE,3
+['use a lot of discernment.  /'],use a lot of discernment  ,^q,FEMALE,19
+"[""don't give money to every nation.  /""]",dont give money to every nation  ,^q,FEMALE,19
+"[""you know, what i'm saying,  /""]",you know what im saying  ,qy,FEMALE,7
+"[""i think we're loaning money to too many nations,  /""]",i think were loaning money to too many nations  ,sv,FEMALE,3
+"['{c but } i think if we gave to a few select ones, that really needed it, that it would work out better for us and for them.  /']",c but  i think if we gave to a few select ones that really needed it that it would work out better for us and for them  ,sv,FEMALE,3
+['{c and so } now we have all  these nations that owe us all this money  /'],c and so  now we have all  these nations that owe us all this money  ,sd,FEMALE,1
+"[""{c and so } i just think, we're never going to  get that back, {d you know. }  /""]",c and so  i just think were never going to  get that back d you know   ,sv,FEMALE,3
+['# do you understand? # /'], do you understand  ,qy,FEMALE,7
+['# no.  /'], no  ,nn,MALE,13
+"[""[ that, + that's ] true. #  /""]", that  thats  true   ,aa,MALE,4
+"['[  i, + i ] understand that france still owes us money from world war i. /']",  i  i  understand that france still owes us money from world war i ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } world war two debts have never  been repaid.  /']",c and  f uh  world war two debts have never  been repaid  ,sd,MALE,1
+['i think the u s just wrote them all off. /'],i think the u s just wrote them all off ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""# and said, #  {d well, } we'll cancel it  just like they did to [ the, + ] that polish debt here, {f uh, } last week. /""]", and said   d well  well cancel it  just like they did to  the   that polish debt here f uh  last week ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{f uh, } {f uh, } half the countries of the world  simply canceled the poland debts to help them. /']",f uh  f uh  half the countries of the world  simply canceled the poland debts to help them ,sd,MALE,1
+['right.  /'],right  ,b,FEMALE,2
+"['[ long, + ((   ))  long ] term though,  do you think it would best to see a one world, {d you know, } - /']", long       long  term though  do you think it would best to see a one world d you know   ,qy,FEMALE,7
+"[""you can't alleviate all national debts  /""]",you cant alleviate all national debts  ,sv,FEMALE,3
+['{c or } do you think it would be better for our leaders to just start seeking god on how to turn our nation around financially?  /'],c or  do you think it would be better for our leaders to just start seeking god on how to turn our nation around financially  ,qrr,FEMALE,33
+"[""that's my opinion.  /""]",thats my opinion  ,sd,FEMALE,1
+"[""my opinion's the latter. /""]",my opinions the latter ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"[""{d well, } {f uh, } i've got to respect your  opinion.  /""]",d well  f uh  ive got to respect your  opinion  ,sd,MALE,1
+['you have some --'],you have some ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- solid ideas. /'], solid ideas ,+,MALE,0
+['i know.  /'],i know  ,aa,FEMALE,4
+"[""what's yours?  /""]",whats yours  ,qw,FEMALE,12
+['do you agree  /'],do you agree  ,qy,FEMALE,7
+['{c or }  do you disagree  /'],c or   do you disagree  ,qrr,FEMALE,33
+"['{c or } # {e i mean, } what do you think long term? # /']",c or   e i mean  what do you think long term  ,qw,FEMALE,12
+"[""# {d well, } i don't believe in a single #  government or a single control for the world. /""]", d well  i dont believe in a single   government or a single control for the world ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } that's asking for trouble.  /""]",f uh  thats asking for trouble  ,sv,MALE,3
+['people are too different. /'],people are too different ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{e i mean } you could travel from one coast to the other here in the u s and find a tremendous differences between the peoples.  /'],e i mean  you could travel from one coast to the other here in the u s and find a tremendous differences between the peoples  ,sv,MALE,3
+['they have their own ideas how things should be run. /'],they have their own ideas how things should be run ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so, } therefore, i don't believe there could be a single government for the whole world.  /""]",c so  therefore i dont believe there could be a single government for the whole world  ,sd,MALE,1
+"[""there's too many societies involved, {f uh, }  /""]",theres too many societies involved f uh   ,sv,MALE,3
+['the language barriers. -/'],the language barriers ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } {f oh, } sure,  /']",f uh  f oh  sure  ,"fo_o_fw_""_by_bc",MALE,0
+"[""somebody said years ago,  {d well, } let's make it english, {f uh, } international language. /""]",somebody said years ago  d well  lets make it english f uh  international language ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""that's a big laugh,  /""]",thats a big laugh  ,sv,MALE,3
+"[""we can't even make english a  national language here in our country. /""]",we cant even make english a  national language here in our country ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""we've got too many, {f uh, } {f uh, } # immigrants. # /""]",weve got too many f uh  f uh   immigrants  ,sv,MALE,3
+['# yeah.  /'], yeah  ,aa,FEMALE,4
+['#  yeah.  /'],  yeah  ,aa,FEMALE,4
+['# i know. # /'], i know  ,sd,FEMALE,1
+"[""# they don't call # them immigrants anymore,  /""]", they dont call  them immigrants anymore  ,sd,MALE,1
+"[""that was back in my granddaddy's day. /""]",that was back in my granddaddys day ,sd,MALE,1
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['different ethnic groups <laughter>. /'],different ethnic groups laughter ,bf,FEMALE,20
+['<laughter> yes.  /'],laughter yes  ,aa,MALE,4
+['yeah  /'],yeah  ,aa,MALE,4
+"['{c but, } -/']",c but  ,%,MALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""i know what your saying. /   *[[typo your -> you're]]""]",i know what your saying    typo your  youre,sd,FEMALE,1
+"['my grandfather came over from lithuania back, {f uh, }  just before the turn of the century -- /']",my grandfather came over from lithuania back f uh   just before the turn of the century  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and, } {f uh, } as a matter of fact he's a draft dodger. /""]", c and  f uh  as a matter of fact hes a draft dodger ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['he, {f uh, } was supposed to serve some time.  /']",he f uh  was supposed to serve some time  ,sd,MALE,1
+"['{d well, } he did serve his time [ in the, + {f uh, } in the ] militia. /']",d well  he did serve his time  in the  f uh  in the  militia ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } he came back.  /'],c and  he came back  ,sd,MALE,1
+['he was a civilian  again  /'],he was a civilian  again  ,sd,MALE,1
+"['{c and } his father said {d well } if, -/']",c and  his father said d well  if ,sd,MALE,1

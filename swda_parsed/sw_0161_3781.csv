@@ -1,0 +1,172 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } i suppose we both have credit cards. /']",d well  i suppose we both have credit cards ,sv,FEMALE,3
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['they seem to be a part of life <laughter>. /'],they seem to be a part of life laughter ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['how do you use them? /'],how do you use them ,qw,FEMALE,12
+"['{d well, } i do use them. /']",d well  i do use them ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } i have a few favorites that i use more than others  /']",f uh  i have a few favorites that i use more than others  ,sd,FEMALE,1
+"['{c and, }  {f uh, } i try to keep my balances fairly reasonable.  /']",c and   f uh  i try to keep my balances fairly reasonable  ,sd,FEMALE,1
+"['[ i, + i ] could probably pay them off any month if i wanted to. /']", i  i  could probably pay them off any month if i wanted to ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } {c but } occasionally they can get out of hand and get higher [ when, + when ] you start using more than a few -- /']",f uh  c but  occasionally they can get out of hand and get higher  when  when  you start using more than a few  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, }  {f uh, } they all can build up. /']", c and   f uh  they all can build up ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } i think they're handy.  /""]",f uh  i think theyre handy  ,sv,FEMALE,3
+"['i just get,  {f uh, } - /']",i just get  f uh   ,sd,FEMALE,1
+"[""i don't carry  a lot of cash with me -- /""]",i dont carry  a lot of cash with me  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, }  {f uh, } i hate writing checks  --']", c and   f uh  i hate writing checks  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- when you go shopping. /'], when you go shopping ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d well, } do you use credit cards? /']",d well  do you use credit cards ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['i use a few.  /'],i use a few  ,sd,FEMALE,1
+"['[ i, + {f uh, } i ] watched my grandmother go into debt <laughter> --']", i  f uh  i  watched my grandmother go into debt laughter ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- on them  /'], on them  ,+,FEMALE,0
+"[""{c and so } i've, - /""]",c and so  ive  ,sd,FEMALE,1
+['{c and then } i guess my --'],c and then  i guess my ,sd,FEMALE,1
+['# grandmother # -- -/'], grandmother   ,b^m,FEMALE,24
+"['-- # mother, # -/']",  mother  ,+,FEMALE,0
+['-- {f huh? } /'], f huh  ,br,FEMALE,30
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['{c so } my mother learned from that  /'],c so  my mother learned from that  ,sd,FEMALE,1
+"['{c and } i guess she taught me <inhaling> to be very, very careful with them.  /']",c and  i guess she taught me inhaling to be very very careful with them  ,sd,FEMALE,1
+"['{c so } basically, {f uh, } i just keep them,  /']",c so  basically f uh  i just keep them  ,sd,FEMALE,1
+"['i use them so that i build up a credit rating, {d you know. } /']",i use them so that i build up a credit rating d you know  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, }  otherwise, {f uh, } i generally, - /']",c but   otherwise f uh  i generally  ,sd,FEMALE,1
+"['{c and } my husband, it turns out, - /']",c and  my husband it turns out  ,sd,FEMALE,1
+"[""i've just been married seven months,  /""]",ive just been married seven months  ,sd,FEMALE,1
+['{c but } he has the same habit  /'],c but  he has the same habit  ,sd,FEMALE,1
+['{c and } we just keep a [ few -- +'],c and  we just keep a  few  ,sd,FEMALE,1
+"[""that's good. /""]",thats good ,ba,FEMALE,6
+"['-- {d you know, } few ] of the major ones,  and then use them once in a while for something,  /']", d you know  few  of the major ones  and then use them once in a while for something  ,+,FEMALE,0
+['{c but } we always pay it off right that month --'],c but  we always pay it off right that month ,sd,FEMALE,1
+"[""{f oh } [ that's, +""]",f oh   thats ,ba,FEMALE,6
+"[""-- so that we don't pay any --""]", so that we dont pay any ,+,FEMALE,0
+"[""that's ] wonderful. /""]",thats  wonderful ,+,FEMALE,0
+['-- service charge.  /'], service charge  ,+,FEMALE,0
+['{c so } that way we keep out of debt  /'],c so  that way we keep out of debt  ,sd,FEMALE,1
+"[""{c and } we keep on top of what we're spending. /""]",c and  we keep on top of what were spending ,sd,FEMALE,1
+"['{d well, } the interest rates in credit cards is so high now --']",d well  the interest rates in credit cards is so high now ,sv,FEMALE,3
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['-- # compared # to what your savings is bringing.  /'],  compared  to what your savings is bringing  ,+,FEMALE,0
+"[""it's really,  i guess ridiculous to let them keep building. /""]",its really  i guess ridiculous to let them keep building ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's what i feel.   /""]",thats what i feel   ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['{c but } i know some people can [ get, + get, ] {d you know, } carried away with them  and  let them get --']",c but  i know some people can  get  get  d you know  carried away with them  and  let them get ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- out of hand. /'], out of hand ,+,FEMALE,0
+"[""it's really easy, just to forget, {d you know, } that [ you, + you ] charged that or  charged that. /""]",its really easy just to forget d you know  that  you  you  charged that or  charged that ,sv,FEMALE,3
+"[""i try to keep all my receipts and keep them in someplace where i know that the bill's going to come, /""]",i try to keep all my receipts and keep them in someplace where i know that the bills going to come ,sd,FEMALE,1
+['{c but } sometimes i forget  /'],c but  sometimes i forget  ,sd,FEMALE,1
+"['{c and so, } {d you know, } [ s-, + ] a bill will come in  /']",c and so  d you know   s   a bill will come in  ,sd,FEMALE,1
+"[""{c and } i'll think, {f oh, } no --""]",c and  ill think f oh  no ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- i didn't know it was going to be that high. /""]", i didnt know it was going to be that high ,+,FEMALE,0
+"['{f uh-, } yeah. /']",f uh  yeah ,b,FEMALE,2
+"[""{c but } so far, [ i've been able to, + we've been able to ] pay it off every time  /""]",c but  so far  ive been able to  weve been able to  pay it off every time  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"[""{d well, } that's good.  /""]",d well  thats good  ,ba,FEMALE,6
+"[""[ i'm looking, + right now i'm [ k-, + kind of looking ]  ] for a visa that has a lower interest rate. /""]", im looking  right now im  k  kind of looking    for a visa that has a lower interest rate ,sd,FEMALE,1
+['it seems that some of them have gotten higher -- /'],it seems that some of them have gotten higher  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, }  {f uh, } i saw on t v, they had a program on, {f uh, } credit cards  /']", c and   f uh  i saw on t v they had a program on f uh  credit cards  ,sd,FEMALE,1
+"[""{c and }  they're supposed to, - /""]",c and   theyre supposed to  ,sd,FEMALE,1
+"[""i don't know if it was tennessee or arkansas or [ some, + some ] other state had a visa card that was the lowest one in the country.   /""]",i dont know if it was tennessee or arkansas or  some  some  other state had a visa card that was the lowest one in the country   ,sd,FEMALE,1
+['{c and } i --'],c and  i ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- didn't write it down at the time  /""]", didnt write it down at the time  ,+,FEMALE,0
+"['{c and then } i went and looked [ and, + ] to see what my visa was  /']",c and then  i went and looked  and   to see what my visa was  ,sd,FEMALE,1
+"[""{c and } i think it's eighteen percent or something -- /""]",c and  i think its eighteen percent or something  ,sd,FEMALE,1
+['{f um. } /'],f um  ,%,FEMALE,5
+"['-- {c so, } think i want to find something that has a lower --']", c so  think i want to find something that has a lower ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- rate. /'], rate ,+,FEMALE,0
+['have you ever used discover card? /'],have you ever used discover card ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""i haven't. /""]",i havent ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""i'm not even sure what their interest rate is since i pay it off <laughter>  /""]",im not even sure what their interest rate is since i pay it off laughter  ,sd,FEMALE,1
+"['{c but }  {d you know, } -/']",c but   d you know  ,%,FEMALE,5
+['is that the one from sears? /'],is that the one from sears ,qy,FEMALE,7
+"['{f uh, } i think sears originally --']",f uh  i think sears originally ,na,FEMALE,21
+['okay. /'],okay ,bk,FEMALE,14
+"['-- put it out,  /']", put it out  ,+,FEMALE,0
+"[""{c but } [ it's, + {f uh, } it's ] pretty well taken all over the u s now.  /""]",c but   its  f uh  its  pretty well taken all over the u s now  ,sd,FEMALE,1
+"[""{e i mean, } {f uh, } i've haven't found many places that don't take discover.   /""]",e i mean  f uh  ive havent found many places that dont take discover   ,sd,FEMALE,1
+"[""{c and } there's no annual service fee, which is good. /""]",c and  theres no annual service fee which is good ,sd,FEMALE,1
+['# okay # . /'], okay   ,b,FEMALE,2
+"['# {d you know, } # {c and then, } {f uh, } they also give you, they say cash back, {f uh, } {d like } at the end of the year.  /']", d you know   c and then  f uh  they also give you they say cash back f uh  d like  at the end of the year  ,sd,FEMALE,1
+"['for the amount that i charge, i get two dollars back or something <laughter> -- /']",for the amount that i charge i get two dollars back or something laughter  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c but } if you use credit cards a lot you probably get more back. /'], c but  if you use credit cards a lot you probably get more back ,sd,FEMALE,1
+"['{f oh, } they give you money back for using your credit card. /']",f oh  they give you money back for using your credit card ,qy^d,FEMALE,16
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['basically. /'],basically ,sd,FEMALE,1
+['{f oh } -- /'],f oh   ,%,FEMALE,5
+"[""that's it. /""]",thats it ,sd,FEMALE,1
+"[""-- i didn't know that. /""]", i didnt know that ,sd,FEMALE,1
+"['{c and } i think the service charge is pretty low, too,  /']",c and  i think the service charge is pretty low too  ,sd,FEMALE,1
+"[""{c but, }  i'm not sure. /""]",c but   im not sure ,sd,FEMALE,1
+"['{f um. }  {d well, } {d you know, } sears was one of the few department stores that never would take any other credit cards. /']",f um   d well  d you know  sears was one of the few department stores that never would take any other credit cards ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i worked [ w-, + ] at sears for over ten years  /']",i worked  w   at sears for over ten years  ,sd,FEMALE,1
+"['{c and, }  {f uh, } it was only a sears card that they would take --']",c and   f uh  it was only a sears card that they would take ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- until i guess they decided to join the club and come up with [ their own credit card, + another credit card ] that was --']", until i guess they decided to join the club and come up with  their own credit card  another credit card  that was ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- accepted,  /']", accepted  ,+,FEMALE,0
+"[""{c so, } {d you know, } now they'll take the discover,  /""]",c so  d you know  now theyll take the discover  ,sd,FEMALE,1
+"[""{c but } i still don't know if sears will take visa or mastercard. /""]",c but  i still dont know if sears will take visa or mastercard ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, }  {f uh } --']",c but   f uh  ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['-- # i # never did apply for a discover card.  /'],  i  never did apply for a discover card  ,+,FEMALE,0
+['i just figure with the visa and --'],i just figure with the visa and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- american express, <breathing>  i probably have an, - /']", american express breathing  i probably have an  ,+,FEMALE,0
+['i  can do enough  damage with those two. /'],i  can do enough  damage with those two ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""i think it's best to keep the number down <laughter> --""]",i think its best to keep the number down laughter ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- that you have. /'], that you have ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d so, } -/']",d so  ,%,FEMALE,5
+"[""i've got some that [ i, + {d you know, } i ] haven't even used at all, {f uh, } past few years  /""]",ive got some that  i  d you know  i  havent even used at all f uh  past few years  ,sd,FEMALE,1
+"[""i probably wouldn't be able to use them. /""]",i probably wouldnt be able to use them ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c but, }  {f uh, } [ i, + i ] do like my dillard's,  /""]",c but   f uh   i  i  do like my dillards  ,sd,FEMALE,1
+"[""i have to admit that's one of my favorite places to shop. /""]",i have to admit thats one of my favorite places to shop ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } i do use dillard's probably [ as, + more than ] any of the other department stores. /""]",c and  i do use dillards probably  as  more than  any of the other department stores ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, }']",d well ,qy,FEMALE,7
+"['{d well, } -/']",d well  ,%,FEMALE,5
+['do you have anything else to say? /'],do you have anything else to say ,+,FEMALE,0
+"['no,  /']",no  ,nn,FEMALE,13
+['not too much more about credit cards <laughter>. /'],not too much more about credit cards laughter ,sd,FEMALE,1
+['okay <laughter>.  /'],okay laughter  ,b,FEMALE,2
+"[""i don't think i do either  /""]",i dont think i do either  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['okay  /'],okay  ,b,FEMALE,2
+"['{d well, } -/']",d well  ,%,FEMALE,5
+"['{d well, } it was good talking to you. /']",d well  it was good talking to you ,fc,FEMALE,10
+['good talking to you beth. /'],good talking to you beth ,fc,FEMALE,10
+['okay. /'],okay ,fc,FEMALE,10
+['good luck. /'],good luck ,fc,FEMALE,10
+['have a good evening. /'],have a good evening ,fc,FEMALE,10
+"['you, too. /']",you too ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10
+['bye. /'],bye ,fc,FEMALE,10

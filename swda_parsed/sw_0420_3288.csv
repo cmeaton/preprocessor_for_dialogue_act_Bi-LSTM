@@ -1,0 +1,209 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hi.  /'],hi  ,fp,MALE,32
+"['{c so, }  {f uh, } what was the last car repair you had? /']",c so   f uh  what was the last car repair you had ,qw,MALE,12
+"['<laughter> just recently i was kind of laughing  [ when i, +  when i ] heard the switchboard talking about the question because, {f uh, } i had to have my, {f uh, } radiator flushed -- /']",laughter just recently i was kind of laughing   when i   when i  heard the switchboard talking about the question because f uh  i had to have my f uh  radiator flushed  ,sd,FEMALE,1
+['oh. /'],oh ,bk,MALE,14
+['-- {c and } it was getting rusty.  /'], c and  it was getting rusty  ,sd,FEMALE,1
+"['{c and } the thing that they forgot to do was [ to, +  {f um, }  to ] also look at the hose,  /']",c and  the thing that they forgot to do was  to   f um   to  also look at the hose  ,sd,FEMALE,1
+"['{c and } i had gone about {f oh, } two days with my new radiator flushed  /']",c and  i had gone about f oh  two days with my new radiator flushed  ,sd,FEMALE,1
+['{c and } the hose burst.  /'],c and  the hose burst  ,sd,FEMALE,1
+['{c so }  i was stranded out on the highway <laughter>. /'],c so   i was stranded out on the highway laughter ,sd,FEMALE,1
+"['{f oh, } no.  /']",f oh  no  ,ba,MALE,6
+['did you crack the block or what? /'],did you crack the block or what ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""[ i, +  i ] didn't do that thank goodness,  /""]", i   i  didnt do that thank goodness  ,sd,FEMALE,1
+"['{c but, }  {f uh, } there seemed to be enough antifreeze [ in there, + {d you know, } left  ] to do that  /']",c but   f uh  there seemed to be enough antifreeze  in there  d you know  left   to do that  ,sd,FEMALE,1
+"['{c but } it cost me all kind of money, {d you know, } to have that repaired after they said they were going to,  they had repaired it.  /']",c but  it cost me all kind of money d you know  to have that repaired after they said they were going to  they had repaired it  ,sd,FEMALE,1
+"['{c so } [ that was, +  that was ] a horrible experience --']",c so   that was   that was  a horrible experience ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,bk,MALE,14
+['i see. /'],i see ,bk,MALE,14
+['-- just recently. /'], just recently ,+,FEMALE,0
+"[""you got lucky you didn't ruin the whole engine though. /""]",you got lucky you didnt ruin the whole engine though ,sv,MALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+['yes. /'],yes ,aa,FEMALE,4
+['that can be pretty serious. /'],that can be pretty serious ,sv,MALE,3
+['i know.  /'],i know  ,aa,FEMALE,4
+['i know.  /'],i know  ,aa,FEMALE,4
+['what about you? /'],what about you ,qo,FEMALE,25
+"[""{f oh, } i guess it's been awhile for me.  /""]",f oh  i guess its been awhile for me  ,sd,MALE,1
+"[""i'd sa-, - /""]",id sa  ,%,MALE,5
+"[""it's been about a year. /""]",its been about a year ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i had [ the, +  {f uh, }  the ] water pump break on my car. /']",i had  the   f uh   the  water pump break on my car ,sd,MALE,1
+['oh. /'],oh ,bk,FEMALE,14
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i was traveling, {f uh, }  /']",i was traveling f uh   ,sd,MALE,1
+['i was going on my way home from thanksgiving -- /'],i was going on my way home from thanksgiving  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } it broke like in the middle of nowhere. /'], c and  it broke like in the middle of nowhere ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so, }  i had to get it towed and then fixed  /']",c so   i had to get it towed and then fixed  ,sd,MALE,1
+['{c and } -- -/'],c and   ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- big pain. -/'], big pain ,sv,MALE,3
+"['{f oh, } {f oh, } [ i know. + i know. + ]  /']",f oh  f oh   i know  i know    ,aa,FEMALE,4
+"[""especially when you're out on the highway. /""]",especially when youre out on the highway ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's where i was.  /""]",thats where i was  ,sd,MALE,1
+['luckily someone came by and gave me a ride. /'],luckily someone came by and gave me a ride ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['i know, {d well, } {d you know, } {f uh, } living in dallas, - /']",i know d well  d you know  f uh  living in dallas  ,sd,FEMALE,1
+"[""{d you know } we've got, {f uh, } bumper to bumper eight lanes of traffic  /""]",d you know  weve got f uh  bumper to bumper eight lanes of traffic  ,sv,FEMALE,3
+"['{c and, }  {f uh, } [ that was, +  that was ] horrible. /']",c and   f uh   that was   that was  horrible ,sd,FEMALE,1
+['yeah <laughter>. /'],yeah laughter ,b,MALE,2
+"['{d you know } to have the, {d you know, } - /']",d you know  to have the d you know   ,%,FEMALE,5
+['your car is  (( fuming )) - /'],your car is   fuming   ,sd,FEMALE,1
+['and  everything.  /'],and  everything  ,sd,FEMALE,1
+"[""it's already a hundred degrees  /""]",its already a hundred degrees  ,sd,FEMALE,1
+"[""you <laughter> don't need that too. /""]",you laughter dont need that too ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{f oh, } shoot <lipsmack>.  /']",f oh  shoot lipsmack  ,ba,FEMALE,6
+['{c but } my car is getting old.  /'],c but  my car is getting old  ,sd,FEMALE,1
+"[""{d see } it's about six years old now,  /""]",d see  its about six years old now  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+['so is mine <laughter>. /'],so is mine laughter ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['{c so } i got it right out of college  /'],c so  i got it right out of college  ,sd,FEMALE,1
+"[""{c and so }  [ it's, +  {f uh, } it's ] starting to show the wear and tear now. /""]",c and so    its   f uh  its  starting to show the wear and tear now ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i'm hoping mine gets me through.  /""]",im hoping mine gets me through  ,sd,MALE,1
+"[""i got until may until i'm out.  /""]",i got until may until im out  ,sd,MALE,1
+"[""(( {c so } when i cross ))  that one i'll be okay. /""]", c so  when i cross   that one ill be okay ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ that, +  {f uh, } that ] was my graduation present to myself,  /']", that   f uh  that  was my graduation present to myself  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"[""{f oh, } that's nice <laughter>. /""]",f oh  thats nice laughter ,ba,MALE,6
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['i know  /'],i know  ,aa,FEMALE,4
+"[""[ {c so } + {c but ] } gosh,   it's really starting [ to, +  to ] wear  /""]", c so   c but   gosh   its really starting  to   to  wear  ,sd,FEMALE,1
+"[""{c so } i've been thinking, especially now is a good time to buy a car. /""]",c so  ive been thinking especially now is a good time to buy a car ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['go-, - /']",go  ,%,FEMALE,5
+"[""{c because } [ i can't, + {f uh, } i don't ]  know if i want to, {d you know, } pay all these repairs now to start getting it fixed when it's starting to breakdown. /""]",c because   i cant  f uh  i dont   know if i want to d you know  pay all these repairs now to start getting it fixed when its starting to breakdown ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""i don't want to do too much on mine because it will be worth more than the car is  /""]",i dont want to do too much on mine because it will be worth more than the car is  ,sd,MALE,1
+"[""{c and } it's not worth it <laughter>. /""]",c and  its not worth it laughter ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,aa,FEMALE,4
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""that's true.  /""]",thats true  ,aa,FEMALE,4
+['i agree with you there. /'],i agree with you there ,aa,FEMALE,4
+['yeah. /'],yeah ,b,MALE,2
+"[""{c so } i don't know, {f uh, }  /""]",c so  i dont know f uh   ,h,FEMALE,15
+"[""{c because } [ i, +  i ]  need to have it [ tuned, +  {d you know, }  tuned up ]  and {a i don't know, } replace some of the belts.  /""]",c because   i   i   need to have it  tuned   d you know   tuned up   and a i dont know  replace some of the belts  ,sd,FEMALE,1
+"['{c and } i was looking at the, {f uh, } - /']",c and  i was looking at the f uh   ,sd,FEMALE,1
+['tires need to be replaced  /'],tires need to be replaced  ,sd,FEMALE,1
+['{c and so } i was thinking just a lot of money - /'],c and so  i was thinking just a lot of money  ,sd,FEMALE,1
+"[""i'm, - /""]",im  ,%,FEMALE,5
+['might as well buy me a new car for that. /'],might as well buy me a new car for that ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+['i got new tires last winter too  /'],i got new tires last winter too  ,sd,MALE,1
+"[""{c so } i'm like, {d well, } that's the last major purchase for this thing.  /""]",c so  im like d well  thats the last major purchase for this thing  ,sd,MALE,1
+"[""it's not worth it. /""]",its not worth it ,^q,MALE,19
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"['{d well, } you have to, in pennsylvania, boy,  /']",d well  you have to in pennsylvania boy  ,qy^d,FEMALE,16
+"['<noise> you have to really have your car winterized and stuff, {f huh? } /']",noise you have to really have your car winterized and stuff f huh  ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+['uh-huh <noise>. /'],uhhuh noise ,b,FEMALE,2
+"['yeah,  /']",yeah  ,ny,MALE,9
+['we get some killer winters up here in the mountains. /'],we get some killer winters up here in the mountains ,sd,MALE,1
+"['{f oh, } really? /']",f oh  really ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,MALE,9
+"['{f oh, } okay.  /']",f oh  okay  ,bk,FEMALE,14
+"['{c so, } -/']",c so  ,%,FEMALE,5
+['lot of snow and a lot of cold. /'],lot of snow and a lot of cold ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""{d well, } especially don't you have what, a lot of salt on the ground? /""]",d well  especially dont you have what a lot of salt on the ground ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""at times there's a lot of it. /""]",at times theres a lot of it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['you got to {d like } clean out the underneath of your car all the time when you get a chance. /'],you got to d like  clean out the underneath of your car all the time when you get a chance ,sd,MALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d well, } rust [ and the, +  and the ] body too, {f huh? } -/']",d well  rust  and the   and the  body too f huh  ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""i haven't had a big problem with that though. /""]",i havent had a big problem with that though ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c so } i've been pretty lucky there. /""]",c so  ive been pretty lucky there ,sd,MALE,1
+"['<lipsmack>  {d well, } i think they get the new  (( z-bart ))  stuff and everything to where you can, {f um, } -/']",lipsmack  d well  i think they get the new   zbart   stuff and everything to where you can f um  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's usually pretty good.  /""]",thats usually pretty good  ,ba,MALE,6
+['you just rinse it off after the winter is over and --'],you just rinse it off after the winter is over and ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- done with it. /'], done with it ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['{c and } go like that {c so. } -/'],c and  go like that c so  ,%,FEMALE,5
+['yeah.  /'],yeah  ,b,MALE,2
+['i usually like to do most repairs on my own though. /'],i usually like to do most repairs on my own though ,sd,MALE,1
+['do you? /'],do you ,bh,FEMALE,18
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""just because that way i know what's wrong with my car and what it needs and what it really doesn't. /""]",just because that way i know whats wrong with my car and what it needs and what it really doesnt ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"['{c plus } if something goes wrong, i know who to blame. /']",c plus  if something goes wrong i know who to blame ,sd,MALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['<laughter>.'],laughter,x,MALE,8
+"[""{d well, } [ i, +  i ] think i'm getting too old for all that.  /""]",d well   i   i  think im getting too old for all that  ,sd,FEMALE,1
+"['[  my, {f uh, } + i ] had four brothers  /']",  my f uh   i  had four brothers  ,sd,FEMALE,1
+"['{c and } they used to drag me out underneath the car, and stuff  /']",c and  they used to drag me out underneath the car and stuff  ,sd,FEMALE,1
+"['{c so } [ i can, +  i can do ] all that stuff  /']",c so   i can   i can do  all that stuff  ,sd,FEMALE,1
+"[""{c but } [ i, + i ] think i'd much prefer to pay the twenty-two ninety-five [ to, +  to ] go have it done now  /""]",c but   i  i  think id much prefer to pay the twentytwo ninetyfive  to   to  go have it done now  ,sd,FEMALE,1
+['{c so } i can get my hands dirty. /'],c so  i can get my hands dirty ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{c so, }  yeah.  /']",c so   yeah  ,b,FEMALE,2
+"[""i'm just [ getting, +  getting ] to that age  i guess.  /""]",im just  getting   getting  to that age  i guess  ,sd,FEMALE,1
+"[""you just don't have, - /""]",you just dont have  ,%,FEMALE,5
+['your time becomes very precious  /'],your time becomes very precious  ,sd,FEMALE,1
+['{c so } working on the car is just not one of those things i want to spend my time on anymore <laughter>. /'],c so  working on the car is just not one of those things i want to spend my time on anymore laughter ,sd,FEMALE,1
+['<laughter> more fun things to do. /'],laughter more fun things to do ,bf,MALE,20
+"['absolutely, absolutely.  /']",absolutely absolutely  ,aa,FEMALE,4
+"['{c so, }']",c so ,%,FEMALE,5
+['<laughter>.'],laughter,x,MALE,8
+"['yeah,  /']",yeah  ,+,FEMALE,0
+"[""i'm trying to,   {d you know,  } - /""]",im trying to   d you know    ,sd,FEMALE,1
+"['i just need one, - /']",i just need one  ,sd,FEMALE,1
+['i had two cars  there for a while  /'],i had two cars  there for a while  ,sd,FEMALE,1
+"[""{c so } i wouldn't have to worry about which car was going to run. /""]",c so  i wouldnt have to worry about which car was going to run ,sd,FEMALE,1
+"[""{d well, } that's nice. /""]",d well  thats nice ,ba,MALE,6
+"['{c and } yeah,  /']",c and  yeah  ,aa,FEMALE,4
+['[ {c so } +  {c but }  ] it became a hassle trying to keep up and  maintain both of them. /'], c so    c but    it became a hassle trying to keep up and  maintain both of them ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c and } yeah,  /']",c and  yeah  ,b^m,FEMALE,24
+"['{c so } that, -/']",c so  that ,%,FEMALE,5
+['one is bad enough <laughter>. /'],one is bad enough laughter ,sv,MALE,3
+"['yes,  /']",yes  ,aa,FEMALE,4
+['one was bad enough.  /'],one was bad enough  ,aa,FEMALE,4
+['{c but } i think i got rid of the wrong one <laughter>. /'],c but  i think i got rid of the wrong one laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['[ i soon, +  i need ] a lot of repairs done [ on, +  on ]  this one  /']", i soon   i need  a lot of repairs done  on   on   this one  ,sd,FEMALE,1
+"['{c so } yeah, /']",c so  yeah ,%,FEMALE,5
+['<laughter>.'],laughter,x,MALE,8
+"['[ that was, +  {f uh, }  that was ] something else <<pause>>.  /']", that was   f uh   that was  something else pause  ,sd,FEMALE,1
+"['{d well, } are our five minutes up?  <laughter>. /']",d well  are our five minutes up  laughter ,fc,FEMALE,10
+"['<laughter> yeah,  /']",laughter yeah  ,fc,MALE,10
+['i was just wondering that <laughter>. /'],i was just wondering that laughter ,fc,MALE,10
+"[""<laughter> [ [ i, +  i  didn't, ] +  i didn't ] set the time  or anything to, {f uh, } -/""]",laughter   i   i  didnt    i didnt  set the time  or anything to f uh  ,fc,FEMALE,10
+"['yeah,  /']",yeah  ,fc,MALE,10
+"[""i didn't either. /""]",i didnt either ,fc,MALE,10
+"['yeah,  /']",yeah  ,fc,FEMALE,10
+"['(( put ))  , -/']", put    ,%,FEMALE,5
+"['yeah,  /']",yeah  ,fc,MALE,10
+"['this must be [ a, +  a ] hard category. /']",this must be  a   a  hard category ,fc,MALE,10
+"['{d well, } yeah,  /']",d well  yeah  ,fc,FEMALE,10
+"['i guess.  {f um, } {d you know, }  /']",i guess  f um  d you know   ,fc,FEMALE,10
+"[""unless you're, {f um, } {d you know, } big do-it-yourselfer.  {f um, } to, {d you know, } fix up your own cars [ {c and, } +  {c and } ] things like that.  /""]",unless youre f um  d you know  big doityourselfer  f um  to d you know  fix up your own cars  c and    c and   things like that  ,fc,FEMALE,10
+"['[ {c so, } +  {c but } ]  i guess they were talking about experiences.  /']", c so    c but    i guess they were talking about experiences  ,fc,FEMALE,10
+"['{d you know, } [ i, +  {f uh, } {f uh, }  i ] did, - /']",d you know   i   f uh  f uh   i  did  ,%,FEMALE,5
+['my parents live in ohio  /'],my parents live in ohio  ,fc,FEMALE,10
+"['{c so } [ i, +  i ] do know something about [ the, +  {d you know, } the ]  really cold weather.  /']",c so   i   i  do know something about  the   d you know  the   really cold weather  ,fc,FEMALE,10
+"[""{c and, }  {f uh, } i've always lived down here in the south,  /""]",c and   f uh  ive always lived down here in the south  ,fc,FEMALE,10
+"['{c and, } {f oh, } i took my car up there to their  house  /']",c and  f oh  i took my car up there to their  house  ,fc,FEMALE,10
+"['{c and, }  {f um, } i guess i had a crack in the block,  /']",c and   f um  i guess i had a crack in the block  ,fc,FEMALE,10
+"['{c and } when i got up there the car, -/']",c and  when i got up there the car ,fc,FEMALE,10

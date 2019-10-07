@@ -1,0 +1,320 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['what you mean, my voice? /']",what you mean my voice ,qy,FEMALE,7
+['yes. /'],yes ,ny,FEMALE,9
+"['{f oh, } no  /']",f oh  no  ,ar,FEMALE,28
+['i am from kentucky.'],i am from kentucky,sd,FEMALE,1
+"['{f oh, } {d well. } /']",f oh  d well  ,b,FEMALE,2
+['originally <laughter>.  /'],originally laughter  ,+,FEMALE,0
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['{d well, } the topic today was gardening,']",d well  the topic today was gardening,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['and lawn care?  /'],and lawn care  ,+,FEMALE,0
+['ooh. /'],ooh ,%,FEMALE,5
+"['i know,  /']",i know  ,aa,FEMALE,4
+"['we are about to hit it in [ ten, +   few ] minutes.  /']",we are about to hit it in  ten    few  minutes  ,sd,FEMALE,1
+['i figured i could make this call and get it over with.  /'],i figured i could make this call and get it over with  ,sd,FEMALE,1
+['we are going to mow and trim and --'],we are going to mow and trim and ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- edge,  /']", edge  ,+,FEMALE,0
+['{c and } that is all we have been doing all weekend. /'],c and  that is all we have been doing all weekend ,sd,FEMALE,1
+['you know what?  /'],you know what  ,qh,FEMALE,26
+['it seems like  we are doing it here forever.  /'],it seems like  we are doing it here forever  ,sv,FEMALE,3
+"['we bought [ a, +  a ] large house that was completely unlandscaped.  /']",we bought  a   a  large house that was completely unlandscaped  ,sd,FEMALE,1
+"['{e i mean, }']",e i mean ,sd,FEMALE,1
+['<child_talking>.'],childtalking,x,FEMALE,8
+"['<sigh> [ it, + it ] [ was +  [ pro-, +  probably ]  was ] up to your shoulder [ in, +  in ] thistles.  /']",sigh  it  it   was    pro   probably   was  up to your shoulder  in   in  thistles  ,+,FEMALE,0
+['that was all that was there. /'],that was all that was there ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } we hired a professional landscaper  to do it.  /'],c and  we hired a professional landscaper  to do it  ,sd,FEMALE,1
+['{c and } i have since then probably ripped out half of what he has done   because it has always been incorrectly planted  /'],c and  i have since then probably ripped out half of what he has done   because it has always been incorrectly planted  ,sd,FEMALE,1
+['{c or } the plants do not make the winter time. /'],c or  the plants do not make the winter time ,sd,FEMALE,1
+['<child_talking>.'],childtalking,x,FEMALE,8
+"['{c and so } i am kind of at this  point getting a little bit broke and deciding that what we are going to do is we are just  going to struggle through the rest of this year,']",c and so  i am kind of at this  point getting a little bit broke and deciding that what we are going to do is we are just  going to struggle through the rest of this year,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['probably through the fall too. and, {f uh, }']",probably through the fall too and f uh ,+,FEMALE,0
+['<child_talking>.'],childtalking,x,FEMALE,8
+"['[ rip up, + rip out ] all the rest of  these junipers or anything that requires, {f uh, } more care than i am willing to give  the kids and replace it with hollies. /']", rip up  rip out  all the rest of  these junipers or anything that requires f uh  more care than i am willing to give  the kids and replace it with hollies ,+,FEMALE,0
+"['{f uh, } how many kids do you have? /']",f uh  how many kids do you have ,qw,FEMALE,12
+"['just two, /']",just two ,sd,FEMALE,1
+['okay. /'],okay ,bk,FEMALE,14
+['{c but } they are just eighteen months  apart so it seems like a lot more. /'],c but  they are just eighteen months  apart so it seems like a lot more ,sd,FEMALE,1
+"['[ what year, + {e i mean, } how old ] are they? /']", what year  e i mean  how old  are they ,qw,FEMALE,12
+['four and five. /'],four and five ,sd,FEMALE,1
+['four and five.  /'],four and five  ,b^m,FEMALE,24
+['goodness. /'],goodness ,ba,FEMALE,6
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i have got [ a four year, + {f uh, } a four year ]  old and a four month old. and an eight year old stepdaughter. /']",i have got  a four year  f uh  a four year   old and a four month old and an eight year old stepdaughter ,sd,FEMALE,1
+"['{f oh, } {d well, } i have a twenty six year old stepson, /']",f oh  d well  i have a twenty six year old stepson ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+['{c and } i do not know if that counts. /'],c and  i do not know if that counts ,sd,FEMALE,1
+"['{d well, } you do not have to tend to him. /']",d well  you do not have to tend to him ,sd,FEMALE,1
+"['{d well, } i did for many years.  /']",d well  i did for many years  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['{f oh, } you did.  /']",f oh  you did  ,qy^d,FEMALE,16
+['okay.  /'],okay  ,b,FEMALE,2
+['it is over with. /'],it is over with ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,FEMALE,9
+['he is gone. /'],he is gone ,bf,FEMALE,20
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['it is over with. /'],it is over with ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f uh, } back to gardening.  /']",f uh  back to gardening  ,sd,FEMALE,1
+"['are you one of these, {f uh, } howard garrett, organic enthusiasts or a,']",are you one of these f uh  howard garrett organic enthusiasts or a,qy,FEMALE,7
+['<child_talking>.'],childtalking,x,FEMALE,8
+"['neil sperry, nuke the lawn with <laughter> chemicals? /']",neil sperry nuke the lawn with laughter chemicals ,+,FEMALE,0
+"['if i can just nuke it, i would do it.  /']",if i can just nuke it i would do it  ,sd,FEMALE,1
+['{c but } <child_talking> i do not.  /'],c but  childtalking i do not  ,sd,FEMALE,1
+"['i just, - /']",i just  ,%,FEMALE,5
+"['it is like, {f oh, }  i will get out there and pull my weeds.  /']",it is like f oh   i will get out there and pull my weeds  ,sd,FEMALE,1
+['i do not have a real big front yard.  /'],i do not have a real big front yard  ,sd,FEMALE,1
+"['{c but } i do have half of it is a flower bed,']",c but  i do have half of it is a flower bed,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['just about, all by the porch. /']",just about all by the porch ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c because } the porch is pretty big,  /']",c because  the porch is pretty big  ,sd,FEMALE,1
+['i live in town.  /'],i live in town  ,sd,FEMALE,1
+['{c but } just pulling all the weeds out of that just drives me nuts.  /'],c but  just pulling all the weeds out of that just drives me nuts  ,sd,FEMALE,1
+['i do not like it.  /'],i do not like it  ,sd,FEMALE,1
+['{c and } i just went out this weekend <noise> and bought me some plants  and stuff.  /'],c and  i just went out this weekend noise and bought me some plants  and stuff  ,sd,FEMALE,1
+['{c and } i just plowed through the whole nine yards.  /'],c and  i just plowed through the whole nine yards  ,sd,FEMALE,1
+['got up everything.  /'],got up everything  ,sd,FEMALE,1
+['there was <child_talking> some plants that are just spring bloomers -- /'],there was childtalking some plants that are just spring bloomers  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } i, - /']", c and  i  ,%,FEMALE,5
+"['[ the lea-, +   when the blooms died, the leaves ] were just horrible looking. /']", the lea    when the blooms died the leaves  were just horrible looking ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c so } i just broke all them off.  /'],c so  i just broke all them off  ,sd,FEMALE,1
+['it was a hyacinth.  /'],it was a hyacinth  ,sd,FEMALE,1
+['have you ever seen those? /'],have you ever seen those ,qy,FEMALE,7
+"['{f oh, } yeah. /']",f oh  yeah ,ny,FEMALE,9
+"['{f oh, } they are <noise> pretty in the  spring <bird_squawk>.  /']",f oh  they are noise pretty in the  spring birdsquawk  ,sv,FEMALE,3
+"['{c but } the leaves, i do not like them.  /']",c but  the leaves i do not like them  ,sd,FEMALE,1
+"['{d you know, } once, -/']",d you know  once ,%,FEMALE,5
+"['all right,  /']",all right  ,b,FEMALE,2
+['{d now } are you sure they are  hyacinths?  /'],d now  are you sure they are  hyacinths  ,qy,FEMALE,7
+['{c because } that is a bulb. /'],c because  that is a bulb ,sd,FEMALE,1
+['yeah.  /'],yeah  ,ny,FEMALE,9
+['it is a bulb. /'],it is a bulb ,sd,FEMALE,1
+['{d well } you should of just ripped the whole thing out. /'],d well  you should of just ripped the whole thing out ,ad,FEMALE,22
+"['no,  /']",no  ,ar,FEMALE,28
+"['because [ i do like the, + i like the ]  plant in the spring.  /']",because  i do like the  i like the   plant in the spring  ,sd,FEMALE,1
+['i love those pink flowers.  /'],i love those pink flowers  ,sd,FEMALE,1
+['they are just pretty.  /'],they are just pretty  ,sv,FEMALE,3
+['{c so }  i just cut the leaves off and  transplant and put some other plants down.   because i want them to come back up next year. /'],c so   i just cut the leaves off and  transplant and put some other plants down   because i want them to come back up next year ,sd,FEMALE,1
+"['have you had, - /']",have you had  ,%,FEMALE,5
+['is this the first year they have been up? /'],is this the first year they have been up ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{d well, } let me tell you, they do not  come back very well at all.  /']",d well  let me tell you they do not  come back very well at all  ,sv,FEMALE,3
+"['maybe they will [ if, + ] up further north.  /']",maybe they will  if   up further north  ,sd,FEMALE,1
+"['but down, - /']",but down  ,%,FEMALE,5
+['{c and } you are not that much further north.  /'],c and  you are not that much further north  ,sd,FEMALE,1
+"['i have probably planted <sigh>, {f oh, } around here,  {f um, } maybe six hundred bulbs. /']",i have probably planted sigh f oh  around here  f um  maybe six hundred bulbs ,sd,FEMALE,1
+['of hyacinths? /'],of hyacinths ,br,FEMALE,30
+"['no,  /']",no  ,nn,FEMALE,13
+['i [ have probably -- +'],i  have probably  ,sd,FEMALE,1
+"['{f oh, } of everything. /']",f oh  of everything ,bf,FEMALE,20
+['-- have ] done hyacinths.  /'], have  done hyacinths  ,+,FEMALE,0
+['{c but } i have just learned from doing hyacinths that if you really like them what you do is you dig  the bulbs up and then you throw them away after they are done blooming.  because they do not take the heat here.  /'],c but  i have just learned from doing hyacinths that if you really like them what you do is you dig  the bulbs up and then you throw them away after they are done blooming  because they do not take the heat here  ,sd,FEMALE,1
+"['{c and } if they do come back next year,  they are going to look real puny. /']",c and  if they do come back next year  they are going to look real puny ,sv,FEMALE,3
+"['{f oh, } they will? /']",f oh  they will ,qy^d,FEMALE,16
+['yep. /'],yep ,ny,FEMALE,9
+['{f huh. } /'],f huh  ,%,FEMALE,5
+"['about the only [ bloom, + bulb ] that repeats  well in my area is the, {f uh, } {f uh, } daffodil and some of the narcissus bulb. /']",about the only  bloom  bulb  that repeats  well in my area is the f uh  f uh  daffodil and some of the narcissus bulb ,sv,FEMALE,3
+['okay.  /'],okay  ,b,FEMALE,2
+['{d now } i have got some daffodils.  /'],d now  i have got some daffodils  ,sd,FEMALE,1
+"['{c and, } [ we-, + everybody ] down here calls these flags.  {f uh, } the irises i guess, {f uh, } /']",c and   we  everybody  down here calls these flags  f uh  the irises i guess f uh  ,sd,FEMALE,1
+['they call them flags? /'],they call them flags ,br,FEMALE,30
+['that is what they call them down here.  /'],that is what they call them down here  ,sd,FEMALE,1
+"['they get, {f uh, } just one bloom on the plant.  /']",they get f uh  just one bloom on the plant  ,sd,FEMALE,1
+"['[ i do not, + i am not ] sure what they are called. /']", i do not  i am not  sure what they are called ,sd,FEMALE,1
+"['[ when does it, +']", when does it ,qw,FEMALE,12
+"['{c but } i do not much, -/']",c but  i do not much ,%,FEMALE,5
+"['[ wh-, +  when ] does it ] bloom? /']", wh   when  does it  bloom ,+,FEMALE,0
+"['{d well, } i think they are stopped  blooming now, in the spring.  /']",d well  i think they are stopped  blooming now in the spring  ,sd,FEMALE,1
+['it --'],it ,sd,FEMALE,1
+['{c and } what color? /'],c and  what color ,qw,FEMALE,12
+"['-- has got gr-, - /']", has got gr  ,+,FEMALE,0
+"['{f oh, }  they come in all different colors.  /']",f oh   they come in all different colors  ,sd,FEMALE,1
+"['the blooms are, on some of them is yellow, purple, white.  just all different colors. /']",the blooms are on some of them is yellow purple white  just all different colors ,sd,FEMALE,1
+['{c and } you only get one of them? /'],c and  you only get one of them ,qy,FEMALE,7
+"['{d well, } {e i mean, } per bulb.  /']",d well  e i mean  per bulb  ,sd,FEMALE,1
+['you get one big flower that looks like a lily.  /'],you get one big flower that looks like a lily  ,sd,FEMALE,1
+['i do not know what they are called.  /'],i do not know what they are called  ,sd,FEMALE,1
+"['i have always called them, - /']",i have always called them  ,sd,FEMALE,1
+"['{d well, } i do not know what i have called them <buzz>.  /']",d well  i do not know what i have called them buzz  ,sd,FEMALE,1
+"['{c but } when i come down here, everybody told me they are flags. /']",c but  when i come down here everybody told me they are flags ,sd,FEMALE,1
+['{d you know } what i bet you they are?  /'],d you know  what i bet you they are  ,bh,FEMALE,18
+"['{c and } [ i am a pretty, + i am a pretty ] good gardener  /']",c and   i am a pretty  i am a pretty  good gardener  ,sd,FEMALE,1
+['{c because } i have killed a lot of  things here  /'],c because  i have killed a lot of  things here  ,sd,FEMALE,1
+"['[ and, + and ] i have planted a lot of them.  /']", and  and  i have planted a lot of them  ,sd,FEMALE,1
+"['[ {c and, } + {c and } ]  i work on a, {f uh, } landscape committee for our neighborhood. /']", c and   c and    i work on a f uh  landscape committee for our neighborhood ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and } our neighborhood is a planned  development with, i think, it is seven hundred and fifty-five families. /']",c and  our neighborhood is a planned  development with i think it is seven hundred and fiftyfive families ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c but } we have about sixty acres  that we have to plant.  /'],c but  we have about sixty acres  that we have to plant  ,sd,FEMALE,1
+"['i am going to bet you that is a lily. because it is, -/']",i am going to bet you that is a lily because it is ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+['it is some type of lily. /'],it is some type of lily ,sv,FEMALE,3
+"['{c and } i will get, {f uh, } - /']",c and  i will get f uh   ,sd,FEMALE,1
+"['is it, - /']",is it  ,%,FEMALE,5
+"['what color [ is, + is ] yours blooming? /']",what color  is  is  yours blooming ,qw,FEMALE,12
+"['i have got some in the backyard that bloomed  blue.  which i [ would not, +  would have ] liked those in the front because  they match my porch and stuff better. and then some on the side of  the house with the dusty purple color. with little purple spots that [ it, +  it ]  will fade into a solid purple. /']",i have got some in the backyard that bloomed  blue  which i  would not   would have  liked those in the front because  they match my porch and stuff better and then some on the side of  the house with the dusty purple color with little purple spots that  it   it   will fade into a solid purple ,sd,FEMALE,1
+['{c and } what does the foliage look like?  /'],c and  what does the foliage look like  ,qw,FEMALE,12
+"['does it fit that, -/']",does it fit that ,qy,FEMALE,7
+['green spiky leaves.  /'],green spiky leaves  ,sd,FEMALE,1
+"['{d now } it looks almost like a hyacinth only [ a, + a ] lot higher. /']",d now  it looks almost like a hyacinth only  a  a  lot higher ,sd,FEMALE,1
+"['{f oh, } /']",f oh  ,%,FEMALE,5
+['{c and } it --'],c and  it ,sd,FEMALE,1
+"['{f oh, } {f oh. } /']",f oh  f oh  ,%,FEMALE,5
+['-- is a bulb. /'], is a bulb ,+,FEMALE,0
+"['{f oh, } [ i bet you those are, +  i bet you what those things are, ] {f uh, } is a dutch iris. /']",f oh   i bet you those are   i bet you what those things are  f uh  is a dutch iris ,sv,FEMALE,3
+['dutch irises. /'],dutch irises ,b^m,FEMALE,24
+['i bet you it is a dutch iris. /'],i bet you it is a dutch iris ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ [ does it, +  does it ] +    [ [ on its little, +  on its, ] +  on the ]  flower, does it ] have a beard on it at all?  any kind of fuzzies? /']",  does it   does it        on its little   on its    on the   flower does it  have a beard on it at all  any kind of fuzzies ,qy,FEMALE,7
+"['{d you know, } [ i, +  i ] really do not know. /']",d you know   i   i  really do not know ,no,FEMALE,31
+"['i am going to bet you that,  /']",i am going to bet you that  ,sv,FEMALE,3
+['that has  got to be blooming this time of year.  /'],that has  got to be blooming this time of year  ,sv,FEMALE,3
+"['it has, -/']",it has ,%,FEMALE,5
+"['no,  /']",no  ,ar,FEMALE,28
+"[""[ [ [ they are, +  they have, ] +  they're ]  died down. {e i am sorry, } they are dead ] now. /""]",   they are   they have    theyre   died down e i am sorry  they are dead  now ,sd,FEMALE,1
+"['{d well, } i was --']",d well  i was ,sd,FEMALE,1
+['they bloom in the spring. /'],they bloom in the spring ,sd,FEMALE,1
+['-- just going to correct myself.  /'], just going to correct myself  ,+,FEMALE,0
+['{c because } they would have bloomed pretty early. /'],c because  they would have bloomed pretty early ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d well, } -/']",d well  ,%,FEMALE,5
+['they bloomed in the spring. /'],they bloomed in the spring ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['right about after the daffodils? /'],right about after the daffodils ,qy^d,FEMALE,16
+['right about the same time or after. /'],right about the same time or after ,na,FEMALE,21
+['okay.  /'],okay  ,bk,FEMALE,14
+['i will bet you those are dutch iris. /'],i will bet you those are dutch iris ,sv,FEMALE,3
+"['[ i would took, +  i took ]  and just mowed over them last year. /']", i would took   i took   and just mowed over them last year ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and, } {f uh, } we have been, - /']",c and  f uh  we have been  ,sd,FEMALE,1
+"['[ i, +  i ] do not much care for them.  /']", i   i  do not much care for them  ,sd,FEMALE,1
+"['after the bloom dies, they are not pretty.  /']",after the bloom dies they are not pretty  ,sv,FEMALE,3
+['{c and } --'],c and  ,sd,FEMALE,1
+"['{d well, } -/']",d well  ,%,FEMALE,5
+['-- to me it just looks like a bunch of leaves.  /'], to me it just looks like a bunch of leaves  ,+,FEMALE,0
+"['{c but } i took them out of my front yard,  /']",c but  i took them out of my front yard  ,sd,FEMALE,1
+"['{c and } i just threw them on the side,  intending to transplant them or  throw them away or something.']",c and  i just threw them on the side  intending to transplant them or  throw them away or something,sd,FEMALE,1
+['yep. /'],yep ,b,FEMALE,2
+['and forgot about them through  the whole winter.  /'],and forgot about them through  the whole winter  ,+,FEMALE,0
+"['{d well, } i went out there this spring,  /']",d well  i went out there this spring  ,sd,FEMALE,1
+"['{c and } they had took root  right where they were, on top of each other.  /']",c and  they had took root  right where they were on top of each other  ,sd,FEMALE,1
+"['{c and } they told me that they  are the hardest things [ to, +  {d you know, }']",c and  they told me that they  are the hardest things  to   d you know ,sd,FEMALE,1
+['{d well } <<faintly>>. -/'],d well  faintly ,%,FEMALE,5
+['to ] kill.  /'],to  kill  ,+,FEMALE,0
+['{c but } they are real easy to grow. /'],c but  they are real easy to grow ,sd,FEMALE,1
+['{f ooh. } /'],f ooh  ,ba,FEMALE,6
+['does that help?  <laughter>. /'],does that help  laughter ,qy,FEMALE,7
+"['{d well } then [ it is not, +   it is not ] a dutch iris then.  /']",d well  then  it is not    it is not  a dutch iris then  ,sd,FEMALE,1
+"['{f oh, } gosh. /']",f oh  gosh ,ba,FEMALE,6
+"['[ i do not, + i am not ] sure what it is.  /']", i do not  i am not  sure what it is  ,sd,FEMALE,1
+['they said that they are irises.  /'],they said that they are irises  ,sd,FEMALE,1
+['it is some type of iris though. /'],it is some type of iris though ,sd,FEMALE,1
+['{f huh. } /'],f huh  ,%,FEMALE,5
+"['{c but } they call them flags [ up here +   {e or } [ down here, + down here. ] ] /']",c but  they call them flags  up here    e or   down here  down here   ,sd,FEMALE,1
+"['{d well, } i am not so sure that texans  know [ what, +  what ] they have got. /']",d well  i am not so sure that texans  know  what   what  they have got ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+['i do not know what it is.  /'],i do not know what it is  ,sd,FEMALE,1
+"['[ [ i am, +   i am not on, ] +  i am  just getting into ] gardening this year. /']",  i am    i am not on    i am  just getting into  gardening this year ,sd,FEMALE,1
+['did you just move down here? /'],did you just move down here ,qy,FEMALE,7
+"['{f uh, } we moved here a year ago  <child_talking>.  /']",f uh  we moved here a year ago  childtalking  ,na,FEMALE,21
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['last spring.  /'],last spring  ,sd,FEMALE,1
+"['we moved in [ here may, + this house, may ] of last year.  /']",we moved in  here may  this house may  of last year  ,sd,FEMALE,1
+['{c so } it was really too late to do much. /'],c so  it was really too late to do much ,sv,FEMALE,3
+"['{f um. }  [ [ [ who, +  who, ] +  who, ] +  who. ] - /']",f um      who   who    who    who   ,%,FEMALE,5
+"['{c because } [ [ i have got a flower, + i have got, ] +  i have probably got, ] {a [ [ [ [ do, +  do, ] + do, ] + do, ] +   i do ]  not know how many square feet it is, } a big circular driveway.  /']",c because    i have got a flower  i have got    i have probably got  a     do   do   do   do     i do   not know how many square feet it is  a big circular driveway  ,sd,FEMALE,1
+"['the whole, {f uh, } perimeter  bordering the house is all in texas wildflower beds.  /']",the whole f uh  perimeter  bordering the house is all in texas wildflower beds  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['-- i am into that.  /'], i am into that  ,+,FEMALE,0
+"['[ {c and } it, +   {c and } it ] looks quite formal.  /']", c and  it    c and  it  looks quite formal  ,sd,FEMALE,1
+"['{e i mean } it really does,  /']",e i mean  it really does  ,sd,FEMALE,1
+['it looks --'],it looks ,sd,FEMALE,1
+"['{d well, } that is, -/']",d well  that is ,%,FEMALE,5
+['-- quite formal.  /'], quite formal  ,+,FEMALE,0
+"['{c but } it has been  about three or four years of, {f uh, } {f uh, } playing around with flowers to [ de-, +  decide ]  which ones actually grow here. /']",c but  it has been  about three or four years of f uh  f uh  playing around with flowers to  de   decide   which ones actually grow here ,sd,FEMALE,1
+"['{d well, } what kind of blue?  /']",d well  what kind of blue  ,qw,FEMALE,12
+"['[ i am wanting bl-, +']", i am wanting bl ,sd,FEMALE,1
+['you want blue? /'],you want blue ,qy,FEMALE,7
+"['i want blue ] and purple and,  {d you know, } just different shades of that. {c because } [ my, +  my ] house is gray,  /']",i want blue  and purple and  d you know  just different shades of that c because   my   my  house is gray  ,+,FEMALE,0
+['{c and }  blue looks so pretty --'],c and   blue looks so pretty ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- against it. /'], against it ,+,FEMALE,0
+"['{f ooh, } blue is hard, {d you know. }  /']",f ooh  blue is hard d you know   ,sv,FEMALE,3
+['do you want a perennial flower that will bloom all summer? /'],do you want a perennial flower that will bloom all summer ,qy,FEMALE,7
+"['i bought, - /']",i bought  ,sd,FEMALE,1
+"['{d well, } i would like  to have one that would bloom next year too.  /']",d well  i would like  to have one that would bloom next year too  ,sd,FEMALE,1
+['that will come back up. /'],that will come back up ,sd,FEMALE,1
+['okay.  /'],okay  ,bk,FEMALE,14
+['put in a perennial blue salvia.  /'],put in a perennial blue salvia  ,ad,FEMALE,22
+"['now [ it is going to grow about, + {f um, } the plant itself will grow about ]  eighteen inches tall. /']",now  it is going to grow about  f um  the plant itself will grow about   eighteen inches tall ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } it will send out a flower spike.  /'],c and  it will send out a flower spike  ,sd,FEMALE,1
+['you will see them blooming now.  /'],you will see them blooming now  ,sd,FEMALE,1
+"['it is a wildflower here,  /']",it is a wildflower here  ,sd,FEMALE,1
+['{c but } you can get them in the nursery. /'],c but  you can get them in the nursery ,sd,FEMALE,1
+['i am looking for a pen.  /'],i am looking for a pen  ,sd,FEMALE,1
+"['i want to write this down because, - /']",i want to write this down because  ,sd,FEMALE,1
+"['{d well, } that is where i went this year.  /']",d well  that is where i went this year  ,sd,FEMALE,1
+['{c because } i waited too late to really plant stuff.  /'],c because  i waited too late to really plant stuff  ,sd,FEMALE,1
+"['{c but } i did not know that these hyacinths, - /']",c but  i did not know that these hyacinths  ,sd,FEMALE,1
+"['like i said, i do not know anything about plants.  /']",like i said i do not know anything about plants  ,sd,FEMALE,1
+"['i did not know the [ hya-, +  hyacinths ]  were going to die. /']",i did not know the  hya   hyacinths   were going to die ,sd,FEMALE,1
+['yep.  /'],yep  ,b,FEMALE,2
+"['{d well, } the, {d you know, } [ e-, +   nursery ] men [ will se-, +  will sell ] you things here.  /']",d well  the d you know   e    nursery  men  will se   will sell  you things here  ,sd,FEMALE,1
+"['{c and } [ they are, +  they are ]  kind of in a labor of love.  /']",c and   they are   they are   kind of in a labor of love  ,sd,FEMALE,1
+"['the other thing to do if you, [ re-, +  really ] like the hyacinths,  {a and i do, } is that before you plant those bulbs, stick them in the refrigerator  for five weeks or so to cool them. /']",the other thing to do if you  re   really  like the hyacinths  a and i do  is that before you plant those bulbs stick them in the refrigerator  for five weeks or so to cool them ,ad,FEMALE,22
+['yeah.  /'],yeah  ,b,FEMALE,2
+['that is what i did with my plants.  /'],that is what i did with my plants  ,sd,FEMALE,1
+"['i had bought these, {f uh, } [ colossians +  <clanking> --']",i had bought these f uh   colossians   clanking ,sd,FEMALE,1
+['yep. /'],yep ,b,FEMALE,2
+['-- celosias ] or whatever.  /'], celosias  or whatever  ,+,FEMALE,0
+['{c and } they will not grow down here. /'],c and  they will not grow down here ,sd,FEMALE,1
+['huh-uh. /'],huhuh ,b,FEMALE,2
+['okay.  /'],okay  ,b,FEMALE,2
+['perennial. /'],perennial ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['blue. /'],blue ,sd,FEMALE,1
+['salvia. /'],salvia ,^2,FEMALE,23
+['salvia. /'],salvia ,b^m,FEMALE,24
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['{c and } {d now } that will bloom  all summer long  /'],c and  d now  that will bloom  all summer long  ,sd,FEMALE,1
+"['[ {c and } [ it will, + it, ] + {c but } it ] insists on full sun. /']", c and   it will  it   c but  it  insists on full sun ,sd,FEMALE,1
+"['okay,  /']",okay  ,b,FEMALE,2
+"['[ i bought me, + {f oh, } i guess,  i just went and bought me ] just about nineteen dollars worth of little [ bu-, +  buds, ] [ planted, +']", i bought me  f oh  i guess  i just went and bought me  just about nineteen dollars worth of little  bu   buds   planted ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } already grown. ] /']",f uh  already grown  ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and } it looks pretty good out there. /'],c and  it looks pretty good out there ,sd,FEMALE,1
+['i will tell you another plant that is purply <buzz>. /'],i will tell you another plant that is purply buzz ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ [ [ i-, +  i-, ] + it, ] + it ]  is [ dark purply, + kind of a purply ] blue red. /']",   i   i   it   it   is  dark purply  kind of a purply  blue red ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['it is really a pretty plant.  /'],it is really a pretty plant  ,sv,FEMALE,3
+['it is sold down here as purple buddy. /'],it is sold down here as purple buddy ,sd,FEMALE,1
+['purple buddy? /'],purple buddy ,br,FEMALE,30
+"[""{d now, } it's not, - /""]",d now  its not  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['it is not a perennial,  /']",it is not a perennial  ,sd,FEMALE,1
+['it is an annual.  /'],it is an annual  ,sd,FEMALE,1
+['{c but } it will take the heat down here. /'],c but  it will take the heat down here ,sd,FEMALE,1
+['purple buddy. /'],purple buddy ,sd,FEMALE,1
+['purple buddy.  /'],purple buddy  ,sd,FEMALE,1
+"['its [ [ p-, +  p-, ] +  proper ] name is gomphrena. /']",its   p   p    proper  name is gomphrena ,sd,FEMALE,1
+['how do you spell that? /'],how do you spell that ,qw,FEMALE,12
+['g o m p h r e n a.  /'],g o m p h r e n a  ,sd,FEMALE,1
+['gomphrena.  /'],gomphrena  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+['okay. /'],okay ,bk,FEMALE,14
+['-- is sold as purple buddy  or sometimes sold as straw flower.  /'], is sold as purple buddy  or sometimes sold as straw flower  ,+,FEMALE,0
+"['{c and } they make, {f uh, } {f oh, } about a foot high plant.  /']",c and  they make f uh  f oh  about a foot high plant  ,sd,FEMALE,1
+"['{c and } they send out [ this, +  this ] spike that has this purple ball on the top of it.  /']",c and  they send out  this   this  spike that has this purple ball on the top of it  ,sd,FEMALE,1
+"['{c but } that purple ball, -/']",c but  that purple ball ,sd,FEMALE,1

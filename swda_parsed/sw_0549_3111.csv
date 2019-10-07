@@ -1,0 +1,228 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""{d well, } hal, [ what's, + {f uh, } what's  ] crime like in dallas? /""]",d well  hal  whats  f uh  whats   crime like in dallas ,qw,MALE,12
+"['{d well, } it depends where in dallas you are. /']",d well  it depends where in dallas you are ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['there are certainly parts of town i would not want to <laughter> live in. /'],there are certainly parts of town i would not want to laughter live in ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c because } it's the situation  /""]",c because  its the situation  ,sd,MALE,1
+['it is very location dependent -- /'],it is very location dependent  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } there are parts of town here where, when they talk about the nightly gunfire. -/']", c and  there are parts of town here where when they talk about the nightly gunfire ,sd,MALE,1
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+['in baltimore we have similar. - /'],in baltimore we have similar  ,sd,MALE,1
+"['{f uh, } i live on the outskirts of baltimore  /']",f uh  i live on the outskirts of baltimore  ,sd,MALE,1
+"['{c and, } {f uh, } we live right outside the city  /']",c and  f uh  we live right outside the city  ,sd,MALE,1
+"[""{c and } our neighborhood is pretty much working class people, though i'm in graduate school, {f uh, }  /""]",c and  our neighborhood is pretty much working class people though im in graduate school f uh   ,sd,MALE,1
+"[""i live here because it's close to the university. /""]",i live here because its close to the university ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but, } {d you know, } we have, {f uh, } - /']",c but  d you know  we have f uh   ,%,MALE,5
+"[""[ it, + it's  ] really funny,  /""]", it  its   really funny  ,sd,MALE,1
+"['the only crime we really see is, {f uh, } just the kids being malicious. /']",the only crime we really see is f uh  just the kids being malicious ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{d you know, } {c and } i think most of that is because their parents aren't around.  /""]",d you know  c and  i think most of that is because their parents arent around  ,sv,MALE,3
+['that make sense? /'],that make sense ,"fo_o_fw_""_by_bc",MALE,0
+['yeah. /'],yeah ,aa,MALE,4
+['yeah. /'],yeah ,b,MALE,2
+"['[ [ that, +  {f uh, } the, ] +  what  they call the ] latchkey children. /']",  that   f uh  the    what  they call the  latchkey children ,bf,MALE,20
+"['yeah,  /']",yeah  ,b,MALE,2
+['something like that.  /'],something like that  ,h,MALE,15
+"[""no one's, {d you know, } - /""]",no ones d you know   ,%,MALE,5
+"['[ {c or, } + {c or } ] fathers are just missing, {d you know, }  /']", c or   c or   fathers are just missing d you know   ,sv,MALE,3
+"[""{c so } there's [ no, + {f uh, } no  ] consistency there in the home or  whatever.  /""]",c so  theres  no  f uh  no   consistency there in the home or  whatever  ,sv,MALE,3
+"[""there's no one to tell them what's right and what's wrong,  {d you know. } /""]",theres no one to tell them whats right and whats wrong  d you know  ,sv,MALE,3
+['yeah.  /'],yeah  ,b,MALE,2
+['[ the +   (( sort of ))  on my end is more of the ] upper middle class  /'], the     sort of   on my end is more of the  upper middle class  ,sd,MALE,1
+['{c so } --'],c so  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- i think our, {f uh, } - /']", i think our f uh   ,+,MALE,0
+"[""not that we don't have a certain amount of local problems --  /""]",not that we dont have a certain amount of local problems   ,sd,MALE,1
+['uh-huh <<faint>>.   /'],uhhuh faint   ,b,MALE,2
+"['-- {c but } on the other hand, {f uh, } we get the, {f uh, } affect of [ the, + {f uh, } the  ] city  /']", c but  on the other hand f uh  we get the f uh  affect of  the  f uh  the   city  ,sd,MALE,1
+"['{c and, } {f uh, } the main crimes within the suburb here are [ the, + the  ] theft crimes.']",c and  f uh  the main crimes within the suburb here are  the  the   theft crimes,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['a small number of assaults,  /']",a small number of assaults  ,+,MALE,0
+"['{f uh, } {d well, } if we have one murder a year --']",f uh  d well  if we have one murder a year ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- that's probably as many, - /""]", thats probably as many  ,+,MALE,0
+"['{c but then, } {d you know, } you go into dallas  and they are, unfortunately --']",c but then  d you know  you go into dallas  and they are unfortunately ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } having murders --']", f uh  having murders ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+['-- at a rate greater than one a day. /'], at a rate greater than one a day ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i think [ that's, +  we're ] about the same in baltimore.  /""]",i think  thats   were  about the same in baltimore  ,sd,MALE,1
+"['though, {f uh, } washington, i think is, {f uh, } close by  /']",though f uh  washington i think is f uh  close by  ,sd,MALE,1
+"['{c and, } {d you know, } they experience a lot more. /']",c and  d you know  they experience a lot more ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['i think they definitely have more problems [ that, + ] {f uh, } [ in, + in ] the area.  /']",i think they definitely have more problems  that   f uh   in  in  the area  ,sd,MALE,1
+"['[ what, + what  ] do you think can prevent crime? /']", what  what   do you think can prevent crime ,qw,MALE,12
+"[""{d well, } the thing is, i don't, - /""]",d well  the thing is i dont  ,%,MALE,5
+"[""it's one of those things where, if you're a grad student you can appreciate the statistics on -- -/""]",its one of those things where if youre a grad student you can appreciate the statistics on  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- unfortunately there are often these correlations that are inverse of what they should be like, {f uh, } wherever there are more, {f uh, } criminals, there are more policemen -- /']", unfortunately there are often these correlations that are inverse of what they should be like f uh  wherever there are more f uh  criminals there are more policemen  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- {c but } that's which came first. /""]", c but  thats which came first ,sd,MALE,1
+['yeah <laughter>. /'],yeah laughter ,b,MALE,2
+"['{c but, } on the other side of it is - /']",c but  on the other side of it is  ,%,MALE,5
+"[""[ [ it's, + it's  ] +  basically [ the, + the  ] problem is ]  [ within the, + in the  ] society --""]",  its  its     basically  the  the   problem is    within the  in the   society ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- and the society's views  /""]", and the societys views  ,+,MALE,0
+"[""{c and, } {d well, } {f uh, } since now i'm in my mid-forties, when i was in grad school or when i was an undergraduate growing up in a more rural area --""]",c and  d well  f uh  since now im in my midforties when i was in grad school or when i was an undergraduate growing up in a more rural area ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- i thought, {d you know, } crime [ was, + was  ] reasonably unknown --']", i thought d you know  crime  was  was   reasonably unknown ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""-- and just the situation that's developed with [ the, +  the ] drug --   *[[new slash unit?]]""]", and just the situation thats developed with  the   the  drug    new slash unit,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['-- aspect of, {f uh } --']", aspect of f uh  ,+,MALE,0
+['uh-huh. /'],uhhuh ,+,MALE,0
+"['-- {f uh, } the pushers, the dealers and the addicts, {f uh, } /']", f uh  the pushers the dealers and the addicts f uh  ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['[ [ i, + i,  ] + i  ] think, i agree with you there. /']",  i  i    i   think i agree with you there ,aa,MALE,4
+"['{c because } it just was not, {f uh, } something back in the sixties that --']",c because  it just was not f uh  something back in the sixties that ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } i even had to worry about.  /']", f uh  i even had to worry about  ,+,MALE,0
+"['{c but } i think, {d you know, } that there is a lot in the society where things have changed,  /']",c but  i think d you know  that there is a lot in the society where things have changed  ,sv,MALE,3
+"[""{f uh, } {c so } it's effected all of us. /""]",f uh  c so  its effected all of us ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i think [ they, +  the drug culture ] definitely [ has, + {f uh, } is  ] one of the main problems.  /']",i think  they   the drug culture  definitely  has  f uh  is   one of the main problems  ,sv,MALE,3
+"['yeah,  /']",yeah  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['<lipsmack> because it would eliminate [ the, + {f uh, } the  ] violence and     [ [ [ the, +  {f uh, }  the   under-, ] +  <lipsmack>  the, ] +  the   market, ] i guess, [ the, + the  ] hidden market of the drugs and everything that goes along with it. /  *[[sv]]']",lipsmack because it would eliminate  the  f uh  the   violence and        the   f uh   the   under    lipsmack  the    the   market  i guess  the  the   hidden market of the drugs and everything that goes along with it   sv,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['that make sense?  /'],that make sense  ,"fo_o_fw_""_by_bc",MALE,0
+"[""he's one of the big proponents of that.  /""]",hes one of the big proponents of that  ,sd,MALE,1
+"['he gets on national television [ and, + and  ] says that, {d you know. }  /']",he gets on national television  and  and   says that d you know   ,sd,MALE,1
+"[""{c so } it's, {f uh } <lipsmack>, - /""]",c so  its f uh  lipsmack  ,%,MALE,5
+"['{c and } he was  [ [ a  d-, +  d-, ] +  a district ] attorney before, and a prosecutor before  [ becoming, + becoming  ] mayor.  /']",c and  he was    a  d   d    a district  attorney before and a prosecutor before   becoming  becoming   mayor  ,sd,MALE,1
+"[""{c so } that's a really stran-, - /""]",c so  thats a really stran  ,sv,MALE,3
+"[""{d you know, } it's a different viewpoint.  /""]",d you know  its a different viewpoint  ,sv,MALE,3
+"['i, {f uh, } -/']",i f uh  ,%,MALE,5
+"[""{d you know, } in a sense [ [ i don't, +  i'm n-, ] +  i have ] real mixed feelings on that -- /""]",d you know  in a sense   i dont   im n    i have  real mixed feelings on that  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- {c because } it comes a bit from the angle that the, {f uh, } {f uh, } - /']", c because  it comes a bit from the angle that the f uh  f uh   ,%,MALE,5
+['it would certainly be an interesting test -- /'],it would certainly be an interesting test  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c but } the other side of it, to me, -/']", c but  the other side of it to me ,%,MALE,5
+['what happens if we lose worse. /'],what happens if we lose worse ,qh,MALE,26
+"['{f uh, } y-, - /']",f uh  y  ,%,MALE,5
+"['{d well, } the other side is that unfortunately some of the down side, - /']",d well  the other side is that unfortunately some of the down side  ,%,MALE,5
+"[""{c and } i think if i look back fifty or a hundred years i'd say, {d you know, } back then there were the opium dens -- /""]",c and  i think if i look back fifty or a hundred years id say d you know  back then there were the opium dens  ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"[""-- {c but } the thing is, if somebody ruined their life, {f uh, } society didn't try to then save themselves from it,  /""]", c but  the thing is if somebody ruined their life f uh  society didnt try to then save themselves from it  ,sd,MALE,1
+['they let this person who had ruined it --'],they let this person who had ruined it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } [ become, + {d well, } die  ] or whatever.  /']", f uh   become  d well  die   or whatever  ,+,MALE,0
+['{e i mean } --'],e i mean  ,sd,MALE,1
+"['right,  /']",right  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['-- they probably became weakened physically and other things to the point that their life expectancy was real short,  /']", they probably became weakened physically and other things to the point that their life expectancy was real short  ,+,MALE,0
+"['{c but } now we tend to believe somewhere in the health care system otherwise,  /']",c but  now we tend to believe somewhere in the health care system otherwise  ,sv,MALE,3
+"['we need to take care of people even if they have, {d you know, } physically ruined themselves. /']",we need to take care of people even if they have d you know  physically ruined themselves ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['they have induced it themselves. /'],they have induced it themselves ,sv,MALE,3
+['yeah -- /'],yeah  ,b,MALE,2
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's true. /""]",thats true ,aa,MALE,4
+"[""-- {c and so, } to me that's, - /""]", c and so  to me thats  ,%,MALE,5
+"['[ i, + {f uh, } i  ] would certainly like to see a real test [  of, +  of  ] making drugs real cheap --']", i  f uh  i   would certainly like to see a real test   of   of   making drugs real cheap ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- to see if when you make them available people then don't use them. /""]", to see if when you make them available people then dont use them ,+,MALE,0
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['{d well } i think --'],d well  i think ,sd,MALE,1
+"['-- {d you know, } they did that in alaska.   [ that, + that ] actually, alaska just recently legalized marijuana. /  *[[two utts]]']", d you know  they did that in alaska    that  that  actually alaska just recently legalized marijuana   two utts,+,MALE,0
+['uh-huh. /'],uhhuh ,+,MALE,0
+"['{c but } [ i never, + i never  ] heard results or anything like that,  /']",c but   i never  i never   heard results or anything like that  ,sd,MALE,1
+"['{c so } i never,  {d you know, } - /']",c so  i never  d you know   ,%,MALE,5
+"[""plus, [ [ that's such a, +  that's not a ] true, +  {f uh, } <lipsmack> {d you know, } it really couldn't be a good ] test because alaska's so different than every other part of the country. /""]",plus   thats such a   thats not a  true   f uh  lipsmack d you know  it really couldnt be a good  test because alaskas so different than every other part of the country ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{d you know, } [ {c so } that, +  {c but } that ] was interesting, {d you know, }  /']",d you know   c so  that   c but  that  was interesting d you know   ,sd,MALE,1
+"[""[ i, + i  ] don't, - /""]", i  i   dont  ,%,MALE,5
+"[""crime is one of those things that's, {f uh, } <lipsmack> - /""]",crime is one of those things thats f uh  lipsmack  ,%,MALE,5
+"[""[ i, + i  ] don't know, {d you know, }  /""]", i  i   dont know d you know   ,h,MALE,15
+"['the drug culture, - /']",the drug culture  ,%,MALE,5
+"['[ the, + {f uh, } the,  ] {f uh, } {d you know, } - /']", the  f uh  the   f uh  d you know   ,%,MALE,5
+"['[ i, +  i ] see it with the kids in the neighborhood just stealing things, not thinking anything wrong with it. /']", i   i  see it with the kids in the neighborhood just stealing things not thinking anything wrong with it ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{d well, } [ th-, +  some of that, ] - /']",d well   th   some of that   ,%,MALE,5
+"[""{c and, } of course, i'm a baby of the old school -- /""]",c and  of course im a baby of the old school  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- {c but, } [ it, + it  ] bothers me from the fifties on,  /']", c but   it  it   bothers me from the fifties on  ,sd,MALE,1
+"[""not that i'd remember that much --""]",not that id remember that much ,h,MALE,15
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- from the fifties  /'], from the fifties  ,+,MALE,0
+"['[ {c but, } + {c but }  ] basically we have so much more of the something for nothing mentality. /']", c but   c but    basically we have so much more of the something for nothing mentality ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's true.  /""]",thats true  ,aa,MALE,4
+"[""that's true.  /""]",thats true  ,aa,MALE,4
+['we worked hard for everything.  /'],we worked hard for everything  ,sd,MALE,1
+"[""that's very true. /""]",thats very true ,aa,MALE,4
+['{c and so } they -- -/'],c and so  they  ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- in the, - /']", in the  ,%,MALE,5
+"['there were the sixty-four thousand dollar question shows in the fifties,  /']",there were the sixtyfour thousand dollar question shows in the fifties  ,sd,MALE,1
+"[""{c but } nowadays, there's so much on tv [ where, + where  ] people seem to have the idea they can get something for nothing.  /""]",c but  nowadays theres so much on tv  where  where   people seem to have the idea they can get something for nothing  ,sd,MALE,1
+['of course --'],of course ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } i work for lawyers a lot  /']", f uh  i work for lawyers a lot  ,+,MALE,0
+"[""{c and } i see, unfortunately, we have this whole mentality that somehow there are these pots of money out there that you can sue somebody and, {d you know, } there's a million dollars you can have --""]",c and  i see unfortunately we have this whole mentality that somehow there are these pots of money out there that you can sue somebody and d you know  theres a million dollars you can have ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } for mental duress or whatever. /']", f uh  for mental duress or whatever ,+,MALE,0
+['yeah <laughter>. /'],yeah laughter ,b,MALE,2
+"['{c but, } {d you know, } the other thing that bothers me in the crime is the, {f uh, } - /']",c but  d you know  the other thing that bothers me in the crime is the f uh   ,sd,MALE,1
+"['in europe, they seem to have mentality,  /']",in europe they seem to have mentality  ,%,MALE,5
+"['{c and } drunk driving is a good one,  /']",c and  drunk driving is a good one  ,%,MALE,5
+['is that  people are well indoctrinated in their society that drunken driving is unacceptable. /'],is that  people are well indoctrinated in their society that drunken driving is unacceptable ,sd,MALE,1
+['right. /'],right ,aa,MALE,4
+"['{c and, } yeah,  /']",c and  yeah  ,%,MALE,5
+"[""if you're going to drink, and you may drink, you better have your designated driver. /""]",if youre going to drink and you may drink you better have your designated driver ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+['and we mean it. /'],and we mean it ,+,MALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+"['[ that, + i think that,  ] {f uh, } the drunk driving has [ just + actually, just  ] caught on.  /']", that  i think that   f uh  the drunk driving has  just  actually just   caught on  ,sv,MALE,3
+"['{f uh, }']",f uh ,%,MALE,5
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['[ {c a-, } +  {c and } ] [ [ i, + i, ] + i ] really, {f uh, } - /']", c a    c and     i  i   i  really f uh   ,+,MALE,0
+['my father was hit by a drunk driver when i was in high school -- /'],my father was hit by a drunk driver when i was in high school  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and, } {f uh, } [ that was a very, + {f uh, } [ that, + that  ] was   an awful ] three years afterwards.  {d you know, } of recovery --']", c and  f uh   that was a very  f uh   that  that   was   an awful  three years afterwards  d you know  of recovery ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- and the difficulties and, {f uh, } everything we did  /']", and the difficulties and f uh  everything we did  ,+,MALE,0
+"['{c and, } {d you know, } the guy went free because this was twelve years ago --']",c and  d you know  the guy went free because this was twelve years ago ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- thirteen years ago,  /']", thirteen years ago  ,+,MALE,0
+"['there was no, - /']",there was no  ,%,MALE,5
+"['his father was even, the, {f uh, } police chief of the town. /']",his father was even the f uh  police chief of the town ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c so } there was no repercussion at all.  {d you know, } other than insurance,  /']",c so  there was no repercussion at all  d you know  other than insurance  ,sd,MALE,1
+['{c but }  he was uninsured. /'],c but   he was uninsured ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{c so, } {f uh, } our insurance paid for everything,  /']",c so  f uh  our insurance paid for everything  ,sd,MALE,1
+['{c but } it was a very difficult time  /'],c but  it was a very difficult time  ,sd,MALE,1
+"['[ {c and, } +  {c and then } ] later, {a this was actually funny, }  my brother and i were picked up by the police for questioning because this fellow had bought [ a, + a  ] new car  /']", c and    c and then   later a this was actually funny   my brother and i were picked up by the police for questioning because this fellow had bought  a  a   new car  ,sd,MALE,1
+['{c and } somebody had taken {d like } a baseball bat to it --'],c and  somebody had taken d like  a baseball bat to it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- and broke all his windows and his lights and [ his, + ] dented it everywhere,  /']", and broke all his windows and his lights and  his   dented it everywhere  ,+,MALE,0
+['{c and } they came and questioned us. /'],c and  they came and questioned us ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['{d you know, } {c and, } -/']",d you know  c and  ,%,MALE,5
+"['{c but, } that kind of shows how our attitude toward drinking --']",c but  that kind of shows how our attitude toward drinking ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+"['-- and driving was, {f uh, } misplaced --']", and driving was f uh  misplaced ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- for years -- /'], for years  ,+,MALE,0
+"['-- [ that, + {d you know, }  it  ] was an acceptable social behavior. /']",  that  d you know   it   was an acceptable social behavior ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+['very much so.  /'],very much so  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['[ that, +  those ] are some important points.  /']", that   those  are some important points  ,sv,MALE,3
+"['yeah,  /']",yeah  ,%,MALE,5
+"['i, - /']",i  ,%,MALE,5
+"[""[ that's, + those   are, ] -/""]", thats  those   are  ,%,MALE,5
+"['[ what are, +  what does ] your city have for gun control if anything? /']", what are   what does  your city have for gun control if anything ,qw,MALE,12
+"['{d well, } {d see } maryland is one of the most, - /']",d well  d see  maryland is one of the most  ,%,MALE,5
+"['we just voted in, {f uh, } [ gun control, +  strong gun control ] here in the state of maryland.  /']",we just voted in f uh   gun control   strong gun control  here in the state of maryland  ,sd,MALE,1
+"['[ i, + i  ] think, -/']", i  i   think ,%,MALE,5

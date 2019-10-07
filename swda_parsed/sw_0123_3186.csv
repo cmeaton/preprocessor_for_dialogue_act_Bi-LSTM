@@ -1,0 +1,164 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['all right, this is easy for me since i, -/']",all right this is easy for me since i ,sd,MALE,1
+"['{c and } me too, because i eat out a lot. /']",c and  me too because i eat out a lot ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{d well } i travel,  /']",d well  i travel  ,sd,MALE,1
+['i do about forty percent of my time [ is + ] on the road. /'],i do about forty percent of my time  is   on the road ,sd,MALE,1
+['{c so } you eat all your meals out. /'],c so  you eat all your meals out ,bf,MALE,20
+"['i eat a lot of meals out,  /']",i eat a lot of meals out  ,sd,MALE,1
+"[""{d well } i'm also married  /""]",d well  im also married  ,sd,MALE,1
+"['{c and } my wife is an a one cook,  /']",c and  my wife is an a one cook  ,sd,MALE,1
+"['{c but } she enjoys eating out,  /']",c but  she enjoys eating out  ,sd,MALE,1
+['{c so } i have to share it with her.  /'],c so  i have to share it with her  ,sd,MALE,1
+"[""{c and, }  {f uh, } actually it's very easy for me, because  [ i, + i ] [ have a prac-, + make it a practice ] when i am out,  /""]",c and   f uh  actually its very easy for me because   i  i   have a prac  make it a practice  when i am out  ,sd,MALE,1
+['i eat differently than what i could eat at home or around here. /'],i eat differently than what i could eat at home or around here ,sd,MALE,1
+['sure. /'],sure ,b,MALE,2
+"['{c so, }  i look for just about anything,  /']",c so   i look for just about anything  ,sd,MALE,1
+"[""{c and } [ [ it's, + it's, ] + {f uh, } it's ] a lot of fun.  /""]",c and    its  its   f uh  its  a lot of fun  ,sd,MALE,1
+"[""i don't have to [ worry, + really worry ] too much about price considerations because i, {d you know, } -/""]",i dont have to  worry  really worry  too much about price considerations because i d you know  ,sd,MALE,1
+"['i was going to ask you, could you go to,  {d you know, } nice places,  /']",i was going to ask you could you go to  d you know  nice places  ,qy,MALE,7
+"['{c and, } -/']",c and  ,%,MALE,5
+"['{f oh, } sure,  /']",f oh  sure  ,na,MALE,21
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""{c and }  [ it's, + it's ] really great.  /""]",c and    its  its  really great  ,sd,MALE,1
+"['[ [ i, + i, ] +']",  i  i  ,sd,MALE,1
+['<sniffing>.'],sniffing,x,MALE,8
+['i ] like different types of food. /'],i  like different types of food ,+,MALE,0
+"[""{d so } [ where are your, + what are the ]  [ places, + {d you know, } memorable places ] you've eaten? /""]",d so   where are your  what are the    places  d you know  memorable places  youve eaten ,qw,MALE,12
+"['{f uh, } {f oh } [ you na-, + okay you name ] it.  /']",f uh  f oh   you na  okay you name  it  ,sd,MALE,1
+"[""let's see,  /""]",lets see  ,^h,MALE,27
+"[""you've got one [ down in, + {f uh, } down near, ] {f uh, } addison,  /""]",youve got one  down in  f uh  down near  f uh  addison  ,sd,MALE,1
+"[""{f uh, } there's two restaurants that i particularly like  that [ i, + every time i get into texas or i get into atlanta, georgia, ] i make sure i go,  /""]",f uh  theres two restaurants that i particularly like  that  i  every time i get into texas or i get into atlanta georgia  i make sure i go  ,sd,MALE,1
+"[""{c and } that's houston's. /""]",c and  thats houstons ,sd,MALE,1
+"[""{f oh, } houston's,  /""]",f oh  houstons  ,b^m,MALE,24
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['yep,  /']",yep  ,b,MALE,2
+['okay. /'],okay ,b,MALE,2
+"[""it's a great place. /""]",its a great place ,sd,MALE,1
+"[""[ it's, + it's ] great.  /""]", its  its  great  ,b^m,MALE,24
+"[""there's  [ a, + a ] restaurant [ in, + {f um, } right outside of ] reading, pennsylvania,  {a it's called alfredo's } --""]",theres   a  a  restaurant  in  f um  right outside of  reading pennsylvania  a its called alfredos  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- that does not look like a restaurant  that you would really want to recommend to a lot of people. /'], that does not look like a restaurant  that you would really want to recommend to a lot of people ,+,MALE,0
+"['{c but } it is  [ fab-, + fantastic. ]  /']",c but  it is   fab  fantastic   ,sd,MALE,1
+"[""{f uh, }  there's a restaurant, {a and i don't recall the name of it, }  {f uh, } in, {f uh, } panama city.  /""]",f uh   theres a restaurant a and i dont recall the name of it   f uh  in f uh  panama city  ,sd,MALE,1
+"['of course, not too many people want to rush back to  [ [ panama city, + {f uh, }  panama, ] + the country, {f uh, } panama. ] /']",of course not too many people want to rush back to    panama city  f uh   panama   the country f uh  panama  ,sv,MALE,3
+"['{f oh, } okay,  /']",f oh  okay  ,bk,MALE,14
+"['{c because } i was thinking, - /']",c because  i was thinking  ,sd,MALE,1
+"['{d well, } [ i, + i ] grew up in panama city. /']",d well   i  i  grew up in panama city ,sd,MALE,1
+['no  /'],no  ,ar,MALE,28
+['[ this is the country -- +'], this is the country  ,sd,MALE,1
+['i get it. /'],i get it ,aa,MALE,4
+"['-- this is the country ] panama, all right? /']", this is the country  panama all right ,+,MALE,0
+['right. /'],right ,b,MALE,2
+"['[ {c and, } + {f uh, } {c but } ] i have gotten to quite a few.  /']", c and   f uh  c but   i have gotten to quite a few  ,sd,MALE,1
+['{c and } i go to canada  and get quite a few restaurants up there.  /'],c and  i go to canada  and get quite a few restaurants up there  ,sd,MALE,1
+"['[ i, +  {d you know, } {c and } i ] know the locations,  /']", i   d you know  c and  i  know the locations  ,sd,MALE,1
+"['{c and } i know the places,  /']",c and  i know the places  ,sd,MALE,1
+"[""{c but } [ i, + lot of times i ]  don't remember the names.  /""]",c but   i  lot of times i   dont remember the names  ,sd,MALE,1
+"[""i'd have to go back through some expense reports. /""]",id have to go back through some expense reports ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c but } particularly, down in your area,  i'm looking for [ some, + some ] more restaurants.  /""]",c but  particularly down in your area  im looking for  some  some  more restaurants  ,sd,MALE,1
+"[""{c so, }  [ i, + {d you know, } i ]  don't know  [ what's, + what's ] down there,""]",c so    i  d you know  i   dont know   whats  whats  down there,sd,MALE,1
+['# do you like mexican? # /'], do you like mexican  ,qy,MALE,7
+['# the ones out in addison. # /'], the ones out in addison  ,+,MALE,0
+['do you like mexican food. /'],do you like mexican food ,qy,MALE,7
+['not particularly -- /'],not particularly  ,ng,MALE,29
+['oh. /'],oh ,b,MALE,2
+"[""-- that's one of the few, - /""]", thats one of the few  ,sd,MALE,1
+"['[ why, + which ] one were you going to recommend? /']", why  which  one were you going to recommend ,qw,MALE,12
+"[""{d well, } {e i mean, } there's so  many places here, {d you know, }  /""]",d well  e i mean  theres so  many places here d you know   ,sd,MALE,1
+"[""[ there's just, + it's just ] lots of good mexican restaurants here. /""]", theres just  its just  lots of good mexican restaurants here ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but } in the addison,   {d well } about everything that you could want in dallas is in the addison area, anyway. /']",c but  in the addison   d well  about everything that you could want in dallas is in the addison area anyway ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"[""{e i mean, } now there's a new italian place sfuzi -- /""]",e i mean  now theres a new italian place sfuzi  ,sd,MALE,1
+"['okay,  /']",okay  ,b,MALE,2
+"['i have a, -/']",i have a ,%,MALE,5
+"[""-- [ that has a great, + {a i've not been there,   but } it has a great ] reputation as one of the best restaurants in dallas,  /""]",  that has a great  a ive not been there   but  it has a great  reputation as one of the best restaurants in dallas  ,sd,MALE,1
+"[""{c and } now there's one in addison. /""]",c and  now theres one in addison ,sd,MALE,1
+"['okay,  /']",okay  ,b,MALE,2
+"['let, - /']",let  ,%,MALE,5
+"[""[ i'm, + i'm ] writing it down <laughter>. /""]", im  im  writing it down laughter ,sd,MALE,1
+"[""[ it's f, s +  it's s f u z i. ] /""]", its f s   its s f u z i  ,sd,MALE,1
+['okay. /'],okay ,b,MALE,2
+"[""{c and } [ it's on, + it's in ] addison,  /""]",c and   its on  its in  addison  ,sd,MALE,1
+"[""{c and } it's a great place.  /""]",c and  its a great place  ,sd,MALE,1
+['also a great place that they have {d like } cajun food is copelands. /'],also a great place that they have d like  cajun food is copelands ,sd,MALE,1
+"[""i've been there. /""]",ive been there ,sd,MALE,1
+['{d now } i really like copelands. /'],d now  i really like copelands ,sd,MALE,1
+"['okay,  /']",okay  ,b,MALE,2
+"[""i've been there.  /""]",ive been there  ,sd,MALE,1
+"[""{f um, } one down there is [ the, + {f uh, } i think it's an ]  old schoolhouse.  /""]",f um  one down there is  the  f uh  i think its an   old schoolhouse  ,sd,MALE,1
+"['{f oh, } [ the, + {d yeah, } the, ]  i know, - /']",f oh   the  d yeah  the   i know  ,bf,MALE,20
+"['no,  /']",no  ,ar,MALE,28
+"[""i don't like that place. /""]",i dont like that place ,sd,MALE,1
+"['{d well, } i like the food,  /']",d well  i like the food  ,sd,MALE,1
+"[""{c but } i don't care for the clowning around. /""]",c but  i dont care for the clowning around ,sd,MALE,1
+"['{d see, } {f uh, } {f uh, } - /']",d see  f uh  f uh   ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ [ i, + i, ] +']",  i  i  ,sd,MALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['when i ] went, i thought the food was not good. /']",when i  went i thought the food was not good ,+,MALE,0
+"['{f oh, } really?  /']",f oh  really  ,bh,MALE,18
+"[""{f oh } i've had, -/""]",f oh  ive had ,sd,MALE,1
+"[""magic time machine is the place you're thinking of, /""]",magic time machine is the place youre thinking of ,bf,MALE,20
+"[""that's it,  /""]",thats it  ,aa,MALE,4
+"[""that's it.  /""]",thats it  ,aa,MALE,4
+"[""i've had excellent food there. /""]",ive had excellent food there ,sd,MALE,1
+"['{d see, } [ i, + when i ] went, i thought, - /']",d see   i  when i  went i thought  ,sd,MALE,1
+['the people drove me crazy --'],the people drove me crazy ,sd,MALE,1
+['true. /'],true ,aa,MALE,4
+['-- first of all -- /'], first of all  ,+,MALE,0
+['true. /'],true ,aa,MALE,4
+['-- {c but } then i just thought the food was  over priced for what it was. /'], c but  then i just thought the food was  over priced for what it was ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['all right,  /']",all right  ,b,MALE,2
+"[""{d well, } that's great.  /""]",d well  thats great  ,ba,MALE,6
+"['{f uh, } no,  /']",f uh  no  ,%,MALE,5
+['italian is fine.  /'],italian is fine  ,sd,MALE,1
+"[""i make it a habit of always going out to pasta oggi's which is right down there in ad-, -/""]",i make it a habit of always going out to pasta oggis which is right down there in ad ,sd,MALE,1
+"['do you [ like, + like ] southwestern? /']",do you  like  like  southwestern ,qy,MALE,7
+"['{f oh, } yeah. /']",f oh  yeah ,ny,MALE,9
+"[""{d well, } now there's a good place in addison  too called blue mesa grill --""]",d well  now theres a good place in addison  too called blue mesa grill ,sd,MALE,1
+['all right. /'],all right ,b,MALE,2
+"[""-- that's on belt line that's close to houston's, as a matter of fact. /""]", thats on belt line thats close to houstons as a matter of fact ,+,MALE,0
+['really? /'],really ,bh,MALE,18
+"[""{c and, }  {f um, } it's great,  /""]",c and   f um  its great  ,sd,MALE,1
+"['{e i mean, } [ their, + they have, ] i think, - /']",e i mean   their  they have  i think  ,%,MALE,5
+"[""sometimes i've been when i thought, {d well, } it wasn't as good,  /""]",sometimes ive been when i thought d well  it wasnt as good  ,sd,MALE,1
+"['{c but } i went there recently,  /']",c but  i went there recently  ,sd,MALE,1
+"['{c and } i thought, {d well, } this really is good. /']",c and  i thought d well  this really is good ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so } [ that's, +  that's ] a very good  place to eat, the blue mesa grill. /""]",c so   thats   thats  a very good  place to eat the blue mesa grill ,sd,MALE,1
+['good. /'],good ,ba,MALE,6
+"['{c and, }  {f um, } -/']",c and   f um  ,%,MALE,5
+"['{d well, } this is great.  /']",d well  this is great  ,sd,MALE,1
+['this is going to give me --'],this is going to give me ,sd,MALE,1
+"['a whole new,']",a whole new,^2,MALE,23
+['-- # some more places to go. # /'],  some more places to go  ,+,MALE,0
+['# dining experience. # /'], dining experience  ,+,MALE,0
+"['<laughter> okay,  /']",laughter okay  ,b,MALE,2
+['fine.  /'],fine  ,b,MALE,2
+"[""i guess our time's about up,  /""]",i guess our times about up  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"[""{d well, } they haven't beeped us, have they? /""]",d well  they havent beeped us have they ,qy,MALE,7
+"[""{f uh, } {d well, } they don't always. /""]",f uh  d well  they dont always ,sd,MALE,1
+"['{f oh, } i thought sometimes they say, {d you know } --']",f oh  i thought sometimes they say d you know  ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['[ i -- +'], i  ,sd,MALE,1
+['-- this is three minutes or whatever. /'], this is three minutes or whatever ,+,MALE,0
+"[""-- they've ] been doing that when, {f uh, } the circuits are busy -- /""]", theyve  been doing that when f uh  the circuits are busy  ,+,MALE,0
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"['-- {c and } other than that, they,  {d you know, } leave you go about five minutes,  /']", c and  other than that they  d you know  leave you go about five minutes  ,sd,MALE,1
+"[""{c and then, } [ that, + that's ] about it.  /""]",c and then   that  thats  about it  ,sd,MALE,1
+"[""i guess that's what they need for their machines to get everything down pat,  /""]",i guess thats what they need for their machines to get everything down pat  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['okay, /']",okay ,b,MALE,2
+['it was a pleasure talking to you. /'],it was a pleasure talking to you ,fc,MALE,10
+"['{d well, } thanks for calling --']",d well  thanks for calling ,ft,MALE,43
+['okay. /'],okay ,fc,MALE,10
+['-- for helping us out. /'], for helping us out ,+,MALE,0
+"['you bet, -/']",you bet ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,MALE,10
+['bye-bye. /'],byebye ,fc,MALE,10

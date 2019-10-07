@@ -1,0 +1,133 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['i was going to say, my, {f uh, } college  is northern state university in aberdeen, south dakota,  /']",i was going to say my f uh  college  is northern state university in aberdeen south dakota  ,sd,MALE,1
+"['{c and } our head  football coach, dennis muir <<phonetically spelled>>, used to be an assistant coach at b y u. /']",c and  our head  football coach dennis muir phonetically spelled used to be an assistant coach at b y u ,sd,MALE,1
+"['{f oh, } really. /']",f oh  really ,b,FEMALE,2
+"['{d so } i thought that was kind of an  [ in-, +  interesting ] coincidence. /']",d so  i thought that was kind of an   in   interesting  coincidence ,sd,MALE,1
+['{f huh } <laughter>.  /'],f huh  laughter  ,%,FEMALE,5
+['{d so } you went to what college? /'],d so  you went to what college ,br,FEMALE,30
+"['{f uh, } northern state university in aberdeen, south dakota. /']",f uh  northern state university in aberdeen south dakota ,sd,MALE,1
+['{c and } what did you graduate in? /'],c and  what did you graduate in ,qw,FEMALE,12
+"['i ju-, - /']",i ju  ,%,MALE,5
+['in what major or what year? /'],in what major or what year ,qw,MALE,12
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['major <laughter>. /'],major laughter ,sd,FEMALE,1
+['international business. /'],international business ,sd,MALE,1
+"['{f oh, } really. /']",f oh  really ,bh,FEMALE,18
+['yeah.  /'],yeah  ,ny,MALE,9
+['{c and } you? /'],c and  you ,qw^d,MALE,41
+"[""i'm going to b y u,  /""]",im going to b y u  ,sd,FEMALE,1
+"[""{c and } i'm going into nursing -- /""]",c and  im going into nursing  ,sd,FEMALE,1
+['okay. /'],okay ,bk,MALE,14
+['-- {c so. } -/'], c so  ,%,FEMALE,5
+"['{d well, } that sounds interesting.  /']",d well  that sounds interesting  ,ba,MALE,6
+['how long of a program is that? /'],how long of a program is that ,qw,MALE,12
+['forever <laughter>. /'],forever laughter ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['seems like, anyways. - /']",seems like anyways  ,sv,FEMALE,3
+"[""it's about five years,  /""]",its about five years  ,sd,FEMALE,1
+"[""{c but } it's probably going to take me longer, because i didn't decide  to major in that until, <sniffing> {f uh, } about a year and a half after i was already in school,  /""]",c but  its probably going to take me longer because i didnt decide  to major in that until sniffing f uh  about a year and a half after i was already in school  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['{d you know, } i read a study once,  /']",d you know  i read a study once  ,sd,MALE,1
+"['{c and } it said that, {f uh, } like thirty-four percent of, {f uh, } college students actually  graduate in four years from a four year program. /']",c and  it said that f uh  like thirtyfour percent of f uh  college students actually  graduate in four years from a four year program ,sd,MALE,1
+"['{f oh, } really.   /']",f oh  really   ,b,FEMALE,2
+['# that sounds. # -/'], that sounds  ,sv,FEMALE,3
+"['# [ it took me, +  # it took me ] five years. /']",  it took me    it took me  five years ,sd,MALE,1
+['yeah <laughter>. /'],yeah laughter ,b,FEMALE,2
+"['{d {c so, } } [ you just, +  you ] get started  /']",d c so    you just   you  get started  ,sv,MALE,3
+"['{c and } you change your mind,  /']",c and  you change your mind  ,sv,MALE,3
+"['{c or } you want to pick up a second major,  /']",c or  you want to pick up a second major  ,sv,MALE,3
+"[""if you're management, [ you, +    you, ] thought, [ i, +  i'll ] take that marketing,  /""]",if youre management  you     you  thought  i   ill  take that marketing  ,sv,MALE,3
+"[""it's just only was three more classes --""]",its just only was three more classes ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- {d you know, }  /']", d you know   ,+,MALE,0
+"[""{c and } [ you, +   just doesn't happen that you ] get out in four years. /""]",c and   you    just doesnt happen that you  get out in four years ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c but. } -/'],c but  ,%,MALE,5
+['{d so } what is your advice to --'],d so  what is your advice to ,qw,FEMALE,12
+['my advice [ is -- +'],my advice  is  ,sd,MALE,1
+['-- picking a college. /'], picking a college ,+,FEMALE,0
+"['-- is, ] {f uh, } look [ for, + at ] the  student to faculty ratio, {d you know, }  /']", is  f uh  look  for  at  the  student to faculty ratio d you know   ,+,MALE,0
+"[""if you're going to go to a college where student  faculty ratio is three and four hundred to one, i don't think you're going to have  as meaningful of a college experience as if you're down to the thirty to forty to one. /""]",if youre going to go to a college where student  faculty ratio is three and four hundred to one i dont think youre going to have  as meaningful of a college experience as if youre down to the thirty to forty to one ,sv,MALE,3
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['is that, what was yours more like? /']",is that what was yours more like ,qw,FEMALE,12
+['yeah -- /'],yeah  ,b,MALE,2
+"['was there a, -/']",was there a ,%,FEMALE,5
+['-- it was about twenty-six to one. /'], it was about twentysix to one ,sd,MALE,1
+['really. /'],really ,b,FEMALE,2
+['yeah. /'],yeah ,b,MALE,2
+"[""{f oh, } that's great. /""]",f oh  thats great ,ba,FEMALE,6
+"['which is, {d you know, } - /']",which is d you know   ,%,MALE,5
+"[""[ it, +  it's ]  interesting,  /""]", it   its   interesting  ,sv,MALE,3
+"[""{c but } [ it, +  it's ] - /""]",c but   it   its   ,%,MALE,5
+"['what i thought was nice is [ you could al-, +  there was always ] time to talk to professor, {d you know, }  /']",what i thought was nice is  you could al   there was always  time to talk to professor d you know   ,sv,MALE,3
+"['[ {c and, } + {c and } ] they knew you. /']", c and   c and   they knew you ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""you weren't just in their class, {d you know, }  /""]",you werent just in their class d you know   ,sd,MALE,1
+"['{c and so } [ you could, +  you could ] go talk to them in their office almost at any time,  /']",c and so   you could   you could  go talk to them in their office almost at any time  ,sd,MALE,1
+"['[ {c and, } + {c or } ] if you ran into them in the student union or whatever, {d you know, }  you could sit down, talk to them about a problem.  /']", c and   c or   if you ran into them in the student union or whatever d you know   you could sit down talk to them about a problem  ,sd,MALE,1
+"[""they're always willing to help you out.  /""]",theyre always willing to help you out  ,sd,MALE,1
+"[""[ {c so, } +  {c but } ] [ [ [ i, +  i's, ] +  i, ] +  i ] put that against, {f uh, } my high school  where we had, {f uh, } a biology class of three hundred and fifty students  /""]", c so    c but      i   is    i    i  put that against f uh  my high school  where we had f uh  a biology class of three hundred and fifty students  ,sd,MALE,1
+['{c and. } -/'],c and  ,%,MALE,5
+"['wow, in high school? /']",wow in high school ,qy^d,FEMALE,16
+['yeah -- /'],yeah  ,ny,MALE,9
+['oh. /'],oh ,bk,FEMALE,14
+['-- it was a biology lecture class -- /'], it was a biology lecture class  ,sd,MALE,1
+['wow. /'],wow ,ba,FEMALE,6
+"[""-- {c and, } {d you know, } [ it, +  it ]  just wasn't the same.  /""]", c and  d you know   it   it   just wasnt the same  ,sv,MALE,3
+"[""you're sitting there,  /""]",youre sitting there  ,sd,MALE,1
+"[""{c and } you're taking notes  /""]",c and  youre taking notes  ,sd,MALE,1
+"[""{c and, } {d you know, }  you got a computerized test scores, multiple choice, because there's no way  they could correct [ a three hundred fifty point short answer test -- +""]",c and  d you know   you got a computerized test scores multiple choice because theres no way  they could correct  a three hundred fifty point short answer test  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } {d you know, } a three  hundred fifty person short answer test. ]  /']", f uh  d you know  a three  hundred fifty person short answer test   ,+,MALE,0
+"[""{c and, } it just wasn't the same.  /""]",c and  it just wasnt the same  ,sv,MALE,3
+"[""[ [ you, +  you'd run, ] +   you'd pass ] the teacher in high school  /""]",  you   youd run     youd pass  the teacher in high school  ,sd,MALE,1
+"[""{c and, } even in high school you could  say high to your teachers, unless you're in that biology class,  /""]",c and  even in high school you could  say high to your teachers unless youre in that biology class  ,sd,MALE,1
+"[""{c and } [ they just, +   they'd ] look at you like, do i know you?  /""]",c and   they just    theyd  look at you like do i know you  ,sd,MALE,1
+['or  should i know you? /'],or  should i know you ,^q,MALE,19
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""[ there's, +  it's, ] - /""]", theres   its   ,%,FEMALE,5
+"['the classes here are pretty big,  /']",the classes here are pretty big  ,sd,FEMALE,1
+"[""{c so, } it's hard to get individual help <throat_clearing>.  /""]",c so  its hard to get individual help throatclearing  ,sd,FEMALE,1
+"[""it's kind of, you're on your own <laughter>. /""]",its kind of youre on your own laughter ,sd,FEMALE,1
+"['do you get, {f uh, } a lot of tutoring,  /']",do you get f uh  a lot of tutoring  ,qy,MALE,7
+['{c or. } -/'],c or  ,%,MALE,5
+['no <laughter>.  /'],no laughter  ,nn,FEMALE,13
+"['very little, {e i mean, }  /']",very little e i mean   ,sv,FEMALE,3
+"['{d well, } {d like } my, - /']",d well  d like  my  ,%,FEMALE,5
+"[""for example,  [ i have, +  i'm ] in a chemistry class right now -- /""]",for example   i have   im  in a chemistry class right now  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c and } there's tons of students in it,  /""]", c and  theres tons of students in it  ,sd,FEMALE,1
+"[""{c and } there's one t a for the whole class. /""]",c and  theres one t a for the whole class ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+"['{c and } he only has certain office hours,  /']",c and  he only has certain office hours  ,sd,FEMALE,1
+"[""{c and so } there's only certain times you can talk to him,  /""]",c and so  theres only certain times you can talk to him  ,sd,FEMALE,1
+['{c and. } -/'],c and  ,%,FEMALE,5
+['{c and } you could get there  /'],c and  you could get there  ,bf,MALE,20
+"['{c and } [ his office hours could, + {e i mean }  he could have {d like } a nine to eleven in the morning office  hours ] and have forty-two people waiting to talk to him,  /']",c and   his office hours could  e i mean   he could have d like  a nine to eleven in the morning office  hours  and have fortytwo people waiting to talk to him  ,bf,MALE,20
+"[""{c and } you still didn't get to talk to him anyway. /""]",c and  you still didnt get to talk to him anyway ,bf,MALE,20
+"['right,  /']",right  ,aa,FEMALE,4
+['yeah. /'],yeah ,aa,FEMALE,4
+"['{d well, } what would be your advice  to a parent of a child thinking of attending college? /']",d well  what would be your advice  to a parent of a child thinking of attending college ,qw,MALE,12
+"['{f oh, } man.  i think your advice is good.  /']",f oh  man  i think your advice is good  ,^h,FEMALE,27
+"[""{f um } let's see.  my advice would be to pick a major before you get into college <laughter> -- /""]",f um  lets see  my advice would be to pick a major before you get into college laughter  ,sd,FEMALE,1
+"[""that's excellent advice. /""]",thats excellent advice ,sv,MALE,3
+"[""-- {c because } [ i, + i ] didn't,  /""]", c because   i  i  didnt  ,sd,FEMALE,1
+"[""{c and } i took tons of classes that i didn't need to,  /""]",c and  i took tons of classes that i didnt need to  ,sd,FEMALE,1
+"[""{c and, } {f um, } i don't know,  /""]",c and  f um  i dont know  ,h,FEMALE,15
+"[""i just feel like  [ i'm, +  [ it's, + it's ] ] going to take me a lot longer than, - /""]",i just feel like   im    its  its   going to take me a lot longer than  ,sv,FEMALE,3
+"[""{c and } not that's always bad,  /""]",c and  not thats always bad  ,sv,FEMALE,3
+"[""{c but } it's, - /""]",c but  its  ,%,FEMALE,5
+"[""i don't know,  /""]",i dont know  ,h,FEMALE,15
+"[""it's frustrating, i guess. /""]",its frustrating i guess ,sv,FEMALE,3
+"['{d well, } [ [ it, +  it, ] +  it ]  does get it.  /']",d well    it   it    it   does get it  ,sv,MALE,3
+"[""{d you know, } you get to the point where [ it's, + i'm ] never going to get done. /""]",d you know  you get to the point where  its  im  never going to get done ,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+"['{d you know, } {e [ i, +  i ] mean, }  i was taking summer classes  /']",d you know  e  i   i  mean   i was taking summer classes  ,sd,MALE,1
+['{c and }  ((   ))  let me get out of here. /'],c and        let me get out of here ,^q,MALE,19
+['yep. /'],yep ,b,FEMALE,2
+"['{c but, } {f uh, } no,  /']",c but  f uh  no  ,b,MALE,2
+"[""that's good advice.  /""]",thats good advice  ,sv,MALE,3
+"[""even if you don't have your major decided on, have an idea what you think you might want,  {d you know, }  /""]",even if you dont have your major decided on have an idea what you think you might want  d you know   ,sv,MALE,3
+"[""{d so } you don't want management,  /""]",d so  you dont want management  ,sv,MALE,3
+"['{c but } you think you want business, /']",c but  you think you want business ,sv,MALE,3

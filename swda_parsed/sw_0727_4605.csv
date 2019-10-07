@@ -1,0 +1,158 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hi <<very faint>>. /'],hi very faint ,fp,MALE,32
+['okay.  /'],okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['do you work with a company that, {f uh, }  gives drug testing <sniffing>? /']",do you work with a company that f uh   gives drug testing sniffing ,qy,FEMALE,7
+['sort of.  /'],sort of  ,na,MALE,21
+"[""[ i'm a, + i'm ] a student  /""]", im a  im  a student  ,sd,MALE,1
+"['{c but, } {f uh, }']",c but  f uh ,sd,MALE,1
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+"[""i'm in the national guard  /""]",im in the national guard  ,+,MALE,0
+['{c and } they do a little  bit of drug testing. /'],c and  they do a little  bit of drug testing ,sd,MALE,1
+"['{f oh, } they do? /']",f oh  they do ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,MALE,9
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['what, {f uh, } - /']",what f uh   ,%,FEMALE,5
+['did they do that before you went in or what? /'],did they do that before you went in or what ,qy,FEMALE,7
+"['{f uh, } [ they, + they ] do it before you go in/']",f uh   they  they  do it before you go in,na,MALE,21
+"[""{c and, } occasionally they'll have [ a, + a ] random urinalysis. /""]",c and  occasionally theyll have  a  a  random urinalysis ,sd,MALE,1
+"['{f oh, } they will, huh? /']",f oh  they will huh ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,MALE,9
+"[""{c so } you can't be smoking marijuana  [ in, + in ] the military anymore <laughter>. /""]",c so  you cant be smoking marijuana   in  in  the military anymore laughter ,sd,MALE,1
+['oh.  /'],oh  ,b,FEMALE,2
+['okay.  /'],okay  ,b,FEMALE,2
+"[""{d well, } i've, - /""]",d well  ive  ,%,FEMALE,5
+"['i worked, - /']",i worked  ,sd,FEMALE,1
+"[""i don't work right now because my company i worked for, p i e, went bankrupt -- /""]",i dont work right now because my company i worked for p i e went bankrupt  ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+"['-- {c but, } {f uh, } they was getting a program set up, that for all new hires they was going drug, {f uh, } give them drug tests. -/']", c but  f uh  they was getting a program set up that for all new hires they was going drug f uh  give them drug tests ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+"[""{c but, } {f uh, } they didn't hire very many new hires because all the people that usually work there, {d you know, } just stayed there  because [ it was, + ] they had been there for a long, long time. /""]",c but  f uh  they didnt hire very many new hires because all the people that usually work there d you know  just stayed there  because  it was   they had been there for a long long time ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but, } {f uh, } <swallowing> {d actually, }  i think they should do it. /']",c but  f uh  swallowing d actually   i think they should do it ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['[ i, + i ] believe they should too. /']", i  i  believe they should too ,sv,MALE,3
+"[""{d you know, } {f uh, } i don't think anybody needs anybody [ that's, + ] to be working for them that's on drugs --""]",d you know  f uh  i dont think anybody needs anybody  thats   to be working for them thats on drugs ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- of any kind <laughter> {d you know. } /'], of any kind laughter d you know  ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+['definitely. /'],definitely ,aa,MALE,4
+"[""{c but, } {f uh, } i don't know whether i believe that they should just randomly do it.  /""]",c but  f uh  i dont know whether i believe that they should just randomly do it  ,sv,FEMALE,3
+"[""i think they should kind of warn them,  like, {d you know, } {d well } we're going to do that or maybe tell them before they do get hired, {d you know } --""]",i think they should kind of warn them  like d you know  d well  were going to do that or maybe tell them before they do get hired d you know  ,sv,FEMALE,3
+['# oh. # /'], oh  ,b,MALE,2
+['-- # that # this is what is going to happen. #  /'],  that  this is what is going to happen   ,+,FEMALE,0
+['{c and } # --'],c and   ,^q,FEMALE,19
+"['# {f uh, } # /']", f uh   ,b,MALE,2
+"[""-- {c then } if you don't like it, why  then, {d you know, } you'll have to go look for a job someplace else. /""]", c then  if you dont like it why  then d you know  youll have to go look for a job someplace else ,+,FEMALE,0
+"['{c but } after you, - /']",c but  after you  ,%,MALE,5
+"['you have,']",you have,sv,MALE,3
+['<throat_clearing>.'],throatclearing,x,FEMALE,8
+['to do randomly otherwise people will cheat. /'],to do randomly otherwise people will cheat ,+,MALE,0
+"['{d well, } i suppose you are right there too, {d you know. } /']",d well  i suppose you are right there too d you know  ,aa,FEMALE,4
+['yeah. /'],yeah ,b,MALE,2
+"['{f uh, } # personally i, # -/']",f uh   personally i  ,%,FEMALE,5
+"['# they, - /']", they  ,%,MALE,5
+"['i know # when i was doing my, {f uh, }  basic training in a i t --']",i know  when i was doing my f uh   basic training in a i t ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- there was guys who would fool around  /'], there was guys who would fool around  ,+,MALE,0
+['{c and then } when that urinalysis came around they would be all scared.  /'],c and then  when that urinalysis came around they would be all scared  ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['huh. /'],huh ,%,FEMALE,5
+"[""the only problem is, {d you know, } if you have done  drugs but you've stopped and, {f uh, } you do get caught, it is [ kind of, + kind of ] harsh. /""]",the only problem is d you know  if you have done  drugs but youve stopped and f uh  you do get caught it is  kind of  kind of  harsh ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['{d well, } i suppose they fire you and everything right then, huh?  /']",d well  i suppose they fire you and everything right then huh  ,qy,FEMALE,7
+"['{c or } what do they do with you guys if, that you guys get, -/']",c or  what do they do with you guys if that you guys get ,qw,FEMALE,12
+"['{f uh, } we get counseling  /']",f uh  we get counseling  ,sd,MALE,1
+"[""{c and, } {f uh, }  i think part of our pay is docked # if we're # --""]",c and  f uh   i think part of our pay is docked  if were  ,sd,MALE,1
+"['# {f oh } [ i, + #']", f oh   i  ,bk,FEMALE,14
+['-- first time offenders. /'], first time offenders ,+,MALE,0
+"['{f oh, } i ] see. /']",f oh  i  see ,+,FEMALE,0
+"[""i really don't, - /""]",i really dont  ,%,MALE,5
+"[""[ i, + i ] haven't, - /""]", i  i  havent  ,%,MALE,5
+"[""i don't do any drugs  /""]",i dont do any drugs  ,sd,MALE,1
+"[""{c so } i don't know. /""]",c so  i dont know ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{d well } i don't either.  /""]",d well  i dont either  ,sd,FEMALE,1
+"[""i wouldn't even think about it # <laughter>. # /""]",i wouldnt even think about it  laughter  ,sd,FEMALE,1
+['# <laughter>. #'], laughter ,x,MALE,8
+"['i think anybody that does them are dumb, # {d you know. } # /']",i think anybody that does them are dumb  d you know   ,sv,FEMALE,3
+['# crazy. #  /'], crazy   ,bf,MALE,20
+"['# yeah,  /']", yeah  ,aa,MALE,4
+['yeah. # /'],yeah  ,aa,MALE,4
+['# yeah  /'], yeah  ,aa,FEMALE,4
+"['# , really.  /']",  really  ,aa,FEMALE,4
+"[""you're so stupid,  (( god ))  /""]",youre so stupid   god   ,sv,FEMALE,3
+"['{c and } you just watch it on t v and  see how it just burns your brain completely up, {d you know. }  /']",c and  you just watch it on t v and  see how it just burns your brain completely up d you know   ,sv,FEMALE,3
+"[""# you don't, # -/""]", you dont  ,%,FEMALE,5
+"['# yeah,  /']", yeah  ,aa,MALE,4
+['wastes # your future. /'],wastes  your future ,bf,MALE,20
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['[ re-, + ] really dumb, huh. /']", re   really dumb huh ,qy,FEMALE,7
+['yeah. /'],yeah ,ny,MALE,9
+"[""{c but, } {f uh, } <throat_clearing>.  let's see, what else was i going to say here. /""]",c but  f uh  throatclearing  lets see what else was i going to say here ,t1,FEMALE,37
+"['{f uh, } what do you think about our, {f uh, } {d like, } {f uh, } other government agencies testing?  /']",f uh  what do you think about our f uh  d like  f uh  other government agencies testing  ,qo,MALE,25
+['do you think our government agencies should test? /'],do you think our government agencies should test ,qy,MALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+['i think so.  /'],i think so  ,na,FEMALE,21
+['i think they all should test really --'],i think they all should test really ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['-- {d you know. }  /'], d you know   ,+,FEMALE,0
+"['{f uh, } it just seems like  there is so much more of it going on anymore --']",f uh  it just seems like  there is so much more of it going on anymore ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""-- that, i don't know what's wrong with the people, {f uh, }  /""]", that i dont know whats wrong with the people f uh   ,+,FEMALE,0
+"['{c but } i think that [ the, + the ] government should do something about  stopping it completely.  /']",c but  i think that  the  the  government should do something about  stopping it completely  ,sv,FEMALE,3
+['about it coming into our country. - /'],about it coming into our country  ,sv,FEMALE,3
+"[""{d you know, } they just slap  somebody's little hand,  /""]",d you know  they just slap  somebodys little hand  ,sv,FEMALE,3
+"[""{c and, } {d you know, } {d well, } don't do that again  /""]",c and  d you know  d well  dont do that again  ,sv,FEMALE,3
+['[ {c and } + --'], c and   ,sv,FEMALE,3
+"['{f oh, } i know,  /']",f oh  i know  ,aa,MALE,4
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""#  (( they aren't )) . # -/""]",   they arent    ,%,MALE,5
+"[""-- # {c and then } ] # [ th-, + ] {d you know, } they'll get out  /""]",  c and then     th   d you know  theyll get out  ,+,FEMALE,0
+"[""{c and } they're right back at it again. /""]",c and  theyre right back at it again ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""right now [ it is, + it's ]  too lucrative for the drug dealers  /""]",right now  it is  its   too lucrative for the drug dealers  ,sv,MALE,3
+['{c so } --'],c so  ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- [ th-, + ] the risks are worth it for them. /']",  th   the risks are worth it for them ,+,MALE,0
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""{c but, } {f uh, } other than that, why,  i don't know.  /""]",c but  f uh  other than that why  i dont know  ,sd,FEMALE,1
+"[""like i say, maybe one of these days i'll get a job because i am looking still for a part-time job, {d you know, } since my company went bankrupt #  /""]",like i say maybe one of these days ill get a job because i am looking still for a parttime job d you know  since my company went bankrupt   ,sd,FEMALE,1
+['{c and } # --'],c and   ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""-- i'll see what they do, {d you know. }  /""]", ill see what they do d you know   ,+,FEMALE,0
+"[""{c but, } like  i say, [ i, + i ] wouldn't care because [ [ i, + i ] don't, + i don't ]  even smoke  /""]",c but  like  i say  i  i  wouldnt care because   i  i  dont  i dont   even smoke  ,sd,FEMALE,1
+['{c so } <laughter> --'],c so  laughter ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- they can test me all i want.  /'], they can test me all i want  ,+,FEMALE,0
+['i wonder [ what + ] ((   ))  if you take medicine if that would effect it. /'],i wonder  what        if you take medicine if that would effect it ,qy^d,FEMALE,16
+"[""{f oh } {d see, } that's, - /""]",f oh  d see  thats  ,b,MALE,2
+"['tha-, - /']",tha  ,%,MALE,5
+['it is a problem.  /'],it is a problem  ,sv,MALE,3
+"['sometimes some medicines will give off [ a, + a ] false positive. /']",sometimes some medicines will give off  a  a  false positive ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['{d see } # now [ that + # --'],d see   now  that   ,qy,FEMALE,7
+"[""# [ i've heard # of, + i've heard of ] that,  /""]",  ive heard  of  ive heard of  that  ,sd,MALE,1
+['yeah. /'],yeah ,%,MALE,5
+"['-- that ] would be really unfair then, huh? /']", that  would be really unfair then huh ,+,FEMALE,0
+['yeah. /'],yeah ,ny,MALE,9
+['you know. /'],you know ,"fo_o_fw_""_by_bc",FEMALE,0
+['((   ))  i believe you should have the testing/'],     i believe you should have the testing,sv,MALE,3
+"['{c but } they should be, like, [ if you get, + if you get ] a positive, they should double check you and still give you the benefit of a doubt. /']",c but  they should be like  if you get  if you get  a positive they should double check you and still give you the benefit of a doubt ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['find out [ what, + ] {d you know, } if you have been taking some kind of medication and, {d you know, } if that would effect  it and everything. /']",find out  what   d you know  if you have been taking some kind of medication and d you know  if that would effect  it and everything ,bf,FEMALE,20
+"['uh-huh,  /']",uhhuh  ,aa,MALE,4
+['yeah. /'],yeah ,aa,MALE,4
+"[""{c but, } {f uh, } {d well } i guess that's about all we can talk about.  /""]",c but  f uh  d well  i guess thats about all we can talk about  ,sv,FEMALE,3
+['i think our five minutes is about up anyhow. /'],i think our five minutes is about up anyhow ,sd,FEMALE,1
+"['{d well, } it was nice talking to you rose. /']",d well  it was nice talking to you rose ,fc,MALE,10
+"['okay,  lewis,  /']",okay  lewis  ,fc,FEMALE,10
+"[""{c and } maybe i'll talk to you again. /""]",c and  maybe ill talk to you again ,fc,FEMALE,10
+['okay <laughter>. /'],okay laughter ,fc,MALE,10
+['alrighty. /'],alrighty ,fc,FEMALE,10
+['# bye-bye. # /'], byebye  ,fc,MALE,10
+['# bye-bye. #  /'], byebye   ,fc,FEMALE,10
+['bye <clicking>. /'],bye clicking ,fc,FEMALE,10

@@ -1,0 +1,191 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['hello. /'],hello ,fp,MALE,32
+['hello there. /'],hello there ,fp,FEMALE,32
+['did i reach the dallas area? /'],did i reach the dallas area ,qy,MALE,7
+['i beg your pardon? /'],i beg your pardon ,br,FEMALE,30
+['did i reach the dallas area? /'],did i reach the dallas area ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""you've reached dayton, ohio. /""]",youve reached dayton ohio ,sd,FEMALE,1
+"['dayton, ohio,  /']",dayton ohio  ,b^m,MALE,24
+"[""i'm  from north carolina. /""]",im  from north carolina ,sd,MALE,1
+"[""{f oh, } you're from north carolina.  /""]",f oh  youre from north carolina  ,sd,FEMALE,1
+['where in north carolina? /'],where in north carolina ,qw,FEMALE,12
+['in raleigh. /'],in raleigh ,sd,MALE,1
+"['raleigh,  /']",raleigh  ,b^m,FEMALE,24
+['great.  /'],great  ,ba,FEMALE,6
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{d well, } my name's mary. /""]",d well  my names mary ,sd,FEMALE,1
+['my name is fernando. /  *[[sd]]'],my name is fernando   sd,+,MALE,0
+"['fernando, glad to know you. /']",fernando glad to know you ,"fo_o_fw_""_by_bc",FEMALE,0
+"['{c so, } {f um, } do you, {d well, } - /']",c so  f um  do you d well   ,%,MALE,5
+"[""how'd you find out about this? /""]",howd you find out about this ,qw,MALE,12
+"['{f uh, } i was visiting my son down in dallas,  /']",f uh  i was visiting my son down in dallas  ,sd,FEMALE,1
+['{c and. } -/'],c and  ,%,FEMALE,5
+"['{f oh, } okay,  /']",f oh  okay  ,bk,MALE,14
+['he works for t i. /'],he works for t i ,bf,MALE,20
+"['no,  /']",no  ,nn,FEMALE,13
+"['no,  /']",no  ,nn,FEMALE,13
+"['{c but } his wife has a contract with t i,  /']",c but  his wife has a contract with t i  ,sd,FEMALE,1
+"[""{c and } that's how we learned about it,  /""]",c and  thats how we learned about it  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,%,FEMALE,5
+"['{f oh, } okay,  /']",f oh  okay  ,bk,MALE,14
+"[""{c because } i'm down at n c state. /""]",c because  im down at n c state ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c and so } i took a class,  /']",c and so  i took a class  ,sd,MALE,1
+"['{c and } he said, sign up and get some money --']",c and  he said sign up and get some money ,sd,MALE,1
+['right <laughter>. /'],right laughter ,ba,FEMALE,6
+['-- and just talk for five minutes.  /'], and just talk for five minutes  ,+,MALE,0
+['<talking> {c so } are you ready? /'],talking c so  are you ready ,qy,MALE,7
+"[""i'm ready. /""]",im ready ,na,FEMALE,21
+"['okay,  /']",okay  ,%,MALE,5
+"[""let's get started.  <beep> <<sounds like a phone beeping in.>> /""]",lets get started  beep sounds like a phone beeping in ,ad,MALE,22
+"['all  right,  /']",all  right  ,aa,FEMALE,4
+['okay. /'],okay ,aa,FEMALE,4
+"['okay,  /']",okay  ,%,MALE,5
+"['{c so, } {f uh, } what do you think, that, {f uh, } - /']",c so  f uh  what do you think that f uh   ,qo,MALE,25
+"['[ [ what do, + what do, ] + what do ] you think we can do to solve the crime in america? /']",  what do  what do   what do  you think we can do to solve the crime in america ,qo,MALE,25
+"[""{f oh, } if i knew that i'd be a very wealthy person. /""]",f oh  if i knew that id be a very wealthy person ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c but } [ [ what, + what, ] + what ] are the steps? /']",c but    what  what   what  are the steps ,qo,MALE,25
+"['{d well, } you have to see,  /']",d well  you have to see  ,sv,FEMALE,3
+"['[ i, + the way i ] look  at it, you have to think first of all  why,  /  *[[listen]]']", i  the way i  look  at it you have to think first of all  why    listen,"fo_o_fw_""_by_bc",FEMALE,0
+"['{c or } [ ha-, + has ] ] crime increased,  /']",c or   ha  has   crime increased  ,qh,FEMALE,26
+"['{c and } if so, why has crime increased? /']",c and  if so why has crime increased ,qh,FEMALE,26
+"[""{d well, } {d see } the problem [ is, + is ] that, {f um, } <clicking> what happens is [ as, + ] that [ you're, +  {f uh, } {d you know, } as you ] go from the country to a city, crime always increases, right? /""]",d well  d see  the problem  is  is  that f um  clicking what happens is  as   that  youre   f uh  d you know  as you  go from the country to a city crime always increases right ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c because } in the country, people still respect, {f uh, } the property of other people. /']",c because  in the country people still respect f uh  the property of other people ,sv,MALE,3
+['right. /'],right ,b,FEMALE,2
+"['{c and so, } [ as, + as, ] - /']",c and so   as  as   ,%,MALE,5
+"[""{c and } the people in the country don't want as much as the people in the city. /""]",c and  the people in the country dont want as much as the people in the city ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{d now } what happens is all those that don't have any money in the country move to the cities,  /""]",d now  what happens is all those that dont have any money in the country move to the cities  ,sv,MALE,3
+['{c and } they rush to get the same thing.  /'],c and  they rush to get the same thing  ,sv,MALE,3
+"[""they say, why can't we have the same things that these other people have,  /""]",they say why cant we have the same things that these other people have  ,sv,MALE,3
+"['{c and } the thing that we can do is, we need money for drugs,  /']",c and  the thing that we can do is we need money for drugs  ,sv,MALE,3
+"['{c and } what we have to do is, we have to go, {f uh, } get some stuff, steal it, and then, {d you know, } just resell it. /']",c and  what we have to do is we have to go f uh  get some stuff steal it and then d you know  just resell it ,sv,MALE,3
+"[""it's easy,  /""]",its easy  ,bf,FEMALE,20
+['you said the magic word there. /'],you said the magic word there ,sv,FEMALE,3
+['# which one? # /'], which one  ,qw,MALE,12
+['# drugs. # /'], drugs  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['{c and } that certainly is one reason why crime here has increased. /'],c and  that certainly is one reason why crime here has increased ,sv,FEMALE,3
+"[""[ that's, + {f uh, } that's, ] {f uh, } the main reason i think, {f uh, } everywhere  /""]", thats  f uh  thats  f uh  the main reason i think f uh  everywhere  ,sv,MALE,3
+"['{c because, } {f uh, } you have deaths.  /']",c because  f uh  you have deaths  ,sv,MALE,3
+"['{e i mean, }  {e i mean, }  you have murders  /']",e i mean   e i mean   you have murders  ,sv,MALE,3
+"[""{c and } you have, {d you know, } people stealing other people's stuff,  /""]",c and  you have d you know  people stealing other peoples stuff  ,sv,MALE,3
+"[""{c and } that's - /""]",c and  thats  ,%,MALE,5
+['a lot of it has to do with drugs. /'],a lot of it has to do with drugs ,sv,MALE,3
+"['{f oh, } yes. /']",f oh  yes ,aa,FEMALE,4
+"[""it doesn't have to do, - /""]",it doesnt have to do  ,%,MALE,5
+"[""{e i mean, } the thing [ is + is ] that, {d you know, } it's like  you might be standing somewhere, right,  /""]",e i mean  the thing  is  is  that d you know  its like  you might be standing somewhere right  ,sv,MALE,3
+"[""{c and } {d like } let's say    [ [ [ you, +   you're, ] +  you're, ] +   {d you know, } you're ]   driving out  /""]",c and  d like  lets say       you    youre    youre     d you know  youre    driving out  ,sv,MALE,3
+"[""{c and } you're driving back home  /""]",c and  youre driving back home  ,sv,MALE,3
+"[""{c and } it's late at night.  /""]",c and  its late at night  ,sv,MALE,3
+"['{c and } you stop by one of these, {d you know, } twenty-four hour, {d you know, } gas stations joints. /']",c and  you stop by one of these d you know  twentyfour hour d you know  gas stations joints ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, } {f uh, } somebody walks in there with a gun.  /']",c and  f uh  somebody walks in there with a gun  ,sv,MALE,3
+"[""{e i mean, } they're going to want the money,  /""]",e i mean  theyre going to want the money  ,sv,MALE,3
+"['{c and } you can tell by the people who are always caught, that these people are there to get money for drugs.  /']",c and  you can tell by the people who are always caught that these people are there to get money for drugs  ,sv,MALE,3
+"[""{e i mean, } they don't want the money [ so, + {f uh, } so ] they can do something else with it. /""]",e i mean  they dont want the money  so  f uh  so  they can do something else with it ,sv,MALE,3
+"['no,  /']",no  ,aa,FEMALE,4
+"[""they don't want the money for food,  /""]",they dont want the money for food  ,sv,FEMALE,3
+"[""that's for sure. /""]",thats for sure ,sv,FEMALE,3
+"['right,  /']",right  ,aa,MALE,4
+"['right, #  /']",right   ,aa,MALE,4
+['{c and so. } # -/'],c and so   ,%,MALE,5
+"[""# {d well, } {c but } {d you know, } [ the, + # the ] [ strange thing, +  {f uh, } perhaps, not strange, but  something that many people don't realize, ] is that you can go back as far as nineteen fifty-one and fifty-two and find that there were drug dealers at that time trying to influence the high school kids,  /""]", d well  c but  d you know   the   the   strange thing   f uh  perhaps not strange but  something that many people dont realize  is that you can go back as far as nineteen fiftyone and fiftytwo and find that there were drug dealers at that time trying to influence the high school kids  ,sv,FEMALE,3
+"[""{c because, } {f uh, } i'm a retired educator. /""]",c because  f uh  im a retired educator ,sd,FEMALE,1
+['okay <noise>. /'],okay noise ,bk,MALE,14
+"['{c and, } in fifty-one and fifty-two, the police came to the high school where i was and were telling us how to recognize when kids were on drugs, how to recognize the pushers --']",c and  in fiftyone and fiftytwo the police came to the high school where i was and were telling us how to recognize when kids were on drugs how to recognize the pushers ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- outside the one entrance, that they were giving their drugs away in order to get the kids started,  and so on, and so on.  /']", outside the one entrance that they were giving their drugs away in order to get the kids started  and so on and so on  ,+,FEMALE,0
+"[""{c so } it's a problem that's been around for over forty years,  /""]",c so  its a problem thats been around for over forty years  ,sv,FEMALE,3
+"[""{c and } we're just really, {f uh, } {f uh, } now, trying to, {f uh, } figure out how to cope with the problem because it has grown so huge. /""]",c and  were just really f uh  f uh  now trying to f uh  figure out how to cope with the problem because it has grown so huge ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ there's a, + there's [ a, +   {f uh, }  a ] ] song that i know which says, {d you know, } tha-, - /""]", theres a  theres  a    f uh   a   song that i know which says d you know  tha  ,sd,MALE,1
+"[""it's like, in, {f uh, } nineteen eighty-eight, nineteen eighty-nine, the local, state, and federal governments spent the least amount of money on crime in america,  /""]",its like in f uh  nineteen eightyeight nineteen eightynine the local state and federal governments spent the least amount of money on crime in america  ,sd,MALE,1
+"['{c and, } {f uh, } their figures, i think are [ too, +  so ] - /']",c and  f uh  their figures i think are  too   so   ,sv,MALE,3
+"[""{e i mean } it's like,  [ compared to, + {d you know, } compared to, ] weapons or stuff like that, {e i mean, } you're spending nothing [ on, + on ] crime in the country itself.  /""]",e i mean  its like   compared to  d you know  compared to  weapons or stuff like that e i mean  youre spending nothing  on  on  crime in the country itself  ,sv,MALE,3
+"[""what you're doing is, you, {d you know, } - /""]",what youre doing is you d you know   ,%,MALE,5
+"[""it's like, you have other things, {d you know, }  /""]",its like you have other things d you know   ,sv,MALE,3
+['you have the aids  /'],you have the aids  ,sv,MALE,3
+"[""we're going to solve, try to solve --""]",were going to solve try to solve ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- the aids problem [ while, + while,  ] {d you know, } some people are getting killed here and there  /']", the aids problem  while  while   d you know  some people are getting killed here and there  ,+,MALE,0
+['{c and then } <noise>. -/'],c and then  noise ,%,MALE,5
+['yeah  /'],yeah  ,b,FEMALE,2
+"['{c and } another one of the problems is that the people who are the dealers, the big dealers in drugs,']",c and  another one of the problems is that the people who are the dealers the big dealers in drugs,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ may be, + may be ] part of the power structure that's keeping us from spending the money in that direction. /""]", may be  may be  part of the power structure thats keeping us from spending the money in that direction ,+,FEMALE,0
+['{c but } those people never get caught.  /'],c but  those people never get caught  ,sv,MALE,3
+['the people  [ [ that -- +'],the people    that  ,%,MALE,5
+"[""that's right,  /""]",thats right  ,aa,FEMALE,4
+"[""they'll never get caught. /""]",theyll never get caught ,sv,FEMALE,3
+"['-- that,  ] + that ] i, - /']", that    that  i  ,+,MALE,0
+"[""{d see, } their theory is that if i'm surrounded,   and  i'm going to be caught,  i'm going to try to find my way through,  /""]",d see  their theory is that if im surrounded   and  im going to be caught  im going to try to find my way through  ,sv,MALE,3
+"[""{c and } they're not going to take me alive. /""]",c and  theyre not going to take me alive ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c but } i have such a big army outside of my place, that nobody can touch me. /']",c but  i have such a big army outside of my place that nobody can touch me ,sv,MALE,3
+"[""that's right.   /""]",thats right   ,aa,FEMALE,4
+"[""{c but } they'll, -/""]",c but  theyll ,%,FEMALE,5
+"[""{d you know, } it's like, - /""]",d you know  its like  ,sv,MALE,3
+"['of course, {e i mean } i might be, {d you know, } [ the + the  ] leading drug dealer here,  /']",of course e i mean  i might be d you know   the  the   leading drug dealer here  ,sv,MALE,3
+"[""{c but } you won't find me dealing in drugs,  /""]",c but  you wont find me dealing in drugs  ,sv,MALE,3
+"[""{e i mean, } there's no connection --""]",e i mean  theres no connection ,sv,MALE,3
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"['-- between me and the people that were caught, {d you know. }  /']", between me and the people that were caught d you know   ,+,MALE,0
+"[""that's right,  /""]",thats right  ,aa,FEMALE,4
+"['{c and, } they, - /']",c and  they  ,%,FEMALE,5
+"[""one person doesn't know the other person down the line. /""]",one person doesnt know the other person down the line ,sv,FEMALE,3
+['right. /'],right ,aa,MALE,4
+"[""{c but } the guy at the very top, the one [ who's, + who's ] really making  the millions  and the millions  is  the one who also many times is part of the power structure, {f uh, } [ the, + ] {f uh, } and had the political --""]",c but  the guy at the very top the one  whos  whos  really making  the millions  and the millions  is  the one who also many times is part of the power structure f uh   the   f uh  and had the political ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- {f uh, } pull to [ keep things from, + {f uh, } keep ] the interest or the emphasis in some other direction, other than on the drug dealing,  /']", f uh  pull to  keep things from  f uh  keep  the interest or the emphasis in some other direction other than on the drug dealing  ,+,FEMALE,0
+['{c because } it sure is monstrous in this country. /'],c because  it sure is monstrous in this country ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ i was, + i was ] [ at a, + at a ] party on saturday,  /']", i was  i was   at a  at a  party on saturday  ,sd,MALE,1
+"['{c and } this guy comes over,  /']",c and  this guy comes over  ,sd,MALE,1
+"['he goes, hey, how you doing,  ((   ))  /']",he goes hey how you doing       ,sd,MALE,1
+"['he started talking to me,  /']",he started talking to me  ,sd,MALE,1
+"['{c and } this guy was from jamaica, right. /']",c and  this guy was from jamaica right ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{c and } he's got his little brother selling drugs <talking> <<voices in background>>. /""]",c and  hes got his little brother selling drugs talking voices in background ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{d you know, } {c and } he goes, yeah,  i just came up here to work,  /']",d you know  c and  he goes yeah  i just came up here to work  ,sd,MALE,1
+"['{c and } i go, oh you did,  ((   ))  you make very good money up here.  /']",c and  i go oh you did       you make very good money up here  ,sd,MALE,1
+"['he goes, yeah,  i make a lot, a lot of money,  /']",he goes yeah  i make a lot a lot of money  ,sd,MALE,1
+"['he goes, {d you know. }  /']",he goes d you know   ,%,MALE,5
+"['{c and, } {f uh, } in the movie good fellows. -/']",c and  f uh  in the movie good fellows ,%,MALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['might. /  *[[spelling??]]'],might   spelling,aa,FEMALE,4
+['did you see it? /'],did you see it ,qy,MALE,7
+"['nope,  /']",nope  ,nn,FEMALE,13
+['i only heard about it. /'],i only heard about it ,sd,FEMALE,1
+"['okay,  /']",okay  ,bk,MALE,14
+"['in one part, the guy goes out of jail,  /']",in one part the guy goes out of jail  ,sd,MALE,1
+"['{c and } within, {f uh, } two months, he has all his house payments gone --']",c and  within f uh  two months he has all his house payments gone ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- everything paid, {d you know, }  /']", everything paid d you know   ,+,MALE,0
+"['{c and } he had enough money to, {d you know, } - /']",c and  he had enough money to d you know   ,sd,MALE,1
+"[""it's like, those guys, at one point, {d you know, } they had so much money that they didn't know what to do with it </talking>. /""]",its like those guys at one point d you know  they had so much money that they didnt know what to do with it talking ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['really,  {d you know, }  /']",really  d you know   ,%,FEMALE,5
+"[""even in our prison systems they're finding that [ they're, + they're ] having drugs smuggled into them. /""]",even in our prison systems theyre finding that  theyre  theyre  having drugs smuggled into them ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ that's, + [ that, + that ] was  ] also in the movie. /""]", thats   that  that  was   also in the movie ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+['{d so } hello mary. /'],d so  hello mary ,fp,MALE,32
+['been nice talking with you. /'],been nice talking with you ,fc,FEMALE,10
+"[""we've been talking for five minutes? /""]",weve been talking for five minutes ,fc,MALE,10
+"['i beg your, - /']",i beg your  ,fc,FEMALE,10
+"[""we've been talking for a little bit.  /""]",weve been talking for a little bit  ,fc,FEMALE,10
+['i appreciate the call.  /'],i appreciate the call  ,fc,FEMALE,10
+['# i enjoyed talking with you. # /'], i enjoyed talking with you  ,fc,FEMALE,10
+"['# all right, # okay,  /']", all right  okay  ,fc,MALE,10
+['same here. /'],same here ,fc,MALE,10
+"['uh-huh,  /']",uhhuh  ,fc,FEMALE,10
+['# bye-bye. # /'], byebye  ,fc,FEMALE,10
+['# bye-bye. # /'], byebye  ,fc,MALE,10

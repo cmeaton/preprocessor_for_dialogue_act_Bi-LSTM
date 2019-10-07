@@ -1,0 +1,112 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""{d well, } {f uh, } some of the books i've read lately have to do with crafty type things [ where i've, + where i've, ] {f um, } learned things that i'm going to do for my children for christmas -- /""]",d well  f uh  some of the books ive read lately have to do with crafty type things  where ive  where ive  f um  learned things that im going to do for my children for christmas  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } they were really, {f uh, } helpful, because i didn't know how to do this one stitching,  /""]", c and  they were really f uh  helpful because i didnt know how to do this one stitching  ,sd,FEMALE,1
+"['{c and so, } that was very helpful to me as far as books.  /']",c and so  that was very helpful to me as far as books  ,sd,FEMALE,1
+"[""otherwise, {f um, } i like to read children's books, and things like that.  /""]",otherwise f um  i like to read childrens books and things like that  ,sd,FEMALE,1
+['what about you? /'],what about you ,qo,FEMALE,25
+"['{f oh, } goodness,  /']",f oh  goodness  ,^h,FEMALE,27
+"['{d well } i was an english major,  /']",d well  i was an english major  ,^h,FEMALE,27
+['{c so } i like to read period. /'],c so  i like to read period ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""{f uh, } lately, i've been, on the whole, very practical,  /""]",f uh  lately ive been on the whole very practical  ,sd,FEMALE,1
+"[""{c and, } {f uh, } i'm trying, {f um, } [ to, + to, ] {f uh, } furnish a home -- /""]",c and  f uh  im trying f um   to  to  f uh  furnish a home  ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+"[""-- {c so } i've been [ looking at, +  {a i'm not sure reading is the word, } [ but + ] looking at ] books on, {f uh, } antiques and paintings and, {f uh, } interior decoration hints --""]", c so  ive been  looking at   a im not sure reading is the word   but   looking at  books on f uh  antiques and paintings and f uh  interior decoration hints ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and, {f uh, } lots of books on plants [ [ and, + and, ] + and ] gardens, because we started a garden --']", and f uh  lots of books on plants   and  and   and  gardens because we started a garden ,+,FEMALE,0
+['oh. /'],oh ,b,FEMALE,2
+"['-- and [ things, + things ] like that.  /']", and  things  things  like that  ,+,FEMALE,0
+"[""{c so } i've been doing very little reading, except [ i, +  i ] did finally dip into a couple of biographies.  {f um, } all of sort of literary figures of this century. /""]",c so  ive been doing very little reading except  i   i  did finally dip into a couple of biographies  f um  all of sort of literary figures of this century ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""it's interesting that you said that.  /""]",its interesting that you said that  ,sd,FEMALE,1
+"['my husband and  i had, {f uh, } took a book out of the library about gardening, too, and started a garden, a fall garden. /']",my husband and  i had f uh  took a book out of the library about gardening too and started a garden a fall garden ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{f um, } /']",f um  ,b,FEMALE,2
+['good for you.  /'],good for you  ,ba,FEMALE,6
+"[""i haven't gotten around to that. /""]",i havent gotten around to that ,sd,FEMALE,1
+"['{f oh, } <laughter>, yeah,  /']",f oh  laughter yeah  ,b,FEMALE,2
+"['{c and } [  our, + our, ] {f uh, } cantaloupes [ and, + and, ] {f um, } peppers and tomatoes are on right now,  /']",c and    our  our  f uh  cantaloupes  and  and  f um  peppers and tomatoes are on right now  ,sd,FEMALE,1
+"[""{c so } it's been really fun,  /""]",c so  its been really fun  ,sd,FEMALE,1
+"['[ {c and, } + {c and } ] we learned that, {d you know, } {f um, } some of the gardening skills we had were before,  /']", c and   c and   we learned that d you know  f um  some of the gardening skills we had were before  ,sd,FEMALE,1
+"['{c but, } some of them we learned from a book -- /']",c but  some of them we learned from a book  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and so } that was helpful to us.  /'], c and so  that was helpful to us  ,sd,FEMALE,1
+"[""{d now, } i've read two books <lipsmack>, {f uh, } that were, {f uh, } nonfiction lately -- /""]",d now  ive read two books lipsmack f uh  that were f uh  nonfiction lately  ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"['-- {c and, } {f uh, } i, - /']", c and  f uh  i  ,%,FEMALE,5
+"['{d well, } one was nonfiction and one was fiction,  /']",d well  one was nonfiction and one was fiction  ,sd,FEMALE,1
+"['{c and } the fiction one, {f uh, } was about a boy [ in, + ] {f uh, } during the time of adolf hitler -- /']",c and  the fiction one f uh  was about a boy  in   f uh  during the time of adolf hitler  ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+['-- {c and } he grew up and lived through a concentration camp -- /'], c and  he grew up and lived through a concentration camp  ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+['-- {c and } that was not enjoyment <laughter>. /'], c and  that was not enjoyment laughter ,sv,FEMALE,3
+['<laughter> no. /'],laughter no ,aa,FEMALE,4
+"['[ that, + that ] was too realistic and really, {f um, } [ mind, + ] a real eye opener, {f uh, }  /']", that  that  was too realistic and really f um   mind   a real eye opener f uh   ,sd,FEMALE,1
+"[""{c and } i guess it's good to read those things, too.  {f uh, }  /""]",c and  i guess its good to read those things too  f uh   ,h,FEMALE,15
+"[""{c but, } i didn't enjoy it necessarily -- /""]",c but  i didnt enjoy it necessarily  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, } {f uh, } the other one was quite enjoyable.  /']", c and  f uh  the other one was quite enjoyable  ,sd,FEMALE,1
+"['it was, {f uh, } about [ a, + a ] chinese lady and her generations down, [ her, + ] what happened to her family through the years -- /']",it was f uh  about  a  a  chinese lady and her generations down  her   what happened to her family through the years  ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- {c so, } that one was good.  /']", c so  that one was good  ,sd,FEMALE,1
+"['i think all of, - /']",i think all of  ,%,FEMALE,5
+"[""{d well, } even if they're not enjoyable, they bring you [ a, + ] {f uh, } some kind [ of, + of ] learning,  /""]",d well  even if theyre not enjoyable they bring you  a   f uh  some kind  of  of  learning  ,sv,FEMALE,3
+"[""{c so } even if it's the country that they're from or  anything like that. - /""]",c so  even if its the country that theyre from or  anything like that  ,sv,FEMALE,3
+"[""{c so, } [ [ i, + i, ] + i ] like to read [ the, + the ] children's books,  /""]",c so    i  i   i  like to read  the  the  childrens books  ,sd,FEMALE,1
+"[""i think that's the most animated and imaginative.  /""]",i think thats the most animated and imaginative  ,sd,FEMALE,1
+['{c so } i like those a lot. /'],c so  i like those a lot ,sd,FEMALE,1
+"[""{f uh, } what are your favorite children's books? /""]",f uh  what are your favorite childrens books ,qw,FEMALE,12
+"['{f oh, } there are a couple of newberry award winners.  /']",f oh  there are a couple of newberry award winners  ,sd,FEMALE,1
+"['{f uh, } a wrinkle in time is one -- /']",f uh  a wrinkle in time is one  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- i don't know if you've ever read that -- /""]", i dont know if youve ever read that  ,qy^d,FEMALE,16
+['no. /'],no ,nn,FEMALE,13
+"[""-- [ {c but, } + {c but, } ] {f um, } {f oh, } there's one about an indian girl,  /""]",  c but   c but   f um  f oh  theres one about an indian girl  ,sd,FEMALE,1
+"[""{c and } i can't think of that,  /""]",c and  i cant think of that  ,sd,FEMALE,1
+['island of the blue dolphins is another -- /'],island of the blue dolphins is another  ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+"[""-- {c and } that's a good one.  /""]", c and  thats a good one  ,sd,FEMALE,1
+"[""{d now, } some of the ones that have just received the awards this year, i haven't read,  /""]",d now  some of the ones that have just received the awards this year i havent read  ,sd,FEMALE,1
+['{c and } i would like to read those -- /'],c and  i would like to read those  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c but, } {f uh, } it's funny, because i've read some from like  nineteen twenty-three and nineteen forty-five and things like  that -- /""]", c but  f uh  its funny because ive read some from like  nineteen twentythree and nineteen fortyfive and things like  that  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } i didn't enjoy those as much,  /""]", c and  i didnt enjoy those as much  ,sd,FEMALE,1
+"[""{c and } i don't know if it's just because they didn't come from my era or what,  /""]",c and  i dont know if its just because they didnt come from my era or what  ,sd,FEMALE,1
+"['{c but, } {f uh, } -/']",c but  f uh  ,%,FEMALE,5
+"[""that's interesting,  /""]",thats interesting  ,ba,FEMALE,6
+"['[ [  i, + i, ] + i, ] - /']",   i  i   i   ,%,FEMALE,5
+"[""{d well, } you can't be an english major unless you like reading things from the past, /""]",d well  you cant be an english major unless you like reading things from the past ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c so, } i've read a great deal of old things.  /""]",c so  ive read a great deal of old things  ,sd,FEMALE,1
+"['i tend to [ go, + go ] back, - /']",i tend to  go  go  back  ,sd,FEMALE,1
+"[""i don't have any children -- /""]",i dont have any children  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c so } i don't read the new ones,  /""]", c so  i dont read the new ones  ,sd,FEMALE,1
+"[""{c but } i occasionally, if no one's looking --""]",c but  i occasionally if no ones looking ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- dip into something like winnie the pooh,']", dip into something like winnie the pooh,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['<laughter>.'],laughter,+,FEMALE,0
+"['no,  /']",no  ,aa,FEMALE,4
+"[""even that's good. /""]",even thats good ,aa,FEMALE,4
+"[""or, {f uh, } {f uh, } the grimm's fairy tales or something like  that --""]",or f uh  f uh  the grimms fairy tales or something like  that ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {f um, } just because it's sheer magic. /""]", f um  just because its sheer magic ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{f uh, } my children and [ i, + {f uh, } i ] started a thing where i read a book with them before they went --']",f uh  my children and  i  f uh  i  started a thing where i read a book with them before they went ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- to bed at night.  /'], to bed at night  ,+,FEMALE,0
+"['{c and } there was one called the pig princess,  /']",c and  there was one called the pig princess  ,sd,FEMALE,1
+"['{c and } it was [ a, + a ] princess from a long, long, time ago,  /']",c and  it was  a  a  princess from a long long time ago  ,sd,FEMALE,1
+"['{c and } she came through [ a, + a ] spell kind of thing and ended up in a pig, {f um, } sty,  /']",c and  she came through  a  a  spell kind of thing and ended up in a pig f um  sty  ,sd,FEMALE,1
+['{c and } the people that she came to were just farm people -- /'],c and  the people that she came to were just farm people  ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"[""-- {c and } she didn't understand them,  /""]", c and  she didnt understand them  ,sd,FEMALE,1
+"[""{c and } they didn't understand her,  /""]",c and  they didnt understand her  ,sd,FEMALE,1
+"['{c but } it came together in this book,  /']",c but  it came together in this book  ,sd,FEMALE,1
+['{c and } it was really a lot of fun. /'],c and  it was really a lot of fun ,sd,FEMALE,1
+"['yes,  /']",yes  ,b,FEMALE,2
+"['i think that, {f uh, } [ we, + we, ] -/']",i think that f uh   we  we  ,sv,FEMALE,3

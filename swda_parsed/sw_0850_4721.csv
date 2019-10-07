@@ -1,0 +1,172 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<throat_clearing>.'],throatclearing,x,MALE,8
+['<swallowing> <talking> you want to go first <laughter>. /'],swallowing talking you want to go first laughter ,qy^d,FEMALE,16
+"['{d well, } {f uh, } no  /']",d well  f uh  no  ,nn,MALE,13
+"[""[ i don-, + i don't ] get as much exercise [ as i, + as i ] should as, or  as i would like to, {f uh, } {f uh, } these days.  /""]", i don  i dont  get as much exercise  as i  as i  should as or  as i would like to f uh  f uh  these days  ,sd,MALE,1
+"['i, - /']",i  ,%,MALE,5
+['seems to be to easy to get busy with other things.  /'],seems to be to easy to get busy with other things  ,sd,MALE,1
+"['{f uh, } i have, in the past, {f uh, } jogged and, and run,  /']",f uh  i have in the past f uh  jogged and and run  ,sd,MALE,1
+"['{c and } [ every, + every ] january and every september, i start out again  /']",c and   every  every  january and every september i start out again  ,sd,MALE,1
+['{c and then } it tapers off <laughter>. /'],c and then  it tapers off laughter ,sd,MALE,1
+['really? /'],really ,bh,FEMALE,18
+"['{f uh, } what about you? /']",f uh  what about you ,qo,MALE,25
+"['{d well, } yeah,  /']",d well  yeah  ,ny,FEMALE,9
+['i do a lot of exercise.  /'],i do a lot of exercise  ,sd,FEMALE,1
+"[""right now, i'm into jazzercise, which i absolutely love.  /""]",right now im into jazzercise which i absolutely love  ,sd,FEMALE,1
+"['{f uh, } i started about two years ago because i gained some weight over the past few years  /']",f uh  i started about two years ago because i gained some weight over the past few years  ,sd,FEMALE,1
+['{c and } i wanted to get it back off -- /'],c and  i wanted to get it back off  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {c and } i was going through a divorce  /'], c and  i was going through a divorce  ,sd,FEMALE,1
+['{c and } i just found that running really made me feel good. /'],c and  i just found that running really made me feel good ,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+['# got out a # lot of aggression.  /'], got out a  lot of aggression  ,sd,FEMALE,1
+['i went to the gym every day  /'],i went to the gym every day  ,sd,FEMALE,1
+['{c and } i ran on the treadmill and rode the bike  /'],c and  i ran on the treadmill and rode the bike  ,sd,FEMALE,1
+"['{c and, } {f uh, } i felt really good.  /']",c and  f uh  i felt really good  ,sd,FEMALE,1
+['i needed to do it  /'],i needed to do it  ,sd,FEMALE,1
+['{c and } it was really helpful at the time.  /'],c and  it was really helpful at the time  ,sd,FEMALE,1
+"[""{d now } when i do those things, they're boring.  /""]",d now  when i do those things theyre boring  ,sd,FEMALE,1
+['i would rather be outside then <noise> in the gym doing this in one place. /'],i would rather be outside then noise in the gym doing this in one place ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and so } i just recently discovered jazzercise, about two months ago.  /']",c and so  i just recently discovered jazzercise about two months ago  ,sd,FEMALE,1
+"[""{c and } i'm getting to be a good dancer from it  /""]",c and  im getting to be a good dancer from it  ,sd,FEMALE,1
+"[""{c and } i'm just feeling really good.  /""]",c and  im just feeling really good  ,sd,FEMALE,1
+"['i love the class,  /']",i love the class  ,sd,FEMALE,1
+"[""it's real challenging,  /""]",its real challenging  ,sd,FEMALE,1
+"[""{c so } i'm really into that, /""]",c so  im really into that ,sd,FEMALE,1
+['<snorting>.'],snorting,x,MALE,8
+['i really like that a lot. /'],i really like that a lot ,sd,FEMALE,1
+"[""{d well } {d now } [ that, + [ is that, + ] {f uh, } that's ] related to [ the, + the ] aerobic, {f uh, } # (( )) , # -/""]",d well  d now   that   is that   f uh  thats  related to  the  the  aerobic f uh       ,qy^d,MALE,16
+"[""# [ it is, + it's ] # aerobics  /""]",  it is  its   aerobics  ,na,FEMALE,21
+"[""{c but } it's with dance steps. /""]",c but  its with dance steps ,sd,FEMALE,1
+['okay. /'],okay ,bk,MALE,14
+"[""it's an aerobic exercise  /""]",its an aerobic exercise  ,sd,FEMALE,1
+"[""{c and } it's an hour straight.  /""]",c and  its an hour straight  ,sd,FEMALE,1
+"[""{c and } [ it's just, + {f uh, } it's a lot of fun. ]  /""]",c and   its just  f uh  its a lot of fun   ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""{c and } [ i'm, + i'm ] getting much better.  /""]",c and   im  im  getting much better  ,sd,FEMALE,1
+['my stamina is getting great for the dance floor  /'],my stamina is getting great for the dance floor  ,sd,FEMALE,1
+"['<laughter>, # {c so } # --']",laughter  c so   ,%,FEMALE,5
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""-- {e i mean } it's just, - /""]", e i mean  its just  ,+,FEMALE,0
+"[""there's a lot of positive things with it,  /""]",theres a lot of positive things with it  ,sd,FEMALE,1
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['{d well, } {f uh, } okay.  /']",d well  f uh  okay  ,b,MALE,2
+"[""now that's inside again,  /""]",now thats inside again  ,sd,MALE,1
+['right? /'],right ,qy,MALE,7
+['it is inside  /'],it is inside  ,na,FEMALE,21
+"[""{c and } # i've # --""]",c and   ive  ,sd,FEMALE,1
+"['# {c but, } # -/']", c but   ,%,MALE,5
+"[""-- been doing a lot of bike riding outside with the nice weather we've been having  /""]", been doing a lot of bike riding outside with the nice weather weve been having  ,+,FEMALE,0
+['{c and } i just enjoy that much more too # than inside. # /'],c and  i just enjoy that much more too  than inside  ,sd,FEMALE,1
+"['# [ do, + do ] you # like to do it [ wi-, + with ] other people.  /']",  do  do  you  like to do it  wi  with  other people  ,qy^d,MALE,16
+"['{e i mean } like [ the, + the ] # jazzercise would be? # -/']",e i mean  like  the  the   jazzercise would be  ,qy^d,MALE,16
+['# i have a # thirteen year old daughter  /'], i have a  thirteen year old daughter  ,sd,FEMALE,1
+['{c and so } we go bike riding  /'],c and so  we go bike riding  ,sd,FEMALE,1
+"[""{c and } it's nice.  /""]",c and  its nice  ,sd,FEMALE,1
+['we get --'],we get ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- to spend some time together rather than i go to the gym while she does her homework. /'], to spend some time together rather than i go to the gym while she does her homework ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"[""{c so } i've enjoyed that part of it.  /""]",c so  ive enjoyed that part of it  ,sd,FEMALE,1
+['yeah.  /'],yeah  ,%,FEMALE,5
+"['{c and } at the gym, even in the class, {f uh, } i, [ w-, + ] [ e-, + ] - /']",c and  at the gym even in the class f uh  i  w    e    ,sd,FEMALE,1
+"[""it's not really a group where you chat a lot.  /""]",its not really a group where you chat a lot  ,sd,FEMALE,1
+"[""everybody's on their way to someplace -- /""]",everybodys on their way to someplace  ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['-- {c and so, } {d you know, } # i do # --']", c and so  d you know   i do  ,sd,FEMALE,1
+"['# {c but, } # -/']", c but   ,%,MALE,5
+['-- have one friend who goes occasionally  /'], have one friend who goes occasionally  ,+,FEMALE,0
+"['{c but, } basically, i do it by myself in a group of maybe forty  /']",c but  basically i do it by myself in a group of maybe forty  ,sd,FEMALE,1
+"['# <laughter>, {c so. } # -/']", laughter c so   ,%,FEMALE,5
+"['# yeah,  /']", yeah  ,b,MALE,2
+['right.  /'],right  ,b,MALE,2
+['# right.  /'], right  ,b,MALE,2
+"['{c but } still [ there are, + there are ] other people there [ doing the, + # doing the ] same thing. # /']",c but  still  there are  there are  other people there  doing the   doing the  same thing  ,sd,MALE,1
+"['# [ there are, + there are. ] # - /']",  there are  there are    ,%,FEMALE,5
+"[""it's more motivating # that way, i think.  /""]",its more motivating  that way i think  ,sv,FEMALE,3
+['yeah. # /'],yeah  ,%,FEMALE,5
+"['# in terms of motivation and incentive,  /']", in terms of motivation and incentive  ,^2,MALE,23
+['yeah. # /'],yeah  ,%,MALE,5
+['you could get a tape probably and do it at home in front of the t v  /'],you could get a tape probably and do it at home in front of the t v  ,sv,FEMALE,3
+"['{c but } i-, - /']",c but  i  ,%,FEMALE,5
+"[""you probably wouldn't. /""]",you probably wouldnt ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['# {d so. } # -/'], d so   ,%,FEMALE,5
+"['# yeah,  /']", yeah  ,b,MALE,2
+"[""# {f uh, } that makes a difference doesn't it? /""]", f uh  that makes a difference doesnt it ,qy,MALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+"[""[ i, + i've, ] - /""]", i  ive   ,%,MALE,5
+"['one thing, - /']",one thing  ,%,MALE,5
+"['[ when, + when ] i have <swallowing> run and jogged, {f uh, }  /']", when  when  i have swallowing run and jogged f uh   ,sd,MALE,1
+"[""i've always enjoyed doing it by myself  /""]",ive always enjoyed doing it by myself  ,sd,MALE,1
+"['[ {c and, } + {c and, } ] kno-, - /']", c and   c and   kno  ,%,MALE,5
+"['not with the sense that it was, {f uh, } {f uh, } chore or something that i was having to do,  /']",not with the sense that it was f uh  f uh  chore or something that i was having to do  ,sd,MALE,1
+"[""[ i, + i've ] really enjoyed just the activity  /""]", i  ive  really enjoyed just the activity  ,sd,MALE,1
+"['{c and, } {f uh, } <sigh> i write software, {f uh, } as far as the job  /']",c and  f uh  sigh i write software f uh  as far as the job  ,sd,MALE,1
+"['{c and so } getting out and being active, {f uh, } [ is, + ] {f uh, } {f uh, } helps out. #  /']",c and so  getting out and being active f uh   is   f uh  f uh  helps out   ,sd,MALE,1
+"['(( the, th-, - /']", the th  ,%,MALE,5
+"[""it's ))  # -/""]",its    ,%,MALE,5
+"['# yeah,  /']", yeah  ,b,FEMALE,2
+"['#  # yeah,  /']",   yeah  ,b,FEMALE,2
+"[""i can see it'll be a good break. # /""]",i can see itll be a good break  ,sd,FEMALE,1
+"['#  (( [ [ the ch-, + the chan-, ] + the ))  # change ] of pace and # just # --']",     the ch  the chan   the    change  of pace and  just  ,sd,MALE,1
+['# right. # /'], right  ,b,FEMALE,2
+['-- getting out and around  /'], getting out and around  ,+,MALE,0
+"['{c and } i find that i can often, {d you know, } - /']",c and  i find that i can often d you know   ,sd,MALE,1
+"['often, {f uh, } when i get around to doing it, then [ i, + i ] feel better when i get back to # work # -- /']",often f uh  when i get around to doing it then  i  i  feel better when i get back to  work   ,sd,MALE,1
+['# uh-huh  /'], uhhuh  ,b,FEMALE,2
+"[""-- {c and, } {f uh, } {f uh, } also [ that, + that, ] [ it, + ] my subconscious is working on things while # i'm working # -- /""]", c and  f uh  f uh  also  that  that   it   my subconscious is working on things while  im working   ,sd,MALE,1
+"['-- {c and } [ i, + i ] go back  /']", c and   i  i  go back  ,sd,MALE,1
+"[""{c and } i've got new ideas,  /""]",c and  ive got new ideas  ,sd,MALE,1
+['{c but } #  (( still )) . # -/'],c but     still    ,%,MALE,5
+['i think # you do.  /'],i think  you do  ,sv,FEMALE,3
+['you feel very good after you exercise.  /'],you feel very good after you exercise  ,sv,FEMALE,3
+['# i think # --'], i think  ,sv,FEMALE,3
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""-- it's worth making the time for yourself.  /""]", its worth making the time for yourself  ,+,FEMALE,0
+['you owe it to yourself # <noise> # -- /'],you owe it to yourself  noise   ,sv,FEMALE,3
+['# yeah. # /'], yeah  ,b,MALE,2
+['-- {c and } i think you do accomplish <noise> more after that. /'], c and  i think you do accomplish noise more after that ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and } i think that it's just is good for your self-esteem, for everything because when you look better, you feel better  /""]",c and  i think that its just is good for your selfesteem for everything because when you look better you feel better  ,sv,FEMALE,3
+"[""{c and } it's just, {f uh, } - /""]",c and  its just f uh   ,%,FEMALE,5
+"[""i think it's well worth it.  /""]",i think its well worth it  ,sv,FEMALE,3
+['i just demand that time for myself.  /'],i just demand that time for myself  ,sd,FEMALE,1
+"[""{d now } i've learned to do that -- /""]",d now  ive learned to do that  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""-- [ {c and, } + {d you know, } {c and } ] [ it's, + i think it ] just benefits you all around.  /""]",  c and   d you know  c and    its  i think it  just benefits you all around  ,sv,FEMALE,3
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ i think that's, + {f uh, } i think that's ] a good term, [ d-, + demanding ] the time for yourself.  /""]", i think thats  f uh  i think thats  a good term  d  demanding  the time for yourself  ,sv,MALE,3
+"[""that # [ you've just got to # -- +""]",that   youve just got to   ,sv,MALE,3
+['# you have to.  /'], you have to  ,sv,FEMALE,3
+['because # --'],because  ,sd,FEMALE,1
+"[""-- # you've  (( just got to ] prior-, ))  # -/""]",  youve   just got to  prior    ,+,MALE,0
+"[""-- # there's always more things # to do. /""]",  theres always more things  to do ,+,FEMALE,0
+['# right. # /'], right  ,b,MALE,2
+['# there is # always things that you can make priority to it  /'], there is  always things that you can make priority to it  ,^2,FEMALE,23
+"[""{c but } [ i just, + i ] don't demand a lot for myself  /""]",c but   i just  i  dont demand a lot for myself  ,sd,FEMALE,1
+['{c and so } --'],c and so  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- {d you know, } i just feel entitled to it  /']", d you know  i just feel entitled to it  ,+,FEMALE,0
+"['{c and } i take it # <laughter>, - /']",c and  i take it  laughter  ,sd,FEMALE,1
+['{c so. } # -/'],c so   ,%,FEMALE,5
+"['# {d well } good,  /']", d well  good  ,ba,MALE,6
+['{d well } good.  /'],d well  good  ,ba,MALE,6
+"['# {d well, } {f uh, } {f uh, } [ have you, + have you ] done any jogging?  /']", d well  f uh  f uh   have you  have you  done any jogging  ,qy,MALE,7
+"['i tell  you, you said you did on the bike and on the treadmill [ in, + in ] the, # {f uh, } club. # /']",i tell  you you said you did on the bike and on the treadmill  in  in  the  f uh  club  ,sd,MALE,1
+"['# <sigh> no,  /']", sigh no  ,nn,FEMALE,13
+"[""i've # done some walking with friends in the past. /""]",ive  done some walking with friends in the past ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c but } i find that when you do that, you do more chatting than you do --']",c but  i find that when you do that you do more chatting than you do ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['-- exercise  /'], exercise  ,+,FEMALE,0
+"[""{c and } that's not really beneficial,  /""]",c and  thats not really beneficial  ,sd,FEMALE,1
+"['{c so, } {f uh } --']",c so  f uh  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"[""-- i don't have time like that  /""]", i dont have time like that  ,+,FEMALE,0
+"['{c and } i spend enough time chatting around # <laughter> everywhere, {d you know } </talking>. # /']",c and  i spend enough time chatting around  laughter everywhere d you know  talking  ,sd,FEMALE,1
+['# <laughter>. #'], laughter ,x,MALE,8

@@ -1,0 +1,142 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{f um, } are you working right now? /']",f um  are you working right now ,qy,MALE,7
+"['{f uh, } yes,  /']",f uh  yes  ,ny,MALE,9
+['i am.  /'],i am  ,sd,MALE,1
+"[""i'm working in the computer science  department here --""]",im working in the computer science  department here ,sd,MALE,1
+"['{f uh, } /']",f uh  ,%,MALE,5
+"['-- {f uh, } at c m u. /']", f uh  at c m u ,+,MALE,0
+"['[ what kind of, + what kind of ] work do you do? /']", what kind of  what kind of  work do you do ,qw,MALE,12
+"[""{f uh, } i'm doing basically [ system, + system ] design --""]",f uh  im doing basically  system  system  design ,sd,MALE,1
+['<<very faint>>  uh-huh. /'],very faint  uhhuh ,b,MALE,2
+"['-- work and, {f uh, } implementation work [ for the speech, +  for the speech ] group --']", work and f uh  implementation work  for the speech   for the speech  group ,+,MALE,0
+['oh. /'],oh ,b,MALE,2
+"['-- {f uh, } here. /']", f uh  here ,+,MALE,0
+"['wh-, - /']",wh  ,%,MALE,5
+['is that how you heard about this thing?  <laughter>. /'],is that how you heard about this thing  laughter ,qy,MALE,7
+"['# yeah, # /']", yeah  ,ny,MALE,9
+"['# {f uh, } # /']", f uh   ,%,MALE,5
+['actually through electronic mail. /'],actually through electronic mail ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,MALE,2
+['me too.  /'],me too  ,sd,MALE,1
+"['i work at, {f uh, } the georgia tech  research institute. /']",i work at f uh  the georgia tech  research institute ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{f um, } i'm a co-op student  /""]",f um  im a coop student  ,sd,MALE,1
+['{c so } i work and go to school about halftime.  /'],c so  i work and go to school about halftime  ,sd,MALE,1
+"[""{c and, } {f uh, } i really don't have any job benefits to speak of.  /""]",c and  f uh  i really dont have any job benefits to speak of  ,sd,MALE,1
+"[""we're kind of, {f um, } - /""]",were kind of f um   ,%,MALE,5
+"[""i don't know, - /""]",i dont know  ,h,MALE,15
+['they just kind of forget us on that end.  /'],they just kind of forget us on that end  ,sd,MALE,1
+"[""we don't really have any vacation or, {d you know, } sick days or health care or anything really  /""]",we dont really have any vacation or d you know  sick days or health care or anything really  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+['<laughter> right.  /'],laughter right  ,b,MALE,2
+"[""{c so } it's pretty fair they've got  you slaving away,""]",c so  its pretty fair theyve got  you slaving away,bf,MALE,20
+['# exactly. # /'], exactly  ,aa,MALE,4
+"['# [ at, + # at ] this point <laughter>. /']",  at   at  this point laughter ,+,MALE,0
+['exactly. /'],exactly ,aa,MALE,4
+['yeah. /'],yeah ,b,MALE,2
+['what about you? /'],what about you ,qo,MALE,25
+"[""{d well, } {f um, } [ [ t-, + i-, ] + i'm ] research stuff here now  /""]",d well  f um    t  i   im  research stuff here now  ,sd,MALE,1
+"['{c so } [ what + ] [ they, + they ] have, {f uh, } {f um, } okay, benefits package.   /']",c so   what    they  they  have f uh  f um  okay benefits package   ,sd,MALE,1
+"[""it's not quite as good as industry  /""]",its not quite as good as industry  ,sv,MALE,3
+"['{c but } one of the significant, {f um, } benefits here is that you can take, {f uh, } up to two courses a semester, {f um, }  /']",c but  one of the significant f um  benefits here is that you can take f uh  up to two courses a semester f um   ,sd,MALE,1
+['{c and } they [ pay for + --'],c and  they  pay for  ,sd,MALE,1
+['{f huh. } /'],f huh  ,%,MALE,5
+"['-- {d you know, } pay for ] the classes.  /']", d you know  pay for  the classes  ,+,MALE,0
+"['{c so, }']",c so ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"['# ((carnegie mellon)) # that works out to be, {f um, } [ a  reasonable, + a reasonable ] benefit. /']", carnegie mellon  that works out to be f um   a  reasonable  a reasonable  benefit ,+,MALE,0
+"[""{f uh, } they do that i think if you're, {f uh, } research (( ))  here  /""]",f uh  they do that i think if youre f uh  research    here  ,sd,MALE,1
+['{c then } i know of some of the people that have gotten their masters  /'],c then  i know of some of the people that have gotten their masters  ,sd,MALE,1
+"['{c and } i think that,  {f um, } they might, {d you know, } pay for that.']",c and  i think that  f um  they might d you know  pay for that,sv,MALE,3
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+['# pay for # the classes and stuff  /'], pay for  the classes and stuff  ,+,MALE,0
+"[""{c but } i know [ they let you, + they'll let you ] decrease how many hours you work by (( )) kind of percentage.  /""]",c but  i know  they let you  theyll let you  decrease how many hours you work by   kind of percentage  ,sd,MALE,1
+"[""{d you know, } they'll let you work halftime [ if you want to, + if you want to ] finish, /""]",d you know  theyll let you work halftime  if you want to  if you want to  finish ,sd,MALE,1
+"['# if you want to, #']", if you want to ,bf,MALE,20
+"['# you want to, # -/']", you want to  ,b^m,MALE,24
+['do it quickly. /'],do it quickly ,+,MALE,0
+['yeah.  /'],yeah  ,aa,MALE,4
+"[""they'll let you work, decrease your number of hours by any percentage [ just, + just ] about so if you want to get your masters  /""]",theyll let you work decrease your number of hours by any percentage  just  just  about so if you want to get your masters  ,sd,MALE,1
+"['{c and then, } i think of course [ you get {d like } a, + with your extra degrees you get a ] pay raise due  /']",c and then  i think of course  you get d like  a  with your extra degrees you get a  pay raise due  ,sd,MALE,1
+['{c so } --'],c so  ,sv,MALE,3
+"['uh-huh,  /']",uhhuh  ,b,MALE,2
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- that will probably help out.  /'], that will probably help out  ,+,MALE,0
+['yeah.  /'],yeah  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"[""{c so } [ i, + i ] don't know [ in, + in ] terms of other things, other benefits other than sort of monetary  /""]",c so   i  i  dont know  in  in  terms of other things other benefits other than sort of monetary  ,sd,MALE,1
+"[""[ i'd, + {d you know, } i, ] -/""]", id  d you know  i  ,%,MALE,5
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['[ we, + we ] do.  /']", we  we  do  ,sd,MALE,1
+"['we have to contribute a certain amount,  {f uh, } to it. /']",we have to contribute a certain amount  f uh  to it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and } it's kind of split between c m u [ and, +""]",c and  its kind of split between c m u  and ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+"['# and, ] {d you know, } # the employee. /']", and  d you know   the employee ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['i think,']",i think,sv,MALE,3
+['<breathing>.'],breathing,x,MALE,8
+"[""{e i mean } [ that's pretty, + that's a pretty ] important,  {f uh, } part of it there because [ that, + that ] can be really expensive if you ever have any health problems.  /""]",e i mean   thats pretty  thats a pretty  important  f uh  part of it there because  that  that  can be really expensive if you ever have any health problems  ,+,MALE,0
+"['[ my dad, + i think my, ] - /']", my dad  i think my   ,%,MALE,5
+"[""i'm still covered [ on, + with ]  my dad's, {f uh, } health plan [ at his, + where he works, ]  /""]",im still covered  on  with   my dads f uh  health plan  at his  where he works   ,sd,MALE,1
+['{c but } --'],c but  ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+['-- it would definitely be something to look into once i get my own. /'], it would definitely be something to look into once i get my own ,+,MALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{c and } [ it's also, + right now it's, ] {f uh, } the, - /""]",c and   its also  right now its  f uh  the  ,%,MALE,5
+"['like everywhere else, {f uh, } - /']",like everywhere else f uh   ,sv,MALE,3
+"['here in pittsburgh the health care, {f uh, } rates [ are, + are ] going  up pretty quickly. /']",here in pittsburgh the health care f uh  rates  are  are  going  up pretty quickly ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""<laughter>  that's a whole other topic --""]",laughter  thats a whole other topic ,sd,MALE,1
+['<laughter>  ((they have)). /'],laughter  they have ,%,MALE,5
+['-- <laughter> to begin with too  /'], laughter to begin with too  ,+,MALE,0
+['{c but. } - /'],c but   ,%,MALE,5
+"['yeah,  /']",yeah  ,%,MALE,5
+"[""{c but }  [ it's, + you are ] right.  /""]",c but    its  you are  right  ,sv,MALE,3
+"[""[ [ i, + i, ] + i ] really agree that, [ that + that's ] pretty important. /""]",  i  i   i  really agree that  that  thats  pretty important ,sd,MALE,1
+"['{d ((well, } [ the only,)) + [ i think the, + i guess the ] only ]  real, {f um, } benefit i guess you could say [ working, for me + working here, ] besides {e i mean } - /']",d well   the only   i think the  i guess the  only   real f um  benefit i guess you could say  working for me  working here  besides e i mean   ,sv,MALE,3
+"[""i'm  learning and stuff because,""]",im  learning and stuff because,sd,MALE,1
+['# right. # /'], right  ,b,MALE,2
+"[""# i'm [ at, + {d you know, } # in ] school.  /""]", im  at  d you know   in  school  ,+,MALE,0
+['{c but } --'],c but  ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"[""-- [ there's, + there's ] some ((weird law)) where, {f uh, }  {f uh, } student employees working for the government --""]",  theres  theres  some weird law where f uh   f uh  student employees working for the government ,+,MALE,0
+['uh-huh <noise>. /'],uhhuh noise ,b,MALE,2
+"[""-- don't have to pay social security tax. /""]", dont have to pay social security tax ,+,MALE,0
+['<laughter>  oh <laughter>. /'],laughter  oh laughter ,b,MALE,2
+['((though))  <laughter>  --'],though  laughter  ,sd,MALE,1
+"[""now that's a big win. /""]",now thats a big win ,sv,MALE,3
+"[""-- that's about,""]", thats about,+,MALE,0
+['<laughter>.'],laughter,x,MALE,8
+['five percent right there  /'],five percent right there  ,+,MALE,0
+['{c so. } -/'],c so  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah.  /'],yeah  ,b,MALE,2
+"[""# that's, # -/""]", thats  ,%,MALE,5
+"[""# that's # about the only real bonus -- /""]", thats  about the only real bonus  ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""-- [ i have, + {c so } i have ] to take that into consideration when i evaluate {d like } how much i get paid ((real,)) {d you know, } because if i was working somewhere else i'd have to, {d you know, } pay an extra five percent,""]",  i have  c so  i have  to take that into consideration when i evaluate d like  how much i get paid real d you know  because if i was working somewhere else id have to d you know  pay an extra five percent,sd,MALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+['# or so. # /'], or so  ,+,MALE,0
+['i figured for <noise> <breathing> - /'],i figured for noise breathing  ,%,MALE,5
+"[""{c and } they've just  raised the, {f um, } income caps on social security to the point where <laughter> --""]",c and  theyve just  raised the f um  income caps on social security to the point where laughter ,sd,MALE,1
+['{f huh. } /'],f huh  ,%,MALE,5
+"['-- [ you have to be pretty, + you have to be pretty ] well off  before you stop [ paying -- +']",  you have to be pretty  you have to be pretty  well off  before you stop  paying  ,+,MALE,0
+['yeah. /'],yeah ,b,MALE,2
+['-- paying ] that as well.  /'], paying  that as well  ,+,MALE,0
+"['yeah,  /']",yeah  ,%,MALE,5
+"['{d well } if you could  call it a benefit that c m u, {e i mean } i-, - /']",d well  if you could  call it a benefit that c m u e i mean  i  ,sd,MALE,1
+"['the other thing that they allow you to do here  while you are working [ is, + is ] consult for, {f um, } {d you know, } other companies. /']",the other thing that they allow you to do here  while you are working  is  is  consult for f um  d you know  other companies ,sd,MALE,1
+"['{f oh, } yeah? /']",f oh  yeah ,bh,MALE,18
+"[""{f um, } {c so } [ that's, + that ] kind of helps out in terms of,""]",f um  c so   thats  that  kind of helps out in terms of,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# {d you know, } # keeping up-to-date with contacts in industry. /']", d you know   keeping uptodate with contacts in industry ,+,MALE,0
+['# yeah. # /'], yeah  ,b,MALE,2
+"['# {d you know, } [ in case, # +']", d you know   in case  ,sd,MALE,1
+['(( )) help a lot. /'],  help a lot ,sv,MALE,3
+"['{d you know, } in case ] you ever need to bail out <laughter>. /']",d you know  in case  you ever need to bail out laughter ,+,MALE,0
+['<laughter> yeah.  /'],laughter yeah  ,b,MALE,2
+"[""{d see } [ around, + around ] here it's like,  {f uh, } - /""]",d see   around  around  here its like  f uh   ,sd,MALE,1
+"['we pretty much work from project to project [ on, + {d well, } {d you know, } with ]  different sponsors. /']",we pretty much work from project to project  on  d well  d you know  with   different sponsors ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ there's not, + there is not ] a whole lot of, {d you know, } funded research from, -/""]", theres not  there is not  a whole lot of d you know  funded research from ,sd,MALE,1

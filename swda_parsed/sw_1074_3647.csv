@@ -1,0 +1,154 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['brian in plano, texas.  how are you doing today? /']",brian in plano texas  how are you doing today ,fp,MALE,32
+"['hi,  /']",hi  ,fp,FEMALE,32
+"['fine,  /']",fine  ,fp,FEMALE,32
+"[""i'm nancy.   /""]",im nancy   ,sd,FEMALE,1
+['how are you? /'],how are you ,qw,FEMALE,12
+"['great, nancy. /']",great nancy ,sd,MALE,1
+"[""i'm in plano also <laughter>. /""]",im in plano also laughter ,sd,FEMALE,1
+"[""you're in plano also, {f huh? } /""]",youre in plano also f huh  ,sd,MALE,1
+"['yes,  /']",yes  ,b,FEMALE,2
+"[""we're not too long distance today. /""]",were not too long distance today ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['<laughter>.'],laughter,x,FEMALE,8
+"['{d well, } good to hear.   /']",d well  good to hear   ,b,MALE,2
+['i was just talking to  someone the other day from pennsylvania. /'],i was just talking to  someone the other day from pennsylvania ,sd,MALE,1
+"['{f oh, } that was good.  /']",f oh  that was good  ,ba,FEMALE,6
+"[""utah, i've  had a couple of,  /""]",utah ive  had a couple of  ,sd,FEMALE,1
+['{c but } that was it. /'],c but  that was it ,sd,FEMALE,1
+['really? /'],really ,qy,MALE,7
+['yeah. /'],yeah ,ny,FEMALE,9
+['all right. /'],all right ,bk,MALE,14
+['<laughter>.'],laughter,x,FEMALE,8
+"['{d well, } good to hear,  /']",d well  good to hear  ,b,MALE,2
+['good to hear. /'],good to hear ,b,MALE,2
+['learned about their basketball team <laughter>. /'],learned about their basketball team laughter ,sd,FEMALE,1
+['<laughter> which one? /'],laughter which one ,qw,MALE,12
+"['{f uh, } jazz. /']",f uh  jazz ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+['the utah jazz. /'],the utah jazz ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ they're, + they're ] pretty good.  /""]", theyre  theyre  pretty good  ,sv,MALE,3
+"[""they've got [ some --""]",theyve got  some ,sv,MALE,3
+['-- [ good -- +'],  good  ,+,MALE,0
+"['--  good, ] + some good, ]  {f uh, } good players out there. /']",  good   some good   f uh  good players out there ,+,MALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{d well, } you ready for new year's eve? /""]",d well  you ready for new years eve ,qy,MALE,7
+['i am. /'],i am ,na,FEMALE,21
+['good.  /'],good  ,ba,MALE,6
+"['should we, {f uh, } start this so we can, -/']",should we f uh  start this so we can ,ad,MALE,22
+['okay. /'],okay ,aa,FEMALE,4
+['what was your name again? /'],what was your name again ,qw,MALE,12
+['nancy. /'],nancy ,sd,FEMALE,1
+"[""nancy, that's --""]",nancy thats ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- right,  /']", right  ,+,MALE,0
+"[""{c and } i'm brian. /""]",c and  im brian ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['just a moment <beep>.  /'],just a moment beep  ,ad,MALE,22
+"[""okay nancy, then i guess  [ the, + ] today's subject is benefits --""]",okay nancy then i guess   the   todays subject is benefits ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+['-- in the job other than salary.  /'], in the job other than salary  ,+,MALE,0
+"['[ what, + {f uh } --']", what  f uh  ,qw,MALE,12
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- what ] do you feel are important to  you or other people [ as, + as ] crucial benefits? /']", what  do you feel are important to  you or other people  as  as  crucial benefits ,+,MALE,0
+"[""{d well, } i'm a little different than other  people because i don't have benefits with my job. /""]",d well  im a little different than other  people because i dont have benefits with my job ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i'm a nurse  /""]",im a nurse  ,sd,FEMALE,1
+['{c and } i --'],c and  i ,sd,FEMALE,1
+['oh <laughter>. /'],oh laughter ,b,MALE,2
+"['-- work,  /']", work  ,+,FEMALE,0
+['i float --'],i float ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- so that i have no benefits except higher pay --'], so that i have no benefits except higher pay ,+,FEMALE,0
+['right. /'],right ,b,MALE,2
+['-- for doing that. /'], for doing that ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{c so } i find that it makes up for what i  pay for insurance  /'],c so  i find that it makes up for what i  pay for insurance  ,sd,FEMALE,1
+"['{c and } [ i, + i ] make enough money by the hour to make up for that. /']",c and   i  i  make enough money by the hour to make up for that ,sd,FEMALE,1
+"['[ to, + to ] compensate --']", to  to  compensate ,qy^d,MALE,16
+['right. /'],right ,na,FEMALE,21
+['-- for some of the benefits. /'], for some of the benefits ,+,MALE,0
+['uh-huh. /'],uhhuh ,ny,FEMALE,9
+['oh. /'],oh ,bk,MALE,14
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""it's cheaper for me to buy insurance  by the month than to work staff someplace. /""]",its cheaper for me to buy insurance  by the month than to work staff someplace ,sd,FEMALE,1
+['yes. /'],yes ,b,MALE,2
+['{c and then } i have my freedom.  /'],c and then  i have my freedom  ,sd,FEMALE,1
+['i can work seven  days in a row and take a week  off or whatever i want to do. /'],i can work seven  days in a row and take a week  off or whatever i want to do ,sd,FEMALE,1
+"[""{d well, } [ that, + that's ] an excellent, - /""]",d well   that  thats  an excellent  ,ba,MALE,6
+"['{c so }  {d actually } that is a benefit, {f uh, } /']",c so   d actually  that is a benefit f uh  ,qy^d,MALE,16
+"['{d well, } it is to me.  /']",d well  it is to me  ,na,FEMALE,21
+"['most people prefer the  security of nine to five,']",most people prefer the  security of nine to five,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+['and weekends off and --'],and weekends off and ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['-- knowing that their insurance is  paid and their retirement,  /']", knowing that their insurance is  paid and their retirement  ,+,FEMALE,0
+"[""{c and } i'm just really not interested <laughter> in --""]",c and  im just really not interested laughter in ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['-- all that. /'], all that ,+,FEMALE,0
+"['right,  /']",right  ,b,MALE,2
+"[""{d well } i guess that's a good point, {f uh, } /""]",d well  i guess thats a good point f uh  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['i do belong to [ a, + a ] large  corporation  /']",i do belong to  a  a  large  corporation  ,sd,MALE,1
+"[""{c or } [ my, + that where i'm ] currently employed  /""]",c or   my  that where im  currently employed  ,sd,MALE,1
+"[""{c and } [ there's, + {f uh, } there's ]  some different things, {f uh, } one that you've already mentioned [ is, + is ] health insurance.  /""]",c and   theres  f uh  theres   some different things f uh  one that youve already mentioned  is  is  health insurance  ,sd,MALE,1
+"['i think through our health insurance that i can get better rates [ as a, + through a ]  group plan --']",i think through our health insurance that i can get better rates  as a  through a   group plan ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""-- as opposed to going out and getting health insurance  on an individual basis because i had to do that at one time when i wasn't  employed with a large corporation  /""]", as opposed to going out and getting health insurance  on an individual basis because i had to do that at one time when i wasnt  employed with a large corporation  ,+,MALE,0
+"['{c and } that got to be somewhat expensive,  /']",c and  that got to be somewhat expensive  ,sd,MALE,1
+['{c so } [ i + --'],c so   i  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- i ] think one of the benefits [ i, + i ]  see [ is the, + {f uh, } is the ] [ group, + {f uh, } group ] discount. /']", i  think one of the benefits  i  i   see  is the  f uh  is the   group  f uh  group  discount ,+,MALE,0
+"['right,  /']",right  ,b,FEMALE,2
+['{c and } especially if you have a family. /'],c and  especially if you have a family ,sv,FEMALE,3
+['yes. /'],yes ,b,MALE,2
+['then i think it makes a big difference. /'],then i think it makes a big difference ,sv,FEMALE,3
+"['<laughter> yes,  /']",laughter yes  ,b,MALE,2
+"[""{c and } [ that's, + that's ]  one thing i do have. /""]",c and   thats  thats   one thing i do have ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""if i didn't have a family, i don't think i  would have, [ as, + as ] a male or [ as a, + as an ] individual [ of, + in ] this stage of my  life,  /""]",if i didnt have a family i dont think i  would have  as  as  a male or  as a  as an  individual  of  in  this stage of my  life  ,sd,MALE,1
+"[""i don't think i would have insurance, {f uh, }  [ other, + ] /""]",i dont think i would have insurance f uh    other   ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"[""i don't think i would go through that expense.  /""]",i dont think i would go through that expense  ,sd,MALE,1
+['one other benefit that you mentioned is the flexible work hours  /'],one other benefit that you mentioned is the flexible work hours  ,sd,MALE,1
+"['{c and } in my previous  job, i really enjoyed because they had what was called flex schedule  where i could go and i could work, {f uh, } nine hour days and have {d like } friday only  work four hours -- /']",c and  in my previous  job i really enjoyed because they had what was called flex schedule  where i could go and i could work f uh  nine hour days and have d like  friday only  work four hours  ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['-- {c or } i could  do, {f uh, } work four days a week at  ten hours a day and have a, {d you know, } three [ w-, + ] day weekend.']", c or  i could  do f uh  work four days a week at  ten hours a day and have a d you know  three  w   day weekend,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['and [ make, + {f uh, } make ] my job flexible in that case. /']",and  make  f uh  make  my job flexible in that case ,+,MALE,0
+['could you change that as you felt like it  /'],could you change that as you felt like it  ,qy,FEMALE,7
+['{c or } did you  have to do it the same every week? /'],c or  did you  have to do it the same every week ,qrr,FEMALE,33
+"['{d well, } {d basically, } yeah  /']",d well  d basically  yeah  ,sd,MALE,1
+"['i had to  do, that, {f uh, } the same, {f uh, } for about every quarter of the year.  /']",i had to  do that f uh  the same f uh  for about every quarter of the year  ,sd,MALE,1
+['{e i mean -- }'],e i mean  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } {c because } i was [ in a, + in a ]  position of management i had responsibilities over people that, {f uh, }  i needed to make my schedule, {f uh, } so  that if i was not there i would have coverage by some other management personnel,  /']", f uh  c because  i was  in a  in a   position of management i had responsibilities over people that f uh   i needed to make my schedule f uh  so  that if i was not there i would have coverage by some other management personnel  ,+,MALE,0
+"['[ {c so, } + {c so } ] [ i, + i ]  think that, {f uh, } [ that was a, + that was an ] excellent benefit --']", c so   c so    i  i   think that f uh   that was a  that was an  excellent benefit ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- that i really enjoyed  /'], that i really enjoyed  ,+,MALE,0
+"[""{c and } i don't [ c-, + ]  have that in my current operation,  /""]",c and  i dont  c    have that in my current operation  ,sd,MALE,1
+"['{c but, } {f uh, } you mentioned, {f uh, } flexible work  schedule  /']",c but  f uh  you mentioned f uh  flexible work  schedule  ,sd,MALE,1
+"[""{c and } [ that's, + that's ] good. /""]",c and   thats  thats  good ,sv,MALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and, } {f uh, } what other benefits do you  think are important? /']",c and  f uh  what other benefits do you  think are important ,qw,MALE,12
+"['{f oh, } {d well, } i guess,']",f oh  d well  i guess,sv,FEMALE,3
+['<laughter>.'],laughter,x,MALE,8
+"[""retirement, that kind of thing which i  don't worry much about [ so + ] <laughter>, /""]",retirement that kind of thing which i  dont worry much about  so   laughter ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""that's true. /""]",thats true ,ba,MALE,6
+"['i just prefer to worry about today,  /']",i just prefer to worry about today  ,sd,FEMALE,1
+['probably not a practical attitude  /'],probably not a practical attitude  ,sd,FEMALE,1
+"[""{c but } that's who i am  /""]",c but  thats who i am  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"[""{d well, } {c and } that's an individual thing. /""]",d well  c and  thats an individual thing ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,MALE,2
+"['[ with, + {f uh, } with ]  our current, {f uh, } organization, we do have a nice retirement package  /']", with  f uh  with   our current f uh  organization we do have a nice retirement package  ,sd,MALE,1
+"[""{c and } also [ a, + a ] nice thing  [ that, + that ] we have in our corporation [ is a, + {f uh, } is a ] profit sharing plan  where we can, {f uh, } participate in [ the, + the ] profits of the company.  [ if we're, + {d you know, } if we've ] been there a while and we're vested, {f uh, } which means  that, {d you know, } we have [ a, + an ] interest, {f uh, } in the company --""]",c and  also  a  a  nice thing   that  that  we have in our corporation  is a  f uh  is a  profit sharing plan  where we can f uh  participate in  the  the  profits of the company   if were  d you know  if weve  been there a while and were vested f uh  which means  that d you know  we have  a  an  interest f uh  in the company ,sd,MALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- that we can, {f uh, } get some of the benefits  of [ the, + ] either the profit high times [ or, + or ] in a sense, suffer  during the low times  /']", that we can f uh  get some of the benefits  of  the   either the profit high times  or  or  in a sense suffer  during the low times  ,+,MALE,0
+"[""{c and, } {f uh, } also, {f uh, } in one of my wife's, {f uh, } companies where she worked,  they'd had a real nice profit sharing plan [ that, +  that, ] -/""]",c and  f uh  also f uh  in one of my wifes f uh  companies where she worked  theyd had a real nice profit sharing plan  that   that  ,sd,MALE,1

@@ -1,0 +1,177 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['you interested in woodworking? /'],you interested in woodworking ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,MALE,9
+"['{d actually, } [ i, + {f uh, } i ] guess i am <laughter>.  /']",d actually   i  f uh  i  guess i am laughter  ,sd,MALE,1
+"['{f um, } it just seems kind of funny that this is a topic of discussion.   /']",f um  it just seems kind of funny that this is a topic of discussion   ,sv,MALE,3
+"['{f uh, } i do, {f uh, } some, {f uh, } woodworking myself <noise>.   /']",f uh  i do f uh  some f uh  woodworking myself noise   ,sd,MALE,1
+"[""{f uh, } in fact, i'm in the middle of a project right now making a bed for my son. /""]",f uh  in fact im in the middle of a project right now making a bed for my son ,sd,MALE,1
+['{f um. }  #what kind of# -- -/'],f um   what kind of  ,qw,FEMALE,12
+"[""[[ #it's, + {f uh, } #""]", its  f uh  ,sd,MALE,1
+['-- pine? /'], pine ,qy,FEMALE,7
+"[""it's, ] + {f uh, } it's, ] {f uh, } plywood, {f uh, } face, i guess.   /""]",its   f uh  its  f uh  plywood f uh  face i guess   ,+,MALE,0
+['{c but } i cut it out in the shape of a crayon box  /'],c but  i cut it out in the shape of a crayon box  ,sd,MALE,1
+"['{c and then } i painted, {f uh, } about eight different, {f uh, } colors, {f uh, } {d you know, }   /']",c and then  i painted f uh  about eight different f uh  colors f uh  d you know    ,sd,MALE,1
+"['the crayons that are sticking up, it will be the headboard -- /']",the crayons that are sticking up it will be the headboard  ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"[""#i guess he's young.#  /""]",i guess hes young  ,qy^d,FEMALE,16
+"['-- #{c and then, }# - /']", c and then   ,%,MALE,5
+['yes <laughter>. /'],yes laughter ,ny,MALE,9
+['<laughter>.'],laughter,x,FEMALE,8
+"[""he's about five and a half years old. /""]",hes about five and a half years old ,sd,MALE,1
+"[""{f oh, } he'll be delighted. /""]",f oh  hell be delighted ,sv,FEMALE,3
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,MALE,4
+['uh-huh.  /'],uhhuh  ,aa,MALE,4
+['now i just have to finish it though.  /'],now i just have to finish it though  ,sd,MALE,1
+"['[ i got, + {f uh, } it got ] delayed for a little bit [ and, + {f uh, } ] because of work  /']", i got  f uh  it got  delayed for a little bit  and  f uh   because of work  ,sd,MALE,1
+"[""{c and } now, {f uh, } i've got to jump back in and finish the, - /""]",c and  now f uh  ive got to jump back in and finish the  ,sd,MALE,1
+"[""{c because } i've got it all cut out,  /""]",c because  ive got it all cut out  ,sd,MALE,1
+"[""it's all, {f uh, } - /""]",its all f uh   ,%,MALE,5
+"[""i've done most of the coloring  /""]",ive done most of the coloring  ,sd,MALE,1
+"[""{c but } i've got to go a second layer with the yellow. /""]",c but  ive got to go a second layer with the yellow ,sd,MALE,1
+['did you do it with a jigsaw  /'],did you do it with a jigsaw  ,qy,FEMALE,7
+"['{c or } do you have powered, #{d you know, } [ a, + ] # -/']",c or  do you have powered d you know   a    ,qy,FEMALE,7
+"['#{f uh, } yeah.#  /']",f uh  yeah  ,ny,MALE,9
+"['{f uh, } i did, {f uh, } jigsaw, {f uh, } and the, {f uh, } regular straight saw for some of it. /']",f uh  i did f uh  jigsaw f uh  and the f uh  regular straight saw for some of it ,sd,MALE,1
+['{f um. } /'],f um  ,b,FEMALE,2
+['{d so } yeah.   /'],d so  yeah   ,b,MALE,2
+"['(( )) to do [[ the, + {f uh, } th-, ] + the ] turn cut.   /']",  to do  the  f uh  th   the  turn cut   ,sd,MALE,1
+"['{f uh, } how about yourself? /']",f uh  how about yourself ,qo,MALE,25
+"[""{d well } [ i'm, + i am ] interested in woodworking.  /""]",d well   im  i am  interested in woodworking  ,sd,FEMALE,1
+"[""i don't have lots of tools.   /""]",i dont have lots of tools   ,sd,FEMALE,1
+['our local schools have adult education in the evening -- /'],our local schools have adult education in the evening  ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+"['-- {f uh, } {c and } i use their tools [[[ m-, + a-, ] + an-, ] + and, ] some of their guidance.   /']", f uh  c and  i use their tools  m  a   an   and  some of their guidance   ,sd,FEMALE,1
+"[""i'm an artist. /""]",im an artist ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,b,MALE,2
+"[""{c and } i'm very handy  /""]",c and  im very handy  ,sd,FEMALE,1
+"['{c and, } {d you know, } if i touch it, it turns into something #<laughter> [ us-,# + --']",c and  d you know  if i touch it it turns into something laughter  us  ,sd,FEMALE,1
+"[""#that's great.# /""]",thats great ,ba,MALE,6
+['-- usually. ]  /'], usually   ,+,FEMALE,0
+"['[ #what,# + what ] type of art do you focus on?   /']", what  what  type of art do you focus on   ,qw,MALE,12
+"[""i have a master's degree  /""]",i have a masters degree  ,sd,FEMALE,1
+"['[ {c and, } + {c and } ] my projects had to do with acrylic painting,  /']", c and   c and   my projects had to do with acrylic painting  ,sd,FEMALE,1
+"[""{c but } i'm really interested in the crafts. /""]",c but  im really interested in the crafts ,sd,FEMALE,1
+['#{f huh. }# /'],f huh  ,b,MALE,2
+['#i# make stain glass.   /'],i make stain glass   ,sd,FEMALE,1
+"[""i've done some silver jewelry making  /""]",ive done some silver jewelry making  ,sd,FEMALE,1
+"['{c and } i kind of, - /']",c and  i kind of  ,sd,FEMALE,1
+"['once i get [ so-, + ] {d you know, } really pretty good at something, i want to try something else <laughter>. /']",once i get  so   d you know  really pretty good at something i want to try something else laughter ,sd,FEMALE,1
+['yeah.   /'],yeah   ,b,MALE,2
+"['kind of jack of all trades, master of none. /']",kind of jack of all trades master of none ,bf,MALE,20
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{d well } no,  /']",d well  no  ,ar,FEMALE,28
+"['{d actually, } i get good enough to sell it or have people say {f oh } wow,   /']",d actually  i get good enough to sell it or have people say f oh  wow   ,sd,FEMALE,1
+"[""you didn't buy it,  /""]",you didnt buy it  ,sd,FEMALE,1
+['you made it. /'],you made it ,sd,FEMALE,1
+"[""that's great! /""]",thats great ,ba,MALE,6
+"[""{c and then } [ i, + it's ] like {d well } the thrill is gone <laughter>   /""]",c and then   i  its  like d well  the thrill is gone laughter   ,%,FEMALE,5
+"[""{c so } let's do something else. /""]",c so  lets do something else ,sd,FEMALE,1
+['right.  /'],right  ,aa,MALE,4
+"['you want <<mispronounced>> to, {f uh, } [ e-, + explore ] a new field   /']",you want mispronounced to f uh   e  explore  a new field   ,bf,MALE,20
+"['[ #{c or, } + {c or, }# ] -/']", c or   c or   ,%,MALE,5
+"['#{d well, } # yeah,  /']",d well   yeah  ,aa,FEMALE,4
+"[""[ i, + i'm ] signed up for a class in pottery making <laughter> because i've never tried that yet -- /""]", i  im  signed up for a class in pottery making laughter because ive never tried that yet  ,sd,FEMALE,1
+['{f huh. } #{d so } you# --'],f huh  d so  you ,qw,MALE,12
+"['-- #{c but, }# -/']", c but  ,%,FEMALE,5
+"['-- have a m f a [ in, + in ] what #division of art?# /']", have a m f a  in  in  what division of art ,+,MALE,0
+"['#{d well, } [ i, + i# ] actually have a masters of art  /']",d well   i  i  actually have a masters of art  ,sd,FEMALE,1
+"[""{c and } it's in art education. /""]",c and  its in art education ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"[""{c so, } i'm a licensed teacher  /""]",c so  im a licensed teacher  ,sd,FEMALE,1
+"['{c but } jobs being what they are, i substitute teach -- /']",c but  jobs being what they are i substitute teach  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- {c and } that way i have time for my kids too.   /'], c and  that way i have time for my kids too   ,sd,FEMALE,1
+"[""{c and } i've been fortunate that i can afford to work part-time.   /""]",c and  ive been fortunate that i can afford to work parttime   ,sv,FEMALE,3
+"[""i don't know how long that's going to last <laughter>. /""]",i dont know how long thats going to last laughter ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"[""{c and, } {f uh, } they're cutting back,   /""]",c and  f uh  theyre cutting back   ,sd,FEMALE,1
+"[""{c so } i don't go in all that often   /""]",c so  i dont go in all that often   ,sd,FEMALE,1
+['{c but } --'],c but  ,sd,FEMALE,1
+"[""-- i've been real interested in some of those cute [ country, + country ] kind of things. /""]", ive been real interested in some of those cute  country  country  kind of things ,+,FEMALE,0
+"['{f uh, } i see stuff in craft galleries for five hundred dollars  /']",f uh  i see stuff in craft galleries for five hundred dollars  ,sd,FEMALE,1
+"['{c and } i say, {f oh } no   /']",c and  i say f oh  no   ,sd,FEMALE,1
+"['[ {c and }, + {c and } ] i go   /']", c and   c and   i go   ,sd,FEMALE,1
+['{c and } i make it. /'],c and  i make it ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""that's how i started jewelry making.   /""]",thats how i started jewelry making   ,sd,FEMALE,1
+"['[ i, + i ] love to cook. /']", i  i  love to cook ,sd,FEMALE,1
+"[""{f oh, } that's great. /""]",f oh  thats great ,ba,MALE,6
+"['{c and } i saw a silver necklace that had these little teeny weeny silver spatulas [[ and, + and, ] + and ] knife [ and, + and ] a fork and all kinds of #stuff# -- /']",c and  i saw a silver necklace that had these little teeny weeny silver spatulas  and  and   and  knife  and  and  a fork and all kinds of stuff  ,sd,FEMALE,1
+['-- {c and } i went  /'], c and  i went  ,sd,FEMALE,1
+"['{c and } i signed up for class because then again, you [ get, + {d you know, } get ] someone to guide you  /']",c and  i signed up for class because then again you  get  d you know  get  someone to guide you  ,sd,FEMALE,1
+"[""{c and } you get the tools #you don't# --""]",c and  you get the tools you dont ,sd,FEMALE,1
+['-- feel like buying. /'], feel like buying ,+,FEMALE,0
+['exactly. /'],exactly ,aa,MALE,4
+['{c and } i made a necklace that i saw in a gallery for three hundred twenty dollars <noise> <swallowing>.   /'],c and  i made a necklace that i saw in a gallery for three hundred twenty dollars noise swallowing   ,sd,FEMALE,1
+['it took me a lot of time  /'],it took me a lot of time  ,sd,FEMALE,1
+['#{c but }# --'],c but  ,sd,FEMALE,1
+"['#{f oh, }# yeah.  /']",f oh  yeah  ,b,MALE,2
+"[""-- it didn't, - /""]", it didnt  ,+,FEMALE,0
+"['{c but } if it cost me twenty dollars, {d you know, } - /']",c but  if it cost me twenty dollars d you know   ,sd,FEMALE,1
+"['#{c and then } i,# -/']",c and then  i ,%,FEMALE,5
+"['#and your# time,  /']",and your time  ,^2,MALE,23
+"[""then you're that much farther ahead <noise>.  /""]",then youre that much farther ahead noise  ,sv,MALE,3
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['then i saw [ a, + one ] of these country looking wood watermelons.  /']",then i saw  a  one  of these country looking wood watermelons  ,sd,FEMALE,1
+['it was a solid watermelon with a wedge cut out of it. /'],it was a solid watermelon with a wedge cut out of it ,sd,FEMALE,1
+['right.  /'],right  ,b,MALE,2
+"[""i've seen them  /""]",ive seen them  ,sd,MALE,1
+"['{c and then } the watermelon, the red [ with the, + with the ] #seeds painted in  /']",c and then  the watermelon the red  with the  with the  seeds painted in  ,sd,MALE,1
+"['{c and, }# -/']",c and  ,sd,MALE,1
+"['#{f oh, } yeah.#  /']",f oh  yeah  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""that's neat. /""]",thats neat ,sv,MALE,3
+"['i went there,  /']",i went there  ,sd,FEMALE,1
+['we have home depot out here.   /'],we have home depot out here   ,sd,FEMALE,1
+"[""i don't know #if you've heard of it.  /""]",i dont know if youve heard of it  ,qy^d,FEMALE,16
+['i went  /'],i went  ,sd,FEMALE,1
+['{c and } i got# --'],c and  i got ,sd,FEMALE,1
+['#yes.   /'],yes   ,ny,MALE,9
+['we have one.# /'],we have one ,sd,MALE,1
+['-- two six foot inch thick boards turned into a watermelon.   /'], two six foot inch thick boards turned into a watermelon   ,+,FEMALE,0
+['i had to cut into slabs and build up this big square and turn it on the lath  /'],i had to cut into slabs and build up this big square and turn it on the lath  ,sd,FEMALE,1
+['{c and } --'],c and  ,sd,FEMALE,1
+['#{f huh. }# /'],f huh  ,b,MALE,2
+['-- #cutting# that wedge out was no joke <laughter>. /'], cutting that wedge out was no joke laughter ,+,FEMALE,0
+"[""{f oh, } [ i'm, + i'm ] sure. /""]",f oh   im  im  sure ,ba,MALE,6
+"['<laughter> [[ we did it on a, + i had a, ] + {f uh, } #i did it# ] --']",laughter  we did it on a  i had a   f uh  i did it  ,sd,FEMALE,1
+['#a band saw?# /'],a band saw ,qy^d,MALE,16
+['-- through adult ed again. /'], through adult ed again ,+,FEMALE,0
+['what? /'],what ,br,MALE,30
+['i did it through adult ed again. /'],i did it through adult ed again ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{c and } the teacher was one of these negative people,  /']",c and  the teacher was one of these negative people  ,sd,FEMALE,1
+"[""{f oh } that's dangerous,  /""]",f oh  thats dangerous  ,^q,FEMALE,19
+"[""we can't do that,  /""]",we cant do that  ,^q,FEMALE,19
+"[""we just can't do that.  /""]",we just cant do that  ,^q,FEMALE,19
+"[""{c and } i'm going {d well } how about this way?   /""]",c and  im going d well  how about this way   ,sd,FEMALE,1
+"['[ i, + i ] want to do that,  /']", i  i  want to do that  ,^q,FEMALE,19
+['that was the plan here <laughter>. /'],that was the plan here laughter ,^q,FEMALE,19
+['right. /'],right ,b,MALE,2
+['{d so } we did get the wedge cut out by building some kind of --'],d so  we did get the wedge cut out by building some kind of ,sd,FEMALE,1
+['a cradle for it. /'],a cradle for it ,^2,MALE,23
+['-- a cradle #for it.# /'], a cradle for it ,+,FEMALE,0
+"['#yeah,#  /']",yeah  ,b,MALE,2
+['so you can steady it  /'],so you can steady it  ,bf,MALE,20
+"['{c and then, } you used a handsaw or a #backsaw?# /']",c and then  you used a handsaw or a backsaw ,qy,MALE,7
+"['#{d well, } [ it,# + the instructions in the book i had ] said use a coping saw  /']",d well   it  the instructions in the book i had  said use a coping saw  ,sd,FEMALE,1
+"[""{c but } there's no coping saw big enough [ to, + for ] a fourteen inch wide watermelon #<laughter> that# -- -/""]",c but  theres no coping saw big enough  to  for  a fourteen inch wide watermelon laughter that  ,sd,FEMALE,1
+"['#right,  /']",right  ,b,MALE,2
+['right.# /'],right ,b,MALE,2
+['-- {c and } he wanted me to do it by hand with a regular saw.   /'], c and  he wanted me to do it by hand with a regular saw   ,sd,FEMALE,1
+"[""i said i'm not that steady,  /""]",i said im not that steady  ,sd,FEMALE,1
+"[""it's not going <<mispronounced>> to happen. /""]",its not going mispronounced to happen ,^q,FEMALE,19
+['yeah. /'],yeah ,b,MALE,2
+['{d so } we built a cradle for it  /'],d so  we built a cradle for it  ,sd,FEMALE,1
+"['{c and } [ we got th-, + {a once it was turned, } we got ] [ one s-, + one ] cut out [ on the table saw, + on the radial saw, ] /']",c and   we got th  a once it was turned  we got   one s  one  cut out  on the table saw  on the radial saw  ,sd,FEMALE,1
+['<inhaling>.'],inhaling,x,MALE,8
+['{c by }  getting the other one out without the slice now flying in your face was something you had to think about <laughter>. /'],c by   getting the other one out without the slice now flying in your face was something you had to think about laughter ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['#{d so, }# -/']",d so  ,%,FEMALE,5
+['#{d now }# did you cut a quarter wedge in this? /'],d now  did you cut a quarter wedge in this ,qy,MALE,7
+"[""{f uh, } i'd say it's about an eighth.   /""]",f uh  id say its about an eighth   ,ng,FEMALE,29
+"['#{d you know } # jus-, -/']",d you know   jus ,%,FEMALE,5
+"[""#{d well, } [ i,# + i'm ] envisioning, {f uh, } {f uh, } [ a water-, + a watermelon ] like a log  /""]",d well   i  im  envisioning f uh  f uh   a water  a watermelon  like a log  ,sd,MALE,1
+"[""{c and then, } {f uh, } what i've seen of this kind before is you have [[ the, + {f uh, } ] + the, ] {f uh, } - /""]",c and then  f uh  what ive seen of this kind before is you have  the  f uh    the  f uh   ,%,MALE,5
+"[""it's, {f uh, } - /""]",its f uh   ,sd,MALE,1
+"[""if you're looking at adding on you have, -/""]",if youre looking at adding on you have ,sd,MALE,1

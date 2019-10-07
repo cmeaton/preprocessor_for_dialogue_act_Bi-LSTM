@@ -1,0 +1,164 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay. <<very faintly>> {f um, } /']",okay very faintly f um  ,"fo_o_fw_""_by_bc",FEMALE,0
+['where do you live? /'],where do you live ,qw,FEMALE,12
+['in plano. /'],in plano ,sd,FEMALE,1
+['in plano? /'],in plano ,qy^d,FEMALE,16
+['yes.  /'],yes  ,ny,FEMALE,9
+['where do you live? /'],where do you live ,qw,FEMALE,12
+['in dallas. /'],in dallas ,sd,FEMALE,1
+"['{f oh, } okay <breathing>. /']",f oh  okay breathing ,bk,FEMALE,14
+"[""{f uh, } the air pollution isn't too bad in our area.  /""]",f uh  the air pollution isnt too bad in our area  ,sd,FEMALE,1
+"[""{c so, }  we're very fortunate --""]",c so   were very fortunate ,sd,FEMALE,1
+['huh <<very faintly>>. /'],huh very faintly ,b,FEMALE,2
+"[""-- {c but } <noise> i know in some areas, [ [ [ it's really, + it, ] + it really is ] bad. /""]", c but  noise i know in some areas    its really  it   it really is  bad ,+,FEMALE,0
+"['<lipsmack> {f um, } i was trying to think, {f uh, } - /']",lipsmack f um  i was trying to think f uh   ,sd,FEMALE,1
+['something we were watching the other day - /'],something we were watching the other day  ,sd,FEMALE,1
+"['{c and } they were doing an overview of los angeles, {f uh, } from an area that was up higher  /']",c and  they were doing an overview of los angeles f uh  from an area that was up higher  ,sd,FEMALE,1
+['{c and } you literally could see the band of smog.  /'],c and  you literally could see the band of smog  ,sd,FEMALE,1
+"['that, {f uh, } - /']",that f uh   ,%,FEMALE,5
+"[""i've never been out there,  /""]",ive never been out there  ,sd,FEMALE,1
+"['{c but, }']",c but ,sd,FEMALE,1
+"[""i haven't either. /""]",i havent either ,sd,FEMALE,1
+"['<swallowing> [ it was, + it was ] quite evident <laughter> that,']",swallowing  it was  it was  quite evident laughter that,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['it was a real brown area  /'],it was a real brown area  ,+,FEMALE,0
+"['{c and, } -/']",c and  ,%,FEMALE,5
+"['{d well, } i think it would be terrible to live in an area like that  /']",d well  i think it would be terrible to live in an area like that  ,sv,FEMALE,3
+"['{c and, } unfortunately, i think there are a lot of areas that are, [ that, + that ] bad. /']",c and  unfortunately i think there are a lot of areas that are  that  that  bad ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+"['particularly in the areas where there are industries, {f uh, } where they are burning a lot of coal,']",particularly in the areas where there are industries f uh  where they are burning a lot of coal,sv,FEMALE,3
+['# yes. # /'], yes  ,b,FEMALE,2
+['# and oil # --'], and oil  ,+,FEMALE,0
+['yeah <<very faint>>. /'],yeah very faint ,b,FEMALE,2
+"['-- [ up, + more up ] north, i guess, {f uh, }  /']",  up  more up  north i guess f uh   ,+,FEMALE,0
+"[""i think it's a bigger problem.  with the car pollution, anti-pollution devices,  /""]",i think its a bigger problem  with the car pollution antipollution devices  ,sv,FEMALE,3
+"[""i think, {f uh, } air isn't as bad it once was, from the cars, because we certainly have plenty of cars in our area. /""]",i think f uh  air isnt as bad it once was from the cars because we certainly have plenty of cars in our area ,sv,FEMALE,3
+['yes.  /'],yes  ,b,FEMALE,2
+"[""{d well, } i know, {f uh, } that's been the concern in europe.  /""]",d well  i know f uh  thats been the concern in europe  ,sd,FEMALE,1
+"[""they hadn't, - /""]",they hadnt  ,%,FEMALE,5
+"['{f uh, } we have friends in germany and, {f uh, } <swallowing> have family that live near the black forest area  /']",f uh  we have friends in germany and f uh  swallowing have family that live near the black forest area  ,sd,FEMALE,1
+"['{c and } <sigh> large areas of the forest are being hurt from the cars because when we, [ s-, + {f uh, } switched ] to the unleaded gas [ and, + and ] had the emission control [ advice, + {f uh, } <laughter>, devices ] required on the cars, {f uh, }  /']",c and  sigh large areas of the forest are being hurt from the cars because when we  s  f uh  switched  to the unleaded gas  and  and  had the emission control  advice  f uh  laughter devices  required on the cars f uh   ,sd,FEMALE,1
+"[""that's something that europe didn't do right away  /""]",thats something that europe didnt do right away  ,sd,FEMALE,1
+"[""{c and } now they're doing that  /""]",c and  now theyre doing that  ,sd,FEMALE,1
+"[""{c and } i guess it started in the last few years because they have found that in that particular part of the country, that's the only pollution that's been there.  /""]",c and  i guess it started in the last few years because they have found that in that particular part of the country thats the only pollution thats been there  ,sd,FEMALE,1
+"[""it's not an area that is industry  /""]",its not an area that is industry  ,sd,FEMALE,1
+"['{c but } they were losing a lot of, {f uh, } trees # and a lot of, # -/']",c but  they were losing a lot of f uh  trees  and a lot of  ,sd,FEMALE,1
+['# from # acid rain? /'], from  acid rain ,qy^d,FEMALE,16
+"['{f um, } i guess.  [ from, + from ] something that the car [ was, + {f uh, } # was ] giving, # /']",f um  i guess   from  from  something that the car  was  f uh   was  giving  ,na,FEMALE,21
+"['# i think # [ it gives off, + {f uh, } in the emissions, it gives off ] gases which combine up in the atmosphere, {f uh, } and form [ a, + a ] weak acid. /']", i think   it gives off  f uh  in the emissions it gives off  gases which combine up in the atmosphere f uh  and form  a  a  weak acid ,sd,FEMALE,1
+"['# yes,  /']", yes  ,b,FEMALE,2
+"['{c and, }  # -/']",c and    ,%,FEMALE,5
+['# it # just makes the rain fall on the acid side  /'], it  just makes the rain fall on the acid side  ,sd,FEMALE,1
+"['{c and } after a period of time, i think that accumulates in, {f uh, } trees because they take it up through their roots, as well as it landing on the leaves, on surfaces,  /']",c and  after a period of time i think that accumulates in f uh  trees because they take it up through their roots as well as it landing on the leaves on surfaces  ,sd,FEMALE,1
+"[""{d like } you've seen what it's done to buildings even --""]",d like  youve seen what its done to buildings even ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"[""-- where it's really bad. /""]", where its really bad ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"[""<swallowing> what's interesting, several years ago, i took a course, {f uh, } on, {f uh, } <lipsmack> {d well, } - /""]",swallowing whats interesting several years ago i took a course f uh  on f uh  lipsmack d well   ,sd,FEMALE,1
+"['[ it was actually, + it was  ] put on by the power companies [ and, + ] about the various sources of energy and how much pollution there was,  /']", it was actually  it was   put on by the power companies  and   about the various sources of energy and how much pollution there was  ,sd,FEMALE,1
+"[""{c and }  there wasn't from various kinds [ of, + of ] energy. - /""]",c and   there wasnt from various kinds  of  of  energy  ,sd,FEMALE,1
+"['{c and, }  {f uh, } at that point in time, one person that was a speaker brought up the topic of acid rain  /']",c and   f uh  at that point in time one person that was a speaker brought up the topic of acid rain  ,sd,FEMALE,1
+"['{c and } it was kind of pooh-poohed, {d you know. }  /']",c and  it was kind of poohpoohed d you know   ,sd,FEMALE,1
+"[""{f oh, } you're making a mountain out of a molehill, kind of thing.  /""]",f oh  youre making a mountain out of a molehill kind of thing  ,sd,FEMALE,1
+"[""{c and } it's turned out that, that's been very true, what he was forecasting about the accumulation [ of, + of ] the pollutants in the air and the acid rain and what it would do to foliage.  /""]",c and  its turned out that thats been very true what he was forecasting about the accumulation  of  of  the pollutants in the air and the acid rain and what it would do to foliage  ,sd,FEMALE,1
+"[""{c so, }  it's kind of interesting the change in perspective from when i took that course.  /""]",c so   its kind of interesting the change in perspective from when i took that course  ,sd,FEMALE,1
+"['now, a lot of people are really afraid of nuclear.  /']",now a lot of people are really afraid of nuclear  ,sd,FEMALE,1
+"[""{f uh, } i'm not afraid of nuclear, having had that course because of how the nuclear that, {f uh, } they use is not bomb quality,  /""]",f uh  im not afraid of nuclear having had that course because of how the nuclear that f uh  they use is not bomb quality  ,sd,FEMALE,1
+"[""{c and, }  we're so strict with all our controls in the united states. the chances [ of, + of ] an accident are slight,  /""]",c and   were so strict with all our controls in the united states the chances  of  of  an accident are slight  ,sd,FEMALE,1
+"[""{c and, }  it doesn't pollute the air at all.  <laughter>  /""]",c and   it doesnt pollute the air at all  laughter  ,sd,FEMALE,1
+"[""it's safer to be around a nuclear plant then it is to be around a coal plant.  /""]",its safer to be around a nuclear plant then it is to be around a coal plant  ,sd,FEMALE,1
+['many more deaths have occurred in and dealing with coal plants then ever around nuclear plants.  /'],many more deaths have occurred in and dealing with coal plants then ever around nuclear plants  ,sd,FEMALE,1
+"[""it's kind of funny because people are just petrified, at least some are, at the thought of nuclear. /""]",its kind of funny because people are just petrified at least some are at the thought of nuclear ,sd,FEMALE,1
+['yes. /'],yes ,b,FEMALE,2
+"[""{c so, }  i don't know.  /""]",c so   i dont know  ,h,FEMALE,15
+"[""in europe there's a lot of dependency on nuclear power  /""]",in europe theres a lot of dependency on nuclear power  ,sd,FEMALE,1
+['{c and } they recycle the fuel  /'],c and  they recycle the fuel  ,sd,FEMALE,1
+"['{c and then } instead [ of, + of, ] - /']",c and then  instead  of  of   ,%,FEMALE,5
+"[""some people are really afraid to recycle the fuel because they're afraid it could become, {f uh, } bomb quality.  <sigh>  /""]",some people are really afraid to recycle the fuel because theyre afraid it could become f uh  bomb quality  sigh  ,sd,FEMALE,1
+"[""{c but, }  that's the only sensible thing to do, is recycle and  reuse the fuel and not store it down in the ground.  as far as i'm concerned, where it could eventually, perhaps, there's some problem, {f uh, } pollute the groundwater.  /""]",c but   thats the only sensible thing to do is recycle and  reuse the fuel and not store it down in the ground  as far as im concerned where it could eventually perhaps theres some problem f uh  pollute the groundwater  ,sv,FEMALE,3
+"[""{c so, }  i don't know what the answer is.  /""]",c so   i dont know what the answer is  ,h,FEMALE,15
+"['the best answer, of course, would be solar or, {f uh, } <static> fusion, or something clean <laughter>. /']",the best answer of course would be solar or f uh  static fusion or something clean laughter ,sv,FEMALE,3
+['yes. /'],yes ,b,FEMALE,2
+"[""{d well, } we've got a problem on the line, </static> don't we. /""]",d well  weve got a problem on the line static dont we ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,FEMALE,9
+"['[  i, + i ] get that sometimes, {f um, }  /']",  i  i  get that sometimes f um   ,sd,FEMALE,1
+['my line gets some static.  /'],my line gets some static  ,sd,FEMALE,1
+"[""i don't # know why. # /""]",i dont  know why  ,sd,FEMALE,1
+['# uh-huh. #  /'], uhhuh   ,b,FEMALE,2
+"['{c but, }  {f uh, } solar, of course, would be [ the clean, + the cleanest. ] /']",c but   f uh  solar of course would be  the clean  the cleanest  ,sv,FEMALE,3
+"[""{d well, } i know it's  ((   )) , {f um, } -/""]",d well  i know its       f um  ,%,FEMALE,5
+['<static>.'],static,x,FEMALE,8
+['we did have a solar water heater when we lived in houston  /'],we did have a solar water heater when we lived in houston  ,sd,FEMALE,1
+"['{c and, }  {f uh, } oddly enough i thought our part of the country was ideal. /']",c and   f uh  oddly enough i thought our part of the country was ideal ,sv,FEMALE,3
+"[""i can't hear you at all for all # this static. # /""]",i cant hear you at all for all  this static  ,sd,FEMALE,1
+"[""# {f oh. } <throat_clearing> # <noise> i don't know what to, <laughter> - /""]", f oh  throatclearing  noise i dont know what to laughter  ,sd,FEMALE,1
+"[""usually it's the other phone i have trouble with.  /""]",usually its the other phone i have trouble with  ,sd,FEMALE,1
+"['it must just,']",it must just,sd,FEMALE,1
+['</static>.'],static,x,FEMALE,8
+['be on the line.  /'],be on the line  ,+,FEMALE,0
+['can you hear me? /'],can you hear me ,qy,FEMALE,7
+['now i can again. /'],now i can again ,sd,FEMALE,1
+['okay. /'],okay ,b,FEMALE,2
+['<static>.'],static,x,FEMALE,8
+"[""[ i don't know what, + {f uh, } [ i, + i ] don't know what ] the problem is  /""]", i dont know what  f uh   i  i  dont know what  the problem is  ,sd,FEMALE,1
+"['{c but, }  {f uh, } when we lived in houston we had a solar water heater  /']",c but   f uh  when we lived in houston we had a solar water heater  ,sd,FEMALE,1
+['# {c and } # --'], c and   ,sd,FEMALE,1
+['-- we had thought this part of the country would be ideal for <noise> solar homes and solar energy  /'], we had thought this part of the country would be ideal for noise solar homes and solar energy  ,+,FEMALE,0
+"['{c and } we have enough clouds that, {f uh, } there are other areas that would be better suited.  /']",c and  we have enough clouds that f uh  there are other areas that would be better suited  ,sd,FEMALE,1
+"['that surprised me because i think,']",that surprised me because i think,sd,FEMALE,1
+"['we have a tremendous amount of, {f um, } sunny days. /']",we have a tremendous amount of f um  sunny days ,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ {c and, } +  {c and } ] it, - /']", c and    c and   it  ,%,FEMALE,5
+"['yes,  /']",yes  ,b,FEMALE,2
+['it can be used  /'],it can be used  ,sd,FEMALE,1
+['{c and } it can help  /'],c and  it can help  ,sd,FEMALE,1
+"['{c but, }  {f uh, } that was a problem that they were still working on.  /']",c but   f uh  that was a problem that they were still working on  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+['{f oh } yeah.  /'],f oh  yeah  ,b,FEMALE,2
+"[""[  it, + it's ] still got a long way to go. /""]",  it  its  still got a long way to go ,sv,FEMALE,3
+"['# {d well } i, # -/']", d well  i  ,%,FEMALE,5
+"[""# it's just, # {d you know, } a possible solution --""]", its just  d you know  a possible solution ,sv,FEMALE,3
+['yes. /'],yes ,b,FEMALE,2
+"['-- in the future, i think, maybe to help in some ways.  /']", in the future i think maybe to help in some ways  ,+,FEMALE,0
+['it may not in all ways.  /'],it may not in all ways  ,sd,FEMALE,1
+"[""maybe they'll come up with fusion.   <lipsmack> {d you know, } [ con-, +  be able to control  ] it.  /""]",maybe theyll come up with fusion   lipsmack d you know   con   be able to control   it  ,sd,FEMALE,1
+"[""i don't know how long that'll take,  /""]",i dont know how long thatll take  ,sd,FEMALE,1
+"['{c but, }  <laughter> one of these days, - /']",c but   laughter one of these days  ,sv,FEMALE,3
+"[""{c because } that's perfectly clean. /""]",c because  thats perfectly clean ,sv,FEMALE,3
+['yes. /'],yes ,b,FEMALE,2
+"[""it's just we can't control it.  /""]",its just we cant control it  ,sd,FEMALE,1
+"['right now it takes more energy to cause fusion to occur then you get out,  /']",right now it takes more energy to cause fusion to occur then you get out  ,sd,FEMALE,1
+"[""{c so, }  it isn't, not at all, - /""]",c so   it isnt not at all  ,%,FEMALE,5
+"[""{c and } you can't control it unless you gotten a huge electromagnetic field,  /""]",c and  you cant control it unless you gotten a huge electromagnetic field  ,sd,FEMALE,1
+"[""{c so } that's not going to work.  at least not now.  /""]",c so  thats not going to work  at least not now  ,sd,FEMALE,1
+"['{c but, }  {f uh, } <static> who knows what the future will hold.  {f uh, } as far as energy goes,  /']",c but   f uh  static who knows what the future will hold  f uh  as far as energy goes  ,sv,FEMALE,3
+"[""[ i, + i ] think, <sigh> with solving some of the [ energy, + future energy ] problems, we'll probably solve some of the pollution problems as well. /""]", i  i  think sigh with solving some of the  energy  future energy  problems well probably solve some of the pollution problems as well ,sv,FEMALE,3
+"['{f uh, } i hope so <laughter>. /']",f uh  i hope so laughter ,ba,FEMALE,6
+['i do to.  /'],i do to  ,sd,FEMALE,1
+"['<laughter> i like to be optimistic,  /']",laughter i like to be optimistic  ,sd,FEMALE,1
+"[""i don't like to be pessimistic <laughter> about these things. /""]",i dont like to be pessimistic laughter about these things ,sd,FEMALE,1
+"['{d well, } i do think, {f um, } - /']",d well  i do think f um   ,%,FEMALE,5
+"[""{e i mean, } you've already mentioned several things, i think, {f uh, } just the change in attitude and the fact that more people are aware there is a problem and more people are interested in, {f uh, } -/""]",e i mean  youve already mentioned several things i think f uh  just the change in attitude and the fact that more people are aware there is a problem and more people are interested in f uh  ,sv,FEMALE,3
+"['we have one earth,']",we have one earth,sv,FEMALE,3
+['yes <<very faint>>. /'],yes very faint ,b,FEMALE,2
+['to live on  /'],to live on  ,+,FEMALE,0
+['{c and } we got to take care of it. /'],c and  we got to take care of it ,sv,FEMALE,3
+['yes.  /'],yes  ,b,FEMALE,2
+"['# {d well, } # --']", d well   ,sv,FEMALE,3
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['-- [ {c and, } +  {c and } ] for the future generations, too.  {f uh, } /']",  c and    c and   for the future generations too  f uh  ,+,FEMALE,0
+"[""i've noticed [ students [ are, + are ] much more, + {d you know, }  [ young, + young ] people are much more  ] receptive to ideas about the environment --""]",ive noticed  students  are  are  much more  d you know    young  young  people are much more   receptive to ideas about the environment ,sd,FEMALE,1
+['# yes. # /'], yes  ,b,FEMALE,2
+['-- # and # protecting the earth.  /'],  and  protecting the earth  ,+,FEMALE,0
+"[""{c and so, } if we can raise [ it, + ] {f uh, } {d you know, } generations with those concerns, we'll solve a lot of our problems.  /""]",c and so  if we can raise  it   f uh  d you know  generations with those concerns well solve a lot of our problems  ,sv,FEMALE,3
+"[""i'm afraid, - /""]",im afraid  ,%,FEMALE,5
+"[""i know i was part of the me generation where [ [ they didn't, +  ((   ))  so  many of them didn't, ] + people didn't ] care.  /""]",i know i was part of the me generation where   they didnt        so  many of them didnt   people didnt  care  ,sd,FEMALE,1
+"['{d you know, }  /']",d you know   ,%,FEMALE,5
+"[""it's whatever, {d you know, } - /""]",its whatever d you know   ,%,FEMALE,5
+"[""recycle, {d well, } if it's a problem, forget that.  /""]",recycle d well  if its a problem forget that  ,^q,FEMALE,19
+"['{f uh, } not throw the trash out the car window  /']",f uh  not throw the trash out the car window  ,^q,FEMALE,19
+['{c and } leave it in the car and then throw it away?  /'],c and  leave it in the car and then throw it away  ,^q,FEMALE,19
+"['how horrible, <laughter> {d you know. } /']",how horrible laughter d you know  ,sv,FEMALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"[""{d now, } i've always done those kinds of things because i just didn't like  messes,  /""]",d now  ive always done those kinds of things because i just didnt like  messes  ,sd,FEMALE,1
+['{c and } <<voices fade off>> ... -/'],c and  voices fade off  ,%,FEMALE,5

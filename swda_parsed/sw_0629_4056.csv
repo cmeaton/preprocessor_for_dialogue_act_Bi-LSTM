@@ -1,0 +1,136 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",MALE,0
+"['should begin. / *[[listen; could probably code if we could tell if it said ""we"" or ""you""]]']",should begin  listen could probably code if we could tell if it said we or you,"fo_o_fw_""_by_bc",MALE,0
+['okay.  /'],okay  ,aa,MALE,4
+['all right. /'],all right ,aa,MALE,4
+"['{f uh, } i can begin this, {f um, }  /']",f uh  i can begin this f um   ,sd,MALE,1
+['basically i work for honeywell in minneapolis -- /'],basically i work for honeywell in minneapolis  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and } [ the, +  the ] benefit program  we have here is really quite good.  /']", c and   the   the  benefit program  we have here is really quite good  ,sv,MALE,3
+"[""[ i'm, +  i'm ] pretty pleased with it.  /""]", im   im  pretty pleased with it  ,sd,MALE,1
+"['they cover, {f uh, }  just about everything, vision, dental, medical -- /']",they cover f uh   just about everything vision dental medical  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } you name it,  /']", f uh  you name it  ,ad,MALE,22
+"[""{c and } for me this is the first job i've had where they've covered that much,  /""]",c and  for me this is the first job ive had where theyve covered that much  ,sd,MALE,1
+"[""{c so } i'm pretty satisfied myself. /""]",c so  im pretty satisfied myself ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{f um, } what's your situation? /""]",f um  whats your situation ,qw,MALE,12
+"['i work for the university of new hampshire,  /']",i work for the university of new hampshire  ,sd,MALE,1
+['{c and } --'],c and  ,sv,MALE,3
+['oh. /'],oh ,b,MALE,2
+"[""-- {f uh, } our benefits package [ isn't, +   {f uh, } isn't ] quite as good in some ways. {f uh, } {d you know, }  /""]", f uh  our benefits package  isnt    f uh  isnt  quite as good in some ways f uh  d you know   ,+,MALE,0
+"[""overall i'm satisfied with it.  /""]",overall im satisfied with it  ,sd,MALE,1
+"[""we don't have the vision care,  /""]",we dont have the vision care  ,sd,MALE,1
+"['we do have the health care  [ and the, +   {f uh, } and the ] [ medi-, +  {e or } the dental. ] /']",we do have the health care   and the    f uh  and the   medi   e or  the dental  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['{f uh. } /'],f uh  ,%,MALE,5
+['are you a professor there? /'],are you a professor there ,qy,MALE,7
+"['no,  /']",no  ,nn,MALE,13
+"[""[ i work in, + i'm [ a, +  on ] ] the professional administrative and technical staff,  /""]", i work in  im  a   on   the professional administrative and technical staff  ,sd,MALE,1
+"['{c and } [ i, +  effectively i ]  run the telephone switch [ at, + {f uh, } at ] the university of new hampshire. /']",c and   i   effectively i   run the telephone switch  at  f uh  at  the university of new hampshire ,sd,MALE,1
+"['{f oh, } i see,  /']",f oh  i see  ,bk,MALE,14
+['okay. /'],okay ,bk,MALE,14
+"['{f uh, } {d so } [ the, + {f uh, } the ]  benefits,  /']",f uh  d so   the  f uh  the   benefits  ,sd,MALE,1
+"['{f uh, } probably the main thing  i like about the benefits is [ the, +  {f uh, } the, ]  {f uh, } very generous vacation time and sick time. /']",f uh  probably the main thing  i like about the benefits is  the   f uh  the   f uh  very generous vacation time and sick time ,sd,MALE,1
+"['{f oh, } no doubt <laughter>. /']",f oh  no doubt laughter ,aa,MALE,4
+"['we get fifteen days a year sick time,  /']",we get fifteen days a year sick time  ,sd,MALE,1
+"['{c and, } {f uh, } [ we get twenty-four days a year, +  right from the day one when you start  work, you get twenty-four days a year, ] {f uh, } time off. /']",c and  f uh   we get twentyfour days a year   right from the day one when you start  work you get twentyfour days a year  f uh  time off ,sd,MALE,1
+['right.  /'],right  ,b,MALE,2
+"[""{d well, } that's good. /""]",d well  thats good ,ba,MALE,6
+['yeah. /'],yeah ,b,MALE,2
+"['yeah,  /']",yeah  ,b^m,MALE,24
+"[""that's one of the things  i guess i would change about honeywell, is, {f uh, } - /""]",thats one of the things  i guess i would change about honeywell is f uh   ,sd,MALE,1
+"['i used to work with the army research  institute,  /']",i used to work with the army research  institute  ,sd,MALE,1
+"['{c and } being [ a, +  {f uh, } a ] government organization you got quite a few holidays off. /']",c and  being  a   f uh  a  government organization you got quite a few holidays off ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"[""{c but } here you don't get that.  /""]",c but  here you dont get that  ,sd,MALE,1
+['you maybe get two or three a year. /'],you maybe get two or three a year ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so } it's really, - /""]",c so  its really  ,%,MALE,5
+"['[ unless you, +   unless you ] have some vacation time or [ some, +  some ] sick leave or whatever, {f um, } you kind  of have to finagle your way around to get that time. /']", unless you    unless you  have some vacation time or  some   some  sick leave or whatever f um  you kind  of have to finagle your way around to get that time ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c so, } [ that's, +  that's ]  kind of a drawback i think.  /""]",c so   thats   thats   kind of a drawback i think  ,sv,MALE,3
+"[""{c but, } {f uh. }  i don't know.  /""]",c but  f uh   i dont know  ,h,MALE,15
+"['what do you consider most important, you think,  in terms [ of, +  of ] the different benefits? /']",what do you consider most important you think  in terms  of   of  the different benefits ,qw,MALE,12
+"['{d well, } i think, {f uh, } [ the, +   the ] health care, of course, is an important, and  has to be the single most important benefit -- /']",d well  i think f uh   the    the  health care of course is an important and  has to be the single most important benefit  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c and, } {f uh, } the rates that  we keep paying seem to keep increasing, {f uh } --']", c and  f uh  the rates that  we keep paying seem to keep increasing f uh  ,sd,MALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['-- {d you know, }  /']", d you know   ,+,MALE,0
+"[""[ i'm, +  i'm ]  a little disturbed about that,  /""]", im   im   a little disturbed about that  ,sd,MALE,1
+"[""{c but } i think that's a national trend,  /""]",c but  i think thats a national trend  ,sv,MALE,3
+"[""{c and } [ i don't know that, +  {f uh, } i don't know what ] the solution is to it.  /""]",c and   i dont know that   f uh  i dont know what  the solution is to it  ,sd,MALE,1
+"[""it's bigger than just the benefits part. /""]",its bigger than just the benefits part ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i don't know if you saw on  twenty twenty the other night,  /""]",i dont know if you saw on  twenty twenty the other night  ,sd,MALE,1
+"[""[ they, + {f uh, } they ] basically reviewed [ oregon's plan -- +""]", they  f uh  they  basically reviewed  oregons plan  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- {e or } the oregon plan ] --'], e or  the oregon plan  ,+,MALE,0
+['right. /'],right ,b,MALE,2
+"['-- toward, {f uh, } nationalizing health care   and that kind of thing.  /']", toward f uh  nationalizing health care   and that kind of thing  ,+,MALE,0
+"[""it's kind of an interesting plan.  /""]",its kind of an interesting plan  ,sv,MALE,3
+"[""it's kind of cold though.  /""]",its kind of cold though  ,sv,MALE,3
+"[""they've essentially made up a list of, {f uh, } {f oh, } all the different,  {f uh, } medical maladies that you can have --""]",theyve essentially made up a list of f uh  f oh  all the different  f uh  medical maladies that you can have ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+"['-- and then basically made a cutoff,  /']", and then basically made a cutoff  ,+,MALE,0
+"['about six hundred and eighty-seven and  below will not be covered [ by, +  by, ]  {f uh, } subsidized health care,  /']",about six hundred and eightyseven and  below will not be covered  by   by   f uh  subsidized health care  ,sd,MALE,1
+['{c and } the ones above would. /'],c and  the ones above would ,sd,MALE,1
+['{f um. } /'],f um  ,%,MALE,5
+"[""{c so } it's kind of like drawing  this line  /""]",c so  its kind of like drawing  this line  ,sd,MALE,1
+"['[ {c and, } +  {c and } ] if you have it great,  /']", c and    c and   if you have it great  ,sd,MALE,1
+"[""if you don't, you're kind of out of luck -- /""]",if you dont youre kind of out of luck  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c but, } {f um, } it was kind of an interesting show. /']", c but  f um  it was kind of an interesting show ,sv,MALE,3
+['{f um. } /'],f um  ,%,MALE,5
+"[""i think you're right,  /""]",i think youre right  ,sd,MALE,1
+"['i think health care is probably [ [ the, +  the  most  pressing -- ] +']",i think health care is probably   the   the  most  pressing   ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+"['-- {f uh, } the pressing ] one,  /']", f uh  the pressing  one  ,+,MALE,0
+"[""{c but } i'll tell you,  [ i, +  i ] don't mind having dental, {d you know, }  /""]",c but  ill tell you   i   i  dont mind having dental d you know   ,sd,MALE,1
+"['sometimes dental costs can be,  {f um, } just about as expensive, if not more,  /']",sometimes dental costs can be  f um  just about as expensive if not more  ,sv,MALE,3
+['{c and } i know historically a lot  of companies i think carried dental as a rider along with the medical -- /'],c and  i know historically a lot  of companies i think carried dental as a rider along with the medical  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {c but } i'm not sure [ that's, +   that's ] widely followed any more.  /""]", c but  im not sure  thats    thats  widely followed any more  ,sv,MALE,3
+"[""i'm not sure,  /""]",im not sure  ,sd,MALE,1
+"['[ how, +  how ] does, {f uh, } university of new hampshire handle it? /']", how   how  does f uh  university of new hampshire handle it ,qw,MALE,12
+"['{d well, } we have two different plans  that we can subscribe to under dental, {f uh, } depending,  /']",d well  we have two different plans  that we can subscribe to under dental f uh  depending  ,sd,MALE,1
+"['[ {c and, } + {c and } ]  the cost between them [ is very, +  is very ] little.  /']", c and   c and    the cost between them  is very   is very  little  ,sd,MALE,1
+"['i think it costs me something like five dollars  [ a, +  a ] month  for the dental plan. /']",i think it costs me something like five dollars   a   a  month  for the dental plan ,sv,MALE,3
+['{f um. } /'],f um  ,%,MALE,5
+"['{c but } it pays, {f uh, } a substantial amount.  /']",c but  it pays f uh  a substantial amount  ,sd,MALE,1
+"['{e i mean, } the examinations [ and, +  and, ]  {f uh, } checkups [ every year, + {e or } every six months ] are free -- /']",e i mean  the examinations  and   and   f uh  checkups  every year  e or  every six months  are free  ,sd,MALE,1
+['great. /'],great ,ba,MALE,6
+"['-- {c and, } {f uh, } [ it, +  it ]  covers the bulk of the dental expenses. /']", c and  f uh   it   it   covers the bulk of the dental expenses ,sd,MALE,1
+"['[ is that, + {f uh, } {a let me interrupt, }  is that ] the same for both, {f uh, } professors [ and, + and ] also staff and administration,  /']", is that  f uh  a let me interrupt   is that  the same for both f uh  professors  and  and  also staff and administration  ,qy,MALE,7
+"['is that generally across the board,  do you think  /']",is that generally across the board  do you think  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"['{f uh, } yes,  /']",f uh  yes  ,ny,MALE,9
+['it is.  /'],it is  ,sd,MALE,1
+"['the benefits plan is different [ for operating, +  for what we call operating ] staff, which are considered to be,  {f uh, } clerical personnel, accountants, things like that --']",the benefits plan is different  for operating   for what we call operating  staff which are considered to be  f uh  clerical personnel accountants things like that ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['-- as opposed to what they call  the p a t staff, which i belong to -- /']", as opposed to what they call  the p a t staff which i belong to  ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c but } the main, - /']", c but  the main  ,%,MALE,5
+"['i think [ the, +  the ]  health and all that and the dental is the same for everybody, and the retirement plan.  /']",i think  the   the   health and all that and the dental is the same for everybody and the retirement plan  ,sv,MALE,3
+['{c but } --'],c but  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- the main difference is in [ the, +   {f uh, } the ] way sick time is accrued  and  vacation time is accrued. /']", the main difference is in  the    f uh  the  way sick time is accrued  and  vacation time is accrued ,+,MALE,0
+"['{f oh, } okay. /']",f oh  okay ,bk,MALE,14
+"[""{f uh, } for the operating staff it's  [ on a seniority, + it's, {d you know, } based on how long they've worked there. ] /""]",f uh  for the operating staff its   on a seniority  its d you know  based on how long theyve worked there  ,sd,MALE,1
+['right. /'],right ,b,MALE,2
+"['that determines how much, {f uh, }  vacation time they get. /']",that determines how much f uh   vacation time they get ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i'm kind of interested because  [ i'm + {d actually, } that's the route i'd ] like to take  when i finally get my degree --""]",im kind of interested because   im  d actually  thats the route id  like to take  when i finally get my degree ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- [ is to, +  {f uh, } is to ] teach in a university. /']",  is to   f uh  is to  teach in a university ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""i'm a doctoral student in florida right now -- /""]",im a doctoral student in florida right now  ,sd,MALE,1
+['oh. /'],oh ,b,MALE,2
+"['-- {c but, } {f uh, } - /']", c but  f uh   ,%,MALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""[ that's, + that's ] interesting.  /""]", thats  thats  interesting  ,sv,MALE,3
+"[""that's one of the things i'd like to think about is in what kind of benefits  [ they would, +  {f uh, } they would ] cover and things like that. /""]",thats one of the things id like to think about is in what kind of benefits   they would   f uh  they would  cover and things like that ,sd,MALE,1
+"['college programs belong to this t i a a,  {f uh, } c r e f retirement fund. /']",college programs belong to this t i a a  f uh  c r e f retirement fund ,sd,MALE,1
+"['{f oh, } is that right? /']",f oh  is that right ,bh,MALE,18
+"['right,  /']",right  ,na,MALE,21
+"['{c and } in the case of  the university of new hampshire, {f uh, } -/']",c and  in the case of  the university of new hampshire f uh  ,sd,MALE,1

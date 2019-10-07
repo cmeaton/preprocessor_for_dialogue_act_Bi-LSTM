@@ -1,0 +1,196 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+['what are your favorite things to watch? /'],what are your favorite things to watch ,qy,FEMALE,7
+"[""{f oh, } {f uh, } <noise>  let's see,  /""]",f oh  f uh  noise  lets see  ,^h,MALE,27
+"['[ i, + {f uh, } i ] have enjoyed, {f uh, } thirtysomething --']", i  f uh  i  have enjoyed f uh  thirtysomething ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- in the past, {f uh, } now that it has gone off <laughter>. /']", in the past f uh  now that it has gone off laughter ,+,MALE,0
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f uh, } <noise>  some comedy shows, {f uh, }  i [ can not, + can not ] think of, off hand, /']",f uh  noise  some comedy shows f uh   i  can not  can not  think of off hand ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['# {c but, } # [ what, + what ]  are your, - /']", c but    what  what   are your  ,qw,MALE,12
+"['what is, -/']",what is ,qw,MALE,12
+"['we do not watch a lot of t v,  /']",we do not watch a lot of t v  ,sd,FEMALE,1
+"['we try to watch it on  thursday nights,  /']",we try to watch it on  thursday nights  ,sd,FEMALE,1
+"['we usually watch l a law,  /']",we usually watch l a law  ,sd,FEMALE,1
+['i like that real well.'],i like that real well,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['and cheers -- /'],and cheers  ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+['-- we like to watch that.  /'], we like to watch that  ,sd,FEMALE,1
+"['{f uh, } we sort of got  hooked on la law.  /']",f uh  we sort of got  hooked on la law  ,sd,FEMALE,1
+"['{f uh, } do you ever watch that? /']",f uh  do you ever watch that ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['{f uh, }  ((   ))  yeah,  /']",f uh        yeah  ,ny,MALE,9
+"['yeah,  /']",yeah  ,ny,MALE,9
+"['[ [ we, + we wa-, + we ]  try to catch that [ most, + most ] nights. /']",  we  we wa  we   try to catch that  most  most  nights ,sd,MALE,1
+['yeah  /'],yeah  ,b,FEMALE,2
+"['<inhaling>.  {c and } [ i, +  i ]  have watched thirtysomething some in the last couple seasons.  /']",inhaling  c and   i   i   have watched thirtysomething some in the last couple seasons  ,sd,FEMALE,1
+['i was sort of sorry to see it go --'],i was sort of sorry to see it go ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['-- too. /'], too ,+,FEMALE,0
+"['[ it, + it ] was kind of interesting, {f uh, }  some people complained about, {f uh, } {f uh, } the kind of whining or whatever on it.  /']", it  it  was kind of interesting f uh   some people complained about f uh  f uh  the kind of whining or whatever on it  ,sd,MALE,1
+"['[  i, + i ] really did not think [ it, + it ] was,']",  i  i  really did not think  it  it  was,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['# that # way.  /'], that  way  ,+,MALE,0
+"['i think it had [ some, + some ] [ good, + {f uh, } good ] situations that it presented. /']",i think it had  some  some   good  f uh  good  situations that it presented ,sd,MALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['i thought a lot of the, - /']",i thought a lot of the  ,sd,FEMALE,1
+"['{d like } the  problems that michael and hope had in their marriage and stuff, <laughter>  i can relate to some of those things. /']",d like  the  problems that michael and hope had in their marriage and stuff laughter  i can relate to some of those things ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['just the dynamics of it and everything. /'],just the dynamics of it and everything ,sd,FEMALE,1
+"['{d well, } [ i think, + i think ] a lot of people, {d you know, } kind of felt that way,  /']",d well   i think  i think  a lot of people d you know  kind of felt that way  ,sv,MALE,3
+"['{c but } they had a lot of, {f uh, } {f uh, }  counseling groups that use some of the episodes [ as, +']",c but  they had a lot of f uh  f uh   counseling groups that use some of the episodes  as ,sd,MALE,1
+"['# {f oh, } really.  # /']", f oh  really   ,b,FEMALE,2
+['# as ] examples # of things that were going on  /'], as  examples  of things that were going on  ,+,MALE,0
+"['[ {c and, } + {c and } ] {f uh, } [ yo-, + ] {d you know, } that they  (( called )) interaction between  people and (( sort of ))  to use as, {f uh, } as a way of getting people to talk about their problems, /']", c and   c and   f uh   yo   d you know  that they   called  interaction between  people and  sort of   to use as f uh  as a way of getting people to talk about their problems ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['# and # that sort of thing <inhaling>.  /'], and  that sort of thing inhaling  ,sd,MALE,1
+"['{f uh, } we <throat_clearing>  kind of, - /']",f uh  we throatclearing  kind of  ,%,MALE,5
+"['{f uh, }  ((   ))  our t v viewing has, {f uh, }  slowed down a little bit since [ our + <inhaling>  our ] daughter came along,  /']",f uh        our t v viewing has f uh   slowed down a little bit since  our  inhaling  our  daughter came along  ,sd,MALE,1
+"['{c so, } {f uh, } -/']",c so  f uh  ,%,MALE,5
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""# [ that, + # that ]  tends to, {f uh, } put a cramp in your viewing, because by the time you get through <noise>  getting her ready for  bed and everything, {f uh, } <inhaling>  it's, {f uh, } very little t v time left. /""]",  that   that   tends to f uh  put a cramp in your viewing because by the time you get through noise  getting her ready for  bed and everything f uh  inhaling  its f uh  very little t v time left ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['you are too tired <laughter>  --'],you are too tired laughter  ,bf,FEMALE,20
+['yeah. /'],yeah ,b,MALE,2
+['-- to do anything.  /'], to do anything  ,+,FEMALE,0
+"[""{f oh, } it's better to spend time with your kids, {a i think though, }  than glued in front of the t v anyway. /""]",f oh  its better to spend time with your kids a i think though   than glued in front of the t v anyway ,sv,FEMALE,3
+"['<sniffing> yeah,  /']",sniffing yeah  ,aa,MALE,4
+"[""that's right. /""]",thats right ,aa,MALE,4
+['probably more worthwhile.  /'],probably more worthwhile  ,sv,FEMALE,3
+"[""[ i just don't, + i don't ]  think there's as many good things to watch as there used to be, really. /""]", i just dont  i dont   think theres as many good things to watch as there used to be really ,sv,FEMALE,3
+"['no,  /']",no  ,aa,MALE,4
+"['[ i, + i ] can not, {f uh, }  / *[[typo? cannot?]]']", i  i  can not f uh    typo cannot,sd,MALE,1
+"[""i don't think there were, {f uh, } - /""]",i dont think there were f uh   ,sv,MALE,3
+"['[ [ i have not, + i have  not, ] + {f uh, } {f uh, } there are not ] as many good shows [ that i, + that i ] continuously like to watch as much as i used to <inhaling>.  /']",  i have not  i have  not   f uh  f uh  there are not  as many good shows  that i  that i  continuously like to watch as much as i used to inhaling  ,sd,MALE,1
+"['i, {f uh, } {d you know, } [ ther-, + ] - /']",i f uh  d you know   ther    ,%,MALE,5
+"['[ i, + {f uh, } i ] used to [ could + ]  be able to name ten shows or so, {d you know, } that i felt were worth my time to  watch,  /']", i  f uh  i  used to  could    be able to name ten shows or so d you know  that i felt were worth my time to  watch  ,sd,MALE,1
+"['{c but, } {f uh, } i  (( {f uh, } {d you know } ))   very seldom like to watch  (( {d you know } ))  those,  /']",c but  f uh  i   f uh  d you know     very seldom like to watch   d you know    those  ,sd,MALE,1
+"[""there's a couple now that i tend to want to watch.  /""]",theres a couple now that i tend to want to watch  ,sd,MALE,1
+"[""i like, {f uh, } home improvement shows like bob vela's, {f uh, }  home again on saturday morning, /""]",i like f uh  home improvement shows like bob velas f uh   home again on saturday morning ,sd,MALE,1
+"['# right,  /']", right  ,b,FEMALE,2
+['yeah. # /'],yeah  ,b,FEMALE,2
+"[""# [ it's, + i # notice [ it's  like, + it's like ] ]  this old house,  /""]",  its  i  notice  its  like  its like    this old house  ,sd,MALE,1
+['(( yeah  /'], yeah  ,%,MALE,5
+"[""))  {c but } [ it's, + {f uh, } it's ] on - /""]",  c but   its  f uh  its  on  ,%,MALE,5
+"[""instead of being on [ pub-, +   p b s ] it's on regular t v. /""]",instead of being on  pub    p b s  its on regular t v ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""{c but, } [ it's, + {f uh, } it's ]  kind of interesting because they renovate an old house  /""]",c but   its  f uh  its   kind of interesting because they renovate an old house  ,sd,MALE,1
+"['{c and, } -/']",c and  ,%,MALE,5
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['i have seen parts of that before,  /']",i have seen parts of that before  ,sd,FEMALE,1
+['it is interesting. /'],it is interesting ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['{c so } i like to watch that  /'],c so  i like to watch that  ,sd,MALE,1
+"['{c and } <inhaling> {f uh, } [ some, + some ] things on p b s i like to watch  /']",c and  inhaling f uh   some  some  things on p b s i like to watch  ,sd,MALE,1
+"['{c but, } {f uh. } -/']",c but  f uh  ,%,MALE,5
+['do you watch sports much on t v? /'],do you watch sports much on t v ,qy,FEMALE,7
+"['<inhaling> yeah,  /']",inhaling yeah  ,ny,MALE,9
+"[""[ if it's someb-, + if it's ]  a team or something that i am really interested in i am not one to just watch a  football game [ just, + just ] to be watching it  /""]", if its someb  if its   a team or something that i am really interested in i am not one to just watch a  football game  just  just  to be watching it  ,sd,MALE,1
+"['[ {c or, } +']", c or  ,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""# {c or } ] # i am not a big basketball or  baseball fan, [ if it, + unless it's ] baseball, [ if it's some, + if it's ]  a team i really like, i may watch  /""]", c or    i am not a big basketball or  baseball fan  if it  unless its  baseball  if its some  if its   a team i really like i may watch  ,+,MALE,0
+"['{c but, } {f uh, } <inhaling>  baseball to me is a little hard to watch on t v,']",c but  f uh  inhaling  baseball to me is a little hard to watch on t v,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['# for # an extended period. /'], for  an extended period ,+,MALE,0
+"[""it's slow. /""]",its slow ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""it's so slow that you just get bored, {d you know, }  /""]",its so slow that you just get bored d you know   ,bf,MALE,20
+"['[ i, + i ] will switch between <inhaling> something else [ and, + and ]  a baseball game going back and  forth, {d you know } watching it.  /']", i  i  will switch between inhaling something else  and  and   a baseball game going back and  forth d you know  watching it  ,sd,MALE,1
+"['{c but, } i usually, - /']",c but  i usually  ,%,MALE,5
+"[""[ [ if, + if, ] + if ] it's a football team  i really like, ((   ))  a college team [ or, + or ]  pro team <inhaling> that i am fond of, i usually will sit and watch that.  /""]",  if  if   if  its a football team  i really like      a college team  or  or   pro team inhaling that i am fond of i usually will sit and watch that  ,sd,MALE,1
+"[""{c but, } {f uh, }  that's the <inhaling>, -/""]",c but  f uh   thats the inhaling ,%,MALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['we are like that  /'],we are like that  ,sd,FEMALE,1
+"['{c and } occasionally we  will, {d like } [ on, + ] if we do not have anything to do or kind of bored  and we just want to  sit in the house or  something,']",c and  occasionally we  will d like   on   if we do not have anything to do or kind of bored  and we just want to  sit in the house or  something,sd,FEMALE,1
+['# <inhaling>.  #'], inhaling  ,x,MALE,8
+['# we # will watch a little bit of a golf tournament.  /'], we  will watch a little bit of a golf tournament  ,+,FEMALE,0
+"['{c but, } {f uh, }']",c but  f uh ,sv,FEMALE,3
+['# yeah. # /'], yeah  ,b,MALE,2
+"['# you # can not take a whole lot of that either,  /']", you  can not take a whole lot of that either  ,+,FEMALE,0
+"[""it's pretty slow. /""]",its pretty slow ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""it's kind of [ like, +""]",its kind of  like ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['# like ] # baseball <laughter>. /'], like   baseball laughter ,+,MALE,0
+"['do you wa-, - /']",do you wa  ,%,FEMALE,5
+"[""we went to the movies a lot on weekends and watch them at home, because [ there's just, +""]",we went to the movies a lot on weekends and watch them at home because  theres just ,sd,FEMALE,1
+['# <inhaling>.  #'], inhaling  ,x,MALE,8
+"[""# on # friday and saturday nights there's ]  nothing good on  /""]", on  friday and saturday nights theres   nothing good on  ,+,FEMALE,0
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['right.  /'],right  ,aa,MALE,4
+"[""i think that that's what more people are doing  /""]",i think that thats what more people are doing  ,sv,MALE,3
+"[""{c and } i think that's,  {d you know, } - /""]",c and  i think thats  d you know   ,sv,MALE,3
+"['[ as, + as ]  t v, - /']", as  as   t v  ,%,MALE,5
+"['i think the less good shows being on t v has caused a lot of people [ to do, + to do ] that, {f uh, } {d you know, }  get more movies and watch. /']",i think the less good shows being on t v has caused a lot of people  to do  to do  that f uh  d you know   get more movies and watch ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# i # know [ we, + <inhaling> we ] have done that too in the past,  {f uh, }  /']", i  know  we  inhaling we  have done that too in the past  f uh   ,sd,MALE,1
+"['we do not do it quite as much now, cause <laughter> our baby will not let us watch them. /']",we do not do it quite as much now cause laughter our baby will not let us watch them ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but, } {f uh, } {d you know, } [ we usually will, +  we ] used to rent, {f uh, } two or three movies on a weekend [ and, + and ] try to watch. /']",c but  f uh  d you know   we usually will   we  used to rent f uh  two or three movies on a weekend  and  and  try to watch ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,b,FEMALE,2
+['do you have cable t v? /'],do you have cable t v ,qy,FEMALE,7
+"['no, {f uh, } /']",no f uh  ,nn,MALE,13
+['we do # not either. # /'],we do  not either  ,sd,FEMALE,1
+"['# we live in, # -/']", we live in  ,sd,MALE,1
+"['i thought we were the only ones <laughter>,']",i thought we were the only ones laughter,sd,FEMALE,1
+['# no.  # /'], no   ,aa,MALE,4
+['# who # did not have it. /'], who  did not have it ,+,FEMALE,0
+"['no,  /']",no  ,aa,MALE,4
+"['we, {f uh, } - /']",we f uh   ,%,MALE,5
+"['the, {f uh, } development we  moved into was, - /']",the f uh  development we  moved into was  ,sd,MALE,1
+"['they have it on one si-, {d like } right across the street from us, -/']",they have it on one si d like  right across the street from us ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# {c but } # when they built our section  [ they did not, + did not put ] it in  /']", c but   when they built our section   they did not  did not put  it in  ,sd,MALE,1
+['{c and } <sigh>  we have been there about two years now. /'],c and  sigh  we have been there about two years now ,sd,MALE,1
+['# gosh.  # /'], gosh   ,ba,FEMALE,6
+"['# {c and } # they [ are + ] [ still, + still ]  do not have it  /']", c and   they  are    still  still   do not have it  ,sd,MALE,1
+"['{c so } <inhaling>,']",c so  inhaling,sd,MALE,1
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['# i # am hoping [ that, + that ] soon [ they will, + they will, ]  /']", i  am hoping  that  that  soon  they will  they will   ,+,MALE,0
+['i have contacted them about this  /'],i have contacted them about this  ,sd,MALE,1
+"[""{c and } they say that {d well, } [ it's, + it's, ] - /""]",c and  they say that d well   its  its   ,sd,MALE,1
+"['they look, - /']",they look  ,%,MALE,5
+"['[ they, +  every year they ] look at, {f uh, } different areas and try to determine  [ where, + where, ] {f uh, } the most houses will be, /']", they   every year they  look at f uh  different areas and try to determine   where  where  f uh  the most houses will be ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['# {c and # so } [ they, + {f uh, } they ]  look  /']", c and  so   they  f uh  they   look  ,sd,MALE,1
+"['{c and } [ [ they, + when they, ] + when we ]  reach a certain number of people in that area they will [ put one in, + put,']",c and    they  when they   when we   reach a certain number of people in that area they will  put one in  put,sd,MALE,1
+['# huh.  # /'], huh   ,b,FEMALE,2
+"['# some # in, ] {c or } they will at,']", some  in  c or  they will at,+,MALE,0
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['# least # consider it,  /']", least  consider it  ,+,MALE,0
+['{c so. } -/'],c so  ,%,MALE,5
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['{d well, } we had it for awhile  /']",d well  we had it for awhile  ,sd,FEMALE,1
+['{c and }  it just seemed like we never watched it  /'],c and   it just seemed like we never watched it  ,sd,FEMALE,1
+"['(( [ any + ] ))  we did not have the  movie channels,  /']",  any     we did not have the  movie channels  ,sd,FEMALE,1
+"['we just had all the normal ones,']",we just had all the normal ones,sd,FEMALE,1
+['# yeah. # /'], yeah  ,b,MALE,2
+['# that # come  /'], that  come  ,+,FEMALE,0
+"['{c and } we just never watched  any of them,  /']",c and  we just never watched  any of them  ,sd,FEMALE,1
+['we kept a log for a month of every time we watched it  /'],we kept a log for a month of every time we watched it  ,sd,FEMALE,1
+"['{c and } it seemed like we did not watch even half an hour, /']",c and  it seemed like we did not watch even half an hour ,sd,FEMALE,1
+['# {f um. }  yeah. # /'], f um   yeah  ,b,MALE,2
+['# {c so } we # decided to just cancel it.  /'], c so  we  decided to just cancel it  ,sd,FEMALE,1
+"['it does improve the reception a little bit though,  /']",it does improve the reception a little bit though  ,sd,FEMALE,1
+"[""that's the only thing. /""]",thats the only thing ,sd,FEMALE,1
+['<sigh> yeah.  /'],sigh yeah  ,aa,MALE,4
+"['[ i have, +  i [ put some, + put in [ some, + ] ] ]  {f uh, } an antenna, a really good antenna  /']", i have   i  put some  put in  some      f uh  an antenna a really good antenna  ,sd,MALE,1
+"[""{c and, } {f uh, } it's really helped, {d you know, }  ours  /""]",c and  f uh  its really helped d you know   ours  ,sd,MALE,1
+"[""{c and } it's not been too bad.  /""]",c and  its not been too bad  ,sd,MALE,1
+"['i have not really missed it that much,  /']",i have not really missed it that much  ,sd,MALE,1
+"[""there's certain things that i have, that i want to see, {d you know, } occasionally, like  a football game, a college game or something that happens to be on cable, <sigh> or  some old movie,  /""]",theres certain things that i have that i want to see d you know  occasionally like  a football game a college game or something that happens to be on cable sigh or  some old movie  ,sd,MALE,1
+"['{c but } the, {f uh, } - /']",c but  the f uh   ,%,MALE,5
+"['[ i, + i ]  have not been bothered by it too much. /']", i  i   have not been bothered by it too much ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c so, } -/']",c so  ,%,MALE,5
+"['{d well, } i can not, <laughter>  {f uh, } think of  too much else to say.     *[[typo cannot?]]']",d well  i can not laughter  f uh  think of  too much else to say     typo cannot,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['since we are not big watchers. /'],since we are not big watchers ,+,FEMALE,0
+['okay. /'],okay ,b,MALE,2
+"['{d well, } it was nice talking to you. /']",d well  it was nice talking to you ,fc,FEMALE,10
+"['alright,  /']",alright  ,fc,MALE,10
+['bye. /'],bye ,fc,MALE,10
+['bye. /'],bye ,fc,FEMALE,10

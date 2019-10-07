@@ -1,0 +1,214 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['[ we, + we ] can, {f uh, } be recorded while we talk about it. /']", we  we  can f uh  be recorded while we talk about it ,ad,FEMALE,22
+"['okay,  /']",okay  ,aa,MALE,4
+"['{d well } is your, - /']",d well  is your  ,qy,MALE,7
+"['does your city have mandatory, {f uh, } recycling? /']",does your city have mandatory f uh  recycling ,qy,MALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"[""we don't have mandatory.  /""]",we dont have mandatory  ,sd,FEMALE,1
+"[""[ we, + {d actually, } we're ] kind of slow up here, /""]", we  d actually  were  kind of slow up here ,sv,FEMALE,3
+"[""{c and } we've just started doing recycling probably last summer.  /""]",c and  weve just started doing recycling probably last summer  ,sd,FEMALE,1
+"[""{c and } it's all voluntary.  /""]",c and  its all voluntary  ,sd,FEMALE,1
+"[""{c so } that's interesting.  /""]",c so  thats interesting  ,sd,FEMALE,1
+['cities have a mandatory recycling? /'],cities have a mandatory recycling ,qy,FEMALE,7
+"[""{f um, } [ there, + there're ] some places that are strongly encouraging it,  /""]",f um   there  therere  some places that are strongly encouraging it  ,na,MALE,21
+['{c and } that they  city will pick it up.  /'],c and  that they  city will pick it up  ,sd,MALE,1
+"[""that's been one of the arguments here.  /""]",thats been one of the arguments here  ,sd,MALE,1
+"[""i'm just sitting here looking.  we've got four bins of glass and plasticine <<phonetically spelled>> stuff.  /""]",im just sitting here looking  weve got four bins of glass and plasticine phonetically spelled stuff  ,sd,MALE,1
+"['{c but } we have to carry it, {f uh, } some distance,  /']",c but  we have to carry it f uh  some distance  ,sd,MALE,1
+"['{c and }  some places, {f um, } you can sell your, {f uh, } recyclables,  /']",c and   some places f um  you can sell your f uh  recyclables  ,sd,MALE,1
+"['{c and, } for example, our church was collecting newspapers. /']",c and  for example our church was collecting newspapers ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['when i was a kid we used to collect newspapers and bring them to a recycle thing.  /'],when i was a kid we used to collect newspapers and bring them to a recycle thing  ,sd,FEMALE,1
+['we got like a penny a pound for them. /'],we got like a penny a pound for them ,sd,FEMALE,1
+"['{d well, } it turns out that so much,  /']",d well  it turns out that so much  ,sd,MALE,1
+"[""the problem in texas is that, {f uh, } they've got so much paper now from people recycling that they've got no way to, {f uh, } reprocess it. /""]",the problem in texas is that f uh  theyve got so much paper now from people recycling that theyve got no way to f uh  reprocess it ,sd,MALE,1
+"['{f oh, } my, /']",f oh  my ,ba,FEMALE,6
+"['[ it requires an ex-, + it requires ] essentially a paper mill to recycle it,  /']", it requires an ex  it requires  essentially a paper mill to recycle it  ,sd,MALE,1
+['{c and  so } the value has gone down.  /'],c and  so  the value has gone down  ,sd,MALE,1
+"[""it turns out it wasn't worth for the church to do.  /""]",it turns out it wasnt worth for the church to do  ,sd,MALE,1
+"[""{f oh, } i didn't realize, - /""]",f oh  i didnt realize  ,ba,FEMALE,6
+"['you would think, - /']",you would think  ,sv,FEMALE,3
+"['now up here, [ i, + i ] suppose they send it all back to the mill  /']",now up here  i  i  suppose they send it all back to the mill  ,sv,FEMALE,3
+"['{c and } there are paper mills within a couple of hundred miles of, {f uh. } - /']",c and  there are paper mills within a couple of hundred miles of f uh   ,sd,FEMALE,1
+['{d actually } there is one in northern vermont.  /'],d actually  there is one in northern vermont  ,sd,FEMALE,1
+"[""{c so } there's probably a paper mill that's sixty miles from here.  /""]",c so  theres probably a paper mill thats sixty miles from here  ,sd,FEMALE,1
+"[""i didn't think that, - /""]",i didnt think that  ,sd,FEMALE,1
+"['{d you know, } in the large city that [ if the next recycling, + if the next mill ] is more like five hundred miles away --']",d you know  in the large city that  if the next recycling  if the next mill  is more like five hundred miles away ,sv,FEMALE,3
+"['{d well, } /']",d well  ,%,MALE,5
+"[""-- it's a lot of money to transport. /""]", its a lot of money to transport ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""{d well } {d see, } that's, - /""]",d well  d see  thats  ,%,MALE,5
+"['[ in, + in ] dallas there no plan to build, - /']", in  in  dallas there no plan to build  ,sd,MALE,1
+"[""i think [ there, + there's ] some in east texas there's some pulp mills,  /""]",i think  there  theres  some in east texas theres some pulp mills  ,sd,MALE,1
+"['{c but, } {f uh, } you have to go to houston,  /']",c but  f uh  you have to go to houston  ,sd,MALE,1
+"[""{c and, } it's interesting,  /""]",c and  its interesting  ,sd,MALE,1
+"[""{c and then } there's places that will buy metal  /""]",c and then  theres places that will buy metal  ,sd,MALE,1
+['{c and } they still buy aluminum can and likes that. /   *[[can -> cans ? likes -> like?]]'],c and  they still buy aluminum can and likes that    can  cans  likes  like,sd,MALE,1
+"['do you have to buy metal,  /']",do you have to buy metal  ,qh,FEMALE,26
+['{d like } copper is a very good one to collect.  /'],d like  copper is a very good one to collect  ,sv,FEMALE,3
+"['even aluminum,  /']",even aluminum  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,%,FEMALE,5
+['{c so. } -/'],c so  ,%,FEMALE,5
+"['{d well, } [ do you do, + do you do ] recycling? /']",d well   do you do  do you do  recycling ,qy,MALE,7
+"['{f uh, } we do the recycling,  /']",f uh  we do the recycling  ,na,FEMALE,21
+['{c and } our city will pick up our recyclables. /'],c and  our city will pick up our recyclables ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+['they have these little blue bins.  /'],they have these little blue bins  ,sd,FEMALE,1
+"[""{f um, } i don't recycle personally.  /""]",f um  i dont recycle personally  ,sd,FEMALE,1
+"[""[ i, + i'm ] saying i want to do it,  /""]", i  im  saying i want to do it  ,sd,FEMALE,1
+"[""{c but, } i don't get a lot of magazines,  /""]",c but  i dont get a lot of magazines  ,sd,FEMALE,1
+"[""i don't get a, - /""]",i dont get a  ,sd,FEMALE,1
+"[""i don't buy the newspaper,  /""]",i dont buy the newspaper  ,sd,FEMALE,1
+"['{c but } i do have a lot of, {f uh, } - /']",c but  i do have a lot of f uh   ,sd,FEMALE,1
+"['my trash has a lot of tin cans and [ a lot of cart-, + a lot of ] different papers and cardboards. /']",my trash has a lot of tin cans and  a lot of cart  a lot of  different papers and cardboards ,sd,FEMALE,1
+"['{d well, } do you drink soda and such in aluminum cans? /']",d well  do you drink soda and such in aluminum cans ,qy,MALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['{c but } we have a bottle return.  /'],c but  we have a bottle return  ,sd,FEMALE,1
+['a lot of the northern states and a lot of the eastern states have bottles.  /'],a lot of the northern states and a lot of the eastern states have bottles  ,sd,FEMALE,1
+"[""we've had five cent deposits on our bottles for years. /""]",weve had five cent deposits on our bottles for years ,sd,FEMALE,1
+"[""{f oh, } {c so } it's worth taking them back.  /""]",f oh  c so  its worth taking them back  ,bf,MALE,20
+"[""{d well, } {d see, } we don't have. - /""]",d well  d see  we dont have  ,sd,MALE,1
+"['[ we have, + we have ] most of our soft drinks are in plastic liter or two liter bottles. /']", we have  we have  most of our soft drinks are in plastic liter or two liter bottles ,sd,MALE,1
+"['{f oh, } they should definitely get, {f um, } the nickel returnable.  /']",f oh  they should definitely get f um  the nickel returnable  ,sv,FEMALE,3
+"[""it's great for the kids, because  /""]",its great for the kids because  ,sv,FEMALE,3
+"['{d see, } a lot of the kids get the money from it, /']",d see  a lot of the kids get the money from it ,sd,FEMALE,1
+"[""{c and } it's great  for the boy scouts running around, they knock door to door and the collect the bottles sometimes. /""]",c and  its great  for the boy scouts running around they knock door to door and the collect the bottles sometimes ,sv,FEMALE,3
+"[""{f oh, } that's it, - /""]",f oh  thats it  ,sd,MALE,1
+"[""[ you'll, + you'll, ] - /""]", youll  youll   ,%,MALE,5
+"['there is a down side to all this, {d you know, } about no good deed going unpunished,']",there is a down side to all this d you know  about no good deed going unpunished,sd,MALE,1
+['<laughter>'],laughter,x,FEMALE,8
+"['that, {f uh, } my mother sells, {f um, } trees that they make paper out of,  /']",that f uh  my mother sells f um  trees that they make paper out of  ,+,MALE,0
+"[""{c and so }  every time i recycle newspapers, in fact [ there's a, + there's a, ] {f uh, } - /""]",c and so   every time i recycle newspapers in fact  theres a  theres a  f uh   ,sd,MALE,1
+"['kimberly and clark, the makers of kleenex and such --']",kimberly and clark the makers of kleenex and such ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- has [ a, + {f uh, } a ] big paper mill.  /']", has  a  f uh  a  big paper mill  ,+,MALE,0
+['in fact i almost went to work for them.  /'],in fact i almost went to work for them  ,sd,MALE,1
+['i was offered a job and turned it down because my mother got it for me.  /'],i was offered a job and turned it down because my mother got it for me  ,sd,MALE,1
+"[""it's twenty or thirty miles from my house.  /""]",its twenty or thirty miles from my house  ,sd,MALE,1
+"[""every time you recycle, that's one less tree my mother can sell,  /""]",every time you recycle thats one less tree my mother can sell  ,sd,MALE,1
+"[""{c and, } {f uh. }  {c so, } it's a question should i be diligent [ [ and, + {f um, } --""]",c and  f uh   c so  its a question should i be diligent   and  f um  ,sd,MALE,1
+['and recycle. /'],and recycle ,^2,FEMALE,23
+"['-- and, ] + and ] recycle, and put my mother out of her livelihood. /']", and   and  recycle and put my mother out of her livelihood ,+,MALE,0
+"['{f oh, } yes,  /']",f oh  yes  ,b,FEMALE,2
+['i see that. /'],i see that ,ba,FEMALE,6
+"[""{c but, } it's an interesting point, though, that, {d you know, } everybody's so  anxious to recycle,  /""]",c but  its an interesting point though that d you know  everybodys so  anxious to recycle  ,sd,MALE,1
+"['{c and } i suppose it does provide some gainful employment,  /']",c and  i suppose it does provide some gainful employment  ,sv,MALE,3
+"['{c but, } -/']",c but  ,%,MALE,5
+['{c but } it takes away employment from the resource /'],c but  it takes away employment from the resource ,^2,FEMALE,23
+['{c and } its  ((   )) . -/'],c and  its       ,%,FEMALE,5
+"[""{d well, } {c but } in general i think it's a good idea because --""]",d well  c but  in general i think its a good idea because ,sv,MALE,3
+"['i do, too. /']",i do too ,aa,FEMALE,4
+"[""-- like the glass, you can't argue that the glass, - /""]", like the glass you cant argue that the glass  ,+,MALE,0
+"[""it doesn't biodegrade,  [ and, + and, ] {f uh, } the plastics obviously, /""]",it doesnt biodegrade   and  and  f uh  the plastics obviously ,sd,MALE,1
+"[""they don't either <laughter> /""]",they dont either laughter ,sd,FEMALE,1
+['{c so } we might as well recycle those. /'],c so  we might as well recycle those ,sv,MALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""like i say, it's not a very controversial thing.  /""]",like i say its not a very controversial thing  ,sv,FEMALE,3
+['everyone thinks we should do it.  /'],everyone thinks we should do it  ,sv,FEMALE,3
+"[""it's just that we're so lazy,  /""]",its just that were so lazy  ,sv,FEMALE,3
+"[""{e i mean, } {d like } personally, i don't want to clean my, - /""]",e i mean  d like  personally i dont want to clean my  ,sd,FEMALE,1
+['i just have can cat food.  /'],i just have can cat food  ,sd,FEMALE,1
+"[""i don't want to clean the can and  take the label off it, and put it in a separate bin. /""]",i dont want to clean the can and  take the label off it and put it in a separate bin ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{d you know, } i'd just rather get rid of that thing and throw it in the trash. /""]",d you know  id just rather get rid of that thing and throw it in the trash ,sd,FEMALE,1
+"[""{d well, } that's what we've got.  /""]",d well  thats what weve got  ,sd,MALE,1
+"[""we started about, new year's we decided we'd get ambitious.  /""]",we started about new years we decided wed get ambitious  ,sd,MALE,1
+"['{d well, } we took one load over there,  /']",d well  we took one load over there  ,sd,MALE,1
+"[""{c and } now we've got these containers filling up with stuff,  /""]",c and  now weve got these containers filling up with stuff  ,sd,MALE,1
+"[""{c and, } {d you know, } it's not a very high priority thing to go haul these containers over there. /""]",c and  d you know  its not a very high priority thing to go haul these containers over there ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['i think i would be like, - /']",i think i would be like  ,sd,FEMALE,1
+"[""when i bring my bottles back.  if they're pretty clean and stuff, so they can sit in my cellar for a couple of months, - /""]",when i bring my bottles back  if theyre pretty clean and stuff so they can sit in my cellar for a couple of months  ,sd,FEMALE,1
+"['{c and } i get a whole bunch of them [ and bring them ov-, + and bring them over. ]  /']",c and  i get a whole bunch of them  and bring them ov  and bring them over   ,sd,FEMALE,1
+"[""{d now, } if i had a recycling center and i kept it clean, like if i washed all the cans and things, i wouldn't mind if it sat around too much,  /""]",d now  if i had a recycling center and i kept it clean like if i washed all the cans and things i wouldnt mind if it sat around too much  ,sd,FEMALE,1
+"[""{c but } [ if, + if ] it stunk or  something i wouldn't like doing it.  /""]",c but   if  if  it stunk or  something i wouldnt like doing it  ,sd,FEMALE,1
+"['{c but, } {f um, } i produce quite a bit of trash, - /']",c but  f um  i produce quite a bit of trash  ,sd,FEMALE,1
+"['my, {d you know, } house, - /']",my d you know  house  ,sd,FEMALE,1
+"['{c and } i see it,  /']",c and  i see it  ,sd,FEMALE,1
+"[""{c but } i don't see so much that i can recycle. /""]",c but  i dont see so much that i can recycle ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""like i say, it's a lot of different type paper and cardboard.  /""]",like i say its a lot of different type paper and cardboard  ,sd,FEMALE,1
+"[""i'm not a real plastic person user, but a lot of paper, {f um, } pretty much,  /""]",im not a real plastic person user but a lot of paper f um  pretty much  ,sd,FEMALE,1
+"[""{c and } i don't know how they sort that.  /""]",c and  i dont know how they sort that  ,sd,FEMALE,1
+"['{c but } [ if, + if ] i used a lot of can goods and i do use a lot of laundry detergent and a lot of plastic bottles, i would think that [ i wou-, + i would ] have a recycling center.  /']",c but   if  if  i used a lot of can goods and i do use a lot of laundry detergent and a lot of plastic bottles i would think that  i wou  i would  have a recycling center  ,sd,FEMALE,1
+"[""{c but } now, it's just me and my husband,  /""]",c but  now its just me and my husband  ,sd,FEMALE,1
+"[""{c so, } i don't know. /""]",c so  i dont know ,h,FEMALE,15
+"['{c but } every little bit helps,  /']",c but  every little bit helps  ,sv,MALE,3
+['right. /'],right ,^q,MALE,19
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"[""i know what you're saying.  /""]",i know what youre saying  ,sd,FEMALE,1
+"['{c but } [ we have, + we have ] a very aggressive recycling at work,  /']",c but   we have  we have  a very aggressive recycling at work  ,sd,FEMALE,1
+"[""{c and } i'm the one who will pick the newspaper out of the trash and bring it to the recycle bin.  /""]",c and  im the one who will pick the newspaper out of the trash and bring it to the recycle bin  ,sd,FEMALE,1
+"[""{d see, } some people, [ it's, + ] the recycle bin is on their way out.  /""]",d see  some people  its   the recycle bin is on their way out  ,sv,FEMALE,3
+"['instead of carrying your newspapers, when they get done with them at the end of the day, they throw them in the trash. /']",instead of carrying your newspapers when they get done with them at the end of the day they throw them in the trash ,sv,FEMALE,3
+"['{d well, } do you have separate trash cans at your desk. /']",d well  do you have separate trash cans at your desk ,qy,MALE,7
+"['{f um, } no,  /']",f um  no  ,nn,FEMALE,13
+"[""we don't,  /""]",we dont  ,sd,FEMALE,1
+"['{c but } [ other, + other ] offices do.  /']",c but   other  other  offices do  ,sd,FEMALE,1
+['they have a box for papers. /'],they have a box for papers ,sd,FEMALE,1
+"[""{d well, } [ we have, + we have ] one that's recyclable [ and, + and ] then for {f uh, } lunch sacks and waste food /""]",d well   we have  we have  one thats recyclable  and  and  then for f uh  lunch sacks and waste food ,sd,MALE,1
+"[""{c and } they gave us a list of things that aren't re-, - /""]",c and  they gave us a list of things that arent re  ,sd,MALE,1
+"[""{c and } it turns out it's not so bad.  /""]",c and  it turns out its not so bad  ,sd,MALE,1
+"['[  i, + i ] get a lot of reports [ that, + that ] are covered in plastic or [ plas-, + ] like saran wrap or something, {d anyway,  /']",  i  i  get a lot of reports  that  that  are covered in plastic or  plas   like saran wrap or something d anyway  ,sd,MALE,1
+"[""} {c and then, } {f uh, } cardboard, there's a few, - /""]", c and then  f uh  cardboard theres a few  ,sd,MALE,1
+"[""it's interesting that [ we're, + we're ] recycling computer type paper. /""]",its interesting that  were  were  recycling computer type paper ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""[ {c and, } + {c and, } ] {f uh, } one day they'll pick up, {f uh, } - /""]", c and   c and   f uh  one day theyll pick up f uh   ,sd,MALE,1
+"[""the cleaning people come through and they'll pick up recycled paper,  /""]",the cleaning people come through and theyll pick up recycled paper  ,sd,MALE,1
+"[""{c and then } the next day they'll pick up the other,  /""]",c and then  the next day theyll pick up the other  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+['oh. /'],oh ,b,FEMALE,2
+"['depending on how much, - /']",depending on how much  ,sd,MALE,1
+"[""{d you know, } {c and } there's a lot of, {d actually, } it works pretty well,  /""]",d you know  c and  theres a lot of d actually  it works pretty well  ,sd,MALE,1
+"['{c and then } we have a, {f uh, } waste, {f uh, } cans for aluminum [ in the, + in the ] break areas at work. /']",c and then  we have a f uh  waste f uh  cans for aluminum  in the  in the  break areas at work ,sd,MALE,1
+"[""{d well, } [ that's, + that's ] a really good idea, because, {f um, } {d like } our, {f uh, } fruit juices for some reason when they're in a can don't come with a deposit. /""]",d well   thats  thats  a really good idea because f um  d like  our f uh  fruit juices for some reason when theyre in a can dont come with a deposit ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and } they're thinking about putting a deposit on them, because [ pretty much you have to, + ] you're having a whole separate recyclable bin just for these fruit cans, where they're --""]",c and  theyre thinking about putting a deposit on them because  pretty much you have to   youre having a whole separate recyclable bin just for these fruit cans where theyre ,sv,FEMALE,3
+"['yeah, /']",yeah ,b,MALE,2
+"[""-- so much easier just to put a deposit on it, because [ most, + ] probably ninety percent of the aluminum cans do have deposits, because they're beer and soda, /""]", so much easier just to put a deposit on it because  most   probably ninety percent of the aluminum cans do have deposits because theyre beer and soda ,+,FEMALE,0
+"[""{c but } when they sell juice, it's some strange quirk in the law, you don't have to have a deposit on it.  /""]",c but  when they sell juice its some strange quirk in the law you dont have to have a deposit on it  ,sd,FEMALE,1
+"['{c and } even like, [ the, + a ] very fine juice jar does not have to have a deposit on it,  /']",c and  even like  the  a  very fine juice jar does not have to have a deposit on it  ,sd,FEMALE,1
+"[""{c but } if it's got soda in it, it does.  /""]",c but  if its got soda in it it does  ,sd,FEMALE,1
+"[""{c so, } it's a strange. /""]",c so  its a strange ,sd,FEMALE,1
+"[""that's an interesting distinction. /""]",thats an interesting distinction ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['[ they should, + they should ] [  clean, + clear ] that up.  /']", they should  they should    clean  clear  that up  ,sv,FEMALE,3
+"[""it wouldn't take them much to put a stamp on the, {f uh, } juice cans as easily as the soda. /""]",it wouldnt take them much to put a stamp on the f uh  juice cans as easily as the soda ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['[ {c so, } + {c but } ] redemption centers are a big thing up here,  /']", c so   c but   redemption centers are a big thing up here  ,sd,FEMALE,1
+['they get a penny a can they handle.  /'],they get a penny a can they handle  ,sd,FEMALE,1
+['they give you five cents when they return the can to the distributor.  /'],they give you five cents when they return the can to the distributor  ,sd,FEMALE,1
+['i think they {c either } get a penny {c or } two pennies a can. /'],i think they c either  get a penny c or  two pennies a can ,sv,FEMALE,3
+"[""{d well, } {d see, } {d well, } {d see, } those of us that don't have state income taxes, - /""]",d well  d see  d well  d see  those of us that dont have state income taxes  ,sd,MALE,1
+['yet --'],yet ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""-- that's the big debate here in texas, that the legislature wants to put one in,  /""]", thats the big debate here in texas that the legislature wants to put one in  ,+,MALE,0
+"[""{c and, } it's interesting what people get upset about,  /""]",c and  its interesting what people get upset about  ,sd,MALE,1
+"['{f uh, } it really is. /']",f uh  it really is ,sd,MALE,1
+"['[ is bot-, + is bottle ] return down there a heated debate? /']", is bot  is bottle  return down there a heated debate ,qy,FEMALE,7
+"['{d well, } no,  /']",d well  no  ,nn,MALE,13
+"['{f oh, } yeah. /']",f oh  yeah ,bk,FEMALE,14
+"['{d well, } we, - /']",d well  we  ,sd,FEMALE,1
+"[""{d well, } here you can't drink, /""]",d well  here you cant drink ,"fo_o_fw_""_by_bc",FEMALE,0
+"[""we're not civilized now, [ you can no longer, + you cannot ] drink beer and  drive,  /""]",were not civilized now  you can no longer  you cannot  drink beer and  drive  ,sd,MALE,1
+['[ {c but } -- +'], c but   ,sd,MALE,1
+['{d well. } /'],d well  ,%,FEMALE,5
+"['-- {c but } ] [ it was, + it was ] actually legal.  /']", c but    it was  it was  actually legal  ,+,MALE,0
+"['yes,  /']",yes  ,b,FEMALE,2
+"['{d well, } i know, i was in atlanta,  /']",d well  i know i was in atlanta  ,sd,FEMALE,1
+['{c and } you could walk out the bar with your drink in your hand.  /'],c and  you could walk out the bar with your drink in your hand  ,sd,FEMALE,1
+"['{c but } here, let me put that in a paper cup for you. /']",c but  here let me put that in a paper cup for you ,sd,FEMALE,1
+['<laughter>'],laughter,x,MALE,8
+['{c so } that was strange.  /'],c so  that was strange  ,sd,FEMALE,1
+"['{c but, } i think, - /']",c but  i think  ,sv,FEMALE,3
+"['if some people they have, - /']",if some people they have  ,sv,FEMALE,3
+"[""they say, {d well, } we're not going to start a can deposit because you have to get all [ these, + ] {f um, }  [ the, + the ] recycle center, you have to deal with the can and then you have [ to, + to ] recycle it,  /""]",they say d well  were not going to start a can deposit because you have to get all  these   f um    the  the  recycle center you have to deal with the can and then you have  to  to  recycle it  ,sv,FEMALE,3
+"[""{c and, } their problem's already solved because they can just come to states that do have bottle deposits --""]",c and  their problems already solved because they can just come to states that do have bottle deposits ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- see how they handle it,  /']", see how they handle it  ,+,FEMALE,0
+"[""{c and } see if it's a good way,  /""]",c and  see if its a good way  ,sd,FEMALE,1
+"['{c and then } do it that way.   because, [ as, + ] like i say, people are making money on it. /']",c and then  do it that way   because  as   like i say people are making money on it ,sd,FEMALE,1
+"['{d well, } {d you know, } [ the other, +']",d well  d you know   the other ,sv,MALE,3
+"['the cans [ do, + ] are worth something. /']",the cans  do   are worth something ,sd,FEMALE,1
+"['{d well } the other ] thing is, it also [ [ is, + is a, ] + is ] [ a, + a ] good habit, {f uh, } to, {f uh, } just to conserve resources,  {d you know, } [ where they, + ] {d you know, } because you get in the habit of that, you think in terms [ [ [  of, + of, ] + {f uh, } of, ] + of ] things like saving /']",d well  the other  thing is it also   is  is a   is   a  a  good habit f uh  to f uh  just to conserve resources  d you know   where they   d you know  because you get in the habit of that you think in terms     of  of   f uh  of   of  things like saving ,+,MALE,0

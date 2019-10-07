@@ -1,0 +1,159 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['hi,  /']",hi  ,fp,FEMALE,32
+['this is donna donahue. /'],this is donna donahue ,fp,FEMALE,32
+"['hi, donna. /']",hi donna ,fp,MALE,32
+['hi. /'],hi ,fp,FEMALE,32
+['ready to get started? /'],ready to get started ,qy,MALE,7
+"['{f uh, } yeah,  /']",f uh  yeah  ,ny,FEMALE,9
+['i think so. /'],i think so ,sd,FEMALE,1
+['okay.  <beep>  /'],okay  beep  ,"fo_o_fw_""_by_bc",MALE,0
+['sort of an interesting topic since i just got back from lunch here  <laughter>. /'],sort of an interesting topic since i just got back from lunch here  laughter ,sd,MALE,1
+['okay.  /'],okay  ,b,FEMALE,2
+"['{d well, } what did you have for lunch? /']",d well  what did you have for lunch ,qw,FEMALE,12
+"['{f oh, } [ it was, + {f uh, } <laughter> it was,  ] - /']",f oh   it was  f uh  laughter it was    ,%,MALE,5
+"[""i'm an officer in the air force, /""]",im an officer in the air force ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+['oh.  /'],oh  ,b,FEMALE,2
+"[""{d well, } that's interesting. /""]",d well  thats interesting ,ba,FEMALE,6
+['yeah. /'],yeah ,+,MALE,0
+['okay.  /'],okay  ,b,FEMALE,2
+"['{c so } our topic [ is, + is  ] food today,  /']",c so  our topic  is  is   food today  ,sd,FEMALE,1
+"['is that, -/']",is that ,%,FEMALE,5
+['yeah. /'],yeah ,b,MALE,2
+['okay. /'],okay ,b,FEMALE,2
+"[""if you're having a dinner party, [ what, + what  ] would you serve? /""]",if youre having a dinner party  what  what   would you serve ,qw,MALE,12
+"['okay, <lipsmack> {f uh, }  /']",okay lipsmack f uh   ,^h,FEMALE,27
+['do you want me to go first? /'],do you want me to go first ,qy,FEMALE,7
+['sure. /'],sure ,na,MALE,21
+['okay.  /'],okay  ,^h,FEMALE,27
+"['if i was having a dinner party i would probably, {f um, } have [ [ some, + {f um, } some,  ] + {f uh, } {f um, } some  ] fruit to start with with some apples sliced up and maybe some cheddar cheese and crackers and  grapes and, {f um, } probably serve maybe some wine and beer and maybe have some, {f uh, } {f uh, } salsa and chips around and peanuts.  /']",if i was having a dinner party i would probably f um  have   some  f um  some    f uh  f um  some   fruit to start with with some apples sliced up and maybe some cheddar cheese and crackers and  grapes and f um  probably serve maybe some wine and beer and maybe have some f uh  f uh  salsa and chips around and peanuts  ,sd,FEMALE,1
+"[""{c and then } [ i would have, +  {f um, } let's see. i usually have ] {d like } a little theme when i have a dinner party  /""]",c and then   i would have   f um  lets see i usually have  d like  a little theme when i have a dinner party  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f um, } i would have maybe, {f um, } say if it was {d like } greek night or  something --   *[[sd]]']",f um  i would have maybe f um  say if it was d like  greek night or  something    sd,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {f um, } maybe, {f um, } <lipsmack> on the barbecue we'd put, {f uh, } cubes of lamb or i guess lamb used for greek.   and, {f um, } {d like } a shish kabob,""]", f um  maybe f um  lipsmack on the barbecue wed put f uh  cubes of lamb or i guess lamb used for greek   and f um  d like  a shish kabob,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['and, {f um, } mushrooms and tomatoes and onions  /']",and f um  mushrooms and tomatoes and onions  ,+,FEMALE,0
+"[""{c and then } we'd have, {f um, } <lipsmack> {d like } a big greek tossed salad kind of like a caesar salad. /""]",c and then  wed have f um  lipsmack d like  a big greek tossed salad kind of like a caesar salad ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""{c and, } {f um, } let's see what else.  /""]",c and  f um  lets see what else  ,t1,FEMALE,37
+"['{f um, } maybe some rolls and, {f um, } i guess some, {f uh, } some rice or something like that.  /']",f um  maybe some rolls and f um  i guess some f uh  some rice or something like that  ,sd,FEMALE,1
+['how does that sound?  <laughter>. /'],how does that sound  laughter ,qw,FEMALE,12
+"['jeez,  /']",jeez  ,ba,MALE,6
+"['[ {d well, } +  {d well, } ]  when is the party here?  <laughter>. /']", d well    d well    when is the party here  laughter ,qh,MALE,26
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['<laughter>  {f um, } yeah,  /']",laughter  f um  yeah  ,%,FEMALE,5
+['that would take some planning  /'],that would take some planning  ,sd,FEMALE,1
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""i don't know  /""]",i dont know  ,h,MALE,15
+"[""[ being a, + being  ] the bachelor here that i am, [ i, + i ] don't think [ i'd, + i'd ] [ be a-, + b-,  ] - /""]", being a  being   the bachelor here that i am  i  i  dont think  id  id   be a  b    ,sd,MALE,1
+"[""{e i mean } [ it, +  it's ] not a question of capability here to do something like that.  /""]",e i mean   it   its  not a question of capability here to do something like that  ,sd,MALE,1
+"[""it's just  [ there's, + there's  ] no motivation. /""]",its just   theres  theres   no motivation ,sd,MALE,1
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"['{d you know, } [ i want to, + i want to ] throw some charcoal on the grill [ and, + and ] throw a steak on there and some baked potatoes and  stuff like that  /']",d you know   i want to  i want to  throw some charcoal on the grill  and  and  throw a steak on there and some baked potatoes and  stuff like that  ,sd,MALE,1
+"['{c but, } {f um, } -/']",c but  f um  ,%,MALE,5
+"['{d well, } that sounds good too.  /']",d well  that sounds good too  ,ba,FEMALE,6
+"['[ i have, + {f um, } i have  ] three kids -- /']", i have  f um  i have   three kids  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {c so, } {f um, } when we have friends over i have my oldest kind of baby-sit for the little two younger ones upstairs  /']", c so  f um  when we have friends over i have my oldest kind of babysit for the little two younger ones upstairs  ,sd,FEMALE,1
+"['{c and, } {f um, } usually we just have very plain kind of, {d you know, } [ interesting, + not very interesting  ] meals.']",c and  f um  usually we just have very plain kind of d you know   interesting  not very interesting   meals,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['pizza and that  (( all /'],pizza and that   all ,+,FEMALE,0
+"[""{c so } ))  once in a while when we do something like that it's kind of fun,  /""]",c so    once in a while when we do something like that its kind of fun  ,sd,FEMALE,1
+"[""{c but } it's  [ not a, +""]",c but  its   not a ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['not a ] regular thing.  <laughter>  /'],not a  regular thing  laughter  ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['{d now } are we supposed to talk for about five minutes,  /']",d now  are we supposed to talk for about five minutes  ,+,FEMALE,0
+['it?'],it,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+"[""that's what [ they, +""]",thats what  they ,sd,MALE,1
+['they  ] are shooting for here. /'],they   are shooting for here ,+,MALE,0
+['okay.  /'],okay  ,bk,FEMALE,14
+"[""{f um, } let's see now  /""]",f um  lets see now  ,^h,FEMALE,27
+"['wh-, - /']",wh  ,%,FEMALE,5
+"['okay,  /']",okay  ,%,FEMALE,5
+"['{d so } you would have a barbecue wouldn-, -/']",d so  you would have a barbecue wouldn ,qy,FEMALE,7
+"['{d well, } [ i live on a, + i live on a ] lake here, /']",d well   i live on a  i live on a  lake here ,no,MALE,31
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ {c and, } + {f uh, } {c so }  ] it, - /']", c and   f uh  c so    it  ,%,MALE,5
+"[""{c and then } during the summertime it's real nice to be able to entertain outdoors, /""]",c and then  during the summertime its real nice to be able to entertain outdoors ,sd,MALE,1
+"['{f oh, } sure. /']",f oh  sure ,ba,FEMALE,6
+"[""{d like } that's a little more a casual thing.  /""]",d like  thats a little more a casual thing  ,sd,MALE,1
+"[""{c but } in  [ (( mine )) + ]  the wintertime it's not bad too because then i've got [ a, + a  ] fireplace and a nice, nice house and all that  /""]",c but  in    mine     the wintertime its not bad too because then ive got  a  a   fireplace and a nice nice house and all that  ,sd,MALE,1
+"['{c so } we,']",c so  we,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f oh, } that sounds wonderful. /']",f oh  that sounds wonderful ,ba,FEMALE,6
+['really good place to do entertaining like that. - /'],really good place to do entertaining like that  ,+,MALE,0
+"[""i just haven't, {f uh, } really tried a whole lot  /""]",i just havent f uh  really tried a whole lot  ,sd,MALE,1
+"['{c but, } {f uh } --']",c but  f uh  ,h,MALE,15
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- i don't know,  /""]", i dont know  ,+,MALE,0
+"[""let's see.  /""]",lets see  ,^h,MALE,27
+"['[ i have had, +  {d well, } one time i did have ] a dinner party.  /']", i have had   d well  one time i did have  a dinner party  ,sd,MALE,1
+"['i served a, {f uh, } {f uh, } - /']",i served a f uh  f uh   ,%,MALE,5
+"['i had a gang of people over and kind of made a fried chicken thing and biscuits,']",i had a gang of people over and kind of made a fried chicken thing and biscuits,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""and kind of [ southern, + {f uh, } southern  ] food even though i'm up here in new york,  /""]",and kind of  southern  f uh  southern   food even though im up here in new york  ,+,MALE,0
+['{c so } <laughter>. -/'],c so  laughter ,%,MALE,5
+"['{f oh, } you are in new york right now? /']",f oh  you are in new york right now ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,MALE,9
+['oh.  /'],oh  ,b,FEMALE,2
+"[""[ i'm, + i'm  ] in texas.  /""]", im  im   in texas  ,sd,FEMALE,1
+"[""i didn't know this was [ all, + from all  ] over the whole country. /""]",i didnt know this was  all  from all   over the whole country ,sd,FEMALE,1
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,MALE,4
+"['yeah, /']",yeah ,aa,MALE,4
+"['{f oh, } i see. /']",f oh  i see ,bk,FEMALE,14
+['it is.  /'],it is  ,sd,MALE,1
+"[""it's, -/""]",its ,%,MALE,5
+"[""{c and } i'm [ fr-, + originally from  ] long island. /""]",c and  im  fr  originally from   long island ,sd,FEMALE,1
+"['{f oh, } no kidding? /']",f oh  no kidding ,qy,MALE,7
+"['yes,  /']",yes  ,ny,FEMALE,9
+['{c and } {d now } where are you in new york? /'],c and  d now  where are you in new york ,qw,FEMALE,12
+['upstate. /'],upstate ,sd,MALE,1
+"['{f oh, } upstate. /']",f oh  upstate ,b^m,FEMALE,24
+['rome.  /'],rome  ,sd,MALE,1
+"['in, {f uh, }']",in f uh ,sd,MALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+['(( griffins ))  air force base. /'], griffins   air force base ,+,MALE,0
+"['{f oh, } okay.  /']",f oh  okay  ,bk,FEMALE,14
+"['is that where [ you, + you ] are originally from around there? /']",is that where  you  you  are originally from around there ,qy,FEMALE,7
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"['{c and, } {f uh, } been all over the place. /']",c and  f uh  been all over the place ,sd,MALE,1
+"['{f oh, } wow.  /']",f oh  wow  ,ba,FEMALE,6
+"[""that's interesting.  /""]",thats interesting  ,ba,FEMALE,6
+"['okay,  /']",okay  ,^h,FEMALE,27
+"[""let's see.  /""]",lets see  ,^h,FEMALE,27
+"[""{f um, } {d well, } [ i like to have, +  {f um, } sometimes when i have a dinner party i'll have, ]   {f um, } everybody bring something, /""]",f um  d well   i like to have   f um  sometimes when i have a dinner party ill have    f um  everybody bring something ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c and } that's real interesting because then you get  [ different, + {f um, } different  ] kinds of foods and new recipes  /""]",c and  thats real interesting because then you get   different  f um  different   kinds of foods and new recipes  ,sd,FEMALE,1
+"['{c and, } {f um, } {f uh, } sometimes somebody will be bring something that you really like, /']",c and  f um  f uh  sometimes somebody will be bring something that you really like ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+['{c and } get the recipe from them or whatever.  /'],c and  get the recipe from them or whatever  ,sd,FEMALE,1
+"['{c and } we are just getting interested [ in, + in  ] mexican food  /']",c and  we are just getting interested  in  in   mexican food  ,sd,FEMALE,1
+"['{c because } here in texas they have lots of,']",c because  here in texas they have lots of,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['really good mexican restaurants  /'],really good mexican restaurants  ,+,FEMALE,0
+"['{c and, }']",c and ,sd,FEMALE,1
+['sure. /'],sure ,ba,MALE,6
+"[""{f um, } [ we're, + we're  ] just getting into the fajitas and all that stuff that you could, - /""]",f um   were  were   just getting into the fajitas and all that stuff that you could  ,+,FEMALE,0
+['do you know what a fajita is? /'],do you know what a fajita is ,qy,FEMALE,7
+['yeah.  /'],yeah  ,ny,MALE,9
+"['yeah, /']",yeah ,ny,MALE,9
+['yeah. /'],yeah ,b,FEMALE,2
+"[""i've been down to texas a few times,""]",ive been down to texas a few times,sd,MALE,1
+['okay. /'],okay ,bk,FEMALE,14
+"['and, {f uh, } had, {f uh, } the pleasure of their good mexican,']",and f uh  had f uh  the pleasure of their good mexican,+,MALE,0
+['yes. /'],yes ,b,FEMALE,2
+['cuisine down there. /'],cuisine down there ,+,MALE,0
+"['they have some delicious, delicious things,  /']",they have some delicious delicious things  ,sv,FEMALE,3
+"['{c and } i, {f um, } - /']",c and  i f um   ,%,FEMALE,5
+['since i always make chicken burritos and just --'],since i always make chicken burritos and just ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- take chicken breasts  /'], take chicken breasts  ,+,FEMALE,0
+"['{c and } you boil them, maybe like four chicken breasts,  /']",c and  you boil them maybe like four chicken breasts  ,sd,FEMALE,1
+['{c and } you boil them until they are cooked.'],c and  you boil them until they are cooked,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['maybe like thirty minutes  /'],maybe like thirty minutes  ,+,FEMALE,0
+"['{c and } then you debone them [ and, + and  ]  kind of shred them up into the meat  (( that has gotten ))  cooled  /']",c and  then you debone them  and  and    kind of shred them up into the meat   that has gotten   cooled  ,sd,FEMALE,1
+"['{c and } you take, {f um, } [ s-, + ] little bit, maybe two tablespoons of butter  [ and  a fr-, + ] in a big frying pan.  and chop up some onion and put in oregano and salt, /']",c and  you take f um   s   little bit maybe two tablespoons of butter   and  a fr   in a big frying pan  and chop up some onion and put in oregano and salt ,sd,FEMALE,1

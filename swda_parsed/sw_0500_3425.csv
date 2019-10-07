@@ -1,0 +1,92 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['hi,  /']",hi  ,fp,FEMALE,32
+"['my name is donna,  /']",my name is donna  ,fp,FEMALE,32
+"[""{c and } i'm [ calling, + calling ] from plano, texas.  /""]",c and  im  calling  calling  from plano texas  ,fp,FEMALE,32
+"[""i'm jay in dallas. /""]",im jay in dallas ,fp,MALE,32
+"['{f oh, } okay, {f um, }  /']",f oh  okay f um   ,bk,FEMALE,14
+"[""i, {f um, } find exercise kind of a task,  i guess i'd say.  /""]",i f um  find exercise kind of a task  i guess id say  ,sd,FEMALE,1
+"['i go to aerobics <child_yelling> two days a week,  /']",i go to aerobics childyelling two days a week  ,sd,FEMALE,1
+['{c but } i also have <child_yelling> three kids at home  /'],c but  i also have childyelling three kids at home  ,sd,FEMALE,1
+['{c so } they keep me pretty busy. /'],c so  they keep me pretty busy ,sd,FEMALE,1
+['that keeps you plenty of exercise  ((   )) . /'],that keeps you plenty of exercise       ,bf,MALE,20
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['that gives me plenty of exercise,  /']",that gives me plenty of exercise  ,sd,FEMALE,1
+"['{c but } i enjoy, {f um, } <child_yelling> walking outside and <child_yelling> bicycling once in a while with the family.  /']",c but  i enjoy f um  childyelling walking outside and childyelling bicycling once in a while with the family  ,sd,FEMALE,1
+['excuse me <noise> <<muffled sound as if hand over the phone>>.  /'],excuse me noise muffled sound as if hand over the phone  ,ad,FEMALE,22
+"[""that's fine.  /""]",thats fine  ,t3,FEMALE,35
+['and yourself. /'],and yourself ,t3,FEMALE,35
+"['{d well, } [ i, + {f uh, } i  ] have, - /']",d well   i  f uh  i   have  ,%,MALE,5
+"['i walked and run [ ev-, + {f um, } almost every ] morning.  /']",i walked and run  ev  f um  almost every  morning  ,sd,MALE,1
+"[""i've sort of stopped here with the weather change,  /""]",ive sort of stopped here with the weather change  ,sd,MALE,1
+"[""{c but, } {f uh, } it's about a thirty minute exercise every morning. /""]",c but  f uh  its about a thirty minute exercise every morning ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['every morning.  /'],every morning  ,b^m,FEMALE,24
+"['{d well, } my husband swims every day at lunch, which he loves doing -- /']",d well  my husband swims every day at lunch which he loves doing  ,sd,FEMALE,1
+"['{f oh, } that would, - /']",f oh  that would  ,ba,MALE,6
+"[""that's fantastic exercise. /""]",thats fantastic exercise ,ba,MALE,6
+"['-- yeah,  /']", yeah  ,aa,FEMALE,4
+['he does it every day like a ritual.  /'],he does it every day like a ritual  ,sd,FEMALE,1
+"[""once in a while or if he has a business meeting or if [ he, + {f um, } someone   invites him ] to lunch, [ he'll, + he'll ] not go,  /""]",once in a while or if he has a business meeting or if  he  f um  someone   invites him  to lunch  hell  hell  not go  ,sd,FEMALE,1
+"['{c but } he goes, {f um, } [ every, + every  ] day,  /']",c but  he goes f um   every  every   day  ,sd,FEMALE,1
+"[""{c and then } [ he ru-, + he's a runner, ] too.  /""]",c and then   he ru  hes a runner  too  ,sd,FEMALE,1
+['he runs three mornings a week  /'],he runs three mornings a week  ,sd,FEMALE,1
+"['he gets up about five  [ and, + and  ] --']",he gets up about five   and  and   ,sd,FEMALE,1
+['{f um. } /'],f um  ,b,MALE,2
+"['-- does [ his, + his ] deal,  /']", does  his  his  deal  ,+,FEMALE,0
+"[""{c and } some days he doesn't,  /""]",c and  some days he doesnt  ,sd,FEMALE,1
+"[""{c but } then maybe he'll catch up on the weekend and go for a run. /""]",c but  then maybe hell catch up on the weekend and go for a run ,sd,FEMALE,1
+['all right. /'],all right ,ba,MALE,6
+"['{c and, } {f um, } we  ((   )) . -/']",c and  f um  we       ,%,FEMALE,5
+"[""i'd rather get a bicycle,  /""]",id rather get a bicycle  ,sd,MALE,1
+"[""{c but } [ i have an ex-, + i had an exercise ] bike in the house, but didn't seem to  use it enough,  /""]",c but   i have an ex  i had an exercise  bike in the house but didnt seem to  use it enough  ,sd,MALE,1
+"['{c so } somebody sold it in a garage sale,  /']",c so  somebody sold it in a garage sale  ,sd,MALE,1
+"['[ {c and so, } +  {f uh } --']", c and so    f uh  ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+"[""-- {c but } ] i'd like to get a bike and just [ do, + {f uh, } do ] biking outside. /""]", c but   id like to get a bike and just  do  f uh  do  biking outside ,+,MALE,0
+"['[ [ the, + the, ] + the ] bicycling is nice especially with the weather around here,  /']",  the  the   the  bicycling is nice especially with the weather around here  ,sd,FEMALE,1
+"['{c and } i know, {f um, } {f uh, } [ [ [ we, + we ] +  both  of, ]  + my husband and i both + ] do it to just <child_yelling> keep the pounds off.  /']",c and  i know f um  f uh     we  we    both  of    my husband and i both   do it to just childyelling keep the pounds off  ,sd,FEMALE,1
+"[""we're getting up in age, i guess, in our late thirties  /""]",were getting up in age i guess in our late thirties  ,sd,FEMALE,1
+['{c so } we need to --'],c so  we need to ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- keep exercising just to be able to, {f uh. } -/']", keep exercising just to be able to f uh  ,+,FEMALE,0
+"['it keeps going,  /']",it keeps going  ,sv,MALE,3
+"[""{c because } i'm fifty-five,  /""]",c because  im fiftyfive  ,sd,MALE,1
+"['{c and } [ it, +  {f uh, } it ] just gets worse.  /']",c and   it   f uh  it  just gets worse  ,sv,MALE,3
+"['you still want to eat,  /']",you still want to eat  ,sv,MALE,3
+"['[ {c and, } +  {f uh } --']", c and    f uh  ,%,MALE,5
+"['{f oh, } i know. /']",f oh  i know ,aa,FEMALE,4
+"['-- {c but } ] you just, - /']", c but   you just  ,+,MALE,0
+"['i think you feel better, too, if you get on some program like that,  /']",i think you feel better too if you get on some program like that  ,sv,MALE,3
+"['{c but, } {f uh. } -/']",c but  f uh  ,%,MALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['i go to this aerobics class two mornings a week,  /']",i go to this aerobics class two mornings a week  ,sd,FEMALE,1
+['{c and } i take my three year old with me.  /'],c and  i take my three year old with me  ,sd,FEMALE,1
+"[""there's a nursery there.  /""]",theres a nursery there  ,sd,FEMALE,1
+"[""{c and } it's kind of another day out for her --""]",c and  its kind of another day out for her ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- to, {f um, } have little friends,  /']", to f um  have little friends  ,+,FEMALE,0
+"['{c and, } {f um, } [ i, + i ] enjoy the socialization of it, {d you know, }  /']",c and  f um   i  i  enjoy the socialization of it d you know   ,sd,FEMALE,1
+['getting to see the same women every --'],getting to see the same women every ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['-- morning,  /']", morning  ,+,FEMALE,0
+"['{c but } {f um, } there are some parts during that exercise that i think, i cannot do <laughter> another --']",c but  f um  there are some parts during that exercise that i think i cannot do laughter another ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+['-- second of this. /'], second of this ,+,FEMALE,0
+"['i know [ [ [ it, + it, ] + it, ] + some of it ] is so tough -- /']",i know    it  it   it   some of it  is so tough  ,aa,MALE,4
+['it is. /'],it is ,aa,FEMALE,4
+"[""-- {c and, } {f uh, } especially when somebody's, {f uh, } planning lunch for you and they know [ what, + what's ] good for you,  /""]", c and  f uh  especially when somebodys f uh  planning lunch for you and they know  what  whats  good for you  ,sv,MALE,3
+"['i think when we do it ourselves,  /']",i think when we do it ourselves  ,sv,MALE,3
+['we take the easy way sometimes. /'],we take the easy way sometimes ,sv,MALE,3
+"[""that's true,  /""]",thats true  ,aa,FEMALE,4
+"[""that's true. /""]",thats true ,aa,FEMALE,4
+['{c so. } -/'],c so  ,%,MALE,5
+['{d well. } /'],d well  ,%,FEMALE,5
+['{d so } anyway -- -/'],d so  anyway  ,%,MALE,5
+"['okay, {d well. } /']",okay d well  ,"fo_o_fw_""_by_bc",FEMALE,0
+['-- thank you for calling. /'], thank you for calling ,fc,MALE,10
+"['yes,  /']",yes  ,fc,FEMALE,10
+['thank  you for participating. /'],thank  you for participating ,fc,FEMALE,10
+['all right. /'],all right ,fc,MALE,10
+['thank you.  /'],thank you  ,fc,FEMALE,10
+['bye. /'],bye ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,MALE,10

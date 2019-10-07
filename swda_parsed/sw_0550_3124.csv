@@ -1,0 +1,240 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d well, } the weather [ has been, + certainly has been  ] hot  /']",d well  the weather  has been  certainly has been   hot  ,sd,FEMALE,1
+"[""{c and } it's been humid.  /""]",c and  its been humid  ,sd,FEMALE,1
+"[""i don't remember a year in a long time that the humidity has stayed up this high [ for, +  {f uh, } this late into, ] {f uh, } - /""]",i dont remember a year in a long time that the humidity has stayed up this high  for   f uh  this late into  f uh   ,sd,FEMALE,1
+"[""{d well, } it's not really late into the summer,  /""]",d well  its not really late into the summer  ,sd,FEMALE,1
+"['{c but } [ the, + the  ] humidity has hung around all of june. /']",c but   the  the   humidity has hung around all of june ,sd,FEMALE,1
+['yeah.  /'],yeah  ,b,FEMALE,2
+['are you native to this area? /'],are you native to this area ,qy,FEMALE,7
+"['no,  /']",no  ,nn,FEMALE,13
+"['i grew up in michigan,  /']",i grew up in michigan  ,sd,FEMALE,1
+"['{f oh, } okay. /']",f oh  okay ,bk,FEMALE,14
+"[""{c but } ] [ i've been, + i've been ] in texas for fifteen years. /  *[[sd]]""]",c but    ive been  ive been  in texas for fifteen years   sd,+,FEMALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['[ {c so, } +  {f uh, } {c but, } ] {d you know, } i know the summers get hot  /']", c so    f uh  c but   d you know  i know the summers get hot  ,sd,FEMALE,1
+['{c but } --'],c but  ,%,FEMALE,5
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- it certainly, {f uh, } - /']", it certainly f uh   ,+,FEMALE,0
+['this humidity has just really hung on there. /'],this humidity has just really hung on there ,sd,FEMALE,1
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['it seemed like, {d well, } {d you know, } last year was so strange having all those heavy, heavy rains in april  /']",it seemed like d well  d you know  last year was so strange having all those heavy heavy rains in april  ,sv,FEMALE,3
+"[""{c and } this year we really didn't have heavy rains until may.  /""]",c and  this year we really didnt have heavy rains until may  ,sv,FEMALE,3
+['kind of like pushed the season back a little farther  /'],kind of like pushed the season back a little farther  ,sv,FEMALE,3
+"[""{c and } now it's kind of lingering with kind of still a bit of humidity  /""]",c and  now its kind of lingering with kind of still a bit of humidity  ,sv,FEMALE,3
+"['{c and } it just tried to rain,  /']",c and  it just tried to rain  ,sd,FEMALE,1
+"['{e i mean, } i was coming in from my car just a few minutes ago  /']",e i mean  i was coming in from my car just a few minutes ago  ,sd,FEMALE,1
+['{c and } it was trying to rain which --'],c and  it was trying to rain which ,sd,FEMALE,1
+['yes. /'],yes ,aa,FEMALE,4
+['-- seems strange to have it raining in july.  /'], seems strange to have it raining in july  ,+,FEMALE,0
+"[""normally we don't have too much, {f uh, } humidity [ or, + or, ] {f uh, } rainy time when it's past june. /""]",normally we dont have too much f uh  humidity  or  or  f uh  rainy time when its past june ,sv,FEMALE,3
+"[""{f oh, } that's right,  /""]",f oh  thats right  ,aa,FEMALE,4
+"[""that's right.  /""]",thats right  ,aa,FEMALE,4
+"['i can remember it not, - /']",i can remember it not  ,sd,FEMALE,1
+"[""it's really august that it happens.  /""]",its really august that it happens  ,sd,FEMALE,1
+"[""you get those great big cracks in the ground where it's been so dry -- /""]",you get those great big cracks in the ground where its been so dry  ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+['-- {c and } it just gets so dry  /'], c and  it just gets so dry  ,sd,FEMALE,1
+"['{c  and, } the earth opens up.  /']",c  and  the earth opens up  ,sd,FEMALE,1
+['i can remember the first year i moved here -- /'],i can remember the first year i moved here  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {c and } it didn't rain,  /""]", c and  it didnt rain  ,sd,FEMALE,1
+['i moved here {d like } in late august  /'],i moved here d like  in late august  ,sd,FEMALE,1
+"[""{c and } it didn't rain from august until december  /""]",c and  it didnt rain from august until december  ,sd,FEMALE,1
+"['{c and, }']",c and ,sd,FEMALE,1
+['<laughter>.'],laughter,x,FEMALE,8
+"[""i went home and told it just doesn't rain in texas.  /""]",i went home and told it just doesnt rain in texas  ,+,FEMALE,0
+"['{e i mean } it was great after growing up in michigan [ and not, + and  ] [ al-, +  {d you know,  } every ] day was cloudy,  /']",e i mean  it was great after growing up in michigan  and not  and    al   d you know   every  day was cloudy  ,sd,FEMALE,1
+['almost every day was cloudy  /'],almost every day was cloudy  ,sd,FEMALE,1
+"['{c and } [ i, +  you ] sort of forget how much it did rain  /']",c and   i   you  sort of forget how much it did rain  ,sd,FEMALE,1
+"[""{c and } coming here and then it didn't rain,  /""]",c and  coming here and then it didnt rain  ,sd,FEMALE,1
+['it was just wonderful. /'],it was just wonderful ,sd,FEMALE,1
+"['{d well, } yeah,  /']",d well  yeah  ,b,FEMALE,2
+"['{d see } [ i, + i ] lived in, {f uh, } ohio mainly.  /']",d see   i  i  lived in f uh  ohio mainly  ,sd,FEMALE,1
+"['i lived in, {f uh, } pontiac just a little while before i came --']",i lived in f uh  pontiac just a little while before i came ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+['-- down here  /'], down here  ,+,FEMALE,0
+"['{c and, } {d you know, } so many times when you were trying to schedule outdoor activities, you just never knew if it was going to be a go or not because of the weather.   /']",c and  d you know  so many times when you were trying to schedule outdoor activities you just never knew if it was going to be a go or not because of the weather   ,sv,FEMALE,3
+['it might rain on your little parade. /'],it might rain on your little parade ,sv,FEMALE,3
+"[""that's right,  /""]",thats right  ,aa,FEMALE,4
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+"['{d you know, } {c and } here it was like, pretty much you could schedule some activity outside anytime  /']",d you know  c and  here it was like pretty much you could schedule some activity outside anytime  ,sd,FEMALE,1
+"[""{c and } you really didn't have too much of a chance of it getting rained out. /""]",c and  you really didnt have too much of a chance of it getting rained out ,sv,FEMALE,3
+['yeah. /'],yeah ,b,FEMALE,2
+['you could pretty much do whatever you wanted to do. /'],you could pretty much do whatever you wanted to do ,sv,FEMALE,3
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+['what part of michigan were you living in? /'],what part of michigan were you living in ,qw,FEMALE,12
+"['{f oh, } i grew up in dearborn --']",f oh  i grew up in dearborn ,sd,FEMALE,1
+['okay. /'],okay ,bk,FEMALE,14
+"['-- which is a suburb [ of, + of  ] detroit. /']", which is a suburb  of  of   detroit ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['you probably know where that is because i know where pontiac is,  /']",you probably know where that is because i know where pontiac is  ,sv,FEMALE,3
+['<laughter>.'],laughter,x,FEMALE,8
+"['<laughter> anyway, - /']",laughter anyway  ,+,FEMALE,0
+['yeah. /'],yeah ,%,FEMALE,5
+['what brought you down here? /'],what brought you down here ,qw,FEMALE,12
+"['{f oh, } a teaching job. /']",f oh  a teaching job ,sd,FEMALE,1
+['{c so } you teach in plano schools? /'],c so  you teach in plano schools ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,FEMALE,9
+"['[ i did, + i did ] for a while,  /']", i did  i did  for a while  ,sd,FEMALE,1
+['uh-huh.  /'],uhhuh  ,ny,FEMALE,9
+"[""{c so, } i'm [ home with, + home with ] two children,  /""]",c so  im  home with  home with  two children  ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['{c so, } ] -/']",c so   ,+,FEMALE,0
+['okay <<faint>>. /'],okay faint ,bk,FEMALE,14
+['[ new career. +'], new career ,sd,FEMALE,1
+['okay. /'],okay ,bk,FEMALE,14
+['new career  ]  /'],new career    ,+,FEMALE,0
+"['{c but, } {f uh, } anyway, - /']",c but  f uh  anyway  ,%,FEMALE,5
+"['{c so } that kind of, {f uh, } - /']",c so  that kind of f uh   ,%,FEMALE,5
+"['{d well, } i had been down here to visit  /']",d well  i had been down here to visit  ,sd,FEMALE,1
+"[""{c so } i  ((   ))  school and said hey, let's, {d you know, } find a place that has a nice job  /""]",c so  i       school and said hey lets d you know  find a place that has a nice job  ,sd,FEMALE,1
+"[""{c and, } {f uh, } that's how it worked out. /""]",c and  f uh  thats how it worked out ,sd,FEMALE,1
+"['{d well, } yeah,  /']",d well  yeah  ,b,FEMALE,2
+"['i think a lot of people were, {f uh, } leaving michigan all about the time i came here in the early eighties  /']",i think a lot of people were f uh  leaving michigan all about the time i came here in the early eighties  ,sv,FEMALE,3
+['{c and } it seemed like it was almost a mass exodus. /'],c and  it seemed like it was almost a mass exodus ,sv,FEMALE,3
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['you know, [ the, + the ] little joke about, will the last person leaving michigan just turn out the light <laughter>. /']",you know  the  the  little joke about will the last person leaving michigan just turn out the light laughter ,sd,FEMALE,1
+"[""{f oh, } {d well, } it's a nice place, {d you know, }  /""]",f oh  d well  its a nice place d you know   ,sv,FEMALE,3
+"[""{e i mean }    [ [ it's, +  it's   a nice, ] +  that's a nice ] place, though. /""]",e i mean       its   its   a nice    thats a nice  place though ,sv,FEMALE,3
+"['{d well, } {d you know, } [ i, + i ] said i lived in, {f uh, } the pontiac.  /']",d well  d you know   i  i  said i lived in f uh  the pontiac  ,sd,FEMALE,1
+"[""i didn't live in the city of pontiac,  /""]",i didnt live in the city of pontiac  ,sd,FEMALE,1
+['i lived to the west of it.  /'],i lived to the west of it  ,sd,FEMALE,1
+"['{f uh, } i forget [ the, + the  ] county,  /']",f uh  i forget  the  the   county  ,sd,FEMALE,1
+['{c but } {d you know } where all the lakes are around there. /'],c but  d you know  where all the lakes are around there ,sd,FEMALE,1
+"['okay,  /']",okay  ,bk,FEMALE,14
+['sort of. /'],sort of ,h,FEMALE,15
+['i lived in an apartment complex on one of the lakes.  /'],i lived in an apartment complex on one of the lakes  ,sd,FEMALE,1
+['it was real close to where i worked.   /'],it was real close to where i worked   ,sd,FEMALE,1
+['it was only {d like } four miles to work  /'],it was only d like  four miles to work  ,sd,FEMALE,1
+['{c and } it was wonderful being on the lake like that.  /'],c and  it was wonderful being on the lake like that  ,sd,FEMALE,1
+"[""{d you know, } in the summer, you feel like you're, {d you know, } on a vacation all the time because you're right on a lake  /""]",d you know  in the summer you feel like youre d you know  on a vacation all the time because youre right on a lake  ,sd,FEMALE,1
+"[""{c and }  everybody's,  {d you know, } out enjoying the water and such,  /""]",c and   everybodys  d you know  out enjoying the water and such  ,sd,FEMALE,1
+"['{c and, } {f uh, } in the winter time the lakes froze over,  /']",c and  f uh  in the winter time the lakes froze over  ,sd,FEMALE,1
+['you could still kind of go sledding and such out there  /'],you could still kind of go sledding and such out there  ,sd,FEMALE,1
+['{c but } i thought it was just really neat to be out there on all those lakes.  /'],c but  i thought it was just really neat to be out there on all those lakes  ,sd,FEMALE,1
+"[""there's lots of really small ones out there. /""]",theres lots of really small ones out there ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, } {d like } maybe a mile, two long. /']",d you know  d like  maybe a mile two long ,sd,FEMALE,1
+['yeah. /'],yeah ,sd,FEMALE,1
+"[""that's enough to, {f uh, } do some boating -- /""]",thats enough to f uh  do some boating  ,sv,FEMALE,3
+"[""that's right. /""]",thats right ,aa,FEMALE,4
+['-- {c and } it was lots of fun. /'], c and  it was lots of fun ,sd,FEMALE,1
+"[""that's right.  /""]",thats right  ,aa,FEMALE,4
+['{f um. } /'],f um  ,b,FEMALE,2
+"['which is, - /']",which is  ,+,FEMALE,0
+"[""{d well, } [ i think it's, + i think it's ] toward ann arbor,  /""]",d well   i think its  i think its  toward ann arbor  ,sd,FEMALE,1
+"[""{c so } it's probably out in that direction,  /""]",c so  its probably out in that direction  ,sd,FEMALE,1
+"[""{c but } that's the only one i probably could name --""]",c but  thats the only one i probably could name ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- after all these years <laughter>  /'], after all these years laughter  ,+,FEMALE,0
+"['[ {c so, } +']", c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c but, } ] {f uh, } -/']",c but   f uh  ,+,FEMALE,0
+"['{c but } it was,  {d yeah, }  just lots of little lakes  /']",c but  it was  d yeah   just lots of little lakes  ,sd,FEMALE,1
+"['{c and, } of course, it was,  {d you know, } a little more expensive to live on the lake,  /']",c and  of course it was  d you know  a little more expensive to live on the lake  ,sd,FEMALE,1
+['{c but } i just thought that was grand.   /'],c but  i just thought that was grand   ,sd,FEMALE,1
+"[""{c and } i think a lot of people didn't really know that there were all those lakes out there unless you were from that area and kind of spotted them,  /""]",c and  i think a lot of people didnt really know that there were all those lakes out there unless you were from that area and kind of spotted them  ,sv,FEMALE,3
+['{c but } there was quite a few lakes all around there.  /'],c but  there was quite a few lakes all around there  ,sd,FEMALE,1
+"['[ it seemed like, +  it was almost like ] you were living on an island  /']", it seemed like   it was almost like  you were living on an island  ,sv,FEMALE,3
+['there was so much water around where i was.  /'],there was so much water around where i was  ,sd,FEMALE,1
+"[""(( i said ))  i wasn't close to downtown pontiac,  /""]", i said   i wasnt close to downtown pontiac  ,sd,FEMALE,1
+"['i was way out to the west maybe four or five miles [ from, + from  ] the city limits  /']",i was way out to the west maybe four or five miles  from  from   the city limits  ,sd,FEMALE,1
+['{c and } it was really nice out there. /'],c and  it was really nice out there ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['we had, {f uh, } pine knob --']",we had f uh  pine knob ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- {d you know, } to go skiing --']", d you know  to go skiing ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+['-- and stuff. /'], and stuff ,+,FEMALE,0
+['right. /'],right ,b,FEMALE,2
+['{c so } there were things around there.  /'],c so  there were things around there  ,sd,FEMALE,1
+['really was pretty nice. /'],really was pretty nice ,sd,FEMALE,1
+"['sure,  /']",sure  ,ba,FEMALE,6
+"['sure,  /']",sure  ,ba,FEMALE,6
+"[""{c and } [ d-, +  isn't ] that where they have a summer music festival  there, too? /""]",c and   d   isnt  that where they have a summer music festival  there too ,qy,FEMALE,7
+"['right,  /']",right  ,na,FEMALE,21
+['right  /'],right  ,na,FEMALE,21
+['in the summertime they have musicals there  /'],in the summertime they have musicals there  ,sd,FEMALE,1
+['{c and } in the winter time they make snow and have a ski slope. /'],c and  in the winter time they make snow and have a ski slope ,sd,FEMALE,1
+"[""that's right,  /""]",thats right  ,bk,FEMALE,14
+"[""that's right.  /""]",thats right  ,bk,FEMALE,14
+"['i know, we used to, - /']",i know we used to  ,%,FEMALE,5
+"[""[ we, + we  ] didn't do a lot of it,  /""]", we  we   didnt do a lot of it  ,sd,FEMALE,1
+['{c but } [ we did. +'],c but   we did ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['we did,  ]  /']",we did    ,+,FEMALE,0
+['{c so } those are always fun.  /'],c so  those are always fun  ,sv,FEMALE,3
+"['{c and }  alpine, was it alpine was another ski slope --']",c and   alpine was it alpine was another ski slope ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- that we went to,  /']", that we went to  ,+,FEMALE,0
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['it was nice.  /'],it was nice  ,+,FEMALE,0
+"['i always tell people <laughter> that in the winter  [ we use, + we used  ] to, {f uh, } - /']",i always tell people laughter that in the winter   we use  we used   to f uh   ,sd,FEMALE,1
+"['my dad would kind of bank up the snow in the backyard and turn the hose on, {d you know, } make a pond in the backyard for us. /']",my dad would kind of bank up the snow in the backyard and turn the hose on d you know  make a pond in the backyard for us ,sd,FEMALE,1
+"['{f oh, } yeah,  /']",f oh  yeah  ,b,FEMALE,2
+['yeah. /'],yeah ,b,FEMALE,2
+"['[ {c so } +  {c but, } ] {f uh, } {d you know, } we probably did some ice skating on it,  /']", c so    c but   f uh  d you know  we probably did some ice skating on it  ,sd,FEMALE,1
+"['{c but } then it [ chipped, + chipped ]  /']",c but  then it  chipped  chipped   ,%,FEMALE,5
+"['{c and, } {d you know, } it would melt or whatever  and get pretty uneven  /']",c and  d you know  it would melt or whatever  and get pretty uneven  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+['we used to have a - /'],we used to have a  ,sd,FEMALE,1
+"['christmas time, {f uh, } some of our relatives would come up from alabama,  /']",christmas time f uh  some of our relatives would come up from alabama  ,sd,FEMALE,1
+['{c and } i think most times we would have snow around christmas  /'],c and  i think most times we would have snow around christmas  ,sd,FEMALE,1
+['{c and } the kids when they were young would just go nuts. /'],c and  the kids when they were young would just go nuts ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['{d you know, } {c because } they were from alabama where it never snowed -- /']",d you know  c because  they were from alabama where it never snowed  ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+"['-- {c and } they just had a grand time watching the snow and getting out there and playing in it, {d you know, } eternally. /']", c and  they just had a grand time watching the snow and getting out there and playing in it d you know  eternally ,sd,FEMALE,1
+['oh. /'],oh ,b,FEMALE,2
+['<laughter>.'],laughter,x,FEMALE,8
+"['{f oh, } right,  /']",f oh  right  ,b,FEMALE,2
+['right.  /'],right  ,b,FEMALE,2
+"[""if only it would make nice snow here in texas, we'd be okay at christmas time. /""]",if only it would make nice snow here in texas wed be okay at christmas time ,sv,FEMALE,3
+"['my first winter here, - /']",my first winter here  ,sd,FEMALE,1
+"['[ i, + i  ] came down in, {f uh, } early eighty-two  /']", i  i   came down in f uh  early eightytwo  ,sd,FEMALE,1
+"['{c and } there was just a freak snowfall early one morning in december [ be-, + couple days before  ] christmas.   /']",c and  there was just a freak snowfall early one morning in december  be  couple days before   christmas   ,sd,FEMALE,1
+"['it lasted only a few hours,  /']",it lasted only a few hours  ,sd,FEMALE,1
+['{d like } --'],d like  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- by noon it was gone. /'], by noon it was gone ,+,FEMALE,0
+['yeah. /'],yeah ,b,FEMALE,2
+"['{c and } i remember getting up and somebody telling me, hey, better wait to go to work because the roads are all, {d you know, } snow <laughter>.  /']",c and  i remember getting up and somebody telling me hey better wait to go to work because the roads are all d you know  snow laughter  ,sd,FEMALE,1
+"[""{c and } i was laughing, going yeah,  right, that's a good practical joke,  /""]",c and  i was laughing going yeah  right thats a good practical joke  ,sd,FEMALE,1
+['ha ha. /'],ha ha ,^q,FEMALE,19
+['<laughter>.'],laughter,x,FEMALE,8
+"[""they said, no really, there's snow  /""]",they said no really theres snow  ,sd,FEMALE,1
+"['{c and } there was, but a very short time  /']",c and  there was but a very short time  ,sd,FEMALE,1
+['{c and }  the weather got warm so quick -- /'],c and   the weather got warm so quick  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- it just melted it all away. /'], it just melted it all away ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['i know. /'],i know ,aa,FEMALE,4
+"[""{c course, } when we get an ice storm, that's not too much fun. /""]",c course  when we get an ice storm thats not too much fun ,sv,FEMALE,3
+"['no,  /']",no  ,aa,FEMALE,4
+"[""that's not fun either,  /""]",thats not fun either  ,sv,FEMALE,3
+"['{c so, } {f uh, } [ i, + i  ] just as soon have all the slushy snow on the streets than have the ice on the streets  /']",c so  f uh   i  i   just as soon have all the slushy snow on the streets than have the ice on the streets  ,sv,FEMALE,3
+"['[ {c so, } +']", c so  ,%,FEMALE,5
+['<laughter>.'],laughter,x,FEMALE,8
+"['{c but, } ] {f uh, } {d well } we have, - /']",c but   f uh  d well  we have  ,+,FEMALE,0
+"['our house is kind of on a little hill,  /']",our house is kind of on a little hill  ,sd,FEMALE,1
+"['{c so, } {f uh, } we get the sled out  /']",c so  f uh  we get the sled out  ,sd,FEMALE,1
+"[""{c and, } {f uh, } the kids go down [ the hi-, + the hill  ] on the sleds when it's icy,  /""]",c and  f uh  the kids go down  the hi  the hill   on the sleds when its icy  ,sd,FEMALE,1
+['{e i mean } they just go down the ice. /'],e i mean  they just go down the ice ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""<laughter> {c and } if it's cold, we say, okay, out you go. /""]",laughter c and  if its cold we say okay out you go ,sd,FEMALE,1
+['<laughter> <noise>.'],laughter noise,x,FEMALE,8
+['i think we must be the only people on the block that make use of that cold weather and get out there. /'],i think we must be the only people on the block that make use of that cold weather and get out there ,sd,FEMALE,1
+"['{f oh, } yeah.  /']",f oh  yeah  ,aa,FEMALE,4
+"[""i think it's fun,  /""]",i think its fun  ,sv,FEMALE,3
+"[""even the couple of ice storms i've gotten out there in my ski pants or something and still just been out and enjoying it a little bit.  /""]",even the couple of ice storms ive gotten out there in my ski pants or something and still just been out and enjoying it a little bit  ,sd,FEMALE,1
+"['{e i mean, } sometimes the ice is pretty bad,  /']",e i mean  sometimes the ice is pretty bad  ,sv,FEMALE,3
+"['{c but } if you get on the, the, {f uh, } grassy kind of part, you get a little bit of traction, {d you know, } not slip and fall.  /']",c but  if you get on the the f uh  grassy kind of part you get a little bit of traction d you know  not slip and fall  ,sv,FEMALE,3
+"['{e i mean, } first, -/']",e i mean  first ,%,FEMALE,5

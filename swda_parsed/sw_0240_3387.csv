@@ -1,0 +1,123 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"[""{d well, } i don't know what to do about the federal budget.  /""]",d well  i dont know what to do about the federal budget  ,sd,MALE,1
+"['{f um, } there certainly have been ideas surfaced, {f uh, } recently, {f uh, } matter of fact repeatedly by many people  /']",f um  there certainly have been ideas surfaced f uh  recently f uh  matter of fact repeatedly by many people  ,sd,MALE,1
+"['{c and } i sort of wondered [ what your, + what ] thoughts you had on that area. /']",c and  i sort of wondered  what your  what  thoughts you had on that area ,qw^d,MALE,41
+"[""[ the, + the ] first one is we need people in there [ that, + that ] understand, {f uh, } numbers.  the numbers that are being thrown around [ when, + when ] we're talking in trillions of dollars.""]", the  the  first one is we need people in there  that  that  understand f uh  numbers  the numbers that are being thrown around  when  when  were talking in trillions of dollars,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } which is an astronomical sum  /']",f uh  which is an astronomical sum  ,+,MALE,0
+"['[ {c and, } + {c and } ] the people that are talking this numbers have no concept of what that number means. /']", c and   c and   the people that are talking this numbers have no concept of what that number means ,sv,MALE,3
+"['{d now } [ are you, + are you ] talking about the elected people  /']",d now   are you  are you  talking about the elected people  ,qy,MALE,7
+['{c or } are you talking about # others? # /'],c or  are you talking about  others  ,qrr,MALE,33
+['# the elected # people.  /'], the elected  people  ,sd,MALE,1
+['yes.  /'],yes  ,ny,MALE,9
+['uh-huh. /'],uhhuh ,ny,MALE,9
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ [ our, + our, ] + our ] senate and congress [ and, + and ] people [ that, + that ] deal everyday [ and, + and ] what's going to be done with those monies --""]",  our  our   our  senate and congress  and  and  people  that  that  deal everyday  and  and  whats going to be done with those monies ,sv,MALE,3
+['yes. /'],yes ,b,MALE,2
+"[""-- {f um, } and don't really understand what that is or how a budget even works. /""]", f um  and dont really understand what that is or how a budget even works ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } we need to elect people that are more, {f uh, } - /']",f uh  we need to elect people that are more f uh   ,sv,MALE,3
+['{c or } ... -/'],c or   ,%,MALE,5
+"[""i'm not sure how you would ach-, - /""]",im not sure how you would ach  ,sd,MALE,1
+['how would you achieve that?  /'],how would you achieve that  ,qw,MALE,12
+"['{e i mean } if, -/']",e i mean  if ,%,MALE,5
+"[""{d well, } [ let's, + let's ] make them have a degree in [ economy, + {f uh, } {e or }  economics. ] /""]",d well   lets  lets  make them have a degree in  economy  f uh  e or   economics  ,sv,MALE,3
+"['{c so } you would trust the decision making [ dec-, + ] economists? /']",c so  you would trust the decision making  dec   economists ,qy,MALE,7
+"['{d well } <laughter>, -/']",d well  laughter ,arp_nd,MALE,34
+['sometimes called the dismal science. /'],sometimes called the dismal science ,sd,MALE,1
+['<laughter> yeah.  /'],laughter yeah  ,b,MALE,2
+"['[ {c but, } +  {c but } ] people [ [ that, + that ] know the value of a dollar + that understand the # value of a dollar,  ] # /']", c but    c but   people   that  that  know the value of a dollar  that understand the  value of a dollar    ,sd,MALE,1
+['# uh-huh. #  /'], uhhuh   ,b,MALE,2
+['yes. /'],yes ,b,MALE,2
+"['{f um, } {c and } wh-, - /']",f um  c and  wh  ,%,MALE,5
+"['[ [ in, + in, ] + in ] - /']",  in  in   in   ,%,MALE,5
+"['[ the, + the, ] {f uh, } lobbyists,']", the  the  f uh  lobbyists,sv,MALE,3
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# needs # them to be eliminated, {f uh, }']", needs  them to be eliminated f uh ,+,MALE,0
+['# uh-huh. # /'], uhhuh  ,b,MALE,2
+"['# from # congress.  {f um, } -/']", from  congress  f um  ,+,MALE,0
+['yes. /'],yes ,b,MALE,2
+"[""they don't make pragmatic decisions.  /""]",they dont make pragmatic decisions  ,sv,MALE,3
+"['they make a decision based on [ consti-, + constituency ] --']",they make a decision based on  consti  constituency  ,sv,MALE,3
+['yes. /'],yes ,b,MALE,2
+['-- instead of a decision based on what they really believe. /'], instead of a decision based on what they really believe ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f um, } {d you know, } [ th-, + ] {c or } they tack on this, {f uh, } pork bellies [ and, +  and ] do things [ that, + that ] are good for their area to pass something [ that is, + that is ] not good for the country. /']",f um  d you know   th   c or  they tack on this f uh  pork bellies  and   and  do things  that  that  are good for their area to pass something  that is  that is  not good for the country ,sv,MALE,3
+['right.  /'],right  ,b,MALE,2
+"['[ {d so, } +  {d so } ] you would favor a law which said there could not be lobbyists.  /']", d so    d so   you would favor a law which said there could not be lobbyists  ,bf,MALE,20
+"[""{e i mean } right now lobbyists require to register you'd just say,""]",e i mean  right now lobbyists require to register youd just say,sv,MALE,3
+"['{f oh, } [ i, + i ] definitely would.  /']",f oh   i  i  definitely would  ,na,MALE,21
+['yeah.  /'],yeah  ,ny,MALE,9
+['get rid of them. /'],get rid of them ,^2,MALE,23
+"['(( [ ma-, + make ] them all )) . /']",  ma  make  them all   ,+,MALE,0
+"['totally.  {f uh, } /']",totally  f uh  ,aa,MALE,4
+['no causes that you think the lobbyists would be good for? /'],no causes that you think the lobbyists would be good for ,qy^d,MALE,16
+"['[ i, + i ] think that any company or anything that wants to contribute to a fund --']", i  i  think that any company or anything that wants to contribute to a fund ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- should be able to do that, and be registered with what they ever contribute.  /']", should be able to do that and be registered with what they ever contribute  ,+,MALE,0
+['{c but } they should not have a one-on-one relationship with the people making the decisions that affect them. /'],c but  they should not have a oneonone relationship with the people making the decisions that affect them ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ that, + that's ] a conflict of interest as far as i'm concerned. /""]", that  thats  a conflict of interest as far as im concerned ,sv,MALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['when you are talking again, {f uh, } billions and trillions of dollars --']",when you are talking again f uh  billions and trillions of dollars ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {f uh, } [ you're, + you're ] jeopardizing the future of the country, {f uh, } for today.  /""]", f uh   youre  youre  jeopardizing the future of the country f uh  for today  ,+,MALE,0
+"['that, -/']",that ,%,MALE,5
+"['{c so, }  {f uh, } you talk about jeopardizing the future.  /']",c so   f uh  you talk about jeopardizing the future  ,sv,MALE,3
+['would you be against any deficit spending? /'],would you be against any deficit spending ,qy,MALE,7
+"[""[ i, + i ] think to bring it in line you are going to have to have a generation that's going to really bite the bullet to bring it in line.  /""]", i  i  think to bring it in line you are going to have to have a generation thats going to really bite the bullet to bring it in line  ,na,MALE,21
+"[""you can't ease into it.  /""]",you cant ease into it  ,sv,MALE,3
+"[""it took years and years to build up the momentum that's there now. /""]",it took years and years to build up the momentum thats there now ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['{f uh, } [ i, + i ] forget the figures on the interest rate  /']",f uh   i  i  forget the figures on the interest rate  ,h,MALE,15
+"[""{c but } it's something like, {f uh, } hundreds of thousands of dollars a second --""]",c but  its something like f uh  hundreds of thousands of dollars a second ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- in interest. /'], in interest ,+,MALE,0
+['# yeah. # /'], yeah  ,b,MALE,2
+"[""# part # of the problem is we don't loan from ourselves.  /""]", part  of the problem is we dont loan from ourselves  ,sv,MALE,3
+"['[  we, + we ] buy from intimate international banking.  /']",  we  we  buy from intimate international banking  ,sv,MALE,3
+"[""that's why we have interest. /""]",thats why we have interest ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""[ {c and, } + {c and } ] [ [ i, + i, ] + i ] really feel [ [ that, + that, ] + that ] is part of the problem that [ we, + we've ] let things get so out of control [ that, + that ] we don't want to put the brakes on them. /""]", c and   c and     i  i   i  really feel   that  that   that  is part of the problem that  we  weve  let things get so out of control  that  that  we dont want to put the brakes on them ,sv,MALE,3
+"['{c but } [ wha-, + what ] practical steps [ could on-, + could one ] take? {f um, } /']",c but   wha  what  practical steps  could on  could one  take f um  ,qw,MALE,12
+"['[ by, + by ] having [ [ a, + a, ] + a ] budget [ that [ is, + is ] feasible, + that is reasonable. ] /']", by  by  having   a  a   a  budget  that  is  is  feasible  that is reasonable  ,sd,MALE,1
+"['{d well, } {c but } everybody will say that he is for that.  # {f uh, }  /']",d well  c but  everybody will say that he is for that   f uh   ,sv,MALE,3
+"['{c and, }  #']",c and   ,qw,MALE,12
+"['# {f oh, } of course. #  /']", f oh  of course   ,ba,MALE,6
+['(( sure )) . /'], sure   ,b,MALE,2
+"['# {c and } how will you, #']", c and  how will you ,+,MALE,0
+['# {c and then } add on to it. # -/'], c and then  add on to it  ,sv,MALE,3
+['make that actually happen? /'],make that actually happen ,+,MALE,0
+['you take the gross national income  --'],you take the gross national income  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- and you say our budget is x number of percent of this gross national income.  /'], and you say our budget is x number of percent of this gross national income  ,+,MALE,0
+['one thing we could do is give a ten percent income tax.'],one thing we could do is give a ten percent income tax,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['across-the-board,  /']",acrosstheboard  ,+,MALE,0
+"['everyone no matter what,']",everyone no matter what,sv,MALE,3
+['# yep. # /'], yep  ,aa,MALE,4
+['# pays a # ten percent income tax. /'], pays a  ten percent income tax ,+,MALE,0
+['sounds like a good idea. /'],sounds like a good idea ,ba,MALE,6
+"['# {f uh, } # /']", f uh   ,%,MALE,5
+"['# nothing # escapes, right?  /']", nothing  escapes right  ,qy,MALE,7
+"['[ no, + no, ]']", no  no ,qy^d,MALE,16
+"[""# that's right. # /""]", thats right  ,na,MALE,21
+"['# deductions, # nothing. /']", deductions  nothing ,+,MALE,0
+['# right.  /'], right  ,na,MALE,21
+['no deductions. # /'],no deductions  ,sv,MALE,3
+['# just ten percent. # /'], just ten percent  ,sv,MALE,3
+['you pay a ten percent income tax. /'],you pay a ten percent income tax ,bf,MALE,20
+['yep. /'],yep ,aa,MALE,4
+"[""that's what you pay  /""]",thats what you pay  ,sv,MALE,3
+"[""if you make forty million dollars, {f uh, } then you're going to pay four million. /""]",if you make forty million dollars f uh  then youre going to pay four million ,sv,MALE,3
+['right. /'],right ,b,MALE,2
+"['i-, - /']",i  ,%,MALE,5
+"[""if you make forty dollars, you're going to pay four dollars.  /""]",if you make forty dollars youre going to pay four dollars  ,sv,MALE,3
+"[""[ {c and, } + {c and } ] that's it. /""]", c and   c and   thats it ,sv,MALE,3
+['yep.  /'],yep  ,aa,MALE,4
+"[""{c so } [ that, + that's ] it.  /""]",c so   that  thats  it  ,sv,MALE,3
+"[""that's  {e i mean } - /""]",thats  e i mean   ,%,MALE,5
+"['[ i, + i ] agree with that  /']", i  i  agree with that  ,sv,MALE,3
+"[""that's a good idea  /""]",thats a good idea  ,sv,MALE,3
+"['{c and } is it your expectation that that would raise the total revenues collected [ or, + or ] lower them or what? /']",c and  is it your expectation that that would raise the total revenues collected  or  or  lower them or what ,qy,MALE,7
+"[""i don't know that it would or wouldn't. /""]",i dont know that it would or wouldnt ,arp_nd,MALE,34

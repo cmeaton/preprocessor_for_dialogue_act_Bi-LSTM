@@ -1,0 +1,153 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['<beep>.'],beep,x,MALE,8
+['okay. /'],okay ,"fo_o_fw_""_by_bc",FEMALE,0
+"['okay,  /']",okay  ,b^m,MALE,24
+"['i thought it was supposed to give a recording,  /']",i thought it was supposed to give a recording  ,sv,MALE,3
+"['{c but anyway, } {f uh, } {d well, } i do take care of pretty <laughter> much all of the stuff [ for, + for ] my wife and for me  /']",c but anyway  f uh  d well  i do take care of pretty laughter much all of the stuff  for  for  my wife and for me  ,sd,MALE,1
+['{c and } --'],c and  ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- {f uh, } i, embarrassed to say, it's pretty trivial.  /""]", f uh  i embarrassed to say its pretty trivial  ,+,MALE,0
+"['[ all we, + all i ] do is, {f uh, } keep a list of things like debts that are outstanding and every two or three months update that and every once in a while make a list of what we spent that month,  /']", all we  all i  do is f uh  keep a list of things like debts that are outstanding and every two or three months update that and every once in a while make a list of what we spent that month  ,sd,MALE,1
+['{c but } i doubt i do it more than three times a year. /'],c but  i doubt i do it more than three times a year ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['do --'],do ,qy,FEMALE,7
+"['{c and, } -/']",c and  ,%,MALE,5
+['-- you use a computer? /'], you use a computer ,+,FEMALE,0
+"['no,  /']",no  ,nn,MALE,13
+"['i work with them all day,  /']",i work with them all day  ,sd,MALE,1
+"[""i'm in computer science,  /""]",im in computer science  ,sd,MALE,1
+['yet [ i -- +'],yet  i  ,sd,MALE,1
+['oh. /'],oh ,b,FEMALE,2
+['-- i ] do everything on paper <laughter>. /'], i  do everything on paper laughter ,+,MALE,0
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""{f uh, } i don't even use a calculator for the stuff i'm doing because it's all pretty round numbers. /""]",f uh  i dont even use a calculator for the stuff im doing because its all pretty round numbers ,sd,MALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['mine is really simple, because i got all our bills paid off when, {f uh, } he was a marine,  /']",mine is really simple because i got all our bills paid off when f uh  he was a marine  ,sd,FEMALE,1
+['he went to saudi arabia  /'],he went to saudi arabia  ,sd,FEMALE,1
+"['{c and } while he was gone i got all of our bills paid off,  /']",c and  while he was gone i got all of our bills paid off  ,sd,FEMALE,1
+"['{c so } really the only bills i have is rent, utilities, insurance --']",c so  really the only bills i have is rent utilities insurance ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {d you know, }  /']", d you know   ,+,FEMALE,0
+"['{c so } they come in,  /']",c so  they come in  ,sd,FEMALE,1
+"['i pay them,  /']",i pay them  ,sd,FEMALE,1
+"[""{c and } that's it  <laughter>, {d you know, }  /""]",c and  thats it  laughter d you know   ,sd,FEMALE,1
+"[""that's about --""]",thats about ,sd,FEMALE,1
+['yeah  /'],yeah  ,b,MALE,2
+"['that, -/']",that ,%,MALE,5
+"['-- the extent of it, {d you know. }  /']", the extent of it d you know   ,+,FEMALE,0
+"[""i don't really have this major budget or anything.  /""]",i dont really have this major budget or anything  ,sd,FEMALE,1
+"[""[ i just really, + i'm real ] thrifty.  /""]", i just really  im real  thrifty  ,sd,FEMALE,1
+"['i take care of, {d you know, } two children and me and --']",i take care of d you know  two children and me and ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"['-- {f uh, } just real careful with the money, {d you know. } what little we have <laughter>,  /']", f uh  just real careful with the money d you know  what little we have laughter  ,+,FEMALE,0
+"[""{d so, } that's what i do. /""]",d so  thats what i do ,sd,FEMALE,1
+"['yes,  /']",yes  ,b,MALE,2
+"[""it's pretty straightforward.  /""]",its pretty straightforward  ,sd,MALE,1
+"[""it's almo-, - /""]",its almo  ,%,MALE,5
+"[""i can't imagine having to go into real complicated stuff and making --""]",i cant imagine having to go into real complicated stuff and making ,sd,MALE,1
+['no. /'],no ,b,FEMALE,2
+"['-- {d you know, } fancy budgets.  /']", d you know  fancy budgets  ,+,MALE,0
+"[""it seems like if you're getting to that level, [ y-, + you're ] not in real good control. /""]",it seems like if youre getting to that level  y  youre  not in real good control ,sv,MALE,3
+['uh-uh.  /'],uhuh  ,b,FEMALE,2
+"[""{d you know, } {e i mean, } [ [ i, + i, ] + i've ] never liked credit cards --""]",d you know  e i mean    i  i   ive  never liked credit cards ,sd,FEMALE,1
+['uh-huh <<very faint>>. /'],uhhuh very faint ,b,MALE,2
+"['-- and a lot of debt, {d you know, }  /']", and a lot of debt d you know   ,+,FEMALE,0
+['you --'],you ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+['-- buy something on credit  /'], buy something on credit  ,+,FEMALE,0
+['{c and } you pay twice as much for it when you get done.'],c and  you pay twice as much for it when you get done,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+['{d you know }  /'],d you know   ,+,FEMALE,0
+"['{d so, } -/']",d so  ,%,FEMALE,5
+"['{d actually, } {e i mean, } i like using credit cards for everything, but just paying off the bills --']",d actually  e i mean  i like using credit cards for everything but just paying off the bills ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- because that way it's a record of everything  /""]", because that way its a record of everything  ,+,MALE,0
+"[""{c and } i don't have to worry about keeping <laughter> records of anything else --""]",c and  i dont have to worry about keeping laughter records of anything else ,sd,MALE,1
+"[""[ i don't have --""]", i dont have ,sd,FEMALE,1
+['-- because they come in at --'], because they come in at ,+,MALE,0
+"['-- too many, +']", too many ,+,FEMALE,0
+['-- the end of the month. /'], the end of the month ,+,MALE,0
+"[""i don't have too many ] weaknesses,  /""]",i dont have too many  weaknesses  ,+,FEMALE,0
+['{c but } i found out a credit card was one of them.'],c but  i found out a credit card was one of them,sd,FEMALE,1
+['{f uh. }  /'],f uh   ,%,MALE,5
+"['{d you know, }  /']",d you know   ,+,FEMALE,0
+"[""it's so much [ easy, + easier, ] {d you know, } if something's on sale if you're a woman and you're a sale person, /""]",its so much  easy  easier  d you know  if somethings on sale if youre a woman and youre a sale person ,sv,FEMALE,3
+['<laughter> <<faint and short>>.'],laughter faint and short,x,MALE,8
+"[""it's like, {f oh, } it's on sale,  /""]",its like f oh  its on sale  ,sd,FEMALE,1
+"[""let's go grab it, {d you know } <laughter>,  /""]",lets go grab it d you know  laughter  ,^q,FEMALE,19
+"[""[ {c so, } + {f uh, } {c and } ] if you don't have the money, then use a credit card,  /""]", c so   f uh  c and   if you dont have the money then use a credit card  ,ad,FEMALE,22
+"['{c so, } i got rid of them credit cards.']",c so  i got rid of them credit cards,sd,FEMALE,1
+"[""yeah, i guess [ if that's -- +""]",yeah i guess  if thats  ,sv,MALE,3
+['{d you know. }  /'],d you know   ,+,FEMALE,0
+"[""-- if that's ] a weakness, that's a good thing to do. /""]", if thats  a weakness thats a good thing to do ,+,MALE,0
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['that was my weakness <breathing>.  /'],that was my weakness breathing  ,sd,FEMALE,1
+"[""it wasn't bad,  /""]",it wasnt bad  ,sv,FEMALE,3
+"[""{e i mean, } i didn't have {d like } thousands of dollars, {d you know, } and like that,  /""]",e i mean  i didnt have d like  thousands of dollars d you know  and like that  ,sd,FEMALE,1
+"['[ just, + i just ] --']", just  i just  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- learned that that wasn't for me, {d you know. } /""]", learned that that wasnt for me d you know  ,+,FEMALE,0
+['sure. /'],sure ,b,MALE,2
+"['[ {c so, } + {c but } ] i, self-employed, {d you know, }  /']", c so   c but   i selfemployed d you know   ,sd,FEMALE,1
+"['i  have my own little cleaning business type thing,  /']",i  have my own little cleaning business type thing  ,sd,FEMALE,1
+"['{c so, } {f uh, } i keep, -/']",c so  f uh  i keep ,%,FEMALE,5
+['do you find trouble keeping the records for taxes and all that  /'],do you find trouble keeping the records for taxes and all that  ,qy,MALE,7
+"['{c or, } -/']",c or  ,%,MALE,5
+"['no,  /']",no  ,nn,FEMALE,13
+"[""it's not hard,  /""]",its not hard  ,sv,FEMALE,3
+"[""i just keep it in a notebook and write down what i've made and, {f uh, } {d you know, } what it's going to have to go for that month  /""]",i just keep it in a notebook and write down what ive made and f uh  d you know  what its going to have to go for that month  ,sd,FEMALE,1
+['{c and } --'],c and  ,sv,FEMALE,3
+['uh-huh. /'],uhhuh ,b,MALE,2
+"[""-- {d you know, } it's [ not that, + not that ] hard.  not at all. /""]", d you know  its  not that  not that  hard  not at all ,+,FEMALE,0
+"[""{d well, } that's good to know. /""]",d well  thats good to know ,ba,MALE,6
+"['{d so, } i always do my own income tax, {d you know. } /']",d so  i always do my own income tax d you know  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['do you? /'],do you ,qy,FEMALE,7
+"[""i don't understand the idea of paying somebody [ to, + to ] do it. /""]",i dont understand the idea of paying somebody  to  to  do it ,sv,MALE,3
+['{f huh? } /'],f huh  ,br,FEMALE,30
+"[""it seems like it's absurd the number of people who end up having to pay somebody to do it. /""]",it seems like its absurd the number of people who end up having to pay somebody to do it ,sv,MALE,3
+"['r-, - /']",r  ,%,FEMALE,5
+"['all you got to do is [ read a book, + {e i mean } --']",all you got to do is  read a book  e i mean  ,sv,FEMALE,3
+"['i, -/']",i ,%,MALE,5
+['-- read the little book ] they send you --'], read the little book  they send you ,+,FEMALE,0
+"['yeah,  /']",yeah  ,b,MALE,2
+['just the form. /'],just the form ,bf,MALE,20
+['-- fill in the blanks --'], fill in the blanks ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+['-- and go.  /'], and go  ,+,FEMALE,0
+"['{e i mean, } it seems absurd that people will pay, {d you know, } some bucks just to get --']",e i mean  it seems absurd that people will pay d you know  some bucks just to get ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+['{c and } a lot of them. /'],c and  a lot of them ,sv,MALE,3
+"['-- someone to, - /']", someone to  ,+,FEMALE,0
+"[""it's dumb <laughter>.  /""]",its dumb laughter  ,sv,FEMALE,3
+"['i guess if you had some really complicated stuff,  /']",i guess if you had some really complicated stuff  ,sv,FEMALE,3
+"[""{c but } i don't,  /""]",c but  i dont  ,sd,FEMALE,1
+"[""{c so, } i don't mess with it. /""]",c so  i dont mess with it ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c but, } i don't use a calculator either, {d you know } <laughter>. /""]",c but  i dont use a calculator either d you know  laughter ,sd,FEMALE,1
+"['[ i, +']", i ,sd,MALE,1
+"[""[ i don't, + i don't ] have [ that mu-, + that many, ] {d you know, } things to add up  /""]", i dont  i dont  have  that mu  that many  d you know  things to add up  ,sd,FEMALE,1
+"['{c so, } -/']",c so  ,%,FEMALE,5
+"[""i ] don't trust myself with using a calculator or computer, [ y-, + ] too much stuff like that because i want to make sure [ that, + that [ i,  + i ] ] keep on top of the numbers and understand what's going on.  /""]",i  dont trust myself with using a calculator or computer  y   too much stuff like that because i want to make sure  that  that  i   i   keep on top of the numbers and understand whats going on  ,+,MALE,0
+['i know too many people who use a calculator  /'],i know too many people who use a calculator  ,sd,MALE,1
+"[""if they make a mistake, they find out two months later because they weren't paying attention. /""]",if they make a mistake they find out two months later because they werent paying attention ,sd,MALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,FEMALE,2
+"['[ {c and, } +']", c and  ,%,MALE,5
+"['# {c and } we have a, # -/']", c and  we have a  ,sd,FEMALE,1
+"['# {c and } ] it seem, # -/']", c and   it seem  ,+,MALE,0
+['i bank at n c n b here  /'],i bank at n c n b here  ,sd,FEMALE,1
+"['{c and } they have a number that you can call in,  /']",c and  they have a number that you can call in  ,sd,FEMALE,1
+"['{c and } i always call in [ and, + ] {d like, } once every other week or so  /']",c and  i always call in  and   d like  once every other week or so  ,sd,FEMALE,1
+"['{c and } i will, {f uh, } check off what checks have cleared  /']",c and  i will f uh  check off what checks have cleared  ,sd,FEMALE,1
+"['{c and, } -/']",c and  ,%,FEMALE,5
+['yeah. /'],yeah ,b,MALE,2
+['do you do that? /'],do you do that ,qy,FEMALE,7
+['we have the same thing.  /'],we have the same thing  ,sd,MALE,1
+['you do too? /'],you do too ,qy^d,FEMALE,16
+['yeah. /'],yeah ,ny,MALE,9
+"['{c and } i always check them off and, {d you know, } check my balance and my book [ and, + ] {d you know, } because i always want to know exactly what i have, {d you know. } /']",c and  i always check them off and d you know  check my balance and my book  and   d you know  because i always want to know exactly what i have d you know  ,sd,FEMALE,1
+['sure. /'],sure ,b,MALE,2
+['i do that real often.  /'],i do that real often  ,sd,FEMALE,1
+"['i do that,  /']",i do that  ,sd,FEMALE,1
+"['{d so <lipsmack> anyway, } -/']",d so lipsmack anyway  ,%,FEMALE,5
+['<beep> <<faint>>. /'],beep faint ,x,MALE,8

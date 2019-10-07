@@ -1,0 +1,121 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['okay,  /']",okay  ,"fo_o_fw_""_by_bc",FEMALE,0
+"['the topic of the conversation is national health insurance,  and the pros and cons,  and [ do i, + do we  ] think that the government should finance it.  /']",the topic of the conversation is national health insurance  and the pros and cons  and  do i  do we   think that the government should finance it  ,sd,FEMALE,1
+['what is your opinion? /'],what is your opinion ,qw,FEMALE,12
+['i say yes. /'],i say yes ,sv,FEMALE,3
+['you say yes. /'],you say yes ,bf,FEMALE,20
+['yes.  /'],yes  ,aa,FEMALE,4
+"['mother lives in florida,  /']",mother lives in florida  ,sd,FEMALE,1
+"[""{c and }  [ there are, + in her subdivision there are  ] fifty percent canadians who won't give up their canadian citizenship because of the health insurance. /""]",c and    there are  in her subdivision there are   fifty percent canadians who wont give up their canadian citizenship because of the health insurance ,sd,FEMALE,1
+"['i have heard someone else, {f uh, } say that, {f uh, } the canadian health insurance is absolutely excellent -- /']",i have heard someone else f uh  say that f uh  the canadian health insurance is absolutely excellent  ,sd,FEMALE,1
+"[""it's wonderful. /""]",its wonderful ,sv,FEMALE,3
+"[""-- {c and } one of the ways that they're financing it is they have an exorbitant tax on their cigarettes. /""]", c and  one of the ways that theyre financing it is they have an exorbitant tax on their cigarettes ,sd,FEMALE,1
+"['{f oh, } <laughter>. /']",f oh  laughter ,b,FEMALE,2
+['<laughter> [ this is -- +'],laughter  this is  ,sv,FEMALE,3
+"['{d well, } <laughter>. -/']",d well  laughter ,b,FEMALE,2
+"[""-- <laughter> evidently this is ] one of the ways that they're paying for the program plus discouraging the people to quit smoking so they don't have to pay out as many, {f uh, } benefits on {d like } lung cancer and things like this. /""]", laughter evidently this is  one of the ways that theyre paying for the program plus discouraging the people to quit smoking so they dont have to pay out as many f uh  benefits on d like  lung cancer and things like this ,+,FEMALE,0
+"[""{d well, } even if that's - /""]",d well  even if thats  ,%,FEMALE,5
+"['{c so, } {d you know, } really when you look at it, they have full coverage,  /']",c so  d you know  really when you look at it they have full coverage  ,sv,FEMALE,3
+"[""they have h m o, which, {d you know, } after you get used to it, it's not too bad,  /""]",they have h m o which d you know  after you get used to it its not too bad  ,sv,FEMALE,3
+"['{c and, } {f uh, } everything is covered -- /']",c and  f uh  everything is covered  ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['we, -/']",we ,%,FEMALE,5
+"['-- {c and } we have so many people in the united states that we spend, - /']", c and  we have so many people in the united states that we spend  ,sv,FEMALE,3
+"['{d well, } in my family alone, we spent four thousand dollars in july on medical bills -- /']",d well  in my family alone we spent four thousand dollars in july on medical bills  ,sd,FEMALE,1
+"['{f oh, } my word, lynn. /']",f oh  my word lynn ,ba,FEMALE,6
+"[""-- insurance didn't cover a penny.  /""]", insurance didnt cover a penny  ,sd,FEMALE,1
+['yeah. /'],yeah ,%,FEMALE,5
+"[""that's horrible. /""]",thats horrible ,ba,FEMALE,6
+"['yes,  /']",yes  ,aa,FEMALE,4
+['it is horrible. /'],it is horrible ,sv,FEMALE,3
+"[""{d well, } we're fortunate in that [ we, + ] so far, knock on wood,  most of us have been [ relati-, + real  ] healthy --  /""]",d well  were fortunate in that  we   so far knock on wood  most of us have been  relati  real   healthy   ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"[""-- {c so } we don't have a lot of medical bills. /""]", c so  we dont have a lot of medical bills ,sd,FEMALE,1
+"[""{f uh, } if you're healthy it's fine,  /""]",f uh  if youre healthy its fine  ,sv,FEMALE,3
+['{c but } i had two kids in the hospital in july. /'],c but  i had two kids in the hospital in july ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{c but } what worries me is the fact that i don't like the government telling me who i can see and who i can't see. /""]",c but  what worries me is the fact that i dont like the government telling me who i can see and who i cant see ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{c but, } {d you know, } richardson school district has the h m o -- /']",c but  d you know  richardson school district has the h m o  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- {c and } ninety percent of the doctors you would choose are on that list. /'], c and  ninety percent of the doctors you would choose are on that list ,sd,FEMALE,1
+['are they? /'],are they ,bh,FEMALE,18
+['yeah. /'],yeah ,ny,FEMALE,9
+"['{d well, } i know that [ gre-, + james  ] had it. /']",d well  i know that  gre  james   had it ,sd,FEMALE,1
+['mccullum is. /'],mccullum is ,sd,FEMALE,1
+['i beg your pardon. /'],i beg your pardon ,br,FEMALE,30
+['mccullum is. /'],mccullum is ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+['yeah.  /'],yeah  ,b,FEMALE,2
+"['i know that when james was with continental steel, mccullum was part of that,  /']",i know that when james was with continental steel mccullum was part of that  ,sd,FEMALE,1
+"[""[ {c and, } + {c and }  ] that's good.  /""]", c and   c and    thats good  ,sv,FEMALE,3
+"[""{c but } i also heard, for instance, {d like, } {f uh, } my friend's daughter was on it through texas instruments,  /""]",c but  i also heard for instance d like  f uh  my friends daughter was on it through texas instruments  ,sd,FEMALE,1
+['{c and } she was on that kaiser permanente --  /'],c and  she was on that kaiser permanente   ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } they had screwed up her appointment,  /']", c and  they had screwed up her appointment  ,sd,FEMALE,1
+"['{c and } when she went in, she had to take whichever doctor was available,  /']",c and  when she went in she had to take whichever doctor was available  ,sd,FEMALE,1
+"['{c and } they, - /']",c and  they  ,%,FEMALE,5
+['she would have had to wait {d like } two months to get the doctor she wanted. /'],she would have had to wait d like  two months to get the doctor she wanted ,sd,FEMALE,1
+"[""{d well, } {c but } [ that's -- +""]",d well  c but   thats  ,sd,FEMALE,1
+"['{c but } then again, i guess you can even do that in mccullum. /']",c but  then again i guess you can even do that in mccullum ,sv,FEMALE,3
+"[""-- that's  ] a screw up in an appointment, {d you know, }  /""]", thats   a screw up in an appointment d you know   ,+,FEMALE,0
+"[""i'm going back to the days when i was pregnant -- /""]",im going back to the days when i was pregnant  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } i had two doctors,  /']", c and  i had two doctors  ,sd,FEMALE,1
+"['{c and } one was my favorite, personality wise -- /']",c and  one was my favorite personality wise  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but } when i delivered ronnie, he was not on call -- /']", c but  when i delivered ronnie he was not on call  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- the other guy delivered him -- /'], the other guy delivered him  ,sd,FEMALE,1
+"[""{d well, } that's true,  /""]",d well  thats true  ,ba,FEMALE,6
+['{c and } that still goes on. /'],c and  that still goes on ,sv,FEMALE,3
+"['-- {d you know, } {c and } that, - /']", d you know  c and  that  ,%,FEMALE,5
+"['{c and, } {d you know, } if, {f um, } i go to townsend -- -/']",c and  d you know  if f um  i go to townsend  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- he's got a new partner.  /""]", hes got a new partner  ,sd,FEMALE,1
+['i go to both of them now.  /'],i go to both of them now  ,sd,FEMALE,1
+"['{d you know, } i have no choice --']",d you know  i have no choice ,sd,FEMALE,1
+['right. /'],right ,b,FEMALE,2
+"['-- because when i want to go,']", because when i want to go,+,FEMALE,0
+['<cough>.'],cough,x,FEMALE,8
+"['if dr. howe or whatever his name is is on duty, i go to him. /']",if dr howe or whatever his name is is on duty i go to him ,+,FEMALE,0
+"['{d well, } {d you know, } it, {f uh, } - /']",d well  d you know  it f uh   ,%,FEMALE,5
+"[""how do you think we're going to pay for it?  /""]",how do you think were going to pay for it  ,qh,FEMALE,26
+['more and more taxes?  <barking>. /'],more and more taxes  barking ,qh,FEMALE,26
+"['{d well, } no,  /']",d well  no  ,ar,FEMALE,28
+"['we need to cut some of our spendings, cut some of the fat off the top and whittle it down to the rest of us. /']",we need to cut some of our spendings cut some of the fat off the top and whittle it down to the rest of us ,sd,FEMALE,1
+"[""i know that it's getting to the point that the insurance doesn't <children_talking> pay that much on catastrophic illnesses. /""]",i know that its getting to the point that the insurance doesnt childrentalking pay that much on catastrophic illnesses ,sv,FEMALE,3
+['no. /'],no ,b,FEMALE,2
+"[""they don't pay anything on, {f uh, } implants --""]",they dont pay anything on f uh  implants ,sd,FEMALE,1
+['no. /'],no ,b,FEMALE,2
+"['-- or transplants,  /']", or transplants  ,+,FEMALE,0
+"['{c and, } {d you know, } people are needing these,  /']",c and  d you know  people are needing these  ,sd,FEMALE,1
+"[""{c and } the average person can't afford, {d you know, } a heart or a kidney --""]",c and  the average person cant afford d you know  a heart or a kidney ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+['-- on just their own. /'], on just their own ,+,FEMALE,0
+"['{c but } {d you known, } ronnie, in austin, went to a program and went to a social worker -- /']",c but  d you known  ronnie in austin went to a program and went to a social worker  ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and } at the same token there is something,  /']", c and  at the same token there is something  ,sd,FEMALE,1
+"[""{c because } he can get his pills for two dollars, when i'm paying fifteen on my medical insurance -- /""]",c because  he can get his pills for two dollars when im paying fifteen on my medical insurance  ,sd,FEMALE,1
+['good grief. /'],good grief ,ba,FEMALE,6
+"['-- {c and } he can get free medical care,  but he has to go to the city hospital instead of seeing david --']", c and  he can get free medical care  but he has to go to the city hospital instead of seeing david ,sd,FEMALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- and so again, {d you know, }  /']", and so again d you know   ,+,FEMALE,0
+"[""we went through [ it, + ronnie's home  ] tonight,  /""]",we went through  it  ronnies home   tonight  ,sd,FEMALE,1
+"['{c and } we talked about it and said, {d you know, } is it worth it?  /']",c and  we talked about it and said d you know  is it worth it  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"['{d you know, } he pays forty-five dollars a month for his prescriptions, where he could pay six dollars. /']",d you know  he pays fortyfive dollars a month for his prescriptions where he could pay six dollars ,sd,FEMALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{c so, } there --']",c so  there ,sd,FEMALE,1
+['very true. /'],very true ,ba,FEMALE,6
+"['-- are programs,  {d you know, } if you get on medicare or medicaid or one of those, /']", are programs  d you know  if you get on medicare or medicaid or one of those ,+,FEMALE,0
+"['{d well, } i know they have the medicaid, {d you know, } for those that have trouble,  /']",d well  i know they have the medicaid d you know  for those that have trouble  ,sd,FEMALE,1
+"['{c and } i know that {d like } we have the, {f uh, } prescription cards which, - /']",c and  i know that d like  we have the f uh  prescription cards which  ,sd,FEMALE,1
+"[""that's helped bunches -- /""]",thats helped bunches  ,sd,FEMALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"['-- {c and, } wonder if the insurance companies are fighting the national health,  /']", c and  wonder if the insurance companies are fighting the national health  ,qy^d,FEMALE,16
+"[""{c or } wonder if they're wanting it. /""]",c or  wonder if theyre wanting it ,qy^d,FEMALE,16
+"[""that's what i read. /""]",thats what i read ,sd,FEMALE,1
+"['that they are wanting, -/']",that they are wanting ,bf,FEMALE,20

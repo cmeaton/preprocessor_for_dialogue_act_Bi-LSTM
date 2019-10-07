@@ -1,0 +1,326 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+['{d so. } -/'],d so  ,%,MALE,5
+"['okay,  /']",okay  ,b,FEMALE,2
+"['do you [ rec-, +  exercise regularly. ] /']",do you  rec   exercise regularly  ,qy,FEMALE,7
+"['yeah,  /']",yeah  ,ny,MALE,9
+['i sure do. /'],i sure do ,sd,MALE,1
+['what do you do? /'],what do you do ,qw,FEMALE,12
+"['{f uh, } i ride a bicycle quite a bit and {f uh, } work out with free weights <breathing>. /']",f uh  i ride a bicycle quite a bit and f uh  work out with free weights breathing ,sd,MALE,1
+"['okay,  /']",okay  ,bk,FEMALE,14
+['i love to ride a bicycle. /'],i love to ride a bicycle ,sd,FEMALE,1
+"['i live right near white rock lake,  /']",i live right near white rock lake  ,sd,MALE,1
+"['{c so } [ i used to, +  i try to ] ride, about ten to twenty miles a day.  /']",c so   i used to   i try to  ride about ten to twenty miles a day  ,sd,MALE,1
+"['{c but, } i --']",c but  i ,sd,MALE,1
+"[""{f oh, } that's good. /""]",f oh  thats good ,ba,FEMALE,6
+"[""-- haven't been doing so well this year,  <breathing>  /""]", havent been doing so well this year  breathing  ,+,MALE,0
+"['{c but, } -/']",c but  ,%,MALE,5
+"['[ i went an, + last year i went an ]   was exercising on a bike for a while  /']", i went an  last year i went an    was exercising on a bike for a while  ,sd,FEMALE,1
+"[""{c and } [ i, +  when i'd gotten back i ] had gotten some sun  that day,  /""]",c and   i   when id gotten back i  had gotten some sun  that day  ,sd,FEMALE,1
+['the sweat had built up on me and built up under my skin and caused me to peel.  /'],the sweat had built up on me and built up under my skin and caused me to peel  ,sd,FEMALE,1
+"['it was the sweating, not the burn -- /']",it was the sweating not the burn  ,sd,FEMALE,1
+"[""{f oh } that's  (( weird )) . /""]",f oh  thats   weird   ,ba,MALE,6
+['-- that was wild <child_talking>.  /'], that was wild childtalking  ,sv,FEMALE,3
+"[""{c but, } [ i exercise, +  i don't exercise ] now,  /""]",c but   i exercise   i dont exercise  now  ,sd,FEMALE,1
+"['i just had a baby three months ago,  /']",i just had a baby three months ago  ,sd,FEMALE,1
+"[""i haven't really gotten back into exercising. /""]",i havent really gotten back into exercising ,sd,FEMALE,1
+"['{f oh, } yeah. /']",f oh  yeah ,b,MALE,2
+['{c but } i exercised real good for a couple  of years.  /'],c but  i exercised real good for a couple  of years  ,sd,FEMALE,1
+['it was aerobics and  lifting weights three nights a week  /'],it was aerobics and  lifting weights three nights a week  ,sd,FEMALE,1
+['{c and } it was running three nights a week. /'],c and  it was running three nights a week ,sd,FEMALE,1
+"[""{d so } what's your motivation? /""]",d so  whats your motivation ,qw,MALE,12
+"[""[ what, +  what's ] my motivation? /""]", what   whats  my motivation ,br,FEMALE,30
+['yeah. /'],yeah ,ny,MALE,9
+"['a friend of mine, always pushing me.  /']",a friend of mine always pushing me  ,sd,FEMALE,1
+['this was in louisiana.  /'],this was in louisiana  ,sd,FEMALE,1
+"['{c and } she would push, {d you know, }  /']",c and  she would push d you know   ,sd,FEMALE,1
+"['she was,  hey,  /']",she was  hey  ,sd,FEMALE,1
+"[""let's go do it,  /""]",lets go do it  ,^q,FEMALE,19
+"[""{c and } {d you know, } she wouldn't take no for an answer <child_talking>. /""]",c and  d you know  she wouldnt take no for an answer childtalking ,sd,FEMALE,1
+"['was it for health, or, to look good? /']",was it for health or to look good ,qy,MALE,7
+"['{f oh, } [ i ju-, +  i just ] wanted to look good,  /']",f oh   i ju   i just  wanted to look good  ,sd,FEMALE,1
+"['yeah, /']",yeah ,%,FEMALE,5
+"['i was think, -/']",i was think ,%,MALE,5
+"[""it wasn't really health related. /""]",it wasnt really health related ,sd,FEMALE,1
+['it was just a side benefit. /'],it was just a side benefit ,bf,MALE,20
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""{c because } [ i'm not +    ((   )) , i'm not ] big or anything,  /""]",c because   im not          im not  big or anything  ,sd,FEMALE,1
+"[""{c but } i'm not in great shape,  /""]",c but  im not in great shape  ,sd,FEMALE,1
+"['[ {c so. } + {c but } ]  when i worked out, i got in pretty good shape.  /']", c so   c but    when i worked out i got in pretty good shape  ,sd,FEMALE,1
+"[""i didn't build up muscle, though,  /""]",i didnt build up muscle though  ,sd,FEMALE,1
+['i just got real good and toned. /'],i just got real good and toned ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""i don't think women look good with muscles. /""]",i dont think women look good with muscles ,sd,FEMALE,1
+['up to a point. /'],up to a point ,aap_am,MALE,39
+"['up to a point,  /']",up to a point  ,sd,FEMALE,1
+"['no,  /']",no  ,ar,FEMALE,28
+"['[ m-, + ] yeah, <laughter>. /']", m   yeah laughter ,aa,FEMALE,4
+['yeah. /'],yeah ,b^m,MALE,24
+"[""it's just some of those women that come  up there looking like arnold schwarzenegger's sister just doesn't get it. /""]",its just some of those women that come  up there looking like arnold schwarzeneggers sister just doesnt get it ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{d so } [ what was, + what was ]  the other question,  /']",d so   what was  what was   the other question  ,qw,MALE,12
+"[""let's see, do you do it as a task  /""]",lets see do you do it as a task  ,qy,MALE,7
+"['{c or } do you [ enjoy, + enjoy ] working out. /']",c or  do you  enjoy  enjoy  working out ,qrr,MALE,33
+"[""i guess it's a task 'cause i can't make myself do it lately. /""]",i guess its a task cause i cant make myself do it lately ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,bk,MALE,14
+"['i think [ i, +  {f uh, } i ]  enjoy it sometimes  /']",i think  i   f uh  i   enjoy it sometimes  ,sd,MALE,1
+"[""{c and } there's other times when i just get tired of it  /""]",c and  theres other times when i just get tired of it  ,sd,MALE,1
+"['[ {c and, } +']", c and  ,sd,MALE,1
+['yeah. /'],yeah ,b,FEMALE,2
+"[""{c and } ] i feel like i'm obligated to  do it, because i've been doing it  /""]",c and   i feel like im obligated to  do it because ive been doing it  ,+,MALE,0
+['{c so } i should keep up. /'],c so  i should keep up ,sd,MALE,1
+"[""<laughter> you don't want to lose yourself. /""]",laughter you dont want to lose yourself ,sv,FEMALE,3
+"[""{c and } there's some days [ it's just +   {d like } it's ] the hardest thing in the world [ to, +  to ] get started. /""]",c and  theres some days  its just    d like  its  the hardest thing in the world  to   to  get started ,sd,MALE,1
+['{d well } how old are you? /'],d well  how old are you ,qw,FEMALE,12
+"[""i'm, {f uh, } twenty-seven. /""]",im f uh  twentyseven ,sd,MALE,1
+"['okay,  /']",okay  ,bk,FEMALE,14
+"[""{c so } you're still young. /""]",c so  youre still young ,sv,FEMALE,3
+"['yeah,  /']",yeah  ,aa,MALE,4
+"['still young, getting older. /']",still young getting older ,sd,MALE,1
+"['we all are,  /']",we all are  ,sd,FEMALE,1
+['{d so. } -/'],d so  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"['{c but, } {f uh, } -/']",c but  f uh  ,%,MALE,5
+"[""it's not hard to stay, - /""]",its not hard to stay  ,sv,FEMALE,3
+"[""{d well } if you keep working out when you're young though, when you get older, {d you know, }  your body's not going to look as bad.  /""]",d well  if you keep working out when youre young though when you get older d you know   your bodys not going to look as bad  ,sv,FEMALE,3
+"['i seen an old woman today,  /']",i seen an old woman today  ,sd,FEMALE,1
+['she was about eighty  /'],she was about eighty  ,sd,FEMALE,1
+"['{c and } she looked so good, /']",c and  she looked so good ,sd,FEMALE,1
+['<meow> yeah. /'],meow yeah ,b,MALE,2
+['{e i mean } she was standing just as  straight and tall  /'],e i mean  she was standing just as  straight and tall  ,sd,FEMALE,1
+['{c and } she had a small waist  /'],c and  she had a small waist  ,sd,FEMALE,1
+"[""{c and } she didn't have, {d you know, }  {d like, } - /""]",c and  she didnt have d you know   d like   ,sd,FEMALE,1
+"['you know, how some older women will get the big bulge right in the middle. /']",you know how some older women will get the big bulge right in the middle ,qy^d,FEMALE,16
+['right. /'],right ,na,MALE,21
+"[""[ a-, + ] she didn't have that at all.  /""]", a   she didnt have that at all  ,sd,FEMALE,1
+"['[ she, +  her ] lips were a little bit wide,  /']", she   her  lips were a little bit wide  ,sd,FEMALE,1
+"['{c but } a lot of, - /']",c but  a lot of  ,%,FEMALE,5
+"['back in her time, they liked women with big hips anyway -- /']",back in her time they liked women with big hips anyway  ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['-- {c so } she may be keeping that on purpose,  /']", c so  she may be keeping that on purpose  ,sd,FEMALE,1
+['{c  so } <laughter>. -/'],c  so  laughter ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""i notice [ if you, + {f uh, } if you ]  stay in shape you don't age as bad, /""]",i notice  if you  f uh  if you   stay in shape you dont age as bad ,sd,MALE,1
+['uh-huh <noise>. /'],uhhuh noise ,b,FEMALE,2
+"['i think, too. - /']",i think too  ,%,MALE,5
+"['[ i was, +  i go ]  to school, too, at night  /']", i was   i go   to school too at night  ,sd,MALE,1
+"[""{c and } last semester i had stopped working out 'cause i hurt myself  and started smoking a lot,  /""]",c and  last semester i had stopped working out cause i hurt myself  and started smoking a lot  ,sd,MALE,1
+"['{c and } you just, - /']",c and  you just  ,%,MALE,5
+['those kind of things age you more. /'],those kind of things age you more ,sv,MALE,3
+"['{d well } smoking ages you quick, /']",d well  smoking ages you quick ,sv,FEMALE,3
+"['right,  /']",right  ,b,MALE,2
+['{c an } -- -/'],c an   ,%,MALE,5
+['it puts those little wrinkles around your lips. /'],it puts those little wrinkles around your lips ,sd,FEMALE,1
+['-- right  /'], right  ,b,MALE,2
+"[""{c an } you can't, - /""]",c an  you cant  ,%,MALE,5
+"['{c and then, } {d you know, } it just kind of feeds itself.  /']",c and then  d you know  it just kind of feeds itself  ,sv,MALE,3
+"['you smoke,  /']",you smoke  ,sd,MALE,1
+"[""{c and then } you don't work out because you, -/""]",c and then  you dont work out because you ,sd,MALE,1
+['you get winded. /'],you get winded ,^2,FEMALE,23
+"['right,  /']",right  ,aa,MALE,4
+"['{c and so, } -/']",c and so  ,%,MALE,5
+"['{f oh, } i smoke a pack a day  /']",f oh  i smoke a pack a day  ,sd,FEMALE,1
+"['{c an, } -/']",c an  ,%,FEMALE,5
+"['i finally quit because, {d like }  [ i just, +  all i ] was doing was going down hill fast. /']",i finally quit because d like    i just   all i  was doing was going down hill fast ,sd,MALE,1
+"[""i can't quit smoking,  /""]",i cant quit smoking  ,sd,FEMALE,1
+"[""i've tried.  /""]",ive tried  ,sd,FEMALE,1
+"[""i was telling a friend of mine that i'd be [ almo-, + almost ] as bad as being an alcoholic, /""]",i was telling a friend of mine that id be  almo  almost  as bad as being an alcoholic ,sd,FEMALE,1
+['<meow> yeah. /'],meow yeah ,b,MALE,2
+"[""i can't quit smoking.  /""]",i cant quit smoking  ,sd,FEMALE,1
+"[""i've tried,  /""]",ive tried  ,sd,FEMALE,1
+"[""i just can't do it.  /""]",i just cant do it  ,sd,FEMALE,1
+"['i quit when i was pregnant with my kids,  /']",i quit when i was pregnant with my kids  ,sd,FEMALE,1
+"['{c but, } {d you know, } as soon as i had them, right back to it. /']",c but  d you know  as soon as i had them right back to it ,sd,FEMALE,1
+['right back to them. /'],right back to them ,bf,MALE,20
+['yeah. /'],yeah ,aa,FEMALE,4
+['yeah. /'],yeah ,b^m,MALE,24
+"['it was like, {d you know, } - /']",it was like d you know   ,%,FEMALE,5
+['that was the only reason i quit.  /'],that was the only reason i quit  ,sd,FEMALE,1
+"[""i didn't want to. /""]",i didnt want to ,sd,FEMALE,1
+"[""{f oh } that's, -/""]",f oh  thats ,%,MALE,5
+"[""{c and } i don't want to quit smoking,  /""]",c and  i dont want to quit smoking  ,sd,FEMALE,1
+['i enjoy that.  /'],i enjoy that  ,sd,FEMALE,1
+"['i said i have very few vices,  /']",i said i have very few vices  ,sd,FEMALE,1
+"[""i'll keep this one thank you <laughter>. /""]",ill keep this one thank you laughter ,^q,FEMALE,19
+"['yeah,  /']",yeah  ,b,MALE,2
+['yeah. /'],yeah ,b,MALE,2
+"['{c but, } {f uh, } did you ever go to  {d like } one of those health clubs or anything? /']",c but  f uh  did you ever go to  d like  one of those health clubs or anything ,qy,FEMALE,7
+"['i went to health club a few years ago,  /']",i went to health club a few years ago  ,na,MALE,21
+"[""{c and } now i work out at home, because [ i don't really, +  my schedule with school and work, i don't ] have time to get down to one. /""]",c and  now i work out at home because  i dont really   my schedule with school and work i dont  have time to get down to one ,sd,MALE,1
+['uh-huh. /'],uhhuh ,bk,FEMALE,14
+['there used to be one that was a  twenty-four hour that i used to go to  /'],there used to be one that was a  twentyfour hour that i used to go to  ,sd,MALE,1
+"['{c but, } {f uh, } i actually prefer to work out alone. /']",c but  f uh  i actually prefer to work out alone ,sd,MALE,1
+"['i like to work out with people, /']",i like to work out with people ,sd,FEMALE,1
+['really. /'],really ,bh,MALE,18
+"['i need, - /']",i need  ,%,FEMALE,5
+"['{d like } you, - /']",d like  you  ,%,FEMALE,5
+"['[ i, + i ] need   competition, is what i need. /']", i  i  need   competition is what i need ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""i've got to have somebody to compete  with,  /""]",ive got to have somebody to compete  with  ,sd,FEMALE,1
+"[""{c or } i don't want to do anything. /""]",c or  i dont want to do anything ,sd,FEMALE,1
+"[""i wouldn't mind [ having, + {d you know, }  working out ] with a friend [ and, +  and ] stuff  /""]",i wouldnt mind  having  d you know   working out  with a friend  and   and  stuff  ,sd,MALE,1
+"['{c but } when you get into [ some of these, +  some of ] health clubs where you just stand around and wait. -/']",c but  when you get into  some of these   some of  health clubs where you just stand around and wait ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+"['are you, -/']",are you ,%,FEMALE,5
+"['{d you know, } i like to start, get it done  and get out of there. /']",d you know  i like to start get it done  and get out of there ,sd,MALE,1
+"['uh-huh,  /']",uhhuh  ,b,FEMALE,2
+['are you married or anything? /'],are you married or anything ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+"[""i'm not. /""]",im not ,sd,MALE,1
+"['no,  /']",no  ,bk,FEMALE,14
+"['{d well, } get your girlfriend  to work out with you.  /']",d well  get your girlfriend  to work out with you  ,sd,FEMALE,1
+['a lot of women like  that.  /'],a lot of women like  that  ,sv,FEMALE,3
+"[""i'd love it if my husband would ask  me to work out with him.  /""]",id love it if my husband would ask  me to work out with him  ,sd,FEMALE,1
+"[""he doesn't work out very often.  /""]",he doesnt work out very often  ,sd,FEMALE,1
+"[""course, he don't need to.  /""]",course he dont need to  ,sd,FEMALE,1
+"[""he's small  /""]",hes small  ,sd,FEMALE,1
+['{c and } he works as a laborer on the railroad. /'],c and  he works as a laborer on the railroad ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c so, } {d you know, } he's building his  muscles up all day,  /""]",c so  d you know  hes building his  muscles up all day  ,sd,FEMALE,1
+"[""he doesn't have to do anything. /""]",he doesnt have to do anything ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"['he can eat like a horse, too.  /']",he can eat like a horse too  ,sd,FEMALE,1
+"[""{c and } [ he don't, + {d you know, } he don't ] gain it like i do.  /""]",c and   he dont  d you know  he dont  gain it like i do  ,sd,FEMALE,1
+"['{c but, } {f uh, } -/']",c but  f uh  ,%,FEMALE,5
+"['{f uh, } especially having a kid, i guess,  tends to just gain weight because you have to, [ to, +']",f uh  especially having a kid i guess  tends to just gain weight because you have to  to ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+['you have to. /'],you have to ,sd,FEMALE,1
+"['to, ] {f uh, } -/']",to  f uh  ,+,MALE,0
+['{d well } you can gain too much weight.  /'],d well  you can gain too much weight  ,sv,FEMALE,3
+"['i gained a little bit too much,  /']",i gained a little bit too much  ,sd,FEMALE,1
+"['{c but } i looked, - /']",c but  i looked  ,%,FEMALE,5
+"['with my first little boy,  i did gain a lot of weight,  /']",with my first little boy  i did gain a lot of weight  ,sd,FEMALE,1
+"['[ i got, + i got ] about fifty pounds overweight with him  /']", i got  i got  about fifty pounds overweight with him  ,sd,FEMALE,1
+"[""{c and } i didn't loose it until two years  ago  /""]",c and  i didnt loose it until two years  ago  ,sd,FEMALE,1
+"['{c and then } i got pregnant   and, {d you know, } ruined that,  /']",c and then  i got pregnant   and d you know  ruined that  ,sd,FEMALE,1
+['{c so } <laughter>. -/'],c so  laughter ,%,FEMALE,5
+['just have to start all over. /'],just have to start all over ,bf,MALE,20
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""{d well, } {d actually, } like i say,  it ain't as bad this time, because i was in shape when i got pregnant. /""]",d well  d actually  like i say  it aint as bad this time because i was in shape when i got pregnant ,sd,FEMALE,1
+['right. /'],right ,b,MALE,2
+"[""[ i wasn't out of sha-, + i wasn't overweight ] when  i got pregnant with him,  /""]", i wasnt out of sha  i wasnt overweight  when  i got pregnant with him  ,sd,FEMALE,1
+"[""i just wasn't [ in, +  in ] shape.  /""]",i just wasnt  in   in  shape  ,sd,FEMALE,1
+"[""i don't know the difference  /""]",i dont know the difference  ,h,FEMALE,15
+"['{c but, } -/']",c but  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,MALE,2
+['some people are a little bit  fanatical about it.  /'],some people are a little bit  fanatical about it  ,sv,MALE,3
+"['{d you know, } i, -/']",d you know  i ,%,MALE,5
+['about weight? /'],about weight ,br,FEMALE,30
+"['{d well } yeah,  /']",d well  yeah  ,ny,MALE,9
+"['and about,']",and about,sd,MALE,1
+['exercise. /'],exercise ,^2,FEMALE,23
+"['working out and fitness, {d you know, }  /']",working out and fitness d you know   ,+,MALE,0
+"['i like [ to, +  to ] work out to look good and stay in shape  /']",i like  to   to  work out to look good and stay in shape  ,sd,MALE,1
+"[""{c and, } {d you know, } i know  it's good for me,  /""]",c and  d you know  i know  its good for me  ,sd,MALE,1
+"['{c but } people that live for it and, {d you know, } eat a bunch of different pills, and,']",c but  people that live for it and d you know  eat a bunch of different pills and,sv,MALE,3
+"[""{d well } that's what my friend did. /""]",d well  thats what my friend did ,sd,FEMALE,1
+"['all that kind of stuff,  it gets a little bit obsessive. /']",all that kind of stuff  it gets a little bit obsessive ,+,MALE,0
+"['{d well, } [ she was, + she was ]  with the wheat germ and all the vitamins and  everything else  /']",d well   she was  she was   with the wheat germ and all the vitamins and  everything else  ,sd,FEMALE,1
+"['{c and } really, we was,  {d you know, } - /']",c and  really we was  d you know   ,%,FEMALE,5
+"['even with her taking all those [ e-, + expensive ] vitamins and stuff,']",even with her taking all those  e  expensive  vitamins and stuff,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"['we stayed right on the same track with each other,']",we stayed right on the same track with each other,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['{d you know, } developing and everything.  /']",d you know  developing and everything  ,+,FEMALE,0
+"['now there, - /']",now there  ,%,FEMALE,5
+"['you can take those, {f uh, } - /']",you can take those f uh   ,ad,FEMALE,22
+['what is it? /'],what is it ,qw,FEMALE,12
+['steroids. /'],steroids ,sd,MALE,1
+"['steroids,  /']",steroids  ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""i couldn't think, -/""]",i couldnt think ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""there's really bad for you. /""]",theres really bad for you ,sv,MALE,3
+"['[ i was goin-, + i was trying ]  to say hemorrhoids, <laughter>,  /']", i was goin  i was trying   to say hemorrhoids laughter  ,sd,FEMALE,1
+"['no,  /']",no  ,ar,FEMALE,28
+"['i was trying to say [ hem-, +  hormones. ] /']",i was trying to say  hem   hormones  ,sd,FEMALE,1
+"['[ hem-, +  hormones. ] /']", hem   hormones  ,b^m,MALE,24
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['hormones,  /']",hormones  ,sd,FEMALE,1
+['{c but } - /'],c but   ,%,FEMALE,5
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"['{f uh, } steroids.  /']",f uh  steroids  ,sd,FEMALE,1
+"['{c but, } i stay from that crap. /']",c but  i stay from that crap ,sd,FEMALE,1
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""it's too dangerous. /""]",its too dangerous ,sv,MALE,3
+"[""{f oh, } [ i wouldn't, + <laughter> i could ]  just see hair start growing out of my upper lip or something. /""]",f oh   i wouldnt  laughter i could   just see hair start growing out of my upper lip or something ,sd,FEMALE,1
+['<laughter>.'],laughter,x,MALE,8
+['<laughter>.'],laughter,x,FEMALE,8
+"['yeah,  /']",yeah  ,b,MALE,2
+['i had a friend whose brother  did steroids  /'],i had a friend whose brother  did steroids  ,sd,MALE,1
+['{c and } as soon as he stopped working out he just ballooned out.  /'],c and  as soon as he stopped working out he just ballooned out  ,sd,MALE,1
+['it all turned to fat  /'],it all turned to fat  ,sd,MALE,1
+"['{c and } he just,']",c and  he just,sd,MALE,1
+['really. /'],really ,bh,FEMALE,18
+['really looked bad. /'],really looked bad ,+,MALE,0
+['ugh. /'],ugh ,ba,FEMALE,6
+"['{c but, } {f uh, } -/']",c but  f uh  ,%,MALE,5
+"[""i didn't know it did that. /""]",i didnt know it did that ,sd,FEMALE,1
+"[""i don't know if it does to everybody,  /""]",i dont know if it does to everybody  ,h,MALE,15
+"['he was, - /']",he was  ,%,MALE,5
+"[""[ [ i-, +  it, ] +  just that's how it ] affected him.  /""]",  i   it    just thats how it  affected him  ,sd,MALE,1
+"[""{c and } he, i don't know, just, -/""]",c and  he i dont know just ,h,MALE,15
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""{c but } i've been wanting to  get me [ a bicycle, + {e or } a bike. ]  /""]",c but  ive been wanting to  get me  a bicycle  e or  a bike   ,sd,FEMALE,1
+"[""i've been wanting to get a ten speed to ride around.  /""]",ive been wanting to get a ten speed to ride around  ,sd,FEMALE,1
+"[""i'm scared to run, for dogs.  /""]",im scared to run for dogs  ,sd,FEMALE,1
+"['course i know dogs can get you on a bike too,  /']",course i know dogs can get you on a bike too  ,sd,FEMALE,1
+"['{c but, }']",c but ,%,FEMALE,5
+['yeah. /'],yeah ,b,MALE,2
+"['seems like it, -/']",seems like it ,+,FEMALE,0
+['at least you got a chance to out run them that way. /'],at least you got a chance to out run them that way ,sv,MALE,3
+['yeah <laughter>. /'],yeah laughter ,b,FEMALE,2
+"[""i don't like to run myself.  /""]",i dont like to run myself  ,sd,MALE,1
+"[""i've thought about it several times  /""]",ive thought about it several times  ,sd,MALE,1
+"['{c and } [ [ i   just, + it, ] + i ] like to move a little faster  and cover more ground. /']",c and    i   just  it   i  like to move a little faster  and cover more ground ,sd,MALE,1
+"['{d well } they, - /']",d well  they  ,%,FEMALE,5
+"['yeah,  /']",yeah  ,b,FEMALE,2
+"[""they've  come up that <throat_clearing> running is not as good for you as they thought it was. /""]",theyve  come up that throatclearing running is not as good for you as they thought it was ,sd,FEMALE,1
+"[""[ it's probably, + i would think it would be ]  hard on [ your, + your ] legs and your joints and stuff. /""]", its probably  i would think it would be   hard on  your  your  legs and your joints and stuff ,sv,MALE,3
+"['yeah,  /']",yeah  ,aa,FEMALE,4
+"[""it's real hard on your legs  /""]",its real hard on your legs  ,sv,FEMALE,3
+"[""{c and } it's hard on women.  /""]",c and  its hard on women  ,sv,FEMALE,3
+"['{c and } [ it, +  it ] just makes stuff move down. /']",c and   it   it  just makes stuff move down ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['[ {c and, } + {f uh, } {c but } ] [ [ i, +  i, ] +   i ] like jogging,  /']", c and   f uh  c but     i   i     i  like jogging  ,sd,FEMALE,1
+"[""i don't mind that.  /""]",i dont mind that  ,sd,FEMALE,1
+"['i can get out and  do that,']",i can get out and  do that,sd,FEMALE,1
+"[""{f uh, } i can't. /""]",f uh  i cant ,sd,MALE,1
+"[""as long as it's not hot.  /""]",as long as its not hot  ,+,FEMALE,0
+"[""if it's hot, you can't do that.  /""]",if its hot you cant do that  ,sv,FEMALE,3
+"['{c but } [ in the rain, + {f oh, } i love to run in the rain, ]  /']",c but   in the rain  f oh  i love to run in the rain   ,sd,FEMALE,1
+"['just, {d you know, } be careful not to slide. /']",just d you know  be careful not to slide ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+"[""{c but } you can't ride your  bike at all in the rain, can you. /""]",c but  you cant ride your  bike at all in the rain can you ,qy,FEMALE,7
+"['no,  /']",no  ,nn,MALE,13
+"[""you can't,  /""]",you cant  ,sd,MALE,1
+"[""it's dangerous. /""]",its dangerous ,sv,MALE,3
+['you slide. /'],you slide ,sd,FEMALE,1
+['at least maybe some of these mountain  bikes you could  /'],at least maybe some of these mountain  bikes you could  ,sv,MALE,3
+"['but a regular ten speed with those skinny tires,']",but a regular ten speed with those skinny tires,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['you slide all over the place. /'],you slide all over the place ,+,MALE,0
+['yeah.  /'],yeah  ,b,FEMALE,2
+"[""{f oh, } [ i, +  when i ]  did ride my friend's bike, that one time,    [ i had, + {f uh, } i  don't know ] what i was trying to do.  /""]",f oh   i   when i   did ride my friends bike that one time     i had  f uh  i  dont know  what i was trying to do  ,sd,FEMALE,1
+['i was trying to make a u turn  /'],i was trying to make a u turn  ,sd,FEMALE,1
+"['{c and } i never could make a u turn in a bike,  /']",c and  i never could make a u turn in a bike  ,sd,FEMALE,1
+"['i can do it in my car,  /']",i can do it in my car  ,sd,FEMALE,1
+['{c but } i tried to do it on that ten speed and wrecked  /'],c but  i tried to do it on that ten speed and wrecked  ,sd,FEMALE,1
+['{c and } i told her a dog was chasing me <laughter>.  /'],c and  i told her a dog was chasing me laughter  ,sd,FEMALE,1
+['{c but } i wrecked it into the curb.  /'],c but  i wrecked it into the curb  ,sd,FEMALE,1
+"[""i didn't hurt it too bad.  /""]",i didnt hurt it too bad  ,sd,FEMALE,1
+"['i scratched it on [ the, +  the ] {f oh, } - /']",i scratched it on  the   the  f oh   ,sd,FEMALE,1
+"['she had some kind of fender thing going over the back tire, i think. /']",she had some kind of fender thing going over the back tire i think ,sd,FEMALE,1
+['yeah. /'],yeah ,b,MALE,2
+['{c but } {f oh } {d well. }  /'],c but  f oh  d well   ,%,FEMALE,5
+"[""{d anyway, } it's been nice talking to you. /""]",d anyway  its been nice talking to you ,fc,FEMALE,10
+"['yeah,  /']",yeah  ,fc,MALE,10
+['{d well. } -/'],d well  ,%,MALE,5
+"['{c and, } {f uh, } -/']",c and  f uh  ,%,FEMALE,5
+"['{d well } good luck with [ the, +  the ] new kid. /']",d well  good luck with  the   the  new kid ,fc,MALE,10
+"['<laughter> thank you, <laughter>  /']",laughter thank you laughter  ,ft,FEMALE,43
+"[""[ [ she's, +  it, ] +  she's ] good.  /""]",  shes   it    shes  good  ,sd,FEMALE,1
+"['{d anyway, } have fun exercising. /']",d anyway  have fun exercising ,fc,FEMALE,10
+['all right. /'],all right ,fc,MALE,10
+"['all right,  /']",all right  ,fc,FEMALE,10
+['bye-bye. /'],byebye ,fc,FEMALE,10

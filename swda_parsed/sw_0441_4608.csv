@@ -1,0 +1,167 @@
+utterance,utterance_no_specialchar,da_tag,speaker_sex,da_category
+"['{d so, }  {f um, } how do you feel about the crime in your city?  /']",d so   f um  how do you feel about the crime in your city  ,qo,FEMALE,25
+"['# is it, {f uh, } # -/']", is it f uh   ,%,FEMALE,5
+"[""# {d well, } {f um, } # minneapolis isn't too bad.  /""]", d well  f um   minneapolis isnt too bad  ,sd,MALE,1
+"[""{f uh, }  i know that there's been some increases in crime lately in terms of murders. /""]",f uh   i know that theres been some increases in crime lately in terms of murders ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"[""# {f uh, } # that's kind of gone up in scale [ and, + <noise> and ] some other things.  /""]", f uh   thats kind of gone up in scale  and  noise and  some other things  ,sd,MALE,1
+"['{f uh, }  i personally had  (( a little ))  experience the other day.  /']",f uh   i personally had   a little   experience the other day  ,sd,MALE,1
+"['{f uh, }  somebody broke my passenger window <noise> and stole a uniform out of my truck. /']",f uh   somebody broke my passenger window noise and stole a uniform out of my truck ,sd,MALE,1
+"['{f oh, } really. /']",f oh  really ,b,FEMALE,2
+"[""{c but, }  {d actually, } {d you know, } when you look [ at, + at ] minneapolis as compared to where i used to live, it's really quite a bit better.""]",c but   d actually  d you know  when you look  at  at  minneapolis as compared to where i used to live its really quite a bit better,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['{f uh, } because i came from florida  /']",f uh  because i came from florida  ,+,MALE,0
+"[""{c and } in orlando, [ there's, + crime is ] getting to be a bigger problem than ever,  /""]",c and  in orlando  theres  crime is  getting to be a bigger problem than ever  ,sd,MALE,1
+['{c so. } -/'],c so  ,%,MALE,5
+"['{f oh, } # yeah. # /']",f oh   yeah  ,b,FEMALE,2
+['# what # part of california # are you from? # /'], what  part of california  are you from  ,qw,MALE,12
+"['# san jose, # california. /']", san jose  california ,sd,FEMALE,1
+"['{f oh, } really?   /']",f oh  really   ,bh,MALE,18
+['# i have a good friend there. # /'], i have a good friend there  ,sd,MALE,1
+"['# here, {d you know, } # the real problems are the gangs. /']", here d you know   the real problems are the gangs ,sd,FEMALE,1
+['yeah #  ((   )) . # /'],yeah         ,b,MALE,2
+"['# [ a lot of # gang related, + a lot of murders,  ] {f uh, } just in general the whole, - /']",  a lot of  gang related  a lot of murders   f uh  just in general the whole  ,sd,FEMALE,1
+"[""we've only been here a couple of years.  /""]",weve only been here a couple of years  ,sd,FEMALE,1
+"['{f uh, }  before that we lived in colorado  /']",f uh   before that we lived in colorado  ,sd,FEMALE,1
+"[""{c but } in comparison to colorado, it's real noticeable. /""]",c but  in comparison to colorado its real noticeable ,sd,FEMALE,1
+['{f oh } yeah.  /'],f oh  yeah  ,aa,MALE,4
+['# uh-huh. # /'], uhhuh  ,aa,MALE,4
+"['# {e i mean } # [ you can just feel, + {e i mean, } i can just sense, ] - /']", e i mean    you can just feel  e i mean  i can just sense   ,%,FEMALE,5
+"[""{e i mean } [ i won't even, + i won't ] go to the grocery store at night. /""]",e i mean   i wont even  i wont  go to the grocery store at night ,sd,FEMALE,1
+['yeah.  /'],yeah  ,aa,MALE,4
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""that's <<very faint>>, -/""]",thats very faint ,%,MALE,5
+['you know.  /'],you know  ,b,FEMALE,2
+"[""{c and } [ it, + it's ] that kind of thing  /""]",c and   it  its  that kind of thing  ,sd,FEMALE,1
+"['{c and, }  {f uh, } -/']",c and   f uh  ,%,FEMALE,5
+"[""that's really a shame when it has to constrain your activities like, -/""]",thats really a shame when it has to constrain your activities like ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"['we have a neighborhood watch program in  [ the house, + {f uh, }  the development  ] that we live in, which i think is a great way to reduce, {f uh, } home theft, burglary, and # things # --']",we have a neighborhood watch program in   the house  f uh   the development   that we live in which i think is a great way to reduce f uh  home theft burglary and  things  ,sd,FEMALE,1
+['# sure. # /'], sure  ,b,MALE,2
+['-- of that sort.  /'], of that sort  ,+,FEMALE,0
+['do you have that where you live  /'],do you have that where you live  ,qy,FEMALE,7
+"['{c or, } -/']",c or  ,%,FEMALE,5
+"['{d well, } {f uh, } interestingly enough, right before i moved up here, - /']",d well  f uh  interestingly enough right before i moved up here  ,sd,MALE,1
+"[""i'm an intern  /""]",im an intern  ,sd,MALE,1
+['{c and then } # i go # --'],c and then   i go  ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- back down in may.  /'], back down in may  ,+,MALE,0
+"['{f uh, }  {c but } in orlando, before i moved up, we had a real problem with it.  /']",f uh   c but  in orlando before i moved up we had a real problem with it  ,sd,MALE,1
+"[""{f uh, } we've been broken into in my apartment about four times --""]",f uh  weve been broken into in my apartment about four times ,sd,MALE,1
+"['{f oh, } no. /']",f oh  no ,ba,FEMALE,6
+['-- in  (( like ))  two and a half weeks.  /'], in   like   two and a half weeks  ,+,MALE,0
+"['{c and } one of the things that [ i, + i ] helped organize was a neighborhood watch # type situation # --']",c and  one of the things that  i  i  helped organize was a neighborhood watch  type situation  ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- down there.  /'], down there  ,+,MALE,0
+"['{f uh, } {c because } they were just, - /']",f uh  c because  they were just  ,%,MALE,5
+"[""it's one of those things where the new thing is that they operate in the daylight # because # --""]",its one of those things where the new thing is that they operate in the daylight  because  ,sd,MALE,1
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+"['-- everybody went to work, {d you know, }  /']", everybody went to work d you know   ,+,MALE,0
+"['{c and then } the houses were left unguarded, {f uh, }  /']",c and then  the houses were left unguarded f uh   ,sd,MALE,1
+"['{c but } yeah,  /']",c but  yeah  ,%,MALE,5
+"['i think given that people are pretty conscientious about it, - /']",i think given that people are pretty conscientious about it  ,sv,MALE,3
+"[""that's a good way [ to, + to ] work it, # with a neighborhood # --""]",thats a good way  to  to  work it  with a neighborhood  ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['-- watch. /'], watch ,+,MALE,0
+"[""{d well, } {d you know, } {f uh, } also i've heard that, {f uh, } the newest thing is a lot of people are <laughter> specializing in robbing people during the time they're home.""]",d well  d you know  f uh  also ive heard that f uh  the newest thing is a lot of people are laughter specializing in robbing people during the time theyre home,sd,FEMALE,1
+"['{f oh, } # is that right? # /']",f oh   is that right  ,bh,MALE,18
+['# like on the # weekends.  /'], like on the  weekends  ,+,FEMALE,0
+"['a high percentage of, {f uh, } free time, - /']",a high percentage of f uh  free time  ,%,FEMALE,5
+"[""i think it's like fifty percent of most people's free time is, {f uh, } spent doing yard work --""]",i think its like fifty percent of most peoples free time is f uh  spent doing yard work ,sd,FEMALE,1
+['oh. /'],oh ,b,MALE,2
+['-- outdoors.  /'], outdoors  ,+,FEMALE,0
+"[""{c so } they wait while you're [ out, + outdoors. ]  /""]",c so  they wait while youre  out  outdoors   ,sv,FEMALE,3
+['they know the house is unlocked  /'],they know the house is unlocked  ,sv,FEMALE,3
+['{c and then } they just slip in.'],c and then  they just slip in,sv,FEMALE,3
+"[""that's amazing. /""]",thats amazing ,ba,MALE,6
+"['slip in, slip out, {d you know. }  /']",slip in slip out d you know   ,+,FEMALE,0
+"[""they know exactly what they're going for. /""]",they know exactly what theyre going for ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"[""{c so, }  i've heard that's really on the rise as # far as # --""]",c so   ive heard thats really on the rise as  far as  ,sd,FEMALE,1
+"['# {f uh, } # /']", f uh   ,b,MALE,2
+"['-- {f uh, } {d you know, } a new type of crime. /']", f uh  d you know  a new type of crime ,+,FEMALE,0
+"['yeah,  /']",yeah  ,aa,MALE,4
+"[""it almost seems like they're getting quite a bit smarter. /""]",it almost seems like theyre getting quite a bit smarter ,sv,MALE,3
+['yeah # <laughter>. # /'],yeah  laughter  ,b,FEMALE,2
+"['# really, {d you know. } # /']", really d you know   ,b,MALE,2
+"['unfortunately, yes. /']",unfortunately yes ,aa,FEMALE,4
+"['yeah,  /']",yeah  ,b,MALE,2
+"[""unfortunately it's starting to really, {d you know, } look at people's habits # and # --""]",unfortunately its starting to really d you know  look at peoples habits  and  ,sv,MALE,3
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- where they are at particular points of the day. /'], where they are at particular points of the day ,+,MALE,0
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""# {d like } # one of the guys i work with really laughs when he looks at minneapolis because he's from detroit -- /""]", d like   one of the guys i work with really laughs when he looks at minneapolis because hes from detroit  ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c and, }  {f uh, } [ the, + the ] crime level there, of course, is [ quite a bit, + quite a bit, ] {f uh, } more pronounced, {f uh } -- /']", c and   f uh   the  the  crime level there of course is  quite a bit  quite a bit  f uh  more pronounced f uh   ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {c but, }  {f uh, } yeah.  /']", c but   f uh  yeah  ,b,MALE,2
+"['i guess, /']",i guess ,%,MALE,5
+"['{e i mean, } -/']",e i mean  ,%,FEMALE,5
+"[""i think we've got a neighborhood watch program here in minneapolis,  /""]",i think weve got a neighborhood watch program here in minneapolis  ,sd,MALE,1
+"[""i'm not real sure.  # {f uh, } # /""]",im not real sure   f uh   ,h,MALE,15
+"['# yeah, #  /']", yeah   ,b,FEMALE,2
+"['it helps to know your neighbors, {d you know. }  /']",it helps to know your neighbors d you know   ,sv,FEMALE,3
+"['they give you, - /']",they give you  ,%,FEMALE,5
+"[""you're supposed to make lists of, {f uh, } cars.  /""]",youre supposed to make lists of f uh  cars  ,sv,FEMALE,3
+"[""{d like } i know a lot of my neighbors  right around my development.  if i see a car that's unfamiliar, [ we, + we ] have a list - /""]",d like  i know a lot of my neighbors  right around my development  if i see a car thats unfamiliar  we  we  have a list  ,sd,FEMALE,1
+"['is that what  [ you, + you ] did in your program?  where you have a list of license plates? /']",is that what   you  you  did in your program  where you have a list of license plates ,qy,FEMALE,7
+['pretty much. /'],pretty much ,na,MALE,21
+['# yeah. # /'], yeah  ,b,FEMALE,2
+['# yeah.  /'], yeah  ,b^m,MALE,24
+"['[  i was, # + i was ] basically, involved in that, in the organization of it. /']",  i was   i was  basically involved in that in the organization of it ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['{c and then } i left right in the middle of it.  /'],c and then  i left right in the middle of it  ,sd,MALE,1
+"[""# i'm not sure # --""]", im not sure  ,sd,MALE,1
+"['# {f oh, } uh-huh. # /']", f oh  uhhuh  ,b,FEMALE,2
+"['-- where we went from there, #  /']", where we went from there   ,+,MALE,0
+"['{c but, }  # -/']",c but    ,%,MALE,5
+['# yeah. #  # {d well. } # /'], yeah    d well   ,b,FEMALE,2
+"['# yeah, #  /']", yeah   ,b^m,MALE,24
+"['[ that, + that ] whole thing of being alert and kind of noticing your surroundings, noticing people who look suspicious --']", that  that  whole thing of being alert and kind of noticing your surroundings noticing people who look suspicious ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"['-- {f uh, } activities like that, # sure. # /']", f uh  activities like that  sure  ,+,MALE,0
+"['# {e i # mean, } [ you, + you ] hate to be paranoid  /']", e i  mean   you  you  hate to be paranoid  ,sv,FEMALE,3
+['{c but } there are really only so many things you can do.  /'],c but  there are really only so many things you can do  ,sv,FEMALE,3
+"['you can have the house alarm, {f uh } --']",you can have the house alarm f uh  ,sv,FEMALE,3
+['yeah. /'],yeah ,b,MALE,2
+"['-- neighborhood watch program, {d you know, } {f uh, } as a woman not go out at night -- /']", neighborhood watch program d you know  f uh  as a woman not go out at night  ,+,FEMALE,0
+['yeah. /'],yeah ,b,MALE,2
+"['-- {f uh, } you can do that which is what i choose to do. /']", f uh  you can do that which is what i choose to do ,sv,FEMALE,3
+['yeah.  /'],yeah  ,aa,MALE,4
+['one of the frustrating things about that is that you really are limited -- /'],one of the frustrating things about that is that you really are limited  ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"['-- # [ even, # + even ] if you know that the threat is there --']",   even   even  if you know that the threat is there ,sv,MALE,3
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+"[""-- it's against the law to set traps,  /""]", its against the law to set traps  ,+,MALE,0
+"[""it's against the law to do a lot of things, {d you know. }  /""]",its against the law to do a lot of things d you know   ,sv,MALE,3
+"['they could basically, {f uh, } <noise> - /']",they could basically f uh  noise  ,%,MALE,5
+"['when i was getting robbed down in florida, i was really considering electrifying doors --']",when i was getting robbed down in florida i was really considering electrifying doors ,sd,MALE,1
+['uh-huh.  /'],uhhuh  ,aa,FEMALE,4
+"[""# that's, # -/""]", thats  ,%,FEMALE,5
+"['-- # <noise> {f um, } # things like that # like # -- /']",  noise f um   things like that  like   ,+,MALE,0
+['# uh-huh. # /'], uhhuh  ,b,FEMALE,2
+['-- they did in miami that time. /'], they did in miami that time ,sd,MALE,1
+"[""{c but } it's not, {f uh, } - /""]",c but  its not f uh   ,%,FEMALE,5
+"[""if you kill someone in your home, as long as they are in your home, it's considered self-defense though. /""]",if you kill someone in your home as long as they are in your home its considered selfdefense though ,sv,FEMALE,3
+"[""that's not always true. /""]",thats not always true ,ar,MALE,28
+"[""it isn't? /""]",it isnt ,bh,FEMALE,18
+['no.  /'],no  ,nn,MALE,13
+"['[  there was a, + there was a ] case about two years ago --']",  there was a  there was a  case about two years ago ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- where a guy knew he was going to get robbed  /'], where a guy knew he was going to get robbed  ,+,MALE,0
+"['{c and } essentially what he had done is set [ [ a, + a ] elec-, + a electrocution ] trap --']",c and  essentially what he had done is set   a  a  elec  a electrocution  trap ,sd,MALE,1
+['uh-huh. /'],uhhuh ,b,FEMALE,2
+['-- for the burglar in his own home. /'], for the burglar in his own home ,+,MALE,0
+['# {f huh. } # /'], f huh   ,b,FEMALE,2
+['# the # guy came in while he was home  /'], the  guy came in while he was home  ,sd,MALE,1
+"['{c and, } sure enough, he fell into the trap and was severely burned.  /']",c and  sure enough he fell into the trap and was severely burned  ,sd,MALE,1
+"[""he didn't die,  /""]",he didnt die  ,sd,MALE,1
+['{c but } he was severely burned  /'],c but  he was severely burned  ,sd,MALE,1
+['{c and } he took the guy to court and won a settlement. /'],c and  he took the guy to court and won a settlement ,sd,MALE,1
+['really. /'],really ,bh,FEMALE,18
+['yeah.  /'],yeah  ,ny,MALE,9
+"['{c so } [ that really, + that ] makes you think, {d you know. } /']",c so   that really  that  makes you think d you know  ,sv,MALE,3
+['# yeah. # /'], yeah  ,b,FEMALE,2
+"[""# it's # like your hands are [ re-, +  very ] much tied. /""]", its  like your hands are  re   very  much tied ,sv,MALE,3
+['yeah.  /'],yeah  ,aa,FEMALE,4
+"[""{d well } i think [ if, + if ] you had [ ha-, + ] a handgun though,  in other words it wasn't premeditated,  you had a handgun,  it's the middle of the night,  someone's down-, -/""]",d well  i think  if  if  you had  ha   a handgun though  in other words it wasnt premeditated  you had a handgun  its the middle of the night  someones down ,sv,FEMALE,3
