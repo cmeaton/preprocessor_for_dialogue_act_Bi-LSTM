@@ -45,6 +45,10 @@ $ python HBLSTM-CRF.py
 - Pandas
 - Numpy
 
+### Notes:
+  - 10/07/2019: The model runs properly on the first 4 transcripts. Aside from this, any combination of transcripts in the data set (regardless of specific transcript files, training size, and batchSize). Have not been able to solve this issue.
+  - **GOAL:** Train the model using 70% for training, 20% for development, and 10% for testing.
+
 
 
 
